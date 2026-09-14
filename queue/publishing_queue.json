@@ -1,0 +1,15 @@
+{
+  "description": "投稿ステータス管理（Publishing Queue）。SNS投稿ツール（Metricool等）が未接続のため、READY/SCHEDULEDまでをここで保持する（原則24）。",
+  "connected_publishing_tool": null,
+  "entries": [
+    {
+      "post_id": "2026-09-14-hotel-gyokusen",
+      "post_path": "posts/2026-09-14-hotel-gyokusen/post.json",
+      "status": "NEEDS_ASSET_APPROVAL",
+      "planned_date": "2026-09-17",
+      "planned_time": "19:30",
+      "platform": ["Instagram", "TikTok"],
+      "blocked_reason": "画像の転載権限が個別確認できていないため READY に進めない（原則12）。"
+    }
+  ]
+}

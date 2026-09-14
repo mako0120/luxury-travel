@@ -1,0 +1,140 @@
+{
+  "id": "2026-09-14-hotel-gyokusen",
+  "candidate_id": "2026-09-14-hotel-gyokusen",
+  "region": "島根県松江市（玉造温泉）",
+  "category": "温泉旅館",
+  "status": "NEEDS_ASSET_APPROVAL",
+  "status_history": [
+    { "status": "RESEARCHING", "date": "2026-09-14", "note": "秋の温泉旅館テーマで3候補をWeb調査（曲水の庭ホテル玉泉／界玉造／あかん遊久の里鶴雅）。" },
+    { "status": "DRAFT", "date": "2026-09-14", "note": "曲水の庭ホテル玉泉（score 82点）をBEST候補として選定し、カルーセル構成・キャプション草稿を作成。" },
+    { "status": "FACT_CHECKED", "date": "2026-09-14", "note": "楽天トラベル（4.56/1,499件）、ゆこゆこ（85/100点・12件）、公式サイトrenewal2025ページ、じゃらん、JTBの計5情報源で口コミ評価・2025年リニューアル内容・料金レンジ・アクセスを裏取り。低評価レビューも確認し重大な除外事由なしと判断。" },
+    { "status": "NEEDS_ASSET_APPROVAL", "date": "2026-09-14", "note": "本セッションのネットワーク環境では公式サイト・観光協会サイトへの直接アクセスが遮断され、個別画像の転載権限を1枚ずつ確認できなかった。原則12に従い、権利確認が取れるまでREADYに進めない。" }
+  ],
+  "facility_overview": "島根県松江市・玉造温泉にある『曲水の庭 ホテル玉泉』。開湯以来千年以上とされる『美肌の湯』を檜風呂・岩風呂の2つの大浴場で楽しめ、朝夕で男女の湯が入れ替わる。庭園『曲水の庭』を望む館内は、開業60周年にあたる2025年に客室76室と大浴場を全面リニューアルした。",
+  "recommendation_reasons": [
+    "楽天トラベルで1,499件という厚みのある口コミ母数のうえで4.56という高評価を獲得しており、少数レビューによる偏りが起きにくい。",
+    "2025年の全面リニューアルという明確な『今、行く理由』がある。",
+    "『曲水の庭』という庭園ビジュアルは、同じ玉造温泉エリアの他宿と一線を画す映えポイントになる。",
+    "出雲神話の地・縁結びの湯として知られる玉造温泉という、記念日・夫婦旅の文脈に強いロケーション。"
+  ],
+  "evaluation_basis": "100点満点中82点（口コミ評価23/25・口コミ信頼性14/15・独自体験15/20・映え11/15・価格対体験価値8/10・SNS話題性6/10・アクセス/鮮度5/5）。主要レビューサイト評価4.56（推奨ライン4.2を上回る）、口コミ件数1,499件。低評価レビューも確認したが、清潔感・接客・設備老朽化に関する重大な複数指摘はなし。",
+  "target_audience": ["夫婦", "記念日", "温泉好き", "女子旅"],
+  "why_now": "9月中旬は10〜11月の紅葉シーズンに向けて秋旅行を検討し始める時期。2025年の全面リニューアルという情報の新しさも重なり、『今すぐ調べて予約候補に入れたい宿』として投稿する適期と判断した。",
+  "image_candidates": [
+    {
+      "order": 1,
+      "description": "庭園『曲水の庭』を望む館内・外観カット（1枚目＝最重要。『どこ？行きたい』を狙う）",
+      "source_priority": "official_press",
+      "url_or_location": "施設公式サイト（hotel-gyokusen.co.jp）のフォト／プレスページを想定。本セッションのネットワーク制限により該当ページへ直接アクセスできず、個別画像URLと利用条件を確認できていない。",
+      "copyright_holder": "曲水の庭 ホテル玉泉（未確認）",
+      "credit_required": true,
+      "usage_rights_confirmed": false,
+      "checked_date": "2026-09-14",
+      "rights_status": "unconfirmed_needs_approval"
+    },
+    {
+      "order": 2,
+      "description": "2025年リニューアル後の大浴場（檜風呂または岩風呂）",
+      "source_priority": "official_press",
+      "url_or_location": "公式サイト『renewal2025』ページ想定。同上の理由でアクセス不可、画像URL未取得。",
+      "copyright_holder": "曲水の庭 ホテル玉泉（未確認）",
+      "credit_required": true,
+      "usage_rights_confirmed": false,
+      "checked_date": "2026-09-14",
+      "rights_status": "unconfirmed_needs_approval"
+    },
+    {
+      "order": 3,
+      "description": "2025年リニューアル客室（和室ガーデンデラックス等）",
+      "source_priority": "official_press",
+      "url_or_location": "公式サイトまたは主要予約サイト（じゃらん／楽天トラベル）掲載の宿泊施設提供写真を想定。転載条件は予約サイトごとに異なるため個別確認が必要。",
+      "copyright_holder": "曲水の庭 ホテル玉泉（未確認）",
+      "credit_required": true,
+      "usage_rights_confirmed": false,
+      "checked_date": "2026-09-14",
+      "rights_status": "unconfirmed_needs_approval"
+    },
+    {
+      "order": 4,
+      "description": "庭園の回遊路・水辺のクローズアップ",
+      "source_priority": "tourism_board",
+      "url_or_location": "松江観光協会 玉造温泉支部（たまなび / tamayado.com）掲載素材を想定。本セッションでは当該ドメインへのアクセスが遮断され未確認。",
+      "copyright_holder": "松江観光協会または施設（未確認）",
+      "credit_required": true,
+      "usage_rights_confirmed": false,
+      "checked_date": "2026-09-14",
+      "rights_status": "unconfirmed_needs_approval"
+    },
+    {
+      "order": 5,
+      "description": "会席料理の一皿（地元食材）",
+      "source_priority": "official_press",
+      "url_or_location": "公式サイトの料理ページを想定。未アクセス・未確認。",
+      "copyright_holder": "曲水の庭 ホテル玉泉（未確認）",
+      "credit_required": true,
+      "usage_rights_confirmed": false,
+      "checked_date": "2026-09-14",
+      "rights_status": "unconfirmed_needs_approval"
+    },
+    {
+      "order": 6,
+      "description": "館内ラウンジまたは客室からの夜景・灯り",
+      "source_priority": "official_press",
+      "url_or_location": "公式サイトを想定。未アクセス・未確認。",
+      "copyright_holder": "曲水の庭 ホテル玉泉（未確認）",
+      "credit_required": true,
+      "usage_rights_confirmed": false,
+      "checked_date": "2026-09-14",
+      "rights_status": "unconfirmed_needs_approval"
+    },
+    {
+      "order": 7,
+      "description": "タイトル背景・装飾用（アクセス/価格スライド用の非実写イメージ）",
+      "source_priority": "ai_generated_decorative",
+      "url_or_location": "実在の客室・温泉・料理を誤認させない、抽象的な和柄・庭園シルエット等の装飾背景としてAI生成する想定（原則13）。",
+      "copyright_holder": "N/A（AI生成・装飾用途限定）",
+      "credit_required": false,
+      "usage_rights_confirmed": true,
+      "checked_date": "2026-09-14",
+      "rights_status": "ai_generated_decorative_only"
+    }
+  ],
+  "carousel": [
+    { "slide": 1, "role": "最も強い写真＋強いタイトル", "image_ref": 1, "copy": "千年の名湯に、庭を望む宿。" },
+    { "slide": 2, "role": "ここ何がすごいの？", "image_ref": 2, "copy": "開業60周年の2025年、客室76室と大浴場を全面リニューアル。" },
+    { "slide": 3, "role": "一番魅力的な体験", "image_ref": 2, "copy": "千年以上湧き続ける『美肌の湯』。檜と岩、朝夕で男女入れ替わる2つの湯。" },
+    { "slide": 4, "role": "客室", "image_ref": 3, "copy": "和の美と新しい機能性をまとった、リニューアル客室。" },
+    { "slide": 5, "role": "ここでしかできないポイント", "image_ref": 4, "copy": "縁結びの湯・玉造温泉で、庭園『曲水の庭』を歩く時間。" },
+    { "slide": 6, "role": "おすすめ利用シーン", "image_ref": 5, "copy": "記念日の夫婦旅、気の置けない友人との女子旅に。" },
+    { "slide": 7, "role": "価格・アクセスなど", "image_ref": 7, "copy": "JR玉造温泉駅から車で約5分。プランは2名15,400円〜／1名（税込・変動あり）。" },
+    { "slide": 8, "role": "保存CTA", "image_ref": 6, "copy": "秋の旅行先、ここに決めてもいいかもしれない。保存して、次の休みの候補に。" }
+  ],
+  "cover_copy_ab_test": {
+    "variant_a": "千年の名湯に、庭を望む宿。",
+    "variant_b": "2025年、生まれ変わった玉造温泉の宿。"
+  },
+  "captions": {
+    "instagram": "千年以上、美肌の湯と呼ばれてきた玉造温泉に、2025年生まれ変わった宿があります。\n\n📍島根県松江市／玉造温泉「曲水の庭 ホテル玉泉」\n\n開業60周年にあたる2025年、客室76室と大浴場を全面リニューアル。檜風呂と岩風呂、朝夕で男女が入れ替わる2つの『美肌の湯』、そして庭園『曲水の庭』を望む館内が魅力です。\n\n楽天トラベルの口コミは1,499件で4.56（2026年9月時点）と、件数・評価ともに安定しているのも安心材料。\n\n✔️おすすめの人：記念日の夫婦旅／女子旅／温泉好き\n✔️目安：2名利用時 1名15,400円〜（税込・プラン/時期により変動、予約前に要確認）\n✔️アクセス：JR玉造温泉駅から車で約5分\n\n※価格・プラン内容は変動するため、予約時に公式サイト・予約サイトで最新情報をご確認ください。\n※本投稿は実際の宿泊レポートではなく、口コミ・公式情報をもとに構成した旅行メディア型の紹介です。\n\n秋の旅行候補に、保存しておいて。\n\n#PR ではありません（情報リサーチに基づく紹介投稿）",
+    "tiktok": "玉造温泉、2025年に生まれ変わった宿知ってる？🏞️\n『曲水の庭 ホテル玉泉』、開業60周年で客室76室と大浴場を全面リニューアル。\n千年続く美肌の湯を、檜と岩の2つの湯で。朝夕で男女入れ替えあり。\n楽天トラベル口コミ1,499件で4.56の高評価。\n記念日旅行や女子旅の候補に、保存しておこう。"
+  },
+  "hashtags": [
+    "#玉造温泉", "#ホテル玉泉", "#島根旅行", "#松江観光", "#美肌の湯",
+    "#温泉旅館", "#記念日旅行", "#夫婦旅", "#女子旅", "#秋旅行",
+    "#国内旅行", "#贅沢旅", "#温泉好きな人と繋がりたい"
+  ],
+  "schedule": {
+    "planned_date": "2026-09-17",
+    "planned_time": "19:30",
+    "platform": ["Instagram", "TikTok"],
+    "rationale": "初期値として週3投稿ペースを想定し、平日夜（帰宅後にSNSを見る時間帯）を初回投稿時間の仮説として設定。投稿実績が蓄積し次第、analytics/を参照して曜日・時間を最適化する（原則25・27）。"
+  },
+  "sources": [
+    { "type": "review_site", "title": "楽天トラベル 曲水の庭 ホテル玉泉 クチコミ", "url": "https://travel.rakuten.co.jp/HOTEL/106267/review.html" },
+    { "type": "review_site", "title": "曲水の庭 ホテル玉泉 の口コミ - ゆこゆこ", "url": "https://www.yukoyuko.net/3203/kuchikomi" },
+    { "type": "booking_site", "title": "曲水の庭 ホテル玉泉 - じゃらんnet", "url": "https://www.jalan.net/yad331176/" },
+    { "type": "review_site", "title": "曲水の庭 ホテル玉泉 口コミ・おすすめコメント - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/7323010/review/" },
+    { "type": "official", "title": "ホテル玉泉 2025年 客室74室を全面リニューアルいたしました", "url": "https://www.hotel-gyokusen.co.jp/renewal2025/" },
+    { "type": "official", "title": "アクセス | 玉造温泉 曲水の庭 ホテル玉泉 公式", "url": "https://www.hotel-gyokusen.co.jp/access/" }
+  ],
+  "created_date": "2026-09-14"
+}
