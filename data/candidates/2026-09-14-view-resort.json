@@ -14,16 +14,15 @@
       "category": "温泉旅館",
       "is_hidden_gem": false,
       "review_scores": [
-        { "source": "楽天トラベル", "score": 4.55, "scale": 5, "review_count": 2350, "checked_date": "2026-09-14", "url": "https://travel.rakuten.co.jp/HOTEL/50826/review.html" },
-        { "source": "OZmallアワード2026（口コミランキング）", "score": null, "scale": null, "review_count": null, "checked_date": "2026-09-14", "url": "https://www.ozmall.co.jp/travel/stay/280/" }
+        { "source": "楽天トラベル", "score": 4.55, "scale": 5, "review_count": 2350, "checked_date": "2026-09-14", "url": "https://travel.rakuten.co.jp/HOTEL/50826/review.html" }
       ],
       "price_range_jpy": {
         "note": "外部比較サイトで38,676円〜の表示を確認（1名あたりか2名1室総額かは要確認）。",
         "as_of_search_date": "2026-09-14",
         "disclaimer": "価格は検索日・対象日・プランにより変動する"
       },
-      "unique_experience": "小涌谷温泉・宮ノ下温泉の2源泉、大浴場4つ・貸切露天風呂3つ（若竹の湯／柊の湯／楓の湯）の計13の湯めぐりが可能。2025年4月に全客室・食事処を含め全面リニューアルし、温泉露天風呂付き客室が新登場。",
-      "renewal_or_news": "2025年4月1日、共立リゾートが全面リニューアルオープン。OZmallアワード2026で口コミ9位を獲得。",
+      "unique_experience": "小涌谷温泉・宮ノ下温泉の2源泉、大浴場4つ・貸切露天風呂3つ（若竹の湯／柊の湯／楓の湯）を含む湯めぐりが可能（検索結果に『13の湯』という記載もあったが、内訳が4+3=7と一致せず出典を再確認できなかったため、対外的な数字としては採用しない）。2025年4月に全客室・食事処を含め全面リニューアルし、温泉露天風呂付き客室が新登場。",
+      "renewal_or_news": "2025年4月1日、共立リゾートが全面リニューアルオープン。OZmallアワード2026で口コミ9位を獲得（件数非公開のため参考情報扱い）。",
       "target_audience": ["家族", "夫婦", "記念日", "温泉好き"],
       "score_breakdown": {
         "review_rating": 23,
@@ -56,8 +55,7 @@
       "category": "絶景ホテル",
       "is_hidden_gem": false,
       "review_scores": [
-        { "source": "ニフティ温泉", "score": 3.0, "scale": 5, "review_count": 3, "checked_date": "2026-09-14", "url": "https://onsen.nifty.com/unaduki-onsen/onsen005161/kuchikomi/" },
-        { "source": "JTBお客様アンケート", "score": 77, "scale": 100, "review_count": null, "checked_date": "2026-09-14", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/5307007/review/" }
+        { "source": "ニフティ温泉", "score": 3.0, "scale": 5, "review_count": 3, "checked_date": "2026-09-14", "url": "https://onsen.nifty.com/unaduki-onsen/onsen005161/kuchikomi/" }
       ],
       "price_range_jpy": {
         "note": "楽天トラベル掲載プランを確認したが具体的金額は今回のセッションでは取得できず。",
@@ -76,7 +74,7 @@
         "access_and_freshness": 3
       },
       "score": 48,
-      "recommendation_reason": "黒部峡谷の眺望という体験自体は魅力的だが、確認できた口コミが3件のみと母数が極端に少なく、信頼度を評価できない。",
+      "recommendation_reason": "黒部峡谷の眺望という体験自体は魅力的だが、確認できた口コミが3件のみと母数が極端に少なく、信頼度を評価できない（JTBお客様アンケートでは77点／100点満点という参考値もあるが、件数が非公開のため信頼度の判断には使えない）。",
       "negative_review_check": {
         "checked": true,
         "findings": "低評価レビューの具体的な内容までは確認できなかったが、母数の少なさ自体がリスク。",

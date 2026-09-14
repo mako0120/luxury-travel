@@ -56,7 +56,8 @@
       "sources": [
         { "type": "review_site", "title": "楽天トラベル 曲水の庭 ホテル玉泉 クチコミ", "url": "https://travel.rakuten.co.jp/HOTEL/106267/review.html" },
         { "type": "booking_site", "title": "曲水の庭 ホテル玉泉 - じゃらんnet", "url": "https://www.jalan.net/yad331176/" },
-        { "type": "official", "title": "ホテル玉泉 2025年 客室74室を全面リニューアル", "url": "https://www.hotel-gyokusen.co.jp/renewal2025/" },
+        { "type": "official", "title": "ホテル玉泉 公式サイト『2025年リニューアル』ページ", "url": "https://www.hotel-gyokusen.co.jp/renewal2025/" },
+        { "type": "press", "title": "【創業60周年】ホテル玉泉が大規模リニューアル。客室76室（全124室中）＆大浴場を刷新 - PR TIMES公式プレスリリース", "url": "https://prtimes.jp/main/html/rd/p/000000001.000164733.html" },
         { "type": "official", "title": "アクセス | 玉造温泉 曲水の庭 ホテル玉泉 公式", "url": "https://www.hotel-gyokusen.co.jp/access/" },
         { "type": "review_site", "title": "曲水の庭 ホテル玉泉 クチコミ - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/7323010/review/" }
       ],
@@ -69,7 +70,6 @@
       "category": "温泉旅館",
       "is_hidden_gem": false,
       "review_scores": [
-        { "source": "Googleホテル", "score": 4.5, "scale": 5, "review_count": null, "checked_date": "2026-09-14", "url": "https://www.google.co.jp/travel/hotels/entity/ChgIsY6B5I238cyvARoLL2cvMXRtMHFfbXYQAQ" },
         { "source": "Tripadvisor", "score": 4.4, "scale": 5, "review_count": 240, "checked_date": "2026-09-14", "url": "https://www.tripadvisor.jp/ShowUserReviews-g298136-d1093830-r313239137-Hoshino_Resorts_KAI_Tamatsukuri-Matsue_Shimane_Prefecture_Chugoku.html" }
       ],
       "price_range_jpy": {
@@ -90,7 +90,7 @@
         "access_and_freshness": 4
       },
       "score": 83,
-      "recommendation_reason": "全室露天風呂付客室という体験の独自性が高く、星野リゾート『界』ブランドとしてのSNS話題性・世界観も強い。",
+      "recommendation_reason": "全室露天風呂付客室という体験の独自性が高く、星野リゾート『界』ブランドとしてのSNS話題性・世界観も強い。Googleホテル評価は4.5（件数は今回のセッションでは確認できず参考値扱い）。",
       "negative_review_check": {
         "checked": true,
         "findings": "Tripadvisorに『料金は一流、中身は三流』という見出しの低評価レビューを確認。価格に対する体験価値への不満が一部に存在する可能性があり、value_for_priceの採点を抑えた。ただし全体評価は4.4〜4.5を維持しており、重大な清潔感・接客トラブルの複数確認には至らなかった。",

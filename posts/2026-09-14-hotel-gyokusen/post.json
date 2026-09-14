@@ -8,7 +8,8 @@
     { "status": "RESEARCHING", "date": "2026-09-14", "note": "秋の温泉旅館テーマで3候補をWeb調査（曲水の庭ホテル玉泉／界玉造／あかん遊久の里鶴雅）。" },
     { "status": "DRAFT", "date": "2026-09-14", "note": "曲水の庭ホテル玉泉（score 82点）をBEST候補として選定し、カルーセル構成・キャプション草稿を作成。" },
     { "status": "FACT_CHECKED", "date": "2026-09-14", "note": "楽天トラベル（4.56/1,499件）、ゆこゆこ（85/100点・12件）、公式サイトrenewal2025ページ、じゃらん、JTBの計5情報源で口コミ評価・2025年リニューアル内容・料金レンジ・アクセスを裏取り。低評価レビューも確認し重大な除外事由なしと判断。" },
-    { "status": "NEEDS_ASSET_APPROVAL", "date": "2026-09-14", "note": "本セッションのネットワーク環境では公式サイト・観光協会サイトへの直接アクセスが遮断され、個別画像の転載権限を1枚ずつ確認できなかった。原則12に従い、権利確認が取れるまでREADYに進めない。" }
+    { "status": "NEEDS_ASSET_APPROVAL", "date": "2026-09-14", "note": "本セッションのネットワーク環境では公式サイト・観光協会サイトへの直接アクセスが遮断され、個別画像の転載権限を1枚ずつ確認できなかった。原則12に従い、権利確認が取れるまでREADYに進めない。" },
+    { "status": "NEEDS_ASSET_APPROVAL", "date": "2026-09-14", "note": "レビューで、社内の情報源同士がリニューアル客室数を『76室』（複数箇所での記述）と『74室』（公式サイトrenewal2025ページのタイトル文言）で矛盾させている指摘を受け再調査。PR TIMES公式プレスリリース（会社名義、company_id 164733）で『客室76室』かつ『全124室のうち約60%』という記述を確認し、76/124≈60%で内部整合することから76室を正としてsources・本文を修正。renewal2025ページの実際のURLは変更していないが、sources内のタイトル表記は誤解を招くため修正した。画像権利の未確認状態は変わらず。" }
   ],
   "facility_overview": "島根県松江市・玉造温泉にある『曲水の庭 ホテル玉泉』。開湯以来千年以上とされる『美肌の湯』を檜風呂・岩風呂の2つの大浴場で楽しめ、朝夕で男女の湯が入れ替わる。庭園『曲水の庭』を望む館内は、開業60周年にあたる2025年に客室76室と大浴場を全面リニューアルした。",
   "recommendation_reasons": [
@@ -133,7 +134,8 @@
     { "type": "review_site", "title": "曲水の庭 ホテル玉泉 の口コミ - ゆこゆこ", "url": "https://www.yukoyuko.net/3203/kuchikomi" },
     { "type": "booking_site", "title": "曲水の庭 ホテル玉泉 - じゃらんnet", "url": "https://www.jalan.net/yad331176/" },
     { "type": "review_site", "title": "曲水の庭 ホテル玉泉 口コミ・おすすめコメント - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/7323010/review/" },
-    { "type": "official", "title": "ホテル玉泉 2025年 客室74室を全面リニューアルいたしました", "url": "https://www.hotel-gyokusen.co.jp/renewal2025/" },
+    { "type": "official", "title": "ホテル玉泉 公式サイト『2025年リニューアル』ページ", "url": "https://www.hotel-gyokusen.co.jp/renewal2025/" },
+    { "type": "press", "title": "【創業60周年】ホテル玉泉が大規模リニューアル。客室76室（全124室中）＆大浴場を刷新 - PR TIMES公式プレスリリース", "url": "https://prtimes.jp/main/html/rd/p/000000001.000164733.html" },
     { "type": "official", "title": "アクセス | 玉造温泉 曲水の庭 ホテル玉泉 公式", "url": "https://www.hotel-gyokusen.co.jp/access/" }
   ],
   "created_date": "2026-09-14"
