@@ -36,6 +36,12 @@ POST_REQUIRED = [
     "sources", "created_date", "region", "category",
 ]
 
+CAPTION_BRIEF_REQUIRED = [
+    "id", "candidate_id", "region", "category", "facility_overview",
+    "recommendation_reasons", "evaluation_basis", "target_audience", "why_now",
+    "captions", "hashtags", "sources", "created_date",
+]
+
 
 def err(errors, path, msg):
     errors.append(f"{path}: {msg}")
@@ -164,12 +170,31 @@ def validate_post_file(path):
     return errors
 
 
+def validate_caption_brief_file(path):
+    errors = []
+    data = json.loads(path.read_text())
+    cid = data.get("id", "<no id>")
+    for field in CAPTION_BRIEF_REQUIRED:
+        if field not in data:
+            err(errors, path, f"[{cid}] 必須項目 '{field}' がありません")
+    captions = data.get("captions", {})
+    if not captions.get("instagram") or not captions.get("tiktok"):
+        err(errors, path, f"[{cid}] captions.instagram / captions.tiktok が両方とも必要です")
+    if len(data.get("sources", [])) < 2:
+        err(errors, path, f"[{cid}] sourcesは2件以上必要です（原則7）")
+    return errors
+
+
 def main():
     all_errors = []
     for path in sorted((ROOT / "data" / "candidates").glob("*.json")):
         all_errors.extend(validate_candidate_file(path))
     for path in sorted((ROOT / "posts").glob("*/post.json")):
         all_errors.extend(validate_post_file(path))
+    captions_dir = ROOT / "captions"
+    if captions_dir.exists():
+        for path in sorted(captions_dir.glob("*.json")):
+            all_errors.extend(validate_caption_brief_file(path))
 
     if all_errors:
         print(f"NG: {len(all_errors)}件の問題が見つかりました\n")
