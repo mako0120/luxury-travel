@@ -1,0 +1,138 @@
+{
+  "id": "2026-09-20-mizu-no-oto",
+  "candidate_id": "2026-09-14-mizu-no-oto",
+  "region": "神奈川県足柄下郡箱根町（小涌谷）",
+  "category": "温泉旅館",
+  "status": "NEEDS_ASSET_APPROVAL",
+  "status_history": [
+    { "status": "RESEARCHING", "date": "2026-09-14", "note": "第2サイクル。絶景ホテル／グランピング／温泉旅館の3候補を調査（ホテル桃源／SORA GLAMPING RESORT／水の音）。" },
+    { "status": "DRAFT", "date": "2026-09-14", "note": "水の音（共立リゾート）（score 87点）をBEST候補として選定。他2候補は口コミ母数不足で不採用。カテゴリが前回投稿（温泉旅館・玉造温泉）と重複する点を承知の上での選定。" },
+    { "status": "FACT_CHECKED", "date": "2026-09-14", "note": "楽天トラベル（4.55/2,350件）、公式サイト（2025年4月リニューアル告知）、じゃらん、OZmallの計4情報源で口コミ評価・リニューアル内容・アクセスを裏取り。低評価レビュー（食事量・送迎案内・隣室音・サウナの狭さ）も確認したが重大な除外事由なしと判断。" },
+    { "status": "NEEDS_ASSET_APPROVAL", "date": "2026-09-14", "note": "本セッションのネットワーク環境では公式サイト・じゃらん等への直接アクセスが遮断され、個別画像の転載権限を確認できなかった。原則12に従いREADYに進めない。" }
+  ],
+  "facility_overview": "神奈川県箱根町・小涌谷にある『箱根小涌谷温泉 水の音（共立リゾート）』。小涌谷温泉と宮ノ下温泉の2つの源泉を持ち、大浴場4つ・貸切露天風呂3つ（若竹の湯／柊の湯／楓の湯）の計13の湯めぐりが楽しめる。2025年4月に全客室・食事処を含め全面リニューアルし、温泉露天風呂付き客室も新登場した。",
+  "recommendation_reasons": [
+    "楽天トラベルで2,350件という非常に厚い口コミ母数のうえで4.55という高評価を獲得しており、信頼度が極めて高い。",
+    "2025年4月の全面リニューアルという明確な『今、行く理由』がある。",
+    "小涌谷駅から徒歩圏という箱根屈指のアクセスの良さで、東京圏からの週末・記念日旅行の受け皿になる。",
+    "貸切露天風呂3種を含む『13の湯めぐり』は、一度の滞在で複数の湯を楽しみたい層に強く刺さる独自体験。"
+  ],
+  "evaluation_basis": "100点満点中87点（口コミ評価23/25・口コミ信頼性15/15・独自体験17/20・映え12/15・価格対体験価値7/10・SNS話題性8/10・アクセス/鮮度5/5）。主要レビューサイト評価4.55（推奨ライン4.2を上回る）、口コミ件数2,350件。低評価レビューも確認したが、重大な複数指摘はなし。",
+  "target_audience": ["家族", "夫婦", "記念日", "温泉好き"],
+  "why_now": "10月中旬から見頃を迎える箱根の紅葉シーズンに向けて、今のうちに保存・予約検討してもらう狙い。2025年4月の全面リニューアルという情報の新しさも重なる。",
+  "image_candidates": [
+    {
+      "order": 1,
+      "description": "リニューアルされた大浴場または貸切露天風呂の外観カット（1枚目＝最重要）",
+      "source_priority": "official_press",
+      "url_or_location": "施設公式サイト（dormy-hotels.com/resort/hotels/mizunoto/）のフォト／プレスページを想定。本セッションのネットワーク制限により未確認。",
+      "copyright_holder": "水の音（共立リゾート）（未確認）",
+      "credit_required": true,
+      "usage_rights_confirmed": false,
+      "checked_date": "2026-09-14",
+      "rights_status": "unconfirmed_needs_approval"
+    },
+    {
+      "order": 2,
+      "description": "貸切露天風呂3種（若竹の湯／柊の湯／楓の湯）のいずれか",
+      "source_priority": "official_press",
+      "url_or_location": "公式サイト『温泉』ページを想定。未確認。",
+      "copyright_holder": "水の音（共立リゾート）（未確認）",
+      "credit_required": true,
+      "usage_rights_confirmed": false,
+      "checked_date": "2026-09-14",
+      "rights_status": "unconfirmed_needs_approval"
+    },
+    {
+      "order": 3,
+      "description": "新登場の温泉露天風呂付き客室",
+      "source_priority": "official_press",
+      "url_or_location": "公式サイトまたは主要予約サイト掲載の施設提供写真を想定。個別確認が必要。",
+      "copyright_holder": "水の音（共立リゾート）（未確認）",
+      "credit_required": true,
+      "usage_rights_confirmed": false,
+      "checked_date": "2026-09-14",
+      "rights_status": "unconfirmed_needs_approval"
+    },
+    {
+      "order": 4,
+      "description": "大浴場（4つのうち1つ）の湯めぐりを感じさせるカット",
+      "source_priority": "official_press",
+      "url_or_location": "公式サイトを想定。未確認。",
+      "copyright_holder": "水の音（共立リゾート）（未確認）",
+      "credit_required": true,
+      "usage_rights_confirmed": false,
+      "checked_date": "2026-09-14",
+      "rights_status": "unconfirmed_needs_approval"
+    },
+    {
+      "order": 5,
+      "description": "リニューアルされた食事処または料理の一皿",
+      "source_priority": "official_press",
+      "url_or_location": "公式サイトを想定。未確認。",
+      "copyright_holder": "水の音（共立リゾート）（未確認）",
+      "credit_required": true,
+      "usage_rights_confirmed": false,
+      "checked_date": "2026-09-14",
+      "rights_status": "unconfirmed_needs_approval"
+    },
+    {
+      "order": 6,
+      "description": "小涌谷の紅葉・自然を感じさせる館外カット",
+      "source_priority": "tourism_board",
+      "url_or_location": "箱根町観光協会等の公式素材を想定。未確認。",
+      "copyright_holder": "箱根町観光協会または施設（未確認）",
+      "credit_required": true,
+      "usage_rights_confirmed": false,
+      "checked_date": "2026-09-14",
+      "rights_status": "unconfirmed_needs_approval"
+    },
+    {
+      "order": 7,
+      "description": "タイトル背景・装飾用（アクセス/価格スライド用の非実写イメージ）",
+      "source_priority": "ai_generated_decorative",
+      "url_or_location": "実在の客室・温泉・料理を誤認させない、抽象的な和柄・湯けむりシルエット等の装飾背景としてAI生成する想定（原則13）。",
+      "copyright_holder": "N/A（AI生成・装飾用途限定）",
+      "credit_required": false,
+      "usage_rights_confirmed": true,
+      "checked_date": "2026-09-14",
+      "rights_status": "ai_generated_decorative_only"
+    }
+  ],
+  "carousel": [
+    { "slide": 1, "role": "最も強い写真＋強いタイトル", "image_ref": 1, "copy": "13の湯めぐり、生まれ変わった箱根の宿。" },
+    { "slide": 2, "role": "ここ何がすごいの？", "image_ref": 1, "copy": "2025年4月、全客室・食事処までまるごと全面リニューアル。" },
+    { "slide": 3, "role": "一番魅力的な体験", "image_ref": 2, "copy": "小涌谷と宮ノ下、2つの源泉。大浴場4つ＋貸切露天風呂3つ＝13の湯めぐり。" },
+    { "slide": 4, "role": "客室", "image_ref": 3, "copy": "新登場、温泉露天風呂付き客室という選択肢。" },
+    { "slide": 5, "role": "ここでしかできないポイント", "image_ref": 4, "copy": "若竹の湯、柊の湯、楓の湯。気分で選べる貸切露天風呂。" },
+    { "slide": 6, "role": "おすすめ利用シーン", "image_ref": 5, "copy": "子連れファミリーの温泉旅、夫婦の記念日に。" },
+    { "slide": 7, "role": "価格・アクセスなど", "image_ref": 7, "copy": "箱根登山鉄道 小涌谷駅から徒歩圏。東京から日帰り圏の非日常。" },
+    { "slide": 8, "role": "保存CTA", "image_ref": 6, "copy": "紅葉シーズンの箱根、湯めぐり目的で予約してもいいかもしれない。保存して、次の週末の候補に。" }
+  ],
+  "cover_copy_ab_test": {
+    "variant_a": "13の湯めぐり、生まれ変わった箱根の宿。",
+    "variant_b": "2025年、全面リニューアルした箱根の温泉リゾート。"
+  },
+  "captions": {
+    "instagram": "箱根に、13の湯をめぐれる宿があります。\n\n📍神奈川県箱根町・小涌谷／箱根小涌谷温泉「水の音」（共立リゾート）\n\n2025年4月、全客室と食事処を含めて全面リニューアル。小涌谷温泉・宮ノ下温泉の2源泉を、大浴場4つと貸切露天風呂3つ（若竹の湯／柊の湯／楓の湯）でめぐれます。温泉露天風呂付き客室も新登場。\n\n楽天トラベルの口コミは2,350件で4.55（2026年9月時点）と、母数・評価ともに安定した高評価です。\n\n✔️おすすめの人：家族旅行／記念日の夫婦旅／温泉好き\n✔️目安：38,676円〜（外部比較サイト表示・税・プラン/時期により変動、予約前に要確認）\n✔️アクセス：箱根登山鉄道 小涌谷駅から徒歩圏\n\n※価格・プラン内容は変動するため、予約時に公式サイト・予約サイトで最新情報をご確認ください。\n※本投稿は実際の宿泊レポートではなく、口コミ・公式情報をもとに構成した旅行メディア型の紹介です。\n\n紅葉シーズンの箱根、保存しておいて。",
+    "tiktok": "箱根に13の湯をめぐれる宿があるって知ってた？♨️\n『水の音』（共立リゾート）、2025年4月に全客室まるごとリニューアル。\n大浴場4つ＋貸切露天風呂3つで、2つの源泉をめぐれる。\n楽天トラベル口コミ2,350件で4.55の高評価。\n紅葉シーズンの箱根旅、保存しておこう。"
+  },
+  "hashtags": [
+    "#箱根温泉", "#水の音", "#箱根旅行", "#小涌谷温泉", "#貸切露天風呂",
+    "#温泉旅館", "#家族旅行", "#記念日旅行", "#紅葉旅行", "#秋旅行",
+    "#国内旅行", "#贅沢旅", "#箱根グルメ"
+  ],
+  "schedule": {
+    "planned_date": "2026-09-20",
+    "planned_time": "08:00",
+    "platform": ["Instagram", "TikTok"],
+    "rationale": "1件目（9/17 19:30・平日夜）とは異なる曜日・時間帯（週末朝）に投稿することで、原則28に沿ったA/Bデータを蓄積する。日曜朝は次の休みの旅行先を探すタイミングとして仮説を立てた。"
+  },
+  "sources": [
+    { "type": "review_site", "title": "水の音（共立リゾート）クチコミ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/50826/review.html" },
+    { "type": "official", "title": "箱根小涌谷温泉 水の音 公式（2025年4月リニューアルオープン）", "url": "https://dormy-hotels.com/resort/hotels/mizunoto/renewal/" },
+    { "type": "booking_site", "title": "水の音（共立リゾート）- じゃらん", "url": "https://www.jalan.net/yad306000/" },
+    { "type": "review_site", "title": "水の音（共立リゾート）お部屋ランキング - OZmall", "url": "https://www.ozmall.co.jp/travel/stay/280/" }
+  ],
+  "created_date": "2026-09-14"
+}

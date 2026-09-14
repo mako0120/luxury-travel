@@ -48,3 +48,13 @@ python3 scripts/validate.py
 ```
 
 依存パッケージなしで `data/candidates/*.json` と `posts/*/post.json` の必須項目・型・ステータス遷移の妥当性をチェックします。
+
+## 既知の制約
+
+- 2026-09-14時点の2サイクル分の投稿（`posts/2026-09-14-hotel-gyokusen/`, `posts/2026-09-20-mizu-no-oto/`）は
+  いずれも `NEEDS_ASSET_APPROVAL` で止まっている。実行環境のネットワークポリシーにより施設公式サイト・
+  観光協会サイトへの直接アクセスができず、画像1枚ごとの転載権限（原則12）を確認できなかったため。
+  アクセス可能な環境（または人手）で `post.json` の `image_candidates` を確定させ、`ASSET_CHECKED` →
+  `READY` に進めること。
+- SNS投稿ツール（Metricool等）は未接続。`READY` になった投稿は `queue/publishing_queue.json` に
+  保持されるところまでが自動化範囲で、実際の配信・予約投稿は接続後に別途つなぎ込みが必要。

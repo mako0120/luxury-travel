@@ -1,0 +1,131 @@
+{
+  "cycle_date": "2026-09-14",
+  "theme": "第2サイクル：2025年リニューアルの温泉リゾート／絶景体験（関東・中部）",
+  "season_rationale": "10月中旬〜11月中旬に見頃を迎える関東・甲信越の紅葉シーズンに向けて、今のうちに保存してもらう狙い（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館" }
+  ],
+  "duplication_note": "候補を絶景ホテル／グランピング／温泉旅館の3カテゴリで調査したが、絶景ホテル候補（ホテル桃源）は口コミ件数が3件と少なすぎ、グランピング候補（SORA GLAMPING RESORT）は数値評価そのものが確認できなかったため、原則6・7の基準を満たせなかった。結果として温泉旅館カテゴリの水の音（共立リゾート）を採用したが、直前投稿と同カテゴリになる点は既知のトレードオフとして記録する。次サイクルは温泉旅館以外（絶景ホテル／グランピング／グルメ旅館等）を優先的に検討すること。",
+  "candidates": [
+    {
+      "id": "2026-09-14-mizu-no-oto",
+      "name": "箱根小涌谷温泉 水の音（共立リゾート）",
+      "region": "神奈川県足柄下郡箱根町（小涌谷）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.55, "scale": 5, "review_count": 2350, "checked_date": "2026-09-14", "url": "https://travel.rakuten.co.jp/HOTEL/50826/review.html" },
+        { "source": "OZmallアワード2026（口コミランキング）", "score": null, "scale": null, "review_count": null, "checked_date": "2026-09-14", "url": "https://www.ozmall.co.jp/travel/stay/280/" }
+      ],
+      "price_range_jpy": {
+        "note": "外部比較サイトで38,676円〜の表示を確認（1名あたりか2名1室総額かは要確認）。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "小涌谷温泉・宮ノ下温泉の2源泉、大浴場4つ・貸切露天風呂3つ（若竹の湯／柊の湯／楓の湯）の計13の湯めぐりが可能。2025年4月に全客室・食事処を含め全面リニューアルし、温泉露天風呂付き客室が新登場。",
+      "renewal_or_news": "2025年4月1日、共立リゾートが全面リニューアルオープン。OZmallアワード2026で口コミ9位を獲得。",
+      "target_audience": ["家族", "夫婦", "記念日", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 15,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 8,
+        "access_and_freshness": 5
+      },
+      "score": 87,
+      "recommendation_reason": "楽天トラベル2,350件で4.55という、件数・評価ともに極めて信頼度の高いスコア。2025年4月の全面リニューアルという明確な『今』の理由があり、箱根小涌谷駅から徒歩圏という高いアクセス性で、東京圏からの週末旅行需要に強く刺さる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "食事量への要望、送迎時刻案内の不十分さ、隣室の音、サウナが屋外で手狭という指摘を確認したが、いずれも重大な清潔感・安全上の問題ではなく、2,350件中の一部の声にとどまる。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "水の音（共立リゾート）クチコミ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/50826/review.html" },
+        { "type": "official", "title": "箱根小涌谷温泉 水の音 公式（2025年4月リニューアルオープン）", "url": "https://dormy-hotels.com/resort/hotels/mizunoto/renewal/" },
+        { "type": "booking_site", "title": "水の音（共立リゾート）- じゃらん", "url": "https://www.jalan.net/yad306000/" },
+        { "type": "review_site", "title": "水の音（共立リゾート）お部屋ランキング - OZmall", "url": "https://www.ozmall.co.jp/travel/stay/280/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-14-hotel-togen",
+      "name": "ＴＯＧＥＮ 黒部・宇奈月温泉 桃源",
+      "region": "富山県黒部市（宇奈月温泉）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "ニフティ温泉", "score": 3.0, "scale": 5, "review_count": 3, "checked_date": "2026-09-14", "url": "https://onsen.nifty.com/unaduki-onsen/onsen005161/kuchikomi/" },
+        { "source": "JTBお客様アンケート", "score": 77, "scale": 100, "review_count": null, "checked_date": "2026-09-14", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/5307007/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベル掲載プランを確認したが具体的金額は今回のセッションでは取得できず。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "黒部峡谷・立山黒部アルペンルート観光の拠点で、黒部川を望む貸切露天風呂が特徴。",
+      "target_audience": ["絶景好き", "夫婦", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 2,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 48,
+      "recommendation_reason": "黒部峡谷の眺望という体験自体は魅力的だが、確認できた口コミが3件のみと母数が極端に少なく、信頼度を評価できない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "低評価レビューの具体的な内容までは確認できなかったが、母数の少なさ自体がリスク。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ホテル桃源 口コミ - ニフティ温泉", "url": "https://onsen.nifty.com/unaduki-onsen/onsen005161/kuchikomi/" },
+        { "type": "review_site", "title": "ＴＯＧＥＮ 黒部・宇奈月温泉 桃源 口コミ - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/5307007/review/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア48点で採用ライン（75点）を大きく下回る。主因は口コミ母数の少なさ（3件）による信頼性不足（原則6・7）。黒部峡谷の絶景という体験自体は次サイクル以降、口コミが蓄積してから再評価する価値がある。"
+    },
+    {
+      "id": "2026-09-14-sora-glamping",
+      "name": "SORA GLAMPING RESORT（竜王マウンテンリゾート）",
+      "region": "長野県下高井郡山ノ内町",
+      "category": "グランピング",
+      "is_hidden_gem": true,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "ドームテント16,800円〜、ロータステント／ドッグランテント14,800円〜（1名あたりか要確認）。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "世界最大級166人乗りロープウェイで標高1,770mのSORAテラスへ乗り放題、2025年は雲海出現率60.2%。ドームテント15棟＋キャビンの長野県最大級グランピング施設。2026年シーズンは9月12日に営業再開したばかり。",
+      "renewal_or_news": "2026年9月12日、当シーズンの営業を開始（プレスリリース確認済み）。",
+      "target_audience": ["カップル", "友人", "絶景好き", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 19,
+        "photogenic": 14,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 5
+      },
+      "score": 52,
+      "recommendation_reason": "雲海×ロープウェイ×ドームテントという体験は非常に強いビジュアルフックを持つが、今回のセッションでは主要レビューサイトの評価点・件数を一件も数値で確認できなかった。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "低評価レビューの有無を確認できていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "SORA GLAMPING RESORT 9月12日営業開始 プレスリリース", "url": "https://prtimes.jp/main/html/rd/p/000000220.000031800.html" },
+        { "type": "official", "title": "SORA GLAMPING RESORT紹介 - 竜王マウンテンリゾート公式", "url": "https://ryuoo.com/green/glamping/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "体験の独自性・話題性は高いが、review_scoresが0件で原則6（主要レビューサイト評価4.0以上）・原則7（複数情報源での評価確認）を満たせない。Hidden Gemルール（原則8）の適用も検討したが、『複数情報源での評価確認』が不足しており今サイクルでは見送り。次サイクルでGoogleマップ・じゃらん等の評価点を確認できれば穴場候補として再評価する。"
+    }
+  ]
+}
