@@ -51,10 +51,12 @@ python3 scripts/validate.py
 
 ## 既知の制約
 
-- 2026-09-14時点の2サイクル分の投稿（`posts/2026-09-14-hotel-gyokusen/`, `posts/2026-09-20-mizu-no-oto/`）は
-  いずれも `NEEDS_ASSET_APPROVAL` で止まっている。実行環境のネットワークポリシーにより施設公式サイト・
-  観光協会サイトへの直接アクセスができず、画像1枚ごとの転載権限（原則12）を確認できなかったため。
-  アクセス可能な環境（または人手）で `post.json` の `image_candidates` を確定させ、`ASSET_CHECKED` →
-  `READY` に進めること。
+- 2026-09-14時点の3サイクル分の投稿（`posts/2026-09-14-hotel-gyokusen/`, `posts/2026-09-20-mizu-no-oto/`,
+  `posts/2026-09-14-cycl-yamanakako/`）はいずれも `NEEDS_ASSET_APPROVAL` で止まっている。実行環境の
+  ネットワークポリシーにより施設公式サイト・観光協会サイトへの直接アクセスができず、画像1枚ごとの
+  転載権限（原則12）を確認できなかったため。アクセス可能な環境（または人手）で `post.json` の
+  `image_candidates` を確定させ、`ASSET_CHECKED` → `READY` に進めること。ユーザーからSNS投稿の
+  スクリーンショット等が共有された場合も、出典・著作権者が確認できない限り同様にそのままでは
+  使用しない。
 - SNS投稿ツール（Metricool等）は未接続。`READY` になった投稿は `queue/publishing_queue.json` に
   保持されるところまでが自動化範囲で、実際の配信・予約投稿は接続後に別途つなぎ込みが必要。

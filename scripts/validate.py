@@ -91,11 +91,14 @@ def validate_candidate_file(path):
                 and isinstance(rs.get("scale"), (int, float))
                 and rs["scale"] > 0
             ]
-            if not normalized or max(normalized) < 4.0:
+            # 原則8（Hidden Gemルール）: 口コミ数が少ない穴場候補は、評価4.0以上の
+            # 縛りを免除できる。ただしその場合も sources>=2 と negative_review_check
+            # のクリアは通常どおり必須（このブロックの他のチェックで担保）。
+            if not c.get("is_hidden_gem") and (not normalized or max(normalized) < 4.0):
                 err(
                     errors, path,
                     f"[{cid}] selectedなのに主要レビューサイト評価4.0以上（5点満点換算）を満たす"
-                    "review_scoresがありません（原則6）",
+                    "review_scoresがありません（原則6。穴場候補として選定する場合はis_hidden_gem: trueを設定）",
                 )
 
             nrc = c.get("negative_review_check", {})
