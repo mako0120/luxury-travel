@@ -1,0 +1,160 @@
+{
+  "cycle_date": "2026-09-14",
+  "theme": "第5サイクル：オールインクルーシブ（食事・ドリンク・アクティビティ込みリゾート）",
+  "season_rationale": "石垣島・沖縄は9月中旬〜11月でも海水温が高く、台風シーズンを過ぎると旅行検討が本格化する。真夏のピーク料金・混雑を避けつつ海遊びができる『少し外した』時期として、オールインクルーシブ×離島リゾートの紹介タイミングに適している（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-20-mizu-no-oto", "region": "神奈川県箱根町（小涌谷）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-cycl-yamanakako", "region": "山梨県山中湖村", "category": "サウナ" },
+    { "post_id": "2026-09-14-kinmedai-kokorone", "region": "静岡県伊東市（宇佐美温泉）", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "直近4件は温泉旅館×2・サウナ×1・グルメ旅館×1で、地域も島根・神奈川・山梨・静岡。地域（沖縄県石垣市・離島リゾート）・カテゴリ（オールインクルーシブ）ともに重複しないため、原則29の観点から良い組み合わせと判断した。",
+  "other_candidates_considered": [],
+  "candidates": [
+    {
+      "id": "2026-09-14-clubmed-ishigaki-kabira",
+      "name": "クラブメッド・石垣島 カビラ",
+      "region": "沖縄県石垣市川平",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Tripadvisor",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 4684,
+          "checked_date": "2026-09-14",
+          "url": "https://www.tripadvisor.com/Hotel_Review-g14210285-d668311-Reviews-Club_Med_Kabira_Ishigaki-Ishigaki_jima_Ishigaki_Okinawa_Prefecture_Kyushu.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "2026年秋（9〜11月）の1泊2日パッケージ（羽田発着往復航空券＋宿泊、大人1名）が9月70,700円〜・10月70,950円〜・11月56,250円〜という検索結果を確認（食事・ドリンク・アクティビティ込みのオールインクルーシブ料金）。宿泊のみの場合は大人2名1泊あたり最安45,000円（1名あたり22,500円）という表示も確認したが、シーズン・部屋タイプにより変動する。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "食事・ドリンク（アルコール含む）・マリンアクティビティ（シュノーケリング、ウィンドサーフィン、カヤック、SUP等）・空中ブランコやアーチェリー等のサーカス／陸上体験・キッズクラブ・夜のショーまでが宿泊料金に含まれる、日本国内では数少ない本格的なオールインクルーシブリゾート。東京ドーム約4個分の広大な敷地を持ち、ミシュラン・グリーンガイド・ジャポンで三つ星を獲得した川平湾まで車で約10分という立地。世界各国から集まる外国人スタッフ（G.O.）による『海外にいるような』世界観も特徴。",
+      "renewal_or_news": "2026年6月21日〜11月27日の期間、パッケージプラン最大40%割引の特別オファーを確認。Winter 2026/27シーズンの早期予約割引も案内されている。大規模リニューアルの情報は今回のセッションでは確認できなかったが、継続的な高い人気（Tripadvisorで石垣島ホテル部門1位／29軒中）が営業状況・話題性の裏付けとなっている。",
+      "target_audience": ["家族", "カップル", "友人"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 14,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 81,
+      "recommendation_reason": "Tripadvisor4.0／4,684件という圧倒的な口コミ母数のうえで石垣島ホテル部門1位（29軒中）を維持しており信頼度が高い。『食事・ドリンク・アクティビティが全て料金に込み』という、日本の宿泊施設としては希少な本格オールインクルーシブ体験が最大のフックで、シュノーケリングから空中ブランコまで追加料金なしで楽しめる体験の幅広さも強み。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミは賛否両論。一部レビューでは客室シャワー設備の老朽化、清掃の行き届かなさ、レストランスタッフの対応、食事の質低下、外国人スタッフとの言語コミュニケーションの難しさ（『I don't know』という返答を受けたという報告）が指摘されている（『初めて失望したカビラ』等のタイトルのレビュー含む）。一方で2026年の直近レビューでもValue・Rooms・Location・Cleanliness・Serviceの各項目で5点満点の評価が複数確認されており、安全・衛生面での重大な複数独立指摘までは今回のセッションでは確認できなかった。老朽化については留意事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "クラブメッド・石垣島 カビラ｜公式サイト｜沖縄のオールインクルーシブ・リゾート", "url": "https://www.clubmed.co.jp/r/%E7%9F%B3%E5%9E%A3%E5%B3%B6/y" },
+        { "type": "review_site", "title": "CLUB MED KABIRA - ISHIGAKI - Reviews (Ishigaki-jima, Japan) - Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-g14210285-d668311-Reviews-Club_Med_Kabira_Ishigaki-Ishigaki_jima_Ishigaki_Okinawa_Prefecture_Kyushu.html" },
+        { "type": "review_site", "title": "クラブメッド・石垣島 カビラ＜石垣島＞ に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/75281/review.html" },
+        { "type": "booking_site", "title": "クラブメッド・石垣島 口コミ・おすすめコメント＜石垣島＞ - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/8724013/review/" },
+        { "type": "other", "title": "【クラブメッドカビラ石垣島】実際宿泊してわかった良い所・悪い所｜沖縄強めリゾート放浪｜TAKA", "url": "https://note.com/resort_world/n/n58fc7658baa9" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-14-third-ishigaki",
+      "name": "THIRD石垣島",
+      "region": "沖縄県石垣市（石垣港離島ターミナル前）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "ふるなびトラベル",
+          "score": 4.1,
+          "scale": 5,
+          "review_count": 464,
+          "checked_date": "2026-09-14",
+          "url": "https://tp.furunavi.jp/Plan/Detail?plId=3804"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "オールインクルーシブプランを含む複数プランを確認したが、具体的な1泊あたりの金額は今回のセッションでは検索スニペットから明確に取得できなかった。朝食のみのシンプルプランも別途用意されている。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "石垣港離島ターミナルから徒歩1分という好立地の『沖縄・石垣島初のライフスタイルホテル』。オールインクルーシブプランでは食事・ドリンクを時間を気にせず好きなだけ楽しめ、沖縄食材を70%以上使用。約700冊のブックラウンジ、夕日が見えるルーフトップ、カフェ＆バーを備え、全28室というコンパクトな規模でデザイン性の高い滞在ができる。",
+      "renewal_or_news": "2020年7月開業。直近の大規模リニューアル情報は今回のセッションでは確認できなかった。",
+      "target_audience": ["カップル", "友人", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 9,
+        "unique_experience_score": 15,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 5
+      },
+      "score": 73,
+      "recommendation_reason": "離島ターミナル徒歩1分という利便性と、沖縄食材70%以上使用×オールインクルーシブという明確なコンセプトを持つ。デザイン性が高くビジュアル訴求力もあるが、今回のセッションで評価点・件数を数値で確認できたのは『ふるなびトラベル』1ソースのみで、原則7が求める複数の独立した数値的裏付けがやや弱い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Reluxの口コミで、シャワーオンリーの部屋やロフトスペースの2名利用時の使い勝手、価格対価値への厳しい声が一部確認された。清潔感・安全上の重大な指摘は今回のセッションでは確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "THIRD石垣島 - 沖縄・石垣島初のライフスタイルホテルTHIRD石垣島", "url": "https://www.hotelthird.com/" },
+        { "type": "official", "title": "オールインクルーシブステイとは - THIRD石垣島", "url": "https://www.hotelthird.com/allinclusivestay/" },
+        { "type": "booking_site", "title": "THIRD石垣島 沖縄県 | ふるさと納税ふるなびトラベル", "url": "https://tp.furunavi.jp/Plan/Detail?plId=3804" },
+        { "type": "review_site", "title": "THIRD 石垣島の口コミ（レビュー） - Relux", "url": "https://rlx.jp/25084/review/" }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "総合スコア73点で採用ライン（75点）にわずかに届かず、主要な評価点・件数を複数の独立した数値ソースで確認しきれなかった（原則6・7）。次サイクル以降、一休・楽天トラベル等で評価点数を直接確認できれば再候補とする。"
+    },
+    {
+      "id": "2026-09-14-kanucha-bay",
+      "name": "カヌチャベイホテル＆ヴィラズ（カヌチャリゾート）",
+      "region": "沖縄県名護市",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Tripadvisor",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 951,
+          "checked_date": "2026-09-14",
+          "url": "https://www.tripadvisor.com/Hotel_Review-g1023465-d1086223-Reviews-Kanucha_Resort_Kanucha_Bay_Hotel_and_Villas-Nago_Okinawa_Prefecture_Kyushu.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "今回のセッションでは1泊あたりの具体的な料金を検索スニペットから明確に取得できなかった。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "沖縄本島北部やんばるに約80万坪の広大な敷地を持つリゾートで、敷地内はゴルフカートで移動。JTBお客様アンケートでは総合86点（サービス85・客室85・夕食84・朝食89）。一部プランで『オールインクルーシブ』を選択できるが、施設全体の標準仕様ではなくオプションプラン扱いである点は他候補と異なる。",
+      "target_audience": ["家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 10,
+        "unique_experience_score": 10,
+        "photogenic": 9,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 59,
+      "recommendation_reason": "敷地の広さ・自然環境という規模感は魅力だが、『オールインクルーシブ』がプラン限定でテーマとの適合度が他候補より弱く、かつ後述の低評価内容が複数確認された。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorで『悪い口コミどおりのホテルでした』という見出しのレビューをはじめ、客室換気口の埃、寝具への血液付着の報告、廊下・浴室の経年劣化、スタッフ対応の悪さなど、清潔感・接客面での重大な指摘が複数の独立したレビューで確認された。JTBお客様アンケートの総合86点という数値とは裏腹に、個別レビュー本文レベルでは無視できない指摘が複数見られた。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "review_site", "title": "KANUCHA RESORT, KANUCHA BAY HOTEL AND VILLAS - Reviews (Okinawa Prefecture, Japan - Nago) - Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-g1023465-d1086223-Reviews-Kanucha_Resort_Kanucha_Bay_Hotel_and_Villas-Nago_Okinawa_Prefecture_Kyushu.html" },
+        { "type": "review_site", "title": "悪い口コミどおりのホテルでした。 - カヌチャリゾート カヌチャベイホテル&ヴィラズの口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g1023465-d1086223-r271725592-Kanucha_Resort_Kanucha_Bay_Hotel_and_Villas-Nago_Okinawa_Prefecture_Kyushu.html" },
+        { "type": "booking_site", "title": "カヌチャベイホテル＆ヴィラズ 口コミ・おすすめコメント＜名護＞ - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/8710007/review/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "衛生面（寝具への血液付着報告、換気口の埃等）・老朽化に関する重大な指摘が複数の独立レビューで確認され、原則10（マイナス口コミ分析）の除外基準に該当すると判断した。また『オールインクルーシブ』は宿泊料金に標準で含まれる特徴ではなくオプションプラン扱いであり、今サイクルのテーマとの適合度も他候補より低い。総合スコアも59点で採用ライン（75点）を大きく下回る。"
+    }
+  ]
+}
