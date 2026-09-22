@@ -1,0 +1,148 @@
+{
+  "cycle_date": "2026-09-14",
+  "theme": "秋の温泉旅館（紅葉シーズン前の旅行検討期に向けて）",
+  "season_rationale": "9月中旬は10〜11月の紅葉・秋旅行を検討し始める時期にあたるため、原則30（季節性）に沿って温泉旅館カテゴリを調査した。",
+  "prior_posts_checked": [],
+  "duplication_note": "posts/ に既存投稿がないため、原則29（重複防止）は次サイクル以降で適用する。",
+  "candidates": [
+    {
+      "id": "2026-09-14-hotel-gyokusen",
+      "name": "玉造温泉 曲水の庭 ホテル玉泉",
+      "region": "島根県松江市（玉造温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル",
+          "score": 4.56,
+          "scale": 5,
+          "review_count": 1499,
+          "checked_date": "2026-09-14",
+          "url": "https://travel.rakuten.co.jp/HOTEL/106267/review.html"
+        },
+        {
+          "source": "ゆこゆこ",
+          "score": 85,
+          "scale": 100,
+          "review_count": 12,
+          "checked_date": "2026-09-14",
+          "url": "https://www.yukoyuko.net/3203/kuchikomi"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "予約サイト上のプラン表示で「2名利用時 15,400円〜（税込）/1名」を確認。時期・プラン・部屋タイプにより大きく変動する。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "千年以上湧き続ける『美肌の湯』を檜風呂・岩風呂の2種の大浴場で楽しめ、男女の湯が夜と朝で入れ替わる。庭園『曲水の庭』を望む館内と、2025年に全客室76室・大浴場を全面リニューアルした新しい和空間が特徴。",
+      "renewal_or_news": "2025年（開業60周年）に客室76室・大浴場を全面リニューアル。外気浴のできる浴場改修も実施済み（公式サイトrenewal2025ページで告知）。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "女子旅"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 14,
+        "unique_experience_score": 15,
+        "photogenic": 11,
+        "value_for_price": 8,
+        "sns_buzz": 6,
+        "access_and_freshness": 5
+      },
+      "score": 82,
+      "recommendation_reason": "1,499件という圧倒的な口コミ母数と4.56という高評価が一致しており信頼性が高い。2025年の全面リニューアルという明確な『今』の理由があり、庭園×美肌の湯という他の玉造温泉宿と差別化できるビジュアルフックを持つ。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "検索で確認できた範囲では、チェックイン時の案内不足（施設側が改善済みと回答）、朝食バイキングが慌ただしいという指摘はあったが、清潔感・接客・設備老朽化に関する重大な指摘は複数確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "楽天トラベル 曲水の庭 ホテル玉泉 クチコミ", "url": "https://travel.rakuten.co.jp/HOTEL/106267/review.html" },
+        { "type": "booking_site", "title": "曲水の庭 ホテル玉泉 - じゃらんnet", "url": "https://www.jalan.net/yad331176/" },
+        { "type": "official", "title": "ホテル玉泉 公式サイト『2025年リニューアル』ページ", "url": "https://www.hotel-gyokusen.co.jp/renewal2025/" },
+        { "type": "press", "title": "【創業60周年】ホテル玉泉が大規模リニューアル。客室76室（全124室中）＆大浴場を刷新 - PR TIMES公式プレスリリース", "url": "https://prtimes.jp/main/html/rd/p/000000001.000164733.html" },
+        { "type": "official", "title": "アクセス | 玉造温泉 曲水の庭 ホテル玉泉 公式", "url": "https://www.hotel-gyokusen.co.jp/access/" },
+        { "type": "review_site", "title": "曲水の庭 ホテル玉泉 クチコミ - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/7323010/review/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-14-kai-tamatsukuri",
+      "name": "星野リゾート 界 玉造",
+      "region": "島根県松江市（玉造温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Tripadvisor", "score": 4.4, "scale": 5, "review_count": 240, "checked_date": "2026-09-14", "url": "https://www.tripadvisor.jp/ShowUserReviews-g298136-d1093830-r313239137-Hoshino_Resorts_KAI_Tamatsukuri-Matsue_Shimane_Prefecture_Chugoku.html" }
+      ],
+      "price_range_jpy": {
+        "note": "夕朝食付き大人2名1室で1名あたり35,400円〜62,600円程度（提携カード優待では38,815円〜の表示も確認）。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "星野リゾート『界』ブランドで、全室に露天風呂付き客室。出雲文化（日本酒・茶の湯）を取り入れたご当地楽やサービスが特徴。",
+      "renewal_or_news": "直近の大規模リニューアル情報は確認できず。ブランドとしての知名度・世界観の一貫性が強み。",
+      "target_audience": ["カップル", "記念日", "温泉好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 11,
+        "unique_experience_score": 19,
+        "photogenic": 14,
+        "value_for_price": 6,
+        "sns_buzz": 8,
+        "access_and_freshness": 4
+      },
+      "score": 83,
+      "recommendation_reason": "全室露天風呂付客室という体験の独自性が高く、星野リゾート『界』ブランドとしてのSNS話題性・世界観も強い。Googleホテル評価は4.5（件数は今回のセッションでは確認できず参考値扱い）。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorに『料金は一流、中身は三流』『行く価値無し』という見出しの低評価レビューを2件確認。価格に対する体験価値への不満が一部に存在する可能性があり、value_for_priceの採点を抑えた。ただし全体評価はGoogle4.5・Tripadvisor4.4を維持しており、清潔感・接客等の具体的な重大トラブルの複数確認（本文レベル）には至らなかった。次サイクルで再候補にする場合は、この2件の低評価レビュー本文を精読してから判断すること。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "界 玉造 Google ホテル評価", "url": "https://www.google.co.jp/travel/hotels/entity/ChgIsY6B5I238cyvARoLL2cvMXRtMHFfbXYQAQ" },
+        { "type": "review_site", "title": "星野リゾート 界 玉造 - Tripadvisor", "url": "https://www.tripadvisor.jp/ShowUserReviews-g298136-d1093830-r313239137-Hoshino_Resorts_KAI_Tamatsukuri-Matsue_Shimane_Prefecture_Chugoku.html" },
+        { "type": "official", "title": "界 玉造 プラン・料金 - JTB掲載", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/7323004/plan/" }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "同じ玉造温泉エリアの『曲水の庭 ホテル玉泉』と僅差（83点 対 82点）だったが、(1)価格に対する体験価値を疑問視する低評価レビューが確認された、(2)口コミ母数が相対的に少なく独立情報源としての裏付けがやや弱い、という2点を踏まえて今サイクルでは見送り。次サイクル以降、玉造温泉以外の投稿が続いた後の再候補とする。"
+    },
+    {
+      "id": "2026-09-14-akan-tsuruga",
+      "name": "あかん遊久の里 鶴雅（レイクガーデンビュースイート）",
+      "region": "北海道釧路市阿寒湖温泉",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Tripadvisor", "score": 4.2, "scale": 5, "review_count": 733, "checked_date": "2026-09-14", "url": "https://www.tripadvisor.jp/ShowUserReviews-g298147-d325024-r290666194-Akan_Yuku_no_Sato_Tsuruga-Kushiro_Hokkaido.html" }
+      ],
+      "price_range_jpy": {
+        "note": "新客室『レイクガーデンビュースイート』の具体的な料金を今回のセッションでは検索スニペットから確認できなかった。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2025年1月開業の新客室『レイクガーデンビュースイート』はセルフロウリュ可能なサウナ・水風呂付きで180平米。阿寒湖畔の眺望と、泉質の異なる3つの大浴場が特徴。",
+      "renewal_or_news": "2025年1月に新客室オープン、2024年12月に別館『雅』の露天風呂付き客室もリニューアル。",
+      "target_audience": ["カップル", "記念日", "サウナ好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 9,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 3
+      },
+      "score": 72,
+      "recommendation_reason": "阿寒湖ビュー×サウナ×水風呂という現在のSNSトレンドと合致する強い体験フックを持つが、独立した評価スコアを複数サイトで数値確認できず、新客室の料金も未確認のため裏付けが不十分。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorに低評価レビュー（見出し『がっかりしました。』）が存在することを確認したが、具体的な指摘内容までは今回のセッションでは深掘りできなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "あかん遊久の里鶴雅 - Tripadvisor", "url": "https://www.tripadvisor.jp/ShowUserReviews-g298147-d325024-r290666194-Akan_Yuku_no_Sato_Tsuruga-Kushiro_Hokkaido.html" },
+        { "type": "booking_site", "title": "あかん遊久の里鶴雅 - じゃらんnet", "url": "https://www.jalan.net/yad332582/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア72点で採用ライン（75点）未満。加えて主要レビューサイトの評価点・料金を複数情報源で数値確認できず、原則6・7の基準を満たさなかった。次サイクルで一休・楽天トラベル等の評価点と新客室の料金を確認できれば再候補とする。"
+    }
+  ]
+}

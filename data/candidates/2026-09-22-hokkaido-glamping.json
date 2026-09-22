@@ -1,0 +1,103 @@
+{
+  "cycle_date": "2026-09-22",
+  "theme": "北海道（支笏湖・層雲峡・富良野等）グランピング新規調査",
+  "season_rationale": "9月下旬〜10月の北海道内陸部（富良野・上富良野）は朝晩の冷え込みが本格化し始め、十勝岳連峰の紅葉が進む時期。ひまわり畑などの夏の見どころは終わるが、代わりに焚き火・樽サウナ・満天の星空観賞がより快適になる季節で、グランピングという宿泊形態自体の魅力（屋外で過ごす夜）が際立つタイミングになる（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-21-kerama-terrace", "region": "沖縄県（座間味村・慶良間諸島）", "category": "アクティビティ" },
+    { "post_id": "2026-09-20-akiu-rantei", "region": "宮城県仙台市（秋保温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-18-clubmed-tomamu-unkai", "region": "北海道勇払郡占冠村（星野リゾート トマム）", "category": "オールインクルーシブ" },
+    { "post_id": "2026-09-18-satoyama-vacation-fujinomiya", "region": "静岡県富士宮市上井出", "category": "グランピング" },
+    { "post_id": "2026-09-18-yufuin-no-mori", "region": "大分県由布市（由布院）", "category": "列車・船" },
+    { "post_id": "2026-09-18-fufu-karuizawa", "region": "長野県北佐久郡軽井沢町（中軽井沢）", "category": "サウナ" },
+    { "post_id": "2026-09-14-unkai-terrace-tomamu", "region": "北海道勇払郡占冠村（星野リゾート トマム）", "category": "絶景ホテル" },
+    { "post_id": "2026-09-14-lanature-glamping", "region": "栃木県佐野市", "category": "グランピング" }
+  ],
+  "duplication_note": "地域（北海道）は直近では2026-09-14／2026-09-18の2回、いずれも占冠村トマム（星野リゾート、絶景ホテル／オールインクルーシブ）で使用済みだが、今回は上富良野町という別エリア・別施設・別カテゴリ（グランピング）であり、直近2投稿（2026-09-20秋保温泉＝宮城、2026-09-21慶良間＝沖縄）はいずれも北海道以外のため、連続投稿として重ならない。カテゴリ（グランピング）は2026-09-14（栃木・ラ・ナチュール）、2026-09-18（静岡・富士宮）で使用済みだが、いずれも本州・別地域であり、北海道での使用は今回が初めて。直近の投稿の流れは 温泉旅館(9/20)→アクティビティ(9/21)→グランピング(今回) となり、カテゴリの連続もない。以上より原則29（地域・カテゴリの連続回避）は満たしていると判断した。なお本サイクルは依頼により地域「北海道」・カテゴリ「グランピング」を指定して調査したものである。",
+  "known_difficulty_note": "本セッションのネットワーク環境では、じゃらん・楽天トラベル・一休.com・Tripadvisor・Booking.com・なっぷ・hinata・GLAMP SORA公式・North Glamper公式等、ほぼ全ての旅行系・キャンプ系・施設公式ドメインへのWebFetchがEGRESS_BLOCKEDとなり、本文を直接確認できなかった。加えて調査の終盤でセッションのWebSearch実行回数上限（200回）に到達し、NORTH GLAMPER富良野の具体的な宿泊料金・低評価レビューの追加確認、および他候補の口コミ件数の追加確認ができなくなった。そのため、価格帯・一部の口コミ件数はWebSearchのスニペットで確認できた範囲にとどめ、確認できない情報は本記録に断定的に記載していない。",
+  "other_candidates_considered": [
+    {
+      "name": "Lakehouse Toyako Glamping（レイクハウス洞爺湖グランピング）",
+      "category": "グランピング",
+      "note": "洞爺湖町、支笏洞爺国立公園内。湖畔直結のコットンベルテントが特徴で、なっぷ上にも肯定的な口コミが見られた。ただし、Tripadvisor上の「LAKEHOUSE AT TOYAKO」（4.0/5・9件）やBooking.com上の複数の「Vacation STAY」名義の宿泊施設（スコアが8と9.8で一致しない）は、公式のグランピング施設（toyako-glamping.com）と、同名・類似名で別ドメイン運営されているゲストハウス（lakehouse-at-toyako.com、Airbnb「Lakehouse at Toyako」）とが混同されている可能性があり、本セッションではWebFetchがEGRESS_BLOCKEDのため実際にどちらを指しているか確認できなかった。口コミ件数も9件と少なく、正しい施設の数値と確証を持てないため、実体験の捏造を避ける原則に基づき、無理に数値を採用せず今回は正式候補から除外した。"
+    },
+    {
+      "name": "GLAMP SORA（グランプソラ、中富良野町）",
+      "category": "グランピング",
+      "note": "2022年開業、直径7mの大型ドームテントが特徴で十勝岳連峰を望む。Yahoo!マップで4.1、Trip.comで9.0前後という好意的な評価スニペットは見つかったが、いずれも口コミ件数（review_count）を確認できなかった。hinataスポットでは『口コミ0件』と表示されており、trivago経由で見つかった『9.5/10・888件』という数値は、長野県の同名別施設『SORA GLAMPING RESORT』と混同している疑いが強く採用しなかった。review_countが確認できる数値ソースが揃わずschema上のreview_scoresを構成できないため、WebSearch予算が尽きる前に確証を得られず、今サイクルは正式候補から除外した。次サイクル以降、検索余力がある状態で再調査すれば有力候補になり得る。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-09-22-north-glamper-furano",
+      "name": "NORTH GLAMPER 富良野（ノースグランパー富良野）",
+      "region": "北海道空知郡上富良野町十人牧場（富良野エリア）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Google レビュー（Google ホテル経由）",
+          "score": 4.9,
+          "scale": 5,
+          "review_count": 60,
+          "checked_date": "2026-09-22",
+          "url": "https://www.google.co.jp/travel/hotels/entity/ChkIlfLkjsv_tM5lGg0vZy8xMXE3YjdkMWYyEAE"
+        },
+        {
+          "source": "Trip.com",
+          "score": 9.2,
+          "scale": 10,
+          "review_count": 3,
+          "checked_date": "2026-09-22",
+          "url": "https://jp.trip.com/hotels/kami-furano-north-glamper/hotels-c50373m53115049/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な宿泊料金は、本セッションのネットワーク制限（施設公式・楽天トラベル等へのWebFetchがEGRESS_BLOCKED）とWebSearch実行回数上限到達により確認できなかった。1日3組限定・樽サウナ・ドッグラン付きテント等を備えるカントリー系グランピングのため、一般的なオートキャンプより高めの価格帯が想定されるが、具体的な金額は未確認のため本記録には記載しない。予約前に公式サイト・楽天トラベルで要確認。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "北海道空知郡上富良野町、十勝岳連峰を望む立地にある1日3組限定のカントリー系グランピング施設。大きな窓のドームテント、コットンテントに加え、愛犬と泊まれる専用ドッグラン付きテントを備える。敷地内では樽サウナ体験、釣り体験、暖炉のあるテラスでの焚き火、満天の星空観賞が楽しめ、共用キッチンやミニマート、屋内プレイエリアもある。1日3組限定という希少性と、サウナ・釣り・ドッグラン付きテントが揃う組み合わせは、富良野エリアの他のグランピング施設との明確な差別化要素になっている。",
+      "renewal_or_news": "Googleレビューが60件まで積み上がっており継続的に稼働・利用されていることを確認。楽天トラベル・じゃらん・Trip.com・Booking.com・Expedia系等、複数の主要予約サイトに現在も掲載されており休業の兆候は見られない。",
+      "target_audience": ["カップル", "友人", "家族", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 11,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 79,
+      "recommendation_reason": "Googleレビュー4.9（60件）という比較的多い母数での高評価に加え、性質の異なるTrip.comでも9.2/10（3件）と、独立した2つの情報源でいずれも推奨ライン4.2以上（5点換算）を上回った。1日3組限定・樽サウナ・ドッグラン付きテント・釣り体験という『ここでしかできない』体験の組み合わせが明確で、十勝岳連峰を望む立地は映えの強さもある。価格・一部の低評価レビューの深掘りはネットワーク制限とWebSearch予算の都合で未確認のため、価格対体験価値とSNS話題性の配点は保守的にとどめた。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本セッションのWebSearchで得られたスニペットの範囲では、楽天トラベルの口コミで『スタッフの対応が親切で自然の中で良い時間を過ごせた』という肯定的な評価が中心だった。一方で同じ口コミの中に『近くの温浴施設の設備』に関する不満が触れられていたが、これは施設外の周辺温浴施設についての言及であり、NORTH GLAMPER富良野自体の清潔感・接客・設備に対する重大な低評価コメントは本セッションの検索範囲では見つからなかった。ただし、じゃらん・楽天トラベル・Tripadvisor等の個別レビュー本文はWebFetchがEGRESS_BLOCKEDとなり直接確認できず、かつ本セッションのWebSearch実行回数上限に到達したため、低評価レビューの追加検索は行えなかった。したがって『低評価レビューが実際にゼロ』とまでは断定できず、次サイクル以降に検索余力がある状態で再確認することが望ましい点は留意事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "NORTH GLAMPER富良野 - Google ホテル",
+          "url": "https://www.google.co.jp/travel/hotels/entity/ChkIlfLkjsv_tM5lGg0vZy8xMXE3YjdkMWYyEAE"
+        },
+        {
+          "type": "review_site",
+          "title": "NORTHGLAMPER富良野周辺ホテルのおすすめランキング2026・宿泊プラン一覧 | Trip.com",
+          "url": "https://jp.trip.com/hotels/kami-furano-north-glamper/hotels-c50373m53115049/"
+        },
+        {
+          "type": "review_site",
+          "title": "NORTH GLAMPER 富良野 に実際に泊まった方のクチコミ・レビュー【楽天トラベル】",
+          "url": "https://travel.rakuten.co.jp/HOTEL/183109/review.html"
+        },
+        {
+          "type": "official",
+          "title": "North Glamper｜ノースグランパー富良野（公式サイト）",
+          "url": "https://northglamper.jp/"
+        }
+      ],
+      "decision": "selected"
+    }
+  ]
+}

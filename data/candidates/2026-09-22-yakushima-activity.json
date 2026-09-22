@@ -1,0 +1,138 @@
+{
+  "cycle_date": "2026-09-22",
+  "theme": "鹿児島県屋久島（縄文杉トレッキング拠点）のアクティビティ×宿泊",
+  "season_rationale": "屋久島の縄文杉トレッキングは往復10時間前後かかる本格登山のため、前泊・後泊での疲労回復（大浴場・スパ・食事）が体験価値を大きく左右する。9月下旬〜11月は夏の混雑・台風リスクが落ち着き始め、紅葉には早いものの、縄文杉登山道が最も歩きやすい『秋の登山シーズン』の入口にあたる（原則30）。カテゴリ『アクティビティ』は既存投稿がトマム雲海テラス（陸・展望）、慶良間諸島ケラマテラス（海・ダイビング）の2件あり、『登山・屋久杉トレッキング』という新しい切り口を加えることで陸のアクティビティの幅を広げられる。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-20-akiu-rantei", "region": "宮城県仙台市（秋保温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-21-kerama-terrace", "region": "沖縄県島尻郡渡嘉敷村（渡嘉敷島）", "category": "アクティビティ" },
+    { "post_id": "2026-09-18-hilton-okinawa-miyako", "region": "沖縄県宮古島市平良", "category": "離島リゾート" },
+    { "post_id": "2026-09-18-yufuin-no-mori", "region": "大分県由布市（由布院）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-unkai-terrace-tomamu", "region": "北海道勇払郡占冠村（トマム）", "category": "アクティビティ" },
+    { "post_id": "2026-09-14-sagano-torokko", "region": "京都府京都市（嵯峨野）", "category": "列車・船" }
+  ],
+  "duplication_note": "屋久島は既存のdata/candidates・captionsに一度も登場していない。カテゴリ『アクティビティ』は直近サイクル（2026-09-21・慶良間諸島ケラマテラス）で使用済みだが、地域（沖縄の離島）・体験の性質（海・ダイビング）が今回の屋久島（九州・山岳トレッキング・世界自然遺産の照葉樹林）とは明確に異なり、原則29が主眼とする『同一地域・同一ブランド・同一種類の連続』には該当しないと判断した。一方で2投稿連続でカテゴリ表記が『アクティビティ』になる点は認識しており、次回サイクルでは温泉旅館・グルメ旅館・列車船等、別カテゴリを優先する。",
+  "candidates": [
+    {
+      "id": "2026-09-22-sankara-yakushima",
+      "name": "SANKARA HOTEL & SPA 屋久島",
+      "region": "鹿児島県熊毛郡屋久島町（屋久島）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Relux", "score": 5.0, "scale": 5, "review_count": 42, "checked_date": "2026-09-22", "url": "https://rlx.jp/24832/review/" },
+        { "source": "Tripadvisor", "score": 4.0, "scale": 5, "review_count": 273, "checked_date": "2026-09-22", "url": "https://www.tripadvisor.com/Hotel_Review-g1121600-d1604431-Reviews-Sankara_Hotel_Spa_Yakushima-Yakushima_cho_Kumage_gun_Kagoshima_Prefecture_Kyushu.html" }
+      ],
+      "price_range_jpy": {
+        "note": "全29室のスイート・ヴィラ型オーベルジュ。高価格帯（検索スニペットの範囲では具体的な最安値表示は確認できず、公式サイト・予約サイトで要確認）。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "世界自然遺産・屋久島の照葉樹林の中に立つ全29室のオーベルジュ型リゾート。ホテル専属ガイドによる縄文杉トレッキングツアー（1名45,000円〜、タクシー代込み・昼食別、検索日時点の情報）を提供しており、往復10時間前後かかる本格登山の前後をスイート専用の露天風呂・スパ・フレンチダイニングで整えられる『登山×高級ステイ』が最大の独自性。",
+      "renewal_or_news": "『ミシュランガイド 日本のホテル2025』で2年連続ミシュランキー（MICHELIN Key）を受賞。屋久島は『もののけ姫』の森のモデルとされる世界自然遺産で、継続的にラグジュアリー旅行メディアで取り上げられている。",
+      "target_audience": ["カップル", "記念日", "夫婦", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 12,
+        "unique_experience_score": 19,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 85,
+      "recommendation_reason": "Relux5.0（42件）・Tripadvisor4.0（273件、5段階中「4」表示）という性質の異なる2つの独立した情報源でいずれも採用ライン4.0以上を確認できた（原則6・7）。全29室のみのオーベルジュに専属ガイド付き縄文杉トレッキングツアーを組み合わせた『登山×高級ステイ』は他の屋久島宿泊施設にない独自性が強く、2025年ミシュランガイドで2年連続ミシュランキーを獲得している点も直近の話題性として強い後押しになる。世界自然遺産の森の中という立地は写真・動画映えの面でも訴求力が高い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Web検索の範囲では、スタッフ対応・食事（フレンチ）・スパ・客室の評価が中心で好意的な口コミが大多数だった。一方で『スタッフ対応にばらつきがあった』『朝食の提供内容・見せ方に不満があった』という趣旨の個別レビューが一部確認でき、トリップアドバイザーには『屋久島の旅行がイヤな思い出に』という否定的なタイトルの口コミも1件存在した。ただし全体の口コミ傾向・スコア（5段階で「4」以上）と比較すると少数派であり、清潔感・安全面の重大な指摘には該当しないため、除外基準（原則10）には抵触しないと判断した。また『料金が高めなので特別な機会向け』という声もあり、これは除外理由ではなく価格感の目安としてキャプションの表現に反映する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "【公式】サンカラ屋久島 sankara hotel & spa Yakushima", "url": "https://www.sankarahotel-spa.com/" },
+        { "type": "booking_site", "title": "sankara hotel＆spa 屋久島の口コミ（レビュー） - Relux（リラックス）", "url": "https://rlx.jp/24832/review/" },
+        { "type": "review_site", "title": "SANKARA HOTEL & SPA YAKUSHIMA - Reviews & Prices - Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-g1121600-d1604431-Reviews-Sankara_Hotel_Spa_Yakushima-Yakushima_cho_Kumage_gun_Kagoshima_Prefecture_Kyushu.html" },
+        { "type": "press", "title": "Awarded the MICHELIN Key for the Second Year in a Row | sankara hotel & spa Yakushima", "url": "https://www.sankarahotel-spa.com/en/news/1428/" },
+        { "type": "review_site", "title": "ｓａｎｋａｒａ ｈｏｔｅｌ＆ｓｐａ 屋久島 に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/148908/review.html" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-22-yakushima-iwasaki-hotel",
+      "name": "屋久島いわさきホテル",
+      "region": "鹿児島県熊毛郡屋久島町（屋久島）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Yahoo!トラベル＋一休.com（合算スコア）", "score": 4.57, "scale": 5, "review_count": 15, "checked_date": "2026-09-22", "url": "https://www.ikyu.com/00000348/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "広大な敷地の大型リゾートホテルで、検索スニペットの範囲では具体的な最安値表示は確認できなかった。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "屋久島最大級の敷地を持つ大型リゾートホテル。山側・海側どちらも一望できるデラックスツインが標準で、天然温泉の展望大浴場・露天風呂、屋内プール、滝への散策路、猿園・鹿園などを備え、縄文杉登山用品のレンタルにも対応する。",
+      "target_audience": ["家族", "夫婦", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 6,
+        "unique_experience_score": 12,
+        "photogenic": 10,
+        "value_for_price": 7,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 59,
+      "recommendation_reason": "山海両方の眺望・天然温泉・広大な庭園と設備は充実しており、ファミリー層には安心感のある選択肢。ただし確認できた評価はYahoo!トラベルと一休.comの合算スコア（4.57・15件）のみで、これは同一予約ネットワーク内の合算値であり原則7が求める『独立した2種類以上の情報源』の要件を満たせなかった。トレッキングとの組み合わせも『用品レンタル対応』止まりで、SANKARA候補のような専属ガイド付きプログラムほどの独自性・話題性は確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Web検索の範囲では、景観・温泉・清潔感について好意的な口コミが中心で、重大な指摘（清潔感・安全性・予約トラブル等）は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "屋久島いわさきホテル 公式サイト", "url": "https://www.iwasakihotels.com/yakushima/" },
+        { "type": "review_site", "title": "屋久島いわさきホテル - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00000348/review/" },
+        { "type": "review_site", "title": "屋久島いわさきホテル - クチコミ・評判 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00000348/review/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "確認できた評価が単一の合算スコア（Yahoo!トラベル＋一休.com、4.57・15件）のみで、原則7の『独立した2種類以上の情報源』を満たせなかった。トレッキングとの組み合わせも用品レンタル対応止まりで、SANKARA候補と比較して独自性・SNS話題性のスコアが伸びず、総合スコアも75点に届かなかった。"
+    },
+    {
+      "id": "2026-09-22-jomon-no-yado-manten",
+      "name": "天然温泉と縄文の宿「まんてん」",
+      "region": "鹿児島県熊毛郡屋久島町（屋久島空港近隣）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Yahoo!トラベル（合算スコア）", "score": 3.76, "scale": 5, "review_count": 12, "checked_date": "2026-09-22", "url": "https://travel.yahoo.co.jp/00030954/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "屋久島空港徒歩約1分の天然温泉宿。検索スニペットの範囲では具体的な最安値表示は確認できなかった。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "屋久島空港から徒歩約1分という空港至近の立地にある天然温泉宿。登山ガイドの手配に対応し、縄文杉コース・白谷雲水峡コースなどトレッキング後の疲労回復に特化した大浴場・地元食材の夕食が特徴。",
+      "target_audience": ["一人旅", "友人", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 5,
+        "unique_experience_score": 9,
+        "photogenic": 6,
+        "value_for_price": 7,
+        "sns_buzz": 2,
+        "access_and_freshness": 4
+      },
+      "score": 45,
+      "recommendation_reason": "空港至近・登山後の温泉という実用性は高いが、確認できたYahoo!トラベル合算スコアが3.76（12件）と原則6の採用ライン（4.0以上）を下回る。客室・アメニティ3.33、満足度3.75など内訳スコアも軒並み平均的で、『少し贅沢な旅』というブランドコンセプトに沿う高級感・独自性の訴求も弱いと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベル関連の言及では『チェックインの待ち時間』『部屋までの導線が長い』という指摘があった。重大な安全・衛生上の問題ではないが、満足度スコアの低さと合わせて総合評価を押し下げる要因と判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "【公式】天然温泉 縄文の宿「まんてん」｜屋久島空港1分", "url": "https://www.arm-manten.co.jp/" },
+        { "type": "review_site", "title": "クチコミ・評判 - 縄文の宿まんてん [Yahoo!トラベル]", "url": "https://travel.yahoo.co.jp/00030954/review/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "確認できた唯一の数値評価（Yahoo!トラベル合算3.76・12件）が採用ライン4.0を下回り、他の独立情報源で数値評価を裏付けられなかったため、原則6・7の基準を満たさず除外した。"
+    }
+  ]
+}
