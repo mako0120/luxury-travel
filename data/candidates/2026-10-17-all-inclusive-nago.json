@@ -1,0 +1,129 @@
+{
+  "cycle_date": "2026-10-17",
+  "theme": "沖縄県名護市のオールインクルーシブ施設",
+  "season_rationale": "指示されたテーマ（カテゴリ「オールインクルーシブ」×地域「沖縄県名護市」）に沿って調査を実施。直近投稿（2026-10-16 箱根・絶景ホテル、2026-10-17 石垣島・離島リゾート）とは地域・カテゴリとも重複しないテーマのため選定した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-ana-intercontinental-ishigaki", "region": "沖縄県石垣市真栄里", "category": "離島リゾート" },
+    { "post_id": "2026-10-16-kai-sengokuhara", "region": "神奈川県箱根町仙石原", "category": "絶景ホテル" },
+    { "post_id": "2026-09-22-clubmed-sahoro-karikachi", "region": "北海道上川郡新得町", "category": "オールインクルーシブ" },
+    { "post_id": "2026-09-18-clubmed-tomamu-unkai", "region": "北海道占冠村トマム", "category": "オールインクルーシブ" },
+    { "post_id": "2026-09-14-clubmed-ishigaki-kabira", "region": "沖縄県石垣市川平", "category": "オールインクルーシブ" }
+  ],
+  "research_note": "このセッションでは「沖縄県名護市」に実在し、かつ公式に『オールインクルーシブ』（食事・ドリンク・アクティビティ込み）と確認できるホテル・施設を複数の検索クエリで探したが、名護市内に限定すると確認できなかった。沖縄県内で実際にオールインクルーシブと確認できた施設（Yama'oto＝本部町、One Suite THE GRAND＝今帰仁村、AQUASENSE Hotel & Resort＝恩納村、グランメルキュール沖縄残波岬リゾート＝読谷村 等）はいずれも名護市の近隣市町村にあり、名護市そのものではない。名護市内の代表的リゾート（カヌチャベイホテル&ヴィラズ等）はオールインクルーシブプランの存在を公式サイト・口コミサイトのいずれからも確認できなかった。また、このセッションのネットワーク環境では旅行系レビュー・予約サイト（Relux、楽天トラベル、じゃらん、4travel、スカイチケット、iko-yo等）へのWebFetchがことごとく EGRESS_BLOCKED（DNS解決不可）となり、WebSearchのスニペット以上の裏取りができなかった。加えてセッション内のWebSearch利用上限に達したため、追加候補の数値的な口コミ件数の確認を途中で打ち切っている。以上の理由から、今回のサイクルでは『地域：沖縄県名護市』×『カテゴリ：オールインクルーシブ』の組み合わせを厳密に満たす採用候補は見つからなかった（該当なし）。下記3件はいずれも不採用。",
+  "candidates": [
+    {
+      "id": "2026-10-17-kanucha-bay-hotel-villas",
+      "name": "カヌチャベイホテル&ヴィラズ（カヌチャリゾート）",
+      "region": "沖縄県名護市安部",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは、素泊まり2名14,960円〜、朝食付き早期予約プラン1名8,900円〜15,500円（2026年8月7日〜2027年6月30日設定）等の個別プラン価格は確認できたが、オールインクルーシブ料金の有無・金額は確認できなかった。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "名護市安部に広がる約2.64km²の敷地に8棟のホテル棟、本格ゴルフコース、複数プール、ビーチ、マングローブの川、やんばるの森を備える大型リゾート。1997年開業。沖縄三線体験などのアクティビティも紹介されている。",
+      "target_audience": ["家族", "カップル", "友人"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 5,
+        "unique_experience_score": 12,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 55,
+      "recommendation_reason": "名護市内という地域条件には合致するが、今回のテーマであるオールインクルーシブ（食事・ドリンク・アクティビティ込み）プランの存在を、公式サイト・予約サイト・口コミサイトのいずれからも確認できなかった（公式サイトkanucha.jpへのWebFetchはEGRESS_BLOCKEDで直接確認不可）。Reluxでは総合4.4/5・夕食4.0という評価、子ども向けサイト「いこーよ」でも幼児・小学生評価4.4という言及があったが、いずれも口コミ件数が確認できず、原則7（独立2情報源＋件数での信頼度判断）を満たす数値データとして採用できなかったため、review_scoresには記載せず参考情報として留めた。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Reluxの評価のうち夕食の評価（4.0）が他項目（4.4）よりやや低いという言及があった以外、重大な指摘は確認できなかった。ただし口コミ件数・独立2情報源での数値確認ができていないため、評価の信頼度自体が低い。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "カヌチャリゾート 公式サイト", "url": "https://www.kanucha.jp/" },
+        { "type": "review_site", "title": "カヌチャベイホテル&ヴィラズ - Relux", "url": "https://rlx.jp/23754/" },
+        { "type": "booking_site", "title": "カヌチャベイホテル&ヴィラズ - じゃらんnet", "url": "https://www.jalan.net/yad346040/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "地域（名護市）は合致するが、オールインクルーシブという今回のカテゴリ条件を満たすプランの存在を確認できなかったため不採用。加えて数値的な口コミ件数も確認できず、原則7を満たせない。"
+    },
+    {
+      "id": "2026-10-17-yamaoto-motobu",
+      "name": "Yama'oto（ヤマオト）",
+      "region": "沖縄県国頭郡本部町泉",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "dinogo", "score": 10, "scale": 10, "review_count": 6, "checked_date": "2026-10-17", "url": "https://dinogo.com/hotels/587035-yamaoto-resort" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは具体的な料金帯を確認できなかった。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "沖縄のオールインクルーシブ宿を紹介する旅行メディアの記事（tabiiro.jp）で、Novotel沖縄那覇・AQUASENSE Hotel & Resort・Grandy Style Okinawa Yomitan・One Suite THE GRANDと並び、沖縄県内でオールインクルーシブ対応を明記された数少ない施設の一つとして掲載されている。本部町泉に位置し、客室にバス・トイレ・冷蔵庫・コーヒーメーカーを備え、レンタサイクル・セルフランドリーも利用可能。",
+      "target_audience": ["カップル", "夫婦", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 3,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 59,
+      "recommendation_reason": "オールインクルーシブというカテゴリ条件には合致し、dinogoの口コミは6件で10点満点中10と非常に高評価。ただし口コミ件数が極めて少なく（原則6・7の信頼度判断基準を満たさない）、Tripadvisor・楽天トラベル等の独立した2件目以降の数値情報源もこのセッションでは確認できなかった。何より所在地が沖縄県国頭郡本部町であり、今回の地域条件『沖縄県名護市』とは異なる市町村のため、地域条件を満たさない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "WebSearchの検索上限に達し、低評価レビューの内容までは確認できなかった。確認できた口コミ件数自体が6件と少なく、判断材料が限定的。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "Yama'oto Resort - dinogo.com", "url": "https://dinogo.com/hotels/587035-yamaoto-resort" },
+        { "type": "other", "title": "沖縄のオールインクルーシブな宿 - tabiiro.jp", "url": "https://tabiiro.jp/yado/article/okinawa-all-inclusive-yado/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "オールインクルーシブというカテゴリ条件は満たすが、所在地が本部町であり地域条件『沖縄県名護市』を満たさないため不採用。口コミ件数も6件と少なく信頼度の面でも採用ラインに届かない。"
+    },
+    {
+      "id": "2026-10-17-one-suite-the-grand-nakijin",
+      "name": "One Suite THE GRAND（ワンスイート ザ・グランド）",
+      "region": "沖縄県国頭郡今帰仁村古宇利",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは具体的な料金帯・数値評価のいずれも確認できなかった（WebSearch利用上限のため確認を打ち切った）。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "古宇利島の海抜約100mの丘の上に建つ、全室オーシャンビューのホテル。tabiiro.jpの沖縄オールインクルーシブ宿紹介記事にも掲載されている。",
+      "target_audience": ["カップル", "記念日", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 14,
+        "photogenic": 12,
+        "value_for_price": 0,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 32,
+      "recommendation_reason": "丘の上の全室オーシャンビューという独自性は確認できたが、口コミ評価・件数・価格帯のいずれも、このセッションのWebSearch利用上限および旅行系サイトへのWebFetchのEGRESS_BLOCKEDにより確認できなかった。口コミ評価が未確認のため原則6（主要レビュー4.0以上）の判定ができず、採点上は口コミ関連項目を0点扱いとした。また所在地が今帰仁村であり、地域条件『沖縄県名護市』とも異なる。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "WebSearch利用上限に達したため、口コミの確認自体に着手できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "沖縄のオールインクルーシブな宿 - tabiiro.jp", "url": "https://tabiiro.jp/yado/article/okinawa-all-inclusive-yado/" },
+        { "type": "other", "title": "One Suite THE GRAND - gltjp.com directory", "url": "https://cdn.gltjp.com/en/directory/item/17434/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "地域（今帰仁村）が条件『沖縄県名護市』を満たさない。加えて口コミ評価・件数・価格のいずれも確認できておらず、原則6・7のファクトチェックが完了していないため、地域条件を満たしていたとしても現状では採用できない。"
+    }
+  ]
+}
