@@ -1,0 +1,94 @@
+{
+  "cycle_date": "2026-10-17",
+  "theme": "島根県松江市の文化体験カテゴリ（宍道湖畔の老舗旅館・歴史文化施設）",
+  "season_rationale": "10月中旬の松江は残暑が落ち着き、11月中旬からの紅葉本番前の『狙い目』シーズン。宍道湖の夕景も空気が澄んで一段と映える時期にあたる。文化体験カテゴリは2026-09-22の岐阜県高山市（本陣平野屋 花兆庵）以来で、地域（島根）・施設タイプ（宍道湖畔の老舗旅館）とも前回とは異なる。直近2投稿（2026-10-17 石垣島・離島リゾート、2026-10-16 箱根仙石原・絶景ホテル）とも地域・カテゴリが重複しない（原則29）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-ana-intercontinental-ishigaki", "region": "沖縄県石垣市真栄里", "category": "離島リゾート" },
+    { "post_id": "2026-10-16-kai-sengokuhara", "region": "神奈川県箱根町仙石原", "category": "絶景ホテル" },
+    { "post_id": "2026-09-22-honjin-hiranoya-kachoan", "region": "岐阜県高山市", "category": "文化体験" }
+  ],
+  "duplication_note": "島根県・松江市はこれまでの候補/キャプション履歴（captions/, data/candidates/ 配下）に登場しておらず、地域・カテゴリとも直近投稿と重複しない。なお検討の過程で『由志園』（大根島の日本庭園・牡丹の名所）と、松江城下町の一棟貸し宿として名前が挙がった『一客一亭』についても調査を行ったが、このセッションのWebSearch利用上限に達するまでの範囲では、じゃらん・Tripadvisor・Googleマップ等いずれからも数値としての評価点・口コミ件数を確認できなかった（由志園は庭園としての知名度・紹介記事は豊富だが口コミ数値は未確認、一客一亭は施設名自体の掲載ページをこのセッション内で特定できなかった）。数値の裏付けがない施設を正式な採点候補として記録することは原則7（複数の独立情報源での裏付け）・捏造禁止の方針に反するため、本ファイルの候補一覧には含めず、本採点候補（皆美館）と不採用候補（堀川遊覧船）の2件を記録する。",
+  "candidates": [
+    {
+      "id": "2026-10-17-minamikan",
+      "name": "松江しんじ湖温泉 皆美館（みなみかん）",
+      "region": "島根県松江市末次本町（宍道湖畔・松江大橋北詰）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.84, "scale": 5, "review_count": 341, "checked_date": "2026-10-17", "url": "https://travel.rakuten.co.jp/HOTEL/7799/review.html" },
+        { "source": "Relux", "score": 4.9, "scale": 5, "review_count": 30, "checked_date": "2026-10-17", "url": "https://rlx.jp/23156/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では一泊二食付きの正確な料金帯を確認できなかった。130年以上の歴史を持つ老舗旅館として高価格帯のプランが中心と推測されるが、予約前に公式サイト・各予約サイトで最新の料金・空室状況を確認する必要がある。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "明治21年（1888年）創業、130年以上の歴史を持つ宍道湖畔の老舗旅館。島崎藤村をはじめ多くの文人墨客が逗留し、作家・山口瞳が調理場に代々伝わる技を評価したという『皆美家伝鯛めし』が名物。宍道湖を望む庭園と、宿泊せずとも鯛めし御膳を味わえる庭園茶寮『みな美』を併設しており、宿泊だけでなく松江の食文化・文人文化に触れる体験として成立している。",
+      "renewal_or_news": "楽天トラベルの『島根県 食事の評価が高い宿』ランキング（2026年5月時点）で1位に選出されていることを確認した。",
+      "target_audience": ["夫婦", "記念日", "カップル", "ホテル好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 82,
+      "recommendation_reason": "楽天トラベル4.84（341件）、Relux4.9（30件）という性質の異なる2つの独立した情報源でいずれも推奨ライン4.2を大きく上回る高評価を確認できた（原則6・7）。130年以上の歴史、文人墨客が愛した鯛めし、宍道湖を望む庭園という『ここでしかできない文化的体験』が明確で、松江の文化体験カテゴリとして説得力がある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベルの口コミの中に、夕食の釜飯が焦げて硬かったという指摘や、洗面所の排水が良くなかったという指摘があった。また項目別評価では温泉・お風呂（4.65）が他の項目（4.8台後半）よりやや低めだった。いずれも一部の口コミ・一部項目に限られ、清潔感や接客・立地など全体評価を揺るがす重大な指摘ではないため、除外基準（原則10）には当たらないと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "松江しんじ湖温泉 皆美館 お客さまの声・評価 - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/7799/review.html" },
+        { "type": "review_site", "title": "皆美館の口コミ・評価 - Relux", "url": "https://rlx.jp/23156/review/" },
+        { "type": "review_site", "title": "皆美館 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00001329" },
+        { "type": "other", "title": "山口瞳が好んだ島根・松江「皆美館」の鯛めし - 文藝春秋", "url": "https://bunshun.jp/bungeishunju/articles/h7808" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-17-horikawa-cruise",
+      "name": "ぐるっと松江堀川めぐり（堀川遊覧船）",
+      "region": "島根県松江市（松江城を囲む堀川一帯）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "GLTJP（地域観光情報サイト）", "score": 4.18, "scale": 5, "review_count": 3, "checked_date": "2026-10-17", "url": "https://www.gltjp.com/ja/directory/item/13049/" }
+      ],
+      "price_range_jpy": {
+        "note": "大人1,600円、中人（中学・高校生）1,300円、小学生800円（掲載サイトの参考値）。荒天時運休。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "松江城を囲むお堀を屋根付きの小舟でめぐる遊覧船。船頭の案内を聞きながら城下町の景観を楽しめ、橋のくぐり抜けが17カ所あり、屈んで通過するスリリングな体験が名物。2023年には『プロが選ぶ水上観光船30選』で4位に選出された実績がある。",
+      "target_audience": ["家族", "友人", "一人旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 3,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 61,
+      "recommendation_reason": "橋のくぐり抜け17カ所という体験の独自性や『プロが選ぶ水上観光船30選』4位という評価実績は確認できたが、数値評価の情報源がGLTJP一件・口コミ3件のみで、独立した2件目の情報源を確認できなかった（原則7未達）。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できた口コミ件数自体が少なく（3件）、本文の内容までは確認できなかった。荒天時は運休となる点、橋の通過時に屈む必要がある点は事前情報レベルの注意点として把握したが、重大な苦情は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "ぐるっと松江堀川めぐり（堀川遊覧船） - GLTJP", "url": "https://www.gltjp.com/ja/directory/item/13049/" },
+        { "type": "other", "title": "松江・堀川遊覧船特集 - えきたん", "url": "https://ekitan.com/odekake/lab/city/240424" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価の裏付けとなる独立した情報源が1件（口コミ3件）のみで、原則7（最低2種類以上の独立した情報源での裏付け）を満たせなかったため、今回は見送った。"
+    }
+  ]
+}
