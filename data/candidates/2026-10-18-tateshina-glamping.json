@@ -1,0 +1,132 @@
+{
+  "cycle_date": "2026-10-18",
+  "theme": "長野県茅野市蓼科高原のグランピング施設",
+  "season_rationale": "指示されたテーマ（カテゴリ「グランピング」×地域「長野県茅野市蓼科高原」）に沿って調査を実施。10月下旬の蓼科高原（標高1,250m前後）は紅葉がほぼ終盤〜落葉期に入り、朝晩は大きく冷え込む一方、日中は焚き火・バレルサウナ・満天の星空が映える『秋グランピング』の締めの時期にあたる（原則30）。直近投稿（サウナ=月岡温泉、オールインクルーシブ=恩納村、離島リゾート=西表島/石垣島、絶景ホテル=箱根仙石原）とは地域・カテゴリとも重複しないテーマ。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-kahou-tsukioka", "region": "新潟県新発田市月岡温泉", "category": "サウナ" },
+    { "post_id": "2026-10-17-aquasense-onna", "region": "沖縄県国頭郡恩納村字冨着", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-17-hoshino-iriomote-hotel", "region": "沖縄県八重山郡竹富町上原（西表島）", "category": "離島リゾート" },
+    { "post_id": "2026-10-17-ana-intercontinental-ishigaki", "region": "沖縄県石垣市真栄里（マエサトビーチ）", "category": "離島リゾート" },
+    { "post_id": "2026-10-16-kai-sengokuhara", "region": "神奈川県足柄下郡箱根町仙石原", "category": "絶景ホテル" }
+  ],
+  "duplication_note": "既存の `captions/` `posts/` `data/candidates/` を確認した結果、長野県茅野市・蓼科高原エリアのグランピングを扱った既存投稿・候補はなし（既存グランピング4件はいずれも別地域: 2026-09-14=栃木県佐野市、2026-09-18=静岡県富士宮市、2026-09-22=北海道富良野、2026-10-17=和歌山県白浜町）。なお2026-09-18のサウナサイクル（軽井沢・蓼科エリア）で『リゾートホテル蓼科』『蓼科パークホテル』を調査・不採用にした記録はあるが、いずれも温泉旅館のサウナ施設であり、本サイクルのグランピング候補とは別施設・別カテゴリのため重複に該当しない。",
+  "research_note": "長野県茅野市・蓼科高原エリアで実在するグランピング系施設として『グラマラスダイニング蓼科 THE CAMP』『蓼科グリーンキャンプ』『白樺リゾート キャンピングビレッジ（白樺湖、茅野市に隣接する蓼科高原エリア）』の3件を調査した。いずれも公式情報・施設概要までは確認できたが、原則7（独立2情報源以上での数値評価の裏取り）を満たす候補が本セッションでは見つからなかった：(1) グラマラスダイニング蓼科 THE CAMPは日本旅行掲載ページで『総合評価：収集中』であり口コミ自体が存在しない、(2) 蓼科グリーンキャンプ・白樺リゾートキャンピングビレッジはいずれもキャンプ場専門サイト『なっぷ』の1件のみ数値評価が確認でき、楽天トラベル・じゃらん・Tripadvisor・Googleマップ等の第2の独立した数値情報源は本セッションでは確認できなかった。このセッションのネットワーク環境では旅行系・キャンプ系ドメイン（nap-camp.com、walkerplus.com、rurubu.travel、楽天トラベル等）へのWebFetchがすべてEGRESS_BLOCKED（DNS解決不可）となり、WebSearchのスニペット以上の裏取りができなかった。加えて本ターン共有のWebSearch利用上限に達したため、追加の情報源確認および『該当なしの場合は別地域で1回再調査する』の再調査そのものを本サイクル内では実施できなかった（ツール制約によるもので、意図的なスキップではない）。以上の理由から、総合スコア75点以上かつ原則7を満たす候補は本サイクルでは確認できず、3件とも不採用（該当なし）とした。次回サイクルでWebSearch上限がリセットされた際に、蓼科高原の別地域再調査、または本3施設の第2情報源の追加確認を優先的に行うことを推奨する。",
+  "candidates": [
+    {
+      "id": "2026-10-18-glamorous-dining-tateshina-the-camp",
+      "name": "グラマラスダイニング蓼科 THE CAMP",
+      "region": "長野県茅野市（蓼科高原・東急リゾートタウン蓼科内）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは、2022年の販売時点のプラン内容（食材・飲料は持ち込み基本、隣接スパ『鹿山の湯』無料特典）までは確認できたが、2026年時点の最新料金は確認できなかった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "東急リゾートタウン蓼科内にある、日本初とされるシャワー・トイレ付きスロベニア製テントヴィラ（室内暖房完備・客室4室）を、焚火を囲むように4張配置した施設。食材・飲料は持ち込みが基本で、隣接するスパリゾート『鹿山の湯』が利用できる特典がある。JR茅野駅から送迎車で約40分。",
+      "target_audience": ["カップル", "記念日", "友人"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 16,
+        "photogenic": 11,
+        "value_for_price": 0,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 33,
+      "recommendation_reason": "『日本初のシャワー・トイレ付きスロベニア製テントヴィラ』『4張限定・焚火を囲む配置』という独自性は確認できたが、日本旅行の掲載ページで総合評価が『収集中（集計期間2025年5月〜2026年4月）』となっており、楽天トラベル・じゃらん等の他サイトでも口コミ点数そのものを確認できなかった。原則6（主要レビュー4.0以上）の判定material自体が存在しないため、現時点では採用できない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミが集計中で件数・内容が存在しないため、ネガティブレビューの有無自体を確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "グラマラスダイニング蓼科 THE CAMP - 日本旅行（総合評価：収集中）", "url": "https://www.nta.co.jp/yado/shisetsu/4369-401.htm" },
+        { "type": "other", "title": "Glamorous Dining Tateshina THE CAMP - るるぶ&more.", "url": "https://www.rurubu.travel/hotel/japan/chino/glamorous-dining-tateshina-the-camp" },
+        { "type": "press", "title": "東急リゾートタウン蓼科 グラマラスダイニング蓼科 THE CAMP プレスリリース（東急リゾートサービス）", "url": "https://www.tokyu-rs.co.jp/wp/wp-content/uploads/2022/03/20220323tateshina.pdf" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価が『収集中』で数値データが一切存在せず、原則6・7のいずれも判定不能なため不採用。"
+    },
+    {
+      "id": "2026-10-18-tateshina-green-camp",
+      "name": "蓼科グリーンキャンプ",
+      "region": "長野県茅野市北山（蓼科高原、標高約1,250m）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "なっぷ（キャンプ場専門口コミサイト）", "score": 4.36, "scale": 5, "review_count": 26, "checked_date": "2026-10-18", "url": "https://www.nap-camp.com/nagano/14399" }
+      ],
+      "price_range_jpy": {
+        "note": "バレルサウナは80分利用枠4,000円〜という価格は確認できたが、キャンプ・グランピング宿泊自体の正確な料金帯はこのセッションのWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "八ヶ岳中信国定公園内、標高約1,250mの隣接ホテル敷地内にあるキャンプ場。高原の屋外バレルサウナ（受付はホテルフロント、レンタル品付き）と、徒歩圏の『乙女滝』での水浴びができる点が特徴。ビーナスラインのドライブにも近い。",
+      "target_audience": ["友人", "家族", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 6,
+        "unique_experience_score": 13,
+        "photogenic": 11,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 66,
+      "recommendation_reason": "なっぷの口コミ4.36（26件）は採用ライン（4.2以上推奨）を上回る高評価だが、確認できた数値評価がなっぷ1サイトのみで、原則7が求める『最低2種類以上の独立した情報源』を満たす2件目の数値情報源（楽天トラベル・じゃらん・Tripadvisor・Googleマップ等）を本セッションでは確認できなかった。また宿泊の具体的な料金帯も未確認のため、価格対体験価値の配点を保守的にとどめた。これらの裏取り不足を反映してreview_reliability・value_for_priceを低めに採点した結果、総合スコアは66点で採用ライン（75点）に届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "なっぷの口コミには『ホテル敷地内にあるキャンプ場のため、大自然の中のキャンプ場という雰囲気ではない』という声があり、2024年12月の投稿ではサービス1点・設備2点という低評価も確認できた。重大な安全・衛生上の問題の指摘は確認できなかったが、立地の雰囲気に対する期待とのギャップを指摘する声は一定数ある。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "蓼科グリーンキャンプ - なっぷ", "url": "https://www.nap-camp.com/nagano/14399" },
+        { "type": "other", "title": "蓼科・白樺湖・車山・女神湖・姫木平エリアのキャンプ場一覧 - なっぷ", "url": "https://www.nap-camp.com/garbage_dump/nagano/tatesina_shirakawako_kurumayama_megamiko_himekidaira/list" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価自体は高いが、独立した2件目の数値評価情報源を確認できず原則7を満たせないこと、および総合スコアが66点で採用ライン75点に届かないため不採用。"
+    },
+    {
+      "id": "2026-10-18-shirakaba-resort-camping-village",
+      "name": "白樺リゾート キャンピングビレッジ",
+      "region": "長野県茅野市（蓼科高原・白樺湖畔、池の平ホテル新本館併設）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "なっぷ（キャンプ場専門口コミサイト）", "score": 4.2, "scale": 5, "review_count": 39, "checked_date": "2026-10-18", "url": "https://www.nap-camp.com/nagano/14049" }
+      ],
+      "price_range_jpy": {
+        "note": "サイト料金は区画タイプ（プレミアムサイト＝人工芝・ベーシックサイト等）により異なるが、具体的な金額はこのセッションのWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "白樺湖畔、2022年4月リニューアルオープンのキャンプ場。人工芝のプレミアムサイト12区画・ベーシックサイト12区画（一部ペット可）・芝サイト4張を備え、利用者全員が隣接する池の平ホテル新本館の温泉『湖天の湯』を無料で利用できる。営業期間は2026年4月18日〜10月11日（本サイクル時点は営業期間外の可能性があるため要確認）。",
+      "target_audience": ["家族", "友人", "カップル"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 6,
+        "unique_experience_score": 13,
+        "photogenic": 12,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 66,
+      "recommendation_reason": "なっぷの口コミ4.2（約39〜41件、ページ取得時点で件数に揺れあり）は採用ラインを満たすが、2件目以降の独立した数値評価情報源（楽天トラベル・じゃらん・Tripadvisor・Googleマップ等）を本セッションでは確認できず、原則7を満たせない。また本格的な『グランピングコテージ』の存在を示す情報は確認できず、現状確認できた設備は人工芝サイト主体のオートキャンプに近い内容である点、さらに2026年の営業期間が4/18〜10/11とされ本サイクル時点（10月18日）では営業終了間際〜終了後の可能性がある点も懸念材料。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "大きな否定的指摘は確認できなかったが、口コミ件数の表示がページごとに39〜41件とばらついており、データの最新性・一貫性に疑問が残る。グランピング専用の宿泊区分についての言及も確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "白樺リゾート キャンピングビレッジ - なっぷ", "url": "https://www.nap-camp.com/nagano/14049" },
+        { "type": "other", "title": "白樺リゾート キャンピングビレッジ - ウォーカープラス", "url": "https://summer.walkerplus.com/odekake/detail/ar0420s16261/data.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価自体は採用ラインを満たすが、独立した2件目の数値評価情報源を確認できず原則7を満たせないこと、グランピング専用設備の存在が未確認であること、総合スコアが66点で採用ライン75点に届かないことから不採用。"
+    }
+  ]
+}
