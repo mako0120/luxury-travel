@@ -1,0 +1,83 @@
+{
+  "cycle_date": "2026-10-18",
+  "theme": "指定リサーチ：北海道虻田郡留寿都村（ルスツリゾート）× オールインクルーシブ",
+  "season_rationale": "10月中旬は夏季の遊園地営業（例年4月末〜10月中旬）がほぼ終了し、冬季スキーシーズン（例年12月上旬〜翌3月下旬）の予約検討がちょうど本格化するタイミング。実際に検索時点（2026-10-18）で夏季プランは『宿泊期限2026/10/17・遊園地営業最終日10/18』として販売終了済みであり、2026-27冬season向け『2食＆リフト券』プランの販売が始まっていることを確認した。雪のシーズンインを控えた『冬の北海道』の話題として時期は合っている。",
+  "prior_posts_checked": [
+    { "caption_id": "2026-10-17-aquasense-onna", "region": "沖縄県国頭郡恩納村", "category": "オールインクルーシブ", "note": "指定により除外対象（別施設）" },
+    { "candidate_id": "2026-09-18-clubmed-tomamu / sahoro / kiroro-grand", "region": "北海道（占冠村・新得町・赤井川村）", "category": "オールインクルーシブ", "note": "指定により除外対象（クラブメッド各施設、別施設）" }
+  ],
+  "duplication_note": "本サイクルはユーザー指定により地域（北海道虻田郡留寿都村＝ルスツリゾート）・カテゴリ（オールインクルーシブ）を固定して調査した。既存のクラブメッド各施設（トマム・サホロ・キロロ グランド）、AQUASENSE恩納村とはいずれも異なる施設・運営会社（ルスツリゾートはホテル&コンベンション＋ウェスティン ルスツリゾートを運営する加森観光グループ）であることを確認済み。",
+  "other_candidates_considered": [
+    "ルスツリゾートホテル&コンベンション（North Wing/South Wing/Tower Wing）の『プレミアムスイート』（個室サウナ・水風呂・酸素カプセル等付き客室）も確認したが、これは客室設備のアップグレードであり食事・ドリンク・アクティビティ込みの料金プランではないため、オールインクルーシブ候補としては別軸と判断し本採点の対象外とした。"
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-18-rusutsu-resort",
+      "name": "ルスツリゾート（ウェスティン ルスツリゾート／ルスツリゾートホテル&コンベンション）",
+      "region": "北海道虻田郡留寿都村",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Trip.com",
+          "score": 8.5,
+          "scale": 10,
+          "review_count": 135,
+          "checked_date": "2026-10-18",
+          "url": "https://ca.trip.com/hotels/rusutsu-hotel-detail-5297217/the-westin-rusutsu-resort/review.html"
+        },
+        {
+          "source": "Booking.com",
+          "score": 8.6,
+          "scale": 10,
+          "review_count": 85,
+          "checked_date": "2026-10-18",
+          "url": "https://www.booking.com/city/jp/rusutsu.en-gb.html"
+        },
+        {
+          "source": "楽天トラベル",
+          "score": 4.2,
+          "scale": 5,
+          "review_count": 43,
+          "checked_date": "2026-10-18",
+          "url": "https://travel.rakuten.co.jp/HOTEL/149357/149357.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "公式『オールインクルーシブ』プランは確認できなかった。最も近い内容の『2食（夕食ブッフェ＋朝食ブッフェ/セットメニュー）＋遊園地あそび放題リゾート券』プラン（夏季・販売終了済）は1人あたり約12,400円〜25,700円（税・サービス料込、宿泊税別）という表示を複数の予約サイト（gutabi.jp経由の代理店掲載）で確認した。2026-27冬シーズン向け『2食＆リフト券』プランも販売中だが、本セッションのWebSearchスニペットでは具体的な料金を確認できなかった。いずれも飲み放題・アルコール込みであることを示す記載は確認できていない。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "ゲレンデ内に観覧車・絶景ゴンドラを備えた遊園地を併設する、国内でも珍しい『スキー場×遊園地×温泉』一体型のオールシーズンリゾート。パウダースノーで海外（特にオーストラリア）スキー客からの知名度も高い。夏季は『2食付き＋遊園地あそび放題リゾート券』、冬季は『2食付き＋ゴンドラ・リフト滞在券』のセットプランがあり、宿泊・食事・施設利用（遊園地アトラクションまたはリフト、屋内プール、温泉大浴場）を1つの料金でまとめて楽しめる点はオールインクルーシブに近い発想だが、ドリンク（特にアルコール）が料金に含まれるという記載は確認できなかった。",
+      "renewal_or_news": "2026-27冬シーズン向け『[2食&リフト券]セットでお得!スキー&スノーボードプラン』が販売開始されており（宿泊期限2027/03/30）、ゴンドラ・リフトはチェックイン日9:00からチェックアウト日営業終了まで毎日利用可と確認した。夏季の『うまいもんまつり+BBQ食べ放題』期間限定プランも確認したが、これも期間限定イベントであり年間を通じた公式オールインクルーシブプランではない。",
+      "target_audience": ["家族", "カップル", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 10,
+        "unique_experience_score": 13,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 64,
+      "recommendation_reason": "ルスツリゾート自体はパウダースノー・遊園地併設という強い独自性を持つが、今回調査した限りでは『オールインクルーシブ』を公式に名乗るプランが存在せず、最も近い『2食＋リフト券／遊園地あそび放題』セットプランもドリンク込みである形跡がない。レビュー評価もTrip.com8.5/10（135件）・Booking.com8.6/10（85件）・楽天トラベル4.2/5（43件）は採用ライン（4.0以上換算）を満たすものの、サイトによっては2.0〜3.5という低い評価や件数が極端に少ない（6件）掲載もあり、情報源間の一致度が低い。総合スコア64点は採用ライン（75点）に届かず、カテゴリ適合（オールインクルーシブとしての実体）の観点でも根拠が弱いため不採用と判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "jcationに掲載の個人口コミで『毎年宿泊しているが、朝食のクオリティは段々落ちてきているように思う』という指摘を確認。cocolocalaには2026年7月付で評価2.0の投稿があるが本文は未確認。フォートラベルの古い口コミ（2016年）では『館内アクセスがやや不便』という指摘もあった。いずれも清潔感・安全性に関わる重大な指摘ではないが、評価の分散自体が信頼性の低さを示している。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "ルスツリゾート 宿泊プラン一覧 - gutabi.jp", "url": "https://www.gutabi.jp/hotel/base/207/plan/63453" },
+        { "type": "booking_site", "title": "ルスツリゾート 2026-27冬[2食&リフト券]プラン - gutabi.jp", "url": "https://www.gutabi.jp/hotel/base/207/plan/86957" },
+        { "type": "review_site", "title": "The Westin Rusutsu Resort - Guest Reviews 8.5/10 (135 reviews) - Trip.com", "url": "https://ca.trip.com/hotels/rusutsu-hotel-detail-5297217/the-westin-rusutsu-resort/review.html" },
+        { "type": "review_site", "title": "Rusutsu hotels - guest rating 8.6/10 (85 reviews) - Booking.com", "url": "https://www.booking.com/city/jp/rusutsu.en-gb.html" },
+        { "type": "booking_site", "title": "ウェスティン ルスツリゾート - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/149357/149357.html" },
+        { "type": "review_site", "title": "ウェスティンルスツリゾート クチコミ(74件) - フォートラベル", "url": "https://4travel.jp/dm_hotel_tips/12722631" },
+        { "type": "other", "title": "ウェスティンルスツリゾートの口コミ - jcation", "url": "https://jcation.com/hotel/detail-3989/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア64点で採用ライン（75点）に届かず不採用。加えて、カテゴリ『オールインクルーシブ』の根拠となる公式プランが確認できず（最も近い『2食＋リフト券／遊園地あそび放題』セットプランにも飲食・ドリンク全込みを示す記載がない）、レビュー評価もサイト間でばらつきが大きく信頼性に欠ける。"
+    }
+  ]
+}
