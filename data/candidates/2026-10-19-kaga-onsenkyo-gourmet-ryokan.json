@@ -1,0 +1,162 @@
+{
+  "cycle_date": "2026-10-19",
+  "theme": "石川県加賀温泉郷（山代温泉・山中温泉）のグルメ旅館",
+  "season_rationale": "輪島市のグルメ旅館カテゴリで採用ラインを満たす候補が見つからなかったため（2026-10-19-wajima-gourmet-ryokan.json）、指示に基づき同じ石川県内の加賀温泉郷で1回だけ再調査した。10月下旬〜11月上旬は松葉ガニ漁解禁前の『少し贅沢な旅』としての食の訴求がしやすい時期。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-19-wajima-gourmet-ryokan（候補のみ・該当なし）", "region": "石川県輪島市（輪島温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-18-kaike-shogetsu", "region": "鳥取県米子市（皆生温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-18-kitakobushi-shiretoko", "region": "北海道斜里郡斜里町（知床・ウトロ温泉）", "category": "アクティビティ" },
+    { "post_id": "2026-10-18-nara-hotel", "region": "奈良県奈良市（奈良公園）", "category": "文化体験" }
+  ],
+  "duplication_note": "同一サイクル内の再調査のため地域は石川県のまま（輪島市→加賀市）だが、輪島市の候補はすべて『該当なし』で投稿化されておらず、過去の実選定投稿に石川県は一度も登場していないため重複にはあたらない。カテゴリ『グルメ旅館』は直近では2026-10-18に鳥取県皆生温泉で選定済みだが、連続投稿にはなっていない（原則29）。",
+  "research_limitation_note": "本サイクルはこのセッションのWebSearch利用回数の上限（セッション全体で共有）に到達したため、ファクトチェックの一部（特にマイナス口コミの個別確認・二次情報源によるクロスチェック）を完了できないまま調査を終えている。能登半島地震（2024年）・輪島市街の大火の被害は加賀市（山代温泉・山中温泉）では輪島市ほど大きくないと見られるが、本サイクルではその点も含め十分な確証が取れていない。そのため以下の候補はいずれも『selected』とせず、score・negative_review_checkが不完全な前提で`shortlisted`/`rejected`に留めている。",
+  "candidates": [
+    {
+      "id": "2026-10-19-yamashiro-kikyo",
+      "name": "山代温泉 ホテルききょう",
+      "region": "石川県加賀市山代温泉",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル（Web検索経由の集計値。個別ページへの直接アクセスでは確認できず）",
+          "score": 4.88,
+          "scale": 5,
+          "review_count": 317,
+          "checked_date": "2026-10-19"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では価格帯を確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "料理自慢の宿として紹介されており、朝食の鰤（ぶり）のへしこが逸品という口コミへの言及があった。楽天トラベルのクチコミ評価4.88（317件）は加賀温泉郷の中でも高い水準。",
+      "target_audience": ["グルメ旅", "夫婦", "記念日"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 10,
+        "unique_experience_score": 12,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 64,
+      "recommendation_reason": "楽天トラベル4.88（317件）という数値自体は非常に高いが、本サイクルではWebSearchの利用回数上限に達したため、個別の口コミページ（じゃらん・フォートラベル等）での直接確認や、低評価レビューの具体的な内容確認、料理・写真映え・価格帯の裏取りができていない。単一の集計情報源のみでは原則7（最低2種類以上の独立した情報源）を厳密には満たせないため、現時点ではshortlisted（要再調査）に留める。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "本サイクルはWebSearchの利用回数上限に達したため、低評価レビューの個別確認を完了できなかった。要再調査。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "加賀温泉郷（山代温泉）料理自慢の宿紹介・旅館一覧（楽天トラベル評価4.88・317件の言及あり）", "url": "https://japanese-onsen.com/ja/ryokans-onsen-areas/chubu/kaga-onsen/ryokans/" },
+        { "type": "other", "title": "石川県の料理自慢の旅館一覧 - OZmall", "url": "https://www.ozmall.co.jp/travel/stay/ishikawa/area/area_1703/ryokan/kwd_71/list/" }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "数値上は採用ラインに近いが、WebSearch利用回数上限のため個別口コミ・低評価レビューの裏取りができず、原則7・原則10の確認を完了できていないため今回はselectedにできない。次回サイクルでじゃらん・フォートラベル・Googleレビュー等の個別ページを直接確認した上で再評価する。"
+    },
+    {
+      "id": "2026-10-19-yamanaka-kuriya88",
+      "name": "山中温泉 厨八十八",
+      "region": "石川県加賀市山中温泉",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル（Web検索経由の集計値。個別ページへの直接アクセスでは確認できず）",
+          "score": 4.52,
+          "scale": 5,
+          "review_count": 215,
+          "checked_date": "2026-10-19"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では価格帯を確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "館内の雰囲気やロビーのフリードリンクを評価する口コミがある一方、改善点を挙げる辛口の意見もあるとの言及があった（具体的内容は本サイクルでは特定できず）。楽天トラベルのクチコミ評価4.52（215件）。",
+      "target_audience": ["グルメ旅", "夫婦", "女子旅"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 9,
+        "unique_experience_score": 10,
+        "photogenic": 7,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 58,
+      "recommendation_reason": "楽天トラベル4.52（215件）は良好だが、ホテルききょうと同様、本サイクルではWebSearchの利用回数上限により低評価レビューの具体的内容・独自体験の裏取り・写真映えの確認ができていない。『改善点を挙げる辛口の意見もある』という言及があり、その具体的内容を確認できていない点が特に懸念材料。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "Web検索の要約で『改善点を挙げる辛口の意見もある』との言及があったが、本サイクルはWebSearchの利用回数上限に達し、具体的な内容を特定できなかった。要再調査。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "加賀温泉郷（山中温泉）料理自慢の宿紹介・旅館一覧（楽天トラベル評価4.52・215件の言及あり）", "url": "https://japanese-onsen.com/ja/ryokans-onsen-areas/chubu/kaga-onsen/ryokans/" },
+        { "type": "other", "title": "石川県の料理自慢の旅館一覧 - OZmall", "url": "https://www.ozmall.co.jp/travel/stay/ishikawa/area/area_1703/ryokan/kwd_71/list/" }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "数値上は採用ラインに近いが、WebSearch利用回数上限のため『改善点を挙げる辛口の意見』の具体的内容を確認できず、原則10（マイナス口コミ分析）を完了できていないため今回はselectedにできない。次回サイクルで個別口コミを直接確認した上で再評価する。"
+    },
+    {
+      "id": "2026-10-19-yamashiro-araya-touan",
+      "name": "山代温泉 あらや滔々庵",
+      "region": "石川県加賀市山代温泉",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "ニフティ温泉",
+          "score": 4.2,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-19",
+          "url": "https://onsen.nifty.com/kagashuuhen-onsen/onsen001933/kuchikomi/"
+        },
+        {
+          "source": "cocolocala",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-19",
+          "url": "https://www.cocolocala.jp/hotels/10177"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では価格帯を確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "山代温泉の総湯のすぐ前という立地、源泉を利用した温泉たまごが絶品との口コミ。落ち着いた雰囲気と料理が好評で、Relux（2026年3月投稿）では全項目満点の評価があったが件数不足のため総合点は算出されていない。Hotels.comでは10段階中10点の表示もあった。",
+      "target_audience": ["夫婦", "記念日", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 5,
+        "unique_experience_score": 12,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 48,
+      "recommendation_reason": "総湯前の立地・源泉たまご・落ち着いた雰囲気という独自性はあるが、確認できた評価の多くが件数不足（ニフティ温泉は2006年投稿と古く、Reluxは件数不足で総合点未算出）で信頼度が低く、原則6・7を安定して満たせないため見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "cocolocalaの投稿で『露天風呂がやや小さい』という指摘があった。ニフティ温泉の口コミは2006年投稿と古く、現状のサービスを反映していない可能性がある。清潔感・接客・料理に関わる重大な指摘は確認できなかったが、評価件数が少なく信頼度は低い。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "あらや滔々庵 クチコミ（ニフティ温泉／4.2・古い投稿）", "url": "https://onsen.nifty.com/kagashuuhen-onsen/onsen001933/kuchikomi/" },
+        { "type": "sns", "title": "あらや滔々庵 口コミ（Relux／2026年3月投稿・全項目5点だが件数不足）", "url": "https://rlx.jp/26703/review/" },
+        { "type": "review_site", "title": "あらや滔々庵 宿泊口コミ（露天風呂がやや小さいとの指摘あり） - cocolocala", "url": "https://www.cocolocala.jp/hotels/10177" },
+        { "type": "booking_site", "title": "あらや滔々庵 - Hotels.com（10段階中10点の表示）", "url": "https://jp.hotels.com/ho632972/araya-tao-an-jia-he-ri-ben" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア48点で採用ライン（75点）に届かず、確認できた評価の件数が少なく（一部は2006年投稿と古い）信頼度が低いため見送った。"
+    }
+  ],
+  "cycle_result": "該当なし。山代温泉ホテルききょう・山中温泉厨八十八は楽天トラベルの集計評価自体は高い（4.88/4.52）ものの、本サイクルはWebSearchの利用回数上限に達したため、低評価レビューの個別確認・複数情報源によるクロスチェックを完了できず、原則7・10の要件を満たせないためselectedにしなかった。あらや滔々庵は評価件数が少なく総合スコア48点で採用ラインに届かなかった。指示により再調査は1回までのため、今サイクルはキャプション制作を行わず『該当なし』として終了する。次回サイクルで、じゃらん・フォートラベル・Googleレビュー等の個別ページを直接確認した上でホテルききょう・厨八十八を優先的に再評価することを推奨する。"
+}
