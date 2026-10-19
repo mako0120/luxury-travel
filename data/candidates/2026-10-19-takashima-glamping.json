@@ -1,0 +1,145 @@
+{
+  "cycle_date": "2026-10-19",
+  "theme": "滋賀県高島市（琵琶湖畔）のグランピング施設",
+  "season_rationale": "指示されたテーマ（カテゴリ「グランピング」×地域「滋賀県高島市（琵琶湖畔）」）に沿って調査を実施。10月下旬の高島市・琵琶湖畔は、今津浜などの湖水浴場はオフシーズンに入る一方、朝晩の気温が下がり始め、客室温泉や焚き火を囲む『秋グランピング』が心地よくなるタイミング（原則30）。京都・大阪から日帰り圏の近さを活かした小旅行需要も見込める時期。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-18-kitakobushi-shiretoko", "region": "北海道斜里郡斜里町（知床）", "category": "アクティビティ" },
+    { "post_id": "2026-10-18-grand-mercure-okinawa-zanpa", "region": "沖縄県中頭郡読谷村字宇座（残波岬）", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-18-hoshinoya-fuji", "region": "山梨県南都留郡富士河口湖町大石（河口湖畔）", "category": "グランピング" },
+    { "post_id": "2026-10-18-kaike-shogetsu", "region": "鳥取県米子市皆生温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-18-miyajima-seaside-hotel", "region": "広島県廿日市市宮島", "category": "絶景ホテル" },
+    { "post_id": "2026-10-18-kurobe-gorge-torokko", "region": "富山県黒部市（黒部峡谷）", "category": "列車・船" }
+  ],
+  "duplication_note": "既存の `captions/` `posts/` `data/candidates/` を確認した結果、滋賀県高島市・琵琶湖畔を扱った既存投稿・候補はなし（既存候補に『2026-10-17-gunkanjima-cruise』が滋賀とは無関係の長崎・軍艦島クルーズ、唯一の既存グランピング選定投稿は2026-10-18のhoshinoya-fuji＝山梨県）。カテゴリ『グランピング』は2026-10-18（1サイクル前）のhoshinoya-fujiと近接するため、原則29（地域・カテゴリの連続回避）の観点では理想的な間隔ではないが、本サイクルは依頼者から地域・カテゴリを直接指定されたため、その指定に従って調査を実施した。",
+  "research_note": "滋賀県高島市・琵琶湖畔のグランピング系施設として『グランドーム滋賀高島』『グランピングヴィレッジ滋賀今津浜』『グランピングスパリゾート レイクサイドテラス琵琶湖』の3件を調査した。このセッションのネットワーク環境ではjalan.net・4travel.jp・glamming-hack.com・tabiiro.jp等へのWebFetchがいずれもEGRESS_BLOCKED（DNS解決不可）となったため、WebSearchのスニペットから得られる情報（Yahoo!マップのクチコミ集計、Googleクチコミを転記した外部サイト、TripAdvisorの評価分布など）を主な根拠とした。さらに調査の途中でこのターンのWebSearch利用上限に達したため、トリップアドバイザーの個別コメント内容確認や料金・SNS話題性の追加検索、および『該当なしの場合は別の地域で1回再調査する』という指示そのものを本サイクル内では実施できなかった（意図的なスキップではなく、ツール制約によるもの）。確認できた範囲では、グランドーム滋賀高島はYahoo!マップの総合評価3.0（5件、1.0・2.0の低評価を含む）で原則6の4.0以上を満たさず不採用。グランピングヴィレッジ滋賀今津浜は直近のYahoo!マップで4.33（3件）だが、件数の多いGoogleクチコミ集計（レポナビ経由、47件・2023年8月時点）では3.6と4.0を下回り、原則6の『件数とセットで信頼度を判断する』考え方に従うと基準を満たせないと判断し不採用。グランピングスパリゾート レイクサイドテラス琵琶湖はTripAdvisorで260件・推定平均4.06（内訳：とても良い109／良い86／普通43／悪い15／とても悪い7）、NAVITIME経由でも『TripAdvisor 4.0・247件』という記載を確認でき、原則6の最低ライン（4.0以上）はクリアしている。ただし具体的な宿泊料金・SNS話題性・個別のネガティブコメント内容が本セッションでは確認できておらず、総合スコアが75点に届かない（70点）ため、今回は『選定（selected）』とせず『候補保留（shortlisted）』として次サイクル以降の追加調査対象に残すこととした。以上の理由から、本サイクルでは75点以上かつ原則7を満たす『selected』候補は確認できず、該当なしとした。次回サイクルでWebSearch上限がリセットされた際に、レイクサイドテラス琵琶湖の料金・SNS話題性・個別口コミ内容の追加確認を優先的に行うことを推奨する。",
+  "candidates": [
+    {
+      "id": "2026-10-19-grandome-shiga-takashima",
+      "name": "グランドーム滋賀高島",
+      "region": "滋賀県高島市（安曇川町下小川、琵琶湖畔）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Yahoo!マップ（クチコミ）", "score": 3.0, "scale": 5, "review_count": 5, "checked_date": "2026-10-19", "url": "https://map.yahoo.co.jp/v3/place/eMM9PNPOrg2" }
+      ],
+      "price_range_jpy": {
+        "note": "2024〜25年の記事で4名利用時1人12,400円〜というキャンペーン価格の記載を確認したが、現行プランの正確な料金は本セッションのWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "琵琶湖畔にある直径7mの大型ドーム型テント6室（情報源により白浜荘オートキャンプ場敷地内との記載もある）。エアコン完備で各棟に専用ファイヤーピットを備え、近江牛やビワマスを使ったBBQが名物とされる。琵琶湖まで徒歩約1分という湖畔立地。",
+      "renewal_or_news": "2020年8月開業・2021年4月リニューアルオープンという情報があるが、住所表記（永田8-45／永田1-19／安曇川町下小川）や開業年に情報源間で食い違いがあり、情報の鮮度・正確性に疑問が残る。",
+      "target_audience": ["カップル", "家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 3,
+        "unique_experience_score": 12,
+        "photogenic": 10,
+        "value_for_price": 4,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 44,
+      "recommendation_reason": "ドーム型テント＋近江牛・ビワマスBBQという独自性はあるものの、Yahoo!マップの口コミ評価が3.0（5件、1.0・2.0の低評価を含む）と原則6の基準に届かず、かつ住所・開業年の記載が情報源間で食い違うなど情報の信頼性にも課題があるため、現時点では採用できない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Yahoo!マップの5件の口コミに1.0・2.0点を含む低評価が複数あり、総合評価は3.0。個別コメントの具体的な内容（清潔感・接客等）は本セッションのWebSearchでは確認できなかったが、低評価が複数存在する時点で原則6（4.0以上）を満たさない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "グランドーム滋賀高島 - Yahoo!マップ クチコミ", "url": "https://map.yahoo.co.jp/v3/place/eMM9PNPOrg2" },
+        { "type": "press", "title": "'湖と星'がテーマのグランピング施設、『グランドーム滋賀高島』がびわ湖の目の前にオープンしました！ - しがトコ", "url": "https://shigatoco.com/toco/glampdome/" },
+        { "type": "other", "title": "グランドーム滋賀高島 - いこーよ", "url": "https://iko-yo.net/facilities/159158" },
+        { "type": "other", "title": "琵琶湖を一望！グランドーム滋賀 高島の料金プランや食事メニューにアメニティ紹介 - glampress", "url": "https://glampress.jp/glamping-shiga-glampdome/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "Yahoo!マップの総合評価が3.0（5件、1.0・2.0の低評価を含む）で、原則6の主要レビュー4.0以上を満たさないため不採用。"
+    },
+    {
+      "id": "2026-10-19-glamping-village-imazuhama",
+      "name": "グランピングヴィレッジ滋賀今津浜",
+      "region": "滋賀県高島市今津町浜分（琵琶湖畔・今津浜）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "レポナビアウトドア（Googleクチコミ集計、2023-08-05更新）", "score": 3.6, "scale": 5, "review_count": 47, "checked_date": "2026-10-19", "url": "https://outdoor.reponavi.net/s4120638481947407714" },
+        { "source": "Yahoo!マップ（クチコミ）", "score": 4.33, "scale": 5, "review_count": 3, "checked_date": "2026-10-19", "url": "https://map.yahoo.co.jp/v3/place/5fdAPc0aYKQ/review" }
+      ],
+      "price_range_jpy": {
+        "note": "予約サイトでは、サファリテント4名1室利用時1名あたり25,750円〜という表示を確認したが、プラン・時期により変動する。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "今津浜水泳場から徒歩約3分の琵琶湖畔に、関西初とされるプライベートプール付き『サファリテント』や2棟を連結した『コネクトドーム』、直径7mのドームテントなど全10棟を配置。各棟に個別のシャワー・トイレとキャンプファイヤー設備があり、アルコール飲み放題のセルフバータイムも用意される。",
+      "renewal_or_news": "2021年9月グランドオープン（プレスリリースで確認）。隣接して2024年4月に愛犬同伴向け『ドッググランピング滋賀今津浜（DOGGY'S GLAMPING）』も開業した。",
+      "target_audience": ["友人", "家族", "カップル"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 5,
+        "unique_experience_score": 15,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 60,
+      "recommendation_reason": "関西初とされるプール付きサファリテントやアルコール飲み放題バーなど独自性・映え要素は確認できたが、口コミ評価は件数の多いGoogleクチコミ集計（47件・3.6）が件数の少ない直近のYahoo!マップ（3件・4.33）より信頼度が高いと判断すると原則6の基準（4.0以上）を満たさず、現時点では採用できない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "4travel.jpの利用者旅行記タイトルからは『新しくオープンしたグランピング』という紹介記事であることまでは確認できたが、本文の具体的な不満内容はこのセッションのネットワーク制限（EGRESS_BLOCKED）により確認できなかった。数値面では、件数の多いGoogleクチコミ集計（47件）で3.6と基準4.0をやや下回る一方、件数の少ない直近のYahoo!マップでは4.33（3件）と割れており、件数重視の原則6の考え方に従うと基準未達と判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "グランピングヴィレッジ滋賀今津浜 - Yahoo!マップ クチコミ", "url": "https://map.yahoo.co.jp/v3/place/5fdAPc0aYKQ/review" },
+        { "type": "other", "title": "グランピングヴィレッジ滋賀今津浜｜レポナビアウトドア（Google口コミ集計、2023/8/5更新）", "url": "https://outdoor.reponavi.net/s4120638481947407714" },
+        { "type": "press", "title": "【2021年9月グランドオープン】関西初のプライベートプール付テント、コネクトドームを配置した「琵琶湖グランピング グランピングヴィレッジ滋賀今津浜」オープンのお知らせ", "url": "https://prtimes.jp/main/html/rd/p/000000038.000052784.html" },
+        { "type": "other", "title": "グランピングヴィレッジ 滋賀今津浜 - ウォーカープラス", "url": "https://summer.walkerplus.com/odekake/detail/ar0725s494776/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "件数の多い口コミ集計（Googleクチコミ47件・3.6）が基準4.0を下回り、件数の少ない4.33（3件）はサンプルが少なすぎて単独の採用根拠にできないため、原則6・7の観点から不採用。"
+    },
+    {
+      "id": "2026-10-19-lakeside-terrace-biwako",
+      "name": "グランピングスパリゾート レイクサイドテラス琵琶湖",
+      "region": "滋賀県高島市勝野（琵琶湖畔）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "トリップアドバイザー", "score": 4.0, "scale": 5, "review_count": 260, "checked_date": "2026-10-19", "url": "https://www.tripadvisor.jp/ShowUserReviews-g1023578-d27144243-r1054371639-Glamping_Spa_Resorts_Lakeside_Terrace-Takashima_Shiga_Prefecture_Kinki.html" },
+        { "source": "Yahoo!マップ（キャンプ場ページ、クチコミ）", "score": 4.64, "scale": 5, "review_count": 5, "checked_date": "2026-10-19", "url": "https://map.yahoo.co.jp/v3/place/V7vJ-gRnFCY/review" }
+      ],
+      "price_range_jpy": {
+        "note": "ウォーカープラスの料金ページで有料・プランにより異なるとの表示を確認したが、具体的な金額は本セッションのWebSearchでは確認できなかった（WebSearch利用上限のため追加確認不可）。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "滋賀県高島市勝野の琵琶湖畔にある全18室のアウトドアリゾート。全室に天然温泉を完備し、琵琶湖を望むプライベートプール付きラグジュアリーコテージ（6名まで）や、客室内に天然温泉とプライベートサウナを備えた『SPA SUITE』、愛犬同伴可能な部屋まで多様な宿泊タイプを揃える。敷地内の砂浜から直接琵琶湖にアクセスできる。",
+      "renewal_or_news": "運営法人・施設名の表記が『レイクサイドテラス琵琶湖』『グランピングスパリゾート レイクサイドテラス琵琶湖』『湖畔の杜 イコイ 高島』など複数確認されたが、いずれも同一施設を指すとみられる。料金ページの直近更新は2026年4月時点（ウォーカープラス掲載）。",
+      "target_audience": ["カップル", "記念日", "女子旅", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 17,
+        "review_reliability": 12,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 70,
+      "recommendation_reason": "全室天然温泉＋一部プライベートプール・プライベートサウナ付きという、琵琶湖畔グランピングの中でも強い独自性があり、TripAdvisorで260件・平均4.0（NAVITIME経由でも同様の記載）という、件数・評価ともに他の2候補より信頼度の高い数値を確認できた。原則6の最低ライン（4.0以上）はクリアしているが、具体的な料金・SNS話題性・個別のネガティブコメント内容までは本セッションのWebSearch上限のため確認できておらず、総合スコアは70点で採用ライン（75点）にわずかに届かない。次サイクル以降、価格・SNS話題性・個別口コミ内容を優先的に追加確認したい『候補保留（shortlisted）』案件として記録する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "TripAdvisor260件の評価分布で『悪い』15件・『とても悪い』7件（合計約8.5%）の存在を確認したが、個別コメントの具体的な不満内容（清潔感・接客・料金トラブル等）は本セッションのWebSearch利用上限のため確認できなかった。深刻な欠陥を示す言及は現時点で確認できていないが、確認不十分である点を留意事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "レイクサイドテラス琵琶湖の口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g1023578-d27144243-r1054371639-Glamping_Spa_Resorts_Lakeside_Terrace-Takashima_Shiga_Prefecture_Kinki.html" },
+        { "type": "other", "title": "レイクサイドテラス琵琶湖 - NAVITIME（TripAdvisor 4.0・247件を引用）", "url": "https://www.navitime.co.jp/poi?spot=02022-1443874" },
+        { "type": "review_site", "title": "グランピングスパリゾート レイクサイドテラス琵琶湖 - Yahoo!マップ クチコミ", "url": "https://map.yahoo.co.jp/v3/place/V7vJ-gRnFCY/review" },
+        { "type": "booking_site", "title": "グランピングスパリゾート レイクサイドテラス琵琶湖 予約ページ（489ban）", "url": "https://reserve.489ban.net/client/ikoi-shigatakashima/0/detail/900191" },
+        { "type": "other", "title": "グランピングスパリゾート レイクサイドテラス琵琶湖 料金 - ウォーカープラス", "url": "https://www.walkerplus.com/spot/ar0725s493040/price.html" }
+      ],
+      "decision": "shortlisted"
+    }
+  ]
+}
