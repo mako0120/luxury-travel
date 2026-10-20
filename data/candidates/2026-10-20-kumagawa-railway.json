@@ -1,0 +1,166 @@
+{
+  "cycle_date": "2026-10-20",
+  "theme": "列車・船カテゴリ（リサーチ＋キャプションのみ、画像構成なし）— 熊本県くま川鉄道（全線運行再開）または京都府嵯峨野トロッコ列車を指定調査",
+  "season_rationale": "くま川鉄道は2020年7月豪雨で被災し長期運休していたが、2026年9月20日に人吉温泉〜湯前24.8kmの全線で運行を再開した（約6年ぶり）。投稿時点（2026-10-20）はちょうど全線再開から1か月というタイミングで、話題性・新鮮さ（原則4・9）の観点で調査価値があると判断した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-19-gatehotel-yokohama-grape-afternoontea", "region": "神奈川県横浜市中区山下町（山下公園前）", "category": "その他" },
+    { "post_id": "2026-10-19-hotel-denhaag-htb", "region": "長崎県佐世保市ハウステンボス町", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-19-ibusuki-ginsho", "region": "鹿児島県指宿市湯の浜", "category": "絶景ホテル" },
+    { "post_id": "2026-10-19-lavista-kusatsu-hills", "region": "群馬県吾妻郡草津町（草津温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-10-19-machiya-club-omihachiman", "region": "滋賀県近江八幡市（八幡堀）", "category": "文化体験" },
+    { "post_id": "2026-10-19-yunohana-jozankeiden", "region": "北海道札幌市南区定山渓温泉", "category": "サウナ" },
+    { "post_id": "2026-10-18-kurobe-gorge-torokko", "region": "富山県黒部市（黒部峡谷鉄道）", "category": "列車・船" },
+    { "post_id": "2026-10-17-gunkanjima-cruise", "region": "長崎県長崎市（軍艦島）", "category": "列車・船" }
+  ],
+  "duplication_note": "依頼により『列車・船』カテゴリ・『京都府嵯峨野トロッコ列車または熊本県くま川鉄道』を指定調査した。まず既存データを確認したところ、嵯峨野トロッコ列車は captions/2026-09-14-sagano-torokko.json（data/candidates/2026-09-14-scenic-train.json・score82・selected）として既に本リポジトリで選定・投稿済みの施設であることが判明した。同一施設を1か月強で再度BEST候補として選び直すのは原則29（地域・カテゴリ・施設の連続回避／重複防止）に反するため、嵯峨野トロッコ列車は今回『重複確認のためのみ』候補欄に記載し、新規のWeb再調査は行わず前回（2026-09-17時点）の確認結果をそのまま参照した。代わりに、依頼のもう一方の候補である熊本県くま川鉄道を今サイクルの主候補として新規調査し、さらに原則7（複数情報源の原則）を満たすデータが得られるか比較検討するため、京都府内の同種体験である保津川下り（嵯峨野トロッコ列車と組み合わせて利用されることが多い船下り）も参考候補として調査した。なお『列車・船』カテゴリは直近2026-10-17（軍艦島クルーズ・長崎）・2026-10-18（黒部峡谷鉄道・富山）で連続採用されており、2026-10-19サイクルでは同カテゴリで調査した候補（おれんじ食堂・桜島フェリー）がいずれも採用ライン未達で『該当なし』となった経緯がある（data/candidates/2026-10-19-hisatsu-orange-railway.json参照）。カテゴリ自体の連続は依頼により指定されたものと認識した上で、今回も同カテゴリで調査した。",
+  "other_candidates_considered": [
+    {
+      "name": "SLやまぐち号（JR西日本・新山口〜津和野）",
+      "region": "山口県（新山口〜津和野）",
+      "reason_not_screened": "全国的に知名度の高い観光列車だが、このセッションのWebSearchでは今回の検索回数の上限に達し、じゃらん・フォートラベル・Tripadvisorでの数値評価（原則6・7が求める独立2情報源・4.0以上の裏付け）を確認する前に調査を終了せざるを得なかった。現行はディーゼル機関車（DLやまぐち号）牽引の期間もあり、2026年度の運行体制（蒸気機関車C57・D51の運行日程）も変則的なため、正式な候補としてスコアリングするデータが揃っていない。次サイクル以降、検索回数に余裕があるタイミングで再調査する価値がある。"
+    },
+    {
+      "name": "松島めぐり観光船（宮城県松島湾）",
+      "region": "宮城県宮城郡松島町",
+      "reason_not_screened": "複数の運航会社（丸文松島汽船・仁王丸コース等）があり個別の口コミは好意的なものが見られたが、じゃらん等での統一的な数値評価（スコア・件数）をこのセッションのWeb調査では確認できず、原則7の独立2情報源での数値的裏付けが取れなかった。検索回数上限により追加確認もできなかった。"
+      },
+    {
+      "name": "琵琶湖汽船「ミシガンクルーズ」",
+      "region": "滋賀県大津市",
+      "reason_not_screened": "アソビューに口コミ342件の掲載があるが点数は確認できず、一休.comのレストランレビューでは接客・雰囲気への高評価と料理への低評価（3.0点）が混在しており、クルーズ全体としての統一的な数値評価が確認できなかった。原則7を満たすデータが揃う前に検索回数上限に達した。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-20-kumagawa-railway",
+      "name": "くま川鉄道（観光車両「田園シンフォニー」／人吉温泉〜湯前）",
+      "region": "熊本県人吉市〜球磨郡（人吉温泉駅〜湯前駅、球磨川流域）",
+      "category": "列車・船",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "マンションレビュー（くま川鉄道沿線・住み心地レビュー集計／観光評価ではなく参考情報）",
+          "score": 3.7,
+          "scale": 5,
+          "review_count": 275,
+          "checked_date": "2026-10-20",
+          "url": "https://www.mansion-review.jp/mansion/line/99920/review.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "通常運賃・観光車両「田園シンフォニー」の乗車条件・追加料金について、このセッションのWeb調査では最新の正確な料金を確認できなかった。サイクルトレイン（自転車持込）は要予約・雨天時不可という案内があった。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "人吉温泉駅から湯前駅まで球磨川流域24.8kmを走る第三セクター鉄道。水戸岡鋭治氏デザインの観光車両「田園シンフォニー」（501〜505の5両、各車両が冬・秋・春・夏・白秋をテーマに異なる色とデザインを持つ）が2014年から走り、茶畑・桜・菜の花・彼岸花・朝霧など四季の農村風景を車窓から楽しめる。2020年7月豪雨で球磨川第四橋梁（登録有形文化財）が流失するなど沿線約100箇所が被災し長期運休していたが、2026年9月20日に約6年ぶりに全線での運行を再開。同日、旧川村駅は「相良十島駅」、旧東多良木駅は「多良木青蓮寺駅」に改称され、上下分離方式（くま川鉄道管理機構が施設保有）に移行した。",
+      "renewal_or_news": "2026年9月20日、2020年7月豪雨からの長期運休を経て約6年ぶりに人吉温泉〜湯前の全線運行を再開（記念特別列車も運行）。復旧工事は球磨川第四橋梁の橋脚工事で強固な岩盤が見つかり当初予定（2025年）より遅れていた。投稿時点（2026-10-20）は全線再開からちょうど1か月というタイミング。",
+      "target_audience": ["カップル", "家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 5,
+        "review_reliability": 2,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 5
+      },
+      "score": 52,
+      "recommendation_reason": "2020年の豪雨災害から6年ぶりの全線運行再開（2026年9月20日）という物語性・話題性、水戸岡鋭治デザインの観光車両「田園シンフォニー」による四季の農村風景という独自性は評価できる（unique_experience_score17/20）。全線再開からちょうど1か月というタイミングも情報鮮度の観点で高い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "観光列車としての口コミ本文はこのセッションのWeb調査では確認できず、乗客の多くが通学利用の高校生で観光客利用は少ないという課題を指摘する資料（大学関連の地域研究PDF）があった。ネガティブな安全性・接客面の具体的な指摘は見つからなかったが、これは観光向けレビュー自体がほとんど存在しないことの裏返しであり、問題がないことの証明にはならない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "くま川鉄道株式会社 公式サイト", "url": "https://kumagawa-rail.com/" },
+        { "type": "press", "title": "くま川鉄道、全線運行再開 20年豪雨で被災、6年ぶり - 熊本日日新聞", "url": "https://kumanichi.com/articles/2037988" },
+        { "type": "press", "title": "復旧まで6年…豪雨被害からついに“全線”運行再開! 駅名も変更し新たなスタート くま川鉄道 - Response/trafficnews.jp", "url": "https://trafficnews.jp/post/648159" },
+        { "type": "other", "title": "私鉄に乗ろう【63】くま川鉄道 田園シンフォニー乗車記 - 鉄道チャンネル", "url": "https://tetsudo-ch.com/43724.html" },
+        { "type": "other", "title": "くま川鉄道沿線 住み心地レビュー（観光評価ではなく参考情報） - マンションレビュー", "url": "https://www.mansion-review.jp/mansion/line/99920/review.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア52点で採用ライン（75点）を大きく下回った。主因は、観光客向けの数値的な口コミ評価（じゃらん・フォートラベル・Tripadvisor等）をこのセッションのWeb調査では一件も確認できず、原則6（主要レビューサイト4.0以上）・原則7（独立2情報源での裏取り）のいずれも満たせていないこと。唯一確認できた数値（マンションレビューの沿線住み心地評価3.7／275件）は観光体験の評価ではなく沿線住民の生活利便性評価であり、観光候補の評価根拠としては不適切と判断し参考値扱いとした。2020年豪雨からの6年ぶり全線再開という話題性・独自性は高く、全線再開後に観光客向けの口コミ・レビューが蓄積された段階で再評価する価値がある。"
+    },
+    {
+      "id": "2026-10-20-sagano-torokko-dup-check",
+      "name": "嵯峨野トロッコ列車（嵯峨野観光鉄道）※重複確認のみ・新規調査なし",
+      "region": "京都府京都市（嵐山・嵯峨野）〜亀岡市",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet（前回調査2026-09-17時点の記録を参照）", "score": 4.2, "scale": 5, "review_count": 1253, "checked_date": "2026-09-17", "url": "https://www.jalan.net/kankou/spt_guide000000175901/kuchikomi/" },
+        { "source": "フォートラベル（前回調査2026-09-17時点の記録を参照）", "score": 4.00, "scale": 5, "review_count": 203, "checked_date": "2026-09-17", "url": "https://4travel.jp/dm_shisetsu/10000527" }
+      ],
+      "price_range_jpy": {
+        "note": "片道 大人880円・こども440円（全席指定・乗車日の1ヶ月前から予約可）。前回調査（2026-09-17）時点の情報をそのまま参照しており、今回は再確認していない。",
+        "as_of_search_date": "2026-09-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "保津川渓谷沿い7.3kmを約25分で走る開放的なトロッコ列車（詳細は captions/2026-09-14-sagano-torokko.json・data/candidates/2026-09-14-scenic-train.json を参照）。",
+      "target_audience": ["カップル", "家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 9,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 82,
+      "recommendation_reason": "スコア自体は82点で採用ラインを満たすが、2026-09-14サイクルで既にBEST候補として選定され captions/2026-09-14-sagano-torokko.json として投稿済みの施設である。今回は依頼に名前が挙がったため重複確認の目的でのみ記載し、新規のWeb再調査・再選定は行わなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "前回（2026-09-14サイクル）確認済みの内容（紅葉シーズンの混雑・座席の快適性・接客個別対応への一部不満）をそのまま参照。今回新たな再確認は行っていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "嵯峨野観光鉄道 – トロッコ列車 公式サイト", "url": "https://www.sagano-kanko.co.jp/" },
+        { "type": "review_site", "title": "嵯峨野トロッコ列車のクチコミ一覧 - じゃらんnet", "url": "https://www.jalan.net/kankou/spt_guide000000175901/kuchikomi/" },
+        { "type": "review_site", "title": "嵯峨野トロッコ列車 クチコミ・アクセス・周辺情報 - フォートラベル", "url": "https://4travel.jp/dm_shisetsu/10000527" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "原則29（地域・カテゴリ・施設の連続回避／重複防止）に基づき、2026-09-14サイクルで既に選定・投稿済みの同一施設を本サイクルのBEST候補として再選定することを見送った。スコア自体は採用ライン（75点）を満たしているが、新規性・重複防止の観点から今回は不採用とした。"
+    },
+    {
+      "id": "2026-10-20-hozugawa-river-boat",
+      "name": "保津川下り（保津川遊船企業組合）",
+      "region": "京都府亀岡市〜京都市（嵐山）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "旅行情報ディレクトリ掲載の口コミ集計（gltjp.com）", "score": 3.86, "scale": 5, "review_count": 3, "checked_date": "2026-10-20", "url": "https://www.gltjp.com/ja/directory/item/12125/" }
+      ],
+      "price_range_jpy": {
+        "note": "乗船料金 大人6,000円・4歳〜小学生4,500円という掲載が複数サイトで見られた（最新の正確な料金・運航状況は公式サイトで確認が必要）。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "亀岡から嵯峨嵐山まで保津川の急流約16kmを約2時間かけて船頭の操船で下る、江戸時代から続く木材・物資運搬の歴史を持つ川下り。船頭の語りや急流のスリルが見どころで、嵯峨野トロッコ列車と片道ずつ組み合わせて利用する旅行者も多い。",
+      "target_audience": ["カップル", "家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 6,
+        "review_reliability": 2,
+        "unique_experience_score": 16,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 52,
+      "recommendation_reason": "急流のスリルと船頭の語りという他にない体験は評価できるが、確認できた数値評価は旅行情報ディレクトリ1サイトのみ・3件という少数で、原則6（4.0以上）・原則7（独立2情報源）のいずれも満たせていない。じゃらん・フォートラベル・Tripadvisorでの統一的な数値評価は、検索回数上限によりこのセッションでは確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2023年3月に転覆事故が発生し運航が一時休止、同年7月に安全対策を実施した上で運航再開したという経緯を亀岡市の公開資料で確認した。口コミでは『料金はやや高めだが価値はある』という声と、英語中心の説明で日本語解説が少ないことへの不満の両方を確認した。重大な安全上の懸念は過去の事故のみで、現在は対策済みとされているが、評価点自体が低く件数も少ないため、原則6・7を満たすデータは揃わなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "保津川下り（口コミ・料金） - 旅行情報ディレクトリ gltjp.com", "url": "https://www.gltjp.com/ja/directory/item/12125/" },
+        { "type": "review_site", "title": "保津川下り クチコミ（LiveJapan掲載・Tripadvisor系） - LiveJapan", "url": "https://livejapan.com/ja/in-kansai/in-pref-kyoto/in-kyoto-suburbs/spot-lj0009464/reviews/" },
+        { "type": "other", "title": "保津川下りの事故・運航状況に関する資料 - 亀岡市", "url": "https://www.city.kameoka.kyoto.jp/uploaded/attachment/33749.pdf" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア52点で採用ライン（75点）を下回った。主因は数値評価が1サイト・3件のみで原則6（4.0以上）・原則7（独立2情報源）を満たさないこと。2023年の転覆事故歴があることも情報鮮度・安心感の観点でマイナス要因とした。じゃらん等での評価が今後確認でき、件数・点数ともに基準を満たせば次サイクル以降に再評価する価値がある。"
+    }
+  ]
+}

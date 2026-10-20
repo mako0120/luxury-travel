@@ -1,0 +1,141 @@
+{
+  "cycle_date": "2026-10-20",
+  "theme": "文化体験カテゴリ（岡山県倉敷市・倉敷美観地区の歴史的建築に泊まる）",
+  "season_rationale": "10月下旬の倉敷美観地区は、夏の暑さと観光客の混雑が落ち着き、11月中旬からの紅葉・倉敷ジャズストリート後のシーズンに向けて旅行検討が動き出す時期。白壁の町家や蔦の絡まる紡績工場建築を、過ごしやすい気候の中で楽しめるタイミングであるため、文化体験カテゴリとして紹介する価値がある。",
+  "prior_posts_checked": [
+    { "caption_id": "2026-10-17-minamikan", "region": "島根県松江市", "category": "文化体験" },
+    { "caption_id": "2026-10-18-nara-hotel", "region": "奈良県奈良市", "category": "文化体験" },
+    { "caption_id": "2026-10-19-machiya-club-omihachiman", "region": "滋賀県近江八幡市", "category": "文化体験" },
+    { "candidate_id": "2026-09-14-soki-kanazawa", "region": "石川県金沢市", "category": "文化体験", "note": "過去サイクル（2026-09-14）で石川県金沢市『SOKI KANAZAWA』をすでにcaptions化済みのため、今サイクルの地域候補（倉敷/金沢の二択）では金沢を避け、captions/posts配下に未出の岡山県倉敷市を選定した。" }
+  ],
+  "duplication_note": "直近のcaptions並びは文化体験（島根松江）→文化体験（奈良）→文化体験（近江八幡）と文化体験カテゴリが3件連続している。原則29の『地域・カテゴリの連続を避ける』の観点では地域（松江・奈良・近江八幡はいずれも初出で重複なし、倉敷も初出）は問題ないが、カテゴリの連続については依頼内容で明示的に『文化体験』カテゴリでの1サイクルを指定されているため、そのまま実施した。岡山県倉敷市はdata/candidates・captions・posts配下に一度も登場しておらず、新規地域として選定した。",
+  "candidates": [
+    {
+      "id": "2026-10-20-kurashiki-ivysquare",
+      "name": "倉敷アイビースクエア",
+      "region": "岡山県倉敷市本町（倉敷美観地区内、大原美術館に隣接）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.6, "scale": 5, "review_count": 1163, "checked_date": "2026-10-20", "url": "https://www.jalan.net/yad315803/" },
+        { "source": "フォートラベル", "score": 4.26, "scale": 5, "review_count": 301, "checked_date": "2026-10-20", "url": "https://4travel.jp/dm_hotel-10051038" },
+        { "source": "Skyticket", "score": 4.6, "scale": 5, "review_count": 4147, "checked_date": "2026-10-20", "url": "https://skyticket.jp/hotel/detail/property_16364/" }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベル経由の掲載では、最安値として1部屋1泊6,300円〜という表示が確認できたが、これは最も基本的な部屋タイプ・プランでの最安値であり、145室ある館内には部屋タイプ・プランによる幅が大きい。正確な最新料金は公式サイト・各予約サイトで要確認。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "明治22年（1889年）創業の倉敷紡績所本社工場（現クラボウ）を、建築家・浦辺鎮太郎の設計により1974年に複合ホテルへ改装した、工場建築の用途転換事例の先駆け。温度管理用に植えられた蔦が今も赤レンガの外壁を覆う象徴的な景観で、館内には倉紡記念館・陶芸体験工房・レストラン等を備える。美観地区の中核、大原美術館（日本初の西洋美術中心の私立美術館）のすぐ隣に位置し、徒歩で町並み散策が完結する立地も強み。",
+      "renewal_or_news": "じゃらんnet掲載情報で『泊まって良かった宿大賞』を2024年・2025年と2年連続受賞していることが確認できた。2026年10月19日〜25日には館内（愛美赤煉瓦館）で草月流創流100周年記念いけばな展も開催予定で、今シーズンも文化イベントの発信地として動きがある。",
+      "target_audience": ["夫婦", "カップル", "友人", "ホテル好き", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 14,
+        "unique_experience_score": 18,
+        "photogenic": 14,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 86,
+      "recommendation_reason": "じゃらんnet4.6（1,163件）、フォートラベル4.26（301件）、Skyticket4.6（4,147件）という3つの独立情報源で、いずれも推奨ライン4.2以上かつ大規模な口コミ母数を確認した（原則6・7）。明治期の紡績工場を改装した赤レンガ×蔦の外観は倉敷美観地区を象徴する景観で『写真映え』『保存したくなる』というKPIに直結し、大原美術館に隣接する立地の文化的価値も高い。2024・2025年と2年連続『泊まって良かった宿大賞』を受賞している点も、今紹介する鮮度の根拠になる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの不満点は多くが2013年前後の古い投稿で、チェックイン時の人数確認に時間がかかった、ドライヤーの威力が弱い、部屋がビジネスホテル風の造りで2人だと手狭、といった軽微な指摘だった。比較的新しい2025年10月の投稿では、夕食のレストランが『普通のレストランのような』印象で特別感には及ばなかったが満足できたという声があった。清潔感・接客・安全性に関わる重大な問題は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "倉敷アイビースクエアの口コミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10051038" },
+        { "type": "booking_site", "title": "倉敷アイビースクエア - じゃらんnet", "url": "https://www.jalan.net/yad315803/" },
+        { "type": "review_site", "title": "倉敷アイビースクエア 施設情報・口コミ - Skyticket", "url": "https://skyticket.jp/hotel/detail/property_16364/" },
+        { "type": "official", "title": "倉敷アイビースクエア - 岡山観光WEB（岡山県観光連盟）", "url": "https://www.okayama-kanko.jp/spot/detail_10241.html" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-20-ryokan-kurashiki",
+      "name": "旅館くらしき",
+      "region": "岡山県倉敷市本町（倉敷美観地区中心部）",
+      "category": "文化体験",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "Yahoo!トラベル", "score": 4.58, "scale": 5, "review_count": 24, "checked_date": "2026-10-20", "url": "https://travel.yahoo.co.jp/00001266" },
+        { "source": "Trip.com", "score": 9.3, "scale": 10, "review_count": 10, "checked_date": "2026-10-20", "url": "https://jp.trip.com/hotels/kurashiki-hotel-detail-17508054/ryokan-kurashiki/review.html" }
+      ],
+      "price_range_jpy": {
+        "note": "Web上の記事（2024年12月更新分）では1泊2食付36,800円〜という掲載が確認できたが、本サイクルの検索では公式・各予約サイトの最新料金は確認できなかった。全8室のみの小規模宿であり、部屋タイプにより料金差が大きいと推測される。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "倉敷美観地区の中心部、江戸末期に遡る蔵（道具蔵・砂糖蔵等、記事により説明が分かれる）を改装した全8室のみの小規模旅館。庵治石を使った小さな浴槽、グループごとに土鍋で炊くご飯、川舟乗船券の手配など、きめ細かいホスピタリティが特徴。",
+      "target_audience": ["夫婦", "カップル", "記念日", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 8,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 74,
+      "recommendation_reason": "Yahoo!トラベル4.58（24件）、Trip.com9.3/10（10件）という2つの独立情報源でいずれも推奨ラインを上回る評価を確認した。江戸期の蔵を改装した全8室の小規模旅館という独自性は高いが、口コミ件数がいずれも小規模（24件・10件）で原則6の『件数とセットで信頼度を判断する』観点では確信度が低く、近年の全館リニューアルで敷地内駐車場が廃止され倉敷市営駐車場利用（宿から補助あり）に変わった点も含めて保守的に採点した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2026年1月投稿の口コミで、敷地内駐車場がなくなり倉敷市営駐車場（距離があり、宿から上限1,000円の補助）を使う形に変わったこと、全館リニューアルにより以前の旅館の面影がほぼ残っていないという指摘があった。別の口コミでは浴室とトイレの間仕切りが透明ガラスで使いにくいという指摘もあった。清潔感・接客・料理自体への重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "旅館くらしき クチコミ - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00001266" },
+        { "type": "review_site", "title": "Ryokan Kurashiki Reviews - Trip.com", "url": "https://jp.trip.com/hotels/kurashiki-hotel-detail-17508054/ryokan-kurashiki/review.html" },
+        { "type": "other", "title": "旅館くらしき - icotto", "url": "https://icotto.jp/hotels/4775" },
+        { "type": "official", "title": "旅館くらしき - 岡山観光WEB（岡山県観光連盟）", "url": "https://www.okayama-kanko.jp/spot/detail_12059.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価自体は2つの独立情報源で推奨ライン（4.2以上）を満たしているが、各サイトの口コミ件数が小規模（24件・10件）なため信頼度（review_reliability）を保守的に採点せざるを得ず、駐車場廃止や旧来の雰囲気が薄れた点への指摘も踏まえた結果、合計74点で原則6の最低採用ライン（75点）にわずかに届かなかった。次サイクル以降、公式サイトで料金・最新口コミを追加確認できれば再評価の余地がある。"
+    },
+    {
+      "id": "2026-10-20-tsuruoka-kurashiki",
+      "name": "料理旅館 鶴形",
+      "region": "岡山県倉敷市中央（倉敷美観地区内）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.9, "scale": 5, "review_count": 190, "checked_date": "2026-10-20", "url": "https://www.jalan.net/yad349970" },
+        { "source": "楽天トラベル（高級ホテル・旅館ランキング集計）", "score": 4.95, "scale": 5, "review_count": 150, "checked_date": "2026-10-20", "url": "https://travel.rakuten.co.jp/ranking/premium/10_0007_0_0_0_0.html" },
+        { "source": "Relux", "score": 4.4, "scale": 5, "review_count": 19, "checked_date": "2026-10-20", "url": "https://rlx.jp/23635/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "予約サイト経由の掲載では21,410円〜（税込23,550円〜、1名あたりと推測）という表示が確認できたが、詳細な条件（1泊2食付かどうか等）までは確認できなかった。正確な最新料金は公式サイト・各予約サイトで要確認。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "延享元年（1744年）建築、倉敷で2番目に古いとされる商家建築を利用した全11室の料理旅館。古い梁や床を生かした客室で、瀬戸内の魚介と岡山の旬の食材を使った会席料理を部屋食で提供する。名物『鯛茶漬け』を組み込んだプランもあり、料理と接客の評価が特に高い。",
+      "target_audience": ["夫婦", "記念日", "カップル", "グルメ旅", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 84,
+      "recommendation_reason": "じゃらんnet4.9（190件）、楽天トラベル4.95（150件）、Relux4.4（19件）という3つの独立情報源でいずれも推奨ラインを大きく上回る評価を確認した（原則6・7）。1744年建築という倉敷で2番目に古い商家建築、瀬戸内の食材を使った部屋食の会席料理という独自性の高さから、文化体験カテゴリの有力候補。倉敷アイビースクエアとの比較では、口コミ母数（4,147件+1,163件+301件）と2年連続受賞歴による鮮度・話題性でアイビースクエアに僅かに劣ると判断し、今回は『shortlisted』扱いとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Reluxの項目別評価では夕食4.7・接客4.5に対し風呂3.6、Yahoo!トラベルでも温泉・お風呂3.89と他項目より低めだった。個別口コミでは建物の古さを指摘する声や、部屋でのお湯の出が悪かったという指摘もあった。料理・接客への評価は非常に高く、清潔感・安全性に関わる重大な問題は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "料理旅館 鶴形 - じゃらんnet", "url": "https://www.jalan.net/yad349970" },
+        { "type": "review_site", "title": "料理旅館 鶴形 の口コミ・評価 - Relux", "url": "https://rlx.jp/23635/review/" },
+        { "type": "review_site", "title": "楽天トラベル 山陽・山陰 高級ホテル・旅館(総合) ランキング", "url": "https://travel.rakuten.co.jp/ranking/premium/10_0007_0_0_0_0.html" },
+        { "type": "official", "title": "料理旅館 鶴形 - 岡山観光WEB（岡山県観光連盟）", "url": "https://www.okayama-kanko.jp/spot/detail_12348.html" }
+      ],
+      "decision": "shortlisted"
+    }
+  ]
+}
