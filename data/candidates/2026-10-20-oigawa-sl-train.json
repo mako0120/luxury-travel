@@ -1,0 +1,92 @@
+{
+  "cycle_date": "2026-10-20",
+  "theme": "列車・船カテゴリ（リサーチ＋キャプションのみ、画像構成なし）— 愛媛県「伊予灘ものがたり」または静岡県大井川鐵道SL列車を指定調査（『列車・船』カテゴリの再調査は本サイクルが最後の1回）",
+  "season_rationale": "大井川鐵道SL急行「かわね路号」は、1976年に全国に先駆けて蒸気機関車（SL）の動態保存運行を始めた日本初のSL観光鉄道で、現在も年間300日以上運行している。2026年3月には『きかんしゃパーシー号』の実車運行がアジア初で開始され、『DAY OUT WITH THOMAS』も2026年から初の通年開催となっており、投稿時点（2026-10-20）は話題性・新鮮さ（原則4・9）の観点で調査価値がある。もう一方の指定候補である愛媛県「伊予灘ものがたり」も並行して調査したが、このセッションのWeb調査では主要レビューサイトの数値評価（原則6・7が求める独立2情報源・4.0以上）を確認できなかったため、正式な候補としてスコアリングするデータが揃わず、参考候補（other_candidates_considered）扱いとした。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-20-sendai-gentei-event", "region": "宮城県仙台市", "category": "その他" },
+    { "post_id": "2026-10-20-nasu-awaji-glamping", "region": "栃木県那須・兵庫県淡路島", "category": "グランピング" },
+    { "post_id": "2026-10-20-kurashiki-bikanchiku-culture", "region": "岡山県倉敷市（美観地区）", "category": "文化体験" },
+    { "post_id": "2026-10-20-izu-ochiairo-sauna", "region": "静岡県伊豆（落合楼）", "category": "サウナ" },
+    { "post_id": "2026-10-20-gero-onsen-gourmet-ryokan", "region": "岐阜県下呂市（下呂温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-20-fuji-panoramic-ropeway", "region": "山梨県富士河口湖町", "category": "絶景ホテル/アクティビティ" },
+    { "post_id": "2026-10-20-bettei-haruki-beppu", "region": "大分県別府市", "category": "温泉旅館" },
+    { "post_id": "2026-10-20-aso-view-hotel", "region": "熊本県阿蘇", "category": "絶景ホテル" },
+    { "post_id": "2026-10-20-all-inclusive-miyako", "region": "沖縄県宮古島", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-20-yakushima-shodoshima-resort", "region": "鹿児島県屋久島・香川県小豆島", "category": "離島リゾート" },
+    { "post_id": "2026-10-20-kumagawa-railway", "region": "熊本県人吉市〜球磨郡（くま川鉄道）", "category": "列車・船（本日1回目・該当なし）" },
+    { "post_id": "2026-10-19-hisatsu-orange-railway", "region": "熊本県八代市〜鹿児島県薩摩川内市（肥薩おれんじ鉄道・桜島フェリー）", "category": "列車・船（該当なし）" },
+    { "post_id": "2026-10-18-kurobe-gorge-torokko", "region": "富山県黒部市（黒部峡谷鉄道）", "category": "列車・船（選定済み）" },
+    { "post_id": "2026-10-17-gunkanjima-cruise", "region": "長崎県長崎市（軍艦島クルーズ）", "category": "列車・船（選定済み）" },
+    { "post_id": "2026-09-14-sagano-torokko", "region": "京都府京都市〜亀岡市（嵯峨野トロッコ列車）", "category": "列車・船（選定済み・1ヶ月以上前）" },
+    { "post_id": "2026-09-18-kyushu-train", "region": "福岡県〜大分県・JR九州D&S列車", "category": "列車・船（1ヶ月以上前・候補調査のみ）" },
+    { "post_id": "2026-09-22-setouchi-cruise", "region": "瀬戸内海（guntû）", "category": "列車・船（選定済み・1ヶ月以上前）" }
+  ],
+  "duplication_note": "依頼により『列車・船』カテゴリの再調査（本日2回目・再調査上限の最後の1回）として、愛媛県『伊予灘ものがたり』または静岡県大井川鐵道SL列車を指定調査した。まず既存データ（data/candidates/・captions/・posts/、1ヶ月以上前の投稿も含む）を確認したところ、『伊予灘ものがたり』『大井川鐵道』ともに本リポジトリで過去に候補・投稿として扱われた記録は一件も見つからず、地域・施設として初出であることを確認した（grep -ril '伊予灘\\|大井川' data/ captions/ posts/ の結果ヒットなし）。カテゴリ『列車・船』自体は直近で連続採用が多い（2026-09-14 嵯峨野トロッコ・2026-09-22 guntû・2026-10-17 軍艦島クルーズ・2026-10-18 黒部峡谷鉄道・2026-10-19 該当なし・本日1回目のくま川鉄道も該当なし）が、依頼により地域・施設が明示的に指定され、かつ『列車・船』カテゴリの再調査は本サイクルが最後の1回と定められているため、カテゴリ連続を認識した上で今回はこのテーマで調査を完了させた。",
+  "other_candidates_considered": [
+    {
+      "name": "伊予灘ものがたり（JR四国・松山〜伊予大洲／八幡浜）",
+      "region": "愛媛県松山市〜大洲市・八幡浜市（予讃線 愛ある伊予灘線）",
+      "reason_not_screened": "2014年7月デビューのJR四国観光列車第一号で、下灘駅での長時間停車・沿線住民のお見送り・アテンダントのサービス・車窓から見える瀬戸内海（伊予灘）の夕景など、独自性は非常に高く、2024年に運行10周年・利用者20万人超という話題性もある。しかし、このセッションのWeb調査では、じゃらん・フォートラベル・Tripadvisor・Googleマップのいずれにおいても、列車自体に対する数値的な口コミ評価（スコア・件数）を一件も確認できなかった（見つかったのは個人ブログの好意的な感想のみ）。原則6（主要レビューサイト4.0以上）・原則7（独立2種類以上の情報源での数値的裏付け）を満たすデータが揃わず、正式な候補としてスコアリングしなかった。今後、じゃらん等での数値評価が確認できる検索ルートが見つかれば、次サイクル以降に再評価する価値が高い。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-20-oigawa-sl-kawaneji",
+      "name": "大井川鐵道 SL急行「かわね路号」（蒸気機関車・大井川本線）",
+      "region": "静岡県島田市（金谷駅・新金谷駅発、大井川本線 金谷〜川根温泉笹間渡）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Tripadvisor（Oigawa Railway Co. 総合評価／Shimadaの観光スポット67件中1位）",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 236,
+          "checked_date": "2026-10-20",
+          "url": "https://www.tripadvisor.com/Attraction_Review-g780859-d2690936-Reviews-Oigawa_Railway_Co-Shimada_Shizuoka_Prefecture_Tokai_Chubu.html"
+        },
+        {
+          "source": "Airial Travel（大井川鐵道SL列車の集計評価）",
+          "score": 4.3,
+          "scale": 5,
+          "review_count": 275,
+          "checked_date": "2026-10-20",
+          "url": "https://airial.travel/attractions/japan/shimada/oigawa-railway-sl-3fywIoAK"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "SL急行券（乗車券に加えて必要な急行料金）は片道大人2,520円・要予約という掲載が島田市の観光資料にあった。別途、大井川本線フリーきっぷ（SL運行日は4,800円程度）など座席未指定で乗車できるきっぷもある。正確な2026年時点の料金・運転区間・運転日は、このセッションのWeb調査だけでは一本化できなかった。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する。予約・最新運行日は大井川鐵道公式サイトで必ず確認が必要。"
+      },
+      "unique_experience": "1976年に全国の鉄道事業者に先駆けて蒸気機関車（SL）の動態保存運行を開始した、日本で最初のSL観光鉄道。現在も年間300日以上SLが走り、大井川の渓谷沿いをレトロな旧型客車（冷房なし・窓の下に栓抜き付き）に乗って進む。2026年3月には『きかんしゃパーシー号』の実車運行がアジア初で始まり、『DAY OUT WITH THOMAS』イベントも2026年から初の通年開催となるなど、鉄道ファン・ファミリー層向けの企画が充実している。終点側では日本で唯一のアプト式区間（井川線）や、湖に浮かぶように見える奥大井湖上駅、冬季の『星空列車』など、SLだけでは終わらない奥大井エリア全体の物語性も強い。",
+      "renewal_or_news": "2022年9月の台風15号被害により川根温泉笹間渡〜千頭間（19.5km）が現在も不通（代行バス運行中）で、全線復旧は2029年春頃の見通し（復旧費用約21億円）。一方、SL急行「かわね路号」自体は不通区間より手前の金谷〜川根温泉笹間渡間で通常運行を継続しており、2025年4月のダイヤ改正で下り列車の始発駅が新金谷から金谷（JR東海道線接続駅）に変わり、乗り換えが改善された。2026年1月13日からは動態保存機のうち『黒いSL』（C10形8号機）が改造のため運転休止中（再開時期未定、代走としてEL牽引の『ブルートレイン急行』が運行）だが、他の蒸気機関車（C11形190号機・227号機等）による運行は継続している。2026年3月には『きかんしゃパーシー号』の実車運行も始まり、話題性の新しい材料になっている。",
+      "target_audience": ["家族", "カップル", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 11,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 80,
+      "recommendation_reason": "Tripadvisor（4.6／236件・Shimada観光スポット67件中1位）とAirial Travel（4.3／275件）という性質の異なる2つの独立した情報源で、いずれも4.0を大きく超える評価を確認できた（原則6・7）。1976年から続く『日本初のSL動態保存運行』という歴史的独自性、2026年の『きかんしゃパーシー号』実車運行開始・『DAY OUT WITH THOMAS』通年開催という新しい話題性（原則4・9）を評価した。渓谷の景色とレトロな客車・白い蒸気という写真映え要素も強く、片道2,520円程度というアクセスしやすい価格帯も『ちょっと贅沢な旅』のコンセプトに合う。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorの評価内訳はExcellent159件・Good61件・Average13件・Poor3件・Terrible0件と良好な分布だったが、個別レビューでは『雨天時に旧型客車の天井から雨漏りがあった』『駅弁の味は普通程度だった』『地元住民向けというより観光客向けの体験』といった指摘が見られた。また運輸安全委員会の資料によると、2023年11月に大井川本線家山駅構内で連結器故障による列車分離（鉄道重大インシデント）が発生し、2024年11月時点でも原因調査が続いていたことを確認した（死傷者の報告は確認できず）。2022年の台風被害により川根温泉笹間渡〜千頭間が現在も不通（全線復旧は2029年春頃見通し）で、SL自体は手前の区間で運行継続しているものの、沿線全体としては復旧工事中であることも正直に記載する必要がある。これらは総合的に見て『原則10』上の重大な除外要因には当たらないと判断したが、キャプションでは運行区間・最新情報の確認を促す記載を入れる。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "大井川鐵道株式会社 公式サイト", "url": "https://daitetsu.jp/" },
+        { "type": "review_site", "title": "Oigawa Railway Co. - Tripadvisor（4.6／236件、Shimada観光スポット67件中1位）", "url": "https://www.tripadvisor.com/Attraction_Review-g780859-d2690936-Reviews-Oigawa_Railway_Co-Shimada_Shizuoka_Prefecture_Tokai_Chubu.html" },
+        { "type": "other", "title": "Oigawa Railway SL - Airial Travel（4.3／275件）", "url": "https://airial.travel/attractions/japan/shimada/oigawa-railway-sl-3fywIoAK" },
+        { "type": "press", "title": "「黒いSL」の運転休止と「ブルートレイン急行」代走、「きかんしゃパーシー号」実車運行開始 - 鉄道チャンネル", "url": "https://tetsudo-ch.com/12895288.html" },
+        { "type": "other", "title": "大井川鉄道が運休が続く区間の復旧工事を公開　全線再開は2029年春の見通し - あなたの静岡新聞", "url": "https://www.at-s.com/snews/article/ats/1994450.html" },
+        { "type": "other", "title": "鉄道重大インシデント（車両障害）調査の状況 - 運輸安全委員会", "url": "https://jtsb.mlit.go.jp/railway/rep-inci/keika20241128-1.pdf" }
+      ],
+      "decision": "selected"
+    }
+  ]
+}
