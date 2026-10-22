@@ -2,153 +2,104 @@
 
 更新: 2026-10-22
 
-このドキュメントは、使える連携・スキルをどこで使うかの正本。
+## 正本
 
-## GitHub
+GitHub `mako0120/luxury-travel` が運用ルールのSingle Source of Truth。
 
-役割:
-- 制作思想
-- ルール
-- Gemini / ChatGPT / Claude用プロンプト
-- Canva Autofillフィールド仕様
-- 案件Handoff
-- 変更履歴
+## Canva
 
-原則:
-GitHubが運用ルールのSingle Source of Truth。
+現行の第一制作スタイル:
+- `docs/canva-full-photo-style-v3.md`
+- 1080×1350
+- 標準8ページ
+- 1ページ1枚の全面写真
+- 白い短文
+- 写真品質最優先
+
+旧5ページMASTER:
+- `DAHVoXJDBFw`
+- 互換・旧投稿修正用
+
+V2正式出力:
+- `贅沢旅リサーチ帖｜V2再制作`
+- folder_id: `FAHYuHEOty4`
 
 ## Notion
 
 ### 贅沢旅リサーチ帖
-Discoveryの候補キュー。
+制作候補の正本。
 
 ### 旅ログ｜自動制作モニター
-Productionの状態管理。
+制作状態の管理。
 
-追加済みAI連携フィールド:
-- 制作世代
-- V2再制作
-- Gemini調査
-- Gemini写真
-- Gemini QA
-- 写真権利
-- Drive案件
-- GitHub Handoff
-
-追加ビュー:
-- AI連携｜Gemini・Canva
-
-Notion登録済み候補をスコアで制作除外しない。
-
-## Canva
-
-MASTER:
-`DAHVoXJDBFw`
-
-V2正式出力フォルダ:
-- `贅沢旅リサーチ帖｜V2再制作`
-- folder_id: `FAHYuHEOty4`
-
-旧Canva投稿は履歴扱い。V2の重複判定・完成判定には使わない。
-
-確認済み:
-- 5ページ
-- 1080×1350
-- Autofill datasetあり
-
-第一制作経路:
-`Production Brief → Assets → Autofill → Visual QA → 微修正 → 保存`
-
-これにより毎回テキストボックスや画像枠を手探りで編集しない。
-
-## Google Drive
-
-共有作業場（V2正式）:
-`旅ログAI連携_V2`
-
-folder_id: `1d_EPvf2LN6FqbDJ3Mh0nx8vl4GAx5zCc`
-
-旧 `旅ログAI連携` は履歴扱いで、V2制作の入力・完成判定には使わない。
-
-工程:
-- 00_制作ルール
-- 01_Gemini調査待ち
-- 02_写真選定
-- 03_Canva制作中
-- 04_Gemini_QA待ち
-- 05_完成
-
-Gemini ProをAPIなしで利用するための受け渡しレイヤー。
-
-## Gemini Pro
-
-APIなし。
-
-役割:
-- Deep Research
-- Photo Review
-- Final QA
-
-GitHub `GEMINI.md` を入口にする。
-画像生成担当にはしない。
+Gemini関連列は履歴として残してよいが、
+現在の制作ゲート・完成条件には使わない。
 
 ## ChatGPT
 
-制作オーケストレーター。
+Production Orchestrator。
 
 役割:
 - Notionキュー確認
-- 最新Web再調査
-- GitHubルール確認
-- Drive作業フォルダ確認
-- Canva dataset確認
-- Canva Autofill
-- 視覚QA / 微修正
+- Web最新確認
+- 高品質写真収集 / 選定
+- 写真補正方針
+- Canva制作
+- 視覚QA
 - Canva保存
 - Notion更新
+- キャプション工程への引き継ぎ
 
 ## Claude
 
 Discovery担当。
 
-役割:
 - 候補探索
 - 初期調査
 - 採点
-- キャプション草案
 - Notionへの候補投入
 
-## Web Search
+## Gemini
 
-制作直前の変動情報を再確認するために使う。
-特に料金・時間・休止・工事・アクセス・季節情報。
+現在はProductionフローから外す。
+API・手動Geminiレビューともに必須ではない。
+
+将来必要になれば再度オプションとして利用できるが、
+現在のCanva制作はGemini待ちで停止しない。
+
+## Web
+
+制作直前の公式情報再確認に使う。
+
+## Google Drive
+
+V2の資料置き場として利用可能。
+Gemini専用の待ち工程は現在使用しない。
 
 ## Automations
 
-定期監視に使用する。
-
-理想:
+定期監視:
 - Notion未制作候補を検知
-- Drive上のGemini成果物を検知
-- Canva重複確認
-- 作れる案件をAutofill制作へ進める
-- QA結果とNotionを同期
-
-ただしGemini Pro自体はAPIなしのため、Geminiの画面操作は自動化しない。
-Driveに成果物が置かれた後を再開点にする。
+- V2 Canva重複確認
+- 最新公式情報再確認
+- 写真品質を確認
+- FULL PHOTO STYLEで制作
+- ChatGPT QA
+- Canva保存
+- Notion更新
 
 ## 安全弁
 
-自動停止条件:
+停止条件:
 - 写真権利不明
 - 公式情報の重大な矛盾
 - 閉業 / 長期休止
-- Canva dataset変更でマッピング不能
-- Gemini QA = FAIL
-- AI生成の実景混入疑い
+- 高品質写真を必要枚数確保できない
+- AI生成実景・不正確な素材混入疑い
+- 視覚QA不合格
 
-自動継続条件:
-- ユーザー提供写真
-- 最新事実確認済み
-- Autofill schema一致
-- QA合格
+継続条件:
+- 最新情報確認済み
+- 写真権利確認済み
+- 高品質写真6〜8枚確保
+- Canva QA合格
