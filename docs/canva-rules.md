@@ -107,3 +107,77 @@
 - スマホで読めるか
 - 見出しだけで内容が把握できるか
 - 5ページで場所の全体像が分かるか
+
+
+## 9. Canva Autofillを第一候補にする
+
+MASTER `DAHVoXJDBFw` はCanvaの名前付きAutofillフィールドを持つことを確認済み。
+
+### 実測したMASTER
+- Design ID: `DAHVoXJDBFw`
+- 5ページ
+- 1080×1350
+- P1: メイン写真1枚
+- P2〜P5: 上下2枚の写真枠
+- Autofill対応: **yes**
+
+### 主要テキストフィールド
+
+表紙:
+- `cover_line1_max10`
+- `cover_line2_max10`
+- `cover_line3_max7`
+- `cover_vertical_max14`
+- `cover_kicker`
+- `cover_title`
+- `cover_side_note`
+- `area`
+- `facility_name`
+
+P2:
+- `room_title`
+- `room_body`
+- `room_image_1`
+- `room_image_2`
+
+P3:
+- `feature1_title`
+- `feature1_body`
+- `feature1_image_1`
+- `feature1_image_2`
+
+P4:
+- `feature2_title`
+- `feature2_body`
+- `feature2_image_1`
+- `feature2_image_2`
+
+P5:
+- `price_title`
+- `price_body`
+- `price_image_1`
+- `price_image_2`
+
+テンプレートには `point1_*` / `point2_*` / `point3_*` 系フィールドも存在する。
+使用する場合は、その時点のMASTERを `get_design_dataset` で再確認してから使う。
+
+### 推奨制作方法
+
+1. MASTERのdatasetを取得し、フィールド構造が変わっていないか確認。
+2. ユーザー写真または権利確認済み素材をCanva Assetsへ登録。
+3. Production BriefからAutofillデータを生成。
+4. `autofill_design` で**新しいデザインとして生成**する。MASTERを上書きしない。
+5. 5ページのサムネイル / プレビューを確認。
+6. 必要な微調整のみediting transactionで行う。
+7. QA後、専用フォルダへ移動しNotionを更新。
+
+### Autofillを使わない場合
+
+次の場合だけ直接editing transactionへ切り替える。
+
+- MASTERのdatasetが変わっている
+- ページ固有の複雑なレイアウト変更が必要
+- Autofillで写真のクロップが著しく不適切
+- テキストフィールドが案件に合わない
+
+Autofill後もQAは省略しない。
