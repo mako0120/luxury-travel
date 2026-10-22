@@ -1,15 +1,45 @@
 {
-  "version": "3.0",
+  "version": "3.1",
   "effective_date": "2026-10-22",
   "style": "FULL_PHOTO",
-  "dimensions": {
-    "width": 1080,
-    "height": 1350,
-    "aspect_ratio": "4:5"
+  "canonical_master": {
+    "design_id": "DAHYuWGM2Uw",
+    "title": "みんなの旅ログ｜FULL PHOTO MASTER V3.1｜4x5",
+    "folder_id": "FAHYuZnyMZU",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": "4:5"
+    },
+    "pages": 6,
+    "autofill": true,
+    "fields": {
+      "page1": {
+        "image": "page1_image",
+        "text": "page1_text"
+      },
+      "page2": {
+        "image": "page2_image",
+        "text": "page2_text"
+      },
+      "page3": {
+        "image": "page3_image",
+        "text": "page3_text"
+      },
+      "page4": {
+        "image": "page4_image",
+        "text": "page4_text"
+      },
+      "page5": {
+        "image": "page5_image",
+        "text": "page5_text"
+      },
+      "page6": {
+        "image": "page6_image",
+        "text": "page6_text"
+      }
+    }
   },
-  "default_pages": 8,
-  "min_pages": 6,
-  "max_pages": 8,
   "page_rules": {
     "images_per_page": 1,
     "image_mode": "full_bleed",
@@ -22,16 +52,12 @@
     "text_length_max_japanese_chars": 24,
     "decoration": "minimal"
   },
-  "standard_sequence": [
-    "HOOK",
-    "WORLD",
-    "STORY",
-    "STAY_OR_EXPERIENCE",
-    "SIGNATURE",
-    "ANOTHER_ANGLE",
-    "DETAIL",
-    "CLOSE"
-  ],
+  "page_count_policy": {
+    "default": 6,
+    "min": 6,
+    "max": 8,
+    "do_not_fill_with_weak_or_duplicate_photos": true
+  },
   "image_quality": {
     "preferred_long_edge_px": 2000,
     "ideal_canvas_source": "2160x2700_or_higher",
@@ -39,9 +65,24 @@
     "avoid_social_recompressed_images": true,
     "reject_weak_images_instead_of_filling_pages": true
   },
+  "photo_integrity": {
+    "semantic_edits_forbidden": true,
+    "generative_edits_forbidden": true,
+    "allowed": "non-generative global quality corrections and minimal crop only"
+  },
   "gemini_required": false,
-  "legacy_master": {
-    "design_id": "DAHVoXJDBFw",
-    "role": "compatibility_only"
-  }
+  "deprecated_masters": [
+    {
+      "design_id": "DAHYuM63jmA",
+      "reason": "1080x1440 3:4 and 9 pages; incompatible"
+    },
+    {
+      "design_id": "DAHYuWS9Qho",
+      "reason": "temporary resized 9-page migration design"
+    },
+    {
+      "design_id": "DAHVoXJDBFw",
+      "reason": "legacy 5-page compatibility only"
+    }
+  ]
 }
