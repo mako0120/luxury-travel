@@ -11,7 +11,13 @@
     "オリジナルカクテル付き・コンラッドベア付きなど、利用シーンに合わせて選べるプラン展開。"
   ],
   "evaluation_basis": "100点満点中84点（口コミ評価23/25・口コミ信頼性14/15・独自体験15/20・映え13/15・価格対体験価値7/10・SNS話題性7/10・アクセス/鮮度5/5）。フォートラベル単体の評価は3.97点とやや低めだが、これは日本の宿泊系口コミサイトで一般的に見られる傾向であり、ITmedia nlab・Hotels.comの一致した高評価と合わせて信頼性は十分と判断した。",
-  "target_audience": ["カップル", "記念日", "女子旅", "ホテル好き", "絶景好き"],
+  "target_audience": [
+    "カップル",
+    "記念日",
+    "女子旅",
+    "ホテル好き",
+    "絶景好き"
+  ],
   "why_now": "2026年8月3日(月)〜11月30日(月)の期間限定提供（一部情報源では開始日が10月7日とも案内されており、公式サイト・電話での最終確認を推奨）。秋のシャインマスカットシーズンならではの一皿で、11月末までの残り期間に訪れるタイミングとして適している。",
   "price_note": "1名8,500円、オリジナルカクテル付き11,000円、コンラッドベア付き10,300円（いずれも税・サービス料込み目安・価格は検索日・対象日・プランにより変動）。11:00〜20:00(L.O.18:00)の2時間制、30分間隔で予約受付。",
   "access_note": "大阪メトロ四ツ橋線 肥後橋駅直結（フェスティバルタワー・ウエスト）。予約・問い合わせ：06-6222-0111。",
@@ -20,16 +26,62 @@
     "tiktok": "大阪で一番の眺めのアフタヌーンティー、知ってる？🍇\n『コンラッド大阪』40階、肥後橋駅直結。\nシャインマスカット×キャラメルのスイーツ6種。\n大阪府5つ星ホテル1位の評価（ITmedia調べ）。\n8/3〜11/30の期間限定だから、11月末までに。\n保存して、次の大阪旅の候補に。"
   },
   "hashtags": [
-    "#コンラッド大阪", "#大阪旅行", "#肥後橋", "#アフタヌーンティー", "#期間限定",
-    "#シャインマスカット", "#秋グルメ", "#女子旅", "#記念日", "#大阪グルメ",
+    "#コンラッド大阪",
+    "#大阪旅行",
+    "#肥後橋",
+    "#アフタヌーンティー",
+    "#期間限定",
+    "#シャインマスカット",
+    "#秋グルメ",
+    "#女子旅",
+    "#記念日",
+    "#大阪グルメ",
     "#贅沢旅"
   ],
   "sources": [
-    { "type": "press", "title": "コンラッド大阪『シャインマスカット×キャラメル』アフタヌーンティー - voix.jp", "url": "https://voix.jp/?p=109287" },
-    { "type": "other", "title": "Conrad Osaka Afternoon Tea 2026 - Osaka Info（大阪観光局公式サイト イベント掲載）", "url": "https://osaka-info.jp/event/conrad-osaka-afternoontea2026/" },
-    { "type": "other", "title": "大阪府の人気5つ星ホテルランキング（コンラッド大阪1位） - ITmedia nlab", "url": "https://nlab.itmedia.co.jp/research/articles/3164970/" },
-    { "type": "booking_site", "title": "Conrad Osaka - Hotels.com", "url": "https://www.hotels.com/ho664390" },
-    { "type": "review_site", "title": "コンラッド大阪 クチコミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-11655700" }
+    {
+      "type": "press",
+      "title": "コンラッド大阪『シャインマスカット×キャラメル』アフタヌーンティー - voix.jp",
+      "url": "https://voix.jp/?p=109287"
+    },
+    {
+      "type": "other",
+      "title": "Conrad Osaka Afternoon Tea 2026 - Osaka Info（大阪観光局公式サイト イベント掲載）",
+      "url": "https://osaka-info.jp/event/conrad-osaka-afternoontea2026/"
+    },
+    {
+      "type": "other",
+      "title": "大阪府の人気5つ星ホテルランキング（コンラッド大阪1位） - ITmedia nlab",
+      "url": "https://nlab.itmedia.co.jp/research/articles/3164970/"
+    },
+    {
+      "type": "booking_site",
+      "title": "Conrad Osaka - Hotels.com",
+      "url": "https://www.hotels.com/ho664390"
+    },
+    {
+      "type": "review_site",
+      "title": "コンラッド大阪 クチコミ・評価 - フォートラベル",
+      "url": "https://4travel.jp/dm_hotel-11655700"
+    }
   ],
-  "created_date": "2026-10-22"
+  "created_date": "2026-10-22",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

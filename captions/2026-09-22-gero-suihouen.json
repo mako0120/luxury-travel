@@ -11,7 +11,12 @@
     "公式Instagram（約6,285フォロワー）で継続的に発信されており、静かな高台の宿という独自性がある。"
   ],
   "evaluation_basis": "100点満点中84点（口コミ評価23/25・口コミ信頼性14/15・独自体験17/20・映え13/15・価格対体験価値7/10・SNS話題性6/10・アクセス/鮮度4/5）。楽天トラベル4.60（354件）・一休.com4.75（109件）・Yahoo!トラベル4.75（104件）・じゃらんnet4.4（17件）の4つの独立情報源で推奨ライン4.0を大きく上回ることを確認。一休.comに設備・清掃面を指摘する否定的レビューが1件あったが、他の多数のレビューと一致せず単発の意見と判断し、除外基準には該当しないとした。同エリアの水明館・湯之島館は、複数の独立情報源で設備老朽化への一致した指摘があり、スコアも75点未満だったため見送り、本候補を選定した。",
-  "target_audience": ["夫婦", "記念日", "温泉好き", "グルメ旅"],
+  "target_audience": [
+    "夫婦",
+    "記念日",
+    "温泉好き",
+    "グルメ旅"
+  ],
   "why_now": "下呂温泉は10月以降に奥飛騨・下呂周辺の紅葉が見頃を迎えるエリア。9月下旬は残暑が落ち着き、紅葉本番前の予約検討が始まるタイミングで、露天風呂付き客室での静養需要が高まる時期にあたる。",
   "price_note": "2名1室利用時、税込1泊あたり57,200円〜244,086円（客室タイプ・プランにより変動、2名で68,200円〜の表示も確認）。",
   "access_note": "岐阜県下呂市。JR高山本線下呂駅から車で約4分（送迎は要事前連絡、14時〜18時対応）、徒歩でも約15分。名古屋⇔下呂間の直行バスもある。",
@@ -20,16 +25,63 @@
     "tiktok": "下呂温泉街を見下ろす高台にある、静かな懐石宿知ってる？♨️\n全15室のうち9室に専用露天風呂付き。\n飛騨牛の会席料理、土鍋炊きご飯も評判。\n楽天354件で4.60、一休でも109件で4.75の高評価。\n紅葉前の下呂温泉、保存しておこう。"
   },
   "hashtags": [
-    "#下呂温泉", "#水鳳園", "#岐阜旅行", "#温泉旅館", "#露天風呂付き客室",
-    "#日本三名泉", "#夫婦旅", "#記念日旅行", "#秋旅行", "#飛騨牛",
-    "#国内旅行", "#贅沢旅"
+    "#下呂温泉",
+    "#水鳳園",
+    "#岐阜旅行",
+    "#温泉旅館",
+    "#露天風呂付き客室",
+    "#日本三名泉",
+    "#夫婦旅",
+    "#記念日旅行",
+    "#秋旅行",
+    "#飛騨牛",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "official", "title": "下呂温泉 懐石宿 水鳳園（すいほうえん）【公式】", "url": "https://www.e-onsen.co.jp/" },
-    { "type": "review_site", "title": "下呂温泉 懐石宿 水鳳園（すいほうえん） - クチコミ【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/109119/review.html" },
-    { "type": "review_site", "title": "懐石宿 水鳳園 - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00002819/review/" },
-    { "type": "review_site", "title": "懐石宿 水鳳園 - クチコミ・評判 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00002819/review/" },
-    { "type": "review_site", "title": "下呂温泉 懐石宿 水鳳園（すいほうえん）のクチコミ・評判一覧 - じゃらんnet", "url": "https://www.jalan.net/yad318203/kuchikomi/" }
+    {
+      "type": "official",
+      "title": "下呂温泉 懐石宿 水鳳園（すいほうえん）【公式】",
+      "url": "https://www.e-onsen.co.jp/"
+    },
+    {
+      "type": "review_site",
+      "title": "下呂温泉 懐石宿 水鳳園（すいほうえん） - クチコミ【楽天トラベル】",
+      "url": "https://travel.rakuten.co.jp/HOTEL/109119/review.html"
+    },
+    {
+      "type": "review_site",
+      "title": "懐石宿 水鳳園 - クチコミ・評判 - 一休.com",
+      "url": "https://www.ikyu.com/00002819/review/"
+    },
+    {
+      "type": "review_site",
+      "title": "懐石宿 水鳳園 - クチコミ・評判 - Yahoo!トラベル",
+      "url": "https://travel.yahoo.co.jp/00002819/review/"
+    },
+    {
+      "type": "review_site",
+      "title": "下呂温泉 懐石宿 水鳳園（すいほうえん）のクチコミ・評判一覧 - じゃらんnet",
+      "url": "https://www.jalan.net/yad318203/kuchikomi/"
+    }
   ],
-  "created_date": "2026-09-22"
+  "created_date": "2026-09-22",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

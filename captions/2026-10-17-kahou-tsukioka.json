@@ -12,7 +12,13 @@
     "2025年7月25日にJR新潟駅からの直行バスが新設され、首都圏からのアクセスが改善されたという情報の新しさもある。"
   ],
   "evaluation_basis": "100点満点中84点（口コミ評価21/25・口コミ信頼性13/15・独自体験19/20・映え13/15・価格対体験価値7/10・SNS話題性7/10・アクセス/鮮度4/5）。楽天トラベル4.5（2,058件）・Skyticket4.6（734件）の2つの独立した大規模サンプルで採用ライン4.0以上（推奨4.2以上）を上回ることを確認。フォートラベルでは45件中3.47（アクセス評価が足を引いている）という低めの声もあったが、風呂・部屋・接客の項目別評価は4.3〜4.56と高く、清潔感・安全性に関わる重大な問題ではないため選定に影響しないと判断した。",
-  "target_audience": ["夫婦", "記念日", "カップル", "温泉好き", "ホテル好き"],
+  "target_audience": [
+    "夫婦",
+    "記念日",
+    "カップル",
+    "温泉好き",
+    "ホテル好き"
+  ],
   "why_now": "10月中旬の新潟・月岡温泉は朝晩の気温が下がり始め、オートロウリュで発汗したあとの外気浴が『ととのう』のに心地よい季節に入る。11月以降は積雪シーズンに向かうため、まだ移動しやすい今のうちに紅葉と合わせて紹介する意義がある。",
   "price_note": "Web検索の範囲では部屋タイプ別の正確な1泊2食価格帯は確定できなかった。離れ露天風呂・サウナ水風呂付の和洋室など複数の部屋タイプがあり、プラン・時期により価格帯に幅がある（予約前に公式サイト・予約サイトで要確認）。",
   "access_note": "新潟県新発田市月岡温泉に位置する。JR新発田駅・豊栄駅等からシャトルバス、2025年7月25日からはJR新潟駅からの直行バスも運行（詳細・時刻は公式サイトで要確認）。",
@@ -21,18 +27,73 @@
     "tiktok": "部屋の中にサウナがある温泉旅館、知ってる？🧖\n新潟・月岡温泉『白玉の湯 華鳳』。\n大浴場は男性100℃・女性110℃のオートロウリュサウナ×水風呂11〜13℃。\n9階の客室には専用サウナ＆露天風呂が付いていて、何度でも1人で入れる。\n湯はエメラルドグリーンの自家源泉硫黄泉。\n楽天2,058件で4.5、Skyticketも734件で4.6の高評価。\n一度は泊まってみたい『部屋サウナ』、保存必須。"
   },
   "hashtags": [
-    "#月岡温泉", "#華鳳", "#新発田市", "#新潟旅行", "#サウナ好きと繋がりたい",
-    "#オートロウリュ", "#ととのう", "#客室サウナ", "#温泉旅館", "#記念日旅行",
-    "#カップル旅行", "#国内旅行"
+    "#月岡温泉",
+    "#華鳳",
+    "#新発田市",
+    "#新潟旅行",
+    "#サウナ好きと繋がりたい",
+    "#オートロウリュ",
+    "#ととのう",
+    "#客室サウナ",
+    "#温泉旅館",
+    "#記念日旅行",
+    "#カップル旅行",
+    "#国内旅行"
   ],
   "sources": [
-    { "type": "booking_site", "title": "白玉の湯 華鳳のご紹介（近畿日本ツーリスト）", "url": "https://yado.knt.co.jp/st/S150010/" },
-    { "type": "review_site", "title": "白玉の湯 華鳳 の口コミ・評判 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10055030" },
-    { "type": "review_site", "title": "白玉の湯 華鳳 - Skyticket ホテル詳細", "url": "https://skyticket.jp/hotel/detail/property_14724/" },
-    { "type": "other", "title": "楽天トラベルクチコミに基づく人気温泉宿ランキング - ねとらぼ(ITmedia)", "url": "https://nlab.itmedia.co.jp/research/articles/3194844/" },
-    { "type": "other", "title": "白玉の湯 華鳳 - サウナイキタイ（施設詳細・温度・水風呂情報）", "url": "https://sauna-ikitai.com/saunas/718" },
-    { "type": "other", "title": "【新潟県の人気ホテル】「月岡温泉 白玉の湯 華鳳」はエメラルドグリーンの名湯と広大な庭園が自慢の贅沢宿 - All About", "url": "https://news.allabout.co.jp/articles/o/113952/" },
-    { "type": "review_site", "title": "白玉の湯 華鳳 宿泊者口コミ（9階サウナ付き客室の体験談含む） - cocolocala", "url": "https://www.cocolocala.jp/hotels/8848" }
+    {
+      "type": "booking_site",
+      "title": "白玉の湯 華鳳のご紹介（近畿日本ツーリスト）",
+      "url": "https://yado.knt.co.jp/st/S150010/"
+    },
+    {
+      "type": "review_site",
+      "title": "白玉の湯 華鳳 の口コミ・評判 - フォートラベル",
+      "url": "https://4travel.jp/dm_hotel-10055030"
+    },
+    {
+      "type": "review_site",
+      "title": "白玉の湯 華鳳 - Skyticket ホテル詳細",
+      "url": "https://skyticket.jp/hotel/detail/property_14724/"
+    },
+    {
+      "type": "other",
+      "title": "楽天トラベルクチコミに基づく人気温泉宿ランキング - ねとらぼ(ITmedia)",
+      "url": "https://nlab.itmedia.co.jp/research/articles/3194844/"
+    },
+    {
+      "type": "other",
+      "title": "白玉の湯 華鳳 - サウナイキタイ（施設詳細・温度・水風呂情報）",
+      "url": "https://sauna-ikitai.com/saunas/718"
+    },
+    {
+      "type": "other",
+      "title": "【新潟県の人気ホテル】「月岡温泉 白玉の湯 華鳳」はエメラルドグリーンの名湯と広大な庭園が自慢の贅沢宿 - All About",
+      "url": "https://news.allabout.co.jp/articles/o/113952/"
+    },
+    {
+      "type": "review_site",
+      "title": "白玉の湯 華鳳 宿泊者口コミ（9階サウナ付き客室の体験談含む） - cocolocala",
+      "url": "https://www.cocolocala.jp/hotels/8848"
+    }
   ],
-  "created_date": "2026-10-17"
+  "created_date": "2026-10-17",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

@@ -12,7 +12,13 @@
     "調査日（10/21）時点でまだ開始前（10/31〜）のため、『まもなく始まる』を訴求できる投稿タイミングでもある。"
   ],
   "evaluation_basis": "100点満点中84点（口コミ評価22/25・口コミ信頼性13/15・独自体験18/20・映え13/15・価格対体験価値7/10・SNS話題性6/10・アクセス/鮮度5/5）。Skyticket4.5点（8,769件）・Trip.com4.5点（212件）の2つの独立情報源で推奨ライン4.2以上を上回る評価を確認（原則6・7）。同じ広島市内のヒルトン広島『ハーベスト』アフタヌーンティー（Trip.com・Traveloka換算で約4.65〜4.80点、score74点）は口コミ自体は良好だったが、柿・栗を主役にした企画内容が他都市でも定番的で独自性に欠けるため見送り、オリエンタルホテル広島『Harvest Tea Party』はフォートラベル3.81点（102件）が推奨ライン4.0に届かず（score58点）見送った。",
-  "target_audience": ["カップル", "記念日", "女子旅", "ホテル好き", "絶景好き"],
+  "target_audience": [
+    "カップル",
+    "記念日",
+    "女子旅",
+    "ホテル好き",
+    "絶景好き"
+  ],
   "why_now": "2026年10月31日〜11月30日の期間限定・1日10名限定企画で、2025年10月開業の水族館の『開館1周年』という一度きりの節目に合わせた企画のため、来年以降は同じ内容が再現される保証がない『今しか見られない』タイミング。秋の広島旅行を検討し始める時期とも重なる。",
   "price_note": "1名5,500円、広島もとまち水族館の入館券付きプランは1名7,300円という表示をWebSearchのスニペット（プレスリリース概要）で確認。正確な料金・プラン内容・予約方法は公式サイト・予約サイトで要確認。",
   "access_note": "広島県広島市中区基町、複合施設『基町クレド・パセーラ』内。広島バスセンターから徒歩約3分、紙屋町・広島城からも徒歩圏内でアクセス良好。",
@@ -34,10 +40,44 @@
     "#贅沢旅"
   ],
   "sources": [
-    { "type": "press", "title": "リーガロイヤルホテル広島「広島もとまち水族館 開館1周年記念 コラボレーションアフタヌーンティー」提供開始 - san-tatsu.jp（プレスリリース掲載）", "url": "https://san-tatsu.jp/pressrelease/559091/" },
-    { "type": "review_site", "title": "リーガロイヤルホテル広島 口コミ・評価 - Skyticket", "url": "https://skyticket.jp/hotel/detail/property_14978/" },
-    { "type": "review_site", "title": "Rihga Royal Hotel Hiroshima reviews - Trip.com", "url": "https://www.trip.com/hotels/hiroshima-hotel-detail-2005862/" },
-    { "type": "other", "title": "広島もとまち水族館×リーガロイヤルホテル広島 コラボ企画一覧 - resemom.jp（PR Times配信）", "url": "https://resemom.jp/release/prtimes/20251128/164645.html" }
+    {
+      "type": "press",
+      "title": "リーガロイヤルホテル広島「広島もとまち水族館 開館1周年記念 コラボレーションアフタヌーンティー」提供開始 - san-tatsu.jp（プレスリリース掲載）",
+      "url": "https://san-tatsu.jp/pressrelease/559091/"
+    },
+    {
+      "type": "review_site",
+      "title": "リーガロイヤルホテル広島 口コミ・評価 - Skyticket",
+      "url": "https://skyticket.jp/hotel/detail/property_14978/"
+    },
+    {
+      "type": "review_site",
+      "title": "Rihga Royal Hotel Hiroshima reviews - Trip.com",
+      "url": "https://www.trip.com/hotels/hiroshima-hotel-detail-2005862/"
+    },
+    {
+      "type": "other",
+      "title": "広島もとまち水族館×リーガロイヤルホテル広島 コラボ企画一覧 - resemom.jp（PR Times配信）",
+      "url": "https://resemom.jp/release/prtimes/20251128/164645.html"
+    }
   ],
-  "created_date": "2026-10-21"
+  "created_date": "2026-10-21",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

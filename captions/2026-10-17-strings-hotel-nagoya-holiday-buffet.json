@@ -12,7 +12,13 @@
     "名古屋駅エリアというアクセスの良さも強み。"
   ],
   "evaluation_basis": "100点満点中82点（口コミ評価22/25・口コミ信頼性13/15・独自体験16/20・映え13/15・価格対体験価値7/10・SNS話題性7/10・アクセス/鮮度4/5）。評価はホテル全体の口コミ（じゃらんnet 609件・jcation 1,000件）に基づくもので、本企画『クリスマス＆いちごのホリデーブッフェ』単体の口コミはまだ蓄積されていない（2026年12月1日開始の期間限定企画のため）点は留意事項。フォートラベルのみ3.38点（37件）とやや低いが、件数が小さく他2サイトの大規模な評価傾向とは一致していない。",
-  "target_audience": ["カップル", "記念日", "女子旅", "ホテル好き", "グルメ旅"],
+  "target_audience": [
+    "カップル",
+    "記念日",
+    "女子旅",
+    "ホテル好き",
+    "グルメ旅"
+  ],
   "why_now": "2026年12月1日(火)〜12月27日(日)の期間限定で、12月18日〜20日・24日・25日にはクリスマス限定スペシャルメニューも登場する『今だけ』の企画。並行開催の『いちごのスイーツブッフェ〜ホリデー・コレクション〜』（12月3日〜翌1月11日）と合わせると、クリスマスシーズンから年始まで楽しめるため、冬の名古屋旅行・年末年始の予定を立て始めるこの時期に紹介する好機（原則30）。",
   "price_note": "本企画自体の正確な料金はこのセッションのWebSearchでは確認できなかった。参考として、同会場・同時期に並行開催される『いちごのスイーツブッフェ〜ホリデー・コレクション〜』は大人平日4,300円〜／土日祝4,800円〜（特定日はさらに高め）とされている。価格・提供内容は検索日・対象日・プランにより変動するため、予約時に公式サイトで最新情報の確認が必要。",
   "access_note": "JR・名古屋市営地下鉄「名古屋」駅エリア、ストリングスホテル名古屋2階「シェフズ ライブ キッチン」。",
@@ -21,16 +27,67 @@
     "tiktok": "名古屋駅エリアで、クリスマス×いちごの贅沢ビュッフェ🍓🎄\n『ストリングスホテル名古屋』2階、12/1〜12/27限定の『クリスマス＆いちごのホリデーブッフェ』。\nローストターキーもいちごスイーツも両方楽しめる。\n推しカラーのミニパフェを自分で作れる体験コーナーも併設中。\n12/18〜25の一部日程は限定スペシャルメニューつき。\n保存して、冬の名古屋旅の候補に。"
   },
   "hashtags": [
-    "#ストリングスホテル名古屋", "#名古屋旅行", "#名古屋グルメ", "#クリスマスビュッフェ", "#期間限定",
-    "#いちごスイーツ", "#ホリデーブッフェ", "#名古屋駅", "#記念日", "#国内旅行", "#贅沢旅"
+    "#ストリングスホテル名古屋",
+    "#名古屋旅行",
+    "#名古屋グルメ",
+    "#クリスマスビュッフェ",
+    "#期間限定",
+    "#いちごスイーツ",
+    "#ホリデーブッフェ",
+    "#名古屋駅",
+    "#記念日",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "press", "title": "ストリングスホテル名古屋「クリスマス＆いちごのホリデーブッフェ」開催 - san-tatsu.jp", "url": "https://san-tatsu.jp/pressrelease/560267/" },
-    { "type": "press", "title": "ストリングスホテル名古屋「いちごのスイーツブッフェ〜ホリデー・コレクション〜」 - san-tatsu.jp", "url": "https://san-tatsu.jp/pressrelease/560269/" },
-    { "type": "other", "title": "クリスマス＆いちごのホリデーブッフェ - いこレポ（report.iko-yo.net）", "url": "https://report.iko-yo.net/articles/34283" },
-    { "type": "other", "title": "いちごのスイーツブッフェ〜ホリデー・コレクション〜 - いこレポ（report.iko-yo.net）", "url": "https://report.iko-yo.net/articles/34284" },
-    { "type": "booking_site", "title": "ストリングスホテル名古屋 - じゃらんnet", "url": "https://www.jalan.net/yad356955/" },
-    { "type": "review_site", "title": "ストリングスホテル 名古屋 - jcation", "url": "https://jcation.com/hotel/detail-3873/" }
+    {
+      "type": "press",
+      "title": "ストリングスホテル名古屋「クリスマス＆いちごのホリデーブッフェ」開催 - san-tatsu.jp",
+      "url": "https://san-tatsu.jp/pressrelease/560267/"
+    },
+    {
+      "type": "press",
+      "title": "ストリングスホテル名古屋「いちごのスイーツブッフェ〜ホリデー・コレクション〜」 - san-tatsu.jp",
+      "url": "https://san-tatsu.jp/pressrelease/560269/"
+    },
+    {
+      "type": "other",
+      "title": "クリスマス＆いちごのホリデーブッフェ - いこレポ（report.iko-yo.net）",
+      "url": "https://report.iko-yo.net/articles/34283"
+    },
+    {
+      "type": "other",
+      "title": "いちごのスイーツブッフェ〜ホリデー・コレクション〜 - いこレポ（report.iko-yo.net）",
+      "url": "https://report.iko-yo.net/articles/34284"
+    },
+    {
+      "type": "booking_site",
+      "title": "ストリングスホテル名古屋 - じゃらんnet",
+      "url": "https://www.jalan.net/yad356955/"
+    },
+    {
+      "type": "review_site",
+      "title": "ストリングスホテル 名古屋 - jcation",
+      "url": "https://jcation.com/hotel/detail-3873/"
+    }
   ],
-  "created_date": "2026-10-17"
+  "created_date": "2026-10-17",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

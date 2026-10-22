@@ -11,7 +11,12 @@
     "城崎温泉の温泉街中心部に位置し、外湯巡りの拠点としても使いやすい立地。"
   ],
   "evaluation_basis": "100点満点中84点（口コミ評価22/25・口コミ信頼性13/15・独自体験19/20・映え13/15・価格対体験価値6/10・SNS話題性6/10・アクセス/鮮度5/5）。一休.com4.81（69件）・楽天トラベル4.33（330件）の2つの独立情報源で推奨ライン4.2以上を確認。低評価レビューでは清潔感・安全性に関わる重大な指摘は見つからなかったが、2026年8月29日の営業再開直後のため、改装後の口コミはまだ十分に蓄積されていない点は留意事項。",
-  "target_audience": ["夫婦", "記念日", "グルメ旅", "温泉好き"],
+  "target_audience": [
+    "夫婦",
+    "記念日",
+    "グルメ旅",
+    "温泉好き"
+  ],
   "why_now": "9月中旬〜11月上旬は松葉ガニ漁解禁（例年11月上旬）直前の時期。カニ本番シーズンを控え、城崎温泉のグルメ旅館を今のうちにチェックしておきたいタイミングであり、あわせて西村屋本館は2026年8月29日に客室改装を終えたばかりという旬の話題性もある。",
   "price_note": "1泊2食付き・大人1名（2名1室利用）で57,200円〜101,200円程度（税込表示）。露天風呂付き客室では1名1泊2食73,700円〜という情報もあり、客室タイプ・プラン・時期により大きく変動する。改装後の最新料金は公式サイト・予約サイトで要確認。",
   "access_note": "JR山陰本線 城崎温泉駅下車、城崎温泉の温泉街中心部に位置（駅からの詳細な所要時間・送迎の有無は予約時に要確認）。京都・大阪方面からは特急列車の利用が便利（所要時間はダイヤ改正により変動するため要確認）。",
@@ -20,15 +25,58 @@
     "tiktok": "国の登録有形文化財に泊まれる城崎温泉の宿、知ってる？🏯\n『西村屋本館』、ミシュランガイド掲載＆ルレ・エ・シャトー加盟。\n2026年8月に客室改装を終えたばかり。\n一休69件で4.81、楽天でも330件で4.33の高評価。\nカニ本番シーズンの前に、保存しておこう。"
   },
   "hashtags": [
-    "#城崎温泉", "#西村屋本館", "#豊岡市", "#兵庫旅行", "#グルメ旅館",
-    "#記念日旅行", "#夫婦旅", "#温泉旅館", "#登録有形文化財", "#老舗旅館",
-    "#国内旅行", "#贅沢旅"
+    "#城崎温泉",
+    "#西村屋本館",
+    "#豊岡市",
+    "#兵庫旅行",
+    "#グルメ旅館",
+    "#記念日旅行",
+    "#夫婦旅",
+    "#温泉旅館",
+    "#登録有形文化財",
+    "#老舗旅館",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "review_site", "title": "城崎温泉 西村屋本館 クチコミ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/75399/review.html" },
-    { "type": "review_site", "title": "西村屋本館 - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00000476/review/" },
-    { "type": "official", "title": "城崎温泉 旅館 西村屋本館 | 公式ホームページ", "url": "https://www.nishimuraya.ne.jp/honkan/" },
-    { "type": "other", "title": "城崎温泉 西村屋本館 | 最高級旅館ストーリー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/platinum/nishimuraya/" }
+    {
+      "type": "review_site",
+      "title": "城崎温泉 西村屋本館 クチコミ - 楽天トラベル",
+      "url": "https://travel.rakuten.co.jp/HOTEL/75399/review.html"
+    },
+    {
+      "type": "review_site",
+      "title": "西村屋本館 - クチコミ・評判 - 一休.com",
+      "url": "https://www.ikyu.com/00000476/review/"
+    },
+    {
+      "type": "official",
+      "title": "城崎温泉 旅館 西村屋本館 | 公式ホームページ",
+      "url": "https://www.nishimuraya.ne.jp/honkan/"
+    },
+    {
+      "type": "other",
+      "title": "城崎温泉 西村屋本館 | 最高級旅館ストーリー【楽天トラベル】",
+      "url": "https://travel.rakuten.co.jp/platinum/nishimuraya/"
+    }
   ],
-  "created_date": "2026-09-18"
+  "created_date": "2026-09-18",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

@@ -11,7 +11,12 @@
     "『Hotel & Lodge Awards 2026』で世界の100 Finalistsに選出されたという話題性があり、SNS・メディアでの注目度も見込める。"
   ],
   "evaluation_basis": "100点満点中81点（口コミ評価23/25・口コミ信頼性11/15・独自体験18/20・映え13/15・価格対体験価値5/10・SNS話題性7/10・アクセス/鮮度4/5）。jcation 4.8（352件）・ふるなび4.6（24件）の2つの独立情報源で推奨ライン4.2以上を確認。なお、いこーよの評価（1件・3.7）は口コミ件数が少なすぎるため参考情報にとどめ、採点には使用していない。本施設単独への具体的な低評価レビューはこのセッションのWebSearchでは確認できなかったが、星野リゾート全体を論じる記事に一部施設への不満の言及があり（星のや富士固有の指摘ではない）、留意事項として記録する。具体的な宿泊料金はネットワーク制限（EGRESS_BLOCKED）により未確認のため、価格対体験価値の配点は保守的にとどめた。",
-  "target_audience": ["カップル", "記念日", "夫婦", "絶景好き"],
+  "target_audience": [
+    "カップル",
+    "記念日",
+    "夫婦",
+    "絶景好き"
+  ],
   "why_now": "10月下旬の富士北麓は紅葉が見頃を迎え、空気が澄んで富士山がよく見える季節。日中の過ごしやすさと朝晩の冷え込みが『焚き火を囲む夜』を一段と魅力的にするタイミングで、2026年9月11日〜12月2日限定の『秋の森 グランピング滞在』がまさに今提供されている。",
   "price_note": "具体的な宿泊料金は本セッションのネットワーク制限により確認できなかった。星野リゾート『星のや』ブランドの中でも上位価格帯のグランピングとして知られており、プラン・時期により価格差が大きいと見込まれる。金額は予約前に公式サイトでご確認ください。",
   "access_note": "山梨県南都留郡富士河口湖町大石、河口湖畔。河口湖駅から車で約20分。",
@@ -20,15 +25,58 @@
     "tiktok": "富士山を見ながら焚き火する宿、知ってる？🔥\n山梨・河口湖『星のや富士』。\n日本初のグランピングリゾートで、松林のクラウドテラスで焚き火を囲む夜。\n口コミは352件で4.8（jcation）。\n今は秋限定の『秋の森 グランピング滞在』を実施中。\n紅葉の富士北麓、保存して秋のうちに検討して。"
   },
   "hashtags": [
-    "#星のや富士", "#河口湖", "#富士河口湖", "#山梨旅行", "#グランピング",
-    "#クラウドテラス", "#焚き火", "#富士山", "#記念日旅行", "#秋旅行",
-    "#国内旅行", "#贅沢旅"
+    "#星のや富士",
+    "#河口湖",
+    "#富士河口湖",
+    "#山梨旅行",
+    "#グランピング",
+    "#クラウドテラス",
+    "#焚き火",
+    "#富士山",
+    "#記念日旅行",
+    "#秋旅行",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "official", "title": "星のや富士【公式】| HOSHINOYA Fuji", "url": "https://hoshinoresorts.com/ja/hotels/hoshinoyafuji/" },
-    { "type": "press", "title": "【星のや富士】'秋澄む'森に没入。富士北麓で自然の心地よさに浸る「秋の森 グランピング滞在」を提案", "url": "https://prtimes.jp/main/html/rd/p/000002283.000033064.html" },
-    { "type": "other", "title": "星のや富士 - jcation（口コミ352件・総合4.8、Expedia系集計）", "url": "https://jcation.com/hotel/detail-7867/" },
-    { "type": "other", "title": "星のや富士 宿泊ギフト券 レビュー一覧 - ふるなび（24件・総合4.6）", "url": "https://furunavi.jp/review_list.aspx?pid=239716" }
+    {
+      "type": "official",
+      "title": "星のや富士【公式】| HOSHINOYA Fuji",
+      "url": "https://hoshinoresorts.com/ja/hotels/hoshinoyafuji/"
+    },
+    {
+      "type": "press",
+      "title": "【星のや富士】'秋澄む'森に没入。富士北麓で自然の心地よさに浸る「秋の森 グランピング滞在」を提案",
+      "url": "https://prtimes.jp/main/html/rd/p/000002283.000033064.html"
+    },
+    {
+      "type": "other",
+      "title": "星のや富士 - jcation（口コミ352件・総合4.8、Expedia系集計）",
+      "url": "https://jcation.com/hotel/detail-7867/"
+    },
+    {
+      "type": "other",
+      "title": "星のや富士 宿泊ギフト券 レビュー一覧 - ふるなび（24件・総合4.6）",
+      "url": "https://furunavi.jp/review_list.aspx?pid=239716"
+    }
   ],
-  "created_date": "2026-10-18"
+  "created_date": "2026-10-18",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

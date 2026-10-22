@@ -11,7 +11,12 @@
     "近鉄大阪上本町駅直結というアクセスの良さ。"
   ],
   "evaluation_basis": "100点満点中81点（口コミ評価21/25・口コミ信頼性13/15・独自体験16/20・映え12/15・価格対体験価値8/10・SNS話題性6/10・アクセス/鮮度5/5）。評価はホテル全体（宿泊）に対するもので、本メニュー単体の口コミはまだ蓄積されていない（2026年9月1日開始の新メニューのため）点は留意事項。",
-  "target_audience": ["カップル", "女子旅", "記念日", "ホテル好き"],
+  "target_audience": [
+    "カップル",
+    "女子旅",
+    "記念日",
+    "ホテル好き"
+  ],
   "why_now": "2026年9月1日(火)〜10月31日(土)の期間限定で秋バージョンとして販売中（公式プレスリリースで確認済み）。期間限定のため、今のタイミングでの紹介が適している。",
   "price_note": "1名8,000円（サービス料込み目安）。平日ディナータイム限定・各日20名・3日前までの要予約。",
   "access_note": "近鉄大阪上本町駅直結。",
@@ -20,15 +25,57 @@
     "tiktok": "大阪の夜限定、和のアフタヌーンティー知ってる？🌰\n『シェラトン都ホテル大阪』、和食料理長監修の秋メニュー。\n各日20名限定、3日前までの予約制。\n9/1〜10/31の期間限定だから急いで。\n保存して、次の大阪旅の候補に。"
   },
   "hashtags": [
-    "#シェラトン都ホテル大阪", "#大阪旅行", "#上本町", "#和アフタヌーンティー", "#期間限定",
-    "#秋グルメ", "#女子旅", "#記念日", "#大阪グルメ", "#国内旅行",
+    "#シェラトン都ホテル大阪",
+    "#大阪旅行",
+    "#上本町",
+    "#和アフタヌーンティー",
+    "#期間限定",
+    "#秋グルメ",
+    "#女子旅",
+    "#記念日",
+    "#大阪グルメ",
+    "#国内旅行",
     "#贅沢旅"
   ],
   "sources": [
-    { "type": "press", "title": "一日の終わりに最高のご褒美を 和食料理長が手掛ける「和」のアフタヌーンティー新登場｜【公式】シェラトン都ホテル大阪", "url": "https://www.miyakohotels.ne.jp/pressrelease/1066/" },
-    { "type": "official", "title": "Night 和sweets ～和のアフタヌーンティー～｜日本料理 うえまち【公式】シェラトン都ホテル大阪", "url": "https://www.miyakohotels.ne.jp/osaka/restaurant/uemachi/menu/57145/" },
-    { "type": "press", "title": "【シェラトン都ホテル大阪】月見と秋の味覚を愛でる和のアフタヌーンティー「Night 和sweets」秋バージョン販売", "url": "https://osaka.style/news/prtimes/73888/" },
-    { "type": "review_site", "title": "シェラトン都ホテル大阪 - クチコミ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/1144/review.html" }
+    {
+      "type": "press",
+      "title": "一日の終わりに最高のご褒美を 和食料理長が手掛ける「和」のアフタヌーンティー新登場｜【公式】シェラトン都ホテル大阪",
+      "url": "https://www.miyakohotels.ne.jp/pressrelease/1066/"
+    },
+    {
+      "type": "official",
+      "title": "Night 和sweets ～和のアフタヌーンティー～｜日本料理 うえまち【公式】シェラトン都ホテル大阪",
+      "url": "https://www.miyakohotels.ne.jp/osaka/restaurant/uemachi/menu/57145/"
+    },
+    {
+      "type": "press",
+      "title": "【シェラトン都ホテル大阪】月見と秋の味覚を愛でる和のアフタヌーンティー「Night 和sweets」秋バージョン販売",
+      "url": "https://osaka.style/news/prtimes/73888/"
+    },
+    {
+      "type": "review_site",
+      "title": "シェラトン都ホテル大阪 - クチコミ - 楽天トラベル",
+      "url": "https://travel.rakuten.co.jp/HOTEL/1144/review.html"
+    }
   ],
-  "created_date": "2026-09-14"
+  "created_date": "2026-09-14",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

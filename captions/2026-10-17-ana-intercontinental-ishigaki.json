@@ -11,7 +11,12 @@
     "ウミガメと一緒に泳げるスポットとしても知られ、SNSでの話題性もある。"
   ],
   "evaluation_basis": "100点満点中78点（口コミ評価23/25・口コミ信頼性13/15・独自体験14/20・映え12/15・価格対体験価値6/10・SNS話題性6/10・アクセス/鮮度4/5）。フォートラベル4.59（514件）・Tripadvisor系4.8（452件）の2つの独立情報源で推奨ライン4.2以上を確認。比較検討したフサキビーチリゾート（フォートラベル4.33・275件のみ）、グランヴィリオリゾート石垣島（スカイチケット4.5・1,935件のみ）は、いずれも独立した2件目の数値評価情報源を確認できず原則7を満たせないため見送った。",
-  "target_audience": ["家族", "カップル", "記念日", "絶景好き"],
+  "target_audience": [
+    "家族",
+    "カップル",
+    "記念日",
+    "絶景好き"
+  ],
   "why_now": "石垣島は10月中旬〜11月上旬も海水温が高く、台風ピークが過ぎて過ごしやすい『狙い目』のシーズン。夏の混雑・料金のピークを過ぎてもウミガメと泳げるなど海のアクティビティが楽しめる時期にあたる。",
   "price_note": "オーシャンスーペリア朝食付き49,000円〜、ベイスーペリア朝食付き68,000円〜、クラブスーペリア朝食付き78,000円〜（参考値）。クラブインターコンチネンタル利用時は3名目以降1名1泊17,000円の追加料金、チェックアウト時にリゾート料金が別途発生する場合がある。",
   "access_note": "石垣空港から車で約20分。マエサトビーチ目の前に位置する。",
@@ -20,15 +25,58 @@
     "tiktok": "石垣島でウミガメと泳げるリゾート、知ってる？🐢\n『ANAインターコンチネンタル石垣リゾート』、マエサトビーチ目の前。\nサンセット・サンライズ・屋内・ウォータースライダーと4種類のプール。\nフォートラベル514件で4.59、Tripadvisor系でも452件で4.8の高評価。\n台風ピークが過ぎた今、保存しておこう。"
   },
   "hashtags": [
-    "#石垣島", "#石垣島旅行", "#マエサトビーチ", "#ANAインターコンチネンタル", "#離島リゾート",
-    "#沖縄旅行", "#ウミガメ", "#家族旅行", "#記念日旅行", "#秋の沖縄",
-    "#国内旅行", "#贅沢旅"
+    "#石垣島",
+    "#石垣島旅行",
+    "#マエサトビーチ",
+    "#ANAインターコンチネンタル",
+    "#離島リゾート",
+    "#沖縄旅行",
+    "#ウミガメ",
+    "#家族旅行",
+    "#記念日旅行",
+    "#秋の沖縄",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "official", "title": "ANAインターコンチネンタル石垣リゾート - ANA国内ツアー", "url": "https://www.ana.co.jp/ja/jp/domtour/theme/premium_stay/anaihgishigaki/" },
-    { "type": "review_site", "title": "ANAインターコンチネンタル石垣リゾート by IHG - フォートラベル", "url": "https://4travel.jp/dm_hotel-10053638" },
-    { "type": "review_site", "title": "ANA InterContinental Ishigaki Resort - Japan Travel Centre", "url": "https://new.japantravel-centre.com/accommodation/2185/" },
-    { "type": "booking_site", "title": "ANAインターコンチネンタル石垣リゾートby IHG - じゃらんnet", "url": "https://www.jalan.net/yad315164/" }
+    {
+      "type": "official",
+      "title": "ANAインターコンチネンタル石垣リゾート - ANA国内ツアー",
+      "url": "https://www.ana.co.jp/ja/jp/domtour/theme/premium_stay/anaihgishigaki/"
+    },
+    {
+      "type": "review_site",
+      "title": "ANAインターコンチネンタル石垣リゾート by IHG - フォートラベル",
+      "url": "https://4travel.jp/dm_hotel-10053638"
+    },
+    {
+      "type": "review_site",
+      "title": "ANA InterContinental Ishigaki Resort - Japan Travel Centre",
+      "url": "https://new.japantravel-centre.com/accommodation/2185/"
+    },
+    {
+      "type": "booking_site",
+      "title": "ANAインターコンチネンタル石垣リゾートby IHG - じゃらんnet",
+      "url": "https://www.jalan.net/yad315164/"
+    }
   ],
-  "created_date": "2026-10-17"
+  "created_date": "2026-10-17",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

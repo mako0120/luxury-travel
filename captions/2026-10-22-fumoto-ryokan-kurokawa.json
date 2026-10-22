@@ -12,7 +12,13 @@
     "直近の下呂温泉・湯田温泉と地域が重複せず、黒川温泉という地域自体も約5週間前以来の再登場で、連続投稿にはならない。"
   ],
   "evaluation_basis": "100点満点中77点（口コミ評価21/25・口コミ信頼性12/15・独自体験17/20・映え11/15・価格対体験価値7/10・SNS話題性5/10・アクセス/鮮度4/5）。じゃらん4.6（954件）が主要レビューサイト評価4.0以上（推奨4.2以上）を明確に上回る。フォートラベル・ニフティ温泉には古い・小規模な口コミで評価が割れる部分もあったが、清潔感・安全性に関わる現行の重大な指摘は確認されなかった（ニフティの清潔感指摘は2009〜2012年頃の古い投稿）。",
-  "target_audience": ["カップル", "記念日", "夫婦", "グルメ旅", "温泉好き"],
+  "target_audience": [
+    "カップル",
+    "記念日",
+    "夫婦",
+    "グルメ旅",
+    "温泉好き"
+  ],
   "why_now": "黒川温泉の紅葉は例年10月下旬〜11月中旬が見頃。10月下旬の今は、紅葉シーズン本番に向けて宿を検討・予約し始めるのにちょうど良いタイミング。",
   "price_note": "じゃらんに掲載プランが6件あり、名物『鍬焼き』を含む1泊2食プランや肥後牛サーロインへのグレードアッププランがある。ただし今回の調査では具体的な税込料金を確実な情報として確定できなかったため、予約時に公式情報・予約サイトで最新のプラン・料金をご確認いただきたい。",
   "access_note": "大分道・日田ICから国道212号線を小国方面へ約50分、さらに442号線を黒川温泉方面へ約15分。九州横断バス「黒川温泉」バス停からの送迎についても要相談（予約時に確認）。",
@@ -21,16 +27,63 @@
     "tiktok": "黒川温泉に、湯処が15個もある宿があるって知ってた？♨️\n『ふもと旅館』、14室なのに貸切風呂が11カ所で黒川温泉最多クラス。\n夕食の主役は名物「鍬焼き」、肥後牛を鍬形の鉄板でジュウジュウ焼く郷土料理。\nじゃらんの評価は954件で4.6、風呂も食事も高評価。\n紅葉は10月下旬〜11月中旬が見頃、今のうちに保存しておこう。"
   },
   "hashtags": [
-    "#黒川温泉", "#熊本旅行", "#南小国町", "#ふもと旅館", "#グルメ旅館",
-    "#鍬焼き", "#貸切風呂", "#記念日旅行", "#夫婦旅", "#九州旅行",
-    "#秋の温泉", "#紅葉旅行"
+    "#黒川温泉",
+    "#熊本旅行",
+    "#南小国町",
+    "#ふもと旅館",
+    "#グルメ旅館",
+    "#鍬焼き",
+    "#貸切風呂",
+    "#記念日旅行",
+    "#夫婦旅",
+    "#九州旅行",
+    "#秋の温泉",
+    "#紅葉旅行"
   ],
   "sources": [
-    { "type": "booking_site", "title": "黒川温泉 ふもと旅館 - じゃらんnet（クチコミ総合4.6・954件）", "url": "https://www.jalan.net/yad323983/" },
-    { "type": "booking_site", "title": "黒川温泉 ふもと旅館 宿泊プラン（鍬焼き・肥後牛サーロインプラン）- じゃらんnet", "url": "https://www.jalan.net/yad323983/plan/" },
-    { "type": "review_site", "title": "黒川温泉 ふもと旅館のクチコミ・感想 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10038664" },
-    { "type": "review_site", "title": "ふもと旅館 - 黒川｜ニフティ温泉", "url": "https://onsen.nifty.com/kurokawaonsen-onsen/onsen004274/kuchikomi/" },
-    { "type": "other", "title": "黒川温泉 ふもと旅館 施設情報（客室数・温泉掛け流し）- JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/8332A09/" }
+    {
+      "type": "booking_site",
+      "title": "黒川温泉 ふもと旅館 - じゃらんnet（クチコミ総合4.6・954件）",
+      "url": "https://www.jalan.net/yad323983/"
+    },
+    {
+      "type": "booking_site",
+      "title": "黒川温泉 ふもと旅館 宿泊プラン（鍬焼き・肥後牛サーロインプラン）- じゃらんnet",
+      "url": "https://www.jalan.net/yad323983/plan/"
+    },
+    {
+      "type": "review_site",
+      "title": "黒川温泉 ふもと旅館のクチコミ・感想 - フォートラベル",
+      "url": "https://4travel.jp/dm_hotel-10038664"
+    },
+    {
+      "type": "review_site",
+      "title": "ふもと旅館 - 黒川｜ニフティ温泉",
+      "url": "https://onsen.nifty.com/kurokawaonsen-onsen/onsen004274/kuchikomi/"
+    },
+    {
+      "type": "other",
+      "title": "黒川温泉 ふもと旅館 施設情報（客室数・温泉掛け流し）- JTB",
+      "url": "https://www.jtb.co.jp/kokunai-hotel/htl/8332A09/"
+    }
   ],
-  "created_date": "2026-10-22"
+  "created_date": "2026-10-22",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

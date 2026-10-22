@@ -12,7 +12,13 @@
     "楽天トラベルの『島根県 食事の評価が高い宿』ランキングで1位に選出されている（2026年5月時点）。"
   ],
   "evaluation_basis": "100点満点中82点（口コミ評価24/25・口コミ信頼性13/15・独自体験17/20・映え12/15・価格対体験価値6/10・SNS話題性6/10・アクセス/鮮度4/5）。楽天トラベル4.84（341件）・Relux4.9（30件）の2つの独立情報源で推奨ライン4.2以上を確認（原則6・7）。松江・大根島の日本庭園『由志園』や松江城下町の一棟貸し宿『一客一亭』も比較検討したが、このセッションのWebSearch利用上限に達するまでの範囲ではいずれも数値としての評価点・口コミ件数を確認できず、裏付けのある本候補を優先した。堀川遊覧船（ぐるっと松江堀川めぐり）も検討したが、数値評価の情報源がGLTJP一件・口コミ3件のみで原則7を満たせず不採用とした。価格情報もWeb検索の範囲では一泊二食付きの正確な料金帯を確認できなかったため、価格対体験価値は標準的な評価とした。",
-  "target_audience": ["夫婦", "記念日", "カップル", "ホテル好き", "グルメ旅"],
+  "target_audience": [
+    "夫婦",
+    "記念日",
+    "カップル",
+    "ホテル好き",
+    "グルメ旅"
+  ],
   "why_now": "10月中旬の松江は残暑が落ち着き、11月中旬からの紅葉本番前の『狙い目』シーズン。空気が澄み始めるこの時期は宍道湖の夕景も一段と映え、紅葉シーズンに向けた宿の予約検討が本格化し始めるタイミングで、宍道湖畔の老舗旅館という提案に適する。",
   "price_note": "Web検索の範囲では一泊二食付きの正確な料金帯を確認できなかった。130年以上の歴史を持つ老舗旅館として高価格帯のプランが中心と推測されるが、予約前に公式サイトや各予約サイトで最新の料金・空室状況を確認してほしい。",
   "access_note": "宍道湖畔・松江大橋北詰（島根県松江市末次本町14）に位置し、松江城や城下町エリアからも移動しやすい立地。JR松江駅からの具体的な徒歩分数はWeb検索の範囲では確認できなかったため、車・タクシーでのアクセスも含めて予約前に確認するのがおすすめ。",
@@ -21,15 +27,58 @@
     "tiktok": "明治からの老舗、知ってる？🏯\n松江「皆美館」、宍道湖のほとりで130年以上。\n島崎藤村も泊まった宿で、名物は『皆美家伝鯛めし』。\n楽天トラベル341件で4.84、Reluxでも4.9の高評価。\n紅葉前の松江旅、保存しておこう。"
   },
   "hashtags": [
-    "#松江", "#島根旅行", "#宍道湖", "#皆美館", "#松江観光",
-    "#文化体験", "#老舗旅館", "#夫婦旅", "#記念日旅行", "#グルメ旅",
-    "#国内旅行", "#贅沢旅"
+    "#松江",
+    "#島根旅行",
+    "#宍道湖",
+    "#皆美館",
+    "#松江観光",
+    "#文化体験",
+    "#老舗旅館",
+    "#夫婦旅",
+    "#記念日旅行",
+    "#グルメ旅",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "review_site", "title": "松江しんじ湖温泉 皆美館 お客さまの声・評価 - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/7799/review.html" },
-    { "type": "review_site", "title": "皆美館の口コミ・評価 - Relux", "url": "https://rlx.jp/23156/review/" },
-    { "type": "review_site", "title": "皆美館 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00001329" },
-    { "type": "other", "title": "山口瞳が好んだ島根・松江「皆美館」の鯛めし - 文藝春秋", "url": "https://bunshun.jp/bungeishunju/articles/h7808" }
+    {
+      "type": "review_site",
+      "title": "松江しんじ湖温泉 皆美館 お客さまの声・評価 - 楽天トラベル",
+      "url": "https://travel.rakuten.co.jp/HOTEL/7799/review.html"
+    },
+    {
+      "type": "review_site",
+      "title": "皆美館の口コミ・評価 - Relux",
+      "url": "https://rlx.jp/23156/review/"
+    },
+    {
+      "type": "review_site",
+      "title": "皆美館 - Yahoo!トラベル",
+      "url": "https://travel.yahoo.co.jp/00001329"
+    },
+    {
+      "type": "other",
+      "title": "山口瞳が好んだ島根・松江「皆美館」の鯛めし - 文藝春秋",
+      "url": "https://bunshun.jp/bungeishunju/articles/h7808"
+    }
   ],
-  "created_date": "2026-10-17"
+  "created_date": "2026-10-17",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

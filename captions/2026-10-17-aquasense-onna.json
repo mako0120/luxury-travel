@@ -12,7 +12,12 @@
     "全室オーシャンビュー＆屋外ジェットバスという立地・設備自体の映え度も高く、プールスイートならプライベートプールごと海を独り占めできる。"
   ],
   "evaluation_basis": "100点満点中75点（口コミ評価21/25・口コミ信頼性10/15・独自体験16/20・映え13/15・価格対体験価値6/10・SNS話題性5/10・アクセス/鮮度4/5）。主要レビューサイト評価はRelux4.4/5（28件）、Trip.com9.2/10（5点換算で約4.6、121件）と、採用ライン4.0以上・推奨4.2以上をいずれも満たす。負の口コミとしてicotto（2024年12月・1件）で3.5評価・低層階からは海が遠いという指摘、Trip.comで大浴場までの距離・サウナの狭さを指摘する声があったが、清潔感・接客・安全性に関わる重大な指摘が複数の独立情報源で一致したわけではないため、除外基準には該当しないと判断した。なお『オールインクルーシブプラン』は全77室中、専用温水プール付きの客室タイプ『POOL SUITE』全4室限定であり、全館共通のプランではない点はキャプション上も明記する。",
-  "target_audience": ["カップル", "記念日", "ホテル好き", "絶景好き"],
+  "target_audience": [
+    "カップル",
+    "記念日",
+    "ホテル好き",
+    "絶景好き"
+  ],
   "why_now": "前サイクル（沖縄県名護市でのオールインクルーシブ施設探索）では該当する施設が見つからなかったため、地域を隣接する恩納村まで広げて再調査したところ見つかった候補。2026年1月に新ラウンジサービスが始まったばかりというタイミングの良さに加え、沖縄旅行は秋から年末年始にかけて検討が本格化する時期のため、会計を気にせず過ごせるオールインクルーシブ型のプールスイートを『今』知っておきたい選択肢として紹介する価値がある。",
   "price_note": "公式サイトの『POOL SUITEオールインクルーシブプラン』は45,500円〜と確認できたが、1名あたり／1室あたりの表記や対象人数はこのセッションのWebSearchスニペットからは断定できなかった。食事なしプランは2名税込27,930円〜という表示もあり、プラン内容・料金は時期・部屋タイプにより大きく変動するため、予約前に公式サイトで最新情報のご確認を。",
   "access_note": "沖縄県国頭郡恩納村字冨着に位置。那覇空港から車（沖縄自動車道経由）で約50分、石川ICから約10分。空港からのタクシー・リムジンバスは約70分というルートも確認した（詳細・最新の送迎有無は予約前に公式サイトでご確認ください）。",
@@ -21,16 +26,63 @@
     "tiktok": "沖縄に、会計を気にしない客室があるって知ってる？🌊\nAQUASENSE Hotel & Resort、恩納村。\n専用プール付きの『POOL SUITE』限定で、ドリンク・夕食・朝食込みの『オールインクルーシブプラン』が公式にある。\nビール・ホワイトエールはおかわり自由、スパークリングワインも1本/日。\nRelux4.4、Trip.com9.2/10、2つのサイトで高評価。\n2026年1月には新ラウンジもオープン。\n次の沖縄旅、保存して検討して。"
   },
   "hashtags": [
-    "#AQUASENSE", "#恩納村", "#沖縄旅行", "#オールインクルーシブ",
-    "#沖縄ホテル", "#プールスイート", "#記念日旅行", "#カップル旅行",
-    "#絶景ホテル", "#沖縄リゾート", "#国内旅行", "#贅沢旅"
+    "#AQUASENSE",
+    "#恩納村",
+    "#沖縄旅行",
+    "#オールインクルーシブ",
+    "#沖縄ホテル",
+    "#プールスイート",
+    "#記念日旅行",
+    "#カップル旅行",
+    "#絶景ホテル",
+    "#沖縄リゾート",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "official", "title": "AQUASENSE Hotel & Resort 公式サイト『【New Plan】POOL SUITE(プールスイート) オールインクルーシブプラン』", "url": "https://www.aquasense.jp/plan/poolsuite_allinclusive/" },
-    { "type": "review_site", "title": "AQUASENSE Hotel & Resort クチコミ(28件) - Relux", "url": "https://rlx.jp/25804/review/" },
-    { "type": "review_site", "title": "Aquasense Hotel & Resort review - Trip.com", "url": "https://sg.trip.com/hotels/onna-hotel-detail-91189931/aquasense-hotel-resort/review.html" },
-    { "type": "other", "title": "沖縄のオールインクルーシブの宿5選 - tabiiro.jp", "url": "https://tabiiro.jp/yado/article/okinawa-all-inclusive-yado/" },
-    { "type": "other", "title": "【取材】沖縄県恩納村の「アクアセンス ホテル & リゾート」で絶景とともに愉しむ新サービス「AQUA CLUB LOUNGE」開始 - hotelbank.jp", "url": "https://hotelbank.jp/area-analysis/okinawa-aquasense-aquaclublounge2601start/" }
+    {
+      "type": "official",
+      "title": "AQUASENSE Hotel & Resort 公式サイト『【New Plan】POOL SUITE(プールスイート) オールインクルーシブプラン』",
+      "url": "https://www.aquasense.jp/plan/poolsuite_allinclusive/"
+    },
+    {
+      "type": "review_site",
+      "title": "AQUASENSE Hotel & Resort クチコミ(28件) - Relux",
+      "url": "https://rlx.jp/25804/review/"
+    },
+    {
+      "type": "review_site",
+      "title": "Aquasense Hotel & Resort review - Trip.com",
+      "url": "https://sg.trip.com/hotels/onna-hotel-detail-91189931/aquasense-hotel-resort/review.html"
+    },
+    {
+      "type": "other",
+      "title": "沖縄のオールインクルーシブの宿5選 - tabiiro.jp",
+      "url": "https://tabiiro.jp/yado/article/okinawa-all-inclusive-yado/"
+    },
+    {
+      "type": "other",
+      "title": "【取材】沖縄県恩納村の「アクアセンス ホテル & リゾート」で絶景とともに愉しむ新サービス「AQUA CLUB LOUNGE」開始 - hotelbank.jp",
+      "url": "https://hotelbank.jp/area-analysis/okinawa-aquasense-aquaclublounge2601start/"
+    }
   ],
-  "created_date": "2026-10-17"
+  "created_date": "2026-10-17",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

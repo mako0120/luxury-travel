@@ -12,7 +12,13 @@
     "宿泊者の約4割が1年以内のリピーターという情報から、一度の訪問で終わらない満足度の高さがうかがえる。"
   ],
   "evaluation_basis": "100点満点中77点（口コミ評価20/25・口コミ信頼性11/15・独自体験17/20・映え12/15・価格対体験価値7/10・SNS話題性6/10・アクセス/鮮度4/5）。Trip.com 8.8/10（13件）とAll About記事が引用するGoogleクチコミ500件超・平均4.0超という2つの独立した情報源で採用ライン（4.0以上）を確認。icottoの2024年7月宿泊者レビュー（評価3.0）では『評価の高い宿の割にホスピタリティがいまひとつ』という接客面の指摘が1件あったが、他の口コミは総じて温泉・建築・部屋食を高く評価しており、清潔感・安全面に関わる重大な問題は確認されなかったため選定に影響しないと判断した。",
-  "target_audience": ["夫婦", "記念日", "温泉好き", "ホテル好き", "カップル"],
+  "target_audience": [
+    "夫婦",
+    "記念日",
+    "温泉好き",
+    "ホテル好き",
+    "カップル"
+  ],
   "why_now": "10月下旬の岩手・花巻南温泉峡は紅葉が見頃を迎え、豊沢川の渓谷沿いという立地が最も映える季節に入る。11月以降は冷え込みが強まるため、紅葉と湯けむりを一緒に楽しめる今のうちに紹介する意義がある。",
   "price_note": "公式サイト参考価格として、記事により大人1名1万5,400円〜、別の記事では大人1名2万3,100円という表示が確認できた。部屋タイプ・プラン・時期により価格帯に幅があるため、予約前に公式サイト・予約サイトで最新情報を要確認。",
   "access_note": "岩手県花巻市の花巻温泉郷・花巻南温泉峡に位置する。新花巻駅から無料シャトルバスで約50分（要予約）、JR花巻駅から岩手県交通バス『新鉛温泉』行きで28分、東北自動車道・花巻南ICから県道12号経由で約13km（詳細・時刻は公式サイトで要確認）。",
@@ -21,18 +27,73 @@
     "tiktok": "渓谷の絶景と一緒に入る温泉、知ってる？♨️\n岩手・花巻温泉郷『山の神温泉 優香苑』。\n豊沢川を見下ろす大露天風呂『とよさわ乃湯』は花巻南温泉峡最大級。\n夜は星空を見ながら湯あみできるそう。\n別館『なごみの湯』はとろとろの美肌湯で2019年オープン。\n館内は宮大工が手掛けた格天井の意匠。\nTrip.comは8.8/10、Googleクチコミも500件超で平均4.0超。\n紅葉シーズンの今、一度は行ってみたい一軒。保存必須。"
   },
   "hashtags": [
-    "#優香苑", "#山の神温泉", "#花巻温泉郷", "#花巻南温泉峡", "#岩手旅行",
-    "#豊沢川", "#露天風呂", "#紅葉旅行", "#記念日旅行", "#夫婦旅",
-    "#温泉旅館", "#国内旅行"
+    "#優香苑",
+    "#山の神温泉",
+    "#花巻温泉郷",
+    "#花巻南温泉峡",
+    "#岩手旅行",
+    "#豊沢川",
+    "#露天風呂",
+    "#紅葉旅行",
+    "#記念日旅行",
+    "#夫婦旅",
+    "#温泉旅館",
+    "#国内旅行"
   ],
   "sources": [
-    { "type": "other", "title": "山の神温泉 優香苑のご紹介（近畿日本ツーリスト）", "url": "https://yado.knt.co.jp/st/S030038/" },
-    { "type": "booking_site", "title": "山の神温泉 優香苑 - Trip.com ホテル詳細（8.8/10, 13件）", "url": "https://jp.trip.com/hotels/hanamaki-hotel-detail-61947466/yuukaen/" },
-    { "type": "press", "title": "【岩手県の人気ホテル】「花巻温泉郷 山の神温泉 優香苑」は宮大工が手掛けた豪華な意匠とトロトロの美肌湯が魅力 - All About", "url": "https://news.allabout.co.jp/articles/o/114145/" },
-    { "type": "press", "title": "【花巻南温泉峡の人気ホテル】「花巻温泉郷 山の神温泉 優香苑」は宮大工建築の美しさと極上のとろとろ温泉が魅力 - All About", "url": "https://news.allabout.co.jp/articles/o/120824/" },
-    { "type": "review_site", "title": "山の神温泉 優香苑 宿泊者口コミ - icotto", "url": "https://icotto.jp/hotels/196" },
-    { "type": "other", "title": "山の神温泉 優香苑 - cocolocala 施設情報", "url": "https://www.cocolocala.jp/hotels/2061" },
-    { "type": "press", "title": "【楽天トラベル特別セール】岩手県「花巻温泉郷 山の神温泉 優香苑」が今だけ10%オフ! - All About", "url": "https://news.allabout.co.jp/articles/o/128530/" }
+    {
+      "type": "other",
+      "title": "山の神温泉 優香苑のご紹介（近畿日本ツーリスト）",
+      "url": "https://yado.knt.co.jp/st/S030038/"
+    },
+    {
+      "type": "booking_site",
+      "title": "山の神温泉 優香苑 - Trip.com ホテル詳細（8.8/10, 13件）",
+      "url": "https://jp.trip.com/hotels/hanamaki-hotel-detail-61947466/yuukaen/"
+    },
+    {
+      "type": "press",
+      "title": "【岩手県の人気ホテル】「花巻温泉郷 山の神温泉 優香苑」は宮大工が手掛けた豪華な意匠とトロトロの美肌湯が魅力 - All About",
+      "url": "https://news.allabout.co.jp/articles/o/114145/"
+    },
+    {
+      "type": "press",
+      "title": "【花巻南温泉峡の人気ホテル】「花巻温泉郷 山の神温泉 優香苑」は宮大工建築の美しさと極上のとろとろ温泉が魅力 - All About",
+      "url": "https://news.allabout.co.jp/articles/o/120824/"
+    },
+    {
+      "type": "review_site",
+      "title": "山の神温泉 優香苑 宿泊者口コミ - icotto",
+      "url": "https://icotto.jp/hotels/196"
+    },
+    {
+      "type": "other",
+      "title": "山の神温泉 優香苑 - cocolocala 施設情報",
+      "url": "https://www.cocolocala.jp/hotels/2061"
+    },
+    {
+      "type": "press",
+      "title": "【楽天トラベル特別セール】岩手県「花巻温泉郷 山の神温泉 優香苑」が今だけ10%オフ! - All About",
+      "url": "https://news.allabout.co.jp/articles/o/128530/"
+    }
   ],
-  "created_date": "2026-10-18"
+  "created_date": "2026-10-18",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

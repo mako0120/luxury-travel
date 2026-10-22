@@ -11,7 +11,13 @@
     "島根・箱根・黒川と続いた既存の温泉旅館投稿と地域が重ならない、大分・由布院という新しいエリア。"
   ],
   "evaluation_basis": "100点満点中87点（口コミ評価23/25・口コミ信頼性13/15・独自体験19/20・映え14/15・価格対体験価値6/10・SNS話題性8/10・アクセス/鮮度4/5）。楽天トラベル4.80（124件）、Tripadvisor4.6（125件）と主要ライン（4.0以上、推奨4.2以上）を上回る。『期待しすぎて相対的にがっかりした』という声や、宿泊以外の事業拡大への懸念は確認したが、清潔感・安全性に関わる重大な指摘は見当たらなかった。",
-  "target_audience": ["カップル", "記念日", "夫婦", "ホテル好き", "絶景好き"],
+  "target_audience": [
+    "カップル",
+    "記念日",
+    "夫婦",
+    "ホテル好き",
+    "絶景好き"
+  ],
   "why_now": "由布院・金鱗湖周辺の紅葉は例年10月下旬〜11月中旬が見頃。9月中旬の今は、紅葉シーズンに向けて宿を検討・予約し始めるのにちょうど良いタイミング。",
   "price_note": "1名（2名1室）1泊で税込85,800円〜121,000円という表示を確認（全12棟すべて異なる意匠のため部屋タイプによる価格差が大きい。予約時に公式サイト・予約サイトで最新情報の確認を推奨）。",
   "access_note": "由布院駅から車・送迎で移動できる高台に位置（駅から約2km）。熊本駅・別府駅・大分空港からのアクセスが基本ルート。詳細は公式サイトを要確認。",
@@ -20,16 +26,64 @@
     "tiktok": "由布院に、12棟すべて意匠が違う宿があるって知ってる？🍁\n『山荘 無量塔』、明治の古民家を再生した離れが1棟ずつ表情が違う。\n敷地内には音楽美術館やジャズの流れるバー、蕎麦屋、チョコレート専門店まで。\n楽天トラベルは124件で4.80、Tripadvisorも125件で4.6。\n紅葉は10月下旬〜11月中旬が見頃、今のうちに保存しておこう。"
   },
   "hashtags": [
-    "#由布院温泉", "#湯布院", "#大分旅行", "#山荘無量塔", "#由布院御三家",
-    "#温泉旅館", "#記念日旅行", "#夫婦旅", "#九州旅行", "#秋の温泉",
-    "#紅葉旅行", "#国内旅行", "#贅沢旅"
+    "#由布院温泉",
+    "#湯布院",
+    "#大分旅行",
+    "#山荘無量塔",
+    "#由布院御三家",
+    "#温泉旅館",
+    "#記念日旅行",
+    "#夫婦旅",
+    "#九州旅行",
+    "#秋の温泉",
+    "#紅葉旅行",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "official", "title": "山荘 無量塔 公式サイト", "url": "https://sansou-murata.com/" },
-    { "type": "official", "title": "施設案内｜美術館・蕎麦・カフェ・バー・ショコラ - 山荘無量塔", "url": "https://sansou-murata.com/facilities/" },
-    { "type": "review_site", "title": "山荘 無量塔【2026年最新の料金比較・口コミ・宿泊予約】- Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-g1023445-d787957-Reviews-Sanso_Murata-Yufu_Oita_Prefecture_Kyushu.html" },
-    { "type": "booking_site", "title": "由布院温泉 山荘 無量塔 に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/69384/review.html" },
-    { "type": "other", "title": "和モダンの極上宿「山荘 無量塔」で、おもてなしの真髄にふれる上質な時間【楽天トラベル】", "url": "https://travel.rakuten.co.jp/mytrip/howto/sansoumurata-guide" }
+    {
+      "type": "official",
+      "title": "山荘 無量塔 公式サイト",
+      "url": "https://sansou-murata.com/"
+    },
+    {
+      "type": "official",
+      "title": "施設案内｜美術館・蕎麦・カフェ・バー・ショコラ - 山荘無量塔",
+      "url": "https://sansou-murata.com/facilities/"
+    },
+    {
+      "type": "review_site",
+      "title": "山荘 無量塔【2026年最新の料金比較・口コミ・宿泊予約】- Tripadvisor",
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1023445-d787957-Reviews-Sanso_Murata-Yufu_Oita_Prefecture_Kyushu.html"
+    },
+    {
+      "type": "booking_site",
+      "title": "由布院温泉 山荘 無量塔 に実際に泊まった方のクチコミ・レビュー【楽天トラベル】",
+      "url": "https://travel.rakuten.co.jp/HOTEL/69384/review.html"
+    },
+    {
+      "type": "other",
+      "title": "和モダンの極上宿「山荘 無量塔」で、おもてなしの真髄にふれる上質な時間【楽天トラベル】",
+      "url": "https://travel.rakuten.co.jp/mytrip/howto/sansoumurata-guide"
+    }
   ],
-  "created_date": "2026-09-18"
+  "created_date": "2026-09-18",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

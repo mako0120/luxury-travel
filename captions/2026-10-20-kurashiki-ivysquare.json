@@ -12,7 +12,13 @@
     "岡山県倉敷市はcaptions/posts配下に一度も登場していない新規地域で、投稿の地域バランスにも寄与する（原則29）。"
   ],
   "evaluation_basis": "100点満点中86点（口コミ評価22/25・口コミ信頼性14/15・独自体験18/20・映え14/15・価格対体験価値7/10・SNS話題性7/10・アクセス/鮮度4/5）。じゃらんnet4.6（1,163件）・フォートラベル4.26（301件）・Skyticket4.6（4,147件）の3つの独立情報源でいずれも推奨ラインを上回ることを確認（原則6・7）。同じ倉敷美観地区内の候補として『料理旅館 鶴形』（1744年建築の商家を活かした料理旅館、じゃらん4.9・楽天4.95・Relux4.4の3源で高評価、84点）、『旅館くらしき』（江戸期の蔵を改装した全8室の小規模旅館、Yahoo!トラベル4.58・Trip.com9.3/10で高評価だが口コミ件数が小規模で74点）も調査したが、口コミ母数の規模と2年連続受賞という鮮度・話題性の両面でアイビースクエアを本命として選定した。",
-  "target_audience": ["夫婦", "カップル", "友人", "ホテル好き", "一人旅"],
+  "target_audience": [
+    "夫婦",
+    "カップル",
+    "友人",
+    "ホテル好き",
+    "一人旅"
+  ],
   "why_now": "10月下旬の倉敷美観地区は夏の混雑が落ち着き、11月中旬からの紅葉シーズンに向けて旅行検討が動き出すタイミング。2026年10月19日〜25日には館内（愛美赤煉瓦館）で草月流創流100周年記念いけばな展も開催され、2024・2025年と2年連続『泊まって良かった宿大賞』を受賞している今だからこそ、歴史的建築に泊まる文化体験として紹介する価値がある。",
   "price_note": "楽天トラベル経由の掲載では、最も基本的な部屋タイプの最安値として1部屋1泊6,300円〜という表示が確認できたが、全145室には部屋タイプ・プランによる料金の幅が大きい。正確な最新料金は公式サイト・各予約サイトで要確認（検索日・対象日・プランにより変動）。",
   "access_note": "JR倉敷駅（南口）からタクシーで約5分、徒歩でも倉敷美観地区・大原美術館まですぐの立地。",
@@ -21,15 +27,58 @@
     "tiktok": "明治の紡績工場を、そのままホテルにしたらこうなった🧱\n岡山「倉敷アイビースクエア」、赤レンガに蔦が絡まる美観地区の象徴的な一棟。\nじゃらん1,163件で4.6、Skyticketも4,147件で4.6の高評価。\n泊まって良かった宿大賞も2年連続受賞。\n紅葉前の倉敷旅、保存しておこう。"
   },
   "hashtags": [
-    "#倉敷", "#倉敷アイビースクエア", "#倉敷美観地区", "#岡山旅行", "#大原美術館",
-    "#文化体験", "#レンガ建築", "#リノベーションホテル", "#夫婦旅", "#カップル旅",
-    "#国内旅行", "#贅沢旅"
+    "#倉敷",
+    "#倉敷アイビースクエア",
+    "#倉敷美観地区",
+    "#岡山旅行",
+    "#大原美術館",
+    "#文化体験",
+    "#レンガ建築",
+    "#リノベーションホテル",
+    "#夫婦旅",
+    "#カップル旅",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "review_site", "title": "倉敷アイビースクエアの口コミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10051038" },
-    { "type": "booking_site", "title": "倉敷アイビースクエア - じゃらんnet", "url": "https://www.jalan.net/yad315803/" },
-    { "type": "review_site", "title": "倉敷アイビースクエア 施設情報・口コミ - Skyticket", "url": "https://skyticket.jp/hotel/detail/property_16364/" },
-    { "type": "official", "title": "倉敷アイビースクエア - 岡山観光WEB（岡山県観光連盟）", "url": "https://www.okayama-kanko.jp/spot/detail_10241.html" }
+    {
+      "type": "review_site",
+      "title": "倉敷アイビースクエアの口コミ・評価 - フォートラベル",
+      "url": "https://4travel.jp/dm_hotel-10051038"
+    },
+    {
+      "type": "booking_site",
+      "title": "倉敷アイビースクエア - じゃらんnet",
+      "url": "https://www.jalan.net/yad315803/"
+    },
+    {
+      "type": "review_site",
+      "title": "倉敷アイビースクエア 施設情報・口コミ - Skyticket",
+      "url": "https://skyticket.jp/hotel/detail/property_16364/"
+    },
+    {
+      "type": "official",
+      "title": "倉敷アイビースクエア - 岡山観光WEB（岡山県観光連盟）",
+      "url": "https://www.okayama-kanko.jp/spot/detail_10241.html"
+    }
   ],
-  "created_date": "2026-10-20"
+  "created_date": "2026-10-20",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

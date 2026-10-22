@@ -11,7 +11,12 @@
     "嵐山の渓谷美・紅葉と一体化した建築・客室は、写真・動画映えの面でも強いフックを持つ。"
   ],
   "evaluation_basis": "100点満点中81点（口コミ評価20/25・口コミ信頼性11/15・独自体験19/20・映え14/15・価格対体験価値6/10・SNS話題性7/10・アクセス/鮮度4/5）。主要レビューサイト評価はTripadvisor 4.0（417件）・Yahoo!マップ4.32（45件）で推奨ライン4.0以上を満たす。Tripadvisorの一部レビューおよびメディア記事で『価格に対してサービスが見合わない』『照明が暗い』等の指摘も確認したが、重大な衛生・安全上の問題は確認されなかった。",
-  "target_audience": ["夫婦", "記念日", "カップル", "ホテル好き"],
+  "target_audience": [
+    "夫婦",
+    "記念日",
+    "カップル",
+    "ホテル好き"
+  ],
   "why_now": "秋は紅葉と月見の季節。星のや京都では2026年11月15日〜12月10日限定で、平安貴族の美意識に浸る秋季シグネチャープログラム『紅葉の私邸でたゆたう時空』が新たに始まっており、まさに今紹介する価値がある。",
   "price_note": "大人2名1泊1室合計で税込77,388円〜344,124円程度（プラン・時期により幅が大きい）。公式サイトでは1泊2日・2名利用・夕朝食付きで1名あたり89,564円〜の表示も確認。秋季限定プログラムの追加料金はWeb検索の範囲では確認できなかったため、予約時に公式サイトでご確認を。価格は検索日・対象日・プランにより変動する。",
   "access_note": "JR京都駅からタクシーで約30分、渡月橋のたもとの舟待合（京都市西京区嵐山中尾下町60）へ。そこから専用の屋形舟で大堰川を約15分遡って本館へ向かう、事前予約制・舟でのご案内（天候により車での送迎になる場合あり）。",
@@ -20,16 +25,63 @@
     "tiktok": "京都に、舟でしか行けない宿があるって知ってた？🚣‍♂️\n渡月橋から屋形舟で約15分、『星のや京都』。\n今年の秋は、百人一首の講義や練香体験、舟遊びまで楽しめる平安文化の限定プログラムがスタート。\nTripadvisor評価4.0・417件のリアルな口コミも。\n紅葉の京都、保存しておこう。"
   },
   "hashtags": [
-    "#京都旅行", "#嵐山", "#星のや京都", "#星野リゾート", "#文化体験",
-    "#紅葉スポット", "#京都紅葉", "#記念日旅行", "#夫婦旅", "#カップル旅行",
-    "#国内旅行", "#贅沢旅"
+    "#京都旅行",
+    "#嵐山",
+    "#星のや京都",
+    "#星野リゾート",
+    "#文化体験",
+    "#紅葉スポット",
+    "#京都紅葉",
+    "#記念日旅行",
+    "#夫婦旅",
+    "#カップル旅行",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "official", "title": "星のや京都【公式】 | HOSHINOYA Kyoto", "url": "https://hoshinoresorts.com/en/hotels/hoshinoyakyoto/" },
-    { "type": "press", "title": "【星のや京都】平安貴族の美意識に浸り、奥嵐山の秋の彩りに没入するシグネチャープログラム「紅葉の私邸でたゆたう時空（とき）」提供開始 | 星野リゾートのプレスリリース", "url": "https://prtimes.jp/main/html/rd/p/000002069.000033064.html" },
-    { "type": "review_site", "title": "星のや 京都【2026年最新の料金比較・口コミ・宿泊予約】- Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-g298564-d1547518-Reviews-Hoshinoya_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html" },
-    { "type": "review_site", "title": "クチコミ : 星のや京都 - 京都市西京区嵐山中尾下町/ホテル | Yahoo!マップ", "url": "https://map.yahoo.co.jp/v3/place/6hVzCD6j-UY/review" },
-    { "type": "booking_site", "title": "星のや京都 アクセス・地図・送迎情報【JTB】＜嵐山・嵯峨野＞", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/6240016/access/" }
+    {
+      "type": "official",
+      "title": "星のや京都【公式】 | HOSHINOYA Kyoto",
+      "url": "https://hoshinoresorts.com/en/hotels/hoshinoyakyoto/"
+    },
+    {
+      "type": "press",
+      "title": "【星のや京都】平安貴族の美意識に浸り、奥嵐山の秋の彩りに没入するシグネチャープログラム「紅葉の私邸でたゆたう時空（とき）」提供開始 | 星野リゾートのプレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000002069.000033064.html"
+    },
+    {
+      "type": "review_site",
+      "title": "星のや 京都【2026年最新の料金比較・口コミ・宿泊予約】- Tripadvisor",
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298564-d1547518-Reviews-Hoshinoya_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html"
+    },
+    {
+      "type": "review_site",
+      "title": "クチコミ : 星のや京都 - 京都市西京区嵐山中尾下町/ホテル | Yahoo!マップ",
+      "url": "https://map.yahoo.co.jp/v3/place/6hVzCD6j-UY/review"
+    },
+    {
+      "type": "booking_site",
+      "title": "星のや京都 アクセス・地図・送迎情報【JTB】＜嵐山・嵯峨野＞",
+      "url": "https://www.jtb.co.jp/kokunai-hotel/htl/6240016/access/"
+    }
   ],
-  "created_date": "2026-09-14"
+  "created_date": "2026-09-14",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

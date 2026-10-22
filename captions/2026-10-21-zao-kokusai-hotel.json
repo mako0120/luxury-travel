@@ -12,7 +12,13 @@
     "山形県はこのアカウントで過去一度も取り上げていない地域で、地域分散の観点からも新規性が高い。"
   ],
   "evaluation_basis": "100点満点中79点（口コミ評価23/25・口コミ信頼性11/15・独自体験17/20・映え12/15・価格対体験価値7/10・SNS話題性5/10・アクセス/鮮度4/5）。楽天トラベル系の口コミ集計（総合4.8）とSkyticket集計（4.8・1,007件）という2つの独立した情報源でいずれも採用ライン（4.0以上）を大きく上回って一致。口コミの大半は接客・温泉・食事に好意的だったが、『部屋3点』『接客・サービス3点』とする個別投稿も1件確認した。重大な清潔感・安全性・予約トラブルの指摘は見当たらなかった。なお楽天トラベル本体の口コミ件数・個別点数は、本セッションのネットワーク制限により該当ドメインへのWebFetchができず、口コミ集計サイトのスニペット経由での確認にとどまる点を申し添える。",
-  "target_audience": ["夫婦", "記念日", "カップル", "温泉好き", "ホテル好き"],
+  "target_audience": [
+    "夫婦",
+    "記念日",
+    "カップル",
+    "温泉好き",
+    "ホテル好き"
+  ],
   "why_now": "10月下旬は蔵王エリアの紅葉が見頃を迎え、露天風呂から紅葉を眺められる季節。11月以降は樹氷・積雪シーズンへ移り変わり、冬の蔵王は雪見露天というまた別の魅力が出てくるため、紅葉と雪見のどちらも検討しやすい『季節の変わり目』の今、旅行先として検討を始める意義がある。",
   "price_note": "1泊2食付・1名あたり20,900円〜31,900円程度（和室・部屋タイプ・プランにより変動、2名1室〜4名1室利用で変動）。素泊まりのみの最安プランで1室1泊13,860円という表示も確認。価格は検索日・対象日・プランにより変動するため、予約時に最新情報を要確認。",
   "access_note": "JR山形駅西口から無料送迎バスで約40分（3日前までの事前予約が必要）。車を持たない旅行者は送迎の予約を忘れずに。",
@@ -21,16 +27,63 @@
     "tiktok": "山形・蔵王温泉に、乳白色の硫黄泉が自慢の宿があるって知ってる？♨️\n『蔵王国際ホテル』、100%源泉かけ流しの乳白色の湯。\n大浴場は総木造りの『八右衛門の湯』、露天は石造り。\n秋は紅葉、冬は雪見露天と季節で表情が変わるらしい。\n夕食は山形牛の郷土料理プランも選べる。\n口コミ集計は2つのサイトでどちらも4.8。\n山形県、実はこのアカウントでまだ紹介してなかった場所。保存して次の旅の候補に。"
   },
   "hashtags": [
-    "#蔵王国際ホテル", "#蔵王温泉", "#山形旅行", "#硫黄泉", "#源泉かけ流し",
-    "#乳白色の湯", "#記念日旅行", "#夫婦旅", "#カップル旅行", "#温泉旅館",
-    "#国内旅行", "#温泉好き"
+    "#蔵王国際ホテル",
+    "#蔵王温泉",
+    "#山形旅行",
+    "#硫黄泉",
+    "#源泉かけ流し",
+    "#乳白色の湯",
+    "#記念日旅行",
+    "#夫婦旅",
+    "#カップル旅行",
+    "#温泉旅館",
+    "#国内旅行",
+    "#温泉好き"
   ],
   "sources": [
-    { "type": "press", "title": "天然温泉と郷土料理を堪能!「蔵王温泉 蔵王国際ホテル」で100%源泉掛け流しの硫黄泉と山形牛を味わう旅 - All About", "url": "https://news.allabout.co.jp/articles/o/125989/" },
-    { "type": "review_site", "title": "蔵王温泉 蔵王国際ホテル クチコミ集計（楽天トラベル・総合4.8） - travel.gpoint.co.jp", "url": "https://travel.gpoint.co.jp/daredoko/06b002-c000-d04a/" },
-    { "type": "booking_site", "title": "蔵王国際ホテル クチコミ集計（4.8・1,007件） - Skyticket", "url": "https://skyticket.jp/hotel/detail/property_10223/" },
-    { "type": "booking_site", "title": "蔵王国際ホテル 宿泊プラン・施設情報 - 近畿日本ツーリスト(yado.knt.co.jp)", "url": "https://yado.knt.co.jp/st/S060023/" },
-    { "type": "other", "title": "蔵王観光で泊まりたい!おすすめホテル10選 - トラベルjp 旅行ガイド", "url": "https://www.travel.co.jp/guide/matome/1624/" }
+    {
+      "type": "press",
+      "title": "天然温泉と郷土料理を堪能!「蔵王温泉 蔵王国際ホテル」で100%源泉掛け流しの硫黄泉と山形牛を味わう旅 - All About",
+      "url": "https://news.allabout.co.jp/articles/o/125989/"
+    },
+    {
+      "type": "review_site",
+      "title": "蔵王温泉 蔵王国際ホテル クチコミ集計（楽天トラベル・総合4.8） - travel.gpoint.co.jp",
+      "url": "https://travel.gpoint.co.jp/daredoko/06b002-c000-d04a/"
+    },
+    {
+      "type": "booking_site",
+      "title": "蔵王国際ホテル クチコミ集計（4.8・1,007件） - Skyticket",
+      "url": "https://skyticket.jp/hotel/detail/property_10223/"
+    },
+    {
+      "type": "booking_site",
+      "title": "蔵王国際ホテル 宿泊プラン・施設情報 - 近畿日本ツーリスト(yado.knt.co.jp)",
+      "url": "https://yado.knt.co.jp/st/S060023/"
+    },
+    {
+      "type": "other",
+      "title": "蔵王観光で泊まりたい!おすすめホテル10選 - トラベルjp 旅行ガイド",
+      "url": "https://www.travel.co.jp/guide/matome/1624/"
+    }
   ],
-  "created_date": "2026-10-21"
+  "created_date": "2026-10-21",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

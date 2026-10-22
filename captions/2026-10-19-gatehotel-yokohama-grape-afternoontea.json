@@ -12,7 +12,13 @@
     "元町・中華街駅から徒歩3〜4分というアクセスの良さも、横浜散策と組み合わせやすい魅力。"
   ],
   "evaluation_basis": "100点満点中77点（口コミ評価21/25・口コミ信頼性11/15・独自体験15/20・映え12/15・価格対体験価値7/10・SNS話題性6/10・アクセス/鮮度5/5）。評価はホテル全体の口コミ（Relux4.7点/69件、楽天トラベル4.0点/239件）に基づくもので、本アフタヌーンティー企画単体の口コミはまだ蓄積されていない点、このセッションのネットワーク環境では観光情報サイト・ホテル公式サイトへのWebFetchがEGRESS_BLOCKEDとなり本文を直接確認できず、WebSearchスニペットの情報に基づいている点、またWebSearch回数上限により、じゃらん・トリップアドバイザー・Googleマップでの追加のネガティブレビュー確認ができなかった点は留意事項として記録する。",
-  "target_audience": ["カップル", "記念日", "女子旅", "ホテル好き", "絶景好き"],
+  "target_audience": [
+    "カップル",
+    "記念日",
+    "女子旅",
+    "ホテル好き",
+    "絶景好き"
+  ],
   "why_now": "2026年9月16日〜11月16日の平日限定企画で、11月中旬に終了するため『今だけ』の訴求力が高い。2025年2月開業というまだ新しいホテルの話題性と、秋の横浜散策を検討し始める時期が重なる好機（原則30）。",
   "price_note": "1名6,400円（食前酒・スイーツ6品・セイボリー7品・カフェフリー付き）。平日限定、12:00〜14:00／14:30〜16:30／17:00〜19:00の2時間制3部制。事前予約制で最終受付は2日前まで。神奈川県観光協会の観光情報サイト掲載情報に基づくため、予約時に公式サイトでの最新確認が必要。",
   "access_note": "神奈川県横浜市中区山下町。みなとみらい線 元町・中華街駅から徒歩約3〜4分、山下公園のすぐ正面。",
@@ -21,15 +27,62 @@
     "tiktok": "横浜の新ランドマーク、最上階12Fで味わう秋🍇\n『ザ・ゲートホテル横浜 by HULIC』Bar & Loungeにて、9/16〜11/16の平日限定。\n山下公園正面・横浜港一望のロケーションで、食前酒＋スイーツ6品＋セイボリー7品。\nホテル全体の口コミはRelux4.7点（69件）、楽天トラベル4.0点（239件）と好評。\n保存して、秋の横浜旅の候補に。"
   },
   "hashtags": [
-    "#ザゲートホテル横浜", "#横浜旅行", "#横浜ホテル", "#アフタヌーンティー", "#期間限定",
-    "#山下公園", "#みなとみらい", "#女子旅", "#記念日", "#国内旅行", "#贅沢旅"
+    "#ザゲートホテル横浜",
+    "#横浜旅行",
+    "#横浜ホテル",
+    "#アフタヌーンティー",
+    "#期間限定",
+    "#山下公園",
+    "#みなとみらい",
+    "#女子旅",
+    "#記念日",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "other", "title": "ザ・ゲートホテル横浜 by HULIC「ぶどうのアフタヌーンティー」- 神奈川県観光情報サイト", "url": "https://kanagawa-kankou.or.jp/event/7848" },
-    { "type": "review_site", "title": "ザ・ゲートホテル横浜 by HULIC 口コミ・レビュー - Relux", "url": "https://rlx.jp/466053/review/" },
-    { "type": "booking_site", "title": "ザ・ゲートホテル横浜 by HULIC - 楽天トラベル", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/192809" },
-    { "type": "other", "title": "新オープンの「ザ・ゲートホテル横浜 by HULIC」で横浜を満喫するステイ - OZmall", "url": "https://www.ozmall.co.jp/travel/stay/hotel/42249/" },
-    { "type": "press", "title": "横浜の新旧の魅力を併せ持つ、新たなランドマークホテル「ザ・ゲートホテル横浜 by HULIC」本日グランドオープン - 財経新聞", "url": "https://zaikei.co.jp/releases/2822947/" }
+    {
+      "type": "other",
+      "title": "ザ・ゲートホテル横浜 by HULIC「ぶどうのアフタヌーンティー」- 神奈川県観光情報サイト",
+      "url": "https://kanagawa-kankou.or.jp/event/7848"
+    },
+    {
+      "type": "review_site",
+      "title": "ザ・ゲートホテル横浜 by HULIC 口コミ・レビュー - Relux",
+      "url": "https://rlx.jp/466053/review/"
+    },
+    {
+      "type": "booking_site",
+      "title": "ザ・ゲートホテル横浜 by HULIC - 楽天トラベル",
+      "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/192809"
+    },
+    {
+      "type": "other",
+      "title": "新オープンの「ザ・ゲートホテル横浜 by HULIC」で横浜を満喫するステイ - OZmall",
+      "url": "https://www.ozmall.co.jp/travel/stay/hotel/42249/"
+    },
+    {
+      "type": "press",
+      "title": "横浜の新旧の魅力を併せ持つ、新たなランドマークホテル「ザ・ゲートホテル横浜 by HULIC」本日グランドオープン - 財経新聞",
+      "url": "https://zaikei.co.jp/releases/2822947/"
+    }
   ],
-  "created_date": "2026-10-19"
+  "created_date": "2026-10-19",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

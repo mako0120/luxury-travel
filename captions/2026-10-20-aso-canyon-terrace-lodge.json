@@ -11,7 +11,13 @@
     "2021年開業・2022年設備更新と情報の鮮度が高く、楽天ランキング掲載の最安料金目安（6,046円〜）も『少し奮発すれば届く』価格帯感に合う。"
   ],
   "evaluation_basis": "100点満点中83点（口コミ評価21/25・口コミ信頼性13/15・独自体験17/20・映え13/15・価格対体験価値8/10・SNS話題性7/10・アクセス/鮮度4/5）。じゃらん4.3（311件）・楽天トラベル国際版4.2（186件）・Trip.com8.4/10（19件）の3つの独立情報源で推奨ライン4.2以上を確認（原則6・7）。同じ阿蘇地域の黒川温泉 瀬の本高原ホテル（楽天4.33・1,057件）も非常に有力な候補だったが、補足情報源（ニフティ温泉）の口コミ件数が少なく、料金・リニューアル情報の確認も取れなかったためshortlistにとどめた。阿蘇の司ビラパークホテル&スパリゾート（直近口コミ3.0）、阿蘇プラザホテル（icotto3.3・ニフティ3.0）はいずれも推奨ライン4.0未満のため見送った。",
-  "target_audience": ["カップル", "夫婦", "友人", "絶景好き", "ホテル好き"],
+  "target_audience": [
+    "カップル",
+    "夫婦",
+    "友人",
+    "絶景好き",
+    "ホテル好き"
+  ],
   "why_now": "10月下旬から11月にかけて立野渓谷は紅葉が進み、赤・黄・オレンジに色づく時期を迎える。朝晩の冷え込みで空気が澄み、渓谷の絶景やあそぶらんこからの眺めが一年で最も気持ちよく楽しめるタイミングで、年末年始の旅行検討が始まる時期にも合う。",
   "price_note": "楽天トラベルのランキング掲載（2026年8月10日更新）では最安料金の目安が6,046円〜（税込6,650円〜）と表示されている。具体的な1泊2食プランの料金は今回のWebSearchでは確認できず、正確な金額は日付・人数を指定した上で予約サイトで要確認（検索日・対象日・プランにより変動する）。",
   "access_note": "熊本県阿蘇郡南阿蘇村。阿蘇くまもと空港から車で約25分、JR肥後大津駅から車で約15分。ゴルフ場に併設されているため、駐車場・フロントはゴルフ利用者と共用になる点に留意。",
@@ -20,16 +26,63 @@
     "tiktok": "阿蘇の渓谷を見下ろすブランコがある宿、知ってる？🍂\n阿蘇外輪山の切れ目・立野渓谷を望むロケーションで、名物『あそぶらんこ』から絶景が広がる。\n10月下旬からは渓谷が紅葉して赤・黄・オレンジに染まるんだって。\nセルフロウリュのサウナと水風呂もあって、絶景×サウナが同時に楽しめる。\nじゃらん311件で4.3、楽天国際版も186件で4.2の高評価。\n紅葉シーズンの今、保存しておこう。"
   },
   "hashtags": [
-    "#阿蘇キャニオンテラス", "#阿蘇旅行", "#熊本旅行", "#立野渓谷",
-    "#絶景ホテル", "#あそぶらんこ", "#サウナ好き", "#セルフロウリュ",
-    "#紅葉旅行", "#絶景好き", "#国内旅行", "#南阿蘇"
+    "#阿蘇キャニオンテラス",
+    "#阿蘇旅行",
+    "#熊本旅行",
+    "#立野渓谷",
+    "#絶景ホテル",
+    "#あそぶらんこ",
+    "#サウナ好き",
+    "#セルフロウリュ",
+    "#紅葉旅行",
+    "#絶景好き",
+    "#国内旅行",
+    "#南阿蘇"
   ],
   "sources": [
-    { "type": "booking_site", "title": "阿蘇キャニオンテラス&ロッジ クチコミ・評価 - じゃらん", "url": "https://www.jalan.net/yad308608/kuchikomi/" },
-    { "type": "booking_site", "title": "Aso Canyon Terrace & Lodge - 楽天トラベル（海外版）", "url": "https://travel.rakuten.com/usa/en-us/hotel_info_item/cnt_japan/sub_kumamoto_prefecture/cty_minamiaso_village/10123456887325" },
-    { "type": "booking_site", "title": "Aso Canyon Terrace & Lodge - Trip.com", "url": "https://ph.trip.com/hotels/minamiaso-hotel-detail-91391271/aso-canyon-terrace-lodge" },
-    { "type": "review_site", "title": "阿蘇キャニオンテラス&ロッジ クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-11869785" },
-    { "type": "other", "title": "阿蘇キャニオンテラス&ロッジ 施設紹介 - icotto", "url": "https://icotto.jp/hotels/10607" }
+    {
+      "type": "booking_site",
+      "title": "阿蘇キャニオンテラス&ロッジ クチコミ・評価 - じゃらん",
+      "url": "https://www.jalan.net/yad308608/kuchikomi/"
+    },
+    {
+      "type": "booking_site",
+      "title": "Aso Canyon Terrace & Lodge - 楽天トラベル（海外版）",
+      "url": "https://travel.rakuten.com/usa/en-us/hotel_info_item/cnt_japan/sub_kumamoto_prefecture/cty_minamiaso_village/10123456887325"
+    },
+    {
+      "type": "booking_site",
+      "title": "Aso Canyon Terrace & Lodge - Trip.com",
+      "url": "https://ph.trip.com/hotels/minamiaso-hotel-detail-91391271/aso-canyon-terrace-lodge"
+    },
+    {
+      "type": "review_site",
+      "title": "阿蘇キャニオンテラス&ロッジ クチコミ - フォートラベル",
+      "url": "https://4travel.jp/dm_hotel-11869785"
+    },
+    {
+      "type": "other",
+      "title": "阿蘇キャニオンテラス&ロッジ 施設紹介 - icotto",
+      "url": "https://icotto.jp/hotels/10607"
+    }
   ],
-  "created_date": "2026-10-20"
+  "created_date": "2026-10-20",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

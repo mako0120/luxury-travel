@@ -11,7 +11,12 @@
     "2026年9月〜11月販売中の季節限定プラン『西表ジャングルリセット滞在』があり、今の時期ならではの訴求material価値がある。"
   ],
   "evaluation_basis": "100点満点中81点（口コミ評価20/25・口コミ信頼性12/15・独自体験18/20・映え12/15・価格対体験価値7/10・SNS話題性7/10・アクセス/鮮度5/5）。楽天トラベル4.56（149件）・フォートラベル4.19（217件）の2つの独立情報源で推奨ライン4.2前後を確認。比較検討した星のや竹富島（icotto 3.8・379件のみで独立2情報源を確定できず、総合72点）、はいむるぶし（2025年7月リニューアル直後で信頼できる総合評価・件数を確定できず、総合59点）は、いずれも採用ライン（75点）に届かず見送った。",
-  "target_audience": ["カップル", "記念日", "絶景好き", "家族"],
+  "target_audience": [
+    "カップル",
+    "記念日",
+    "絶景好き",
+    "家族"
+  ],
   "why_now": "西表島は夏の混雑・台風ピークを過ぎた10月中旬〜11月が、ジャングルトレッキングや星空観賞に適した狙い目シーズン。実際にホテルでも2026年9月1日〜11月30日の期間限定で、早朝ジャングルヨガやハーブ鍋を組み込んだ『西表ジャングルリセット滞在』（2泊3日）を販売しており、今だからこそ刺さる旅のタイミング。",
   "price_note": "2024年発表時点の参考価格は2泊24,000円〜（2名1室利用時1名あたり・食事別・税・サービス料込）。季節限定プラン『西表ジャングルリセット滞在』（2026年9月1日〜11月30日・2泊3日）は1名57,000円〜（サービス料込）。いずれも時期・プランにより変動するため、予約時に公式サイトで最新料金をご確認ください。",
   "access_note": "石垣港離島ターミナルから高速船で西表島上原港まで約45分、上原港からホテル送迎車で約10分。",
@@ -20,16 +25,63 @@
     "tiktok": "世界自然遺産の島に泊まれるって知ってた?🌿\n西表島ホテル by 星野リゾート、日本初の星空保護区エリア。\nジャングル図書館、カヤック、トレッキング、満天の星。\n楽天149件で4.56、フォートラベル217件で4.19の高評価。\n今は『ジャングルリセット滞在』プランも販売中。\n台風ピークが過ぎた今、保存しておこう。"
   },
   "hashtags": [
-    "#西表島", "#西表島ホテル", "#星野リゾート", "#世界自然遺産", "#離島リゾート",
-    "#沖縄旅行", "#星空保護区", "#ジャングルリゾート", "#カップル旅行", "#記念日旅行",
-    "#秋の沖縄", "#国内旅行"
+    "#西表島",
+    "#西表島ホテル",
+    "#星野リゾート",
+    "#世界自然遺産",
+    "#離島リゾート",
+    "#沖縄旅行",
+    "#星空保護区",
+    "#ジャングルリゾート",
+    "#カップル旅行",
+    "#記念日旅行",
+    "#秋の沖縄",
+    "#国内旅行"
   ],
   "sources": [
-    { "type": "official", "title": "西表島ホテル by 星野リゾート 公式サイト", "url": "https://hoshinoresorts.com/ja/hotels/iriomote/" },
-    { "type": "review_site", "title": "星野リゾート 西表島ホテル - フォートラベル（口コミ）", "url": "https://4travel.jp/dm_hotel-11288278" },
-    { "type": "booking_site", "title": "西表島ホテル - 楽天トラベル（クチコミ）", "url": "https://travel.rakuten.co.jp/HOTEL/177935/review.html" },
-    { "type": "press", "title": "西表島ホテル by 星野リゾート『イリオモテジャングル図書館』オープン - ことりっぷ", "url": "https://co-trip.jp/article/661471" },
-    { "type": "other", "title": "西表島ホテル by 星野リゾート『西表ジャングルリセット滞在』 - るるぶ&more", "url": "https://rurubu.jp/andmore/article/25314" }
+    {
+      "type": "official",
+      "title": "西表島ホテル by 星野リゾート 公式サイト",
+      "url": "https://hoshinoresorts.com/ja/hotels/iriomote/"
+    },
+    {
+      "type": "review_site",
+      "title": "星野リゾート 西表島ホテル - フォートラベル（口コミ）",
+      "url": "https://4travel.jp/dm_hotel-11288278"
+    },
+    {
+      "type": "booking_site",
+      "title": "西表島ホテル - 楽天トラベル（クチコミ）",
+      "url": "https://travel.rakuten.co.jp/HOTEL/177935/review.html"
+    },
+    {
+      "type": "press",
+      "title": "西表島ホテル by 星野リゾート『イリオモテジャングル図書館』オープン - ことりっぷ",
+      "url": "https://co-trip.jp/article/661471"
+    },
+    {
+      "type": "other",
+      "title": "西表島ホテル by 星野リゾート『西表ジャングルリセット滞在』 - るるぶ&more",
+      "url": "https://rurubu.jp/andmore/article/25314"
+    }
   ],
-  "created_date": "2026-10-17"
+  "created_date": "2026-10-17",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

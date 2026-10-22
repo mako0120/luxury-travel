@@ -11,7 +11,12 @@
     "白樺林・高原の眺望は写真・動画映えの面でも訴求力が高く、宿泊者限定の割引料金でアクティビティに参加できる点も『少し奮発すれば届く非日常』に合致する。"
   ],
   "evaluation_basis": "100点満点中78点（口コミ評価21/25・口コミ信頼性13/15・独自体験16/20・映え12/15・価格対体験価値7/10・SNS話題性5/10・アクセス/鮮度4/5）。じゃらん4.2（1,259件）・icotto3.8（395件）の2つの独立情報源を確認し、うち最高評価（じゃらん4.2）が採用ライン4.0以上を満たした。参考値としてOZmall4.70・JTBるるぶトラベル評価4.2の掲載もあり傾向は一致している。ネガティブ口コミとして『チェックイン時の喫煙客』『施設がやや古いという指摘（2021年）』を確認したが、清潔感・安全性に関わる重大な問題が複数確認されたわけではないため除外基準には該当しないと判断した。",
-  "target_audience": ["家族", "友人", "カップル", "絶景好き"],
+  "target_audience": [
+    "家族",
+    "友人",
+    "カップル",
+    "絶景好き"
+  ],
   "why_now": "フォレストジップラインなどのグリーンシーズン・アクティビティは例年11月上旬までで、10月中旬は紅葉と高原の爽涼な気候が重なる営業終盤の狙い目タイミング。雪が積もる冬季アクティビティに切り替わる前の『最後のグリーンシーズン』として今が保存・検討のタイミングになる。",
   "price_note": "和洋中バイキング付きプランで1名15,900円〜26,700円（2名1室利用時、時期により変動、検索時点の掲載情報）。宿泊者はフォレストジップラインを割引料金で利用できる（掲載により500円引き、または宿泊者価格3,900円前後との情報もあり、正確な料金は要確認）。",
   "access_note": "群馬県利根郡みなかみ町。上越新幹線 上毛高原駅、またはJR上越線 水上駅から無料シャトルバス（要事前予約）。詳細は公式サイトで要確認。",
@@ -20,16 +25,63 @@
     "tiktok": "群馬のみなかみに、200万坪の敷地にジップラインがある宿があるって知ってる？🌲\n『水上高原ホテル200』、標高1000mの白樺林の中の高原リゾート。\n全長1.3kmのフォレストジップライン、ツリートレッキング、ゴルフ、プールまで敷地内で楽しめる。\nじゃらん1,259件で4.2、icottoでも395件で3.8の評価。\nジップラインのグリーンシーズンは11月上旬まで、今が最後の見頃。保存しておこう。"
   },
   "hashtags": [
-    "#水上高原ホテル200", "#みなかみ町", "#みなかみ", "#水上高原", "#フォレストジップライン",
-    "#群馬旅行", "#高原リゾート", "#家族旅行", "#アクティビティ旅", "#紅葉旅行",
-    "#国内旅行", "#贅沢旅"
+    "#水上高原ホテル200",
+    "#みなかみ町",
+    "#みなかみ",
+    "#水上高原",
+    "#フォレストジップライン",
+    "#群馬旅行",
+    "#高原リゾート",
+    "#家族旅行",
+    "#アクティビティ旅",
+    "#紅葉旅行",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "booking_site", "title": "水上温泉郷 水上高原ホテル200(トゥーハンドレッド) - じゃらんnet", "url": "https://www.jalan.net/yad348796/" },
-    { "type": "review_site", "title": "水上高原ホテル200 口コミ - じゃらんnet", "url": "https://www.jalan.net/yad348796/kuchikomi/" },
-    { "type": "review_site", "title": "水上温泉郷 水上高原ホテル200(群馬県 リゾートホテル) - icotto", "url": "https://icotto.jp/hotels-1405/" },
-    { "type": "other", "title": "水上高原フォレストジップライン - るるぶ&more", "url": "https://rurubu.jp/andmore/spot/80085013" },
-    { "type": "booking_site", "title": "水上高原ホテル200 - OZmall", "url": "https://www.ozmall.co.jp/travel/stay/gunma/area/area_1004/hotel/list/" }
+    {
+      "type": "booking_site",
+      "title": "水上温泉郷 水上高原ホテル200(トゥーハンドレッド) - じゃらんnet",
+      "url": "https://www.jalan.net/yad348796/"
+    },
+    {
+      "type": "review_site",
+      "title": "水上高原ホテル200 口コミ - じゃらんnet",
+      "url": "https://www.jalan.net/yad348796/kuchikomi/"
+    },
+    {
+      "type": "review_site",
+      "title": "水上温泉郷 水上高原ホテル200(群馬県 リゾートホテル) - icotto",
+      "url": "https://icotto.jp/hotels-1405/"
+    },
+    {
+      "type": "other",
+      "title": "水上高原フォレストジップライン - るるぶ&more",
+      "url": "https://rurubu.jp/andmore/spot/80085013"
+    },
+    {
+      "type": "booking_site",
+      "title": "水上高原ホテル200 - OZmall",
+      "url": "https://www.ozmall.co.jp/travel/stay/gunma/area/area_1004/hotel/list/"
+    }
   ],
-  "created_date": "2026-10-17"
+  "created_date": "2026-10-17",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

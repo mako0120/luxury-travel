@@ -11,7 +11,12 @@
     "楽天トラベル・じゃらん・Trip.com・Booking.com等、複数の主要予約サイトに現在も掲載され、稼働が継続している。"
   ],
   "evaluation_basis": "100点満点中79点（口コミ評価24/25・口コミ信頼性11/15・独自体験16/20・映え12/15・価格対体験価値6/10・SNS話題性6/10・アクセス/鮮度4/5）。Google 4.9（60件）・Trip.com 9.2/10（3件）の2つの独立情報源で推奨ライン4.2以上を確認。低評価レビューは本セッションの検索範囲では重大なものは見つからなかったが、個別レビュー本文まで全件確認できておらず、また具体的な料金もネットワーク制限のため未確認のため、価格対体験価値とSNS話題性の配点は保守的にとどめた点は留意事項として記録する。",
-  "target_audience": ["カップル", "友人", "家族", "絶景好き"],
+  "target_audience": [
+    "カップル",
+    "友人",
+    "家族",
+    "絶景好き"
+  ],
   "why_now": "9月下旬〜10月の富良野・上富良野エリアは朝晩の冷え込みが本格化し、十勝岳連峰の紅葉が進む時期。夏のひまわり畑シーズンは終わるが、代わりに焚き火・樽サウナ・満天の星空観賞がより快適になる季節で、屋外で過ごす夜そのものを楽しむグランピングの魅力が際立つタイミング。",
   "price_note": "具体的な宿泊料金は本セッションのネットワーク制限（およびWebSearch実行回数上限到達）により確認できなかった。1日3組限定・樽サウナ・ドッグラン付きテント等を備えるカントリー系グランピングのため、一般的なオートキャンプより高めの価格帯が想定されるが、金額は予約前に公式サイト・楽天トラベルでご確認ください。",
   "access_note": "北海道空知郡上富良野町十人牧場。旭川空港から車で約38分。",
@@ -20,15 +25,58 @@
     "tiktok": "1日3組限定の富良野グランピング、知ってる？⛺\n上富良野『NORTH GLAMPER 富良野』、十勝岳連峰を一望。\n樽サウナ・釣り・愛犬と泊まれるテントまで揃う。\nGoogleレビュー60件で4.9の高評価。\n色づく十勝岳と過ごす秋の夜、保存しておこう。"
   },
   "hashtags": [
-    "#NORTHGLAMPER富良野", "#富良野", "#上富良野", "#グランピング", "#十勝岳連峰",
-    "#北海道旅行", "#樽サウナ", "#愛犬と泊まれる宿", "#絶景好きな人と繋がりたい", "#秋旅行",
-    "#国内旅行", "#贅沢旅"
+    "#NORTHGLAMPER富良野",
+    "#富良野",
+    "#上富良野",
+    "#グランピング",
+    "#十勝岳連峰",
+    "#北海道旅行",
+    "#樽サウナ",
+    "#愛犬と泊まれる宿",
+    "#絶景好きな人と繋がりたい",
+    "#秋旅行",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "official", "title": "North Glamper｜ノースグランパー富良野（公式サイト）", "url": "https://northglamper.jp/" },
-    { "type": "review_site", "title": "NORTH GLAMPER富良野 - Google ホテル", "url": "https://www.google.co.jp/travel/hotels/entity/ChkIlfLkjsv_tM5lGg0vZy8xMXE3YjdkMWYyEAE" },
-    { "type": "review_site", "title": "NORTHGLAMPER富良野周辺ホテルのおすすめランキング2026・宿泊プラン一覧 | Trip.com", "url": "https://jp.trip.com/hotels/kami-furano-north-glamper/hotels-c50373m53115049/" },
-    { "type": "review_site", "title": "NORTH GLAMPER 富良野 に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/183109/review.html" }
+    {
+      "type": "official",
+      "title": "North Glamper｜ノースグランパー富良野（公式サイト）",
+      "url": "https://northglamper.jp/"
+    },
+    {
+      "type": "review_site",
+      "title": "NORTH GLAMPER富良野 - Google ホテル",
+      "url": "https://www.google.co.jp/travel/hotels/entity/ChkIlfLkjsv_tM5lGg0vZy8xMXE3YjdkMWYyEAE"
+    },
+    {
+      "type": "review_site",
+      "title": "NORTHGLAMPER富良野周辺ホテルのおすすめランキング2026・宿泊プラン一覧 | Trip.com",
+      "url": "https://jp.trip.com/hotels/kami-furano-north-glamper/hotels-c50373m53115049/"
+    },
+    {
+      "type": "review_site",
+      "title": "NORTH GLAMPER 富良野 に実際に泊まった方のクチコミ・レビュー【楽天トラベル】",
+      "url": "https://travel.rakuten.co.jp/HOTEL/183109/review.html"
+    }
   ],
-  "created_date": "2026-09-22"
+  "created_date": "2026-09-22",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

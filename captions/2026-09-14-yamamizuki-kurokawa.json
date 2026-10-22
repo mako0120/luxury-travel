@@ -11,7 +11,13 @@
     "島根・箱根・山梨・静岡と続いた既存投稿と地域が重ならない、九州・黒川温泉エリアという新しい選択肢。"
   ],
   "evaluation_basis": "100点満点中81点（口コミ評価22/25・口コミ信頼性13/15・独自体験17/20・映え13/15・価格対体験価値7/10・SNS話題性6/10・アクセス/鮮度3/5）。Googleホテル4.5（1,522件）、Yahoo!トラベル4.54（54件）と主要ライン（4.0以上、推奨4.2以上）を上回る。食事提供のタイミング・浴場の種類の少なさ等の改善要望は確認したが、清潔感・安全性に関わる重大な指摘は見当たらなかった。",
-  "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "女子旅"],
+  "target_audience": [
+    "カップル",
+    "記念日",
+    "夫婦",
+    "温泉好き",
+    "女子旅"
+  ],
   "why_now": "黒川温泉の紅葉は例年10月下旬〜11月中旬が見頃。9月中旬の今は、紅葉シーズンに向けて宿を検討・予約し始めるのにちょうど良いタイミング。",
   "price_note": "2名1泊で税込44,000円〜という表示を確認（部屋タイプ・プランにより変動。1泊2食の内訳や具体的な部屋ごとの差額までは確認できていないため、予約時に公式サイト・予約サイトで最新情報の確認を推奨）。",
   "access_note": "九州横断バス『黒川温泉』バス停から宿の送迎車で約10分（要予約・到着時間の連絡が必要）。熊本駅・別府駅から高速バスでのアクセスが基本ルート。",
@@ -20,18 +26,73 @@
     "tiktok": "黒川温泉に、部屋が全部違う宿があるって知ってる？🍁\n『山みず木』、21室すべて造りが違って、渓流沿いの露天風呂が名物。\n姉妹館の湯も自由に行き来できて、実質2軒分の湯めぐり。\nGoogle評価は1,522件で4.5。\n紅葉は10月下旬〜11月中旬が見頃、今のうちに保存しておこう。"
   },
   "hashtags": [
-    "#黒川温泉", "#熊本旅行", "#南小国町", "#山みず木", "#温泉旅館",
-    "#記念日旅行", "#夫婦旅", "#九州旅行", "#秋の温泉", "#紅葉旅行",
-    "#国内旅行", "#贅沢旅"
+    "#黒川温泉",
+    "#熊本旅行",
+    "#南小国町",
+    "#山みず木",
+    "#温泉旅館",
+    "#記念日旅行",
+    "#夫婦旅",
+    "#九州旅行",
+    "#秋の温泉",
+    "#紅葉旅行",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "official", "title": "黒川温泉の旅館 山みず木オフィシャルサイト【阿蘇・熊本】", "url": "https://yamamizuki.com/" },
-    { "type": "official", "title": "アクセス｜黒川温泉の旅館 山みず木オフィシャルサイト", "url": "https://www.yamamizuki.com/access/" },
-    { "type": "official", "title": "黒川温泉公式サイト｜山みず木｜熊本・阿蘇の温泉地", "url": "https://www.kurokawaonsen.or.jp/oyado/innInfo.php?intYKey=22" },
-    { "type": "review_site", "title": "黒川温泉 山あいの宿 山みず木（Yamamizuki） - Google ホテル", "url": "https://www.google.co.jp/travel/hotels/entity/CgsItrXVwMqOgZG4ARAB" },
-    { "type": "review_site", "title": "黒川温泉 山あいの宿 山みず木 - 宿泊予約・クチコミ - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00001801/" },
-    { "type": "booking_site", "title": "黒川温泉 山あいの宿 山みず木 - じゃらんnet", "url": "https://www.jalan.net/yad356096/" },
-    { "type": "other", "title": "【2025年】黒川温泉の紅葉スポット6選 - Relux Journal", "url": "https://rlx.jp/journal/kyushu/kumamoto/174974" }
+    {
+      "type": "official",
+      "title": "黒川温泉の旅館 山みず木オフィシャルサイト【阿蘇・熊本】",
+      "url": "https://yamamizuki.com/"
+    },
+    {
+      "type": "official",
+      "title": "アクセス｜黒川温泉の旅館 山みず木オフィシャルサイト",
+      "url": "https://www.yamamizuki.com/access/"
+    },
+    {
+      "type": "official",
+      "title": "黒川温泉公式サイト｜山みず木｜熊本・阿蘇の温泉地",
+      "url": "https://www.kurokawaonsen.or.jp/oyado/innInfo.php?intYKey=22"
+    },
+    {
+      "type": "review_site",
+      "title": "黒川温泉 山あいの宿 山みず木（Yamamizuki） - Google ホテル",
+      "url": "https://www.google.co.jp/travel/hotels/entity/CgsItrXVwMqOgZG4ARAB"
+    },
+    {
+      "type": "review_site",
+      "title": "黒川温泉 山あいの宿 山みず木 - 宿泊予約・クチコミ - Yahoo!トラベル",
+      "url": "https://travel.yahoo.co.jp/00001801/"
+    },
+    {
+      "type": "booking_site",
+      "title": "黒川温泉 山あいの宿 山みず木 - じゃらんnet",
+      "url": "https://www.jalan.net/yad356096/"
+    },
+    {
+      "type": "other",
+      "title": "【2025年】黒川温泉の紅葉スポット6選 - Relux Journal",
+      "url": "https://rlx.jp/journal/kyushu/kumamoto/174974"
+    }
   ],
-  "created_date": "2026-09-14"
+  "created_date": "2026-09-14",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

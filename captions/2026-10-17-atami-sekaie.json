@@ -11,7 +11,13 @@
     "2026年9月14日から寝具ブランド『TENTIAL』とのコラボ『スリープリトリート滞在』プランを開始しており、情報の新しさも確認できた。"
   ],
   "evaluation_basis": "100点満点中84点（口コミ評価23/25・口コミ信頼性12/15・独自体験19/20・映え13/15・価格対体験価値6/10・SNS話題性6/10・アクセス/鮮度5/5）。Skyticket4.8（1,183件）・Kayak9.4/10（156件）の2つの独立情報源で推奨ライン4.2以上を大きく上回る評価を確認（原則6・7）。同じ熱海エリアの亀の井ホテル熱海・オーベルジュフォンテーヌブロー熱海は、絶景・独自性は魅力があるものの、本館別館の混在や件数が極端に少ない評価しか確認できず原則7未達として見送り、十分な件数の裏付けがある本候補を選定した。",
-  "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "絶景好き"],
+  "target_audience": [
+    "カップル",
+    "記念日",
+    "夫婦",
+    "温泉好き",
+    "絶景好き"
+  ],
   "why_now": "熱海は10月中旬以降、日中の残暑が落ち着き夜の空気が澄むため、相模湾を見下ろす客室露天風呂での湯あみが一年で特に心地よい季節に入る。2026年9月14日開始の『スリープリトリート滞在』プランは、秋の夜長にゆっくり滞在を楽しみたい今のタイミングに合う新プランとして注目できる。",
   "price_note": "海外向け掲載情報では大人2名1室利用時1名あたり39,886円〜という目安を確認。TENTIALコラボの『スリープリトリート滞在』プランは1室2名1泊2食（税・サービス料込、入湯税別）142,780円〜という表示があった。いずれも参考値で、現在の正確な料金・プラン内容は公式窓口で要確認。",
   "access_note": "静岡県熱海市伊豆山269-1。熱海駅から無料送迎あり（車で約5分、事前連絡が必要）。",
@@ -20,15 +26,58 @@
     "tiktok": "熱海に、全室オーシャンビューの源泉露天風呂がある宿、知ってる？🌊\n『ATAMI せかいえ』、全25室すべて相模湾を見下ろす露天風呂付き。\n2棟構成で、棟ごとに違う食事体験も。\n9月からは『TENTIAL』とのコラボ安眠プランも登場。\nSkyticket1,183件で4.8、Kayakも156件で9.4/10の高評価。\n熱海の夜景と温泉、保存しておこう。"
   },
   "hashtags": [
-    "#ATAMIせかいえ", "#熱海旅行", "#伊豆山温泉", "#熱海温泉", "#絶景ホテル",
-    "#温泉旅館", "#源泉掛け流し", "#記念日旅行", "#夫婦旅", "#絶景好き",
-    "#国内旅行", "#贅沢旅"
+    "#ATAMIせかいえ",
+    "#熱海旅行",
+    "#伊豆山温泉",
+    "#熱海温泉",
+    "#絶景ホテル",
+    "#温泉旅館",
+    "#源泉掛け流し",
+    "#記念日旅行",
+    "#夫婦旅",
+    "#絶景好き",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "booking_site", "title": "ATAMI せかいえ - Skyticket", "url": "https://skyticket.jp/hotel/detail/property_12021/" },
-    { "type": "booking_site", "title": "Atami Sekaie - Kayak", "url": "https://www.kayak.ie/Atami-Hotels-Atami-Sekaie.3651215.ksp" },
-    { "type": "other", "title": "A Hidden Luxury, ATAMI Sekaie - halalmedia", "url": "https://halalmedia.jp/archives/31839/japan-hot-spring-resort-atami-sekaie/" },
-    { "type": "press", "title": "ATAMI Sekaie Launches \"Sleep Retreat Plan\" Pairing Hot Springs, Cuisine and Wellness", "url": "https://haveagood-holiday.com/en/articles/atami-sekaie-sleep-retreat-plan" }
+    {
+      "type": "booking_site",
+      "title": "ATAMI せかいえ - Skyticket",
+      "url": "https://skyticket.jp/hotel/detail/property_12021/"
+    },
+    {
+      "type": "booking_site",
+      "title": "Atami Sekaie - Kayak",
+      "url": "https://www.kayak.ie/Atami-Hotels-Atami-Sekaie.3651215.ksp"
+    },
+    {
+      "type": "other",
+      "title": "A Hidden Luxury, ATAMI Sekaie - halalmedia",
+      "url": "https://halalmedia.jp/archives/31839/japan-hot-spring-resort-atami-sekaie/"
+    },
+    {
+      "type": "press",
+      "title": "ATAMI Sekaie Launches \"Sleep Retreat Plan\" Pairing Hot Springs, Cuisine and Wellness",
+      "url": "https://haveagood-holiday.com/en/articles/atami-sekaie-sleep-retreat-plan"
+    }
   ],
-  "created_date": "2026-10-17"
+  "created_date": "2026-10-17",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

@@ -11,7 +11,12 @@
     "女性専用設備やベビーシッター紹介サービスなど、ファミリー・女子旅にも配慮された運営体制が整っている。"
   ],
   "evaluation_basis": "100点満点中75点（口コミ評価24/25・口コミ信頼性12/15・独自体験14/20・映え10/15・価格対体験価値6/10・SNS話題性5/10・アクセス/鮮度4/5）。なっぷ4.8（約87件）・楽天トラベル5.0（4件）の2つの独立情報源で推奨ライン4.2以上を確認。低評価レビューは本セッションの検索範囲では見つからなかったが、口コミ本文を直接確認できるサイト（Googleマップ・楽天トラベル個別レビュー等）はネットワーク制限で閲覧できず、かつWebSearch実行回数上限に到達したため追加確認ができなかった。また具体的な宿泊料金もネットワーク制限のため未確認のため、価格対体験価値とSNS話題性の配点は保守的にとどめた点は留意事項として記録する。",
-  "target_audience": ["家族", "カップル", "友人", "女子旅"],
+  "target_audience": [
+    "家族",
+    "カップル",
+    "友人",
+    "女子旅"
+  ],
   "why_now": "10月中旬〜11月上旬の白浜は、海水浴シーズンが終わり朝晩が涼しくなる一方、日中は過ごしやすい『グランピング本番』の時期。夏の喧騒が落ち着いた分、焚き火・BBQ・星空観賞をゆったり楽しめるタイミングで、海まで徒歩30秒のビーチサイドで過ごす夜そのものの魅力が際立つ季節。",
   "price_note": "具体的な宿泊料金は本セッションのネットワーク制限により確認できなかった。寝具・エアコン・シャワー完備のロッジ泊から、電源・水道のないワイルドエリアまで複数のサイトタイプがあり、プランにより価格差が大きいと見込まれる。金額は予約前に公式予約ページ（なっぷ）でご確認ください。",
   "access_note": "和歌山県西牟婁郡白浜町、白良浜エリア。阪和自動車道 南紀白浜ICから車で約15分。",
@@ -20,14 +25,53 @@
     "tiktok": "海まで徒歩30秒のグランピング、知ってる？⛺\n和歌山・白浜『ルアナパーク白浜』。\nロッジ泊から電源なしワイルドエリアまで選べる。\nなっぷの口コミ約87件で4.8の高評価。\n白浜温泉やアドベンチャーワールドも近い、秋の海沿いステイ、保存しておこう。"
   },
   "hashtags": [
-    "#ルアナパーク白浜", "#白浜", "#南紀白浜", "#和歌山旅行", "#グランピング",
-    "#白良浜", "#ビーチグランピング", "#キャンプ女子", "#家族旅行", "#秋旅行",
-    "#国内旅行", "#贅沢旅"
+    "#ルアナパーク白浜",
+    "#白浜",
+    "#南紀白浜",
+    "#和歌山旅行",
+    "#グランピング",
+    "#白良浜",
+    "#ビーチグランピング",
+    "#キャンプ女子",
+    "#家族旅行",
+    "#秋旅行",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "booking_site", "title": "Camp&Lodge LUANAPARK SHIRAHAMA（キャンプ＆ロッジ ルアナパーク白浜） - なっぷ", "url": "https://www.nap-camp.com/wakayama/13429" },
-    { "type": "booking_site", "title": "キャンプ＆ロッジ ルアナパーク白浜 - 楽天トラベル", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/188433" },
-    { "type": "review_site", "title": "ルアナパーク白浜 - フォートラベル（施設情報・アクセス）", "url": "https://4travel.jp/dm_hotel-11987887" }
+    {
+      "type": "booking_site",
+      "title": "Camp&Lodge LUANAPARK SHIRAHAMA（キャンプ＆ロッジ ルアナパーク白浜） - なっぷ",
+      "url": "https://www.nap-camp.com/wakayama/13429"
+    },
+    {
+      "type": "booking_site",
+      "title": "キャンプ＆ロッジ ルアナパーク白浜 - 楽天トラベル",
+      "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/188433"
+    },
+    {
+      "type": "review_site",
+      "title": "ルアナパーク白浜 - フォートラベル（施設情報・アクセス）",
+      "url": "https://4travel.jp/dm_hotel-11987887"
+    }
   ],
-  "created_date": "2026-10-17"
+  "created_date": "2026-10-17",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

@@ -11,7 +11,11 @@
     "仙台の奥座敷という好立地で、仙台市内からのアクセスも良い。"
   ],
   "evaluation_basis": "100点満点中76点（口コミ評価20/25・口コミ信頼性14/15・独自体験15/20・映え11/15・価格対体験価値7/10・SNS話題性5/10・アクセス/鮮度4/5）。楽天トラベル4.12（1,574件）・一休.com4.03（36件）・Yahoo!トラベル4.08（34件）の3つの独立情報源で推奨ライン4.0以上を確認。同エリアの佐勘（総合スコアは僅差で上）は複数の独立したレビューで清潔感・臭気への一致した指摘があったため見送り、本候補を選定した。",
-  "target_audience": ["夫婦", "家族", "温泉好き"],
+  "target_audience": [
+    "夫婦",
+    "家族",
+    "温泉好き"
+  ],
   "why_now": "秋保温泉は10月中旬以降に紅葉が本格化するエリア。9月下旬は残暑が落ち着き始め、紅葉シーズン本番前の予約検討が始まるタイミングに適する。",
   "price_note": "2名1室利用時、税込1名16,000円〜（プランにより1名13,600円〜の表示も確認）。夕食は仙台黒毛和牛・三陸の海の幸を使った全11品の会席料理「曲水膳」、朝食は和洋中50種類以上のバイキング。",
   "access_note": "宮城県仙台市太白区秋保町。仙台市内から車で約30分の「仙台の奥座敷」。",
@@ -20,15 +24,58 @@
     "tiktok": "東北で珍しい畳敷きの大浴場がある温泉宿、知ってる？♨️\n仙台・秋保温泉『蘭亭』、野天風呂には日差し除けの笠も。\n黒毛和牛の会席料理、朝食は50種類以上のバイキング。\n楽天1,574件で4.12、一休でも4.03の高評価。\n紅葉前の仙台旅、保存しておこう。"
   },
   "hashtags": [
-    "#秋保温泉", "#仙台旅行", "#蘭亭", "#温泉旅館", "#仙台の奥座敷",
-    "#東北旅行", "#夫婦旅", "#家族旅行", "#秋旅行", "#宮城旅行",
-    "#国内旅行", "#贅沢旅"
+    "#秋保温泉",
+    "#仙台旅行",
+    "#蘭亭",
+    "#温泉旅館",
+    "#仙台の奥座敷",
+    "#東北旅行",
+    "#夫婦旅",
+    "#家族旅行",
+    "#秋旅行",
+    "#宮城旅行",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "official", "title": "秋保温泉 旅館 蘭亭【公式】", "url": "https://www.akiu-rantei.com/" },
-    { "type": "review_site", "title": "奥州秋保温泉 蘭亭 に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/9295/review.html" },
-    { "type": "review_site", "title": "奥州秋保温泉 蘭亭 - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00030186/review/" },
-    { "type": "review_site", "title": "奥州秋保温泉 蘭亭 - クチコミ・評判 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00030186/review/" }
+    {
+      "type": "official",
+      "title": "秋保温泉 旅館 蘭亭【公式】",
+      "url": "https://www.akiu-rantei.com/"
+    },
+    {
+      "type": "review_site",
+      "title": "奥州秋保温泉 蘭亭 に実際に泊まった方のクチコミ・レビュー【楽天トラベル】",
+      "url": "https://travel.rakuten.co.jp/HOTEL/9295/review.html"
+    },
+    {
+      "type": "review_site",
+      "title": "奥州秋保温泉 蘭亭 - クチコミ・評判 - 一休.com",
+      "url": "https://www.ikyu.com/00030186/review/"
+    },
+    {
+      "type": "review_site",
+      "title": "奥州秋保温泉 蘭亭 - クチコミ・評判 - Yahoo!トラベル",
+      "url": "https://travel.yahoo.co.jp/00030186/review/"
+    }
   ],
-  "created_date": "2026-09-20"
+  "created_date": "2026-09-20",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

@@ -11,7 +11,12 @@
     "金沢の職人・作家と協業したワークショップという、旅の記念になる独自体験がある。"
   ],
   "evaluation_basis": "100点満点中80点（口コミ評価22/25・口コミ信頼性13/15・独自体験15/20・映え12/15・価格対体験価値8/10・SNS話題性6/10・アクセス/鮮度4/5）。楽天トラベル4.59（130件）・じゃらん4.5相当（90件）の2つの独立情報源で推奨ライン4.2以上を確認。町家一棟貸し系の候補と比較検討したが、レビュー件数の少なさ（12〜17件）により信頼性面で本候補を優先した。",
-  "target_audience": ["カップル", "女子旅", "ホテル好き", "一人旅"],
+  "target_audience": [
+    "カップル",
+    "女子旅",
+    "ホテル好き",
+    "一人旅"
+  ],
   "why_now": "9月下旬〜10月は北陸の残暑が落ち着き、兼六園周辺や茶屋街の散策に適した気候になる時期。紅葉本番（11月）の前に、街歩きと宿泊を組み合わせた金沢旅の需要が高まり始めるタイミング。",
   "price_note": "2名1室利用時、素泊まりで1室10,485円〜（1名あたり約5,243円〜）。客室タイプ・時期により変動し、上位カテゴリの客室はより高額。",
   "access_note": "近江町市場の目の前。金沢駅から徒歩約15分、または周遊バスでアクセス可能。",
@@ -20,15 +25,57 @@
     "tiktok": "近江町市場の目の前にあるデザイナーズホテル、知ってる？🐟\n金沢『SOKI KANAZAWA』、全130室。\n木の香りと和デザイン、地元作家とのワークショップも。\n楽天130件で4.59、じゃらんでも高評価。\n金沢旅の起点に、保存しておこう。"
   },
   "hashtags": [
-    "#SOKIKANAZAWA", "#金沢旅行", "#近江町市場", "#金沢観光", "#デザイナーズホテル",
-    "#北陸旅行", "#女子旅", "#一人旅", "#国内旅行", "#秋旅行",
+    "#SOKIKANAZAWA",
+    "#金沢旅行",
+    "#近江町市場",
+    "#金沢観光",
+    "#デザイナーズホテル",
+    "#北陸旅行",
+    "#女子旅",
+    "#一人旅",
+    "#国内旅行",
+    "#秋旅行",
     "#贅沢旅"
   ],
   "sources": [
-    { "type": "official", "title": "SOKI KANAZAWA | UDS HOTELS 公式サイト", "url": "https://www.uds-hotels.com/soki/kanazawa/" },
-    { "type": "review_site", "title": "SOKI KANAZAWA - クチコミ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/184496/review.html" },
-    { "type": "review_site", "title": "SOKI KANAZAWA（2022年11月19日OPEN）の口コミ・評判履歴 - 宿泊予約は＜じゃらん＞", "url": "https://www.jalan.net/yad357681/kuchikomi/archive/" },
-    { "type": "press", "title": "都市型観光ホテル「SOKI KANAZAWA」秋オープン。金沢の台所・近江町市場の目の前に全130室 - トラベル Watch", "url": "https://travel.watch.impress.co.jp/docs/news/1431023.html" }
+    {
+      "type": "official",
+      "title": "SOKI KANAZAWA | UDS HOTELS 公式サイト",
+      "url": "https://www.uds-hotels.com/soki/kanazawa/"
+    },
+    {
+      "type": "review_site",
+      "title": "SOKI KANAZAWA - クチコミ - 楽天トラベル",
+      "url": "https://travel.rakuten.co.jp/HOTEL/184496/review.html"
+    },
+    {
+      "type": "review_site",
+      "title": "SOKI KANAZAWA（2022年11月19日OPEN）の口コミ・評判履歴 - 宿泊予約は＜じゃらん＞",
+      "url": "https://www.jalan.net/yad357681/kuchikomi/archive/"
+    },
+    {
+      "type": "press",
+      "title": "都市型観光ホテル「SOKI KANAZAWA」秋オープン。金沢の台所・近江町市場の目の前に全130室 - トラベル Watch",
+      "url": "https://travel.watch.impress.co.jp/docs/news/1431023.html"
+    }
   ],
-  "created_date": "2026-09-14"
+  "created_date": "2026-09-14",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

@@ -11,7 +11,11 @@
     "スタッフの対応・清潔感・食事について好意的な口コミが中心で、安心感がある。"
   ],
   "evaluation_basis": "100点満点中76点（口コミ評価23/25・口コミ信頼性11/15・独自体験17/20・映え12/15・価格対体験価値6/10・SNS話題性4/10・アクセス/鮮度3/5）。楽天トラベル4.80（49件）・トラベルコ4.8（10件）の2つの独立情報源で推奨ライン4.2以上を確認。HIS旅プロでは3.36（24件）という低い評価表示もあったが、他の複数サイト・個別レビューの内容と整合しないため参考値にとどめた。",
-  "target_audience": ["カップル", "記念日", "絶景好き"],
+  "target_audience": [
+    "カップル",
+    "記念日",
+    "絶景好き"
+  ],
   "why_now": "慶良間諸島は9月下旬〜11月に台風シーズンが落ち着き始め、夏の混雑・料金のピークを過ぎても十分に泳げる『狙い目』シーズンにあたる。",
   "price_note": "トラベルコ最安表示で39,100円〜（1泊2食付き想定）。2017年改装、全7室の少人数制リゾートのため価格帯は高め。",
   "access_note": "沖縄県島尻郡渡嘉敷村・渡嘉敷島。那覇からのフェリー・高速船でのアクセスとなる（詳細は公式サイトで要確認）。",
@@ -20,15 +24,58 @@
     "tiktok": "慶良間諸島に、全7室だけのリゾートがあるって知ってる？🐠\n渡嘉敷島『ケラマテラス』、大人向けの静かな離島リゾート。\n透明度抜群の『ケラマブルー』でダイビング・シュノーケリング。\n楽天49件で4.80、トラベルコでも4.8の高評価。\n狙い目シーズンの今、保存しておこう。"
   },
   "hashtags": [
-    "#ケラマテラス", "#渡嘉敷島", "#慶良間諸島", "#沖縄旅行", "#ケラマブルー",
-    "#離島リゾート", "#ダイビング旅行", "#記念日旅行", "#夫婦旅", "#秋の沖縄",
-    "#国内旅行", "#贅沢旅"
+    "#ケラマテラス",
+    "#渡嘉敷島",
+    "#慶良間諸島",
+    "#沖縄旅行",
+    "#ケラマブルー",
+    "#離島リゾート",
+    "#ダイビング旅行",
+    "#記念日旅行",
+    "#夫婦旅",
+    "#秋の沖縄",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "official", "title": "慶良間諸島「渡嘉敷島」の隠れ家ホテル「ケラマテラス」", "url": "https://www.keramaterrace.jp/" },
-    { "type": "review_site", "title": "ケラマテラス ＜渡嘉敷島＞ に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/130626/review.html" },
-    { "type": "booking_site", "title": "ケラマテラス ＜渡嘉敷島＞の宿泊予約｜トラベルコ", "url": "https://www.tour.ne.jp/j_hotel/14648/" },
-    { "type": "other", "title": "渡嘉敷島「ケラマテラス」ブログで口コミ！ロフト部屋宿泊記", "url": "https://zizitabi.com/entry/keramaterrace" }
+    {
+      "type": "official",
+      "title": "慶良間諸島「渡嘉敷島」の隠れ家ホテル「ケラマテラス」",
+      "url": "https://www.keramaterrace.jp/"
+    },
+    {
+      "type": "review_site",
+      "title": "ケラマテラス ＜渡嘉敷島＞ に実際に泊まった方のクチコミ・レビュー【楽天トラベル】",
+      "url": "https://travel.rakuten.co.jp/HOTEL/130626/review.html"
+    },
+    {
+      "type": "booking_site",
+      "title": "ケラマテラス ＜渡嘉敷島＞の宿泊予約｜トラベルコ",
+      "url": "https://www.tour.ne.jp/j_hotel/14648/"
+    },
+    {
+      "type": "other",
+      "title": "渡嘉敷島「ケラマテラス」ブログで口コミ！ロフト部屋宿泊記",
+      "url": "https://zizitabi.com/entry/keramaterrace"
+    }
   ],
-  "created_date": "2026-09-21"
+  "created_date": "2026-09-21",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

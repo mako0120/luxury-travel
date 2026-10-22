@@ -11,7 +11,13 @@
     "単独インスタグラムアカウント（21K人フォロー）を持つほどのSNS上の知名度。"
   ],
   "evaluation_basis": "100点満点中85点（口コミ評価23/25・口コミ信頼性11/15・独自体験19/20・映え14/15・価格対体験価値6/10・SNS話題性8/10・アクセス/鮮度4/5）。主要レビューサイト評価4.8（推奨ライン4.2を大きく上回る）、口コミ件数84件。過去に台風による停電・断水の事例はあったが天候起因の単発事例であり、清潔感・接客・料理面での継続的な低評価は確認できなかった。",
-  "target_audience": ["夫婦", "記念日", "カップル", "絶景好き", "ホテル好き"],
+  "target_audience": [
+    "夫婦",
+    "記念日",
+    "カップル",
+    "絶景好き",
+    "ホテル好き"
+  ],
   "why_now": "秋は空気が澄み、日没時刻も早まって夕景〜夜景のコントラストが強く出る季節。瀬戸内海のような『昼は海、夜は灯り』という眺望型の体験は、夏の強い日差しより秋の澄んだ空気の方が写真映えしやすい。",
   "price_note": "JTB掲載プランで2名1室利用時1名あたり1泊2食付き68,000円〜190,200円（税込）の幅を確認。別のプラン表示では1名あたり56,700円〜という記載もあり、時期・部屋タイプ・食事内容によって大きく変動する。全7室のオールスイートで、比較的高価格帯。",
   "access_note": "愛媛県松山市柳谷町。詳細アクセスは公式サイトで要確認。",
@@ -20,16 +26,63 @@
     "tiktok": "安藤忠雄建築×瀬戸内海、全7室だけの宿知ってる？🌊\n『瀬戸内リトリート青凪』、ミシュランキー2年連続選出。\n全長30mのインフィニティプールが海と一体化。\nReluxの口コミ84件で4.8の高評価。\n秋の瀬戸内旅、保存しておこう。"
   },
   "hashtags": [
-    "#瀬戸内リトリート青凪", "#愛媛旅行", "#松山観光", "#瀬戸内海", "#安藤忠雄",
-    "#絶景ホテル", "#記念日旅行", "#夫婦旅", "#ミニマルラグジュアリー", "#秋旅行",
-    "#国内旅行", "#贅沢旅"
+    "#瀬戸内リトリート青凪",
+    "#愛媛旅行",
+    "#松山観光",
+    "#瀬戸内海",
+    "#安藤忠雄",
+    "#絶景ホテル",
+    "#記念日旅行",
+    "#夫婦旅",
+    "#ミニマルラグジュアリー",
+    "#秋旅行",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "official", "title": "瀬戸内リトリート青凪 by 温故知新 公式サイト", "url": "https://setouchi.by-onko-chishin.com/" },
-    { "type": "press", "title": "ミシュランガイドのホテルセレクション「ミシュランキー2025」において、瀬戸内リトリート青凪が「1ミシュランキー」掲載", "url": "https://setouchi.by-onko-chishin.com/16897/" },
-    { "type": "review_site", "title": "瀬戸内リトリート青凪の口コミ（レビュー） - Relux", "url": "https://rlx.jp/22476/review/" },
-    { "type": "review_site", "title": "瀬戸内リトリート 青凪 by 温故知新 - クチコミ・評判 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00002197/review/yahoomap/" },
-    { "type": "sns", "title": "瀬戸内リトリート青凪 by 温故知新 公式Instagram（@okcs_setouchi_aonagi）", "url": "https://www.instagram.com/okcs_setouchi_aonagi/" }
+    {
+      "type": "official",
+      "title": "瀬戸内リトリート青凪 by 温故知新 公式サイト",
+      "url": "https://setouchi.by-onko-chishin.com/"
+    },
+    {
+      "type": "press",
+      "title": "ミシュランガイドのホテルセレクション「ミシュランキー2025」において、瀬戸内リトリート青凪が「1ミシュランキー」掲載",
+      "url": "https://setouchi.by-onko-chishin.com/16897/"
+    },
+    {
+      "type": "review_site",
+      "title": "瀬戸内リトリート青凪の口コミ（レビュー） - Relux",
+      "url": "https://rlx.jp/22476/review/"
+    },
+    {
+      "type": "review_site",
+      "title": "瀬戸内リトリート 青凪 by 温故知新 - クチコミ・評判 - Yahoo!トラベル",
+      "url": "https://travel.yahoo.co.jp/00002197/review/yahoomap/"
+    },
+    {
+      "type": "sns",
+      "title": "瀬戸内リトリート青凪 by 温故知新 公式Instagram（@okcs_setouchi_aonagi）",
+      "url": "https://www.instagram.com/okcs_setouchi_aonagi/"
+    }
   ],
-  "created_date": "2026-09-14"
+  "created_date": "2026-09-14",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

@@ -11,7 +11,13 @@
     "五島のシンボル『鬼岳』の火山地形が生んだ溶岩海岸という、ここでしか見られない景観を客室から独り占めできる。"
   ],
   "evaluation_basis": "100点満点中85点（口コミ評価23/25・口コミ信頼性11/15・独自体験19/20・映え14/15・価格対体験価値7/10・SNS話題性6/10・アクセス/鮮度5/5）。楽天トラベル4.71（46件）・Relux4.6（7件）の2つの独立情報源で推奨ライン4.2を上回る評価を確認。比較検討した五島コンカナ王国ワイナリー＆リゾート（フォートラベル3.49・49件のみで4.0未満、総合63点）、hotel sou（skyticket4.8・115件とフォートラベル3.15・1件で評価が大きく割れ信頼できる独立2件を確定できず、全3室の小規模ゲストハウスで方向性も異なる、総合59点）は、いずれも採用ライン（75点）に届かず見送った。",
-  "target_audience": ["夫婦", "記念日", "カップル", "絶景好き", "ホテル好き"],
+  "target_audience": [
+    "夫婦",
+    "記念日",
+    "カップル",
+    "絶景好き",
+    "ホテル好き"
+  ],
   "why_now": "五島列島は台風ピークが過ぎた10月中旬〜下旬、海の透明度が上がり秋晴れが増える狙い目シーズン。2026年2月から全26室の露天風呂が天然温泉『荒川温泉』に切り替わっており、海を眺めながら温泉に浸かれる贅沢を今だからこそ味わえるタイミング。",
   "price_note": "2名1室利用時1名あたり、オーシャンビュー温泉露天セミダブル（34平米）で37,000円台〜、スーペリア（58平米）で51,700円台〜、1日1室限定のファミリーデラックス（70平米）で80,600円台〜という予約サイトの表示を確認（朝夕食付、税込）。時期・プランにより変動するため、予約時に公式サイトで最新料金をご確認ください。",
   "access_note": "福江空港から車で約10分、福江港から車で約15分。",
@@ -20,16 +26,63 @@
     "tiktok": "長崎・五島列島に、全室露天風呂が天然温泉になったリゾートがあるの知ってた?🌋\n五島リトリート ray by 温故知新、全26室オーシャンフロント。\n2026年2月から荒川温泉を引いた天然温泉に。\nミシュラン1キーを2年連続獲得、グッドデザイン賞も受賞。\n楽天トラベル46件で4.71、Reluxでも4.6の高評価。\n台風ピークが過ぎた今の五島、保存しておこう。"
   },
   "hashtags": [
-    "#五島列島", "#五島リトリートray", "#五島市", "#福江島", "#離島リゾート",
-    "#長崎旅行", "#温泉旅行", "#ミシュランキー", "#カップル旅行", "#記念日旅行",
-    "#秋の離島旅", "#国内旅行"
+    "#五島列島",
+    "#五島リトリートray",
+    "#五島市",
+    "#福江島",
+    "#離島リゾート",
+    "#長崎旅行",
+    "#温泉旅行",
+    "#ミシュランキー",
+    "#カップル旅行",
+    "#記念日旅行",
+    "#秋の離島旅",
+    "#国内旅行"
   ],
   "sources": [
-    { "type": "official", "title": "五島リトリート ray by 温故知新 公式サイト", "url": "https://goto.by-onko-chishin.com/" },
-    { "type": "booking_site", "title": "五島リトリート ray by 温故知新 クチコミ・評判 - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/184350/review.html" },
-    { "type": "review_site", "title": "五島リトリート ray by 温故知新 レビュー - Relux", "url": "https://rlx.jp/26011/review/" },
-    { "type": "other", "title": "五島リトリート ray by 温故知新 - ミシュランガイド", "url": "https://guide.michelin.com/jp/ja/hotels-stays/goto/okcs-retreat-goto-ray-12784" },
-    { "type": "press", "title": "全26室の露天風呂を温泉化（荒川温泉引湯）- プレスリリース", "url": "https://san-tatsu.jp/pressrelease/490920/" }
+    {
+      "type": "official",
+      "title": "五島リトリート ray by 温故知新 公式サイト",
+      "url": "https://goto.by-onko-chishin.com/"
+    },
+    {
+      "type": "booking_site",
+      "title": "五島リトリート ray by 温故知新 クチコミ・評判 - 楽天トラベル",
+      "url": "https://travel.rakuten.co.jp/HOTEL/184350/review.html"
+    },
+    {
+      "type": "review_site",
+      "title": "五島リトリート ray by 温故知新 レビュー - Relux",
+      "url": "https://rlx.jp/26011/review/"
+    },
+    {
+      "type": "other",
+      "title": "五島リトリート ray by 温故知新 - ミシュランガイド",
+      "url": "https://guide.michelin.com/jp/ja/hotels-stays/goto/okcs-retreat-goto-ray-12784"
+    },
+    {
+      "type": "press",
+      "title": "全26室の露天風呂を温泉化（荒川温泉引湯）- プレスリリース",
+      "url": "https://san-tatsu.jp/pressrelease/490920/"
+    }
   ],
-  "created_date": "2026-10-18"
+  "created_date": "2026-10-18",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

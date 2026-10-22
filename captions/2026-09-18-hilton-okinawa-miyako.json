@@ -11,7 +11,12 @@
     "秋は宮古島の混雑・航空券高騰が落ち着きつつも、まだ海で遊べる『狙い目』シーズン。"
   ],
   "evaluation_basis": "100点満点中81点（口コミ評価22/25・口コミ件数信頼性9/15・独自体験17/20・映え14/15・価格対体験価値6/10・SNS話題性8/10・アクセス/鮮度5/5）。一休.com4.18（69件）、楽天トラベル4.37（126件）といずれも4.0以上をクリア。Tripadvisorでは『オペレーションがとにかく残念』という声もあり、チェックイン対応やレストランの混雑、隣接工事への言及もあったが、清潔感・安全性に関わる重大な指摘ではない。",
-  "target_audience": ["夫婦", "記念日", "ホテル好き", "絶景好き"],
+  "target_audience": [
+    "夫婦",
+    "記念日",
+    "ホテル好き",
+    "絶景好き"
+  ],
   "why_now": "宮古島は年間を通じて海水温が高く、本土の夏が終わった9月下旬〜11月頃でもマリンアクティビティが楽しめる希少なシーズン。台風シーズンのピークも過ぎ始め、夏の混雑・航空券高騰が落ち着く『狙い目』のタイミングで、2026年春の姉妹ホテル開業も控え、今まさに注目度が上がっているエリア。",
   "price_note": "大人2名・1泊合計で33,225円〜261,030円という幅広い価格帯情報を確認（部屋タイプ・時期により大きく変動）。価格は検索日・対象日・プランにより変動するため、予約前に公式サイトで要確認。",
   "access_note": "宮古空港から車で約15分、下地島空港から車で約25分。宮古島市平良のトゥリバー地区に立地。",
@@ -20,16 +25,63 @@
     "tiktok": "宮古島に2022年開業した新しいホテルが今ちょっと話題🌊\n『ヒルトン沖縄宮古島リゾート』\n伊良部大橋を望むルーフトップバー、屋内外あわせて5つのプール。\n一休.com4.18、楽天トラベル4.37の高評価。\n2026年春には隣に姉妹ホテルもオープン予定。\n宮古島、まだ泳げるうちに保存しておこう。"
   },
   "hashtags": [
-    "#宮古島旅行", "#宮古島", "#ヒルトン沖縄宮古島リゾート", "#宮古ブルー", "#伊良部大橋",
-    "#離島リゾート", "#沖縄旅行", "#沖縄離島", "#記念日旅行", "#夫婦旅",
-    "#絶景ホテル", "#国内旅行"
+    "#宮古島旅行",
+    "#宮古島",
+    "#ヒルトン沖縄宮古島リゾート",
+    "#宮古ブルー",
+    "#伊良部大橋",
+    "#離島リゾート",
+    "#沖縄旅行",
+    "#沖縄離島",
+    "#記念日旅行",
+    "#夫婦旅",
+    "#絶景ホテル",
+    "#国内旅行"
   ],
   "sources": [
-    { "type": "official", "title": "ヒルトン沖縄宮古島リゾート 公式サイト", "url": "https://www.hilton.com/ja/hotels/okamihi-hilton-okinawa-miyako-island-resort/" },
-    { "type": "review_site", "title": "ヒルトン沖縄宮古島リゾート - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00003061/review/" },
-    { "type": "review_site", "title": "ヒルトン沖縄宮古島リゾート＜宮古島＞ に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/187475/review.html" },
-    { "type": "review_site", "title": "オペレーションがとにかく残念 - ヒルトン沖縄宮古島リゾートの口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g680765-d25352350-r920639486-Hilton_Okinawa_Miyako_Island_Resort-Miyakojima_Okinawa_Prefecture_Kyushu.html" },
-    { "type": "other", "title": "ヒルトン沖縄宮古島リゾート 料金比較・宿泊予約 - 価格.com", "url": "https://travel.kakaku.com/%E5%9B%BD%E5%86%85%E5%AE%BF%E6%B3%8A%E4%BA%88%E7%B4%84/%E3%83%92%E3%83%AB%E3%83%88%E3%83%B3%E6%B2%96%E7%B8%84%E5%AE%AE%E5%8F%A4%E5%B3%B6%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88-11949730/" }
+    {
+      "type": "official",
+      "title": "ヒルトン沖縄宮古島リゾート 公式サイト",
+      "url": "https://www.hilton.com/ja/hotels/okamihi-hilton-okinawa-miyako-island-resort/"
+    },
+    {
+      "type": "review_site",
+      "title": "ヒルトン沖縄宮古島リゾート - クチコミ・評判 - 一休.com",
+      "url": "https://www.ikyu.com/00003061/review/"
+    },
+    {
+      "type": "review_site",
+      "title": "ヒルトン沖縄宮古島リゾート＜宮古島＞ に実際に泊まった方のクチコミ・レビュー【楽天トラベル】",
+      "url": "https://travel.rakuten.co.jp/HOTEL/187475/review.html"
+    },
+    {
+      "type": "review_site",
+      "title": "オペレーションがとにかく残念 - ヒルトン沖縄宮古島リゾートの口コミ - トリップアドバイザー",
+      "url": "https://www.tripadvisor.jp/ShowUserReviews-g680765-d25352350-r920639486-Hilton_Okinawa_Miyako_Island_Resort-Miyakojima_Okinawa_Prefecture_Kyushu.html"
+    },
+    {
+      "type": "other",
+      "title": "ヒルトン沖縄宮古島リゾート 料金比較・宿泊予約 - 価格.com",
+      "url": "https://travel.kakaku.com/%E5%9B%BD%E5%86%85%E5%AE%BF%E6%B3%8A%E4%BA%88%E7%B4%84/%E3%83%92%E3%83%AB%E3%83%88%E3%83%B3%E6%B2%96%E7%B8%84%E5%AE%AE%E5%8F%A4%E5%B3%B6%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88-11949730/"
+    }
   ],
-  "created_date": "2026-09-18"
+  "created_date": "2026-09-18",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

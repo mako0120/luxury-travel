@@ -11,7 +11,12 @@
     "2022年開業から継続営業し、2026年4月からの宿泊税対応も予約ページに反映されており、情報の鮮度・運営の安定感も確認できる。"
   ],
   "evaluation_basis": "100点満点中77点（口コミ評価22/25・口コミ信頼性9/15・独自体験17/20・映え13/15・価格対体験価値7/10・SNS話題性6/10・アクセス/鮮度3/5）。Yahoo!マップ4.72（11件）・楽天トラベル4.60（18件）の2つの独立情報源で推奨ライン4.2以上を上回る評価を確認（原則6・7）。食べログの評価（2件・3.04）は件数が少なすぎるため参考情報にとどめ、採点の主根拠には使用していない。同じ生口島の『グランドーム瀬戸内しまなみ』（Yahoo!マップ4.0・2件のみ）、新施設『LIT SHIMANAMI』（Dinogo10/10・2件のみ）は第二の独立した数値評価が確認できず、高根島の『グランヴィレッジ瀬戸内しまなみ』は数値評価自体が確認できなかったため、いずれも見送った。",
-  "target_audience": ["カップル", "記念日", "絶景好き", "家族"],
+  "target_audience": [
+    "カップル",
+    "記念日",
+    "絶景好き",
+    "家族"
+  ],
   "why_now": "10月下旬のしまなみ海道は残暑が落ち着き、屋外サウナ・焚き火・レモン畑散策が心地よい気候になる時期。10月25日開催予定の『サイクリングしまなみ2026』を前に、紅葉本番で混み合う11月より前の落ち着いた瀬戸内の海景色をゆったり楽しめるタイミングでもある。",
   "price_note": "予約ページのスナップショットでは、パノラマドーム（サウナなし）1名22,230円〜／サウナパノラマドーム1名24,480円〜（いずれも1棟4名利用時、税込）という表示と、別時点では20,070円〜・22,320円〜という表示があり、日付・プランにより変動する。2026年4月1日以降は宿泊税が別途かかる。正確な料金・空室は公式・予約サイトで要確認。",
   "access_note": "広島県尾道市瀬戸田町荻、柑橘テーマパーク『シトラスパーク瀬戸田』内の高台。しまなみ海道・生口島エリアに位置し、施設までは坂道があるため車でのアクセスが基本。",
@@ -20,16 +25,63 @@
     "tiktok": "レモン畑からの絶景サウナ、知ってる？🍋\n広島・生口島「LEMON FARM GLAMPINGしまなみ」。\n柑橘テーマパーク内の丘に建つ全8棟、全室から瀬戸内海が見える。\n一部の棟はアウトドアサウナ付き。\n口コミはYahoo!マップ4.72（11件）・楽天トラベル4.60（18件）。\nしまなみ海道サイクリングの直前、保存して秋のうちに検討して。"
   },
   "hashtags": [
-    "#LEMONFARMGLAMPING", "#しまなみ海道", "#生口島", "#尾道旅行", "#瀬戸内",
-    "#グランピング", "#瀬戸田", "#広島旅行", "#絶景サウナ", "#秋旅行",
-    "#国内旅行", "#贅沢旅"
+    "#LEMONFARMGLAMPING",
+    "#しまなみ海道",
+    "#生口島",
+    "#尾道旅行",
+    "#瀬戸内",
+    "#グランピング",
+    "#瀬戸田",
+    "#広島旅行",
+    "#絶景サウナ",
+    "#秋旅行",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "press", "title": "シトラスパーク瀬戸田、レモン農園を臨むグランピング施設「LEMON FARM GLAMPINGしまなみ」8月オープン - Impress Travel Watch", "url": "https://travel.watch.impress.co.jp/docs/news/1423775.html" },
-    { "type": "review_site", "title": "LEMON FARM GLAMPINGしまなみ 周辺情報・クチコミ（4.72／11件） - Yahoo!マップ", "url": "https://map.yahoo.co.jp/v3/place/oj48hHT8Etk" },
-    { "type": "review_site", "title": "LEMON FARM GLAMPINGしまなみ 宿泊者クチコミ（4.60／18件） - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/188005/review.html" },
-    { "type": "booking_site", "title": "LEMON FARM GLAMPINGしまなみ 宿泊プラン・料金詳細 - 489ban.net予約システム", "url": "https://reserve.489ban.net/client/lemonfarm-shimanami/4/detail/1112752" },
-    { "type": "press", "title": "開業1周年・利用者5,000人突破 LEMON FARM GLAMPINGしまなみ プレスリリース", "url": "https://resemom.jp/release/prtimes/20230802/102309.html" }
+    {
+      "type": "press",
+      "title": "シトラスパーク瀬戸田、レモン農園を臨むグランピング施設「LEMON FARM GLAMPINGしまなみ」8月オープン - Impress Travel Watch",
+      "url": "https://travel.watch.impress.co.jp/docs/news/1423775.html"
+    },
+    {
+      "type": "review_site",
+      "title": "LEMON FARM GLAMPINGしまなみ 周辺情報・クチコミ（4.72／11件） - Yahoo!マップ",
+      "url": "https://map.yahoo.co.jp/v3/place/oj48hHT8Etk"
+    },
+    {
+      "type": "review_site",
+      "title": "LEMON FARM GLAMPINGしまなみ 宿泊者クチコミ（4.60／18件） - 楽天トラベル",
+      "url": "https://travel.rakuten.co.jp/HOTEL/188005/review.html"
+    },
+    {
+      "type": "booking_site",
+      "title": "LEMON FARM GLAMPINGしまなみ 宿泊プラン・料金詳細 - 489ban.net予約システム",
+      "url": "https://reserve.489ban.net/client/lemonfarm-shimanami/4/detail/1112752"
+    },
+    {
+      "type": "press",
+      "title": "開業1周年・利用者5,000人突破 LEMON FARM GLAMPINGしまなみ プレスリリース",
+      "url": "https://resemom.jp/release/prtimes/20230802/102309.html"
+    }
   ],
-  "created_date": "2026-10-21"
+  "created_date": "2026-10-21",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

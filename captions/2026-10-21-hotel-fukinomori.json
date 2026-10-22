@@ -12,7 +12,12 @@
     "長野県木曽郡南木曽町・妻籠宿・馬籠宿エリアはcaptions/posts/data配下に過去1か月以上遡っても登場しておらず、新規地域として投稿の地域バランスにも寄与する（原則29）。"
   ],
   "evaluation_basis": "100点満点中77点（口コミ評価22/25・口コミ信頼性11/15・独自体験15/20・映え12/15・価格対体験価値8/10・SNS話題性5/10・アクセス/鮮度4/5）。楽天トラベル4.42（286件）・jcation/Expedia集計4.6（62件）の2つの独立情報源で推奨ライン4.0以上を確認（原則6・7）。フォートラベルのみ3.17（4件）とやや低いが件数が極端に少なく参考値。同じ木曽路エリアの候補として『TAOYA木曽路』（大型オールインクルーシブ温泉ホテル、フォートラベル3.84/93件、74点）も調査したが、アクセス評価の低さ（フォートラベル項目別3.26）を踏まえ、より評価が安定しているホテル富貴の森を本命として選定した。『滝見の家』（1日1組の貸切温泉宿）は好意的な口コミのみだったが件数が極端に少なく（2件程度）、数値的な信頼性評価の基準を満たせず見送った。",
-  "target_audience": ["夫婦", "カップル", "温泉好き", "ホテル好き"],
+  "target_audience": [
+    "夫婦",
+    "カップル",
+    "温泉好き",
+    "ホテル好き"
+  ],
   "why_now": "10月下旬の木曽路は紅葉前の落ち着いたシーズン。馬籠宿の紅葉見頃は例年11月上旬〜中旬、ホテルから車で約25分の阿寺渓谷も10月下旬〜11月上旬にかけて色づくため、宿場町歩きと紅葉をあわせて楽しむ旅の予約検討が動き出す今だからこそ紹介する価値がある。",
   "price_note": "楽天トラベルの表示では最安料金の目安が10,910円〜（消費税込12,000円〜）だったが、部屋タイプ・プラン・時期により幅があると見られる。正確な最新料金は公式サイト・各予約サイトで要確認（検索日・対象日・プランにより変動）。",
   "access_note": "JR南木曽駅から車で約10分（送迎の有無は要確認）。中山道の宿場町・妻籠宿までも車で約10分、馬籠宿へも足を延ばしやすい立地。",
@@ -21,16 +26,63 @@
     "tiktok": "江戸時代の宿場町、妻籠宿から車で10分🏞️\n木曽の森に包まれた一軒宿「ホテル富貴の森」で、満天の星を見ながら硫黄泉に浸かる。\n楽天トラベル286件で4.42、Expedia集計も62件で4.6の高評価。\n馬籠宿の紅葉は例年11月上旬〜中旬。\n紅葉前の木曽路旅、保存しておこう。"
   },
   "hashtags": [
-    "#妻籠宿", "#馬籠宿", "#中山道", "#木曽路", "#南木曽",
-    "#長野旅行", "#温泉旅館", "#文化体験", "#秘湯", "#夫婦旅",
-    "#国内旅行", "#贅沢旅"
+    "#妻籠宿",
+    "#馬籠宿",
+    "#中山道",
+    "#木曽路",
+    "#南木曽",
+    "#長野旅行",
+    "#温泉旅館",
+    "#文化体験",
+    "#秘湯",
+    "#夫婦旅",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "booking_site", "title": "楽天トラベル 人気ホテル・旅館ランキング（長野県・木曽）", "url": "https://travel.rakuten.co.jp/ranking/nagano/kiso_0002_0_0_0_0.html" },
-    { "type": "review_site", "title": "ホテル富貴の森 レビュー集計 - jcation（Expedia）", "url": "https://jcation.com/hotel/detail-12275" },
-    { "type": "review_site", "title": "ホテル富貴の森の口コミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10036503" },
-    { "type": "booking_site", "title": "ホテル富貴の森 - Hotels.com", "url": "https://jp.hotels.com/ho1105509184/" },
-    { "type": "booking_site", "title": "ホテル富貴の森 - じゃらんnet", "url": "https://www.jalan.net/yad303802/" }
+    {
+      "type": "booking_site",
+      "title": "楽天トラベル 人気ホテル・旅館ランキング（長野県・木曽）",
+      "url": "https://travel.rakuten.co.jp/ranking/nagano/kiso_0002_0_0_0_0.html"
+    },
+    {
+      "type": "review_site",
+      "title": "ホテル富貴の森 レビュー集計 - jcation（Expedia）",
+      "url": "https://jcation.com/hotel/detail-12275"
+    },
+    {
+      "type": "review_site",
+      "title": "ホテル富貴の森の口コミ・評価 - フォートラベル",
+      "url": "https://4travel.jp/dm_hotel-10036503"
+    },
+    {
+      "type": "booking_site",
+      "title": "ホテル富貴の森 - Hotels.com",
+      "url": "https://jp.hotels.com/ho1105509184/"
+    },
+    {
+      "type": "booking_site",
+      "title": "ホテル富貴の森 - じゃらんnet",
+      "url": "https://www.jalan.net/yad303802/"
+    }
   ],
-  "created_date": "2026-10-21"
+  "created_date": "2026-10-21",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

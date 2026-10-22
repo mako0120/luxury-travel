@@ -11,7 +11,12 @@
     "Web検索範囲では清潔感・接客・設備等に関する具体的な低評価コメントは見つからなかった。"
   ],
   "evaluation_basis": "100点満点中77点（口コミ評価22/25・口コミ信頼性11/15・独自体験16/20・映え12/15・価格対体験価値7/10・SNS話題性5/10・アクセス/鮮度4/5）。楽天トラベル4.67（31件）・なっぷ4.41（162件）の2つの独立情報源で推奨ライン4.2以上を確認。",
-  "target_audience": ["カップル", "記念日", "夫婦", "温泉好き"],
+  "target_audience": [
+    "カップル",
+    "記念日",
+    "夫婦",
+    "温泉好き"
+  ],
   "why_now": "秋は気候が安定し、屋外での食事・温泉を伴うグランピング体験に適した季節。紅葉シーズンに向けて予約検討が始まる時期でもある。",
   "price_note": "楽天トラベル最安表示で11,470円〜（1名あたりか1棟あたりか、条件付きプランかは要確認）。検索タイミングにより評価点表示に4.60〜4.74・件数26〜31件のわずかな幅があったため、中間的な4.67／31件を採用した。",
   "access_note": "栃木県佐野市。都心から車で約90分。",
@@ -20,15 +25,57 @@
     "tiktok": "全室露天風呂付きのグランピング、知ってる？🏕️\n栃木『ラ・ナチュール』、ドームテント10棟すべてに温泉風呂。\n都心から車で約90分。\n楽天トラベル31件で4.67、なっぷでも162件で4.41の高評価。\n秋の週末、保存しておこう。"
   },
   "hashtags": [
-    "#ラナチュール", "#栃木旅行", "#佐野市", "#グランピング", "#露天風呂付き",
-    "#記念日旅行", "#夫婦旅", "#秋旅行", "#日帰り旅行", "#国内旅行",
+    "#ラナチュール",
+    "#栃木旅行",
+    "#佐野市",
+    "#グランピング",
+    "#露天風呂付き",
+    "#記念日旅行",
+    "#夫婦旅",
+    "#秋旅行",
+    "#日帰り旅行",
+    "#国内旅行",
     "#贅沢旅"
   ],
   "sources": [
-    { "type": "review_site", "title": "ラ・ナチュール に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/188076/review.html" },
-    { "type": "review_site", "title": "佐野のグランピングおすすめ2選！ | なっぷ", "url": "https://www.nap-camp.com/mag/5436" },
-    { "type": "booking_site", "title": "ラ・ナチュールの宿泊予約 | 休日グランピング部", "url": "https://kyuzitsu-glampingbu.com/hotel/glamp620/" },
-    { "type": "other", "title": "ラ・ナチュール【栃木】 - グランピング予約ならリゾグラ", "url": "https://www.resort-glamping.com/accommodation/lanature/" }
+    {
+      "type": "review_site",
+      "title": "ラ・ナチュール に実際に泊まった方のクチコミ・レビュー【楽天トラベル】",
+      "url": "https://travel.rakuten.co.jp/HOTEL/188076/review.html"
+    },
+    {
+      "type": "review_site",
+      "title": "佐野のグランピングおすすめ2選！ | なっぷ",
+      "url": "https://www.nap-camp.com/mag/5436"
+    },
+    {
+      "type": "booking_site",
+      "title": "ラ・ナチュールの宿泊予約 | 休日グランピング部",
+      "url": "https://kyuzitsu-glampingbu.com/hotel/glamp620/"
+    },
+    {
+      "type": "other",
+      "title": "ラ・ナチュール【栃木】 - グランピング予約ならリゾグラ",
+      "url": "https://www.resort-glamping.com/accommodation/lanature/"
+    }
   ],
-  "created_date": "2026-09-14"
+  "created_date": "2026-09-14",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

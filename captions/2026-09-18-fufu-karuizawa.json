@@ -11,7 +11,12 @@
     "ミシュランガイドのホテルセレクションにも掲載され、第三者評価の裏付けがある。"
   ],
   "evaluation_basis": "100点満点中85点（口コミ評価24/25・口コミ信頼性14/15・独自体験17/20・映え13/15・価格対体験価値6/10・SNS話題性6/10・アクセス/鮮度5/5）。一休.com4.53（115件）・楽天トラベル4.61（127件）の2つの独立情報源で推奨ライン4.2以上を確認。Tripadvisorには低評価（3/5）もあったがレビュー件数がわずか5件と極端に少なく、大規模2サイトの評価と矛盾するため参考値にとどめた。",
-  "target_audience": ["夫婦", "記念日", "カップル", "温泉好き"],
+  "target_audience": [
+    "夫婦",
+    "記念日",
+    "カップル",
+    "温泉好き"
+  ],
   "why_now": "9月下旬〜10月の軽井沢は朝晩の気温が下がり始め、サウナで発汗したあとの外気浴が心地よい『ととのう』体験に適した季節。紅葉本番（10月中旬〜下旬）の直前で、旅程を検討し始める層が増えるタイミング。",
   "price_note": "1泊2食付きで1名あたり39,350円〜90,000円程度（税・サービス料込み表示あり）。プラン・部屋タイプ・時期により幅が大きい。",
   "access_note": "JR軽井沢駅から車で約10〜15分。新幹線で東京から約1時間。",
@@ -20,15 +25,58 @@
     "tiktok": "客室にもスパにも『ととのう』場所がある宿、知ってる？♨️\n軽井沢『ふふ -陽光の風-』、全室に温泉×ホットストーン。\nスパにはドライサウナ・水風呂・ハーブバスも。\n一休115件で4.53、楽天でも127件で4.61の高評価。\n秋のととのう旅、保存しておこう。"
   },
   "hashtags": [
-    "#ふふ軽井沢", "#軽井沢旅行", "#中軽井沢", "#サウナ好きと繋がりたい", "#ととのう",
-    "#温泉旅館", "#記念日旅行", "#夫婦旅", "#長野旅行", "#秋旅行",
-    "#国内旅行", "#贅沢旅"
+    "#ふふ軽井沢",
+    "#軽井沢旅行",
+    "#中軽井沢",
+    "#サウナ好きと繋がりたい",
+    "#ととのう",
+    "#温泉旅館",
+    "#記念日旅行",
+    "#夫婦旅",
+    "#長野旅行",
+    "#秋旅行",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "review_site", "title": "ふふ 軽井沢 -陽光の風- - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00003085/review/" },
-    { "type": "review_site", "title": "ふふ 軽井沢 ー陽光の風ー に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/187920/review.html" },
-    { "type": "other", "title": "ふふ 軽井沢 陽光の風 - ミシュランガイド", "url": "https://guide.michelin.com/jp/ja/hotels-stays/karuizawamachi/fufu-karuizawa-yokou-no-kaze-13391" },
-    { "type": "other", "title": "長野県《ふふ 軽井沢 陽光の風》緑と光に満ちた空間でエネルギーをチャージ | Discover Japan", "url": "https://discoverjapan-web.com/article/123718" }
+    {
+      "type": "review_site",
+      "title": "ふふ 軽井沢 -陽光の風- - クチコミ・評判 - 一休.com",
+      "url": "https://www.ikyu.com/00003085/review/"
+    },
+    {
+      "type": "review_site",
+      "title": "ふふ 軽井沢 ー陽光の風ー に実際に泊まった方のクチコミ・レビュー【楽天トラベル】",
+      "url": "https://travel.rakuten.co.jp/HOTEL/187920/review.html"
+    },
+    {
+      "type": "other",
+      "title": "ふふ 軽井沢 陽光の風 - ミシュランガイド",
+      "url": "https://guide.michelin.com/jp/ja/hotels-stays/karuizawamachi/fufu-karuizawa-yokou-no-kaze-13391"
+    },
+    {
+      "type": "other",
+      "title": "長野県《ふふ 軽井沢 陽光の風》緑と光に満ちた空間でエネルギーをチャージ | Discover Japan",
+      "url": "https://discoverjapan-web.com/article/123718"
+    }
   ],
-  "created_date": "2026-09-18"
+  "created_date": "2026-09-18",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

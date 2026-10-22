@@ -11,7 +11,13 @@
     "1日1組限定の『仙石原アートリトリート滞在』など、新しい特別プランも展開している。"
   ],
   "evaluation_basis": "100点満点中76点（口コミ評価22/25・口コミ信頼性12/15・独自体験16/20・映え11/15・価格対体験価値6/10・SNS話題性5/10・アクセス/鮮度4/5）。じゃらんnet4.4（167件）・スカイチケット4.4（208件）の2つの独立情報源で推奨ライン4.2以上を確認。同エリアの箱根小涌園天悠・強羅花壇は、独自性・格式は高いものの、このセッションで確認できた数値評価が極端に少数のレビューしかなく（原則7未達）見送り、十分なレビュー件数の裏付けがある本候補を選定した。",
-  "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "絶景好き"],
+  "target_audience": [
+    "カップル",
+    "記念日",
+    "夫婦",
+    "温泉好き",
+    "絶景好き"
+  ],
   "why_now": "箱根は10月中旬〜11月が紅葉シーズンの入口にあたる時期。秋の澄んだ空気の中、大涌谷由来の白濁温泉に露天風呂から浸かる体験が一年で特に映える季節で、紅葉本番前の予約検討にちょうどいいタイミング。",
   "price_note": "過去の掲載情報では1泊2食付き・2名1室利用時1名あたり37,000円〜、体験プラン付きで50,850円〜（税・サービス料込）という表示を確認。現在の正確な料金・プラン内容は公式サイトで要確認。",
   "access_note": "神奈川県足柄下郡箱根町仙石原817-359。標高約700mの仙石原高原に位置し、大涌谷まで比較的近いエリア。",
@@ -20,15 +26,58 @@
     "tiktok": "箱根に、全室大涌谷の白濁温泉がある宿、知ってる？♨️\n『界 仙石原』、本館・別館あわせて全16室すべて露天風呂付き。\n『アトリエ×温泉旅館』、客室にはアート作品も。\nじゃらん167件で4.4、スカイチケットも208件で4.4の高評価。\n紅葉前の箱根旅、保存しておこう。"
   },
   "hashtags": [
-    "#界仙石原", "#箱根旅行", "#仙石原", "#大涌谷", "#箱根温泉",
-    "#絶景ホテル", "#温泉旅館", "#星野リゾート", "#記念日旅行", "#夫婦旅",
-    "#国内旅行", "#贅沢旅"
+    "#界仙石原",
+    "#箱根旅行",
+    "#仙石原",
+    "#大涌谷",
+    "#箱根温泉",
+    "#絶景ホテル",
+    "#温泉旅館",
+    "#星野リゾート",
+    "#記念日旅行",
+    "#夫婦旅",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "official", "title": "星野リゾート 界 仙石原 公式サイト", "url": "https://kai-ryokan.jp/sengokuhara/" },
-    { "type": "review_site", "title": "星野リゾート 界 仙石原の宿泊予約・クチコミ - じゃらんnet", "url": "https://www.jalan.net/yad358672/kuchikomi/" },
-    { "type": "review_site", "title": "星野リゾート 界 仙石原 - スカイチケット", "url": "https://skyticket.jp/hotel/detail/property_961593/" },
-    { "type": "other", "title": "箱根で温泉とアート三昧。「星野リゾート 界 仙石原」 - Matcha", "url": "https://matcha-jp.com/jp/6588" }
+    {
+      "type": "official",
+      "title": "星野リゾート 界 仙石原 公式サイト",
+      "url": "https://kai-ryokan.jp/sengokuhara/"
+    },
+    {
+      "type": "review_site",
+      "title": "星野リゾート 界 仙石原の宿泊予約・クチコミ - じゃらんnet",
+      "url": "https://www.jalan.net/yad358672/kuchikomi/"
+    },
+    {
+      "type": "review_site",
+      "title": "星野リゾート 界 仙石原 - スカイチケット",
+      "url": "https://skyticket.jp/hotel/detail/property_961593/"
+    },
+    {
+      "type": "other",
+      "title": "箱根で温泉とアート三昧。「星野リゾート 界 仙石原」 - Matcha",
+      "url": "https://matcha-jp.com/jp/6588"
+    }
   ],
-  "created_date": "2026-10-16"
+  "created_date": "2026-10-16",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

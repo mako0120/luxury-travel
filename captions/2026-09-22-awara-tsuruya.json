@@ -11,7 +11,12 @@
     "冬季は越前蟹懐石膳（刺し・甲羅焼き・天ぷら等）を提供しており、越前がにシーズンの主役になり得るグルメ旅館。"
   ],
   "evaluation_basis": "100点満点中82点（口コミ評価24/25・口コミ信頼性13/15・独自体験18/20・映え12/15・価格対体験価値6/10・SNS話題性5/10・アクセス/鮮度4/5）。一休.com4.65（85件）・楽天トラベル4.89（364件）の2つの独立情報源で推奨ライン4.2以上を確認。低評価レビューではトリップアドバイザーに否定的タイトルの口コミが1件見つかったが本文は未確認で、清潔感・安全性に関わる重大な指摘は複数の情報源では見つからなかった。",
-  "target_audience": ["夫婦", "記念日", "グルメ旅", "温泉好き"],
+  "target_audience": [
+    "夫婦",
+    "記念日",
+    "グルメ旅",
+    "温泉好き"
+  ],
   "why_now": "越前がに漁は例年11月上旬に解禁される。9月下旬の今は本番シーズンの1〜2ヶ月前にあたり、あわら温泉のグルメ旅館を『冬の蟹旅の予習』として今のうちにチェックしておきたいタイミング。つるやは敷地内3本の自家源泉による100%かけ流し温泉と、ミシュランガイド北陸2021・4パビリオンという格式を兼ね備え、旬を先取りして知っておきたい一軒。",
   "price_note": "『鶴-Tsuru-』（1日2組限定・越前の山海の幸にこだわった創作懐石）、『亀-Kame-』（メイン料理を選べる創作懐石）など複数プランがある、量より質を重視した宿。具体的な1泊2食の料金は今回のWebSearchの範囲では確認できなかったため、予約時に公式サイト・予約サイトで最新料金をご確認ください。",
   "access_note": "福井県あわら市に位置するあわら温泉エリアの旅館（最寄り駅からの詳細な所要時間・送迎の有無は今回のWebSearchでは確認できておらず、予約時に要確認）。",
@@ -20,15 +25,58 @@
     "tiktok": "あわら温泉に、3本の自家源泉を持つ宿があるって知ってた？♨️\n『つるや』、ミシュランガイド北陸2021で4パビリオン獲得。\n加水・加温なしの100%かけ流し温泉。\n一休85件で4.65、楽天でも364件で4.89の高評価。\n冬は越前蟹懐石も。\n蟹シーズンの前に、保存しておこう。"
   },
   "hashtags": [
-    "#あわら温泉", "#つるや", "#福井旅行", "#グルメ旅館", "#源泉かけ流し",
-    "#記念日旅行", "#夫婦旅", "#温泉旅館", "#越前がに", "#老舗旅館",
-    "#国内旅行", "#贅沢旅"
+    "#あわら温泉",
+    "#つるや",
+    "#福井旅行",
+    "#グルメ旅館",
+    "#源泉かけ流し",
+    "#記念日旅行",
+    "#夫婦旅",
+    "#温泉旅館",
+    "#越前がに",
+    "#老舗旅館",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "review_site", "title": "越前あわら温泉 つるや - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00001459/review/" },
-    { "type": "review_site", "title": "越前あわら温泉 つるや - クチコミ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/84652/review.html" },
-    { "type": "official", "title": "越前あわら温泉 つるや【公式】源泉かけ流し 露天風呂付き客室がある大人の湯宿", "url": "https://awara-turuya.jp/" },
-    { "type": "other", "title": "越前あわら温泉 つるや - あわら市観光協会", "url": "https://awara.info/cat-stay/%E3%81%A4%E3%82%8B%E3%82%84" }
+    {
+      "type": "review_site",
+      "title": "越前あわら温泉 つるや - クチコミ・評判 - 一休.com",
+      "url": "https://www.ikyu.com/00001459/review/"
+    },
+    {
+      "type": "review_site",
+      "title": "越前あわら温泉 つるや - クチコミ - 楽天トラベル",
+      "url": "https://travel.rakuten.co.jp/HOTEL/84652/review.html"
+    },
+    {
+      "type": "official",
+      "title": "越前あわら温泉 つるや【公式】源泉かけ流し 露天風呂付き客室がある大人の湯宿",
+      "url": "https://awara-turuya.jp/"
+    },
+    {
+      "type": "other",
+      "title": "越前あわら温泉 つるや - あわら市観光協会",
+      "url": "https://awara.info/cat-stay/%E3%81%A4%E3%82%8B%E3%82%84"
+    }
   ],
-  "created_date": "2026-09-22"
+  "created_date": "2026-09-22",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

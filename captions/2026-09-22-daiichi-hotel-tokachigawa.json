@@ -11,7 +11,13 @@
     "サウナ専門サイト『サウナイキタイ』でもリニューアル後にサ活投稿が継続的に増えている。"
   ],
   "evaluation_basis": "100点満点中81点（口コミ評価23/25・口コミ信頼性14/15・独自体験17/20・映え11/15・価格対体験価値6/10・SNS話題性6/10・アクセス/鮮度4/5）。楽天トラベル4.58（1,373件）・一休.com4.66（231件）の2つの独立情報源で採用ライン4.0以上（推奨4.2以上）を大きく上回ることを確認。『部屋が古い』『チェックイン対応が簡素』『食事提供に時間がかかった』といった指摘もあったが、清潔感・安全性に関わる重大な問題ではないため選定に影響しないと判断した。",
-  "target_audience": ["夫婦", "記念日", "カップル", "温泉好き", "ホテル好き"],
+  "target_audience": [
+    "夫婦",
+    "記念日",
+    "カップル",
+    "温泉好き",
+    "ホテル好き"
+  ],
   "why_now": "9月下旬の十勝地方は朝晩の気温がすでに一桁台まで下がり始め、ロウリュで発汗したあとの十勝川沿いでの外気浴が『ととのう』のに心地よい季節。10月に入ると紅葉が本格化し、その後は積雪シーズンに向かうため、まだ移動しやすい今の時期の道東サウナ旅として紹介する意義がある。",
   "price_note": "Web検索の範囲では部屋タイプ別の正確な1泊2食価格帯は確定できなかった。豊洲亭・豆陽亭など複数の宿泊棟があり、プラン・部屋タイプ・時期により価格帯に幅がある（予約前に公式サイトで要確認）。",
   "access_note": "北海道河東郡音更町十勝川温泉南に位置する。とかち帯広空港またはJR帯広駅から車・送迎バス等でのアクセスとなる（具体的な所要時間は今回のWeb検索の範囲では確認できなかった）。",
@@ -20,16 +26,63 @@
     "tiktok": "十勝の秘湯サウナ、知ってる？♨️\n十勝川温泉『第一ホテル』、2023年末にサウナが大リニューアル。\nフィンランド製ストーブのオートロウリュ×北海道産・麦飯石の石造りサウナ室。\nお湯は世界でも珍しい『モール温泉』、水深120cmの露天深湯も。\n楽天1,373件で4.58、一休でも231件で4.66の高評価。\n道東の『ととのう』旅、保存しておこう。"
   },
   "hashtags": [
-    "#十勝川温泉", "#第一ホテル", "#モール温泉", "#音更町", "#北海道旅行",
-    "#サウナ好きと繋がりたい", "#ロウリュ", "#ととのう", "#道東旅行", "#温泉旅館",
-    "#記念日旅行", "#国内旅行"
+    "#十勝川温泉",
+    "#第一ホテル",
+    "#モール温泉",
+    "#音更町",
+    "#北海道旅行",
+    "#サウナ好きと繋がりたい",
+    "#ロウリュ",
+    "#ととのう",
+    "#道東旅行",
+    "#温泉旅館",
+    "#記念日旅行",
+    "#国内旅行"
   ],
   "sources": [
-    { "type": "review_site", "title": "十勝川温泉 第一ホテル に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/5818/review.html" },
-    { "type": "review_site", "title": "十勝川温泉 第一ホテル - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00000877/review/" },
-    { "type": "official", "title": "温泉｜豆陽亭｜十勝川温泉第一ホテル【公式】", "url": "https://www.daiichihotel.com/spa/" },
-    { "type": "other", "title": "十勝川温泉 第一ホテル(北海道河東郡音更町) - サウナイキタイ", "url": "https://sauna-ikitai.com/saunas/218" },
-    { "type": "review_site", "title": "十勝川温泉 第一ホテル 豊洲亭・豆陽亭の口コミ（レビュー） - Relux", "url": "https://rlx.jp/23675/review/" }
+    {
+      "type": "review_site",
+      "title": "十勝川温泉 第一ホテル に実際に泊まった方のクチコミ・レビュー【楽天トラベル】",
+      "url": "https://travel.rakuten.co.jp/HOTEL/5818/review.html"
+    },
+    {
+      "type": "review_site",
+      "title": "十勝川温泉 第一ホテル - クチコミ・評判 - 一休.com",
+      "url": "https://www.ikyu.com/00000877/review/"
+    },
+    {
+      "type": "official",
+      "title": "温泉｜豆陽亭｜十勝川温泉第一ホテル【公式】",
+      "url": "https://www.daiichihotel.com/spa/"
+    },
+    {
+      "type": "other",
+      "title": "十勝川温泉 第一ホテル(北海道河東郡音更町) - サウナイキタイ",
+      "url": "https://sauna-ikitai.com/saunas/218"
+    },
+    {
+      "type": "review_site",
+      "title": "十勝川温泉 第一ホテル 豊洲亭・豆陽亭の口コミ（レビュー） - Relux",
+      "url": "https://rlx.jp/23675/review/"
+    }
   ],
-  "created_date": "2026-09-22"
+  "created_date": "2026-09-22",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

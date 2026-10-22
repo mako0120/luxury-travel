@@ -11,7 +11,13 @@
     "2016年伊勢志摩サミットの舞台になった格式と、的矢かき・伊勢海老など地元食材を使った料理も推薦材料。"
   ],
   "evaluation_basis": "100点満点中85点（口コミ評価23/25・口コミ信頼性13/15・独自体験18/20・映え13/15・価格対体験価値7/10・SNS話題性7/10・アクセス/鮮度4/5）。一休.com4.60（288件）・Relux4.7（103件）の2つの独立情報源で推奨ライン4.2以上を確認。清潔感・接客・安全面での重大な指摘は見当たらなかった。",
-  "target_audience": ["夫婦", "記念日", "カップル", "絶景好き", "グルメ旅"],
+  "target_audience": [
+    "夫婦",
+    "記念日",
+    "カップル",
+    "絶景好き",
+    "グルメ旅"
+  ],
   "why_now": "9月下旬の志摩・英虞湾エリアは残暑が落ち着き始め、空気が澄んでリアス式海岸の多島美と夕景のコントラストがはっきり出る季節。志摩観光ホテルの屋上展望台は『日本の夕陽百選』に選ばれており、澄んだ秋の空気は特に夕景の見え方に有利。紅葉本番や年末年始の混雑期に入る前で、記念日旅行・秋旅を検討し始める層が動き出すタイミング。",
   "price_note": "1泊2食付きで、プラン・部屋タイプ（ザ クラシック／ザ ベイスイート等）・季節によって大きく変動（検索範囲では大人1名あたり36,000円台〜24万円台までの幅を確認）。",
   "access_note": "近鉄志摩線「賢島駅」から徒歩・送迎で移動可能。名古屋・大阪から近鉄特急で賢島駅まで約2時間前後。",
@@ -20,16 +26,63 @@
     "tiktok": "屋上から英虞湾を360°独り占めできる宿、知ってる？🌅\n三重・賢島『志摩観光ホテル ザ クラシック』。\n屋上展望台の夕景は『日本の夕陽百選』にも選出。\n一休288件で4.60、Reluxでも103件で4.7の高評価。\nじゃらんアワードで接客・サービス2年連続1位。\n秋の英虞湾ビュー、保存しておこう。"
   },
   "hashtags": [
-    "#志摩観光ホテル", "#英虞湾", "#賢島", "#志摩旅行", "#三重旅行",
-    "#絶景ホテル", "#記念日旅行", "#夫婦旅", "#秋旅行", "#国内旅行",
-    "#贅沢旅", "#日本の夕陽百選"
+    "#志摩観光ホテル",
+    "#英虞湾",
+    "#賢島",
+    "#志摩旅行",
+    "#三重旅行",
+    "#絶景ホテル",
+    "#記念日旅行",
+    "#夫婦旅",
+    "#秋旅行",
+    "#国内旅行",
+    "#贅沢旅",
+    "#日本の夕陽百選"
   ],
   "sources": [
-    { "type": "official", "title": "【公式】志摩観光ホテル｜深い安らぎに満ちた志摩時間", "url": "https://www.miyakohotels.ne.jp/shima/" },
-    { "type": "review_site", "title": "志摩観光ホテル ザ クラシック - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00000801/review/" },
-    { "type": "review_site", "title": "志摩観光ホテル ザ クラシックの口コミ（レビュー） - Relux", "url": "https://rlx.jp/21160/review/" },
-    { "type": "booking_site", "title": "志摩観光ホテル ザ クラシック に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/1150/review.html" },
-    { "type": "press", "title": "「じゃらんアワード2023」東海ブロック発表", "url": "https://www.recruit.co.jp/newsroom/pressrelease/2024/0710_14542.html" }
+    {
+      "type": "official",
+      "title": "【公式】志摩観光ホテル｜深い安らぎに満ちた志摩時間",
+      "url": "https://www.miyakohotels.ne.jp/shima/"
+    },
+    {
+      "type": "review_site",
+      "title": "志摩観光ホテル ザ クラシック - クチコミ・評判 - 一休.com",
+      "url": "https://www.ikyu.com/00000801/review/"
+    },
+    {
+      "type": "review_site",
+      "title": "志摩観光ホテル ザ クラシックの口コミ（レビュー） - Relux",
+      "url": "https://rlx.jp/21160/review/"
+    },
+    {
+      "type": "booking_site",
+      "title": "志摩観光ホテル ザ クラシック に実際に泊まった方のクチコミ・レビュー【楽天トラベル】",
+      "url": "https://travel.rakuten.co.jp/HOTEL/1150/review.html"
+    },
+    {
+      "type": "press",
+      "title": "「じゃらんアワード2023」東海ブロック発表",
+      "url": "https://www.recruit.co.jp/newsroom/pressrelease/2024/0710_14542.html"
+    }
   ],
-  "created_date": "2026-09-18"
+  "created_date": "2026-09-18",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

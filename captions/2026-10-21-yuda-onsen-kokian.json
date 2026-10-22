@@ -11,7 +11,12 @@
     "湯田温泉は中国地方の主要温泉地のひとつながら、captions/・posts/の過去投稿には一度も登場しておらず、地域としても新規性がある。"
   ],
   "evaluation_basis": "100点満点中84点（口コミ評価24/25・口コミ信頼性14/15・独自体験16/20・映え12/15・価格対体験価値7/10・SNS話題性7/10・アクセス/鮮度4/5）。じゃらん4.8（320件）・楽天トラベル4.78（188件）の2つの独立した情報源で採用ライン4.0以上を確認。接客対応のばらつきを指摘する口コミが一部あったが、清潔感・料理に関わる重大な欠陥ではないため選定に影響しないと判断した。",
-  "target_audience": ["夫婦", "記念日", "温泉好き", "グルメ旅"],
+  "target_audience": [
+    "夫婦",
+    "記念日",
+    "温泉好き",
+    "グルメ旅"
+  ],
   "why_now": "10月下旬〜11月は山口県内陸部でも紅葉が進み始め、気候が安定して旅行需要が高まる時期。ふぐをはじめとした山口グルメとの組み合わせを訴求しやすい季節でもあり、客室数を絞った静かな旅館での記念日旅行の需要が高まるタイミング。",
   "price_note": "1泊2食付き34,560円〜57,240円という掲載が確認できた（全16室・客室タイプ・プランにより変動）。楽天トラベル掲載プランでは2026年4月に料金改定を実施したとの記載もあり、予約前に公式サイト・予約サイトで要確認。",
   "access_note": "山口県山口市湯田温泉2-7-1。JR山口線「湯田温泉」駅から徒歩約10分・車で約3分。",
@@ -20,16 +25,63 @@
     "tiktok": "全室、源泉かけ流しの露天風呂付き宿、知ってる？♨️\n山口・湯田温泉『古稀庵』（湯田温泉駅徒歩10分）。\n全16室、すべての部屋に源泉100%の露天風呂。\n食事は刺身・野菜握り入りの創作懐石で記念日のお祝いプレートも。\nじゃらん4.8（320件）、楽天トラベル4.78（188件）の高評価。\n山口の穴場グルメ旅館、保存必須。"
   },
   "hashtags": [
-    "#湯田温泉", "#古稀庵", "#山口旅行", "#山口県",
-    "#グルメ旅館", "#源泉かけ流し", "#露天風呂付き客室", "#温泉旅行",
-    "#記念日旅行", "#夫婦旅", "#国内旅行", "#一度は泊まりたい"
+    "#湯田温泉",
+    "#古稀庵",
+    "#山口旅行",
+    "#山口県",
+    "#グルメ旅館",
+    "#源泉かけ流し",
+    "#露天風呂付き客室",
+    "#温泉旅行",
+    "#記念日旅行",
+    "#夫婦旅",
+    "#国内旅行",
+    "#一度は泊まりたい"
   ],
   "sources": [
-    { "type": "booking_site", "title": "やまぐち・湯田温泉 古稀庵（じゃらん／総合4.8・クチコミ320件）", "url": "https://www.jalan.net/yad372199" },
-    { "type": "booking_site", "title": "やまぐち・湯田温泉 古稀庵（楽天トラベル／総合4.78・クチコミ188件）", "url": "https://travel.rakuten.co.jp/HOTEL/109362/review.html" },
-    { "type": "review_site", "title": "やまぐち・湯田温泉 古稀庵 口コミまとめ（接客・バスタオル対応等への指摘） - icotto", "url": "https://icotto.jp/hotels/366" },
-    { "type": "other", "title": "やまぐち・湯田温泉 古稀庵 施設紹介（全室源泉かけ流し露天風呂・創作懐石） - ことりっぷ", "url": "https://co-trip.jp/post/710602" },
-    { "type": "other", "title": "やまぐち・湯田温泉 古稀庵 プラン情報（JTBお客様アンケート評価97） - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/7226038/" }
+    {
+      "type": "booking_site",
+      "title": "やまぐち・湯田温泉 古稀庵（じゃらん／総合4.8・クチコミ320件）",
+      "url": "https://www.jalan.net/yad372199"
+    },
+    {
+      "type": "booking_site",
+      "title": "やまぐち・湯田温泉 古稀庵（楽天トラベル／総合4.78・クチコミ188件）",
+      "url": "https://travel.rakuten.co.jp/HOTEL/109362/review.html"
+    },
+    {
+      "type": "review_site",
+      "title": "やまぐち・湯田温泉 古稀庵 口コミまとめ（接客・バスタオル対応等への指摘） - icotto",
+      "url": "https://icotto.jp/hotels/366"
+    },
+    {
+      "type": "other",
+      "title": "やまぐち・湯田温泉 古稀庵 施設紹介（全室源泉かけ流し露天風呂・創作懐石） - ことりっぷ",
+      "url": "https://co-trip.jp/post/710602"
+    },
+    {
+      "type": "other",
+      "title": "やまぐち・湯田温泉 古稀庵 プラン情報（JTBお客様アンケート評価97） - JTB",
+      "url": "https://www.jtb.co.jp/kokunai-hotel/htl/7226038/"
+    }
   ],
-  "created_date": "2026-10-21"
+  "created_date": "2026-10-21",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

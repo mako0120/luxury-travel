@@ -11,7 +11,12 @@
     "モーニングコーヒーやヨガなど、テラス到着後の過ごし方にもバリエーションがあり、写真だけでなく滞在体験としての満足度も設計されている。"
   ],
   "evaluation_basis": "100点満点中83点（口コミ評価20/25・口コミ信頼性12/15・独自体験18/20・映え14/15・価格対体験価値7/10・SNS話題性8/10・アクセス/鮮度4/5）。主要レビューサイト評価はじゃらんnet4.2（推奨ライン4.2に到達）、口コミ件数38件。加えてTripadvisorで356件のレビューとTravelers' Choice受賞という規模の大きい裏付けも確認。低評価の主因は『雲海が見られるかどうかは天候次第（確率は約50%）』『混雑時はゴンドラ待ちや行列が発生する』という自然現象・混雑起因のもので、施設の清潔感・接客面の重大な問題ではない。",
-  "target_audience": ["絶景好き", "カップル", "家族", "友人"],
+  "target_audience": [
+    "絶景好き",
+    "カップル",
+    "家族",
+    "友人"
+  ],
   "why_now": "9月中旬〜10月は放射冷却が起きやすく、雲海が発生しやすいシーズンのピークにあたる。紅葉本番に向けて旅行を検討し始めるこの時期に、雲海という『今しか狙えない』絶景体験を紹介する意義が高い。",
   "price_note": "日帰り入場料は大人2,500円・7〜11歳1,600円（愛犬500円）。星野リゾート トマム宿泊者は無料。2026年シーズンより入場時間の事前予約制（利用日前日17:00〜予約受付）を導入。価格・予約条件は変動するため、訪問前に公式サイトで最新情報の確認が必要。",
   "access_note": "新千歳空港から車で約100分、JR新得駅・トマム駅からも送迎あり（要確認）。雲海ゴンドラはリゾートセンターから約13分、運行時間は早朝5:00〜8:00。雲海の出現確率や当日の見込みは前日夕方に公式サイト・アプリで発表される。",
@@ -20,16 +25,63 @@
     "tiktok": "北海道に『雲の上のテラス』があるの知ってた？☁️\nトマムの「雲海テラス」、標高1,088mから一面の雲海を見下ろせる。\n見られる確率は天候次第で約50%。だからこそ狙う価値がある。\nじゃらん口コミ4.2（38件）、Tripadvisorでは356件のレビューでTravelers' Choice受賞。\n秋、雲海が出やすい季節。保存して次の旅行候補に。"
   },
   "hashtags": [
-    "#雲海テラス", "#星野リゾートトマム", "#トマム", "#北海道旅行", "#雲海",
-    "#絶景スポット", "#北海道絶景", "#秋旅行", "#非日常体験", "#国内旅行",
-    "#贅沢旅", "#星野リゾート"
+    "#雲海テラス",
+    "#星野リゾートトマム",
+    "#トマム",
+    "#北海道旅行",
+    "#雲海",
+    "#絶景スポット",
+    "#北海道絶景",
+    "#秋旅行",
+    "#非日常体験",
+    "#国内旅行",
+    "#贅沢旅",
+    "#星野リゾート"
   ],
   "sources": [
-    { "type": "official", "title": "雲海テラス 利用ガイド｜星野リゾート トマム【公式】", "url": "https://www.snowtomamu.jp/unkai_terrace_reservation/" },
-    { "type": "official", "title": "雲海テラス - 星野リゾート トマム【公式】summer", "url": "https://www.snowtomamu.jp/summer/unkai/" },
-    { "type": "review_site", "title": "星野リゾート トマム 雲海テラスのクチコミ一覧 - じゃらんnet", "url": "https://www.jalan.net/kankou/spt_guide000000187690/kuchikomi/" },
-    { "type": "review_site", "title": "Unkai Terrace - Shimukappu-mura（356件のレビュー） - Tripadvisor", "url": "https://www.tripadvisor.jp/Attraction_Review-g1120868-d6941614-Reviews-Unkai_Terrace-Shimukappu_mura_Yufutsu_gun_Hokkaido.html" },
-    { "type": "other", "title": "星野リゾート トマム 雲海テラス（アクセス・営業時間・料金情報）- るるぶ&more.", "url": "https://rurubu.jp/andmore/spot/80001568" }
+    {
+      "type": "official",
+      "title": "雲海テラス 利用ガイド｜星野リゾート トマム【公式】",
+      "url": "https://www.snowtomamu.jp/unkai_terrace_reservation/"
+    },
+    {
+      "type": "official",
+      "title": "雲海テラス - 星野リゾート トマム【公式】summer",
+      "url": "https://www.snowtomamu.jp/summer/unkai/"
+    },
+    {
+      "type": "review_site",
+      "title": "星野リゾート トマム 雲海テラスのクチコミ一覧 - じゃらんnet",
+      "url": "https://www.jalan.net/kankou/spt_guide000000187690/kuchikomi/"
+    },
+    {
+      "type": "review_site",
+      "title": "Unkai Terrace - Shimukappu-mura（356件のレビュー） - Tripadvisor",
+      "url": "https://www.tripadvisor.jp/Attraction_Review-g1120868-d6941614-Reviews-Unkai_Terrace-Shimukappu_mura_Yufutsu_gun_Hokkaido.html"
+    },
+    {
+      "type": "other",
+      "title": "星野リゾート トマム 雲海テラス（アクセス・営業時間・料金情報）- るるぶ&more.",
+      "url": "https://rurubu.jp/andmore/spot/80001568"
+    }
   ],
-  "created_date": "2026-09-14"
+  "created_date": "2026-09-14",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

@@ -11,7 +11,12 @@
     "定山渓温泉は過去の投稿で一度も紹介していない新規エリアで、札幌中心部からのアクセスの良さも含め『ちょっと贅沢な日帰り旅』として提案しやすい。"
   ],
   "evaluation_basis": "100点満点中76点（口コミ評価20/25・口コミ信頼性10/15・独自体験17/20・映え11/15・価格対体験価値9/10・SNS話題性6/10・アクセス/鮮度3/5）。All About記事（2026年6月）で『Googleクチコミ500件以上・平均評価4.0超』の銭湯・日帰り温泉として選定されていることを確認し、@nifty温泉の個別口コミでも4.0点・5.0点の投稿が見られた（独立2情報源）。ただしGoogleマップ上の正確な件数・点数そのものはWeb検索の範囲では直接確認できておらず、全体の口コミ総数を網羅的に確認できていない点は留保する。Web検索の範囲では『汚い』『接客が悪い』といった重大なネガティブ指摘は見当たらず、サ活投稿にも『以前よりロウリュがマイルドになった』という程度の感想しか確認できなかった。",
-  "target_audience": ["サウナ好き", "温泉好き", "一人旅", "友人"],
+  "target_audience": [
+    "サウナ好き",
+    "温泉好き",
+    "一人旅",
+    "友人"
+  ],
   "why_now": "10月下旬は定山渓も紅葉が終盤から初冬へ向かい、朝晩の気温が下がって発汗後の外気浴が気持ちよくなる季節（秋は紅葉・温泉が旅行検討の軸になりやすい）。札幌中心部から日帰りで行ける距離感も、週末の『ちょっと贅沢なサウナ旅』として提案しやすいタイミング。",
   "price_note": "日帰り入浴は大人980円という表示をWeb検索で確認した（営業時間10:00〜21:00・年中無休という表示もあったが、最新の料金・営業時間・休館日は公式サイトで要確認）。",
   "access_note": "北海道札幌市南区定山渓温泉、定山渓温泉街の西端に位置し、札幌中心部から車で約1時間。詳細な送迎・バス便は公式サイトで要確認。",
@@ -20,15 +25,58 @@
     "tiktok": "札幌から1時間でサウナ巡りできる場所、知ってる？🧖\n定山渓温泉『湯の花 定山渓殿』。\n30〜40人入れる3段ドライサウナに毎時オートロウリュ。\n源泉の水風呂＋外気浴＋岩盤浴まで揃って、日帰り980円〜。\nGoogleクチコミ500件以上・評価4.0超のメディア記事で紹介された施設。\n洞窟風呂や寝転びの湯もあって、温泉好きにも刺さる内容。\n札幌発の日帰りサウナ旅、保存必須。"
   },
   "hashtags": [
-    "#定山渓温泉", "#定山渓殿", "#札幌旅行", "#北海道旅行", "#サウナ好きと繋がりたい",
-    "#オートロウリュ", "#ととのう", "#日帰り温泉", "#サウナ旅", "#北海道サウナ",
-    "#一人旅", "#国内旅行"
+    "#定山渓温泉",
+    "#定山渓殿",
+    "#札幌旅行",
+    "#北海道旅行",
+    "#サウナ好きと繋がりたい",
+    "#オートロウリュ",
+    "#ととのう",
+    "#日帰り温泉",
+    "#サウナ旅",
+    "#北海道サウナ",
+    "#一人旅",
+    "#国内旅行"
   ],
   "sources": [
-    { "type": "press", "title": "【北海道の人気日帰り温泉】「定山渓温泉 湯の花 定山渓殿」は多彩な湯船と本格サウナが魅力の日帰り温泉施設 - All About", "url": "https://news.allabout.co.jp/articles/o/122382/" },
-    { "type": "review_site", "title": "定山渓温泉 湯の花 定山渓殿 口コミ - @nifty温泉", "url": "https://onsen.nifty.com/jouzankei-onsen/onsen000273/kuchikomi/" },
-    { "type": "other", "title": "定山渓温泉 湯の花 定山渓殿 - サウナイキタイ（サ活投稿・サウナ仕様）", "url": "https://sauna-ikitai.com/saunas" },
-    { "type": "other", "title": "定山渓温泉 湯の花 定山渓殿 詳細情報 - ウォーカープラス", "url": "https://koyo.walkerplus.com/onsen/detail/ar0101s19245" }
+    {
+      "type": "press",
+      "title": "【北海道の人気日帰り温泉】「定山渓温泉 湯の花 定山渓殿」は多彩な湯船と本格サウナが魅力の日帰り温泉施設 - All About",
+      "url": "https://news.allabout.co.jp/articles/o/122382/"
+    },
+    {
+      "type": "review_site",
+      "title": "定山渓温泉 湯の花 定山渓殿 口コミ - @nifty温泉",
+      "url": "https://onsen.nifty.com/jouzankei-onsen/onsen000273/kuchikomi/"
+    },
+    {
+      "type": "other",
+      "title": "定山渓温泉 湯の花 定山渓殿 - サウナイキタイ（サ活投稿・サウナ仕様）",
+      "url": "https://sauna-ikitai.com/saunas"
+    },
+    {
+      "type": "other",
+      "title": "定山渓温泉 湯の花 定山渓殿 詳細情報 - ウォーカープラス",
+      "url": "https://koyo.walkerplus.com/onsen/detail/ar0101s19245"
+    }
   ],
-  "created_date": "2026-10-19"
+  "created_date": "2026-10-19",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

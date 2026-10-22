@@ -11,7 +11,12 @@
     "既出のAQUASENSE Hotel & Resort（沖縄・恩納村）、グランドメルキュール沖縄残波岬リゾート（沖縄・読谷村）、ホテルデンハーグ（長崎・ハウステンボス）とは地域（宮古島）もブランド規模も異なり、連続投稿回避の観点でも良い選択。"
   ],
   "evaluation_basis": "100点満点中78点（口コミ評価20/25・口コミ信頼性10/15・独自体験18/20・映え13/15・価格対体験価値6/10・SNS話題性7/10・アクセス/鮮度4/5）。主要レビューサイト評価はSkyticket集計4.2/5（43件）、SLH掲載のTripadvisor評価4.5/5（13件）の2独立情報源で、採用ライン4.0以上を満たす。負の口コミとしてcocolocalaに評価1.0（2026年3月投稿、旧館の設備の古さ・大食堂で他施設宿泊客と相席になることへの不満）が1件あったが、同ページ・他サイトの口コミの多くは専任バトラーの対応や食事・エステへの満足度を高く評価しており、清潔感・接客・安全性に関する重大な指摘が複数の独立情報源で一致して確認されたわけではないため除外基準には該当しないと判断した。",
-  "target_audience": ["カップル", "記念日", "夫婦", "ホテル好き"],
+  "target_audience": [
+    "カップル",
+    "記念日",
+    "夫婦",
+    "ホテル好き"
+  ],
   "why_now": "今回のテーマはカテゴリ『オールインクルーシブ』×地域候補『宮古島または妙高高原』として調査を開始。妙高高原では『オールインクルーシブ』を公式に名乗る施設が確認できなかったため（検索で見つかったのは妙高ではなく那須高原の施設）、宮古島で調査を進めた。宮古島は11月以降も海水温が比較的高く保たれ、紫外線も本州の真夏より穏やかになる『少し贅沢な秋冬の離島旅』の需要期にあたる。直近3日間の投稿（恩納村・読谷村・ハウステンボスのオールインクルーシブ）とは地域が異なり、『次はどこのオールインクルーシブ？』という連続投稿後の期待に応える着地点として今が良いタイミング。",
   "price_note": "複数の予約サイトの参考料金として、cocolocala掲載¥292,423〜（条件不明）、travelist掲載の大人1名/1室/1泊『オーシャンビュー プレミアスイートヴィラ(2ベッドルーム)』¥404,200〜、jcation掲載の大人2名1室2日間合計¥470,362（割引後・税・サービス料込み、1名あたり約¥235,181）などが確認できた。部屋タイプ・人数・時期によって数十万円単位で変動するため、予約前に公式サイト・予約サイトで最新の料金・プラン内容をご確認ください。",
   "access_note": "沖縄県宮古島市新城、宮古島南岸の『シギラセブンマイルズリゾート』内に位置。宮古空港から車で約20分（予約制の送迎あり）。",
@@ -20,15 +25,58 @@
     "tiktok": "宮古島に、専任バトラーが全部やってくれるホテルがあるって知ってる？🏝️\nザ シギラ、シギラセブンマイルズリゾート内。\n全室プライベートプール＋食事・ゴルフ・エステ・サンセットクルーズまで込みのオールインクルーシブ。\n口コミはSkyticket4.2、SLH掲載のTripadvisorで4.5。\n宮古島ホテルランキングでは1位評価。\n旧館はやや古さありの声もあるから部屋タイプは要チェック。\n次の記念日旅、保存して検討して。"
   },
   "hashtags": [
-    "#ザシギラ", "#シギラセブンマイルズリゾート", "#宮古島", "#宮古島旅行",
-    "#オールインクルーシブ", "#沖縄旅行", "#離島リゾート", "#記念日旅行",
-    "#カップル旅行", "#プライベートプール", "#国内旅行", "#贅沢旅"
+    "#ザシギラ",
+    "#シギラセブンマイルズリゾート",
+    "#宮古島",
+    "#宮古島旅行",
+    "#オールインクルーシブ",
+    "#沖縄旅行",
+    "#離島リゾート",
+    "#記念日旅行",
+    "#カップル旅行",
+    "#プライベートプール",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "review_site", "title": "ザ シギラ 宿泊プラン・クチコミまとめ - skyticket", "url": "https://skyticket.jp/hotel/detail/property_16593/" },
-    { "type": "booking_site", "title": "The Shigira - Small Luxury Hotels of the World（Tripadvisor評価4.5/13件を掲載）", "url": "https://slh.com/hotels/the-shigira" },
-    { "type": "review_site", "title": "ザ シギラ クチコミ・料金 - cocolocala", "url": "https://www.cocolocala.jp/hotels/176923" },
-    { "type": "other", "title": "宮古島ホテルランキング記事内『ザ シギラ』紹介 - jcation", "url": "https://jcation.com/hotel/detail-2281/" }
+    {
+      "type": "review_site",
+      "title": "ザ シギラ 宿泊プラン・クチコミまとめ - skyticket",
+      "url": "https://skyticket.jp/hotel/detail/property_16593/"
+    },
+    {
+      "type": "booking_site",
+      "title": "The Shigira - Small Luxury Hotels of the World（Tripadvisor評価4.5/13件を掲載）",
+      "url": "https://slh.com/hotels/the-shigira"
+    },
+    {
+      "type": "review_site",
+      "title": "ザ シギラ クチコミ・料金 - cocolocala",
+      "url": "https://www.cocolocala.jp/hotels/176923"
+    },
+    {
+      "type": "other",
+      "title": "宮古島ホテルランキング記事内『ザ シギラ』紹介 - jcation",
+      "url": "https://jcation.com/hotel/detail-2281/"
+    }
   ],
-  "created_date": "2026-10-20"
+  "created_date": "2026-10-20",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

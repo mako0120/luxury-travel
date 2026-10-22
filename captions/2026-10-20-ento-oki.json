@@ -12,7 +12,13 @@
     "本州からの船旅込みの行程自体が『非日常』として保存・シェア欲を刺激する"
   ],
   "evaluation_basis": "総合スコア82点（100点満点）。review_rating21/25・review_reliability9/15・unique_experience_score19/20・photogenic13/15・value_for_price7/10・sns_buzz8/10・access_and_freshness5/5。じゃらん(Expedia経由)4.8（9件）・楽天トラベル4.4（65件）の独立2情報源が採用ライン（4.0以上）を満たし、icotto口コミ（3.5・1件）は件数が少ないため参考情報として併記。ネガティブレビューは『本館は古く質素、新館推奨』という設備面の指摘があったが、清潔感・接客・予約トラブル等の重大な欠陥は確認されず除外基準（原則10）には抵触しないと判断した（negative_review_check参照）。口コミ件数自体は主要2サイトで9件・65件とやや少ないため、Hidden Gemルール（公式情報確認可・営業継続中・複数情報源あり・強い独自性あり）を満たす穴場候補として評価した。",
-  "target_audience": ["カップル", "夫婦", "一人旅", "絶景好き", "温泉好き"],
+  "target_audience": [
+    "カップル",
+    "夫婦",
+    "一人旅",
+    "絶景好き",
+    "温泉好き"
+  ],
   "why_now": "2026年は大山隠岐国立公園指定90周年にあたり、5月の特集報道でEntôが改めて取り上げられ、同じ2026年にJapan Travel Awards 2026のBest Sustainable Travel部門を受賞したばかり。開業から5年を経てなお新しい第三者評価を獲得している今が『今だから推したい』タイミングであり、10月下旬は台風シーズンが落ち着き紅葉とジオパーク散策に適した気候でもある。",
   "price_note": "全36室、2021年7月開業。Web検索（スニペット経由）では日付指定前提の予約サイトが多く、具体的な1泊料金は確認できなかった。プライベートテラス付きスイート（『NESTSU』『NEST DX』等）は相応の高価格帯が想定される。価格は検索日・対象日・プランにより変動するため、予約時に公式サイト・予約サイトで要確認。",
   "access_note": "本州の七類港（松江市）・境港から隠岐汽船でアクセス、または隠岐空港（島後）経由で内航船に乗り換え。海士町・菱浦港から徒歩約3分という島内アクセスの良さも特徴（本州から現地までは船便を含むため移動時間に余裕を持つ必要がある）。",
@@ -20,14 +26,69 @@
     "instagram": "日本海のど真ん中に浮かぶ、火山がつくったカルデラの絶景リゾート。\n\n島根県・隠岐諸島の中ノ島に泊まれるジオパーク拠点『Entô』。\n全36室、どの部屋からも日本海とカルデラ地形を望めるというから、もう『どこ？』が止まらない。\n\n宿泊しながらジオパークの展示やガイドツアーで島の地形・生態系を学べる、ここでしか成立しない旅のかたち。隠岐牛や地魚を使った地産地消の料理、天然温泉の大浴場も備えていて『何もしない贅沢』を一度は味わいたくなる。\n\n2026年、国際的な旅行アワード『Japan Travel Awards 2026』のサステナブル部門を受賞したばかりというのも注目ポイント。口コミでも隠岐の景色とスタッフの気配りは高評価で、一度は泊まりたいと話題になっている。\n\n秋は台風シーズンが落ち着き、紅葉とジオパーク散策にぴったりの季節。本州からは船旅込みの行程になるから、移動時間そのものも非日常の始まり。\n\n記念日旅行にも、一人旅のご褒美にも。保存して、次の長期休みの行き先候補に。\n\n※写っているのは一度は訪れたいイメージとしてご紹介しています。価格・プラン等は検索日時点のもので変動します。予約時に公式情報をご確認ください。",
     "tiktok": "日本海の真ん中にある火山島、泊まれるジオパークって知ってる？\n島根・隠岐諸島、中ノ島の『Entô』。\n全室オーシャン＆カルデラビュー、天然温泉、隠岐牛グルメ。\n2026年は国際旅行アワードのサステナブル部門を受賞したばかり。\n一度は泊まってみたい、島根の隠れ絶景リゾート。保存して旅の候補に。"
   },
-  "hashtags": ["#隠岐", "#隠岐諸島", "#海士町", "#Ento", "#離島リゾート", "#ジオパーク", "#島根旅行", "#絶景ホテル", "#一度は泊まりたい", "#温泉旅行", "#記念日旅行", "#大人のリトリート"],
-  "sources": [
-    { "type": "press", "title": "<しまねNEWS LETTER 2026年5月号>国立公園90周年の島根・隠岐へ。JTA2026受賞『泊まれるジオパーク』拠点『Entô』で、『何もしない贅沢』を楽しむ大人のリトリート。", "url": "https://prtimes.jp/main/html/rd/p/000000001.000184096.html" },
-    { "type": "other", "title": "Japan Travel Awards 2026 受賞紹介（Best Sustainable Travel） - TimeOut Tokyo", "url": "https://www.timeout.com/tokyo/news/these-are-japans-11-award-winning-travel-experiences-for-2026-012826" },
-    { "type": "review_site", "title": "Entô<隠岐諸島>のクチコミ&詳細（じゃらん/Expedia経由集計4.8・9件） - jcation", "url": "https://jcation.com/hotel/detail-22917/" },
-    { "type": "booking_site", "title": "隠岐島前エリア ホテル一覧（楽天トラベル クチコミ評価4.4・65件） - まっぷるトラベルガイド", "url": "https://www.mapple.net/region/a0601060100/hotel/" },
-    { "type": "review_site", "title": "Entô 口コミ（友人旅行・評価3.5） - icotto", "url": "https://icotto.jp/hotels-11520/" },
-    { "type": "other", "title": "Entô 開業（2021年7月）・施設概要紹介 - TravelVoice", "url": "https://www.travelvoice.jp/20210630-149090" }
+  "hashtags": [
+    "#隠岐",
+    "#隠岐諸島",
+    "#海士町",
+    "#Ento",
+    "#離島リゾート",
+    "#ジオパーク",
+    "#島根旅行",
+    "#絶景ホテル",
+    "#一度は泊まりたい",
+    "#温泉旅行",
+    "#記念日旅行",
+    "#大人のリトリート"
   ],
-  "created_date": "2026-10-20"
+  "sources": [
+    {
+      "type": "press",
+      "title": "<しまねNEWS LETTER 2026年5月号>国立公園90周年の島根・隠岐へ。JTA2026受賞『泊まれるジオパーク』拠点『Entô』で、『何もしない贅沢』を楽しむ大人のリトリート。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000184096.html"
+    },
+    {
+      "type": "other",
+      "title": "Japan Travel Awards 2026 受賞紹介（Best Sustainable Travel） - TimeOut Tokyo",
+      "url": "https://www.timeout.com/tokyo/news/these-are-japans-11-award-winning-travel-experiences-for-2026-012826"
+    },
+    {
+      "type": "review_site",
+      "title": "Entô<隠岐諸島>のクチコミ&詳細（じゃらん/Expedia経由集計4.8・9件） - jcation",
+      "url": "https://jcation.com/hotel/detail-22917/"
+    },
+    {
+      "type": "booking_site",
+      "title": "隠岐島前エリア ホテル一覧（楽天トラベル クチコミ評価4.4・65件） - まっぷるトラベルガイド",
+      "url": "https://www.mapple.net/region/a0601060100/hotel/"
+    },
+    {
+      "type": "review_site",
+      "title": "Entô 口コミ（友人旅行・評価3.5） - icotto",
+      "url": "https://icotto.jp/hotels-11520/"
+    },
+    {
+      "type": "other",
+      "title": "Entô 開業（2021年7月）・施設概要紹介 - TravelVoice",
+      "url": "https://www.travelvoice.jp/20210630-149090"
+    }
+  ],
+  "created_date": "2026-10-20",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }

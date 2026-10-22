@@ -11,7 +11,12 @@
     "熱海から車で30分というアクセスの良さで、東京圏からの週末旅行の受け皿になる。"
   ],
   "evaluation_basis": "100点満点中84点（口コミ評価24/25・口コミ信頼性11/15・独自体験18/20・映え12/15・価格対体験価値8/10・SNS話題性7/10・アクセス/鮮度4/5）。主要レビューサイト評価4.57（推奨ライン4.2を上回る）、口コミ件数81件。低評価の具体的コメントは検索範囲では見つからず。",
-  "target_audience": ["夫婦", "記念日", "グルメ旅", "温泉好き"],
+  "target_audience": [
+    "夫婦",
+    "記念日",
+    "グルメ旅",
+    "温泉好き"
+  ],
   "why_now": "秋は金目鯛が脂の乗る旬の時期。味覚の面でも今のタイミングで紹介する価値が高い。",
   "price_note": "楽天トラベル最安表示で9,350円〜（1名あたりか、素泊まり等の条件付きプランの可能性あり。1泊2食の標準的な価格帯は未確認のため、キャプションでは要確認の旨を明記）。",
   "access_note": "JR伊東線 宇佐美駅より車で5分（無料送迎あり・要予約）、熱海から車で30分。",
@@ -20,15 +25,58 @@
     "tiktok": "特大金目鯛が名物の、伊豆の隠れ宿知ってる？🐟\n『こころね』、全6室限定で楽天トラベル食事評価ランキング全国1位。\n海を望む絶景露天風呂も。\n口コミ81件で4.57の高評価。\n秋の味覚旅、保存しておこう。"
   },
   "hashtags": [
-    "#伊豆旅行", "#伊東温泉", "#宇佐美温泉", "#金目鯛", "#グルメ旅館",
-    "#記念日旅行", "#夫婦旅", "#温泉旅館", "#秋グルメ", "#隠れ宿",
-    "#国内旅行", "#贅沢旅"
+    "#伊豆旅行",
+    "#伊東温泉",
+    "#宇佐美温泉",
+    "#金目鯛",
+    "#グルメ旅館",
+    "#記念日旅行",
+    "#夫婦旅",
+    "#温泉旅館",
+    "#秋グルメ",
+    "#隠れ宿",
+    "#国内旅行",
+    "#贅沢旅"
   ],
   "sources": [
-    { "type": "review_site", "title": "伊豆・伊東 金目鯛の宿 こころね クチコミ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/66517/review.html" },
-    { "type": "booking_site", "title": "伊豆・伊東 金目鯛の宿 こころね - じゃらんnet", "url": "https://www.jalan.net/yad385353/" },
-    { "type": "official", "title": "アクセス | 伊豆・伊東 金目鯛の宿 こころね 公式", "url": "https://cocorone.jp/access" },
-    { "type": "official", "title": "≪公式≫伊豆・伊東 金目鯛の宿こころね", "url": "https://cocorone.jp/" }
+    {
+      "type": "review_site",
+      "title": "伊豆・伊東 金目鯛の宿 こころね クチコミ - 楽天トラベル",
+      "url": "https://travel.rakuten.co.jp/HOTEL/66517/review.html"
+    },
+    {
+      "type": "booking_site",
+      "title": "伊豆・伊東 金目鯛の宿 こころね - じゃらんnet",
+      "url": "https://www.jalan.net/yad385353/"
+    },
+    {
+      "type": "official",
+      "title": "アクセス | 伊豆・伊東 金目鯛の宿 こころね 公式",
+      "url": "https://cocorone.jp/access"
+    },
+    {
+      "type": "official",
+      "title": "≪公式≫伊豆・伊東 金目鯛の宿こころね",
+      "url": "https://cocorone.jp/"
+    }
   ],
-  "created_date": "2026-09-14"
+  "created_date": "2026-09-14",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
 }
