@@ -1,61 +1,89 @@
-# Luxury Travel Influencer Autopilot
+# Luxury Travel / 旅ログ AI Production OS
 
-「少し贅沢だけれど、旅行するならぜひ行ってみたい」宿・体験を、自分でリサーチ・評価・ファクトチェックし、
-Instagram / TikTok 用のキャプション（文章）を書くリサーチ＆ライティングパイプラインです。
+「まだ知られていない良い場所を、写真を主役に、正確で上品なPRとして届ける」ための旅行メディア運用リポジトリです。
 
-> **スコープ（2026-09-14〜）**: このリポジトリが自動で行うのは
-> **①ホテル・観光施設のリサーチ＆採点＆ファクトチェック → ②キャプション（IG/TikTok文章）の執筆** までです。
-> 投稿画像の構成・カルーセルのスライド設計・画像素材探し（カメラマン／デザイン工程）は行いません。
-> `posts/` 以下にある3件は、この方針変更より前に作った過去の成果物（カルーセル付き）としてそのまま残しています。
+このリポジトリは **GitHubを運用ルールの正本（Single Source of Truth）** とし、
+Claude / ChatGPT / Gemini Pro / Notion / Canva / Google Drive の役割を分離して、
+リサーチから投稿制作・QAまで同じ基準で継続できるようにします。
 
-## 運用フロー
+## 最上位の制作思想
+
+- 映えのために場所を誇張しない。
+- 写真を派手にデザインしすぎず、その場所そのものの空気感を伝える。
+- 有名かどうかに関係なく、良さが十分知られていない場所を発見し、幅広く紹介する。
+- 「どんな場所か」「何が良いか」「何ができるか」「どう行くか」「行く前に何を知るべきか」が初見でも分かる投稿にする。
+- PRとして魅力はしっかり伝えるが、広告っぽい煽りや実体験の捏造はしない。
+- 投稿写真は実写を原則とし、実在施設・観光地をAI生成画像で代替しない。
+
+## 二つのレーン
+
+### A. Discovery / Research レーン
+
+主担当: Claude などの調査エージェント
 
 ```
-発見 → 評価 → ファクトチェック → キャプション執筆
+発見 → Web調査 → 評価 → ファクトチェック → キャプション下書き → Notion登録
 ```
 
-詳細な運用原則（採点基準・ファクトチェックルール・トーン方針など）は
-[`docs/operating-principles.md`](docs/operating-principles.md) を参照してください。
-Claude Code などのエージェントがこのリポジトリで作業する際は [`CLAUDE.md`](CLAUDE.md) を読み込むことで
-同じルールで次サイクルを継続できます。
+候補探索では採点を利用してよい。採点は「何を優先して調べるか」を決める編集判断のための指標です。
 
-## ディレクトリ構成
+**重要:** Notion「贅沢旅リサーチ帖」に登録された候補は、その時点で制作対象として承認済みです。
+制作レーンではスコアで再採点・再除外しません。
 
-| パス | 内容 |
+### B. Production / PR レーン
+
+主担当: ChatGPT + Canva  
+第二レビュー: Gemini Pro（APIなし）
+
+```
+Notion取得
+→ 最新Web再確認
+→ ユーザー写真 / 利用可能な公式実写素材の確認
+→ Gemini Proで写真・情報を第二レビュー
+→ ChatGPTが投稿構成を確定
+→ Canva MASTERで5ページ制作
+→ Gemini Proで完成稿を客観QA
+→ ChatGPT最終QA
+→ Canva保存
+→ Notion制作状況更新
+```
+
+## ツールの役割
+
+| ツール | 役割 |
 |---|---|
-| `docs/` | 運用原則・採点基準・トーン方針のドキュメント |
-| `schema/` | 候補データ／キャプションデータの構造定義（JSON Schema） |
-| `data/candidates/` | サイクルごとの候補リサーチ結果（採点・却下理由つき） |
-| `captions/` | BEST候補ごとのリサーチ結果＋キャプション（現行の出力形式。画像・カルーセルなし） |
-| `posts/` | （過去の成果物）カルーセル付き投稿一式。2026-09-14のスコープ変更以降は新規作成しない |
-| `analytics/` | 学習ログ（将来、実際の投稿実績と突き合わせる用） |
-| `scripts/validate.py` | 候補・キャプション・（過去の）投稿データがスキーマの必須項目を満たしているかの簡易チェック |
+| GitHub | ルール・プロンプト・テンプレートの正本 |
+| Claude | 自律的な候補発見、初期調査、評価、Notion登録用情報 |
+| Notion | 候補キュー、制作進捗、キャプション、運用状態 |
+| ChatGPT | 制作司令塔、最新確認、文章決定、Canva制作、最終QA |
+| Gemini Pro | APIなしの第二AI。Deep Research、写真評価、完成稿QA |
+| Canva | Instagram 4:5 / 5ページの最終デザイン |
+| Google Drive | Gemini Proとの画像・PDF受け渡し、監査資料の保管 |
 
-## 新しいサイクルの回し方（エージェント向け）
+## 必ず読むファイル
 
-1. `docs/operating-principles.md` の候補選定基準・除外基準に沿って、Web上で3件以上の候補をリサーチする。
-2. `data/candidates/<date>-<theme>.json` に `schema/candidate.schema.json` の形式で採点結果を記録する（不採用理由も残す）。
-3. 直近の `captions/` と `posts/` を確認し、地域・カテゴリが連続しないように重複防止ルール（原則29）を適用してBEST候補を1つ選ぶ。
-4. `captions/<date>-<slug>.json` を `schema/caption_brief.schema.json` の形式で作成する
-   （施設概要・推薦理由・評価根拠・ターゲット・IG/TikTokキャプション・ハッシュタグ・ソース）。
-   画像候補・カルーセル構成は作らない。
-5. `python3 scripts/validate.py` で必須項目の欠落がないか確認する。
-6. コミットし、リモートへpushする。
+- [docs/operating-principles.md](docs/operating-principles.md) — 全体原則
+- [docs/production-os.md](docs/production-os.md) — 投稿制作の正式フロー
+- [docs/canva-rules.md](docs/canva-rules.md) — Canva制作規則
+- [docs/gemini-pro-workflow.md](docs/gemini-pro-workflow.md) — APIなしGemini Pro連携
+- [docs/workflow.md](docs/workflow.md) — 状態遷移
+- [GEMINI.md](GEMINI.md) — Gemini Proが最初に読む入口
+- [CLAUDE.md](CLAUDE.md) — Claudeが最初に読む入口
+
+## 既存データ
+
+既存の `data/candidates/` と `captions/` はDiscoveryレーンの成果物として継続利用します。
+`posts/` の過去成果物も履歴として残します。
+
+過去の「このリポジトリでは画像制作をしない」という制約は廃止ではなく、
+**ClaudeのDiscoveryレーンには残し、Productionレーンを別工程として追加**しました。
 
 ## 検証
+
+既存JSONデータの検証:
 
 ```bash
 python3 scripts/validate.py
 ```
 
-依存パッケージなしで `data/candidates/*.json`・`captions/*.json`・（過去の）`posts/*/post.json` の
-必須項目・型・妥当性をチェックします。
-
-## 既知の制約
-
-- `posts/2026-09-14-hotel-gyokusen/`, `posts/2026-09-20-mizu-no-oto/`, `posts/2026-09-14-cycl-yamanakako/`
-  の3件（スコープ変更前の成果物）はいずれも `NEEDS_ASSET_APPROVAL` で止まっている。実行環境の
-  ネットワークポリシーにより施設公式サイト・観光協会サイトへの直接アクセスができず、画像の転載権限
-  （原則12）を確認できなかったため。これらは今後更新しない前提だが、着手する場合は `post.json` の
-  `image_candidates` を確定させること。
-- `captions/` の新方式では画像を扱わないため、この制約は今後発生しない。
+制作時の視覚QAは [docs/canva-rules.md](docs/canva-rules.md) のチェックリストを使用します。
