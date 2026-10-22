@@ -26,6 +26,8 @@ Discoveryの候補キュー。
 Productionの状態管理。
 
 追加済みAI連携フィールド:
+- 制作世代
+- V2再制作
 - Gemini調査
 - Gemini写真
 - Gemini QA
@@ -43,6 +45,12 @@ Notion登録済み候補をスコアで制作除外しない。
 MASTER:
 `DAHVoXJDBFw`
 
+V2正式出力フォルダ:
+- `贅沢旅リサーチ帖｜V2再制作`
+- folder_id: `FAHYuHEOty4`
+
+旧Canva投稿は履歴扱い。V2の重複判定・完成判定には使わない。
+
 確認済み:
 - 5ページ
 - 1080×1350
@@ -55,8 +63,12 @@ MASTER:
 
 ## Google Drive
 
-共有作業場:
-`旅ログAI連携`
+共有作業場（V2正式）:
+`旅ログAI連携_V2`
+
+folder_id: `1d_EPvf2LN6FqbDJ3Mh0nx8vl4GAx5zCc`
+
+旧 `旅ログAI連携` は履歴扱いで、V2制作の入力・完成判定には使わない。
 
 工程:
 - 00_制作ルール

@@ -87,3 +87,16 @@ python3 scripts/validate.py
 ```
 
 制作時の視覚QAは [docs/canva-rules.md](docs/canva-rules.md) のチェックリストを使用します。
+
+
+## V2クリーンスレート運用
+
+2026-10-22以降、Productionは**一から再制作**するV2運用です。
+
+- 旧Canva、旧QA、旧コピー、旧モニター完成状態は履歴扱い。
+- 同名の旧投稿が存在してもV2の制作済み判定には使わない。
+- V2の重複判定はV2専用Canvaフォルダと `制作世代=V2正式` のNotion行だけで行う。
+- 旧成果物は削除せず監査履歴として保持する。
+- ユーザー提供の元写真やNotion候補情報は入力素材として再利用できるが、構成・コピー・QAは現在ルールでやり直す。
+
+詳細: [docs/clean-slate-v2.md](docs/clean-slate-v2.md)
