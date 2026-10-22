@@ -1,0 +1,47 @@
+{
+  "version": "3.0",
+  "effective_date": "2026-10-22",
+  "style": "FULL_PHOTO",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350,
+    "aspect_ratio": "4:5"
+  },
+  "default_pages": 8,
+  "min_pages": 6,
+  "max_pages": 8,
+  "page_rules": {
+    "images_per_page": 1,
+    "image_mode": "full_bleed",
+    "text_blocks_per_page": 1,
+    "text_color": "white",
+    "text_length_recommended_japanese_chars": [
+      8,
+      18
+    ],
+    "text_length_max_japanese_chars": 24,
+    "decoration": "minimal"
+  },
+  "standard_sequence": [
+    "HOOK",
+    "WORLD",
+    "STORY",
+    "STAY_OR_EXPERIENCE",
+    "SIGNATURE",
+    "ANOTHER_ANGLE",
+    "DETAIL",
+    "CLOSE"
+  ],
+  "image_quality": {
+    "preferred_long_edge_px": 2000,
+    "ideal_canvas_source": "2160x2700_or_higher",
+    "avoid_screenshots": true,
+    "avoid_social_recompressed_images": true,
+    "reject_weak_images_instead_of_filling_pages": true
+  },
+  "gemini_required": false,
+  "legacy_master": {
+    "design_id": "DAHVoXJDBFw",
+    "role": "compatibility_only"
+  }
+}
