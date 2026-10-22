@@ -23,8 +23,33 @@
 - 枠・カード・吹き出し・大量の装飾は使わない
 - ロゴやUI風パーツは原則置かない
 
-旧5ページMASTER `DAHVoXJDBFw` は履歴・互換用。
-V3の主制作では、写真全面型レイアウトを優先する。
+### 正式MASTER V3.1
+
+- Design ID: `DAHYuWGM2Uw`
+- Title: `みんなの旅ログ｜FULL PHOTO MASTER V3.1｜4x5`
+- Size: 1080×1350px（4:5）
+- Pages: 6
+- Folder: `旅ログ｜MASTER V3`（folder_id: `FAHYuZnyMZU`）
+- Autofill: 対応済み
+
+Autofill fields:
+- `page1_image` / `page1_text`
+- `page2_image` / `page2_text`
+- `page3_image` / `page3_text`
+- `page4_image` / `page4_text`
+- `page5_image` / `page5_text`
+- `page6_image` / `page6_text`
+
+制作時はMASTERを上書きせず、`autofill_design` で新しいデザインを作る。
+写真が7〜8枚必要な案件は、6ページ版を無理に水増しせず、必要なページを別途追加できる制作経路を使う。
+
+### 非推奨MASTER
+
+- `DAHYuM63jmA`: 1080×1440（3:4）・9ページで、V3仕様と不一致のため**使用禁止**
+- `DAHYuWS9Qho`: 上記を4:5へリサイズした移行用9ページ版。正式MASTERとして使わない
+- `DAHVoXJDBFw`: 旧5ページMASTER。履歴・互換用のみ
+
+V3の新規制作は `DAHYuWGM2Uw` を第一選択とする。
 
 ---
 
