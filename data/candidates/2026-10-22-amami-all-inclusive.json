@@ -1,0 +1,150 @@
+{
+  "cycle_date": "2026-10-22",
+  "theme": "カテゴリ『オールインクルーシブ』×地域候補『鹿児島県奄美大島』",
+  "season_rationale": "10月下旬の奄美大島は台風シーズンがほぼ終わり、残暑から徐々に過ごしやすい気候へ移る『狙い目』の時期。海水温もまだ高くマリンアクティビティ・ビーチステイが楽しめる一方、紅葉や雪のない南国リゾートは秋冬の旅行需要の受け皿になりやすい（原則30）。カテゴリ『オールインクルーシブ』は直近2サイクル連続（2026-10-20 宮古島THE SHIGIRA、2026-10-21 三重・鳥羽オーシャンリゾート）で採用されているため、本サイクルでは地域を鹿児島県奄美大島に変えることで地域の連続を回避する狙いだった（原則29）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-20-the-shigira-miyako", "region": "沖縄県宮古島市新城（シギラセブンマイルズリゾート内）", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-21-toba-ocean-resort", "region": "三重県鳥羽市（鳥羽オーシャンリゾート）", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-21-zao-kokusai-hotel", "region": "山形県東根市（蔵王国際ホテル）", "category": "温泉旅館" },
+    { "post_id": "2026-10-21-shinhotaka-ropeway", "region": "岐阜県高山市（新穂高ロープウェイ）", "category": "アクティビティ" },
+    { "post_id": "2026-10-20-fuji-panoramic-ropeway", "region": "静岡県富士宮市周辺", "category": "絶景ホテル" },
+    { "post_id": "2026-09-22-amami-yagijima-hotel", "region": "鹿児島県奄美市名瀬（山羊島）", "category": "離島リゾート（約1ヶ月前・別カテゴリ・selected）" },
+    { "post_id": "2026-09-22-mijora-beachfront", "region": "鹿児島県奄美市笠利町（奄美大島北部）", "category": "離島リゾート（約1ヶ月前・別カテゴリ・shortlisted）" },
+    { "post_id": "2026-09-22-the-scene-amami", "region": "鹿児島県大島郡瀬戸内町（奄美大島最南端）", "category": "離島リゾート（約1ヶ月前・別カテゴリ・rejected）" },
+    { "post_id": "2026-10-19-amami-nakijin-activity (再調査サイクル)", "region": "鹿児島県奄美市住用町・笠利町", "category": "アクティビティ（約3日前・別カテゴリ・全件rejected）" }
+  ],
+  "duplication_note": "直近2投稿（宮古島10/20・鳥羽10/21）はいずれもオールインクルーシブだが地域は沖縄・三重で、鹿児島県奄美大島とは重複しない。地域『奄美大島』については直近数日だけでなく過去全件を確認した。約1ヶ月前の2026-09-22サイクル（離島リゾート）で『奄美山羊島ホテル』（selected）・『伝泊 The Beachfront MIJORA』（shortlisted）・『THE SCENE amami spa & resort』（rejected）の3施設が、2026-10-19サイクル（アクティビティ再調査）で『マングローブ茶屋』『ネイティブシー奄美』（いずれもrejected）が既に調査・記録済みであることを確認した。本サイクルで新たに調査した3施設（コーラルパームス奄美大島／奄美リゾートばしゃ山村／奄美リゾートホテルティダムーン）はこれらと同一施設ではなく、同一施設の重複は発生していない。なお『THE SCENE amami spa & resort』はウェルネス色の強いリゾートだが『オールインクルーシブ』ブランドの明示はなく、再調査でも全食事・飲料込みプランの記載は確認できなかったため、本サイクルの候補としては再利用しなかった（下記research_note参照）。",
+  "research_note": "WebSearchで『奄美大島 オールインクルーシブ』『Amami Oshima all-inclusive resort』等複数のクエリを試したが、奄美大島内で『オールインクルーシブ』（全食事・全飲料込み）を公式に明示している施設は確認できなかった（既存候補のTHE SCENE amami・伝泊MIJORA・山羊島ホテルも含め、確認できたのは2食付き・朝食付き等の通常プランのみ）。この点を踏まえ、本サイクルでは『食事付きの滞在型リゾート』という最も近い解釈で奄美大島内の未調査施設3件（コーラルパームス奄美大島／奄美リゾートばしゃ山村／奄美リゾートホテルティダムーン）を調査したが、いずれも口コミサイトの評価が3.0〜3.5点台中心で、主要レビュー4.0以上を複数の独立情報源で確認できず、かつ『オールインクルーシブ』としての独自体験（専任バトラー・飲料込み等）も確認できなかったため、3件とも不採用とした（詳細は各候補のrecommendation_reason・negative_review_check参照）。事実を捏造して『オールインクルーシブ』に適合させることは避け、正直に該当なしと記録する。次サイクル以降は、オールインクルーシブ×奄美大島という組み合わせ自体の再検討（別カテゴリでの奄美再訪、または別地域でのオールインクルーシブ継続）を推奨する。",
+  "candidates": [
+    {
+      "id": "2026-10-22-amami-coral-palms",
+      "name": "コーラルパームス奄美大島（奄美大島ホテルリゾート コーラルパームス）",
+      "region": "鹿児島県奄美市笠利町宇宿",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.31, "scale": 5, "review_count": 24, "checked_date": "2026-10-22", "url": "https://4travel.jp/dm_hotel-10053348" },
+        { "source": "icotto（宿泊者投稿集計）", "score": 3.5, "scale": 5, "review_count": 1, "checked_date": "2026-10-22", "url": "https://icotto.jp/hotels/2217" }
+      ],
+      "price_range_jpy": {
+        "note": "WebSearchのスニペットでは『1泊2食付=12,100円〜』という表示が確認できたが、2名1室あたりの正確な最新料金・オールインクルーシブ対象プランの有無までは確認できなかった。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "奄美空港から車で約7分、全35室がオーシャンビールの地中海リゾート風の外観。屋外プール・プールサイドバーがあり、薬草『はんだま（水前寺菜）』を使った料理が名物とされる。ただし『オールインクルーシブ』（全食事・全飲料込み）プランの明示は確認できず、通常の2食付きプランが中心。",
+      "renewal_or_news": "確認できる範囲で直近のリニューアル・新プラン等の明確な最新ニュースは見つからなかった。",
+      "target_audience": ["カップル", "一人旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 5,
+        "unique_experience_score": 8,
+        "photogenic": 9,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 43,
+      "recommendation_reason": "空港から近くオーシャンビューの全室構成は魅力的だが、フォートラベル3.31（24件）・icotto3.5のいずれも主要ライン4.0を下回る。口コミでは『風呂』の評価が2.0〜3.29と低く、Wi-Fiがロビー限定、夜間は周辺が暗く『物足りない』という声もあった。『オールインクルーシブ』を公式に明示したプランも確認できず、カテゴリ適合度・採点の両面で採用ラインに届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミで『悪い』評価1件、風呂の評価が低い（2.0〜3.29）。高層階をリクエストしたが反映されなかったという不満、周辺に娯楽が少なく夜は真っ暗という指摘あり。安全性・衛生面での重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "コーラルパームス<奄美大島>の口コミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10053348" },
+        { "type": "other", "title": "コーラルパームス(CORAL PALMS)奄美大島 - icotto", "url": "https://icotto.jp/hotels/2217" },
+        { "type": "booking_site", "title": "コーラルパームス<奄美大島> - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/3160/3160.html" },
+        { "type": "review_site", "title": "コーラルパームス<奄美大島>のクチコミ&詳細 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00908284" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア43点で採用ライン（75点）を大きく下回り、主要レビューサイトの評価も4.0未満（フォートラベル3.31・icotto3.5）。加えて『オールインクルーシブ』を公式に明示するプランが確認できず、カテゴリとの適合度も低いため不採用とした。"
+    },
+    {
+      "id": "2026-10-22-amami-basyayamura",
+      "name": "奄美リゾート ばしゃ山村",
+      "region": "鹿児島県奄美市笠利町用安",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "icotto（宿泊者投稿集計）", "score": 3.25, "scale": 5, "review_count": 2, "checked_date": "2026-10-22", "url": "https://icotto.jp/hotels/2152" },
+        { "source": "フォートラベル", "score": 3.3, "scale": 5, "review_count": 63, "checked_date": "2026-10-22", "url": "https://4travel.jp/dm_hotel-10053349/tips" }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベル等で『和食コース付き2食プラン』の掲載は確認できたが、2名1室あたりの正確な最新料金、オールインクルーシブ対象プランの有無までは確認できなかった。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "太平洋に面したばしゃ山海岸の目の前に立地し、ビーチからのシュノーケリング・熱帯魚やサンゴ観賞、敷地内プール、子ども向けプールがあり家族利用にも向く。郷土料理レストラン『AMAネシア』で鶏飯・伊勢海老コース等を提供。ただし飲料込み・全食事込みの『オールインクルーシブ』プランは確認できなかった。",
+      "renewal_or_news": "確認できる範囲で直近のリニューアル・新プラン等の明確な最新ニュースは見つからなかった。",
+      "target_audience": ["家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 9,
+        "review_reliability": 6,
+        "unique_experience_score": 7,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 40,
+      "recommendation_reason": "ビーチ目の前の立地・シュノーケリング・ファミリー向けプールは魅力だが、icotto3.25・フォートラベル3.3といずれも4.0未満。フォートラベルでは63件の口コミがあるものの評価内訳の確度は限定的で、口コミでは施設の古さ・湿気・匂いを指摘する声や、団体貸切でレストランが当日利用できなかったという不満も確認された。『オールインクルーシブ』プランの明示もなく採用ラインに届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "jcation等の口コミで『施設は古め、湿度も高めだったのでにおいを感じた（許容範囲内）』という指摘、外観を『レトロ』と表現する投稿、当日団体貸切でレストランがCLOSEだったという不満が確認された。安全性・衛生面での重大な指摘には至らないが、設備の老朽化・混雑時の体験ばらつきは無視できない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "奄美リゾート ばしゃ山村 - icotto", "url": "https://icotto.jp/hotels/2152" },
+        { "type": "review_site", "title": "奄美リゾート ばしゃ山村 - 口コミ・感想 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10053349/tips" },
+        { "type": "booking_site", "title": "奄美リゾート ばしゃ山村<奄美大島> - じゃらん", "url": "https://www.jalan.net/yad325560/" },
+        { "type": "other", "title": "奄美リゾート ばしゃ山村のご紹介 - 近畿日本ツーリスト", "url": "https://yado.knt.co.jp/st/S460085/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア40点で採用ライン（75点）を大きく下回り、主要レビュー評価も4.0未満（icotto3.25・フォートラベル3.3）。設備老朽化・湿気の指摘やレストラン休業の不満も確認され、『オールインクルーシブ』の明示プランも確認できないため不採用とした。"
+    },
+    {
+      "id": "2026-10-22-amami-thidamoon",
+      "name": "奄美リゾートホテル ティダムーン",
+      "region": "鹿児島県奄美市笠利町平",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Expedia", "score": 4.3, "scale": 5, "review_count": 1, "checked_date": "2026-10-22", "url": "https://www.expedia.co.jp/go/hotel/info/15480615" },
+        { "source": "travel.co.jp", "score": 4.6, "scale": 5, "review_count": 1, "checked_date": "2026-10-22", "url": "https://www.travel.co.jp/stay/hotel/842629/" },
+        { "source": "icotto（接客対応・食事ドリンク・風呂の個別評価）", "score": 2.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-22", "url": "https://icotto.jp/hotels/2187" }
+      ],
+      "price_range_jpy": {
+        "note": "WebSearchのスニペットでは『1泊朝食付=13,000円〜』という表示が確認できたが、2名1室あたりの正確な最新料金、オールインクルーシブ対象プランの有無までは確認できなかった。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "太平洋に面したプライベートビーチ沿いに立地し、屋外プール・エステ・無料空港シャトルを備える。aumoの奄美大島人気ホテルランキングで2位との紹介もある。ただし口コミでは浴場の評価が低く（icotto 2.0）、公式サイトに掲載のイタリアンメニューが実際には提供されなかったという指摘もあり、『オールインクルーシブ』プランの明示も確認できなかった。",
+      "renewal_or_news": "確認できる範囲で直近のリニューアル・新プラン等の明確な最新ニュースは見つからなかった。",
+      "target_audience": ["カップル", "記念日", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 5,
+        "unique_experience_score": 10,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 53,
+      "recommendation_reason": "Expedia4.3・travel.co.jp4.6と2情報源で4.0以上の表示はあるものの、いずれも件数・算出方法が非開示で信頼性に限界がある（原則6: 件数とセットで信頼度を判断）。icottoの個別評価では『風呂』が2.0と低く、口コミでは公式サイト掲載の料理が実際には提供されなかったという具体的な不満も確認された。奄美大島内で最も好意的な情報が多い候補だったが、信頼できる口コミ件数の確認・『オールインクルーシブ』プランの明示ができず、採用ラインに届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミで『大浴場が夜のみ営業だった』『公式サイトに掲載されていた奄美料理アレンジのイタリアンが実際には食べられなかった』という具体的な不満が確認された。icottoの個別評価では風呂が2.0と低い。安全性に関わる重大な指摘はないが、情報と実態のギャップは看過できない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "奄美リゾートホテル ティダムーン - Expedia", "url": "https://www.expedia.co.jp/go/hotel/info/15480615" },
+        { "type": "review_site", "title": "ホテル | 奄美大島・喜界島 - travel.co.jp", "url": "https://www.travel.co.jp/stay/hotel/842629/" },
+        { "type": "other", "title": "ティダムーン(THIDA MOON)奄美大島 - icotto", "url": "https://icotto.jp/hotels/2187" },
+        { "type": "other", "title": "奄美リゾートホテル ティダムーン - るるぶトラベル", "url": "https://www.rurubu.travel/hotel/japan/amamioshima/amami-resort-hotel-thida-moon" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア53点で採用ライン（75点）に届かず、Expedia・travel.co.jpの評価は4.0以上だが件数・算出根拠が不明で信頼度に限界がある。口コミでは浴場評価の低さ（icotto 2.0）や、公式サイト掲載メニューと実際の提供内容の不一致という具体的な不満も確認された。『オールインクルーシブ』プランの明示もなく、本サイクルでは不採用とした。"
+    }
+  ]
+}
