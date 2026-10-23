@@ -1,0 +1,147 @@
+{
+  "cycle_date": "2026-10-23",
+  "theme": "カテゴリ『オールインクルーシブ』再調査（2回目・最終）×地域候補『長崎県雲仙温泉または静岡県下田・南伊豆エリア』",
+  "season_rationale": "カテゴリ『オールインクルーシブ』は1回目の調査（2026-10-23・熊本県天草エリア）で公式に『オールインクルーシブ』を明示する施設が確認できず該当なしだったため、今回が再調査（最終1回）。ユーザー指定の地域候補は『長崎県雲仙温泉または静岡県下田・南伊豆エリア』の2択。静岡側は直前日（2026-10-22）に同一カテゴリ・同一半島（伊豆）の静岡県伊東市『風の薫 MORI Premier』がすでにselected済みで、下田・南伊豆エリアは地理的に近接し重複感が出やすいため、多様性確保の観点から長崎県雲仙エリアを選択。雲仙温泉そのものでは公式に『オールインクルーシブ』を明示する施設が確認できなかったが、雲仙・島原観光エリアとして一体的に扱われる島原温泉で、施設名自体に『オールインクルーシブ』を冠するホテルを確認できたため、雲仙・島原エリアとして調査を実施した。10月下旬〜11月は島原・雲仙エリアが紅葉・温泉シーズンに入り、年末年始前の予約検討が動くタイミング。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-23-all-inclusive-amakusa（該当なし・全件rejected）", "region": "熊本県天草エリア", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-22-izu-ito-all-inclusive", "region": "静岡県伊東市（MORI Premierをselected）", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-21-toba-ocean-resort", "region": "三重県鳥羽市", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-20-the-shigira-miyako", "region": "沖縄県宮古島市", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-22-amami-all-inclusive（該当なし）", "region": "鹿児島県奄美大島", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-19-all-inclusive-motobu-htb", "region": "沖縄県本部町", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-18-all-inclusive-yomitan-zanpa", "region": "沖縄県読谷村", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-18-all-inclusive-rusutsu", "region": "北海道留寿都村", "category": "オールインクルーシブ" }
+  ],
+  "duplication_note": "data/candidates・captions配下の既存全件（2026-09-14〜2026-10-22、約100件超）をファイル名・内容で確認し、『雲仙』『島原』『Unzen』『Shimabara』『下田』『南伊豆』『Shimoda』『Minami-Izu』を含む既存候補・投稿は一件も存在しないことを確認した（grep検索で0件）。同一カテゴリ『オールインクルーシブ』は沖縄（本部・読谷・宮古島）・北海道（留寿都）・三重（鳥羽）・静岡（伊東）・鹿児島（奄美・該当なし）・熊本（天草・該当なし）で既に調査済みだが、長崎県での調査は今回が初めて。熊本県内では黒川温泉（2026-09-14・2026-10-22、いずれも別カテゴリ）が既出だが、別エリア・別カテゴリのため重複しない。",
+  "research_note": "ユーザー指定の必須条件『オールインクルーシブプランを公式に明示している施設』を優先して探すため、『雲仙温泉 オールインクルーシブ』『雲仙 ホテル 飲み放題 全食事込み オールインクルーシブ』等でWebSearchを行ったが、雲仙温泉（雲仙市小浜町雲仙）エリア内で『オールインクルーシブ』を公式に明示する施設は確認できなかった。一方、同じ『雲仙・島原』観光エリア内の島原温泉（島原市）で、主要予約サイト（じゃらん・楽天トラベル・JTB・Yahoo!トラベル等）すべてにおいて施設名そのものに『海のサウナ&スパ オールインクルーシブ』を冠する『島原温泉ホテル南風楼』を発見した。これは1回目調査（天草）で確認済みだった施設だが、当時は地域が天草エリアだったため対象外としていたもの。今回は地域候補が『雲仙エリア』であり、島原は雲仙と同一の観光圏（雲仙・島原エリア）としてマップル等の観光情報サイトでも一体的に区分されているため、対象施設として調査対象に加えた。比較対象として雲仙温泉内の高評価施設2件（Mt.Resort雲仙九州ホテル／雲仙みかどホテル）も調査したが、いずれも『オールインクルーシブ』の公式明記は確認できなかった。",
+  "candidates": [
+    {
+      "id": "2026-10-23-shimabara-nanpuro",
+      "name": "海のサウナ&スパ オールインクルーシブ 島原温泉ホテル南風楼",
+      "region": "長崎県島原市弁天町2-7331-1（島原温泉・雲仙・島原エリア）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.7, "scale": 5, "review_count": 4318, "checked_date": "2026-10-23", "url": "https://www.jalan.net/yad348552/" },
+        { "source": "楽天トラベル", "score": 4.64, "scale": 5, "review_count": 2171, "checked_date": "2026-10-23", "url": "https://travel.rakuten.co.jp/HOTEL/878/review.html" },
+        { "source": "フォートラベル", "score": 4.0, "scale": 5, "review_count": 52, "checked_date": "2026-10-23", "url": "https://4travel.jp/dm_hotel-10052587" }
+      ],
+      "price_range_jpy": {
+        "note": "予約サイトにより表示差が大きい。JTB掲載のオールインクルーシブプランで4名1室1人あたり12,000円〜（大人2名1室合計31,900円〜表示あり）、じゃらんでは大人2名1室1泊20,900円〜、楽天トラベルでは最安10,500円（税込11,550円）〜、別掲載では大人2名23,100円〜という表示も確認。オールインクルーシブ対象プランには飲み放題・サウナ&プール利用無料・部屋の24時間ドリンクサーバー等が含まれる旨の記載があるが、プランごとの適用範囲は要確認。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "島原温泉で唯一の源泉かけ流しとされる、海に向かって流れ落ちる演出の『潮音の湯』海見露天風呂が名物。施設名自体に『オールインクルーシブ』を冠し、飲み放題・総ひのきサウナ&水風呂（瞑想ひとりサウナ含む）・プールの無料利用・部屋の24時間ドリンクサーバーなどを宿泊料金に含むプランを公式に展開している点が、同エリアの他施設にはない独自性。有明海の幸や島原半島産野菜を使った創作会席料理も提供。2026年4月25日にキッズプールを新設。",
+      "renewal_or_news": "じゃらん掲載情報で2026年4月25日からキッズプールが新規オープンしたことを確認。2014年には新館『The Grand Oceans』が開業しており、以降オールインクルーシブ型のサウナ&スパ業態へ業態転換した形跡がある（開業時期の正式な公式発表は未確認）。",
+      "target_audience": ["家族", "夫婦", "カップル", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 83,
+      "recommendation_reason": "じゃらん4.7（4,318件・非常に多い母数）・楽天トラベル4.66・フォートラベル4.0（52件）という3つの独立情報源すべてで採用ライン4.0以上を満たす。施設名そのものに『オールインクルーシブ』を冠し、飲み放題・サウナ&プール無料・24時間ドリンクサーバーを公式に明示している点はユーザー指定の必須条件に明確に合致し、知名度の低さに反して高評価という『知られていない良さ』の条件も満たす。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルのクチコミ52件中『悪い』4件・『とても悪い』1件。項目別評価ではアクセス3.31・バリアフリー3.26が他項目（風呂4.19等）より明確に低く、JR諫早駅から車で約60分・島原港から送迎（三池港より約45分・熊本港より最速30分〜）という、公共交通では不便な立地が弱点として確認された。『高級感はないが家族やグループで気軽に楽しめる』という評も複数あり、重大な衛生・安全上の指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "海のサウナ&スパ オールインクルーシブ 島原温泉ホテル南風楼 - じゃらんnet（4.7・4,318件）", "url": "https://www.jalan.net/yad348552/" },
+        { "type": "booking_site", "title": "海のサウナ&スパ オールインクルーシブ 島原温泉ホテル南風楼 - 楽天トラベル（4.66）", "url": "https://travel.rakuten.co.jp/HOTEL/878/" },
+        { "type": "review_site", "title": "ホテル南風楼の口コミ・評価（52件・項目別評価含む） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10052587" },
+        { "type": "booking_site", "title": "ホテル南風楼 プラン・料金一覧（オールインクルーシブプラン記載） - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/8219002/plan/" },
+        { "type": "other", "title": "ホテル 南風楼の温泉情報・口コミ - ニフティ温泉", "url": "https://onsen.nifty.com/shimabara-onsen/onsen006588/" }
+      ],
+      "decision": "selected",
+      "rejection_reason": ""
+    },
+    {
+      "id": "2026-10-23-unzen-kyushu-hotel",
+      "name": "Mt.Resort 雲仙九州ホテル",
+      "region": "長崎県雲仙市小浜町雲仙（雲仙温泉）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Relux", "score": 4.7, "scale": 5, "review_count": 96, "checked_date": "2026-10-23", "url": "https://rlx.jp/23644/review/" },
+        { "source": "skyticket", "score": 4.8, "scale": 5, "review_count": 475, "checked_date": "2026-10-23", "url": "https://skyticket.jp/hotel/japan/onsen/unzen_onsen/" }
+      ],
+      "price_range_jpy": {
+        "note": "正確な1泊2食価格帯はWebSearchの範囲では確認できなかった。オールインクルーシブ対象プランの記載も確認できず。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "9,158㎡の広大な敷地にわずか25室という低密度リゾート。全室に半露天風呂または露天風呂を備え、館内のカフェ・ラウンジではアルコールを含む飲み物を無料提供（口コミに基づく）。じゃらんの夕食部門九州No.1受賞歴があり、蟹や国産和牛のビュッフェ・飲み放題が評判。",
+      "renewal_or_news": "確認できる範囲で直近の大規模リニューアル等の明確な最新ニュースは見つからなかった。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 11,
+        "unique_experience_score": 10,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 69,
+      "recommendation_reason": "Relux4.7（96件）・skyticket4.8（475件）という2つの独立情報源で非常に高い評価を確認。全室露天風呂・低密度リゾートという独自体験は魅力的だが、館内ラウンジでの無料ドリンク提供は口コミベースの情報であり、宿泊料金に食事・ドリンク・施設利用を包括的に含む『オールインクルーシブ』プランの公式明記は確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "検索結果の範囲では重大な衛生・安全上の指摘は確認されなかった。じゃらん掲載ページの説明文が別施設（みかど門）のものと混在して表示される事例があり、情報の正確な対応関係には注意が必要。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "Mt.Resort 雲仙九州ホテルのレビュー（4.7・96件） - Relux", "url": "https://rlx.jp/23644/review/" },
+        { "type": "review_site", "title": "雲仙エリアの口コミ評価が高いホテル一覧（Mt.Resort雲仙九州ホテル 4.8・475件） - skyticket", "url": "https://skyticket.jp/hotel/japan/onsen/unzen_onsen/" },
+        { "type": "other", "title": "Mt.Resort 雲仙九州ホテル 施設紹介 - icotto", "url": "https://icotto.jp/hotels/5038" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "レビュー評価自体はRelux4.7（96件）・skyticket4.8（475件）と非常に高水準だが、ユーザー指定の必須条件である『オールインクルーシブプランを公式に明示している施設』には該当しない。無料ドリンク提供は口コミベースの情報に留まり、公式プランとしての包括的な明記が確認できないため不採用とした。"
+    },
+    {
+      "id": "2026-10-23-unzen-mikado-hotel",
+      "name": "雲仙みかどホテル本館",
+      "region": "長崎県南島原市深江町甲5292-2（雲仙近郊・南島原山中）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.3, "scale": 5, "review_count": 4465, "checked_date": "2026-10-23", "url": "https://www.jalan.net/yad331512/" }
+      ],
+      "price_range_jpy": {
+        "note": "正確な1泊2食価格帯はWebSearchの範囲では確認できなかった。オールインクルーシブ対象プランの記載もなし。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "国産牛の焼肉やタラバ蟹が食べ放題の豪華ビュッフェ夕食が評判。併設のカフェ・ラウンジでフリードリンクを提供。",
+      "renewal_or_news": "確認できる範囲で直近のリニューアル・新プラン等の明確な最新ニュースは見つからなかった。",
+      "target_audience": ["家族", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 7,
+        "unique_experience_score": 8,
+        "photogenic": 8,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 54,
+      "recommendation_reason": "じゃらん4.3（4,465件・母数は大きい）は良好だが、同名の別館『雲仙館』が閉鎖済みであることや、icotto・フォートラベル側の評価表示が不明瞭・不整合であることから、独立2情報源での確認ができなかった。焼肉・蟹食べ放題のビュッフェとラウンジのフリードリンクという魅力はあるが、『オールインクルーシブ』の公式明記はなく、所在地も雲仙温泉そのものではなく南島原市深江町の山中である点も確認された。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icottoの口コミで、禁煙ルームを予約していたが当日の手違いで喫煙ルームに案内されたという不満が確認された。フォートラベルでは坂道の多さ・混雑・山中のためアクセスが不便という指摘もあった。重大な安全・衛生上の指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "雲仙みかどホテル本館 - じゃらんnet（4.3・4,465件）", "url": "https://www.jalan.net/yad331512/" },
+        { "type": "review_site", "title": "雲仙みかどホテル 口コミ・評価 - icotto", "url": "https://icotto.jp/hotels/7914" },
+        { "type": "review_site", "title": "雲仙みかどホテル関連ページ（別館『雲仙館』閉鎖の注記あり） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10038524" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "じゃらん4.3（4,465件）は良好だが、独立2情報源での確認ができず（別館閉鎖・他サイトの評価表示が不整合）、評価の信頼性に欠ける。室タイプの手違いやアクセスの不便さに関する不満も確認された。『オールインクルーシブ』の公式明記もなく、所在地も雲仙温泉そのものではないため不採用とした。"
+    }
+  ]
+}
