@@ -3,36 +3,33 @@
 Effective: 2026-10-22
 
 ## Decision
-From V2 onward, previous Canva posts, prior QA results, old production monitor rows, old Drive handoffs, and old generated copy are history only. They must not be used to decide that a destination is already produced.
+以前のCanva投稿、旧QA、旧制作モニター完成状態、旧Drive handoff、旧コピーは履歴。新規制作済み判定には使わない。
 
 ## Reusable inputs
-Only durable inputs may be reused:
-- Notion source candidates and factual source links
+再利用してよい:
+- Notion source candidates / factual source links
 - user-provided original photos
-- current Canva MASTER `DAHVoXJDBFw`
+- 正式Canva MASTER `DAHYun12-UY`
 - current GitHub rules
 - current official web information
 
-Old copy, old page composition, old photo ranking, old QA judgments, old completed statuses, and old Canva designs are not production inputs.
+旧コピー、旧ページ構成、旧写真評価、旧QAは制作入力にしない。
 
-## V2 official destinations
-Canva:
-- `贅沢旅リサーチ帖｜V2再制作`
-- folder_id: `FAHYuHEOty4`
+## Official Canva
+MASTER:
+- `旅ログ｜MASTER 7PHOTO｜1ページ1枚`
+- design_id: `DAHYun12-UY`
+- master folder_id: `FAHYuZnyMZU`
 
-Google Drive:
-- `旅ログAI連携_V2`
-- folder_id: `1d_EPvf2LN6FqbDJ3Mh0nx8vl4GAx5zCc`
-
-Notion:
-- `制作世代 = V2正式`
-- `V2再制作 = true`
+完成投稿:
+- `ラグジュアリー旅行`
+- folder_id: `FAHYuFhOnLM`
 
 ## Deduplication
-Deduplicate only inside V2. An old design with the same destination name does not count as complete. A destination is complete only when a V2 monitor row points to a V2 Canva design saved in the V2 official folder and current QA is passed.
+完成扱いは、現在ルールで作成した7ページ投稿がラグジュアリー旅行フォルダに保存され、現在QAを通過している場合のみ。
 
 ## Build rule
-Every V2 destination is rebuilt from current source/user request, fresh official verification, current real photos, current Gemini review when used, current MASTER schema, and current QA. Do not copy old text, page order, claims, or QA decisions merely because they exist.
+毎回MASTERをコピーし、最新公式情報と現在の高品質実写7枚で作る。MASTER本体を上書きしない。
 
 ## Legacy handling
-Do not delete legacy assets automatically. Keep them as archive/history. Do not move them into V2 folders and do not include them in V2 completion counts.
+旧資産は削除せず履歴として保持する。

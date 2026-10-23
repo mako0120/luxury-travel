@@ -1,0 +1,46 @@
+{
+  "version": "7PHOTO-1.0",
+  "effective_date": "2026-10-22",
+  "source_user_design_id": "DAHYuli8hkQ",
+  "canonical_master_design_id": "DAHYun12-UY",
+  "master_title": "旅ログ｜MASTER 7PHOTO｜1ページ1枚",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350,
+    "aspect_ratio": "4:5"
+  },
+  "page_count": 7,
+  "photo_count": 7,
+  "photos_per_page": 1,
+  "central_divider": false,
+  "split_layout": false,
+  "master_folder_id": "FAHYuZnyMZU",
+  "output_folder_id": "FAHYuFhOnLM",
+  "flow": [
+    "copy_master",
+    "verify_current_facts",
+    "select_7_real_photos",
+    "non_generative_adjustment",
+    "replace_7_photos",
+    "replace_copy",
+    "visual_qa",
+    "save_to_luxury_travel",
+    "update_notion"
+  ],
+  "roles": [
+    "COVER_HOOK",
+    "WHAT",
+    "SIGNATURE",
+    "STORY",
+    "ANOTHER_VALUE",
+    "EXPERIENCE_DETAIL",
+    "CLOSE"
+  ],
+  "photo_integrity": {
+    "ai_generated_real_scene": false,
+    "generative_fill": false,
+    "background_expansion": false,
+    "object_removal": false,
+    "weather_or_season_change": false
+  }
+}
