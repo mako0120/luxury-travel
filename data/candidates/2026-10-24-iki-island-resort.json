@@ -1,0 +1,142 @@
+{
+  "cycle_date": "2026-10-24",
+  "theme": "離島リゾート（長崎県壱岐島）の新規調査",
+  "season_rationale": "離島リゾートカテゴリは直近でも継続的に調査しており、2026-10-20に隠岐諸島Entô（82点・採用済み）、2026-10-22に宮古島下地島シギラミラージュ（81点・採用済み）、2026-10-23に屋久島Samana（77点・採用済み）が採用されている一方、対馬（2026-10-22）・甑島（2026-10-23）は採用ラインに届かず不採用だった。長崎県は五島（候補のみ）・対馬（不採用）・ハウステンボス（オールインクルーシブで採用済み）と既出だが、同県の壱岐島は本リポジトリで一度も調査対象になっていなかったため、依頼により新規地域として着手した。11月にかけて気候が安定し長崎県の離島へのアクセスが快適になる時期であり、壱岐は『縄文〜弥生・原の辻遺跡の歴史』『湯ノ本温泉』『壱岐牛・ウニ等の海鮮』を併せ持つ島として近年メディア露出が増えている点も調査の動機とした。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-23-koshikishima-remote-island-resort", "region": "鹿児島県甑島", "category": "離島リゾート", "note": "候補3件すべて不採用（最高53点）。" },
+    { "post_id": "2026-10-23-yakushima-remote-island-resort-recheck", "region": "鹿児島県屋久島", "category": "離島リゾート", "note": "Samana Hotel Yakushimaが77点でselected。" },
+    { "post_id": "2026-10-22-miyakojima-remote-island-resort-recheck2", "region": "沖縄県宮古島市下地島", "category": "離島リゾート", "note": "シギラミラージュが81点でselected。" },
+    { "post_id": "2026-10-22-tsushima-remote-island-resort", "region": "長崎県対馬市", "category": "離島リゾート", "note": "候補3件すべて不採用（最高51点）。長崎県の離島として直前に調査済みだが壱岐とは別島。" },
+    { "post_id": "2026-10-20-sado-oki-resort", "region": "新潟県佐渡島／島根県隠岐諸島", "category": "離島リゾート", "note": "隠岐のEntôが82点でselected。" },
+    { "post_id": "2026-10-19-hotel-denhaag-htb", "region": "長崎県佐世保市ハウステンボス町", "category": "オールインクルーシブ", "note": "長崎県の既出事例だがハウステンボスで壱岐とは無関係。" },
+    { "post_id": "2026-10-18-goto-retreat-ray", "region": "長崎県五島市（福江島）", "category": "離島リゾート", "note": "候補のみで選定なし。" }
+  ],
+  "duplication_note": "data/candidates・captions配下の全件（2026-09-14〜2026-10-23、1ヶ月以上前を含む）を『壱岐』『いき』『iki』で確認した結果、本サイクル以前に壱岐島を対象とした候補・投稿は一件も存在せず、地域として完全に新規であることを確認した。長崎県自体は五島（2026-10-18・候補のみ）、ハウステンボス（2026-10-19・採用済み）、対馬（2026-10-22・不採用）で既出だが、いずれも壱岐とは別の島・施設であり重複にはあたらない。",
+  "candidates": [
+    {
+      "id": "2026-10-24-hirayama-ryokan-iki",
+      "name": "奥壱岐の千年湯 平山旅館",
+      "region": "長崎県壱岐市勝本町立石西触（湯ノ本温泉）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.9, "scale": 5, "review_count": 194, "checked_date": "2026-10-24", "url": "https://www.jalan.net/yad324954" },
+        { "source": "楽天トラベル（gpoint daredoko経由で確認）", "score": 4.77, "scale": 5, "review_count": 11, "checked_date": "2026-10-24", "url": "https://travel.gpoint.co.jp/daredoko/h8254/" },
+        { "source": "フォートラベル", "score": 3.36, "scale": 5, "review_count": 21, "checked_date": "2026-10-24", "url": "https://4travel.jp/dm_hotel_tips/10762131" }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらんでは1泊2名利用合計43,560円〜（1泊2食想定）という表示を確認した。一休.comの記念日プラン（1泊2食・メッセージ入りケーキ付）は2名で税込50,990円。楽天トラベル関連の最安値表示では1室1泊26,620円〜29,040円という値もあり、プラン・時期による差が大きい。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "壱岐島の湯ノ本温泉にある全8室の小さな島宿。1,700年以上の歴史（別の紹介では1,500年以上）を持つとされる源泉を、加水・循環なしの『源泉かけ流し』で提供。鉄分を含む赤褐色の塩泉で、温泉成分が基準値の約14倍とされる濃い湯質が特徴。神功皇后ゆかりの『子宝の湯』という言い伝えもある。料理長自ら釣る天然旬魚の刺身盛りや肝ソースの鮑ステーキ、冬季限定のすき焼きなど、島の食材を使った創作郷土料理が名物。芦辺港から車で約17分、港までの送迎あり。",
+      "renewal_or_news": "このセッションのWebSearchでは直近のリニューアル・新プラン等の発表は確認できなかったが、2026年6月時点の口コミが複数の情報源で継続的に投稿されており、現在も通常営業していることを確認した。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 10,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 79,
+      "recommendation_reason": "じゃらん4.9（194件）、楽天トラベル系4.77という2つの独立した情報源で、件数・評価とも高水準の支持を確認できた（フォートラベルのみ3.36・21件とばらつきがあるが、同サイトの項目別評価では食事4.77・風呂4.50・接客4.36・客室4.32と高く、総合値を下げているのはアクセス2.58の低評価であり、料理・温泉・接客自体への評価は一貫して高い）。全8室の小規模な島宿でありながら、1,700年とされる源泉かけ流しの濃厚な温泉、料理長自ら釣る旬魚など『まだ知られていない良さ』を伝えやすい素材が揃っており、Precious.jp・現代ビジネス等のメディアでも紹介実績がある。離島の秘湯旅館という立ち位置はHidden Gemとして扱うのが適切と判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミ（2020年1月投稿）で、正月料金が割高に感じられ特別感に乏しかったという指摘と、食事処のクッションに染みがあり清潔感を欠いたという指摘があった。cocolocala（2026年6月投稿）では、塩分の強い赤褐色の湯のため白いタオルが変色しやすい点、日帰り入浴が17〜19時は宿泊者専用になる点が注意点として挙げられていた。いずれも運営の根本的な問題ではなく、衛生・安全上の重大な指摘が複数情報源で一致したわけではないため、disqualifying issueには該当しないと判断した。じゃらんの満足度分布でも『やや不満』『不満』は0%だった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "奥壱岐千年湯 平山旅館 - じゃらんnet（4.9・194件）", "url": "https://www.jalan.net/yad324954" },
+        { "type": "review_site", "title": "奥壱岐の千年湯 平山旅館 - フォートラベル（口コミ・項目別評価）", "url": "https://4travel.jp/dm_hotel_tips/10762131" },
+        { "type": "other", "title": "奥壱岐の千年湯 平山旅館 - gpoint daredoko（楽天トラベル口コミ4.77集計）", "url": "https://travel.gpoint.co.jp/daredoko/h8254/" },
+        { "type": "booking_site", "title": "平山旅館 記念日プラン - 一休.com", "url": "https://www.ikyu.com/00030139/" },
+        { "type": "press", "title": "壱岐の名湯・湯ノ本温泉で源泉かけ流しを満喫 - トラベルjp 旅行ガイド", "url": "https://www.travel.co.jp/guide/matome/7399/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-24-iki-retreat-kairi-murakami",
+      "name": "壱岐リトリート 海里村上",
+      "region": "長崎県壱岐市（郷ノ浦町周辺・海沿い）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "スカイチケット", "score": 4.5, "scale": 5, "review_count": 247, "checked_date": "2026-10-24", "url": "https://skyticket.jp/hotel/nagasaki/bl_420017/" },
+        { "source": "フォートラベル", "score": 3.36, "scale": 5, "review_count": 21, "checked_date": "2026-10-24", "url": "https://4travel.jp/dm_hotel-10060195" }
+      ],
+      "price_range_jpy": {
+        "note": "cocolocala経由の表示で1人あたり目安96,124円〜（赤ウニ・壱岐牛等の高級食材を使った夕食付きプラン想定）という高価格帯の表示を確認した。正確な1泊2食の室料は検索では確定できなかった。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全室オーシャンビュー・源泉かけ流しの露天風呂付きで、2019年のミシュランガイドで離島の宿として『5パビリオン』に選定されたとされる高級旅館。赤ウニ・壱岐牛など島の高級食材を使った料理が売り。",
+      "target_audience": ["カップル", "記念日", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 10,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 2
+      },
+      "score": 68,
+      "recommendation_reason": "全室オーシャンビュー・源泉かけ流し・ミシュラン5パビリオン歴というブランド力は高く、スカイチケットでは4.5（247件）という高評価だが、同じ施設でフォートラベルは3.36（21件）と情報源間で評価が食い違っている。フォートラベルの項目別では食事4.77・風呂4.50と高い一方、アクセス2.58が総合値を押し下げている構図は平山旅館と同様だが、こちらは1人目安96,124円〜という高価格帯であるにもかかわらず、国内の主要レビューサイト（フォートラベル）で4.0以上を独立して確認できていない点が弱い。価格に対する体験価値の確証が平山旅館ほど取れなかったため、今回は見送りとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルのアクセス評価が2.58と低く、離島の立地による不便さが低評価の主因と見られる。cocolocalaでは2026年6月の5.0評価の口コミ（スタッフ対応・部屋の露天風呂・壱岐牛を評価）と3.0評価の口コミが混在しており、満足度にばらつきがある。衛生・安全上の重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "壱岐リトリート 海里村上 - フォートラベル（口コミ・項目別評価）", "url": "https://4travel.jp/dm_hotel-10060195" },
+        { "type": "booking_site", "title": "壱岐リトリート 海里村上 - スカイチケット（4.5・247件）", "url": "https://skyticket.jp/hotel/nagasaki/bl_420017/" },
+        { "type": "other", "title": "壱岐リトリート 海里村上 - cocolocala", "url": "https://www.cocolocala.jp/hotels/487275" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "高価格帯（1人目安96,124円〜）にもかかわらず、国内主要レビューサイト（フォートラベル3.36・21件）で原則6の4.0以上ラインを独立して満たせておらず、評価のばらつきも大きいため、今回は見送りとした。"
+    },
+    {
+      "id": "2026-10-24-kokuminshukusha-ikishima-so",
+      "name": "国民宿舎 壱岐島荘",
+      "region": "長崎県壱岐市勝本町立石西触（湯ノ本温泉）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 3.8, "scale": 5, "review_count": 9, "checked_date": "2026-10-24", "url": "https://www.jalan.net/420000/spt_guide000000160496/" }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらんで1泊2名13,200円〜という表示を確認した。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "平山旅館と同じ湯ノ本温泉エリアにある国民宿舎（公共の宿）。手頃な価格帯で温泉に入れる点が特徴だが、独自性・設備面での強い訴求材料は確認できなかった。",
+      "target_audience": ["一人旅", "家族"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 3,
+        "unique_experience_score": 6,
+        "photogenic": 4,
+        "value_for_price": 6,
+        "sns_buzz": 1,
+        "access_and_freshness": 2
+      },
+      "score": 32,
+      "recommendation_reason": "価格は手頃だが、口コミ件数が9件と少なく独立した2情報源での評価確認ができなかった。公共の宿としての位置づけで、『ちょっと贅沢』な旅行PRとしての独自性・写真映えの訴求材料にも乏しく、総合スコアは32点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ件数が極端に少なく（9件）、ネガティブ傾向の分析ができるだけのサンプルが確認できなかった。確認できた範囲で重大な指摘はない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "国民宿舎 壱岐島荘 - じゃらんnet", "url": "https://www.jalan.net/420000/spt_guide000000160496/" },
+        { "type": "other", "title": "壱岐島のホテル一覧 - Mapple", "url": "https://www.mapple.net/region/a0702060100/hotel/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数が9件と少なく原則7の信頼性要件を満たせないこと、独自性・話題性に乏しいことから、総合スコア32点で採用ライン（75点）に届かない。"
+    }
+  ],
+  "cycle_conclusion": "長崎県壱岐島を対象に離島リゾートカテゴリで3件（平山旅館、壱岐リトリート海里村上、国民宿舎壱岐島荘）を調査・採点した。奥壱岐の千年湯 平山旅館は、じゃらん4.9（194件）・楽天トラベル系4.77という2つの独立情報源で高評価・高信頼性を確認でき、1,700年とされる源泉かけ流しの濃厚な温泉と料理長自ら釣る旬魚料理という独自性を併せ持つHidden Gemとして、79点でselectedとした。壱岐リトリート海里村上はブランド力・写真映えは高いが国内主要レビューサイトでの4.0以上評価を独立して確認できず68点で見送り、国民宿舎壱岐島荘は口コミ件数不足と独自性の乏しさから32点で不採用とした。captions/2026-10-24-hirayama-ryokan-iki.jsonを新規作成する。"
+}
