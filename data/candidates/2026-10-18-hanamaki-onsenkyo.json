@@ -1,0 +1,176 @@
+{
+  "cycle_date": "2026-10-18",
+  "theme": "岩手県花巻市花巻温泉郷（花巻南温泉峡）の温泉旅館",
+  "season_rationale": "10月下旬の岩手県花巻は紅葉の見頃を迎える時期で、花巻南温泉峡は豊沢川の渓谷沿いに宿が並び、紅葉と湯けむりを同時に楽しめる（原則30: 秋は紅葉・温泉）。11月に入ると冷え込みが強まるため、紅葉と合わせて紹介する意義が今のうちにある。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-shichijuyae", "region": "栃木県日光市鬼怒川温泉大原", "category": "温泉旅館" },
+    { "post_id": "2026-10-17-ureshino-taishoya", "region": "佐賀県嬉野市嬉野温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-17-kahou-tsukioka", "region": "新潟県新発田市月岡温泉", "category": "サウナ" },
+    { "post_id": "2026-10-17-minamikan", "region": "島根県松江市（宍道湖畔）", "category": "文化体験" },
+    { "post_id": "2026-10-17-minakami-kogen-hotel200", "region": "群馬県利根郡みなかみ町（水上高原）", "category": "アクティビティ" },
+    { "post_id": "2026-10-17-luanapark-shirahama", "region": "和歌山県西牟婁郡白浜町", "category": "グランピング" },
+    { "post_id": "2026-10-17-strings-hotel-nagoya-holiday-buffet", "region": "愛知県名古屋市中村区", "category": "その他" },
+    { "post_id": "2026-10-17-hoshino-iriomote-hotel / ana-intercontinental-ishigaki", "region": "沖縄県（西表島・石垣島）", "category": "離島リゾート" },
+    { "post_id": "2026-10-17-aquasense-onna", "region": "沖縄県国頭郡恩納村", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-17-atami-sekaie", "region": "静岡県熱海市伊豆山", "category": "絶景ホテル" },
+    { "post_id": "2026-10-16-kai-sengokuhara", "region": "神奈川県足柄下郡箱根町仙石原", "category": "絶景ホテル" }
+  ],
+  "duplication_note": "`captions/` 直近実績を確認した結果、2026-10-17付で温泉旅館カテゴリは栃木県鬼怒川温泉（しちじゅうやえ）が既に選定されているが、地域は本州反対側の岩手県花巻市であり同一地域・同一ブランドではない。`posts/` 既存3件（山中湖サウナ・玉造温泉・箱根小涌谷）とも地域・施設とも重複しない。花巻温泉郷（山の神温泉含む）は`data/candidates`・`captions`のいずれにも過去一度も登場していない新規地域であり、原則29（地域・カテゴリの連続回避）の観点でも問題ないと判断した。",
+  "candidates": [
+    {
+      "id": "2026-10-18-yamanokami-yukaen",
+      "name": "山の神温泉 優香苑",
+      "region": "岩手県花巻市下シ沢字中野（花巻温泉郷・花巻南温泉峡、豊沢川渓谷沿い）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Trip.com",
+          "score": 8.8,
+          "scale": 10,
+          "review_count": 13,
+          "checked_date": "2026-10-18",
+          "url": "https://jp.trip.com/hotels/hanamaki-hotel-detail-61947466/yuukaen/"
+        },
+        {
+          "source": "Googleクチコミ（All About記事が引用する選定基準値）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 500,
+          "checked_date": "2026-10-18",
+          "url": "https://news.allabout.co.jp/articles/o/121375/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "公式サイト参考価格として、記事により大人1名1万5,400円〜、別の記事では大人1名2万3,100円という表示が確認できた。部屋タイプ・プラン・時期により幅があり、Web検索の範囲では1泊2食の正確な部屋別価格帯は確定できなかった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "花巻南温泉峡最大級と紹介される大露天風呂「とよさわ乃湯」は豊沢川の渓谷に面し、夜は星空を眺めながら湯に浸かれる。2024年前後にサウナを併設した新露天風呂が増設され、夜間はライトアップされる。敷地内の別館「なごみの湯」（2019年開業）は花巻温泉郷でも珍しいとろとろの美肌湯として紹介されている。四〜五種の自家源泉を贅沢に掛け流し、館内は宮大工が手掛けた格天井など意匠性の高い造りが特徴。客室数60室・定員200名規模で、宿泊者の約4割が1年以内のリピーターという継続的な支持も確認できた。",
+      "renewal_or_news": "All Aboutの『岩手県の人気ホテル』特集に2026年2月・3月時点でも複数回取り上げられており、Googleクチコミ500件超・平均評価4.0超という基準で紹介されている。楽天トラベルでは2026年9月11日の『5と0のつく日』セールで10%オフ対象になるなど、現在も活発に販売・運営されていることを確認した。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "ホテル好き", "カップル"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 11,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 77,
+      "recommendation_reason": "豊沢川の渓谷に臨む花巻南温泉峡最大級の大露天風呂と、夜の星空を眺める湯あみ、2019年開業の珍しいとろとろ美肌湯『なごみの湯』、宮大工による格天井の意匠という、複数の『ここでしかできない』要素が重なっている。Trip.com 8.8/10（13件）と、All About記事が選定基準に使うGoogleクチコミ500件超・平均4.0超という大規模サンプルの2つの独立した情報源でいずれも採用ライン（4.0以上）を満たし、リピーター率約4割という継続的な支持も確認できた。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icottoに掲載された2024年7月宿泊者の個人レビューでは評価3.0で、『評価の高い宿の割にホスピタリティがいまひとつ』という接客面の指摘があった。ただしこれは単一の口コミであり、他の口コミ（部屋食の満足度・温泉の評価・宮大工建築への評価）は総じて高く、清潔感・安全面に関わる重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "山の神温泉 優香苑のご紹介（近畿日本ツーリスト）", "url": "https://yado.knt.co.jp/st/S030038/" },
+        { "type": "booking_site", "title": "山の神温泉 優香苑 - Trip.com ホテル詳細（8.8/10, 13件）", "url": "https://jp.trip.com/hotels/hanamaki-hotel-detail-61947466/yuukaen/" },
+        { "type": "press", "title": "【岩手県の人気ホテル】「花巻温泉郷 山の神温泉 優香苑」は宮大工が手掛けた豪華な意匠とトロトロの美肌湯が魅力 - All About", "url": "https://news.allabout.co.jp/articles/o/114145/" },
+        { "type": "press", "title": "【花巻南温泉峡の人気ホテル】「花巻温泉郷 山の神温泉 優香苑」は宮大工建築の美しさと極上のとろとろ温泉が魅力 - All About", "url": "https://news.allabout.co.jp/articles/o/120824/" },
+        { "type": "review_site", "title": "山の神温泉 優香苑 宿泊者口コミ - icotto", "url": "https://icotto.jp/hotels/196" },
+        { "type": "other", "title": "山の神温泉 優香苑 - cocolocala 施設情報", "url": "https://www.cocolocala.jp/hotels/2061" },
+        { "type": "press", "title": "【楽天トラベル特別セール】岩手県「花巻温泉郷 山の神温泉 優香苑」が今だけ10%オフ! - All About", "url": "https://news.allabout.co.jp/articles/o/128530/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-18-yusen-shidate",
+      "name": "游泉 志だて",
+      "region": "岩手県花巻市（花巻温泉郷・志戸平温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "ニフティ温泉",
+          "score": 3.6,
+          "scale": 5,
+          "review_count": 5,
+          "checked_date": "2026-10-18",
+          "url": "https://onsen.nifty.com/hanamaki-onsen/onsen006896/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "一部予約サイトで『¥¥¥¥¥（最高級帯）』として分類されているのを確認したが、Web検索の範囲では1泊2食の正確な価格帯は確定できなかった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全室に源泉100%掛け流しの露天風呂を備える『大人だけの静かな隠れ宿』。夕食は完全個室で供される懐石『旬游馳走』で、岩手牛やアワビなど地元食材を使うと紹介されている。Hotels.comでは10段階中9.6、JTBお客様アンケートでは総合93（夕食93・風呂91）という高い評価が確認できた。",
+      "target_audience": ["夫婦", "記念日", "カップル", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 5,
+        "unique_experience_score": 19,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 65,
+      "recommendation_reason": "全室露天風呂付き・完全個室懐石という独自性は非常に強く、Hotels.com 9.6/10やJTBアンケート総合93という高評価も確認できた。一方で、ニフティ温泉は5件・Jcation系の評価も十数件程度と、いずれも口コミ件数が極めて少なく、原則6（件数とセットで信頼度を判断）の観点で裏付けが弱い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ニフティ温泉の少数の口コミでは接客評価が3.0と他項目（施設5.0）より低い投稿があった。重大な指摘ではないが、件数が少なすぎて傾向として判断できない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "游泉 志だて - Hotels.com（10段階中9.6）", "url": "https://jp.hotels.com/ho702926/yusen-shidate-hanamaki-japan" },
+        { "type": "review_site", "title": "游泉 志だての温泉情報・口コミ - ニフティ温泉", "url": "https://onsen.nifty.com/hanamaki-onsen/onsen006896/" },
+        { "type": "booking_site", "title": "游泉 志だて - JTBお客様アンケート評価（総合93）", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/2334003/" },
+        { "type": "other", "title": "游泉 志だて 施設紹介 - hamoni.jp", "url": "https://hamoni.jp/hotel/cQeHbK29uqjv9BxfLnGk" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア65点で採用ライン（75点）に届かず、独自性は非常に高いが主要な評価元の口コミ件数が5〜19件程度と少なく信頼度（原則6・7）が確認できなかったため見送った。"
+    },
+    {
+      "id": "2026-10-18-kokoro-no-toki-13gatsu",
+      "name": "鉛温泉 藤三旅館・別邸 心の刻 十三月",
+      "region": "岩手県花巻市（花巻温泉郷・鉛温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "icotto（2024年6月宿泊者レビュー）",
+          "score": 3.5,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-18",
+          "url": "https://icotto.jp/hotels/3735"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では1泊2食の正確な価格帯は確定できなかった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全室に加熱・加水・循環なしの源泉掛け流し露天風呂付きスイートを備える。別邸宿泊者は本館・藤三旅館の4つの浴場とサウナ（名物『白猿の湯』含む）も利用できる。内装は黒を基調としたデザイン性の高い造り。",
+      "target_audience": ["夫婦", "記念日", "カップル", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 4,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 59,
+      "recommendation_reason": "全室源泉掛け流しスイート＋本館4浴場利用可という独自性は高いが、口コミはcocolocalaの5.0評価とicotto・ニフティ温泉の低評価（icotto 3.5・ニフティ温泉は口コミ0件）が混在し、2回目の食事の味付け・量への不満や内装の好み、タオルの古さを指摘する声もあった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icottoのリピーター口コミでは、風呂・部屋・接客は評価する一方、2回目の食事が『味付けが塩辛い』『量が多すぎる』と1回目より満足度が下がったという指摘、黒基調の内装の好みが分かれる点、タオルの古さを指摘する声があった。ニフティ温泉では口コミ0件・評価0.0で検証不能。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "鉛温泉 藤三旅館 別邸 心の刻 十三月 - icotto", "url": "https://icotto.jp/hotels/3735" },
+        { "type": "review_site", "title": "鉛温泉「藤三旅館・別邸」心の刻 十三月 - ニフティ温泉", "url": "https://onsen.nifty.com/hanamaki-onsen/onsen013308/" },
+        { "type": "other", "title": "鉛温泉 心の刻 十三月 - cocolocala 口コミ", "url": "https://www.cocolocala.jp/hotels/566795" },
+        { "type": "booking_site", "title": "鉛温泉 心の刻 十三月 - JTBホテル詳細", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/2387001/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア59点で採用ライン（75点）を大きく下回り、口コミ件数が極端に少なく（主要サイトで0〜1件程度）、食事内容の満足度にもばらつきが見られたため見送った。"
+    }
+  ]
+}

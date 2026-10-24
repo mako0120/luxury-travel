@@ -1,0 +1,253 @@
+{
+  "cycle_date": "2026-10-19",
+  "theme": "沖縄県国頭郡本部町のオールインクルーシブ施設（該当なしの場合は長崎県ハウステンボスエリアへ拡大）",
+  "season_rationale": "指示されたテーマ（カテゴリ『オールインクルーシブ』×地域『沖縄県国頭郡本部町』）に沿って調査。既出のクラブメッド各施設（トマム・サホロ・石垣島川平）・AQUASENSE Hotel & Resort（恩納村）・グランドメルキュール沖縄残波岬リゾート（読谷村）とは異なる、公式に『オールインクルーシブ』を名乗る施設を本部町内で探索した。本部町内で基準を満たす候補が確認できなかったため、指示に基づき長崎県ハウステンボスエリアまで範囲を拡大して再調査した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-18-grand-mercure-okinawa-zanpa", "region": "沖縄県中頭郡読谷村字儀間", "category": "オールインクルーシブ（既出・別施設）" },
+    { "post_id": "2026-10-18-nara-hotel", "region": "奈良県奈良市", "category": "その他/文化体験系" },
+    { "post_id": "2026-10-18-kitakobushi-shiretoko", "region": "北海道斜里郡斜里町", "category": "アクティビティ" },
+    { "post_id": "2026-10-18-yamanokami-yukaen", "region": "鳥取県米子市", "category": "グルメ旅館" },
+    { "post_id": "2026-10-18-kurobe-gorge-torokko", "region": "富山県黒部市", "category": "列車・船" },
+    { "post_id": "2026-10-17-aquasense-onna", "region": "沖縄県国頭郡恩納村字冨着", "category": "オールインクルーシブ（既出・別施設）" },
+    { "candidate_id": "2026-09-18 / 2026-09-22 clubmed各施設", "region": "北海道トマム・サホロ、沖縄県石垣島川平", "category": "オールインクルーシブ（既出・別施設）" }
+  ],
+  "research_note": "本部町内では、Yama'oto（本部町伊豆味）が旅行メディアtabiiro.jpの『沖縄のオールインクルーシブの宿』紹介記事に掲載されていたが、（1）施設自体の公式サイトが確認できず『オールインクルーシブ』を名乗っているのは媒体側の分類であり施設自身の公式表示ではない、（2）総部屋数1室の一棟貸しヴィラで料金情報も確認できない、という2点から採用基準（原則8のHidden Gemルール＝公式情報で確認できることが必須）を満たさないと判断した。本部町の他の主要ホテル（オリオンホテル モトブ リゾート&スパ、ロイヤルビューホテル美ら海、ヒルトン沖縄瀬底リゾート）についても検索したが、いずれもオールインクルーシブと呼べる宿泊プランの存在を確認できなかった（このセッションのWebSearch利用上限により、口コミ件数等の数値的な裏取りも一部の施設では完了していない）。以上より本部町では該当なしと判断し、ユーザー指示に基づき長崎県ハウステンボスエリアで再調査した。ハウステンボス直営ホテルの一つ『ホテルデンハーグ ハウステンボス』（旧名称：ウォーターマークホテル長崎ハウステンボスからの改称とみられる）について、じゃらん・ハウステンボス公式予約システム（489ban.net）の両方で『オールインクルーシブ』プラン（アルコール含むフリードリンク＋ブッフェ朝夕食等が宿泊料金に含まれる）の販売を確認できた。口コミはKayak・dinogo.com・myboutiquehotel.comの3つの独立した口コミサイトでいずれも4.0/5相当以上（10点満点中7.8〜8.2）、件数も1,500件超〜2,900件超と規模が大きく信頼度も高いため、本サイクルのBEST候補として選定した。なお旧ブランド名の名残でフォートラベルの旧ページに『閉鎖しました』という表記が残っていたが、楽天トラベル・じゃらんで2026年以降の宿泊実績・予約が確認できるため現在も営業中と判断した。このセッションのネットワーク環境では一部旅行系ドメインへのWebFetchがEGRESS_BLOCKEDとなり、またセッション内のWebSearch利用上限に達したため、追加の深掘り（低評価レビューの網羅確認・価格の完全な一致確認等）はこの範囲で打ち切っている。",
+  "candidates": [
+    {
+      "id": "2026-10-19-yamaoto-motobu",
+      "name": "Yama'oto（ヤマオト）",
+      "region": "沖縄県国頭郡本部町伊豆味",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "Airbnb", "score": 4.97, "scale": 5, "review_count": 122, "checked_date": "2026-10-19" },
+        { "source": "dinogo.com", "score": 10, "scale": 10, "review_count": 6, "checked_date": "2026-10-19", "url": "https://dinogo.com/hotels/587035-yamaoto-resort" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは料金・空室状況を確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "世界自然遺産『やんばるの森』の中にある、総部屋数1室の一棟貸しの隠れ家ヴィラ。ラグジュアリーホテルでの実務経験を持つコンシェルジュが滞在をサポートする。沖縄のオールインクルーシブ宿を紹介する旅行メディアtabiiro.jpの記事で、AQUASENSE・Grandy Style Okinawa Yomitan・One Suite THE GRAND等と並び掲載されている。",
+      "target_audience": ["カップル", "一人旅", "記念日"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 9,
+        "unique_experience_score": 14,
+        "photogenic": 11,
+        "value_for_price": 3,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 66,
+      "recommendation_reason": "Airbnb（4.97/5・122件）・dinogo（10/10・6件）という独立2情報源でいずれも極めて高評価。地域条件『本部町』にも合致する。ただし、『オールインクルーシブ』という分類は旅行メディアtabiiro.jpによる紹介記事上の位置づけであり、施設自身の公式サイトが見当たらず、施設が自らオールインクルーシブと名乗っている一次情報を確認できなかった。加えて総部屋数1室の一棟貸しヴィラのため料金・空室情報も確認できず、原則8（Hidden Gemルール）の『公式情報が確認できる』という要件を満たさないと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "検索結果からは重大なマイナス指摘は確認できなかったが、口コミの網羅的な確認はこのセッションのWebSearch利用上限のため完了していない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "Yama'oto Resort - dinogo.com", "url": "https://dinogo.com/hotels/587035-yamaoto-resort" },
+        { "type": "other", "title": "沖縄のオールインクルーシブな宿 - tabiiro.jp（紹介記事）", "url": "https://tabiiro.jp/yado/article/okinawa-all-inclusive-yado/" },
+        { "type": "review_site", "title": "CASUAL 貸別荘 Yama'oto - Relux掲載ページ", "url": "https://rlx.jp/555078/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "地域（本部町）には合致し口コミ評価も高いが、『オールインクルーシブ』が施設自身の公式表示ではなく旅行メディア記事による分類にとどまり、公式サイト・料金情報も確認できないため、原則8（Hidden Gemルール）の要件を満たさず不採用。"
+    },
+    {
+      "id": "2026-10-19-orion-motobu",
+      "name": "オリオンホテル モトブ リゾート&スパ（旧ホテルオリオン モトブ リゾート&スパ）",
+      "region": "沖縄県国頭郡本部町備瀬",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは料金・オールインクルーシブプランの有無いずれも確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "本部町備瀬のエキスポランド跡地に立つ、地上12階建て全238室の大型リゾート。全室オーシャンビュー・50㎡以上、屋内プール・温泉大浴場・サウナを備える。美ら海水族館・エメラルドビーチ・備瀬のフクギ並木に近い。2024年4月にオリオンビールグループが『オリオンホテル モトブ リゾート&スパ』へ改称・リニューアルオープン。",
+      "target_audience": ["家族", "カップル"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 10,
+        "photogenic": 10,
+        "value_for_price": 0,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 26,
+      "recommendation_reason": "大型オーシャンビューリゾートとして立地・規模は良いが、オールインクルーシブと呼べる宿泊プランの存在をこのセッションのWebSearchでは確認できず、口コミ評価の数値的な裏取り（原則7）もセッション内のWebSearch利用上限のため完了できなかった。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "オールインクルーシブプランの有無確認を優先したため、低評価レビューの確認には着手できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "ホテル オリオン モトブ リゾート&スパ 内覧会 - 琉球新報", "url": "https://ryukyushimpo.jp/news/prentry-228938.html" },
+        { "type": "other", "title": "ホテル オリオン モトブ リゾート&スパ - travel.co.jp", "url": "https://www.travel.co.jp/stay/hotel/hotel-orion-motobu-resort-spa-854721/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "地域（本部町）は合致するが、オールインクルーシブという今回のカテゴリ条件を満たすプランの存在を確認できず、口コミの数値的な裏取りも完了していないため不採用。"
+    },
+    {
+      "id": "2026-10-19-royalview-churaumi",
+      "name": "ロイヤルビューホテル美ら海",
+      "region": "沖縄県国頭郡本部町",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは料金・オールインクルーシブプランの有無いずれも確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2021年12月にリニューアルされた、美ら海水族館まで徒歩5分のホテル。",
+      "target_audience": ["家族"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 6,
+        "photogenic": 6,
+        "value_for_price": 0,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 16,
+      "recommendation_reason": "水族館への近さは独自性だが、オールインクルーシブプランの記載は確認できず、口コミの数値的な裏取りも今回のセッションでは完了していない。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "オールインクルーシブ有無の確認を優先したため未着手。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "沖縄美ら海水族館周辺のおすすめホテル10選 - トラベルjp 旅行ガイド", "url": "https://www.travel.co.jp/guide/matome/2534/" },
+        { "type": "other", "title": "美ら海水族館周辺のリゾート - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00030772" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "オールインクルーシブという今回のカテゴリ条件を満たすプランの存在を確認できず、口コミも裏取りできていないため不採用。"
+    },
+    {
+      "id": "2026-10-19-hilton-sesoko",
+      "name": "ヒルトン沖縄瀬底リゾート",
+      "region": "沖縄県国頭郡本部町瀬底",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは料金・オールインクルーシブプランの有無いずれも確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "本部町の瀬底島に位置し、屋内外プール・スパ・フィットネスセンター等のウェルネス施設が充実した大型リゾート。",
+      "target_audience": ["カップル", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 8,
+        "photogenic": 8,
+        "value_for_price": 0,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 21,
+      "recommendation_reason": "瀬底島の立地・ウェルネス施設の充実度は独自性があるが、オールインクルーシブプランの記載は確認できず、口コミの数値的な裏取りも今回のセッションでは完了していない。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "オールインクルーシブ有無の確認を優先したため未着手。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "沖縄美ら海水族館周辺のおすすめホテル10選 - トラベルjp 旅行ガイド", "url": "https://www.travel.co.jp/guide/matome/2534/" },
+        { "type": "other", "title": "やんばる周辺ホテル情報 - mapple.net", "url": "https://www.mapple.net/article/51312/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "オールインクルーシブという今回のカテゴリ条件を満たすプランの存在を確認できず、口コミも裏取りできていないため不採用。"
+    },
+    {
+      "id": "2026-10-19-hotel-europe-htb",
+      "name": "ホテルヨーロッパ ハウステンボス",
+      "region": "長崎県佐世保市ハウステンボス町",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル（ランキング掲載値）", "score": 4.6, "scale": 5, "review_count": 2319, "checked_date": "2026-10-19" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchではオールインクルーシブと明記されたプランの料金は確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "オランダ・アムステルダムに実在する同名ホテルをハウステンボス場内に再現した最上級ホテル。宿泊者専用のクルーザーでチェックインできる点が特徴。",
+      "target_audience": ["カップル", "記念日", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 12,
+        "unique_experience_score": 10,
+        "photogenic": 10,
+        "value_for_price": 0,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 60,
+      "recommendation_reason": "口コミ評価は非常に高く(4.6/2,319件)、クルーザーチェックイン等の独自体験もあるが、このセッションの検索ではオールインクルーシブと明記されたプランを確認できず、今回のカテゴリ条件への適合が確証できないため不採用。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "オールインクルーシブプランの有無確認を優先したため未着手。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "ホテルヨーロッパ ハウステンボス - 阪急交通社", "url": "https://www.hankyu-travel.com/kokunai/keyword/%E3%83%9B%E3%83%86%E3%83%AB%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91/shizuoka/" },
+        { "type": "other", "title": "ハウステンボス周辺ホテル評価一覧 - mapple.net", "url": "https://www.mapple.net/region/a0702030102/hotel/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価は高いが、オールインクルーシブという今回のカテゴリ条件を満たすプランの存在を確認できなかったため不採用。"
+    },
+    {
+      "id": "2026-10-19-hotel-denhaag-htb",
+      "name": "ホテルデンハーグ ハウステンボス",
+      "region": "長崎県佐世保市ハウステンボス町",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Kayak", "score": 8.0, "scale": 10, "review_count": 2918, "checked_date": "2026-10-19", "url": "https://www.kayak.co.jp/%E4%BD%90%E4%B8%96%E4%BF%9D%E5%B8%82-%E3%83%9B%E3%83%86%E3%83%AB-%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%9B%E3%83%86%E3%83%AB%E9%95%B7%E5%B4%8E-%E3%83%8F%E3%82%A6%E3%82%B9%E3%83%86%E3%83%B3%E3%83%9C%E3%82%B9.624847.ksp" },
+        { "source": "dinogo.com", "score": 8.2, "scale": 10, "review_count": 2082, "checked_date": "2026-10-19", "url": "https://dinogo.com/hotels/568122-hotel-den-haag" },
+        { "source": "myboutiquehotel.com", "score": 7.8, "scale": 10, "review_count": 1551, "checked_date": "2026-10-19", "url": "https://www.myboutiquehotel.com/nl/boutique-hotels-sasebo/hotel-den-haag-huis-ten-bosch.html" }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらんに『2連泊以上でお得にホテルステイを満喫(オールインクルーシブ)』プラン（朝夕食付き、予約受付期間2025年11月25日〜2027年3月31日）、楽天トラベルに同様のオールインクルーシブ関連プラン（2026年6月1日〜9月30日設定、アルコール含むフリードリンク＋ブッフェ朝夕食）を確認。具体的な1泊あたりの料金はこのセッションのWebSearchスニペットからは確定できなかった（例として近畿日本ツーリストの別プランでデラックスツイン1名20,350円〜という表示があったが、これがオールインクルーシブ料金と同一かは断定できない）。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "長崎県佐世保市のテーマパーク『ハウステンボス』直営ホテルの一つで、オランダ・デンハーグ（The Hague）の街並みを模したヨーロピアン調の内装が特徴（全228室）。ハーバーゾーン（入場無料エリア）内に立地し、ハウステンボス公式ホテル宿泊者向けの『リゾートプラン（オールインクルーシブ）』を提供。滞在中はアルコールを含むフリードリンク・スナックを楽しめるオープンラウンジに加え、ブッフェ形式の夕食・朝食が宿泊料金に含まれる。宿泊特典としてアーリーパークイン（開園前の入園）、チェックイン日購入者への翌日パスポート、宿泊者専用駐車場なども付帯。4travel.jpの口コミでは『ハウステンボスではナンバーワンの呼び声』との評も見られる。",
+      "renewal_or_news": "複数の口コミ・OTA情報から、2026年4月以降にオールインクルーシブ関連プランの提供・値ごろ感が強まったとみられる（じゃらんの予約受付期間は2025年11月25日〜2027年3月31日）。なお同ホテルは旧ブランド名『ウォーターマークホテル長崎ハウステンボス』からの改称とみられ（Kayakの掲載URLに旧名称が残っている）、一部口コミサイトの旧ページに『閉鎖しました』という表記が残っていたが、楽天トラベル・じゃらんで2026年以降の宿泊実績・予約が確認できるため現在も営業中と判断した。",
+      "target_audience": ["家族", "カップル", "友人", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 13,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 5
+      },
+      "score": 76,
+      "recommendation_reason": "Kayak（8.0/10・2,918件）、dinogo.com（8.2/10・2,082件）、myboutiquehotel.com（7.8/10・1,551件）という3つの独立した口コミサイトでいずれも5点満点換算4.0前後（最高4.1）の評価を得ており、件数の規模も大きく信頼度が高い。ハウステンボス直営ホテルとして、園内特典（アーリーパークイン等）とオールインクルーシブ（フリードリンク＋朝夕ブッフェ）を組み合わせたプランは、テーマパーク×宿泊という独自の訴求軸があり、既出のAQUASENSE・グランドメルキュール沖縄残波岬・クラブメッド各施設とも地域・体験の方向性が異なるため、連続投稿回避（原則29）の観点でも良い選択。季節的にもハウステンボスの秋冬イルミネーション期間と重なり、写真・動画映えする背景が豊富。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "4travel.jpに評価1.0の口コミ（宿泊者用駐車場がわかりにくい・時間帯によっては眺望が今ひとつという指摘）が一部あったが、同サイトの他の口コミでは『ハウステンボスではナンバーワンの呼び声のホテル』『内装・朝食が良い』という高評価が多数。清潔感・接客・安全性に関する重大な指摘が複数の独立情報源で一致して確認されたわけではない。なお旧ブランド名の名残で一部サイトの旧ページに『閉鎖しました』という表記が残っていたが、現行の予約サイトで2026年以降の営業実績が確認できるため、実際の閉鎖ではなく改称・リブランドの履歴と判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "ホテルデンハーグ ハウステンボス オールインクルーシブ関連プラン予約ページ（ハウステンボス公式ホテル予約システム 489ban.net）", "url": "https://reserve.489ban.net/client/hotel-denhaag/0/detail/1172683" },
+        { "type": "booking_site", "title": "ホテルデンハーグ ハウステンボス『2連泊以上でお得にホテルステイを満喫(オールインクルーシブ)』プラン - じゃらんnet", "url": "https://www.jalan.net/yad341214/plan/" },
+        { "type": "review_site", "title": "Hotel Den Haag Huis Ten Bosch レビュー8.0(2,918件) - Kayak", "url": "https://www.kayak.co.jp/%E4%BD%90%E4%B8%96%E4%BF%9D%E5%B8%82-%E3%83%9B%E3%83%86%E3%83%AB-%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%9B%E3%83%86%E3%83%AB%E9%95%B7%E5%B4%8E-%E3%83%8F%E3%82%A6%E3%82%B9%E3%83%86%E3%83%B3%E3%83%9C%E3%82%B9.624847.ksp" },
+        { "type": "review_site", "title": "Hotel Den Haag レビュー8.2(2,082件) - dinogo.com", "url": "https://dinogo.com/hotels/568122-hotel-den-haag" },
+        { "type": "review_site", "title": "ホテルデンハーグ ハウステンボスのクチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-11187447" },
+        { "type": "other", "title": "ホテルデンハーグ ハウステンボス クチコミ(2026年5月宿泊投稿あり) - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/130617/review.html" }
+      ],
+      "decision": "selected"
+    }
+  ]
+}

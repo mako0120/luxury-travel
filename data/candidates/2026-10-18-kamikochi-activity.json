@@ -1,0 +1,137 @@
+{
+  "cycle_date": "2026-10-18",
+  "theme": "長野県松本市上高地のアクティビティ型宿泊・ネイチャーガイド体験",
+  "season_rationale": "上高地は例年4月中旬〜11月15日が開山・通行可能期間で、10月中旬〜下旬は紅葉が見頃を迎えつつ冬季閉鎖前最後のグリーンシーズンにあたる（原則30）。候補として確認したネイチャーガイド各社（五千尺ホテル上高地のFIVESENSE、上高地ホテル白樺荘の白樺自然学校等）もおおむね4月下旬〜11月中旬の営業期間で、今が今シーズン最後の見頃・体験チャンスというタイミング訴求ができる想定だった。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-ureshino-taishoya", "region": "佐賀県嬉野市嬉野町（嬉野温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-17-minakami-kogen-hotel200", "region": "群馬県利根郡みなかみ町（水上高原）", "category": "アクティビティ" },
+    { "post_id": "2026-10-17-shichijuyae", "region": "栃木県日光市鬼怒川温泉大原", "category": "温泉旅館" },
+    { "post_id": "2026-10-16-kai-sengokuhara", "region": "神奈川県箱根町仙石原", "category": "絶景ホテル" }
+  ],
+  "duplication_note": "カテゴリ『アクティビティ』は直近の2026-10-17サイクル（群馬県みなかみ町・水上高原ホテル200、全長1.3kmのフォレストジップライン）で使用済みだが、今回の長野県松本市上高地はエリア（北アルプス山麓の特別保護地区・自家用車乗り入れ禁止エリア）・体験の性質（整備された遊歩道でのネイチャーガイド散策・登山基地）ともに明確に異なり、原則29が主眼とする『同一地域・同一ブランド・同一種類の連続』には該当しないと判断した。なお2026-10-17は『アクティビティ』以外の全カテゴリ（絶景ホテル・グルメ旅館・温泉旅館・サウナ・グランピング・文化体験・列車・船・離島リゾート×2・オールインクルーシブ・その他）も同日に一括処理されており、カテゴリの巡り合わせ上『アクティビティ』が2サイクル連続気味になっている点は認識している。次回サイクルでは温泉旅館・グルメ旅館等、直近使用していないカテゴリを優先することが望ましい。",
+  "research_constraints": "このサイクルはWebSearchツールの実行回数上限（セッション共有の『このターン』の検索予算）に途中で達したため、計画していた追加検索（上高地帝国ホテル公式サイトのアクティビティプログラム確認、五千尺ホテル上高地・上高地ホテル白樺荘の数値レビューの追加確認）が実施できなかった。加えてCLAUDE.mdに記載の制約どおり、4travel.jp・jalan.net・gosenjaku.co.jp・imperialhotel.co.jp等の主要旅行系ドメインへのWebFetchはいずれもEGRESS_BLOCKED（DNS解決不可）となり、WebSearchのスニペット経由で得られる情報のみを情報源とした。3件とも採用ラインに届かず『該当なし』となったため、運用ルール上は別地域での再調査（1回まで）が求められるが、同ターンの検索予算が尽きたため本サイクルでは実施できなかった。次回の依頼（新しいターン）で再調査することを推奨する。",
+  "candidates": [
+    {
+      "id": "2026-10-18-kamikochi-imperial-hotel",
+      "name": "上高地帝国ホテル",
+      "region": "長野県松本市安曇上高地",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.92, "scale": 5, "review_count": 99, "checked_date": "2026-10-18", "url": "https://4travel.jp/dm_hotel-10036356" },
+        { "source": "Skyticket", "score": 4.7, "scale": 5, "review_count": 125, "checked_date": "2026-10-18", "url": "https://skyticket.jp/hotel/nagano/bl_200040/" }
+      ],
+      "price_range_jpy": {
+        "note": "1泊素泊まり30,000円〜という掲載が検索範囲で確認できた（1室あたり/1名あたりの区別、食事条件の詳細は確認できず要確認）。1933年開業のクラシックな山岳リゾートホテルとして価格帯は高め。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "1933年（昭和8年）開業、日本アルプス登山の近代史とともに歩んできたクラシックな山岳リゾートホテル。ホテル前のバス停から大正池・田代池・明神池方面へ続く平坦な遊歩道が目の前にあり、徒歩約10分の立地から上高地の主要スポットへ歩いて散策できる。阪急交通社など旅行会社のツアーでは、同ホテルに滞在しながらネイチャーガイドが通常の日帰り観光では訪れにくい明神池まで案内するプログラムが組まれている例が確認でき、『クラシックホテルに泊まりながら本格的なガイド付き自然散策ができる』という方向性の独自性はある。",
+      "renewal_or_news": "具体的なリニューアル情報・新プランは今回のWeb検索範囲では確認できなかった。10月中旬〜下旬は上高地の紅葉が見頃を迎える時期にあたる。",
+      "target_audience": ["夫婦", "記念日", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 10,
+        "unique_experience_score": 12,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 72,
+      "recommendation_reason": "フォートラベル3.92（99件）・Skyticket4.7（125件）という性質の異なる2つの独立した情報源で確認し、最高評価（Skyticket4.7）は採用ライン4.0以上を満たした（原則6・7）。1933年開業というクラシックな山岳リゾートとしての歴史的独自性はあるが、ホテル自体が主催する具体的なアクティビティプログラム（料金・コース等）を公式情報で確認できず、第三者の旅行会社ツアーでの言及（ネイチャーガイドによる明神池案内）に留まった。口コミ件数も100件前後で、他サイクルで採用済みのアクティビティ候補（例: 水上高原ホテル200の1,259件、SANKARA屋久島のTripadvisor273件）と比べると規模が小さく、信頼性・独自性のスコアを伸ばせなかった。総合スコアは72点で採用ライン75点に届かず見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルには1.0点の口コミがあり、ディナーの味と提供方法への不満が書かれていた。他の口コミでは建物の古さを認めつつもフロントスタッフの親切さを評価する声があった。清潔感・安全性に関わる重大な指摘が複数確認されたわけではない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "上高地帝国ホテルのクチコミ・感想・旅行記 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10036356" },
+        { "type": "booking_site", "title": "上高地帝国ホテル - Skyticket", "url": "https://skyticket.jp/hotel/nagano/bl_200040/" },
+        { "type": "other", "title": "上高地帝国ホテル - 旅行情報・施設詳細（gltjp）", "url": "https://www.gltjp.com/ja/directory/item/12456/" },
+        { "type": "other", "title": "上高地帝国ホテル 施設情報（cocolocala）", "url": "https://www.cocolocala.jp/hotels/519095" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコアが72点で採用ライン75点に届かなかった。レビュー評価自体は4.0以上を満たしたが、ホテル主催の具体的なアクティビティプログラムを公式情報で確認できず、原則5の『ここでしかできない体験』『SNS話題性』を高く採点できる根拠が不足したため見送った。"
+    },
+    {
+      "id": "2026-10-18-gosenjaku-fivesense",
+      "name": "五千尺ホテル上高地（ネイチャーガイドツアー FIVESENSE）",
+      "region": "長野県松本市安曇上高地（河童橋畔）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル（icotto掲載）", "score": 3.6, "scale": 5, "review_count": 57, "checked_date": "2026-10-18", "url": "https://icotto.jp/hotels/1575" }
+      ],
+      "price_range_jpy": {
+        "note": "ネイチャーガイドツアー『FIVESENSE』は早朝コース大人3,500円、明神コース大人6,000円、夜のガイドツアー大人3,500円、プライベートガイド1時間あたり6,000円（税込、公式サイト掲載情報）。宿泊料金はJTBのお客様アンケート評価（92点・91点、100点満点表記）のみ確認でき、具体的な宿泊料金帯は検索範囲内では確認できなかった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "ホテル直営のネイチャーガイド『FIVESENSE』が、環境省『日本エコツーリズム大賞』で第15回特別賞・第16回優秀賞・第17回優秀賞と複数回評価されている点が最大の独自性。大正池・明神・徳沢など上高地のトレッキングエリアに特化し、早朝コース・明神コース・夜のガイドツアー・プライベートガイドまで、少人数制の質の高いガイディングを河童橋畔のホテルに泊まったまま体験できる。",
+      "renewal_or_news": "環境省の資料によると第17回日本エコツーリズム大賞（直近回）でも優秀賞を受賞している。具体的な年度・時期の明記は資料側の表記が複雑で完全には確定できなかった。",
+      "target_audience": ["カップル", "友人", "一人旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 7,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 71,
+      "recommendation_reason": "ホテル直営のネイチャーガイド『FIVESENSE』が環境省の日本エコツーリズム大賞で複数回評価されているという独自性は非常に強く、コース・料金も公式サイト経由の情報で確認できた。ただし宿泊施設としての口コミはフォートラベル（icotto掲載）で3.6（57件）に留まり、原則6が定める主要レビューサイト評価4.0以上のラインを満たす数値根拠を確認できなかった。JTBのお客様アンケート（92点・91点、100点満点表記）は参考情報として確認したが、算出母数となる件数を確認できずreview_scoresとして採用できなかった。口コミ件数自体は57件と少なくないため、原則8のHidden Gemルール（口コミ数が少ない施設向けの例外）を適用する根拠も乏しいと判断し、見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2024年8月の口コミで客室の内装が安っぽいという指摘（2.0点）があった。項目別評価でもバリアフリーが2.90と他項目（食事・ドリンク4.41、接客対応4.22）より低めだった。食事・接客は高評価で、清潔感・安全性に関わる重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "上高地ネイチャーガイドツアー - 五千尺ホテル上高地【公式】", "url": "https://www.gosenjaku.co.jp/nature-guide/" },
+        { "type": "press", "title": "日本エコツーリズム大賞 受賞者一覧（環境省）", "url": "https://www.env.go.jp/nature/ecotourism/try-ecotourism/pamphlet/pdf/17award.pdf" },
+        { "type": "review_site", "title": "五千尺ホテル上高地(長野県 旅館) - icotto（フォートラベル情報）", "url": "https://icotto.jp/hotels/1575" },
+        { "type": "other", "title": "五千尺ホテル上高地 - JTB お客様アンケート評価", "url": "https://www.jtb.co.jp/kokunai_hotel/htl/5204005/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "確認できた唯一の数値評価根拠（フォートラベル/icotto 3.6・57件）が採用ライン4.0に届かず、他の独立した数値根拠（件数付き）を確認できなかったため、原則6・7の基準を満たさず見送った。ネイチャーガイド自体の独自性・受賞歴は高く評価できる点として記録しておく。"
+    },
+    {
+      "id": "2026-10-18-kamikochi-shirakabaso",
+      "name": "上高地ホテル白樺荘（上高地白樺自然学校）",
+      "region": "長野県松本市安曇上高地（河童橋畔）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "ネイチャーガイド（上高地白樺自然学校）は毎日実施の60分ガイドが1,000円（5歳まで無料）、プライベートガイドウォークはガイド1名25,000円（1日）という掲載を確認した。宿泊料金は検索範囲内では確認できなかった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "河童橋のたもとという上高地で最も象徴的な立地にあり、『上高地白樺自然学校』による毎日実施のネイチャーガイド（60分1,000円）を提供する。天気が良い日は穂高連峰の絶景が望め、一晩中入浴できる大浴場や夜間の懐中電灯貸し出しサービスなど、宿泊者向けのアクティビティ環境が整っているとの言及があった。",
+      "target_audience": ["カップル", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 0,
+        "photogenic": 0,
+        "value_for_price": 0,
+        "sns_buzz": 0,
+        "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "河童橋畔の好立地とネイチャーガイド（上高地白樺自然学校）という要素自体は魅力的だが、口コミ評価の数値がサイトによって4.60/4.56/4.04などと食い違い、しかも各掲載ページの推薦人数が数人程度と非常に少なく、どれが施設本体の信頼できる評価なのか判別できなかった。じゃらん・楽天トラベルの直接の点数・件数もWeb検索の範囲では確認できず、採点の根拠が不十分と判断し見送った。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "口コミ評価の数値自体が複数サイトで食い違い、信頼できるポジティブ・ネガティブ傾向の判断ができる根拠が確認できなかったため、ネガティブレビューの精査自体を実施していない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "ネイチャーガイド｜【公式】上高地ホテル白樺荘", "url": "https://www.shirakabaso.com/guide/" },
+        { "type": "other", "title": "上高地×ホテル 比較ランキング（gpoint）", "url": "https://travel.gpoint.co.jp/daredoko/16b007-d027-e000/wek/all/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "施設・ガイドの数値評価の根拠（review_scores）をWeb検索の範囲では確認できず、原則7（複数の独立情報源での裏付け）を満たせなかったため、情報不足により不採用とした。"
+    }
+  ]
+}

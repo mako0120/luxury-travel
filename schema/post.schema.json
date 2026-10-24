@@ -1,0 +1,124 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Post",
+  "description": "BEST候補として選定された施設の投稿制作物一式（docs/operating-principles.md 31〜33章準拠）",
+  "type": "object",
+  "required": [
+    "id", "candidate_id", "status", "status_history", "facility_overview",
+    "recommendation_reasons", "evaluation_basis", "target_audience",
+    "image_candidates", "carousel", "captions", "hashtags", "schedule",
+    "sources", "created_date", "region", "category"
+  ],
+  "properties": {
+    "id": { "type": "string" },
+    "candidate_id": { "type": "string", "description": "data/candidates 内のcandidate.idを参照" },
+    "region": { "type": "string" },
+    "category": { "type": "string" },
+    "status": {
+      "type": "string",
+      "enum": [
+        "RESEARCHING", "DRAFT", "FACT_CHECKED", "ASSET_CHECKED", "READY",
+        "SCHEDULED", "POSTED", "NEEDS_REVIEW", "NEEDS_ASSET_APPROVAL", "FAILED"
+      ]
+    },
+    "status_history": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["status", "date", "note"],
+        "properties": {
+          "status": { "type": "string" },
+          "date": { "type": "string", "format": "date" },
+          "note": { "type": "string" }
+        }
+      }
+    },
+    "facility_overview": { "type": "string" },
+    "recommendation_reasons": { "type": "array", "items": { "type": "string" } },
+    "evaluation_basis": { "type": "string", "description": "採点根拠の要約（score_breakdownを文章化）" },
+    "target_audience": { "type": "array", "items": { "type": "string" } },
+    "why_now": { "type": "string", "description": "なぜ今この投稿をするのか（季節性・話題性）" },
+    "image_candidates": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "order", "description", "source_priority", "url_or_location",
+          "credit_required", "usage_rights_confirmed", "checked_date", "rights_status"
+        ],
+        "properties": {
+          "order": { "type": "integer" },
+          "description": { "type": "string" },
+          "source_priority": {
+            "type": "string",
+            "enum": [
+              "official_press", "tourism_board", "official_with_clear_terms",
+              "licensed_stock_pr", "other_rights_confirmable", "ai_generated_decorative"
+            ]
+          },
+          "url_or_location": { "type": "string" },
+          "copyright_holder": { "type": "string" },
+          "credit_required": { "type": "boolean" },
+          "usage_rights_confirmed": { "type": "boolean" },
+          "checked_date": { "type": "string", "format": "date" },
+          "rights_status": {
+            "type": "string",
+            "enum": ["confirmed", "unconfirmed_needs_approval", "ai_generated_decorative_only"]
+          }
+        }
+      }
+    },
+    "carousel": {
+      "type": "array",
+      "description": "1枚目=最重要。原則14〜16準拠",
+      "items": {
+        "type": "object",
+        "required": ["slide", "role", "image_ref", "copy"],
+        "properties": {
+          "slide": { "type": "integer" },
+          "role": { "type": "string" },
+          "image_ref": { "type": "integer", "description": "image_candidates[].order参照" },
+          "copy": { "type": "string" }
+        }
+      }
+    },
+    "cover_copy_ab_test": {
+      "type": "object",
+      "properties": {
+        "variant_a": { "type": "string" },
+        "variant_b": { "type": "string" }
+      }
+    },
+    "captions": {
+      "type": "object",
+      "required": ["instagram", "tiktok"],
+      "properties": {
+        "instagram": { "type": "string" },
+        "tiktok": { "type": "string" }
+      }
+    },
+    "hashtags": { "type": "array", "items": { "type": "string" } },
+    "schedule": {
+      "type": "object",
+      "properties": {
+        "planned_date": { "type": "string", "format": "date" },
+        "planned_time": { "type": "string" },
+        "platform": { "type": "array", "items": { "type": "string" } },
+        "rationale": { "type": "string" }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["type", "title", "url"],
+        "properties": {
+          "type": { "enum": ["official", "booking_site", "review_site", "sns", "press", "other"] },
+          "title": { "type": "string" },
+          "url": { "type": "string" }
+        }
+      }
+    },
+    "created_date": { "type": "string", "format": "date" }
+  }
+}

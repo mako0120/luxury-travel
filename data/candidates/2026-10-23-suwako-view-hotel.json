@@ -1,0 +1,138 @@
+{
+  "cycle_date": "2026-10-23",
+  "theme": "長野県諏訪湖畔エリアの絶景ホテル（上諏訪温泉）",
+  "season_rationale": "10月下旬の諏訪湖畔は紅葉が進み、諏訪湖を囲む山々の色づきと湖面が重なる時期にあたる。朝晩の気温が下がって湖面に朝霧が立ちやすく、露天風呂や展望風呂から湖と紅葉・霧を一度に眺められる一年でも映える季節。年末年始に向けた温泉旅行の検討が始まる時期にも合う。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-22-mercure-tottori-daisen", "region": "鳥取県西伯郡伯耆町（大山山麓）", "category": "絶景ホテル" },
+    { "post_id": "2026-10-21-lavista-furano-hills", "region": "北海道富良野市", "category": "絶景ホテル" },
+    { "post_id": "2026-10-20-aso-canyon-terrace-lodge", "region": "熊本県阿蘇郡南阿蘇村", "category": "絶景ホテル" },
+    { "post_id": "2026-10-19-ibusuki-ginsho", "region": "鹿児島県指宿市", "category": "絶景ホテル" },
+    { "post_id": "2026-10-18-miyajima-seaside-hotel", "region": "広島県廿日市市宮島町", "category": "絶景ホテル" }
+  ],
+  "duplication_note": "依頼時に指定された地域『長野県諏訪湖畔エリア』について、captions/・data/candidates双方の全履歴（2026-09-14〜2026-10-22、重複回避のため直近数日だけでなく1ヶ月以上前の分も含めて全件確認）を『諏訪』で検索したが該当する投稿・候補は一件もなかった。長野県関連では軽井沢（サウナ：2026-09-18 fufu-karuizawa、2026-10-21 hotel-fukinomori）、上高地（アクティビティ：2026-10-18）、白馬（アクティビティ：2026-10-19）、蓼科（グランピング：2026-10-18 tateshina-glamping）、草津温泉（グルメ旅館：2026-10-19 lavista-kusatsu-hills）、妻籠・馬籠（文化体験：2026-10-21）等があるが、いずれも諏訪湖畔とは異なる地域・施設であり重複なし。カテゴリ『絶景ホテル』は直近5サイクル（10/18宮島・10/19指宿・10/20阿蘇・10/21富良野・10/22大山）で連続選定カテゴリとなっているが、本サイクルも依頼時に『絶景ホテル』カテゴリと地域が明示的に指定されたためこのまま調査した。次回サイクルでは温泉旅館・グルメ旅館・グランピング・列車/船・文化体験等、カテゴリの切り替えを推奨する。",
+  "research_notes": "本サイクルではWebSearchで上諏訪温泉エリアの『ホテル鷺乃湯』『RAKO華乃井ホテル』『ラルバ諏訪湖』『上諏訪温泉 しんゆ（親湯）』『上諏訪ステーションホテル』の5件を調査した。『しんゆ（親湯）』は蓼科温泉ホテル親湯の姉妹館として諏訪湖畔に新規開業した施設だが、ニフティ温泉上での評価が3.8点・7件と口コミ数が少なく独立2情報源での裏付けが取れなかったため正式な候補エントリとしなかった。『上諏訪ステーションホテル』（じゃらん4.6・162件との言及あり）は駅前のビジネスホテル寄りの立地で、諏訪湖の眺望を客室や風呂から直接確認できる記述がWebSearchのスニペットからは得られず、『絶景ホテル』としての差別化要素を確認できなかったため候補エントリとしなかった。なお本セッションのWebFetchは全ドメインでDNS解決エラー（getaddrinfo ENOTFOUND）となり施設公式ページ・予約サイトへの直接アクセスができなかったため、すべての評価数値はWebSearchのスニペット経由で確認したものであり、特に楽天トラベルのクチコミ件数は検索タイミング・掲載ページ（施設トップ/クチコミ一覧/ランキング経由）によって910件・1,133件・1,388件・1,393件・1,498件と幅があった。本ファイルの鷺乃湯の楽天トラベル欄は、クチコミ一覧ページ（review.html）由来とスニペットに明記された『総合評価4.50　1,393件』を採用し、件数に幅がある点をこのnotesに明記する。",
+  "candidates": [
+    {
+      "id": "2026-10-23-saginoyu-suwako",
+      "name": "信州・上諏訪温泉 ホテル鷺乃湯",
+      "region": "長野県諏訪市（上諏訪温泉、JR上諏訪駅から徒歩約8分、諏訪湖畔）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.5, "scale": 5, "review_count": 1393, "checked_date": "2026-10-23", "url": "https://travel.rakuten.co.jp/HOTEL/5209/review.html" },
+        { "source": "Yahoo!トラベル", "score": 4.54, "scale": 5, "review_count": 118, "checked_date": "2026-10-23", "url": "https://travel.yahoo.co.jp/00001268" }
+      ],
+      "price_range_jpy": {
+        "note": "公式予約ページ（489ban.net）によると、諏訪湖を望む『展望露天風呂付客室』は1名あたり35,200円〜（2名1室利用時、朝夕食付、公式サイト予約で5%OFF後の価格）。同じ展望露天風呂系の『癒し露天風呂付客室』は1名あたり23,100〜24,200円〜（2名1室利用時、朝夕食付、日付により変動）。露天風呂なしの標準客室プランはこれより安価と見られるが、今回のWebSearchでは具体的な金額を確認できなかった。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "1905年頃に初代館主が銭湯を開業したのを起源とする、諏訪湖畔に立つ老舗温泉旅館（全55室）。自家源泉の琥珀色のモール泉を100%源泉かけ流しで提供する大浴場『霊泉さぎの湯』に加え、客室タイプ『展望露天風呂付客室』『癒し露天風呂付客室』では部屋の露天風呂に浸かりながら眼下に広がる諏訪湖と星空を一望できるのが最大の特徴。日本庭園や信州の旬を取り入れた懐石料理も魅力で、JR上諏訪駅から徒歩約8分という駅チカ立地ながら湖畔の静けさと一体化した絶景を体験できる。",
+      "renewal_or_news": "営業休止・閉鎖等のネガティブ情報はWebSearchでは見当たらず、2026年10月時点でも公式予約ページ（489ban.net）・楽天トラベル・Yahoo!トラベルのいずれも稼働中の施設として掲載されていることを確認した。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 81,
+      "recommendation_reason": "楽天トラベル4.50（1,393件）・Yahoo!トラベル4.54（118件）と、規模の異なる2つの独立した予約・レビューサイトでいずれも推奨ライン4.0以上を大きく上回る高評価を確認できた（原則6・7）。展望露天風呂付客室から諏訪湖と星空を一望できる構成は、同エリアの他宿と比べても『部屋から直接眺める絶景』という点で差別化が明確。100%源泉かけ流しの自家源泉（琥珀色のモール泉）、日本庭園、懐石料理と体験の厚みもあり、JR上諏訪駅から徒歩8分というアクセスの良さも安心材料。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "WebSearchで『鷺乃湯 口コミ 悪い 不満』等の複数クエリで再検索したが、この施設固有の重大な不満や低評価の投稿は確認できなかった。楽天トラベルの個別口コミでは、ある投稿者が朝食・温泉・設備を5点満点中3点とした例があったが、具体的な不満内容は確認できず、営業状況・接客・衛生面での重大な指摘は見当たらなかった。Yahoo!トラベルの項目別評価でも温泉・お風呂が4.70、接客・サービスが4.5と全項目で高水準だった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "ホテル鷺乃湯 クチコミ一覧 - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/5209/review.html" },
+        { "type": "review_site", "title": "ホテル鷺乃湯 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00001268" },
+        { "type": "official", "title": "ホテル鷺乃湯 展望露天風呂付客室 ご予約ページ（489ban.net）", "url": "https://reserve.489ban.net/client/saginoyu/0/detail/94567" },
+        { "type": "other", "title": "ホテル鷺乃湯のご紹介 - KNT（近畿日本ツーリスト）", "url": "https://yado.knt.co.jp/st/S200156/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-23-rako-hananoi",
+      "name": "上諏訪温泉 RAKO華乃井ホテル",
+      "region": "長野県諏訪市（上諏訪温泉、諏訪湖畔、JR上諏訪駅から車で約7分）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.65, "scale": 5, "review_count": 66, "checked_date": "2026-10-23", "url": "https://4travel.jp/dm_hotel-10036420" }
+      ],
+      "price_range_jpy": {
+        "note": "日帰り入浴料は大人1,550円・小人（4〜12歳）1,000円との掲載があったが、宿泊プランの具体的な金額はWebSearchのスニペットからは確認できなかった。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "屋上テラス『KOHANNO TERRACE』から諏訪湖に沈む夕日を眺められるのが最大の特徴で、じゃらんの『売れた宿大賞（長野県）』を2年連続受賞との掲載もある。大浴場『水華の湯・月華の湯』は諏訪湖を見下ろす展望風呂で、諏訪の地酒を混ぜた名物『地酒風呂』、ドライサウナ、諏訪湖を望む貸切風呂（りんごの湯・あんずの湯）など設備の幅が広い。",
+      "renewal_or_news": "営業休止・閉鎖等の情報はWebSearchでは見当たらなかった。",
+      "target_audience": ["カップル", "夫婦", "友人", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 8,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 2
+      },
+      "score": 68,
+      "recommendation_reason": "屋上テラスからの夕日・地酒風呂・複数の湖view貸切風呂など独自体験の厚みは高く、じゃらんの受賞歴も話題性がある。ただし今回確認できた独立レビュー源のうちURL・件数を確定できたのはフォートラベル（3.65／66件）のみで、推奨ライン4.0を下回った。楽天トラベル4.22やJTBアンケート総合84点という言及もあったが、具体的な口コミ件数・個別ページURLをWebSearchのスニペットからは確定できなかったため、正式なreview_scoresには含めていない（数値のない情報を記載しない方針）。JR上諏訪駅から車で約7分と徒歩圏外である点も踏まえ、本サイクルでは『選定』ではなく『再調査候補』として保留する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの項目別評価では風呂4.24・接客対応4.09・食事4.06に対し、アクセス3.56・バリアフリー3.57と低め。個別口コミでは部屋の匂いが気になった、朝食の一部が冷めていたという指摘があったが、営業停止や安全面に関わる重大な指摘ではなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "RAKO華乃井ホテル クチコミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10036420" },
+        { "type": "other", "title": "上諏訪温泉 RAKO華乃井ホテル - ゆこゆこネット", "url": "https://www.yukoyuko.net/5621" },
+        { "type": "other", "title": "RAKO華乃井ホテル - KNT（近畿日本ツーリスト）", "url": "https://yado.knt.co.jp/st/S200160/" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-23-laluna-suwako",
+      "name": "ラルバ諏訪湖",
+      "region": "長野県諏訪市（上諏訪温泉、諏訪湖畔）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.24, "scale": 5, "review_count": 8, "checked_date": "2026-10-23", "url": "https://4travel.jp/dm_hotel-10036421" }
+      ],
+      "price_range_jpy": {
+        "note": "WebSearchのスニペットからは宿泊料金の具体的な金額を確認できなかった。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "源泉掛け流し100%の天然温泉が24時間入浴可能とされ、じゃらんでは評価4.2・口コミ960件という言及があり口コミ数自体は豊富。ただしフォートラベルの掲載情報には露天風呂や諏訪湖の眺望に関する具体的な記述が見当たらず、『絶景ホテル』として部屋・風呂から湖を眺められる独自性をWebSearchでは確認できなかった。",
+      "renewal_or_news": "営業休止等の情報は見当たらなかった。",
+      "target_audience": ["カップル", "夫婦", "友人", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 5,
+        "unique_experience_score": 10,
+        "photogenic": 8,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 48,
+      "recommendation_reason": "じゃらんでは評価4.2・口コミ960件という言及があったが、施設専用のページURLをWebSearchのスニペットからは確定できず、確定できたフォートラベルの数値（3.24／8件）はサンプルが小さく推奨ライン4.0を下回った。加えて露天風呂や諏訪湖の眺望に関する具体的な記述を確認できず、『絶景ホテル』カテゴリとしての差別化要素が他2候補に比べて弱いと判断し不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの項目別評価ではアクセス4.20・コストパフォーマンス4.30に対し風呂3.70とやや低め。安全面・営業状況に関わる重大な指摘は見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ラルバ諏訪湖 クチコミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10036421" },
+        { "type": "other", "title": "長野県 上諏訪・下諏訪・岡谷エリア 宿・ホテル一覧 - じゃらん", "url": "https://www.jalan.net/160000/spt_guide000000181377/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "施設専用の信頼できるレビューページURL・件数を独立2情報源で確定できず、確定できたフォートラベル（3.24／8件、サンプル僅少）は推奨ライン4.0未満だった。加えて『絶景ホテル』として湖を望む露天風呂等の具体的な記述が確認できず、独自性の裏付けが他候補に比べ不十分なため不採用とした（原則6・7）。"
+    }
+  ]
+}

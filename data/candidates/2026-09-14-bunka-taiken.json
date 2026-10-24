@@ -1,0 +1,111 @@
+{
+  "cycle_date": "2026-09-14",
+  "theme": "文化体験カテゴリ（新スコープ＝リサーチ＋キャプションのみ、画像構成なし）",
+  "season_rationale": "秋は紅葉と月見の季節。京都・嵐山では2026年11月15日〜12月10日に平安貴族の美意識をテーマにした秋季限定の文化体験プログラムが新設されており、季節性・話題性（原則30・原則4の最新性）の両面で今のタイミングでの紹介価値が高い。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-20-mizu-no-oto", "region": "神奈川県足柄下郡箱根町（小涌谷）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-cycl-yamanakako", "region": "山梨県南都留郡山中湖村", "category": "サウナ" },
+    { "caption_id": "2026-09-14-kinmedai-kokorone", "region": "静岡県伊東市（宇佐美温泉）", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "直近の投稿・キャプションは温泉旅館×2・サウナ×1・グルメ旅館×1で、文化体験カテゴリの投稿は未実施。同日サイクルで並行して作成された他候補ファイル（data/candidates/2026-09-14-onsen-ryokan.json＝島根、2026-09-14-sauna.json＝山梨、2026-09-14-view-resort.json＝神奈川・富山・長野）とも地域・カテゴリの重複がないことを確認したうえで、京都・嵐山の文化体験（伝統文化プログラムを持つ宿）を選定した。",
+  "other_candidates_considered": [
+    {
+      "name": "箔一 本店 箔巧館（金箔貼り体験／金沢）",
+      "category": "文化体験（体験施設・宿泊なし）",
+      "note": "金沢箔を用いた金箔貼り体験ができる体感型施設。体験自体の独自性は高いが、Web検索で確認できた数値評価はNAVITIME上の3.8点（20件）のみで、原則6の最低ライン（主要レビューサイト4.0以上）を満たす独立した情報源を2件以上確認できなかった。Googleマップ等での評価が確認でき次第、次サイクル以降に再検討する。"
+    },
+    {
+      "name": "べにや無何有（山代温泉）",
+      "category": "文化体験（禅・湯治文化を軸にした温泉旅館）",
+      "note": "静寂・読書・薬草スパ・禅の思想を取り入れた滞在体験は文化体験カテゴリとして魅力的で、口コミの定性的な評価（『至高の癒やし空間』等）は好意的。ただし一休.com／Yahoo!トラベル等で具体的な総合評価点数・口コミ件数をWeb検索の範囲では確認できず、原則6・7の数値的な裏付け基準を満たせないため今サイクルは見送り。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-09-14-hoshinoya-kyoto",
+      "name": "星のや京都",
+      "region": "京都府京都市西京区（嵐山）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Tripadvisor", "score": 4, "scale": 5, "review_count": 417, "checked_date": "2026-09-15", "url": "https://www.tripadvisor.com/Hotel_Review-g298564-d1547518-Reviews-Hoshinoya_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html" },
+        { "source": "Yahoo!マップ", "score": 4.32, "scale": 5, "review_count": 45, "checked_date": "2026-09-15", "url": "https://map.yahoo.co.jp/v3/place/6hVzCD6j-UY/review" }
+      ],
+      "price_range_jpy": {
+        "note": "大人2名1泊1室合計で税込77,388円〜344,124円程度（プラン・時期により幅が大きい）。公式サイトでは1泊2日・2名利用・夕朝食付きで1名あたり89,564円〜の表示も確認。秋季限定プログラム「紅葉の私邸でたゆたう時空（とき）」（2026年11月15日〜12月10日）の具体的な追加料金はWeb検索の範囲では確認できなかった。",
+        "as_of_search_date": "2026-09-15",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "渡月橋のたもとから専用の屋形舟で大堰川を約15分遡って向かう、舟でしか行けない全29室の隠れ宿。2026年11月15日〜12月10日には平安貴族の美意識をテーマにした秋季限定シグネチャープログラム「紅葉の私邸でたゆたう時空（とき）」を提供（星野リゾート公式プレスリリースで確認）。嵯峨嵐山文化館職員による百人一首の講義、老舗香木店・山田松香木店指南の練香体験、屋形舟「翡翠」での平安の舟遊び、庭園ツアー、紅葉の夕餉など、文化体験の密度が高いプログラム構成。",
+      "renewal_or_news": "2026年11月15日〜12月10日限定の秋季シグネチャープログラム「紅葉の私邸でたゆたう時空」を新規開始（星野リゾート公式プレスリリース／PR TIMES掲載）。2025年夏にも「奥嵐山のオールインクルーシブひとり旅」を新設するなど、季節ごとに文化体験プログラムを継続更新している。",
+      "target_audience": ["夫婦", "記念日", "カップル", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 11,
+        "unique_experience_score": 19,
+        "photogenic": 14,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 81,
+      "recommendation_reason": "Tripadvisor 4.0（417件）・Yahoo!マップ4.32（45件）と複数の独立情報源で4.0以上の評価。何より『舟でしか行けない』アクセス自体が唯一無二の体験であり、2026年秋には百人一首講義・練香体験・舟遊びなど平安文化をテーマにした期間限定プログラムを公式プレスリリースで確認できた点が、文化体験カテゴリとして他候補を上回る決め手となった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorには『最悪でした』『本当に残念な宿』『人手不足？』といったタイトルのレビューが複数存在し、また高級ホテル専門メディアhaute-hotel.comの分析記事でも、高額な料金に対してサービスが見合わない、照明が暗い、アメニティがビジネスホテルと同等、清掃が行き届いていない、といった指摘が独立に確認された（原則7：2種類以上の情報源で確認）。一方で大多数のレビューは舟での出迎え・料理・客室・接客への満足を高く評価しており、衛生・安全面の重大な問題や予約トラブルの多発は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "星のや京都【公式】 | HOSHINOYA Kyoto", "url": "https://hoshinoresorts.com/en/hotels/hoshinoyakyoto/" },
+        { "type": "press", "title": "【星のや京都】平安貴族の美意識に浸り、奥嵐山の秋の彩りに没入するシグネチャープログラム「紅葉の私邸でたゆたう時空（とき）」提供開始 | 星野リゾートのプレスリリース", "url": "https://prtimes.jp/main/html/rd/p/000002069.000033064.html" },
+        { "type": "review_site", "title": "星のや 京都【2026年最新の料金比較・口コミ・宿泊予約】- Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-g298564-d1547518-Reviews-Hoshinoya_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html" },
+        { "type": "review_site", "title": "クチコミ : 星のや京都 - 京都市西京区嵐山中尾下町/ホテル | Yahoo!マップ", "url": "https://map.yahoo.co.jp/v3/place/6hVzCD6j-UY/review" },
+        { "type": "booking_site", "title": "星のや京都 アクセス・地図・送迎情報【JTB】＜嵐山・嵯峨野＞", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/6240016/access/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-14-suiran-arashiyama",
+      "name": "翠嵐 ラグジュアリーコレクションホテル京都",
+      "region": "京都府京都市右京区（嵯峨嵐山）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Relux", "score": 4.2, "scale": 5, "review_count": 29, "checked_date": "2026-09-15", "url": "https://rlx.jp/21903/review/" },
+        { "source": "Tripadvisor", "score": 4, "scale": 5, "review_count": 400, "checked_date": "2026-09-15", "url": "https://www.tripadvisor.com/Hotel_Review-g298564-d7767288-Reviews-Suiran_a_Luxury_Collection_Hotel_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html" }
+      ],
+      "price_range_jpy": {
+        "note": "大人1名（2名1室）1泊あたり税込52,498円〜233,013円程度。素泊まり2名合計最安113,850円〜、夕朝食付きプランは2名合計195,634円〜との表示も確認（サイトにより幅あり）。",
+        "as_of_search_date": "2026-09-15",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "川崎重工業創業者・川崎正蔵の別荘だった明治期の邸宅を活かした純和風ラグジュアリーホテル。嵐山・渡月橋を望む借景庭園と、茶寮「八翠」での紅葉を眺めながらのアフタヌーンティー・京料理が名物。全39室中17室に専用露天風呂があり、人力車での送迎など京都らしい文化的演出も特徴。",
+      "renewal_or_news": "2015年開業。直近の大規模リニューアル情報は確認できなかったが、茶寮「八翠」での季節限定アフタヌーンティー等、季節ごとにメニューを更新している。",
+      "target_audience": ["夫婦", "記念日", "カップル", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 10,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 77,
+      "recommendation_reason": "Relux 4.2（29件）・Tripadvisor 4.0（400件）と2つの独立情報源で4.0以上を確認。明治期の邸宅建築と嵐山の借景を活かした純和風ラグジュアリー体験、紅葉期の茶寮「八翠」でのアフタヌーンティーは写真映えも強く、文化体験カテゴリの有力候補。星のや京都と比べると『舟でしか行けない』ような唯一無二の非日常性と、直近の公式プレスリリースに基づく期間限定文化プログラムの厚みでやや劣るため、今回は次点（shortlisted）とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "じゃらんの口コミでは朝食が4,000円で内容の割に高いという指摘、Tripadvisorでは紅葉の繁忙期にリピーター客への対応が急変し不快だったという指摘があり、価格対サービスへの不満・繁忙期の接客品質のばらつきが独立した複数情報源で確認された。一方で庭園・借景・客室露天風呂・接客全体への評価は総じて高く、衛生面の重大な問題や予約トラブルの多発は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "翠嵐 ラグジュアリーコレクションホテル 京都【公式】- 翠 SUI", "url": "https://www.suihotels.com/suiran-kyoto/" },
+        { "type": "review_site", "title": "翠嵐 ラグジュアリーコレクションホテル 京都の口コミ（レビュー）- Relux", "url": "https://rlx.jp/21903/review/" },
+        { "type": "review_site", "title": "Suiran, a Luxury Collection Hotel, Kyoto - Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-g298564-d7767288-Reviews-Suiran_a_Luxury_Collection_Hotel_Kyoto-Kyoto_Kyoto_Prefecture_Kinki.html" },
+        { "type": "booking_site", "title": "翠嵐 ラグジュアリーコレクションホテル 京都 - 宿泊予約は＜じゃらんnet＞", "url": "https://www.jalan.net/yad300340/" }
+      ],
+      "decision": "shortlisted"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "cycle_date": "2026-10-19",
+  "theme": "離島リゾート（沖縄県宮古島市伊良部／伊良部島）",
+  "season_rationale": "10月下旬は沖縄の離島が台風ピークを過ぎ、海の透明度が上がる一方で真夏より涙小の混雑になる狙い目シーズン（原則30）。伊良部島は宮古島本島と伊良部大橋で接続する離島で、直近の離島リゾート採用済み候補（石垣島・西表島・五島列島）とは異なる地域として調査した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-18-nara-hotel", "region": "奈良県奈良市高畑町", "category": "文化体験" },
+    { "post_id": "2026-10-18-kitakobushi-shiretoko", "region": "北海道斜里郡斜里町ウトロ東", "category": "アクティビティ" },
+    { "post_id": "2026-10-18-grand-mercure-okinawa-zanpa", "region": "沖縄県中頭郡読谷村字儀間", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-18-goto-retreat-ray", "region": "長崎県五島市上崎山町（福江島）", "category": "離島リゾート" },
+    { "post_id": "2026-10-17-hoshino-iriomote-hotel", "region": "沖縄県八重山郡竹富町上原（西表島）", "category": "離島リゾート" },
+    { "post_id": "2026-10-17-ana-intercontinental-ishigaki", "region": "沖縄県石垣市真栄里（マエサトビーチ）", "category": "離島リゾート" }
+  ],
+  "duplication_note": "離島リゾートは直近2026-10-17（石垣島・西表島）、2026-10-18（五島列島）で採用済みのため、同カテゴリの連続採用を避けるべきだが、本サイクルは依頼により離島リゾート×伊良部島を指定調査した。伊良部島は過去に data/candidates/2026-09-14-remote-island-resort.json でイラフSUIを1件のみ調査済み（68点で不採用）。今回は同施設を最新情報で再調査するとともに、他の伊良部島内施設も追加調査した。宮古島本島側（ヒルトン沖縄宮古・シギラ等、2026-09-18採用済み）とは地域が異なる。",
+  "other_facilities_considered_insufficient_data": [
+    {
+      "name": "ホテル てぃだの郷",
+      "region": "沖縄県宮古島市伊良部佐和田（下地島空港近く）",
+      "reason_excluded": "icottoで総合評価3.29という数値は確認できたが、母数となる口コミ件数を今回のセッションでは確認できず、原則7（独立2件以上の数値根拠）を数値付きで確定できないため、捏造を避けてschema準拠の正式候補としては記録しなかった。古い投稿では建物の古さ・割高感を指摘する声があり、直近の高評価投稿も一部確認。"
+    },
+    {
+      "name": "いなうの郷",
+      "region": "沖縄県宮古島市伊良部佐和田",
+      "reason_excluded": "フォートラベルに口コミ17件の存在は確認できたが、サイト集計の総合評価点（分母付き）は確認できず、個別投稿（3.5〜4.0点、2015年の2.0点など）のみで信頼できる数値根拠を確定できなかった。"
+    },
+    {
+      "name": "soraniwa hotel and cafe",
+      "region": "沖縄県宮古島市伊良部",
+      "reason_excluded": "全5室の小規模ヴィラ。2020年前後の個別口コミ（5点評価等）は確認できたが、集計された総合評価・件数が確認できず、原則7の数値根拠を確定できなかった。"
+    },
+    {
+      "name": "島宿いら風",
+      "region": "沖縄県宮古島市伊良部",
+      "reason_excluded": "1日2組限定の小規模宿として紹介記事はあるが、料金・口コミ評価の数値情報を今回のセッションでは一切確認できなかった。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-19-iraph-sui-miyako",
+      "name": "イラフ SUI ラグジュアリーコレクションホテル 沖縄宮古",
+      "region": "沖縄県宮古島市伊良部（伊良部島）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.46, "scale": 5, "review_count": 33, "checked_date": "2026-10-19", "url": "https://4travel.jp/dm_hotel-11744659" },
+        { "source": "Relux", "score": 4.0, "scale": 5, "review_count": 6, "checked_date": "2026-10-19", "url": "https://rlx.jp/23101/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "1名1泊30,000円台〜という利用者投稿を複数確認したが、プラン・部屋タイプにより変動するため公式サイトでの最新確認が必要。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "森トラストの『翠 SUI』とマリオットの『ラグジュアリーコレクション』を冠するダブルブランドホテルで、2018年開業時に伊良部島初の外資系ホテルとして話題になった全58室の高級リゾート。サンセット時間帯にプールサイドで無料のシャンパン・軽食を楽しめる『シャンパンディライト』、海を望む早朝ヨガ、地元食材を使ったフレンチが名物。",
+      "renewal_or_news": "2026年4月時点でも美容メディア（美的）がサンセット＆シャンパン体験を紹介する記事を掲載しており、開業から年数が経つ現在も一定のメディア露出が続いている。大規模リニューアル等の直近ニュースは今回のセッションでは確認できなかった。",
+      "target_audience": ["夫婦", "記念日", "カップル", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 10,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 5,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 72,
+      "recommendation_reason": "外資系ラグジュアリーブランドが伊良部島に進出した唯一無二のポジションや客室・接客・食事への高評価（フォートラベル客室4.59・接客4.13、Relux総合4.0）は強みだが、フォートラベルのコストパフォーマンス評価が3.38と繰り返し弱点として指摘され、宮古空港からのアクセスも20〜35分とやや不便。2026-09-14サイクルの調査（68点）から今回Reluxの独立データを追加したが、総合72点にとどまり採用ライン（75点）には届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミ33件は『とても良い』24件・『良い』5件・『普通』2件・『悪い』2件という内訳で大半は好意的だが、項目別ではコストパフォーマンス3.38・アクセス3.50が他項目（客室4.59等）より明確に低い。清潔感・接客・安全性に関わる重大な指摘は確認できなかったが、価格に対する満足度のばらつきは継続して確認される傾向。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "IRAPH SUI, a Luxury Collection Hotel, Miyako Okinawa 公式", "url": "https://www.suihotels.com/iraphsui-miyako_okinawa/" },
+        { "type": "review_site", "title": "イラフ SUI ラグジュアリーコレクションホテル 沖縄宮古 クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-11744659" },
+        { "type": "review_site", "title": "イラフ SUI ラグジュアリーコレクションホテル 沖縄宮古 レビュー - Relux", "url": "https://rlx.jp/23101/review/" },
+        { "type": "other", "title": "ANAプレミアムステイ イラフSUI紹介ページ", "url": "https://www.ana.co.jp/ja/jp/domestic/theme/premium_stay/iraphsuimiyako/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア72点で採用ライン（75点）に届かず不採用。主要レビューサイトの最高値（Relux4.0）は基準ラインに乗るが、口コミ件数6件と母数が少なく推奨ライン（4.2以上）にも届かないため信頼性も限定的（原則6・7）。"
+    },
+    {
+      "id": "2026-10-19-feliz-villa-suite-sawada",
+      "name": "フェリスヴィラスイート伊良部島・佐和田",
+      "region": "沖縄県宮古島市伊良部佐和田",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "Expedia経由集計（jcation掲載）", "score": 4.8, "scale": 5, "review_count": 30, "checked_date": "2026-10-19", "url": "https://jcation.com/hotel/detail-11336/" }
+      ],
+      "price_range_jpy": {
+        "note": "全8棟の1棟貸し（コンドミニアム型）ヴィラ。1泊の具体的な料金はセッション内で数値確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "日本の渚百選『佐和田の浜』を望む高台に立つ、全8棟の1棟貸切ヴィラ。プライベート感の強い滞在形態が『少し奮発すれば届く非日常』像に合う。",
+      "renewal_or_news": "2025年6月時点の紹介記事に『リニューアルオープンに伴い2026年春まで休業中』という記載があったが、今回のセッションでは2026年10月時点の正確な営業状況（再開済みか否か）を確定できなかった。じゃらん・jcationの空室カレンダー表示からは営業中の可能性が高いが未確定。",
+      "target_audience": ["夫婦", "カップル", "記念日", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 6,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 69,
+      "recommendation_reason": "Expedia経由集計で4.8（30件）という高評価は魅力的だが、独立した2つ目の数値根拠（原則7）を今回確定できなかった。加えて類似名の姉妹施設『長浜ベイ』との混同リスクがあり、2026年10月時点の営業状況（休館情報の有無）も確定できなかったため、今サイクルでは採用を保留した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2022年頃の口コミに『部屋はホテルというより年季の入ったアパートという感じ』『窓が曇りガラスで海が見えない』という指摘があり、直近の楽天トラベルの個別投稿（5点満点評価）とは評価に差がある。重大な安全・衛生上の指摘は確認できなかったが、評価の時期差・情報の一貫性に懸念がある。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "フェリスヴィラスイート伊良部島・佐和田 - じゃらん", "url": "https://www.jalan.net/yad339350/" },
+        { "type": "other", "title": "フェリスヴィラスイート伊良部島・佐和田 詳細 - jcation", "url": "https://jcation.com/hotel/detail-11336/" },
+        { "type": "booking_site", "title": "フェリスヴィラスイート伊良部島・佐和田 クチコミ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/165964/review.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア69点で採用ライン（75点）に届かず、かつ原則7の独立2件以上の数値根拠・原則4の最新営業状況確認のいずれも今回確定できなかったため不採用。再調査時は公式サイト・SNSで営業状況を確認したうえで再評価を推奨。"
+    }
+  ],
+  "cycle_result": "伊良部島内で正式にschema準拠記録した2候補（イラフSUI＝72点、フェリスヴィラスイート佐和田＝69点）はいずれも採用ライン（75点）に届かず、他4施設（てぃだの郷・いなうの郷・soraniwa・島宿いら風）は信頼できる数値根拠（口コミ件数付きの評価点）を確定できず正式候補として記録しなかった。今サイクルはセッションのWebSearch利用上限に達したため、代替地域（鹿児島県種子島等）での再調査を実施できなかった。該当なしとして今サイクルを終了する。"
+}

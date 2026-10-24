@@ -1,0 +1,138 @@
+{
+  "cycle_date": "2026-09-14",
+  "theme": "第5サイクル：アクティビティ（宿泊なし・絶景体験）— 秋の雲海シーズン",
+  "season_rationale": "9月中旬〜10月は放射冷却が発生しやすく気温差も大きくなるため、雲海が発生しやすいピークシーズンにあたる（原則30）。紅葉本番前のこの時期に『今のうちに旅行を計画してほしい』絶景体験として雲海テーマは季節適合度が高い。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-20-mizu-no-oto", "region": "神奈川県足柄下郡箱根町（小涌谷）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-cycl-yamanakako", "region": "山梨県南都留郡山中湖村", "category": "サウナ" }
+  ],
+  "duplication_note": "captions/・data/candidates/ の既存エントリは温泉旅館×2・サウナ×1・グルメ旅館×1で、宿泊施設カテゴリに偏っている。今サイクルは今リポジトリのスコープ変更後初となる『宿泊なしのアクティビティ』カテゴリを調査し、原則29（カテゴリの連続回避）の観点からバランスを取った。地域も北海道・宮崎・北海道十勝と、既存投稿（島根・神奈川・山梨）と重複しない。",
+  "other_candidates_considered": [],
+  "candidates": [
+    {
+      "id": "2026-09-14-unkai-terrace-tomamu",
+      "name": "星野リゾート トマム 雲海テラス",
+      "region": "北海道勇払郡占冠村（トマム）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.2, "scale": 5, "review_count": 38, "checked_date": "2026-09-15", "url": "https://www.jalan.net/kankou/spt_guide000000187690/kuchikomi/" }
+      ],
+      "price_range_jpy": {
+        "note": "日帰り入場料は大人2,500円・7〜11歳1,600円（愛犬500円）。星野リゾート トマム宿泊者は無料。ゴンドラは標高1,088mまで約13分、運行時間は早朝5:00〜8:00。2026年シーズンより入場時間の事前予約制を導入（利用日前日17:00より予約受付、混雑緩和が目的）。",
+        "as_of_search_date": "2026-09-15",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "標高1,088mの3階建て展望デッキから、気象条件がそろった早朝にダイナミックな雲海を一望できる。2006年開業以来、累計170万人超が来訪した北海道を代表する絶景スポットで、2021年8月には3階建てテラスへ改装済み。雲海の出現確率はおよそ50%とされ、『見られるかどうか』自体が旅の期待感を高める、天候・タイミング依存の希少体験。テラスではモーニングコーヒーやヨガなどの体験プログラムも展開。",
+      "renewal_or_news": "2026年シーズンより雲海ゴンドラの『入場時間事前予約制』を新規導入（混雑緩和目的、公式サイトで告知済み）。2021年8月に展望デッキを3階建てへ改装。",
+      "target_audience": ["絶景好き", "カップル", "家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 12,
+        "unique_experience_score": 18,
+        "photogenic": 14,
+        "value_for_price": 7,
+        "sns_buzz": 8,
+        "access_and_freshness": 4
+      },
+      "score": 83,
+      "recommendation_reason": "じゃらんnet4.2（38件）に加え、Tripadvisorでは独立の観光名所ページ（Unkai Terrace）が356件のレビューを集めTravelers' Choice（上位10%）を受賞しており、複数の独立情報源で高評価が裏付けられている（原則7）。170万人超の累計来場という規模と『雲海』という他に代替のきかない自然現象体験が最大の強みで、2026年シーズンの新予約制導入という直近ニュースもあり情報鮮度も高い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorのレビューでは『雨でゴンドラが動かず雲海テラスに行けなかった』『雲海が見られる確率は約50%で天候次第』という声を複数確認。旅行ブログ（4travel・個人ブログ）でも『インスタ映えを狙う訪問者で長蛇の列ができ撮影に時間がかかる』『混雑時はゴンドラ待ちが約30分』という指摘を確認した（独立2情報源）。いずれも自然現象・混雑という構造的な制約であり、清潔感・接客・設備面の重大な問題ではない。ただしキャプションでは『雲海が見られる保証はない』旨を正直に明記する必要がある。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "雲海テラス 利用ガイド｜星野リゾート トマム【公式】", "url": "https://www.snowtomamu.jp/unkai_terrace_reservation/" },
+        { "type": "official", "title": "雲海テラス - 星野リゾート トマム【公式】summer", "url": "https://www.snowtomamu.jp/summer/unkai/" },
+        { "type": "review_site", "title": "星野リゾート トマム 雲海テラスのクチコミ一覧 - じゃらんnet", "url": "https://www.jalan.net/kankou/spt_guide000000187690/kuchikomi/" },
+        { "type": "review_site", "title": "Unkai Terrace - Shimukappu-mura（356件のレビュー） - Tripadvisor", "url": "https://www.tripadvisor.jp/Attraction_Review-g1120868-d6941614-Reviews-Unkai_Terrace-Shimukappu_mura_Yufutsu_gun_Hokkaido.html" },
+        { "type": "other", "title": "星野リゾート トマム 雲海テラス（アクセス・営業時間・料金情報）- るるぶ&more.", "url": "https://rurubu.jp/andmore/spot/80001568" },
+        { "type": "other", "title": "トマム「雲海テラス」完全攻略！優先搭乗・行列・運休リスクを体験レポ - 気ままな旅日和", "url": "https://anywhere-trip.com/unkai-terrace-review/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-14-takachihokyou-boat",
+      "name": "高千穂峡 貸しボート",
+      "region": "宮崎県西臼杵郡高千穂町",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Trip.com", "score": 4.8, "scale": 5, "review_count": 11, "checked_date": "2026-09-15", "url": "https://jp.trip.com/moments/theme/destination-takachiho-60931-boating-experience-1002227/" }
+      ],
+      "price_range_jpy": {
+        "note": "30分4,100円〜5,100円／1艇（定員3名、未就学児を含む場合のみ最大4名）。営業時間は通常8:30〜17:00だが、増水時は運休。",
+        "as_of_search_date": "2026-09-15",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "柱状節理の峡谷と真名井の滝を間近に望みながら手漕ぎボートで進む、国指定名勝・天然記念物の景勝地。写真映えする定番の絶景体験だが、増水時は運休となり、混雑時は行列・順番待ちが発生する。",
+      "target_audience": ["カップル", "家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 7,
+        "unique_experience_score": 17,
+        "photogenic": 14,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 72,
+      "recommendation_reason": "柱状節理×滝という唯一無二の景観と高い知名度を持つが、Web検索で確認できた数値評価はTrip.comの4.8点（11件）のみで、件数が少なく原則6・7の信頼性基準（評価は件数とセットで判断）を単独では満たしにくい。Yahoo!マップにも4.1という評価表示は確認できたが、口コミ件数を今回のセッションでは特定できなかったため参考値扱いとした。増水時の頻繁な運休や、混雑時の待ち時間・ボート同士の接触といった負の口コミも複数確認された。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorのレビューで『いつも混雑していてボートに乗れません』『午前中でないと乗りにくい』という声、じゃらんの口コミで『ボートが多すぎて渋滞し自由に動けなかった』『力が必要で疲れた』という声を複数の独立情報源（Tripadvisor・じゃらん）で確認した。増水時は安全上運休になる点も運用リスクとして留意。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "高千穂峡貸しボート｜高千穂町観光協会【公式】", "url": "https://takachiho-kanko.info/boat/detail.php" },
+        { "type": "other", "title": "高千穂峡貸しボート／高千穂町", "url": "https://www.town-takachiho.jp/top/soshiki/kikakukanko/2/4/316.html" },
+        { "type": "review_site", "title": "高千穂峡貸しボートのクチコミ一覧 - じゃらんnet", "url": "https://www.jalan.net/kankou/spt_guide000000175025/kuchikomi/" },
+        { "type": "review_site", "title": "クチコミ：高千穂峡貸しボート - Yahoo!マップ", "url": "https://map.yahoo.co.jp/v3/place/coO6piwuN-2/review" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア72点で採用ライン（75点）をわずかに下回った。主因は口コミ件数の少なさ・評価の信頼性不足（原則6）と、増水による頻繁な運休という情報鮮度・アクセス面のリスク。景観自体の魅力は高く、次サイクル以降、より件数の多いレビューソース（Googleマップ等）を確認できれば再候補とする。"
+    },
+    {
+      "id": "2026-09-14-kamishihoro-balloon",
+      "name": "熱気球係留体験（上士幌町・道の駅かみしほろ バルーンフィールド）",
+      "region": "北海道河東郡上士幌町",
+      "category": "アクティビティ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 5.0, "scale": 5, "review_count": 1, "checked_date": "2026-09-15", "url": "https://www.jalan.net/kankou/cit_016330000/g2_H4/" }
+      ],
+      "price_range_jpy": {
+        "note": "今回のセッションでは具体的な体験搭乗料金をWeb検索で確認できなかった（EGRESS_BLOCKEDにより公式サイトの詳細ページを直接確認できず）。",
+        "as_of_search_date": "2026-09-15",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "ロープで係留した熱気球で地上約20〜30m（ビル7〜8階相当）まで浮上し、十勝平野を一望する約5分間の空中体験。専門パイロットが安全管理を行い子どもから高齢者まで参加可能。北海道バルーンフェスティバルでも知られる『バルーンのまち』上士幌ならではの体験。",
+      "target_audience": ["家族", "友人", "絶景好き", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 3,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 5,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 57,
+      "recommendation_reason": "熱気球係留体験という体験自体の独自性・映え度は高いが、じゃらんnet上の口コミが1件（5.0点）のみと極端に少なく、原則6（評価は件数とセットで判断）を満たせない。料金・実施期間（天候・季節による運休条件）もこのセッションでは公式サイトへのWebFetchがブロックされ確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ件数自体が1件のみで、低評価の傾向をWeb検索の範囲では十分に確認できなかった。『ロープにつながれていないので風向き次第で方向が変わる』という体験の性質に関する記述はあったが、安全性を疑わせる重大な指摘は確認されなかった。ただし母数の少なさから、否定的な意見が単に見つかっていないだけの可能性がある点に留意。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "上士幌町（河東郡）の熱気球ランキングTOP1 - じゃらんnet", "url": "https://www.jalan.net/kankou/cit_016330000/g2_H4/" },
+        { "type": "other", "title": "上士幌町 熱気球係留体験 開催中 – 十勝シーニックバイウェイ", "url": "https://www.t-scenic.com/post-7287/" },
+        { "type": "other", "title": "熱気球係留プラン - カミシホロホテル", "url": "https://kamishihoro-hotel.com/plan/hot-air-balloon/mooring-plan/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア57点で採用ライン（75点）を大きく下回る。主因は口コミ母数の極端な少なさ（1件）による信頼性不足（原則6・7）と、料金・催行条件をこのセッションでは複数情報源で数値確認できなかったこと。次サイクル以降、Googleマップ等でより多くの口コミが蓄積されていれば穴場候補（原則8）として再評価する価値がある。"
+    }
+  ]
+}

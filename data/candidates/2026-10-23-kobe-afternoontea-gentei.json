@@ -1,0 +1,99 @@
+{
+  "cycle_date": "2026-10-23",
+  "theme": "兵庫県神戸市のカフェ・アフタヌーンティー・期間限定イベント企画（ホテル宿泊以外の少し贅沢な体験、リサーチ＋キャプションのみ・画像構成なし）",
+  "season_rationale": "10月下旬〜11月末は神戸市内で『MOOMIN×神戸ポートタワープロジェクト a part of KOBE』（2026年10月10日〜11月30日、神戸ポートタワーがメイン会場）が開催され、市内の宿泊施設・クルーズ・カフェが連動した期間限定コラボメニューを展開する時期。加えて神戸布引ハーブ園では紅葉と秋の味覚をテーマにした『収穫の秋フェア』を11月30日まで開催中。依頼によりカテゴリ『その他（カフェ・アフタヌーンティー・期間限定イベント等）』・地域『兵庫県神戸市』を指定して調査した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-20-sendai-gentei-event", "region": "宮城県仙台市", "category": "その他" },
+    { "post_id": "2026-10-21-hiroshima-afternoontea", "region": "広島県広島市", "category": "その他" },
+    { "post_id": "2026-10-22-osaka-afternoon-experience", "region": "大阪府大阪市", "category": "その他" }
+  ],
+  "duplication_note": "依頼により、直近数日（仙台10/20・広島10/21・大阪10/22）だけでなく、data/candidates・captions配下の全履歴（2026-09-14〜2026-10-22、約100件）を『神戸』『兵庫』『kobe』『hyogo』でテキスト検索し重複有無を確認した。該当したのは2026-10-20-nasu-awaji-glamping.json等の『兵庫県淡路島』グランピング案件（淡路島は神戸市ではない）、2026-09-18-kinosaki-gourmet.json等の『兵庫県豊岡市・城崎温泉』グルメ旅館案件（豊岡市は神戸市ではない）の計11件のみで、いずれも神戸市内の施設・企画ではなく、本サイクルの対象（神戸市中央区のホテル・観光施設）との重複には当たらない。神戸市を対象にした既存のdata/candidates・captionsは本サイクル以前には存在しないことを確認した。",
+  "research_notes": "このセッションのネットワーク環境では、4travel.jp・gltjp.com等へのWebFetchがEGRESS_BLOCKED（DNS解決不可）となり、本文を直接確認できず、WebSearchのスニペットから得られる情報のみを根拠としている。また本サイクル中盤でこのセッションのWebSearch回数上限に達したため、『口コミ 悪い』等のネガティブ観点に特化した追加検索、および3件目以降の候補（ANAクラウンプラザホテル神戸、ホテルオークラ神戸、ホテルラ・スイート神戸ハーバーランド、神戸ポートピアホテル、神戸北野ホテル、六甲ガーデンテラス/六甲枝垂れ、神戸ルミナリエ）の深掘りができなかった。これらは2026年秋の期間限定提供が確認できなかった（終了済み・情報未確認）ため、正式な候補としては採用していない。また神戸リゾートクルーズ『boh boh KOBE』（ムーミンコラボメニューを船内カフェで提供）も調査したが、確認できた口コミが『いこーよ』掲載の1件のみで評価点の数値が確認できず、candidate.schema.jsonが要求するreview_scores（score・review_count必須）を実データで満たせないため、本ファイルには正式候補として記載せず、調査済み・データ不足として本欄に記録する。",
+  "candidates": [
+    {
+      "id": "2026-10-23-moomin-afternoontea-meriken-kobe",
+      "name": "神戸メリケンパークオリエンタルホテル「ムーミン」アフタヌーンティー（14階 VIEW CAFE）",
+      "region": "兵庫県神戸市中央区波止場町（メリケンパーク内）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル（施設全体の口コミ）", "score": 4.42, "scale": 5, "review_count": 380, "checked_date": "2026-10-23", "url": "https://4travel.jp/dm_hotel-10050176" },
+        { "source": "OZmall（宿泊口コミ）", "score": 4.44, "scale": 5, "review_count": 131, "checked_date": "2026-10-23", "url": "https://www.ozmall.co.jp/travel/stay/244/review/" },
+        { "source": "Yahoo!マップ", "score": 4.09, "scale": 5, "review_count": 132, "checked_date": "2026-10-23", "url": "https://map.yahoo.co.jp/v3/place/kDShmoHX2GE" }
+      ],
+      "price_range_jpy": {
+        "note": "1名6,500円（税・サービス料込み目安、1日10食限定）。14階『VIEW CAFE』で提供。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "神戸ハーバーランド沖、メリケンパーク内に位置する神戸メリケンパークオリエンタルホテル14階『VIEW CAFE』で、神戸の海と街並みを一望しながら『ムーミン』と仲間たちをテーマにしたアフタヌーンティーを提供。神戸ビーフの生ハムを使ったサラダや、神戸とフィンランドをつないだケークサレなど、ご当地色を加えたセイボリーが特徴。ムーミン型サブレやニョロニョロ型クルトンなど、キャラクターをかたどったパーツも含まれる。1日10食限定で要予約。",
+      "renewal_or_news": "『MOOMIN×神戸ポートタワープロジェクト a part of KOBE』（2026年10月10日(土)〜11月30日(月)開催、神戸ポートタワーがメイン会場）に合わせた期間限定メニューで、予約受付は2026年9月14日から開始されている。",
+      "target_audience": ["カップル", "女子旅", "家族", "ホテル好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 11,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 8,
+        "access_and_freshness": 4
+      },
+      "score": 77,
+      "recommendation_reason": "フォートラベル4.42点(380件)・OZmall4.44点(131件)・Yahoo!マップ4.09点(132件)という3つの独立情報源で、いずれも推奨ライン4.0以上の評価・相応の口コミ件数を確認した（原則6・7）。これらはホテル全体（宿泊・結婚式場利用含む）の評価であり本企画単体のものではない点は留意事項だが、OZmallの宿泊口コミでは『景色がきれいで価格以上』という好意的な声もあった。神戸市全体を巻き込む『MOOMIN×神戸ポートタワープロジェクト』のタイアップ企画として、14階からの神戸港・市街の眺望に神戸ビーフを使ったセイボリーというご当地性を組み合わせた構成は『ここでしかできない』体験価値があり、1日10食限定という希少性もSNS話題性につながると判断して選定した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ホテル全体の口コミ（フォートラベル4.42点/380件、OZmall4.44点/131件、Yahoo!マップ4.09点/132件）はいずれも推奨ライン4.0以上で、清潔感・接客上の重大な問題を示す投稿は確認できなかった。OZmallの宿泊口コミでは『景色がきれいで1万円以下は破格』という好意的な声があった一方、これらはホテル全体（宿泊・結婚式場利用等）の評価であり、本アフタヌーンティー単体の口コミはまだ蓄積されていない（新規期間限定企画のため）。本セッションはWebSearch回数上限に達したため、『口コミ 悪い』等のネガティブ観点に特化した追加検索を実施できておらず、確認範囲が限定的である点を正直に記録する。確認できた範囲では除外基準（原則10）に該当する重大な問題は見つかっていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "神戸メリケンパークオリエンタルホテルのムーミンアフタヌーンティー - 神戸新聞PR TIMES掲載", "url": "https://www.kobe-np.co.jp/info/prtimes/202609/c16207_r2126.shtml" },
+        { "type": "press", "title": "秋の神戸が「ムーミン」一色に染まる！「ムーミン×神戸ポートタワープロジェクト a part of KOBE」開催決定 - resemom.jp", "url": "https://resemom.jp/release/prtimes/20260805/202650.html" },
+        { "type": "review_site", "title": "神戸メリケンパークオリエンタルホテル クチコミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10050176" },
+        { "type": "other", "title": "神戸メリケンパークオリエンタルホテル 口コミ - OZmall", "url": "https://www.ozmall.co.jp/travel/stay/244/review/" },
+        { "type": "other", "title": "神戸メリケンパークオリエンタルホテル - Yahoo!マップ", "url": "https://map.yahoo.co.jp/v3/place/kDShmoHX2GE" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-23-veranda-kobe-nunobiki-herb-autumn",
+      "name": "ザ・ヴェランダ神戸「収穫の秋フェア」（神戸布引ハーブ園）",
+      "region": "兵庫県神戸市中央区北野町（布引ロープウェイ山頂駅・神戸布引ハーブ園内）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "いこーよ（神戸布引ハーブ園/ロープウェイ 施設全体の口コミ）", "score": 4.1, "scale": 5, "review_count": 13, "checked_date": "2026-10-23", "url": "https://iko-yo.net/facilities/1685" }
+      ],
+      "price_range_jpy": {
+        "note": "新神戸ロープウェイ往復+ハーブ園入園で大人2,000〜2,500円程度（情報源により差異あり）。カフェメニューは単品数百円〜千円台（シャインマスカット・巨峰を使った秋限定スイーツ等）。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "新神戸駅から徒歩約5分のロープウェイ山麓駅から約10分の空中散歩で山頂駅へ。標高約400mから神戸市街・大阪湾を一望できる『ザ・ヴェランダ神戸』のカフェラウンジ・テラスで、シャインマスカットや巨峰を使った秋限定スイーツ（『季節のクリエーション』、フルーツサンド等）を提供する『収穫の秋フェア』（11月30日まで）。2026年4月のリニューアルで新設された『スカイバー』『ハンモック サンクチュアリ』も特徴。",
+      "renewal_or_news": "2026年4月25日にリニューアルオープン（スカイバー・ハンモックサンクチュアリ新設）。2026年7月11日〜8月30日には初の『サンセット&ナイト営業』を実施。秋は『収穫の秋フェア』を11月30日まで開催中。",
+      "target_audience": ["カップル", "女子旅", "絶景好き", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 4,
+        "unique_experience_score": 16,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 64,
+      "recommendation_reason": "標高約400mの山頂からの神戸市街・大阪湾の眺望、ロープウェイでの空中散歩、2026年4月リニューアルの新施設（スカイバー等）という独自性・映え要素は高く評価できる。一方で確認できた口コミは『いこーよ』掲載の13件・4.1点という1情報源のみで、原則7が求める『独立2情報源必須』を本サイクルのWebSearch予算内で満たせなかった（GLTJPに4.17点の表示はあったが口コミ件数が確認できず正式な情報源としては採用を見送った）。『ザ・ヴェランダ神戸』単体・『収穫の秋フェア』単体の口コミも確認できていない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "いこーよの口コミ(13件)では、山頂までの坂道が急でベビーカー・幼児連れには大変という指摘があったが、重大な安全・衛生上の問題ではない。『ザ・ヴェランダ神戸』単体、または『収穫の秋フェア』自体への口コミはまだ確認できていない。本セッションはWebSearch予算の制限により、Googleマップ・じゃらん・4travelでの直接確認ができておらず、確認範囲が限定的である点を正直に記録する。確認できた範囲では除外基準（原則10）に該当する重大な問題は見つかっていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "神戸布引ハーブ園「収穫の秋フェア」開催 - san-tatsu.jp（プレスリリース掲載）", "url": "https://san-tatsu.jp/pressrelease/459743/" },
+        { "type": "other", "title": "神戸布引ハーブ園/ロープウェイ 口コミ・評価 - いこーよ", "url": "https://iko-yo.net/facilities/1685" },
+        { "type": "other", "title": "神戸布引ハーブ園 施設情報・評価 - GLTJP", "url": "https://www.gltjp.com/ja/directory/item/11367/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score_breakdown合計64点で採用ライン（75点）に届かず。最大の要因はreview_reliability（4/15点）：原則7所定の独立2情報源以上を本セッションのWebSearch予算内で確認できず、確認できたのはいこーよの13件・4.1点のみだった（GLTJPの4.17点は口コミ件数が確認できなかったため正式な情報源として不採用）。施設・企画自体の独自性・絶景は高評価のため、次サイクル以降にGoogleマップ・じゃらん等で件数を確認できれば再検討の余地がある。"
+    }
+  ]
+}

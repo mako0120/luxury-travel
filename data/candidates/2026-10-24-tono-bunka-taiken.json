@@ -1,0 +1,151 @@
+{
+  "cycle_date": "2026-10-24",
+  "theme": "文化体験：岩手県遠野市（遠野物語・南部曲り家の里）",
+  "season_rationale": "遠野市は『遠野物語』の舞台で、カッパ淵・伝承園・南部曲り家など農村文化を体感できるエリア。紅葉は例年10月下旬〜11月上旬に見頃を迎え、夜の冷え込みが増すこの時期は曲り家の囲炉裏・温泉・薪サウナなど『火を囲む』文化体験の魅力が伝えやすくなるタイミング。積雪期（12月以降）に向けてアクセス・休業情報が変わりやすくなる前に検討を始めたい。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-09-14-bunka-taiken", "region": "京都府京都市（嵐山）", "category": "文化体験", "note": "1か月以上前・地域が全く異なるため重複なし。" },
+    { "caption_id": "2026-10-22-mitsui-kyoto", "region": "京都府京都市中京区（二条城前）", "category": "文化体験", "note": "地域・施設とも異なるため重複なし。" },
+    { "caption_id": "2026-10-23-homachi-mikuniminato", "region": "福井県坂井市三国町", "category": "文化体験", "note": "地域・施設とも異なるため重複なし。" },
+    { "candidate_id": "2026-10-18-hanamaki-onsenkyo", "region": "岩手県花巻市（花巻温泉郷）", "category": "温泉旅館", "note": "同じ岩手県だが花巻市・カテゴリも温泉旅館で、遠野市・文化体験とは地域・カテゴリとも異なるため重複なし。" },
+    { "caption_id": "2026-10-18-yamanokami-yukaen", "region": "岩手県花巻市", "category": "温泉旅館", "note": "同上の理由で重複なし。" }
+  ],
+  "duplication_note": "`data/candidates/` `captions/` を全件ファイル名・本文（grep）で『遠野』『tono』『岩手』の文字列を1か月以上前まで遡って確認した。『遠野』『tono』に一致する既存ファイルは0件。『岩手』に一致するのは花巻市の温泉旅館3件（2026-10-18サイクル）のみで、いずれも遠野市ではなく花巻市、カテゴリも温泉旅館のため、地域・カテゴリとも重複しないと判断した。",
+  "other_candidates_considered": [
+    {
+      "name": "伝承園（旧菊池家住宅・南部曲り家、重要文化財）",
+      "category": "文化体験（野外博物館・日帰り施設）",
+      "note": "遠野物語の世界観を体感できる野外博物館で、1750年頃建築・国指定重要文化財の旧菊池家住宅（南部曲り家）を見学できる。カッパ淵にも近く文化的価値は高いが、宿泊施設ではなく日帰り観覧施設のため、本スキーマが前提とする宿泊候補（price_range_jpy等）としての評価になじまず、今サイクルは参考情報（候補外）とした。"
+    },
+    {
+      "name": "遠野ふるさと村",
+      "category": "文化体験（野外博物館・日帰り施設）",
+      "note": "江戸〜明治期の南部曲り家6〜7棟を移築復元し、そば打ち・陶炭・ヤマメつかみ取りなど体験型イベントが充実。宿泊は提供されておらず日帰り施設のため、伝承園と同様の理由で候補外（参考情報）とした。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-24-takamuro-suikouen",
+      "name": "たかむろ水光園",
+      "region": "岩手県遠野市土淵町柏崎7-175-2（JR釜石線 遠野駅から車で約15〜20分）",
+      "category": "文化体験",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "じゃらん", "score": 3.8, "scale": 5, "review_count": 108, "checked_date": "2026-10-24", "url": "https://www.jalan.net/yad383141/" },
+        { "source": "楽天トラベル（価格.com経由で確認した集計値）", "score": 4.33, "scale": 5, "review_count": 65, "checked_date": "2026-10-24", "url": "https://travel.kakaku.com/%E5%9B%BD%E5%86%85%E5%AE%BF%E6%B3%8A%E4%BA%88%E7%B4%84/%E3%81%9F%E3%81%8B%E3%82%80%E3%82%8D%E6%B0%B4%E5%85%89%E5%9C%92-10040163/" }
+      ],
+      "price_range_jpy": {
+        "note": "遠野市観光協会の掲載情報では、南部曲り家一棟貸しの宿泊は2食付きで1泊9,370円〜（別ページ掲載では9,980円〜、時期により変動の可能性）。入場（公園エリア）は大人330円、日帰り入浴（温泉）は大人550円〜650円（ページにより表示が異なる）。いずれも検索日時点の参考値で、正確な現行料金は公式サイト・各予約サイトで要確認。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "遠野市内から移築した本物の南部曲り家（L字型の母屋と馬屋が一体になった伝統的農家建築）を一棟まるごと借りて宿泊できる、遠野でも数少ない『曲り家に実際に泊まれる』施設。太陽熱とウッドチップボイラーを併用する環境配慮型の施設運営で、ラドン温泉・低温サウナも併設。予約制で語り部による遠野物語の昔話を聞けるプログラムもあり、囲炉裏を囲む農村文化・温泉・サウナを一体で体験できる構成は他にない独自性。園内には遠野市の形を約600分の1で模した『遠野池』もある。",
+      "renewal_or_news": "直近の大規模リニューアル等のニュースはWeb検索の範囲では確認できなかったが、2026年10月時点で各予約サイト（じゃらん・楽天トラベル・Trip.com）に掲載が継続しており、通常営業中であることを確認。毎月第4月曜（祝日の場合は翌日）定休、冬季・荒天時は庭園エリアが閉鎈される場合がある旨の記載があるため、宿泊・入浴そのものの冬季休業有無は予約時に要確認。",
+      "target_audience": ["夫婦", "一人旅", "友人", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 10,
+        "unique_experience_score": 18,
+        "photogenic": 11,
+        "value_for_price": 8,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 75,
+      "recommendation_reason": "じゃらん3.8（108件）・楽天トラベル4.33（65件、価格.com経由で確認）という2つの独立した情報源を確認し、楽天トラベル側は推奨ライン4.0（5点換算）を上回った（原則6・7）。本物の南部曲り家に一棟貸しで宿泊できる点は、同じ南部曲り家を日帰り見学のみで提供する伝承園・遠野ふるさと村にはない独自性で、環境配慮型の運営・ラドン温泉・低温サウナ・予約制の語り部昔話まで含めると、文化体験カテゴリとして遠野の魅力を立体的に伝えられる。レビュー件数自体は100件超と少なくないが、知名度は観光の目玉（カッパ淵等）に比べてまだ低く、参照ページによって評価数値のばらつきがある点も踏まえてHidden Gem（is_hidden_gem=true）として扱った。価格（2食付き9,370円〜）も体験内容に対して妥当で、総合スコア75点は採用ラインを満たすと判断した。一方でSNS話題性は限定的で、冬季の宿泊可否が明確に確認できなかった点は制作移行前の再確認事項として残る。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "参照したページによって楽天トラベル側の評価・件数表示が分かれており（4.33/65件、4.25/32件、4.25/39件、3.82/80件）、取得スナップショットや集計対象の違いによる可能性がある。じゃらんも3.8と推奨ラインぎりぎりの数値。ただし検索範囲では、衛生面・接客・予約トラブルに関する重大かつ複数の指摘は確認できなかった。曲り家は冬季・荒天時に庭園エリアが閉鎖される場合があるとの記載があり、宿泊自体の冬季休業有無は確認できなかったため、制作前に電話等で要再確認とした。disqualifying_issues_foundはfalseと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "遠野市観光協会公式サイト（tonojikan.jp）たかむろ水光園紹介ページ", "url": "https://tonojikan.jp/ml/?p=840" },
+        { "type": "booking_site", "title": "遠野市たかむろ水光園 - 宿泊予約は＜じゃらんnet＞", "url": "https://www.jalan.net/yad383141/" },
+        { "type": "review_site", "title": "楽天トラベル: たかむろ水光園 クチコミ・感想・情報", "url": "https://travel.rakuten.co.jp/HOTEL/11204/review.html" },
+        { "type": "other", "title": "たかむろ水光園 料金比較・宿泊予約 - 価格.com", "url": "https://travel.kakaku.com/%E5%9B%BD%E5%86%85%E5%AE%BF%E6%B3%8A%E4%BA%88%E7%B4%84/%E3%81%9F%E3%81%8B%E3%82%80%E3%82%8D%E6%B0%B4%E5%85%89%E5%9C%92-10040163/" },
+        { "type": "booking_site", "title": "たかむろ水光園の宿泊予約・お得なプラン - Trip.com", "url": "https://jp.trip.com/hotels/tono-hotel-detail-28771977/takamuro-suikouen/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-24-lien-tono",
+      "name": "Lien 遠野",
+      "region": "岩手県遠野市上郷町平倉（岩手上郷駅から徒歩約8分／JR遠野駅から車で約15分）",
+      "category": "文化体験",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "じゃらん", "score": 5.0, "scale": 5, "review_count": 10, "checked_date": "2026-10-24", "url": "https://www.jalan.net/030000/STA_004362/" },
+        { "source": "Jcation", "score": 5.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-24", "url": "https://jcation.com/hotel/detail-16308/" }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらん掲載では1泊大人2名合計（税込）28,000円〜（1名あたり14,000円〜）。食事内容・滞在時間の詳細はWeb検索の範囲では確認できなかった。公式サイト（lien-tono.com）・各予約サイトで要確認。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "築70年の古民家を一棟貸しで利用できる、遠野の田園地帯にある小規模な宿。薪ストーブ・焚き火・薪で焚くサウナを備え、食事はベジタリアン・ヴィーガン対応も可能。カッパ淵・遠野ふるさと村など遠野物語ゆかりの地から車で行き来しやすい立地に、静かな農村の暮らしと『火を囲む』体験を組み合わせている点が独自性。",
+      "target_audience": ["友人", "一人旅", "夫婦", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 4,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 72,
+      "recommendation_reason": "じゃらん5.0（10件）・Jcation5.0（1件）といずれも満点評価だが、件数が合計11件と極端に少なく、原則6・7が求める『件数とセットで信頼度を判断する』基準を数値的エビデンスとして十分には満たせない。築70年の古民家一棟貸し・薪サウナ・焚き火・ヴィーガン対応という独自性と写真映えは高く評価できるが、遠野の農村文化・遠野物語との結び付きはたかむろ水光園（本物の南部曲り家に泊まれる）に比べるとやや弱いため、本サイクルでは次点（shortlisted）とした。レビュー件数が今後増え、かつ公式サイトで料金・体験内容が明確に確認できた時点で再評価の余地がある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "検索範囲で確認できたレビューはいずれも高評価（清潔感・接客・古民家の佇まいを評価する声）で、低評価レビューや重大な指摘は見つからなかった。ただし母数が10件程度と少なく、まだ評価の安定性を判断できる段階ではない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "Lien 遠野 - 宿泊予約は＜じゃらんnet＞エリア一覧", "url": "https://www.jalan.net/030000/STA_004362/" },
+        { "type": "other", "title": "Lien 遠野(岩手県)への宿泊予約【Jcation】", "url": "https://jcation.com/hotel/detail-16308/" },
+        { "type": "other", "title": "Lien 遠野 - cocolocala（宿泊者レビュー）", "url": "https://www.cocolocala.jp/hotels/267159" },
+        { "type": "official", "title": "Lien遠野 公式サイト（お客さまの声）", "url": "https://www.lien-tono.com/reviews/" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-24-aeria-tono",
+      "name": "語り部の聴ける宿 あえりあ遠野",
+      "region": "岩手県遠野市（遠野市街地）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.41, "scale": 5, "review_count": 35, "checked_date": "2026-10-24", "url": "https://4travel.jp/dm_hotel-10040160" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な1泊2食の現行料金はWeb検索の範囲では確認できなかった。公式・各予約サイトで要確認。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "遠野市の第三セクターが運営するホテルで、夕方に語り部による遠野物語の昔話を宿泊者が無料で聴けるプログラムが名物。角閃石を使った大浴場も特徴。",
+      "target_audience": ["友人", "家族", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 11,
+        "review_reliability": 7,
+        "unique_experience_score": 13,
+        "photogenic": 7,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 49,
+      "recommendation_reason": "語り部による遠野物語の昔話を無料で聴けるという企画自体は文化体験として独自性があるが、独立して確認できた数値評価がフォートラベル3.41（35件）の1件のみで、推奨ライン4.0（原則6）を下回り、かつ原則7が求める『2種類以上の独立情報源での数値確認』も満たせない。項目別には風呂・客室・食事が3.8台と比較的高い一方、接客対応面で『心の通わない三セクホテル』という低評価（2.5点）レビューも確認されたため、総合的に今サイクルは不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミには、語り部の昔話・大浴場・朝食を評価する高評価レビューと並び、『心の通わない三セクホテル』として接客対応に不満を述べる2.5点の低評価レビューが確認された。風呂3.90・客室3.88・食事3.88は比較的高いが、総合満足度は3.41と推奨ラインを下回り、disqualifying_issues_foundはtrueと判断した。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "review_site", "title": "語り部の聴ける宿 あえりあ遠野 の口コミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10040160" },
+        { "type": "other", "title": "語り部の聴ける宿 あえりあ遠野の温泉情報、口コミ情報 - ニフティ温泉", "url": "https://onsen.nifty.com/toono-onsen/onsen021148/" },
+        { "type": "booking_site", "title": "あえりあ遠野 - JTB国内ホテル", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/2319002/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立した数値評価が1件（フォートラベル3.41／35件）のみで原則7の基準を満たせず、総合満足度も推奨ライン4.0を下回る。接客対応に関する低評価レビューも確認されたため不採用とした。"
+    }
+  ]
+}

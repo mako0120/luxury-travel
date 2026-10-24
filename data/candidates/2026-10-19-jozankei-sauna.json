@@ -1,0 +1,175 @@
+{
+  "cycle_date": "2026-10-19",
+  "theme": "北海道札幌市南区・定山渓温泉のサウナ施設",
+  "season_rationale": "10月下旬は北海道・定山渓も紅葉の終盤から初冬にかけて朝晩の気温が下がり、サウナの発汗後に冷えた外気で『ととのう』体験が際立つ季節（原則30: 秋は紅葉・温泉）。定山渓温泉は過去の候補・投稿データに一度も登場していない新規エリアで、直近のサウナカテゴリ選定（2026-10-18・山梨県石和温泉）とは地域が全く異なるため、カテゴリ連続とはみなさない（原則29）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-18-qua-hotel-isawa-kenkoland", "region": "山梨県笛吹市石和町（石和温泉）", "category": "サウナ" },
+    { "post_id": "2026-10-18-kitakobushi-shiretoko", "region": "北海道斜里郡斜里町ウトロ東（知床・ウトロ温泉）", "category": "アクティビティ" },
+    { "post_id": "2026-10-18-hoshinoya-fuji", "region": "山梨県南都留郡富士河口湖町大石（河口湖畔）", "category": "グランピング" },
+    { "post_id": "2026-10-18-grand-mercure-okinawa-zanpa", "region": "沖縄県中頭郡読谷村字儀間", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-18-kaike-shogetsu", "region": "鳥取県米子市皆生温泉", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "北海道札幌市南区定山渓温泉は過去の候補・投稿データに地域名として一度も登場していない新規地域。カテゴリ『サウナ』は直近2026-10-18に山梨県石和温泉で選定済みだが、地域（都道府県・エリア）が全く異なるため連続とはみなさない（原則29）。北海道カテゴリ自体は2026-10-18知床（アクティビティ）で選定済みだが、カテゴリは異なる。",
+  "candidates": [
+    {
+      "id": "2026-10-19-yunohana-jozankeiden",
+      "name": "定山渓温泉 湯の花 定山渓殿",
+      "region": "北海道札幌市南区定山渓温泉（定山渓温泉街西端）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "All About「人気日帰り温泉」記事（Googleクチコミ件数・評価に基づく選定基準）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 500,
+          "checked_date": "2026-10-19",
+          "url": "https://news.allabout.co.jp/articles/o/122382/"
+        },
+        {
+          "source": "@nifty温泉 口コミ（個別投稿。全体集計件数はWeb検索では非表示だったため、確認できた投稿例に基づく）",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 2,
+          "checked_date": "2026-10-19",
+          "url": "https://onsen.nifty.com/jouzankei-onsen/onsen000273/kuchikomi/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "日帰り入浴 大人980円（WalkerPlus掲載情報）。営業時間10:00〜21:00・年中無休という表示もWeb検索で確認できたが、最新の料金・営業時間は公式サイトで要確認。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "定山渓温泉街の西端にあり、札幌中心部から車で約1時間。源泉かけ流しの大浴場に加え、洞窟風呂・寝転びの湯などユニークな浴槽が揃う大型日帰り温泉施設。サウナは3段構造で30〜40人は入れる広さがあり、毎時37分にオートロウリュ（熱波）が入る。さらに源泉を使った水風呂（サ活投稿では秋季15℃前後）と外気浴スペースがあり、岩盤浴も併設。『1軒で何周もできるサウナ×源泉かけ流し』という組み合わせが、定山渓では珍しい日帰り型の本格サウナ体験になっている。",
+      "renewal_or_news": "2026年6月時点のAll About記事で『Googleクチコミ500件以上・平均評価4.0超』の銭湯・日帰り温泉として選定・紹介されており、継続的に高評価を集めていることをWeb検索で確認した。",
+      "target_audience": ["サウナ好き", "温泉好き", "一人旅", "友人"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 10,
+        "unique_experience_score": 17,
+        "photogenic": 11,
+        "value_for_price": 9,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 76,
+      "recommendation_reason": "3段構造・毎時オートロウリュのドライサウナ、源泉を使った水風呂、外気浴スペース、さらに洞窟風呂や寝転びの湯まで揃う『サウナ×源泉かけ流し日帰り温泉』という組み合わせが、定山渓のサウナ系候補の中では最も独自性が高い。All About記事で『Googleクチコミ500件以上・平均評価4.0超』の施設として選定されており、@nifty温泉の個別口コミでも4.0〜5.0点の高評価が複数確認できた。980円という価格に対する体験価値も高い。一方でGoogleマップ上の正確な件数・点数そのものはWeb検索の範囲では直接確認できておらず、この点は正直に記録した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Web検索の範囲では『汚い』『残念』『混雑がひどい』といった重大なネガティブ指摘は見当たらなかった。サ活投稿では『以前よりロウリュがマイルドになった気がする』という感想が1件あった程度で、清潔感・接客・安全性に関わる重大な問題は確認できなかった。ただし口コミ総数そのものを直接確認できていないため、低評価レビューの網羅的な確認はできていない点を留保する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "【北海道の人気日帰り温泉】「定山渓温泉 湯の花 定山渓殿」は多彩な湯船と本格サウナが魅力の日帰り温泉施設 - All About", "url": "https://news.allabout.co.jp/articles/o/122382/" },
+        { "type": "review_site", "title": "定山渓温泉 湯の花 定山渓殿 口コミ - @nifty温泉", "url": "https://onsen.nifty.com/jouzankei-onsen/onsen000273/kuchikomi/" },
+        { "type": "other", "title": "定山渓温泉 湯の花 定山渓殿 - サウナイキタイ（サ活投稿・サウナ仕様）", "url": "https://sauna-ikitai.com/saunas" },
+        { "type": "other", "title": "定山渓温泉 湯の花 定山渓殿 詳細情報 - ウォーカープラス", "url": "https://koyo.walkerplus.com/onsen/detail/ar0101s19245" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-19-suisantei-club-jozankei",
+      "name": "翠山亭倶楽部定山渓",
+      "region": "北海道札幌市南区定山渓温泉",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Googleクチコミ（ねとらぼ『定山渓温泉で人気の旅館』ランキング記事経由・2024年10月時点）",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 329,
+          "checked_date": "2026-10-19",
+          "url": "https://nlab.itmedia.co.jp/research/articles/3083863/"
+        },
+        {
+          "source": "icotto 宿泊口コミ",
+          "score": 3.5,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-19",
+          "url": "https://icotto.jp/hotels-2347/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な1泊2食価格帯は確定できなかった。13歳以上限定・全14室のスモールラグジュアリーホテルという位置づけから、他の定山渓の宿より高価格帯と推測される。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "13歳以上限定・全14室のスモールラグジュアリーホテルで、全室に自家源泉を引いた内風呂を完備。大浴場（サウナ付き）のほか、有料の貸切プライベートサウナ『翠山熱波』（サウナ室12㎡＋休憩・脱衣スペースを含め29㎡）がある点が独自性としては強いが、サウナ自体の仕様（温度・ロウリュ有無）は掲載元によって情報が食い違い、確定できなかった。",
+      "renewal_or_news": "ねとらぼの『定山渓温泉で人気の旅館』ランキング（2024年10月版）でGoogleクチコミ4.4点・329件で2位にランクインしていることをWeb検索で確認したが、調査時点から約2年経過しており最新性は保証できない。",
+      "target_audience": ["夫婦", "記念日", "カップル", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 17,
+        "review_reliability": 6,
+        "unique_experience_score": 15,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 2
+      },
+      "score": 60,
+      "recommendation_reason": "全室源泉内風呂＋貸切プライベートサウナというコンセプトは『少し贅沢な旅』に合致し、Googleクチコミ4.4点（329件・2024年10月時点）という評価も悪くない。しかし貸切サウナ『翠山熱波』自体への口コミは件数が非常に少なく（nifty温泉はわずか2件）、別の宿泊サイトではこのプライベートサウナ体験に対して1.0点という厳しい評価も確認された。サウナという今回のテーマの核心部分について情報の信頼性・一貫性が低いと判断し、見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ある宿泊サイト（cocolocala）で、プライベートサウナ『翠山熱波』の利用者から改善を求める声があり、評価は1.0点だった。立地自体は良いという声もあった。icottoの口コミでも3.5程度とやや控えめ。サウナという今回の訴求ポイントそのものに対するネガティブな指摘が確認された点を重く見た。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "定山渓温泉(北海道)で人気の旅館ランキング - ねとらぼ（2024年10月版）", "url": "https://nlab.itmedia.co.jp/research/articles/3083863/" },
+        { "type": "review_site", "title": "翠山亭倶楽部定山渓 口コミ - icotto", "url": "https://icotto.jp/hotels-2347/" },
+        { "type": "review_site", "title": "翠山亭倶楽部定山渓 口コミ・評価 - cocolocala", "url": "https://www.cocolocala.jp/hotels/186" },
+        { "type": "review_site", "title": "翠山亭倶楽部定山渓 - @nifty温泉", "url": "https://onsen.nifty.com/jouzankei-onsen/onsen008068/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "サウナ体験（貸切プライベートサウナ『翠山熱波』）自体への口コミが少なく評価も分かれ、1.0点という厳しい評価も確認されたため、今回のサウナテーマでの訴求材料として信頼性が不足すると判断し見送った。"
+    },
+    {
+      "id": "2026-10-19-hotel-shikanoyu",
+      "name": "ホテル鹿の湯（定山渓 鹿の湯）",
+      "region": "北海道札幌市南区定山渓温泉",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "@nifty温泉 口コミ",
+          "score": 3.4,
+          "scale": 5,
+          "review_count": 14,
+          "checked_date": "2026-10-19",
+          "url": "https://onsen.nifty.com/jouzankei-onsen/onsen000100/kuchikomi/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "日帰り入浴 大人1,500円・小学生750円という表示をWeb検索で確認した。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全170室の大型ホテルで、サウナ『鹿の蒸（かのむす）』は3段のサークル状という特徴的な造り。サ活投稿ではサウナ温度95〜112℃・水風呂7〜9℃・外気浴とロウリュ『有り』と記録されており、設備自体はサウナ愛好者から一定の支持がある。JR札幌駅北口からの無料送迎バス（完全予約制）もある。",
+      "renewal_or_news": "Web検索では直近のリニューアル情報は確認できなかった。",
+      "target_audience": ["温泉好き", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 8,
+        "review_reliability": 5,
+        "unique_experience_score": 13,
+        "photogenic": 7,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 45,
+      "recommendation_reason": "サウナ『鹿の蒸』自体はサ活投稿で温度・水風呂・外気浴・ロウリュが揃った本格仕様として評価されているが、確認できた唯一の口コミ集計（@nifty温泉・14件・3.4点）は採用ライン4.0に届かず、最新投稿も2019年7月と古い。独立した2件目の情報源（じゃらん・楽天トラベル等）の評価点もWeb検索では確認できなかったため、原則7（複数情報源）・原則6（4.0以上）の両方を満たせず見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "@nifty温泉の14件の口コミでは、お湯3.5点・施設3.8点・総合3.4点とやや低め。ただし投稿は2019年時点のもので現状を反映していない可能性がある。重大な清潔感・安全性の指摘は確認できなかったが、評価自体が採用ラインに届かない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ホテル鹿の湯 口コミ - @nifty温泉", "url": "https://onsen.nifty.com/jouzankei-onsen/onsen000100/kuchikomi/" },
+        { "type": "other", "title": "定山渓 鹿の湯 サウナ仕様（サ活投稿） - サウナイキタイ", "url": "https://sauna-ikitai.com/saunas" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "確認できた口コミ評価（@nifty温泉3.4点／14件・2019年時点）が採用ライン4.0に届かず、独立した2件目の評価点も確認できなかったため見送った。"
+    }
+  ]
+}

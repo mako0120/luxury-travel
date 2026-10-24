@@ -1,0 +1,148 @@
+{
+  "cycle_date": "2026-09-18",
+  "theme": "三重県志摩エリアの絶景ホテル（英虞湾ビュー）",
+  "season_rationale": "9月下旬の志摩・英虞湾エリアは残暑が落ち着き始め、空気が澄んでリアス式海岸の多島美と夕景のコントラストがはっきり出る季節。志摩観光ホテルの屋上展望台は『日本の夕陽百選』に選ばれており、澄んだ秋の空気は特に夕景・夜景の見え方に有利。紅葉本番（10月下旬〜）や年末年始の混雑期に入る前で、記念日旅行・秋旅を検討し始める層が動き出すタイミングでもある（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-14-cycl-yamanakako", "region": "山梨県南都留郡山中湖村", "category": "サウナ" },
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-20-mizu-no-oto", "region": "神奈川県足柄下郡箱根町（小涌谷）", "category": "温泉旅館" },
+    { "post_id": "2026-09-18-fufu-karuizawa-yokou", "region": "長野県北佐久郡軽井沢町（中軽井沢）", "category": "サウナ" },
+    { "post_id": "2026-09-14-setouchi-retreat-aonagi", "region": "愛媛県松山市（柳谷町）", "category": "絶景ホテル" },
+    { "post_id": "2026-09-14-kinmedai-kokorone", "region": "静岡県伊東市（宇佐美温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-09-14-hoshinoya-kyoto", "region": "京都府京都市（嵐山）", "category": "文化体験" },
+    { "post_id": "2026-09-14-soki-kanazawa", "region": "石川県金沢市（近江町市場前）", "category": "文化体験" },
+    { "post_id": "2026-09-14-lanature-glamping", "region": "栃木県佐野市", "category": "グランピング" },
+    { "post_id": "2026-09-14-azumi-setoda", "region": "広島県尾道市瀬戸田町", "category": "離島リゾート" },
+    { "post_id": "2026-09-14-sagano-torokko", "region": "京都府京都市（嵯峨野）〜亀岡市", "category": "列車・船" }
+  ],
+  "duplication_note": "絶景ホテルカテゴリの既存投稿は愛媛県松山市（瀬戸内リトリート青凪）のみで、地域（三重県志摩エリア／英虞湾）は重複しない。三重県自体も今回が初出。直近投稿はサウナ・温泉旅館・文化体験・グランピング・離島リゾート・列車と続いており、絶景ホテル×海（湾）ビューという切り口も地域・カテゴリともに連続していない（原則29）。",
+  "candidates": [
+    {
+      "id": "2026-09-18-shima-kanko-hotel-classic",
+      "name": "志摩観光ホテル ザ クラシック",
+      "region": "三重県志摩市阿児町神明（賢島・英虞湾）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "一休.com", "score": 4.60, "scale": 5, "review_count": 288, "checked_date": "2026-09-18", "url": "https://www.ikyu.com/00000801/review/" },
+        { "source": "Relux", "score": 4.7, "scale": 5, "review_count": 103, "checked_date": "2026-09-18", "url": "https://rlx.jp/21160/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "WebSearchのスニペットでは、1泊2食付きで大人1名あたり36,616円〜242,000円程度（2名1室利用時）という記載や、2名税込42,856円〜のプランなど、複数の予約サイトで異なる価格帯が確認された。客室タイプ（ザ クラシック／ザ ベイスイート等）・季節・プランにより幅が大きい。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "英虞湾に浮かぶ賢島に立つ、1951年創業の老舗リゾートホテル『志摩観光ホテル』の本館『ザ クラシック』（2024年4月大規模リニューアル）。屋上展望台からは複雑なリアス式海岸と鏡面のように静かな英虞湾を360°で一望でき、夕景は『日本の夕陽百選』にも選ばれている。的矢かきや伊勢海老・あわびなど地元食材を使ったフレンチをベースにした料理も特徴で、2016年の伊勢志摩サミットでは各国首脳の宿泊にも使われた格式を持つ。",
+      "renewal_or_news": "2024年4月にザ クラシック本館をリニューアル。じゃらんアワード『泊まってよかった宿大賞（接客・サービス）』東海エリア（101〜300室部門）で2023年・2024年と2年連続1位を受賞。クラブラウンジ「リアン」も改修を経て2026年4月にクラブ棟で営業再開。",
+      "target_audience": ["夫婦", "記念日", "カップル", "絶景好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 85,
+      "recommendation_reason": "一休.com4.60（288件）・Relux4.7（103件）と、性質の異なる2つの独立した予約サイトでいずれも4.5超の高評価かつ十分なレビュー件数を確認できた（原則6・7）。屋上展望台からの360°英虞湾パノラマ（『日本の夕陽百選』選出）という他候補にない眺望の強さに加え、2024年の大規模リニューアルとじゃらんアワード2年連続受賞という最新性・第三者評価の裏付けもある。伊勢志摩サミットの舞台になった格式と、的矢かき・伊勢海老など地元食材を使った料理も推薦材料。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "WebSearchで確認できた範囲では、『部屋のバスタブがやや狭い』といった細かな指摘はあったが、清潔感・接客・安全面での重大な指摘は見当たらなかった。一休.comの項目別評価でも温泉・お風呂が4.12とやや他項目（4.6〜4.7台）より低いが、致命的な低評価ではない。じゃらんアワード接客・サービス部門で2年連続1位という第三者評価とも整合的。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "【公式】志摩観光ホテル｜深い安らぎに満ちた志摩時間", "url": "https://www.miyakohotels.ne.jp/shima/" },
+        { "type": "review_site", "title": "志摩観光ホテル ザ クラシック - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00000801/review/" },
+        { "type": "review_site", "title": "志摩観光ホテル ザ クラシックの口コミ（レビュー） - Relux", "url": "https://rlx.jp/21160/review/" },
+        { "type": "booking_site", "title": "志摩観光ホテル ザ クラシック に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/1150/review.html" },
+        { "type": "review_site", "title": "志摩観光ホテル ザ クラシック【2026年最新の料金比較・口コミ】- Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-g1019679-d324876-Reviews-Shima_Kanko_Hotel_the_Classic-Shima_Mie_Prefecture_Tokai_Chubu.html" },
+        { "type": "press", "title": "「じゃらんアワード2023」東海ブロック発表", "url": "https://www.recruit.co.jp/newsroom/pressrelease/2024/0710_14542.html" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-18-kashikojima-hojoen",
+      "name": "賢島宝生苑",
+      "region": "三重県志摩市阿児町神明（賢島・英虞湾）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "一休.com", "score": 4.43, "scale": 5, "review_count": 178, "checked_date": "2026-09-18", "url": "https://www.ikyu.com/00000569/review/" },
+        { "source": "楽天トラベル", "score": 4.57, "scale": 5, "review_count": 1861, "checked_date": "2026-09-18", "url": "https://travel.rakuten.co.jp/HOTEL/15716/review.html" }
+      ],
+      "price_range_jpy": {
+        "note": "WebSearchのスニペットでは、1泊2食付きで大人1名（2名1室）あたり10,600円〜70,400円程度（JTB掲載）、1室34,600円〜89,100円（1名あたり17,300円〜44,550円、HIS掲載）という記載を確認。志摩観光ホテルより手頃な価格帯の宿泊プランが中心。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "英虞湾を望む高台に立つ温泉旅館。とろっとした泉質の天然温泉から英虞湾の多島美を一望でき、2016年の伊勢志摩サミットでは各国首脳が宿泊した実績を持つ。",
+      "renewal_or_news": "2016年伊勢志摩サミットの宿泊施設としての実績が現在も紹介されている（近年の大規模リニューアル情報はWebSearchの範囲では確認できず）。",
+      "target_audience": ["夫婦", "家族", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 14,
+        "unique_experience_score": 15,
+        "photogenic": 11,
+        "value_for_price": 8,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 78,
+      "recommendation_reason": "一休.com4.43（178件）・楽天トラベル4.57（1,861件）と2つの独立した予約サイトで採用ラインを満たし、特に楽天トラベルは件数が非常に多く信頼性が高い。英虞湾を望む温泉と2016年伊勢志摩サミットの実績という強みはあるが、志摩観光ホテルと比べると眺望体験の独自性（屋上360°展望台等）がやや弱く、Tripadvisorで清潔感に関わる具体的な低評価も複数見つかったため、今回はBEST候補としては選ばなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorに『もう二度と行かない』『二度と行かないホテル』という強いタイトルの口コミが複数あり、チェックイン時に鍵を渡されず長時間待たされた、真夏にプールまで徒歩7〜10分歩かされた、部屋の窓に蜘蛛の巣や鳥の糞が付着していた、バイキングの食事の質が低かった、チェックアウト時のスタッフ対応が悪かった、といった具体的な指摘が複数の独立したレビューで一致して見られた。一休.com・楽天トラベルの高い総合評価（4.43／4.57）と矛盾するが、清潔感（窓の蜘蛛の巣・鳥の糞）に関する指摘が単発ではなく複数のレビューで確認されたため、原則10に基づき disqualifying issue と判断した。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "review_site", "title": "賢島宝生苑 - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00000569/review/" },
+        { "type": "booking_site", "title": "賢島宝生苑 に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/15716/review.html" },
+        { "type": "review_site", "title": "二度と行かないホテル - 賢島 宝生苑の口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g1019679-d1128105-r264111237-Kashikojima_Hojoen-Shima_Mie_Prefecture_Tokai_Chubu.html" },
+        { "type": "review_site", "title": "もう二度と行かない - 賢島 宝生苑の口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g1019679-d1128105-r298223375-Kashikojima_Hojoen-Shima_Mie_Prefecture_Tokai_Chubu.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア78点・主要レビュー4.0以上（一休4.43／楽天4.57）は採用ラインを満たすが、Tripadvisorの複数の独立レビューで清潔感（窓の蜘蛛の巣・鳥の糞）や接客に関する具体的かつ一致した指摘が確認され、原則10に基づきdisqualifying issueありと判断。志摩観光ホテルの方が眺望体験の独自性・スコアともに優れていたため、本サイクルでは選定を見送った。"
+    },
+    {
+      "id": "2026-09-18-shima-mediterranean-village",
+      "name": "Village & Hotel 志摩地中海村",
+      "region": "三重県志摩市浜島町迫子",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "一休.com", "score": 4.57, "scale": 5, "review_count": 132, "checked_date": "2026-09-18", "url": "https://www.ikyu.com/00001676/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "トラベルコ掲載で18,940円〜という表示を確認したが、正確な1泊2食価格帯（2名1室あたり）はWebSearchの範囲では確認できなかった。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "地中海沿岸の街並みを再現したテーマパーク型リゾート。広大な敷地に地中海風の建物が並び、クラフト体験や海の見えるレストランなどを備える。日本にいながら海外リゾート気分を味わえる点が特徴だが、景色の主役は『地中海風の街並み』であり、英虞湾そのものの眺望が主役の他候補とはやや性質が異なる。",
+      "target_audience": ["家族", "友人", "女子旅"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 6,
+        "unique_experience_score": 12,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 6,
+        "access_and_freshness": 2
+      },
+      "score": 56,
+      "recommendation_reason": "地中海風の街並みという独自性・映えは一定あるが、一休.comの4.57（132件）以外に数値評価を取れる独立した2件目の情報源を確認できず原則7を満たしにくい。加えて『部屋が古い』『お風呂場から下水の匂いがした』『バイキングの品数が少なく料理が冷めていた』といった具体的な低評価が一休.com・Yahoo!トラベル・じゃらんの複数サイトで一致して見られ、『志摩地中海村はがっかり』というテーマの記事が複数のメディアで書かれるほど賛否が分かれている。また本サイクルのテーマ『絶景ホテル（英虞湾ビュー）』との適合度も他候補より低い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一休.com・Yahoo!トラベル・じゃらんの口コミで『部屋が古い』『お風呂場から下水の匂いがして気分が悪くなった』『夕食バイキングの品数が少なく、温かいはずの料理が冷めていた』という具体的な指摘が複数見られた。『志摩地中海村はがっかり』という切り口の記事も複数の独立したメディアで書かれており、単発の低評価ではないと判断した。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "review_site", "title": "志摩地中海村 - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00001676/review/" },
+        { "type": "review_site", "title": "志摩地中海村 - クチコミ・評判 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00001676/review/" },
+        { "type": "other", "title": "志摩地中海村はがっかりってホント？実際に日帰りで行った感想を紹介します - 観光三重", "url": "https://www.kankomie.or.jp/report/247" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア56点で採用ライン（75点）を大きく下回る。独立した数値評価源が実質1件のみで原則7を満たせないうえ、清潔感・料理面の具体的な低評価が複数の独立メディアで一致して見られ（原則10）、本サイクルのテーマ『英虞湾の眺望』との適合度も他候補より低いため見送った。"
+    }
+  ]
+}
