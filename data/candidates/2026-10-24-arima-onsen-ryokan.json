@@ -1,0 +1,177 @@
+{
+  "cycle_date": "2026-10-24",
+  "theme": "温泉旅館（兵庫県有馬温泉）",
+  "season_rationale": "有馬温泉は六甲山麓にあり、11月は紅葉と秋の味覚（神戸牛・松葉がになど）が重なる需要期入り前の時期にあたる。関西圏からのアクセスが良く、紅葉本番前にゆっくり金泉・銀泉を楽しむ温泉旅として検討されやすいタイミングと判断した（原則4：最新性の確認）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-23-tsubakikan-asamushi", "region": "青森県青森市浅虫温泉", "category": "温泉旅館" },
+    { "post_id": "2026-10-22-wakura-onsen-notoraku", "region": "石川県七尾市和倉温泉", "category": "温泉旅館" },
+    { "post_id": "2026-10-21-zao-onsen-kokusaihotel", "region": "山形県山形市蔵王温泉", "category": "温泉旅館" },
+    { "post_id": "2026-10-19-kusatsu-onsen-ryokan", "region": "群馬県吾妻郡草津町（草津温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-10-18-yamanokami-yukaen", "region": "岩手県花巻温泉郷", "category": "温泉旅館" },
+    { "post_id": "2026-10-17-iwaki-yumoto-sauna", "region": "福島県いわき市いわき湯本温泉", "category": "サウナ", "note": "本文中で『道後・有馬と並ぶ日本三古泉』として有馬に言及しているのみで、有馬温泉自体の候補・投稿ではない" }
+  ],
+  "duplication_note": "依頼時点の指定は『カテゴリ：温泉旅館／地域：兵庫県有馬温泉』。重複回避のため captions/・data/candidates/ の全履歴（2026-09-14〜2026-10-23の全件、1ヶ月以上前の分も含めて『有馬』『arima』『兵庫』で全件grep確認）を行った結果、兵庫県有馬温泉は福島県いわき湯本温泉の候補記事（2026-10-17）で『日本三古泉』の一つとして一度言及されているのみで、有馬温泉自体の施設が候補・採用のいずれにもこれまで一度も登場していないことを確認した。地域としては完全に新規。\n\n一方でカテゴリ『温泉旅館』は直近サイクルで青森県浅虫温泉（2026-10-23）・石川県和倉温泉（2026-10-22）・山形県蔵王温泉（2026-10-21）と連続選定されており、今回の有馬温泉を加えると同カテゴリが連続することになる。原則（地域・カテゴリの連続回避）の観点では望ましくない連続だが、地域・カテゴリの指定自体が依頼で明示されているため、今回はその指定に従い調査を実施した。次サイクル以降は温泉旅館以外のカテゴリ（絶景ホテル・グランピング・アクティビティ等）を優先することを推奨する。",
+  "candidates": [
+    {
+      "id": "2026-10-24-arima-goen",
+      "name": "神戸牛と有馬温泉 天然金泉・銀泉の宿 有馬御苑",
+      "region": "兵庫県神戸市北区有馬町（有馬温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらん クチコミ集計",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 155,
+          "checked_date": "2026-10-24",
+          "url": "https://www.jalan.net/yad316077/"
+        },
+        {
+          "source": "skyticket クチコミ集計",
+          "score": 4.3,
+          "scale": 5,
+          "review_count": 1058,
+          "checked_date": "2026-10-24",
+          "url": "https://skyticket.jp/hotel/hyogo/bl_280035/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付・大人1名22,550円〜44,550円程度（近畿日本ツーリスト掲載、2026年10月13日〜2027年3月31日設定プランの目安額。部屋タイプ・時期・プランにより変動）",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "有馬川沿いの『本館』、温泉街を見渡す『別館』、特別室棟『芙蓉山荘』の3棟からなる宿で、有馬温泉の二種類の源泉（赤褐色の金泉・透明な銀泉）を両方楽しめるのが最大の特徴。神戸牛を使った会席・しゃぶしゃぶなどの食事も売り。2024年6月・夏に特別室棟『芙蓉山荘』の露天風呂付き客室がリニューアルされた。",
+      "renewal_or_news": "2024年6月・夏に芙蓉山荘の『山荘露天付特別室』『山荘露天風呂付特別室』をリニューアル（公式フォトギャラリーで確認）。楽天トラベルの兵庫県100〜51室クラス売れ筋ランキングで1位を複数回獲得していることがAll Aboutの記事で継続的に紹介されている。",
+      "target_audience": ["夫婦", "記念日", "カップル", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 5
+      },
+      "score": 85,
+      "recommendation_reason": "じゃらん（4.5点・155件）とskyticket（4.3点・1,058件）という2つの独立した情報源でいずれも採用ライン（4.0以上）を上回り、件数規模も十分で評価が安定している。有馬温泉の二種の源泉（金泉・銀泉）を1軒で両方楽しめる点は他の有馬の宿との明確な差別化になり、2024年に特別室棟をリニューアルした情報鮮度もある。楽天トラベルの売れ筋ランキング1位を継続的に獲得しているというSNS/メディア露出面での話題性もある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "個別口コミでは、館内売店の品ぞろえが少ない（家族旅行・2025年2月投稿）、カラオケ利用時のドリンクに物足りなさを感じた、銀泉の露天風呂が雨天時に利用できなかったという指摘が確認された。いずれも設備の一部や運用面への不満であり、衛生・安全上の重大な問題や予約対応トラブルの多発は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "有馬温泉 神戸牛と有馬温泉 天然金泉・銀泉の宿 有馬御苑 - じゃらんnet（クチコミ4.5・155件）", "url": "https://www.jalan.net/yad316077/" },
+        { "type": "other", "title": "有馬御苑（兵庫県有馬）クチコミ4.3・1,058件 - skyticket", "url": "https://skyticket.jp/hotel/hyogo/bl_280035/" },
+        { "type": "press", "title": "【楽天トラベル売れ筋1位】「神戸牛と有馬温泉 天然金泉・銀泉の宿 有馬御苑」は金泉・銀泉の2種の湯を楽しめる老舗宿 - All About NEWS", "url": "https://news.allabout.co.jp/articles/o/103357/" },
+        { "type": "other", "title": "有馬御苑 地図・フォトギャラリー（2024年6月・夏リニューアル客室掲載） - 日本旅行", "url": "https://www.nta.co.jp/nta_yado/hotel/6713-104/photo" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-24-hyoe-kosyokaku",
+      "name": "有馬温泉 兵衛向陽閣",
+      "region": "兵庫県神戸市北区有馬町（有馬温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Relux クチコミ集計",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 60,
+          "checked_date": "2026-10-24",
+          "url": "https://rlx.jp/24680/review/"
+        },
+        {
+          "source": "楽天トラベル クチコミ（人気ランキングページ掲載値）",
+          "score": 4.55,
+          "scale": 5,
+          "review_count": 2459,
+          "checked_date": "2026-10-24",
+          "url": "https://travel.rakuten.co.jp/ranking/premium/hyogo/28_0005_2_1_0_0.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付・大人1名24,200円〜46,750円程度（近畿日本ツーリスト掲載、プラン・食事内容により変動）。Walkerplusでは2名1泊2食25,850円（税込・入湯税別）〜の掲載もある。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "和風・ローマ風・湯治場風という趣の異なる3つの大浴場（一の湯・二の湯・三の湯）を備え、一の湯・二の湯は男女日替わりで入れ替わるため連泊で異なる湯を楽しめる。金泉の貸切露天風呂（有料・要予約）もあり、六甲和牛の鉄板焼きを含む会席料理も選べる、関西で長く知られる老舗大型旅館。",
+      "renewal_or_news": "直近1〜2年での大規模リニューアル情報は確認できなかったが、2026年に入ってからも楽天トラベル・じゃらん系の口コミ投稿が継続しており情報の鮮度自体は確認できた。",
+      "target_audience": ["夫婦", "家族", "記念日", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 14,
+        "unique_experience_score": 15,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 80,
+      "recommendation_reason": "Relux（4.5点・60件）と楽天トラベル（4.55点・2,459件）という2つの独立した情報源で、件数規模が大きいにもかかわらず評価が高く安定している。3種の異なる趣の大浴場を日替わりで楽しめる構成は、1回の宿泊でも『違う湯』を体験できる独自性があり、関西では昔から名前が知られる安定した老舗旅館としての信頼感もある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "jcation掲載の口コミでは『部屋は少し古いですが、綺麗に掃除もされていて』という指摘や、朝食バイキングの品ぞろえが少なかったという家族旅行者（2024年7月投稿）の声が確認された。いずれも許容範囲内の指摘で、清潔感・接客対応自体は高評価が多く、衛生・安全面での重大な問題や予約トラブルの多発は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "有馬温泉 兵衛向陽閣 クチコミ（4.5・60件） - Relux", "url": "https://rlx.jp/24680/review/" },
+        { "type": "booking_site", "title": "兵庫県 高級ホテル・旅館人気ランキング（兵衛向陽閣 お客さまの声2,459件掲載） - 楽天トラベル", "url": "https://travel.rakuten.co.jp/ranking/premium/hyogo/28_0005_2_1_0_0.html" },
+        { "type": "press", "title": "【兵庫県の人気ホテル】「有馬温泉 兵衛向陽閣」が選ばれる理由 - All About NEWS", "url": "https://news.allabout.co.jp/articles/o/117767/" },
+        { "type": "other", "title": "有馬温泉 兵衛向陽閣 施設情報・口コミ（総合4.6・232件） - jcation", "url": "https://jcation.com/hotel/detail/898" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-24-tousen-gosyobo",
+      "name": "陶泉 御所坊",
+      "region": "兵庫県神戸市北区有馬町（有馬温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "楽天トラベル評価（itmedia nlab記事掲載値）",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 603,
+          "checked_date": "2026-10-24",
+          "url": "https://nlab.itmedia.co.jp/research/articles/3196235/amp/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付・大人1名44,500円〜48,400円程度（travelist掲載の和室スタンダードプラン目安額）、cocolocala掲載では42,619円〜（税・サービス料込）表示もあり。いずれも検索日・プランにより変動。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "1191年創業と伝わる有馬温泉最古の湯宿で、木造三階建ての本館は国の登録有形文化財。室町時代に足利義満が滞在したことから『御所』と呼ばれるようになったとされ、谷崎潤一郎が通い、小説『猫と庄造と二人のをんな』にも宿名が登場するという文学的背景を持つ。金泉の源泉掛け流しの大浴場・貸切風呂・展望風呂を備える。",
+      "renewal_or_news": "創業年代・足利義満・谷崎潤一郎との関わりなど歴史的背景は複数の観光メディアで一致して紹介されているが、直近1〜2年の館内リニューアルや新プランなど『今』の情報鮮度を示す一次情報は今回のWebSearchでは確認できなかった。",
+      "target_audience": ["夫婦", "記念日", "一人旅", "温泉好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 8,
+        "unique_experience_score": 19,
+        "photogenic": 12,
+        "value_for_price": 5,
+        "sns_buzz": 6,
+        "access_and_freshness": 2
+      },
+      "score": 70,
+      "recommendation_reason": "1191年創業・国の登録有形文化財・谷崎潤一郎ゆかりという、有馬温泉でも際立った歴史・文化のストーリー性を持つ『穴場』的な宿で、独自体験の評価は高い。一方で口コミ評価の出典が二次的なランキング記事（itmedia nlab経由の楽天トラベル値）に限られ、じゃらん・楽天トラベルの一次ページを直接確認できず情報の裏付けが弱い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "jcation掲載の2026年4月投稿の口コミ（総合1.0点）で、温泉や清掃は評価する一方、夕食内容への不満と『料金に見合わない』という具体的な指摘が確認された。全体の口コミ母数（600件規模）からすれば1件の極端な低評価だが、価格帯が有馬温泉の中でも高めであることと合わせて、価格対体験価値の面で無視できない懸念として扱った。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "press", "title": "有馬温泉の人気旅館ランキング（陶泉 御所坊 4.5点・603件） - ねとらぼ調査隊", "url": "https://nlab.itmedia.co.jp/research/articles/3196235/amp/" },
+        { "type": "press", "title": "和と洋が紡ぐ不思議な世界♪ 文豪が愛した神戸・有馬温泉最古の湯宿「陶泉 御所坊」 - こっち", "url": "https://co-trip.jp/article/506729/" },
+        { "type": "other", "title": "【大人が憧れる旅先】有馬温泉「陶泉 御所坊」で歴史感じる時間を… - aumo", "url": "https://aumo.jp/articles/228234" },
+        { "type": "other", "title": "陶泉 御所坊 施設情報・口コミ（2026年4月投稿1.0点口コミを含む） - jcation", "url": "https://jcation.com/hotel/detail-356/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "歴史・文化のストーリー性は高く評価できるが、口コミ評価の一次ソース（じゃらん・楽天トラベル施設ページ）を直接確認できず独立2情報源としての裏付けが弱いこと、および価格帯の高さに対する具体的な不満（夕食内容・『料金に見合わない』）を指摘する口コミが確認されたことから、原則6・原則10の基準を安定して満たせないと判断し、今回は不採用とした。次サイクル以降、一次ソースでの評価・件数を直接確認できれば再評価の余地がある。"
+    }
+  ]
+}
