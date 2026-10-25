@@ -1,0 +1,144 @@
+{
+  "cycle_date": "2026-10-25",
+  "theme": "栃木県奥日光・中禅寺湖エリアの絶景ホテル",
+  "season_rationale": "10月下旬の奥日光・中禅寺湖は紅葉がほぼ終盤を迎える時期で、男体山や戦場ヶ原の山肌が色づき、湖面に朝霧が立ちやすい。標高約1,270mと冷え込みが早いため、湖と紅葉を眺めながら温泉・サウナに入れる時期としては今が最後のタイミングに近く、冬季の積雪・路面凍結シーズン前の『静かな湖畔の秋』を訴求できる。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-24-akan-yukunosato-tsuruga", "region": "北海道釧路市阿寒町阿寒湖温泉（阿寒湖畔）", "category": "絶景ホテル" },
+    { "post_id": "2026-10-24-tomamu-all-inclusive", "region": "北海道勇払郡占冠村（トマム）", "category": "絶景ホテル／オールインクルーシブ" },
+    { "post_id": "2026-10-23-suwako-view-hotel", "region": "長野県諏訪市（上諏訪温泉・諏訪湖畔）", "category": "絶景ホテル" },
+    { "post_id": "2026-10-17-kinugawa-onsen", "region": "栃木県日光市鬼怒川温泉（中禅寺湖とは別の渓谷温泉地）", "category": "温泉旅館" },
+    { "post_id": "2026-10-24-toyama-tateyama-sauna", "region": "富山県富山市・黒部市（宇奈月温泉等）", "category": "サウナ" },
+    { "post_id": "2026-10-24-arima-onsen-ryokan", "region": "兵庫県神戸市北区有馬町（有馬温泉）", "category": "温泉旅館" }
+  ],
+  "duplication_note": "依頼時に指定された地域『栃木県奥日光中禅寺湖』について、captions/・data/candidatesの全履歴（2026-09-14〜2026-10-24、直近数日だけでなく1ヶ月以上前の分も含めて全件）を『中禅寺湖』『奥日光』『日光』『栃木』『chuzenji』で検索した。『日光』『栃木』に一致したのは2026-10-17-kinugawa-onsen.jsonのみで、これは中禅寺湖とは別エリアの鬼怒川温泉（温泉旅館カテゴリ）を対象とした過去サイクルであり、中禅寺湖・奥日光エリアの絶景ホテルを対象とした候補は過去に一件も存在しなかった。カテゴリ『絶景ホテル』は10/18宮島・10/19指宿・10/20阿蘇・10/21富良野・10/22大山・10/23諏訪湖・10/24阿寒湖と直近7サイクル連続の選定カテゴリとなっているが、本サイクルも依頼時に『絶景ホテル』カテゴリと地域が明示的に指定されたためこのまま調査した。次回サイクルでは温泉旅館・グルメ旅館・グランピング・列車/船・文化体験・サウナ等への切り替えを推奨する。",
+  "research_notes": "本サイクルではWebSearchで中禅寺湖畔・奥日光エリアの絶景ホテルとして言及の多い『ザ・リッツ・カールトン日光』『中禅寺金谷ホテル』『日光中禅寺湖温泉 ホテル花庵』の3件を中心に調査した（他に『奥日光 四季彩ホテル』『中禅寺温泉 日光山水』の名称も見かけたが、口コミの評価が分かれる・件数が確認できない等のため正式な3候補には含めず参考情報のみ記載する）。本セッションのWebFetchは全ドメインでDNS解決エラー（getaddrinfo ENOTFOUND）となり施設公式ページへの直接アクセスができなかったため、すべての評価数値はWebSearchのスニペット経由で確認したものである。ザ・リッツ・カールトン日光は、公式サイト・栃木県報道発表（開業時プレスリリース）で中禅寺湖南岸・中宮祠エリアに立地し、リッツ・カールトンブランド初となる温泉（奥日光湯元温泉から引湯）を備えることを確認した上で、独立した3つのレビュー・予約サイト（Relux 4.4／37件、スカイチケット4.6／776件、Yahoo!マップ4.63／139件）でいずれも推奨ライン4.0以上を確認できたため選定した（原則6・7）。中禅寺金谷ホテルは、森林に囲まれた立地と金谷ホテル伝統のフランス料理・源泉かけ流しの露天風呂という独自性は強いが、フォートラベル3.85／87件とRelux4.3／27件でサイト間のスコアが割れ、主要サイトであるフォートラベルが4.0をわずかに下回ったため、今回は選定せず再調査候補（shortlisted）とした（楽天トラベル・JTBアンケートでは4.0超相当の言及もあり、次回は楽天トラベル・じゃらんの正確な点数・件数を直接確認して再評価したい）。ホテル花庵は『全22室から中禅寺湖を一望』を売りにしているが、フォートラベル3.45／40件と4.0を下回り、かつicotto掲載の個人レビューでは客室露天風呂の塀が高く実際には湖が見えなかったという報告があり、看板の魅力（湖の眺望）自体に疑義が生じたため不採用とした。",
+  "candidates": [
+    {
+      "id": "2026-10-25-ritz-carlton-nikko",
+      "name": "ザ・リッツ・カールトン日光",
+      "region": "栃木県日光市中宮祠（中禅寺湖南岸、奥日光エリア、日光国立公園内）。JR日光駅・東武日光駅から路線バスまたは車でいろは坂経由、中禅寺温泉方面へ約40〜50分程度（運行時間は季節・道路状況により変動）。",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Relux", "score": 4.4, "scale": 5, "review_count": 37, "checked_date": "2026-10-25", "url": "https://rlx.jp/24895/review/" },
+        { "source": "スカイチケット", "score": 4.6, "scale": 5, "review_count": 776, "checked_date": "2026-10-25", "url": "https://skyticket.jp/hotel/detail/property_1163876/" },
+        { "source": "Yahoo!マップ", "score": 4.63, "scale": 5, "review_count": 139, "checked_date": "2026-10-25", "url": "https://map.yahoo.co.jp/v2/place/PULHTok3CvY" }
+      ],
+      "price_range_jpy": {
+        "note": "外部予約比較サイト（jcation）の表示では、大人2名1室・1泊2日（宿泊のみ、検索条件は8月29〜30日・年不明）の合計料金が240,350円（税込）で、1名あたりの目安は約120,000円。公式予約ページ（ritzcarlton.com/jp/hotels/japan/nikko/reservations）の正式な料金はWebSearchのスニペットからは取得できなかった。客室は洋室94室（ダブル・ツイン）で、開業前報道では全室50平米超・スイートは100〜200平米とされていた（開業前情報のため最新の公式案内で要確認）。セルフパーキングは1日3,000円との掲載あり。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "中禅寺湖の南岸、日光国立公園内に位置するリッツ・カールトンブランドの一軒。歴史ある奥日光湯元温泉から引湯した、同ブランド初となる温泉を備える点が最大の特徴で、内風呂・露天風呂に加え檜の香りが満ちるドライサウナも併設されるとの案内がある。『縁側ラウンジ』や客室からは中禅寺湖・男体山を望む雄大な自然の景観が広がり、ロビーラウンジのアフタヌーンティーも雑誌等で好意的に紹介されている。かつて同じ湖畔にあった日光レークサイドホテルの跡地を活用して2020年に開業した経緯があり、歴史ある保養地としての奥日光の文脈を継承している。",
+      "renewal_or_news": "2020年開業と比較的新しく、2026年10月時点でも公式サイト・Relux・スカイチケット・Yahoo!トラベルのいずれでも通常営業中・予約受付中であることを確認した。休館・閉館等のネガティブ情報はWebSearchでは見当たらなかった。",
+      "target_audience": ["カップル", "記念日", "夫婦", "ホテル好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 12,
+        "unique_experience_score": 19,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 84,
+      "recommendation_reason": "Relux4.4（37件）・スカイチケット4.6（776件）・Yahoo!マップ4.63（139件）と、規模の異なる独立した3つのサイトでいずれも推奨ライン4.0を大きく上回る評価を確認できた（原則6・7）。中禅寺湖・男体山を望む雄大な景観に加え、リッツ・カールトンブランド初という源泉かけ流し温泉を備える点は、同エリアの他候補にはない明確な独自性。開業から数年と比較的新しく、施設の鮮度・情報の新しさも強み。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Trip.comの個別口コミには『スタッフの対応が全体的に遅い』『食事の提供が遅い』『チェックアウトが遅い』と感じたという指摘や、レストラン体験への不満を述べる口コミが1件あった。ただし全体の評価傾向（Relux・スカイチケット・Yahoo!マップいずれも4.4〜4.63）は高く、同様の重大な不満が複数件確認できたわけではない。一休.com単独の口コミ件数・点数は検索結果からは確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "ザ・リッツ・カールトン日光 公式サイト", "url": "https://www.ritzcarlton.com/jp/hotels/japan/nikko" },
+        { "type": "review_site", "title": "ザ・リッツ・カールトン日光 レビュー - Relux", "url": "https://rlx.jp/24895/review/" },
+        { "type": "booking_site", "title": "ザ・リッツ・カールトン日光 - スカイチケット", "url": "https://skyticket.jp/hotel/detail/property_1163876/" },
+        { "type": "booking_site", "title": "ザ・リッツ・カールトン日光 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00002777" },
+        { "type": "press", "title": "ザ・リッツ・カールトン日光開業に関する報道発表資料 - 栃木県", "url": "https://www.pref.tochigi.lg.jp/h15/kouhou/houdou/documents/2rittu.pdf" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-25-chuzenji-kanaya-hotel",
+      "name": "中禅寺金谷ホテル",
+      "region": "栃木県日光市中宮祠（中禅寺湖畔、奥日光エリア）。日光宇都宮有料道路清滝ICから車で約25分、東武日光駅から送迎バスの案内あり（運行時間は変動）。",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル（みんなの満足度）", "score": 3.85, "scale": 5, "review_count": 87, "checked_date": "2026-10-25", "url": "https://4travel.jp/dm_hotel-10035593" },
+        { "source": "Relux", "score": 4.3, "scale": 5, "review_count": 27, "checked_date": "2026-10-25", "url": "https://rlx.jp/26494/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "KNT掲載の『早期割プラン60日前・30日前』（夕朝食付、金谷ホテル伝統のフランス料理と日光湯元源泉の温泉露天風呂）は2026年7月30日〜2027年1月31日設定。JTB掲載ではおとな1名（2名1室）1泊あたり13,750円〜57,400円という幅のある表示。All About記事では大人1名参考価格26,160〜26,230円、一休系（cocolocala）の掲載では27,010円〜（税・サービス料込）。いずれもプラン・時期・予約サイトにより変動する。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "中禅寺湖畔、ロッジ風の建築で豊かな森に囲まれた静かな環境に立つ老舗ホテル。金谷ホテル伝統の本格フランス料理（夕食「みずなら」）と、源泉かけ流しの森林露天風呂・内湯を組み合わせた滞在が特徴で、全室にウッドデッキまたはバルコニーが付くとされる。フォートラベルの項目別評価では風呂4.23・食事4.22・接客4.09と高く、料理と温泉の質への評価が厚い。",
+      "renewal_or_news": "2026年7月30日〜2027年1月31日の宿泊プランが公開されており、休館・臨時休業の告知はWebSearchでは見当たらなかった。2027年4月以降の宿泊では入湯税が別途必要になる旨の注記があった。",
+      "target_audience": ["カップル", "記念日", "夫婦", "グルメ旅", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 10,
+        "unique_experience_score": 15,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 63,
+      "recommendation_reason": "森に囲まれた湖畔の立地、伝統のフランス料理、源泉かけ流しの森林露天風呂という独自性は明確で、Relux4.3（27件）は推奨ライン4.0以上だが、口コミ件数の多い主要サイト・フォートラベル（87件）は3.85と4.0をわずかに下回り、独立2情報源で一貫して4.0以上を確認するには至らなかった（原則6・7）。楽天トラベル・JTBアンケートでは4.0超相当の好意的な言及もあるため、次回サイクルで楽天トラベル・じゃらんの正確な点数・件数を直接確認した上で再評価したい再調査候補とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "明確な重大クレームはWebSearchでは見当たらなかったが、cocolocala掲載の口コミ（4.0評価、2026年2月投稿）に『部屋が微妙だな』という記述があり、具体的な不満内容までは確認できなかった。フォートラベルのコストパフォーマンス項目もやや低め傾向。営業停止や安全面に関わる重大な指摘はない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "中禅寺金谷ホテル クチコミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10035593" },
+        { "type": "booking_site", "title": "中禅寺金谷ホテル レビュー - Relux", "url": "https://rlx.jp/26494/review/" },
+        { "type": "other", "title": "日光中禅寺温泉 中禅寺金谷ホテルは伝統のフレンチと森林露天風呂が魅力 - All About", "url": "https://news.allabout.co.jp/articles/o/115058/" },
+        { "type": "booking_site", "title": "中禅寺金谷ホテル プラン一覧 - KNT（近畿日本ツーリスト）", "url": "https://www.knt.co.jp/highclass/yado/planlist/S090071/" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-25-hotel-hanaan-chuzenji",
+      "name": "日光中禅寺湖温泉 ホテル花庵",
+      "region": "栃木県日光市中宮祠（中禅寺湖畔、奥日光エリア）。",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル（みんなの満足度）", "score": 3.45, "scale": 5, "review_count": 40, "checked_date": "2026-10-25", "url": "https://4travel.jp/dm_hotel-10060924" }
+      ],
+      "price_range_jpy": {
+        "note": "WebSearchのスニペットからは具体的な宿泊プランの料金を確認できなかった。全22室、露天風呂付客室ありとの紹介がある。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全22室から中禅寺湖を一望できることを売りにしており、日光で唯一、硫黄泉とアルカリ性単純泉の2種の温泉を楽しめる湯宿と紹介されている。大浴場の露天風呂は奥日光湯元温泉の硫黄泉を源泉かけ流しで提供する。",
+      "renewal_or_news": "営業休止・閉館等の情報はWebSearchでは見当たらなかった。",
+      "target_audience": ["カップル", "夫婦", "絶景好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 9,
+        "review_reliability": 6,
+        "unique_experience_score": 10,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 45,
+      "recommendation_reason": "『全室から湖を一望』『2種の温泉』という独自性の訴求はあるが、フォートラベル3.45（40件）と唯一確認できた独立レビューサイトの評価が4.0を明確に下回り、独立2情報源で4.0以上を確認できなかった（原則6・7）。加えてicotto掲載の個人レビューでは、露天風呂付客室の塀が高く実際には湖が見えなかったとの報告があり、看板である『湖の眺望』自体に疑義が生じたため不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icotto掲載の個人レビューに『露天風呂の塀が高く、湖は見えなかった』という具体的な不満があり、公式が訴求する『全室から中禅寺湖を一望』という最大の売りと食い違う可能性がある。フォートラベルの総合満足度も3.45と同エリアの他候補より低め。営業停止や安全面に関わる重大な指摘は見当たらなかった。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "review_site", "title": "日光中禅寺湖温泉 ホテル花庵 クチコミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10060924" },
+        { "type": "other", "title": "日光中禅寺湖温泉 ホテル花庵 - icotto", "url": "https://icotto.jp/hotels-626/" },
+        { "type": "booking_site", "title": "日光中禅寺湖温泉 ホテル花庵 - じゃらんnet", "url": "https://www.jalan.net/yad318487/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "唯一確認できた独立レビューサイト（フォートラベル3.45／40件）が推奨ライン4.0を明確に下回り、かつ看板である『全室から中禅寺湖を一望』という訴求に対して、個人レビューで露天風呂から実際には湖が見えなかったという矛盾する報告があったため不採用とした（原則6・7・10）。"
+    }
+  ]
+}
