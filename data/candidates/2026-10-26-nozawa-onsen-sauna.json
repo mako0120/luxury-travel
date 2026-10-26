@@ -1,0 +1,324 @@
+{
+  "cycle_date": "2026-10-26",
+  "theme": "サウナ（長野県野沢温泉）",
+  "season_rationale": "10月下旬は野沢温泉エリアも朝晩の冷え込みが強まり始める時期で、雪のない紅葉期ならではの静かな湯治・サウナ滞在が心地よいタイミング。既存data/candidates・captionsを横断的に確認した結果、長野県内では軽井沢町・茅野市（2026-09-18、サウナ）がカテゴリ『サウナ』で既出だが、野沢温泉村（下高井郡）は地域として未出だったため、今回新たに調査対象として選定した。",
+  "prior_posts_checked": [
+    {
+      "post_id": "2026-10-25-togatta-onsen-sauna",
+      "region": "宮城県刈田郡蔵王町遠刈田温泉",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-25-isawa-onsen-sauna-recheck",
+      "region": "山梨県笛吹市石和温泉",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-24-toyama-tateyama-sauna",
+      "region": "富山県富山市・黒部市（立山・宇奈月）",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-24-misasa-onsen-sauna",
+      "region": "鳥取県東伯郡三朝町",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-23-atami-nasu-sauna-recheck2",
+      "region": "静岡県熱海温泉・栃木県那須温泉",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-23-beppu-sauna",
+      "region": "大分県別府市（別府温泉）",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-22-tokachigawa-onsen-sauna",
+      "region": "北海道河東郡音更町十勝川温泉",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-21-sounkyo-sauna",
+      "region": "北海道上川郡上川町層雲峡温泉",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-20-izu-ochiairo-sauna",
+      "region": "静岡県伊豆市湯ケ島",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-19-jozankei-sauna",
+      "region": "北海道札幌市南区定山渓温泉",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-18-isawa-onsen-sauna",
+      "region": "山梨県笛吹市石和温泉",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-17-tsukioka-sauna",
+      "region": "新潟県新発田市月岡温泉",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-17-iwaki-yumoto-sauna",
+      "region": "福島県いわき市いわき湯本温泉",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-09-22-tokachi-sauna",
+      "region": "北海道河東郡音更町十勝川温泉",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-09-18-gunma-sauna",
+      "region": "群馬県吾妻郡中之条町（四万温泉）ほか",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-09-18-karuizawa-sauna",
+      "region": "長野県北佐久郡軽井沢町・茅野市",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-09-14-sauna",
+      "region": "山梨県南都留郡山中湖村",
+      "category": "サウナ"
+    }
+  ],
+  "duplication_note": "既存のdata/candidates・captions全件（1ヶ月以上前のものを含む）を『野沢』『nozawa』で横断検索したが、該当する候補・制作物は見つからなかった。サウナカテゴリとしては、同じ長野県内で2026-09-18に軽井沢町・茅野市が候補化済みだが、野沢温泉村（下高井郡）は地理的に離れたエリアであり重複にはあたらない（遠刈田温泉／秋保温泉の例と同様、同一県内の近接事例としてここに明記する）。他に調査済みのサウナ地域（石和・立山宇奈月・三朝・熱海那須・別府・十勝川温泉・層雲峡・伊豆・定山渓・月岡・いわき湯本・群馬四万/水上・山中湖）もいずれも野沢温泉とは異なる地域であり重複はない。",
+  "candidates": [
+    {
+      "id": "2026-10-26-sakaya-ryokan-nozawa",
+      "name": "野沢温泉 旅館さかや",
+      "region": "長野県下高井郡野沢温泉村豊郷9329（野沢温泉）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらんnet（宿泊口コミ総合評価）",
+          "score": 4.7,
+          "scale": 5,
+          "review_count": 682,
+          "checked_date": "2026-10-26",
+          "url": "https://www.jalan.net/yad381040/"
+        },
+        {
+          "source": "楽天トラベル（野沢温泉エリア一覧内「お客さまの声」総合評価）",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 336,
+          "checked_date": "2026-10-26",
+          "url": "https://travel.rakuten.co.jp/onsen/nagano/OK00455.html"
+        },
+        {
+          "source": "ニフティ温泉（口コミ総合評価、お湯の評価は5.0）",
+          "score": 4.7,
+          "scale": 5,
+          "review_count": 19,
+          "checked_date": "2026-10-26",
+          "url": "https://onsen.nifty.com/iiyama-nagano-onsen/onsen005220/kuchikomi/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "予約サイトの掲載では素泊まり1室2名あたり割引後約31,680円〜、朝食付きプランは約35,200円〜という表示があった一方、楽天トラベルの野沢温泉エリア一覧では最安料金14,000円〜（税込15,400円〜）という表示もあり、プラン・時期・部屋タイプにより幅が大きい。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "野沢温泉の温泉街中心部、共同浴場『大湯』のそばに立つ、17〜18代続く老舗旅館。敷地内に自家源泉を持ち、温泉の成分を保つため加水せずに温度調整したかけ流しの湯を、男性用大浴場『鷹の湯』（宮大工による伝統建築）と女性用大浴場『月の湯』（木造り）で楽しめる。いずれもあつ湯・ぬる湯・腰湯など温度の異なる湯船と露天風呂を備える。施設情報サイト（icotto）ではサウナの設置も確認できるが、本セッションでは温度・利用方法（男女別か貸切かなど）までは確認できなかった。内湯の貸切風呂（1日5組限定・予約制）も別に用意されている。",
+      "target_audience": [
+        "夫婦",
+        "記念日",
+        "カップル",
+        "温泉好き"
+      ],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 14,
+        "unique_experience_score": 14,
+        "photogenic": 11,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 78,
+      "recommendation_reason": "じゃらんnet 682件・楽天トラベル336件・ニフティ温泉19件という独立3情報源すべてで4.5〜4.7という高評価が一貫して確認でき、母数も十分である点を重視した。自家源泉を加水せずに温度調整して提供する18代続く老舗旅館としての独自性に加え、サウナや貸切風呂（1日5組限定）も備える点を評価し、100点満点中78点でselectedとした。一方で、サウナ自体の温度・貸切可否等の詳細は本セッションでは確認できなかったため、制作時には追加確認が必要。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ニフティ温泉の2012年頃の投稿に、宿泊者が少ない日に接客係が頻繁に入れ替わることに違和感を覚えたという軽微な指摘があった。フォートラベルにも2015年頃とみられるオーナーの対応への不満を述べる投稿を確認したが、掲載住所が他の情報源と完全には一致せず、同一施設かどうかの確証は本セッションでは得られなかった。サウナや衛生・安全に関する重大な指摘は検索範囲では見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "野沢温泉 旅館 さかや 宿泊口コミ（総合4.7・682件） - じゃらんnet",
+          "url": "https://www.jalan.net/yad381040/"
+        },
+        {
+          "type": "booking_site",
+          "title": "野沢温泉エリア 温泉旅館・ホテル一覧（旅館さかや 総合4.5・336件を含む） - 楽天トラベル",
+          "url": "https://travel.rakuten.co.jp/onsen/nagano/OK00455.html"
+        },
+        {
+          "type": "review_site",
+          "title": "旅館さかや（飯山・野沢温泉）口コミ（総合4.7・19件、お湯5.0） - ニフティ温泉",
+          "url": "https://onsen.nifty.com/iiyama-nagano-onsen/onsen005220/kuchikomi/"
+        },
+        {
+          "type": "other",
+          "title": "野沢温泉 旅館 さかや 施設情報（サウナ等設備案内） - icotto",
+          "url": "https://icotto.jp/hotels/1259"
+        },
+        {
+          "type": "review_site",
+          "title": "旅館さかや クチコミ - フォートラベル",
+          "url": "https://4travel.jp/dm_hotel-10045009"
+        },
+        {
+          "type": "other",
+          "title": "長野県野沢温泉村 サウナ施設一覧（旅館さかやを含む） - サウナイキタイ",
+          "url": "https://sauna-ikitai.com/nagano/%E9%87%8E%E6%B2%A2%E6%B8%A9%E6%B3%89%E6%9D%91"
+        }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-26-lodge-marushige-nozawa",
+      "name": "ロッヂまるしげ（野沢温泉）",
+      "region": "長野県下高井郡野沢温泉村（温泉街から徒歩約5分）",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "cocolocala（口コミ、2025年3月投稿3件すべて5.0点）",
+          "score": 5.0,
+          "scale": 5,
+          "review_count": 3,
+          "checked_date": "2026-10-26",
+          "url": "https://www.cocolocala.jp/hotels/494088"
+        },
+        {
+          "source": "ホテル検索サイト（野沢温泉エリア一覧内のクチコミまとめ表示）",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 109,
+          "checked_date": "2026-10-26",
+          "url": "https://skyticket.jp/hotel/japan/onsen/nozawa_onsen/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションでは公式の具体的な宿泊料金を特定できなかった。予約サイトの掲載では布団使用料6,000円/日というオプション料金のみ確認できた。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "野沢温泉の温泉街まで徒歩約5分という立地にある家族経営的な宿。完全予約制の貸切サウナを備え、口コミでも『貸切サウナとトレーニングルームが自慢』という趣旨の投稿が複数見られる、宿泊者限定の施設。スキー用品の設備（乾燥・収納スペース等）も整っており、スキーシーズンの連泊利用にも向く。サウナの温度・水風呂の有無などの具体的な仕様は本セッションでは確認できなかった。",
+      "target_audience": [
+        "家族",
+        "友人",
+        "温泉好き"
+      ],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 9,
+        "unique_experience_score": 16,
+        "photogenic": 8,
+        "value_for_price": 4,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 63,
+      "recommendation_reason": "完全予約制の貸切サウナという、宿泊者自身が『自慢』と語るほど際立った独自体験があり、知名度の低い家族経営の宿というHidden Gemの条件には合致する。しかし口コミの母数がcocolocala3件と薄く、じゃらん・楽天トラベルなど大手予約サイトでの直接の口コミ・公式の宿泊料金を本セッションでは確認できなかったため、selectedとはせず、公式情報・料金・口コミのさらなる確認が済んだ段階で再評価する前提でshortlistedとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "cocolocalaの口コミ3件（いずれも2025年3月投稿、5.0点）はスタッフの対応の柔軟さ・清潔さ・朝食・スキー用品設備を評価する内容で、低評価や衛生・安全上の指摘は本セッションの検索範囲では見当たらなかった。ただし母数が3件と少なく、他の大手口コミサイトでの検証ができていない点は留意が必要。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "ロッジまるしげ（野沢温泉）口コミ（5.0・3件、貸切サウナに関する言及あり） - cocolocala",
+          "url": "https://www.cocolocala.jp/hotels/494088"
+        },
+        {
+          "type": "booking_site",
+          "title": "野沢温泉のホテル一覧（ロッヂまるしげのクチコミまとめ表示を含む）",
+          "url": "https://skyticket.jp/hotel/japan/onsen/nozawa_onsen/"
+        },
+        {
+          "type": "other",
+          "title": "長野県野沢温泉村 サウナ施設一覧（ロッヂまるしげ：宿泊者限定・完全予約制と記載） - サウナイキタイ",
+          "url": "https://sauna-ikitai.com/nagano/%E9%87%8E%E6%B2%A2%E6%B8%A9%E6%B3%89%E6%9D%91"
+        }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-26-heta-nozawa-onsen",
+      "name": "HETA 蔕 Nozawa Onsen",
+      "region": "長野県下高井郡野沢温泉村",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "renewal_or_news": "2024年12月開業とみられる、プライベートサウナ・スチームルーム・プライベート檜風呂・バーを備える小規模ラグジュアリーホテル。",
+      "review_scores": [
+        {
+          "source": "Powderhounds（海外の宿泊体験記サイト、口コミ1件）",
+          "score": 5.0,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-26",
+          "url": "https://www.powderhounds.com/japan/honshu/nozawa-onsen/accommodation/heta-nozawa.aspx"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "サウナ情報サイトでは日帰り/体験利用の参考価格として5,000円〜という表示があったが、宿泊料金全体としての公式の具体的な金額は本セッションでは特定できなかった。2024年12月開業とみられる小規模ホテルのため、国内主要予約サイトでの料金掲載が薄い。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "プライベートサウナ・スチームルーム・プライベート檜風呂・バーを備える、2024年12月開業とみられる小規模ラグジュアリーホテル。サウナ情報サイトの利用者記録ではサウナ80度・水風呂12度・外気浴あり・事前予約制という記録が確認できる。海外の予約サイトでは2名利用の評価が高いという掲載もあったが、国内の大手予約サイト（じゃらん・楽天トラベル）での口コミ・評価は本セッションでは確認できなかった。",
+      "target_audience": [
+        "カップル",
+        "記念日",
+        "温泉好き",
+        "ホテル好き"
+      ],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 4,
+        "unique_experience_score": 14,
+        "photogenic": 8,
+        "value_for_price": 4,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 47,
+      "recommendation_reason": "プライベートサウナ・スチームルーム・檜風呂・バーという独自性の高い設備構成は魅力的だが、国内主要予約サイト（じゃらん・楽天トラベル）での口コミ件数を本セッションでは確認できず、海外サイトの評価も件数が極めて少なく、独立2情報源での信頼できる数値評価（原則7）を確立できなかったため、不採用とした。開業間もないHidden Gem候補として、公式サイト・国内予約サイトでの情報が蓚積した段階で再調査する価値はある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "国内の大手口コミサイトでの投稿がほとんど確認できず、低評価に関する情報も本セッションの検索範囲では見当たらなかった。一方で、十分な件数での裏付けが取れていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "Heta Nozawa（プライベートサウナ・バー併設の小規模ホテル紹介・体験記） - Powderhounds",
+          "url": "https://www.powderhounds.com/japan/honshu/nozawa-onsen/accommodation/heta-nozawa.aspx"
+        },
+        {
+          "type": "other",
+          "title": "長野県野沢温泉村 サウナ施設一覧（HETA 蔕 Nozawa Onsen：サウナ80度・水風呂12度・事前予約制と記載） - サウナイキタイ",
+          "url": "https://sauna-ikitai.com/saunas/98404"
+        },
+        {
+          "type": "booking_site",
+          "title": "Heta Nozawa Onsen - easyJet holidays ホテル掲載ページ",
+          "url": "https://hotels.easyjet.com/hotel/jp/di-heta-nozawa.html?aid=356980"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "原則7（独立2情報源必須）に基づき、国内主要予約サイトでの口コミ件数を本セッションでは確認できず、信頼できる独立2情報源での数値評価を確立できなかったため不採用とした。衛生・安全上の指摘があったわけではなく、情報不足による見送り。"
+    }
+  ]
+}

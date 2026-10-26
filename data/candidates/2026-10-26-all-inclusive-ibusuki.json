@@ -1,0 +1,141 @@
+{
+  "cycle_date": "2026-10-26",
+  "theme": "カテゴリ『オールインクルーシブ』×地域『鹿児島県指宿温泉』",
+  "season_rationale": "指宿は冬でも温暖な気候で、10月下旬は残暑が落ち着き砂むし温泉や錦江湾の眺めを気持ちよく楽しめる時期。年末年始の記念日・温泉旅行の検討が始まるタイミングにも合う。カテゴリ『オールインクルーシブ』は直近サイクルで登別温泉（北海道）・下田（静岡）・加賀温泉郷（石川）・天草／雲仙島原（九州）・鳥羽（三重）など全国各地の老舗温泉地で調査が続いており、指宿温泉は同カテゴリでは未調査の地域だった。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-19-ibusuki-view-hotel / 2026-10-19-ibusuki-ginsho（caption）", "region": "鹿児島県指宿市（吟松・指宿白水館・指宿ロイヤルホテル・別邸天降る丘）", "category": "絶景ホテル", "note": "同一地域（指宿）だが『絶景ホテル』カテゴリでの調査。吟松がselected、指宿白水館がshortlisted、指宿ロイヤルホテル・別邸天降る丘はrejected済み。本サイクルは別カテゴリ『オールインクルーシブ』としての再調査であり、原則5の採点軸（独自体験・価格対体験価値等）が異なるため重複ではないが、既存の口コミ評価データは参考に再確認した。" },
+    { "post_id": "2026-10-25-all-inclusive-noboribetsu", "region": "北海道登別市登別温泉町", "category": "オールインクルーシブ", "note": "直近のオールインクルーシブ×温泉街サイクル。登別万世閣をselected。地域は重複しない。" },
+    { "post_id": "2026-10-25-all-inclusive-shimoda", "region": "静岡県下田市・南伊豆町", "category": "オールインクルーシブ", "note": "該当なし（3件とも75点未満またはカテゴリ非適合）。地域は重複しない。" },
+    { "post_id": "2026-10-24-all-inclusive-kaga-onsenkyo", "region": "石川県加賀温泉郷（片山津温泉・山中温泉）", "category": "オールインクルーシブ", "note": "別地域（北陸）のサイクル。地域は重複しない。" },
+    { "post_id": "2026-10-23-all-inclusive-amakusa / 2026-10-23-all-inclusive-unzen-shimabara", "region": "熊本県天草／長崎県雲仙・島原", "category": "オールインクルーシブ", "note": "九州の別地域サイクル。いずれも『オールインクルーシブを公式に明示したプランが確認できず不採用』という結論で、本サイクルの判断基準の参考にした。地域は重複しない。" },
+    { "post_id": "2026-10-21-toba-all-inclusive", "region": "三重県鳥羽市", "category": "オールインクルーシブ", "note": "別地域（東海）のサイクル。地域は重複しない。" },
+    { "post_id": "2026-10-22-amami-all-inclusive", "region": "鹿児島県奄美大島", "category": "オールインクルーシブ", "note": "同一県（鹿児島）だが別地域（奄美大島）。該当なしで終了済み。指宿（薩摩半島南端・砂むし温泉）とは地域が異なるため重複しない。" }
+  ],
+  "duplication_note": "data/candidates・captions配下の既存全件をファイル名・内容（『指宿』『Ibusuki』を含むか）で確認した結果、鹿児島県指宿温泉を対象とした『オールインクルーシブ』カテゴリの候補はdecisionに関わらず一件も存在しないことを確認した（重複なし）。指宿は2026-10-19サイクルで『絶景ホテル』カテゴリとして調査済み（吟松selected・白水館shortlisted・指宿ロイヤルホテル・別邸天降る丘rejected）だが、カテゴリが異なるため本サイクルでの再調査自体は重複にあたらない。1ヶ月以上前（2026-09-14〜2026-09-22）のオールインクルーシブ候補（石垣島・北海道・札幌・瀬戸内クルーズ）も確認したが、いずれも指宿とは地域が異なる。",
+  "research_note": "WebSearchで『指宿 オールインクルーシブ』『指宿温泉 オールインクルーシブ プラン 飲み放題』『指宿 ホテル 飲み放題付き 宿泊プラン 通年』など複数のクエリを試したが、指宿温泉エリア（指宿市）内で『オールインクルーシブ』という名称を公式に明示している宿泊施設は確認できなかった。大江戸温泉物語グループが2026年10月以降に複数施設でオールインクルーシブを導入・拡大しているという報道は確認できたが、対象施設に指宿は含まれていない。この事実を踏まえ、存在しない公式プランを捏造することは避け、指宿で飲み放題付き・食事充実プランが確認できた施設を『オールインクルーシブに近い滞在型プラン』として3件調査・採点した。WebSearchの検索回数制限により、各施設の最新の正確な販売期間・料金の一部は確認が取れていない点をpriceノートに明記した。いずれも口コミ評価（原則6の推奨ライン）または『オールインクルーシブ』の公式明記という必須条件のいずれかを満たさず、3件とも不採用とした。次サイクル以降は、指宿エリアでの再調査（別カテゴリでの紹介、または他地域でのオールインクルーシブ継続）を推奨する。",
+  "candidates": [
+    {
+      "id": "2026-10-26-ibusuki-hakusuikan-ai",
+      "name": "鹿児島 砂むし温泉 指宿白水館",
+      "region": "鹿児島県指宿市東方",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.52, "scale": 5, "review_count": 2311, "checked_date": "2026-10-26", "url": "https://yado.knt.co.jp/st/S460032/" },
+        { "source": "フォートラベル", "score": 4.23, "scale": 5, "review_count": 220, "checked_date": "2026-10-26", "url": "https://4travel.jp/dm_hotel-10053237" }
+      ],
+      "price_range_jpy": {
+        "note": "近畿日本ツーリスト・JTB等の旅行会社掲載プランで、夕食に90分飲み放題（かごしま黒豚しゃぶしゃぶ等の和洋バイキング）が付くプランを複数確認した。ただし販売期間の表記が情報源間で一致せず（JTB掲載では2026年7月24日〜8月23日の夏季限定という表示、近畿日本ツーリスト掲載では2026年7月18日〜11月30日という表示を確認）、WebSearchの範囲では2026年10月26日時点でこのプランが実際に販売中かを確定できなかった。砂むし温泉は1回大人1,540円（税込）。1泊2食の基本料金はWebSearchのスニペットからは確認できず、予約サイトで要確認。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "錦江湾の青と松の緑を望む広大な敷地に、江戸時代の風呂を再現した『元禄風呂』、樽風呂・窯風呂などの個性的な浴場、天然砂むし温泉・岩盤浴を備える大規模温泉旅館。旅行会社経由では夕食90分飲み放題付きの和洋バイキングプランも確認できるが、宿泊料金に飲食・施設利用を包括的に含む『オールインクルーシブ』という名称での公式表記は確認できなかった。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "グルメ旅", "家族"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 14,
+        "unique_experience_score": 12,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 73,
+      "recommendation_reason": "楽天トラベル4.52（2,311件）・フォートラベル4.23（220件）という独立2情報源で高評価（原則6・7）を確認でき、元禄風呂・砂むし温泉という独自性も強い。一方で夕食飲み放題プランの販売期間が情報源間で食い違い、本日時点での販売有無を確定できなかったこと、『オールインクルーシブ』という公式名称での包括プランが確認できないことから、カテゴリ適合性・スコア（73点）のいずれも採用基準に届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2026年のクチコミで『ベッドからトイレが遠い』という客室構造上の指摘があった。重大な衛生・安全上の指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "鹿児島 砂むし温泉 指宿白水館 - 近畿日本ツーリスト", "url": "https://yado.knt.co.jp/st/S460032/" },
+        { "type": "review_site", "title": "指宿白水館 クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-10053237" },
+        { "type": "other", "title": "指宿白水館 夕食90分飲み放題付きバイキングプラン紹介 - JTB", "url": "https://www.jtb.co.jp/kokunai_jr/t/nomiho/460401/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価自体は独立2情報源で4.0以上を確認できたが、夕食飲み放題プランの販売期間・現在の販売有無を確定できず、かつ『オールインクルーシブ』を公式に明示したプランでもないためユーザー指定の必須条件を満たさない。スコアも73点で採用ライン（75点）に届かず不採用とした。"
+    },
+    {
+      "id": "2026-10-26-ibusuki-royal-hotel-ai",
+      "name": "指宿ロイヤルホテル",
+      "region": "鹿児島県指宿市十二町4232-1",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.80, "scale": 5, "review_count": 80, "checked_date": "2026-10-26", "url": "https://4travel.jp/dm_hotel-10053234" },
+        { "source": "iko-yo.net", "score": 4.2, "scale": 5, "review_count": 2, "checked_date": "2026-10-26", "url": "https://iko-yo.net/facilities/33797/news" }
+      ],
+      "price_range_jpy": {
+        "note": "JTB掲載『指宿ロイヤルホテルのフルコース』で砂むし温泉送迎＋夕食飲み放題が付くプランを確認（販売期間の表記は情報源により2026年8月22日〜2027年4月28日・〜2027年8月16日など差があり、WebSearchの範囲では確定できなかった）。また同一施設コードのJTBページでは2024年7月1日開始のウェルカムフリードリンク（生ビール・ハイボール・レモンサワー等、15:00〜19:00・1階テラス限定）の記載を確認したが、この施設コードが指宿ロイヤルホテルを指すという対応関係は確実には確認できなかった。具体的な1泊2食料金はWebSearchのスニペットからは確認できず。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "錦江湾を望む露天風呂と海側客室、砂むし温泉への送迎サービスが特徴。旅行会社経由で砂むし送迎＋夕食飲み放題付きプランが確認でき、ウェルカムフリードリンク（未確定だが同施設と関連する可能性のある情報）も見つかった。",
+      "target_audience": ["夫婦", "絶景好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 6,
+        "unique_experience_score": 15,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 59,
+      "recommendation_reason": "錦江湾ビューの露天風呂・砂むし送迎・飲み放題付きプランという要素はあるが、確認できた数値評価はフォートラベル3.80（80件、推奨ライン4.0未達）とiko-yo.net4.2（件数2件のみで信頼性が低い）にとどまり、原則6・7が求める水準を満たせない（2026-10-19サイクルの『絶景ホテル』カテゴリ調査時と同じ評価データ）。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2026-10-19サイクルで確認した内容と同様、海側の部屋でなかったこと・部屋自体が昔のホテルの雰囲気であること・天候のせいで露天風呂からの眺めが残念だったという指摘があった。重大な安全性・清潔感の問題ではないが、評価数値自体が基準未達のため選定しない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "指宿ロイヤルホテル クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-10053234" },
+        { "type": "other", "title": "指宿ロイヤルホテル - iko-yo.net", "url": "https://iko-yo.net/facilities/33797/news" },
+        { "type": "booking_site", "title": "指宿ロイヤルホテルのフルコース 砂むし&飲み放題付きプラン - JTB", "url": "https://www.jtb.co.jp/kokunai_jr/t/nomiho/460401/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイト評価が推奨ライン4.0（原則6）に届かない、または件数が少なすぎて信頼性を確認できず、スコアも75点未満のため除外した。砂むし＆飲み放題付きプランはあるが、『オールインクルーシブ』の公式明記ではない。"
+    },
+    {
+      "id": "2026-10-26-ibusuki-kaijo-hotel-ai",
+      "name": "指宿海上ホテル",
+      "region": "鹿児島県指宿市湯の浜",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.41, "scale": 5, "review_count": 36, "checked_date": "2026-10-26", "url": "https://4travel.jp/dm_hotel-10053232" },
+        { "source": "Trip.com", "score": 8.8, "scale": 10, "review_count": 68, "checked_date": "2026-10-26", "url": "https://jp.trip.com/hotels/hot-spring/city/jp/ibusuki.html" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な1泊2食料金・飲み放題付きプランの有無はWebSearchのスニペットからは確認できなかった。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "砂むし風呂、天然砂足湯、足湯、展望大浴場、ジャグジーなど温泉三昧を楽しめる宿。夕食のボリュームが評価されている。建物・設備の年季を指摘する声が複数サイトで見られる。",
+      "target_audience": ["夫婦", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 9,
+        "unique_experience_score": 10,
+        "photogenic": 8,
+        "value_for_price": 4,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 55,
+      "recommendation_reason": "Trip.com8.8/10（68件）は高評価だが、フォートラベル3.41（36件、推奨ライン4.0未達）と評価が分かれる。砂むし・足湯・展望大浴場など温泉体験は充実しているが、飲み放題・オールインクルーシブと明記されたプランは確認できず、カテゴリ要件（原則6・7）のいずれも満たさない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの項目別評価でバリアフリー2.88・アクセス3.30と低め。複数サイトで建物・設備の古さ（部屋が古い、トイレが狭い、コンセントが少ない）が指摘されている。重大な衛生・安全上の指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "指宿海上ホテル クチコミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10053232" },
+        { "type": "booking_site", "title": "指宿エリアのホテル一覧（指宿海上ホテル掲載） - Trip.com", "url": "https://jp.trip.com/hotels/hot-spring/city/jp/ibusuki.html" },
+        { "type": "other", "title": "指宿温泉 指宿海上ホテル 施設紹介 - icotto", "url": "https://icotto.jp/hotels/2761" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイト評価（フォートラベル3.41）が4.0未満で、建物・設備の古さを指摘する声も複数あり、かつ飲み放題・オールインクルーシブと明記されたプランも確認できなかったため、評価基準・カテゴリ要件の両面で対象外。"
+    }
+  ]
+}
