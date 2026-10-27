@@ -1,0 +1,113 @@
+{
+  "cycle_date": "2026-10-27",
+  "theme": "文化体験：徳島県三好市祖谷（かずら橋・落合集落エリア）",
+  "season_rationale": "祖谷・落合集落エリアは紅葉が11月上旬〜中旬に見頃を迎え、渓谷の冷え込みが強まるこの時期は茅葺き古民家の囲炉裏・薪ストーブ・ひのき風呂といった『火と暮らしを囲む』文化体験の魅力が伝えやすい。奥祖谷二重かずら橋は冬季（12月〜3月）休業に入る前の最後の見頃シーズンでもあり、営業・アクセス情報が変わりやすくなる前に検討を始めたい。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-10-22-shikoku-mannaka-sennen", "region": "香川県仲多度郡多度津町〜徳島県三好市（土讃線、大歩危・小歩危経由）", "category": "列車・船", "note": "観光列車が三好市を通過するのみで、祖谷・落合集落そのものの文化体験施設ではなくカテゴリも列車・船のため重複なし。" },
+    { "candidate_id": "2026-10-24-geibikei-funakudari", "region": "岩手県一関市東山町", "category": "列車・船", "note": "地域・カテゴリとも異なるため重複なし。" }
+  ],
+  "duplication_note": "`data/candidates/` `captions/` の全ファイルをファイル名・本文（grep）で『祖谷』『三好』『かずら橋』『落合』『徳島』『Iya』『Miyoshi』『Kazurabashi』『Ochiai』『Tokushima』の文字列について1か月以上前まで遡って確認した。一致したのは`2026-10-22-shikoku-mannaka-mizukaze-recheck.json`（JR四国の観光列車が土讃線で三好市を通過する候補、カテゴリ『列車・船』）と`2026-10-24-geibikei-funakudari.json`（地域が岩手県で無関係）の2件のみで、いずれも祖谷・落合集落エリアの『文化体験』候補としては重複しないと判断した。",
+  "other_candidates_considered": [
+    {
+      "name": "祖谷のかずら橋（本橋）",
+      "category": "文化体験（観光名所・日帰り）",
+      "note": "国指定重要有形民俗文化財で3年ごとに架け替えが行われる祖谷の象徴的な名所。公式観光サイト（miyoshi-tourism.jp）で営業時間・駐車料金は確認できたが、入橋料の正確な現行額は公式ページ上では確認できず、フォートラベルで評価4.17という記載を見つけたものの口コミ件数が不明で、原則7が求める『score/scale/review_countの数値が揃った独立2情報源』を本調査では満たせなかった。また既に広く知られた看板スポットであり、『まだ知られていない場所の発見』という本サイクルの狙いとの適合度も低いため、今回は候補化せず参考情報とした。"
+    },
+    {
+      "name": "そば道場（東祖谷落合）",
+      "category": "文化体験（体験アクティビティ）",
+      "note": "落合集落内にあるそば打ち体験施設。複数の観光記事で紹介は確認できたが、数値レビュー（評価・件数）・料金・営業状況を示す独立した情報源をWeb検索の範囲では十分に確認できず、本スキーマが要求するreview_scores（数値必須）を満たせないため候補外（参考情報）とした。"
+    },
+    {
+      "name": "落合集落展望所",
+      "category": "文化体験（展望・無料見学）",
+      "note": "江戸中期〜昭和初期の民家が高低差390mの急斜面に建つ、国指定重要伝統的建造物群保存地区『落合集落』を対岸から一望できる無料展望所。景観価値は高いが、入場・予約を伴う施設ではなく数値レビューの対象にもなりにくいため、宿泊・体験候補としてのスキーマには載せず、桃源郷祖谷の山里（篪庵）候補の背景情報として扱った。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-27-tougenkyo-iya-yamazato",
+      "name": "桃源郷 祖谷の山里「篪庵（ちいおり）」ほか（古民家一棟貸し8棟）",
+      "region": "徳島県三好市東祖谷落合（落合集落／JR大歩危駅から車で約40〜50分、受付事務所：三好市東祖谷落合403）",
+      "category": "文化体験",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "Priceline（海外OTA。「Chiiori Lodge」表記で、桃源郷祖谷の山里グループ全体を指している可能性があり、篪庵単体の評価とは断定できない）", "score": 9.6, "scale": 10, "review_count": 4, "checked_date": "2026-10-27", "url": "https://www.priceline.com/hotel-deals/h39844504/JP/Tokusima/Tokushima/Chiiori-Lodge.html" },
+        { "source": "Dinogo（海外OTA。同様に「Chiiori」表記がグループ全体を含む可能性あり）", "score": 8.0, "scale": 10, "review_count": 37, "checked_date": "2026-10-27", "url": "https://dinogo.com/hotels/593929-chiiori-lodge" }
+      ],
+      "price_range_jpy": {
+        "note": "正確な現行の1棟あたり・1名あたり宿泊料金は、本調査環境から運営会社公式サイト（tougenkyo-iya.jp）に接続できなかったため確認できていない。海外OTA（TransIndusなど）はラグジュアリー宿として掲載しているが具体的なJPY価格は示されておらず、推測しない。制作移行前に電話（受付事務所 0883-88-5290または0883-88-2540、情報源により表記が異なるため要再確認）または楽天トラベル等の予約ページで正式に確認する必要がある。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "東洋文化研究者アレックス・カー氏が1970年代に落合集落で見出し、NPO法人篪庵トラスト（現運営：株式会社ちいおりアライアンス）が再生・管理してきた築300年超の茅葺き古民家『篪庵』を中心に、国指定重要伝統的建造物群保存地区である落合集落の急斜面に8棟の再生古民家が点在する一棟貸し群。囲炉裏・ひのき風呂・自家調理キッチンを備え、集落そのものが『生きた文化的景観』である点が最大の独自性。茅葺き古民家再生による地域活性化の先駆的事例として、自治体国際化協会（CLAIR）の資料にも取り上げられている。",
+      "renewal_or_news": "直近の大規模リニューアル等のニュースは本調査の範囲では確認できなかった。2021年・2023年の宿泊レビューが複数サイト（フォートラベル、cocolocala）で見つかり、2026年10月時点でも第三者予約サイト（Priceline、Dinogo、skyticket等）への掲載が継続していることから営業中と推測されるが、公式サイトでの最新営業状況の確認はできていない。",
+      "target_audience": ["一人旅", "友人", "夫婦", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 7,
+        "unique_experience_score": 19,
+        "photogenic": 13,
+        "value_for_price": 5,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 72,
+      "recommendation_reason": "祖谷・落合集落エリアで最も象徴的な文化資産である、アレックス・カー氏監修・築300年超の茅葺き古民家『篪庵』を含む『桃源郷 祖谷の山里』（落合集落に点在する8棟の古民家一棟貸し群）を調査した。国の重要伝統的建造物群保存地区に指定された落合集落そのものに立地し、囲炉裏・ひのき風呂・自家調理キッチンなど『火と暮らしを囲む』文化体験として独自性が高く、国内では無名に近い一方、海外OTA（Priceline 9.6/10・4件、Dinogo 8.0/10・37件）では高評価が付いている点を確認した。ただし（1）海外OTA上の『Chiiori』『Chiiori Lodge』表記が篪庵単体か8棟グループ全体かを本調査では判別できず、（2）運営会社公式サイト（tougenkyo-iya.jp）に本調査環境から接続できず現行の正式料金・空室状況を確認できていない、という2点の確認不足があるため、スコアは72点（採用ライン75点に届かず）、decisionはshortlisted（次点）とした。次サイクルで三好市観光協会・運営会社（株式会社ちいおりアライアンス）への直接確認、または公式予約ページでの料金確認が取れれば制作候補として再評価したい。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Priceline（9.6/10、4件）・Dinogo（8.0/10、37件）など海外OTA経由では総じて高評価だが、いずれも『Chiiori』『Chiiori Lodge』表記で、落合集落に点在する桃源郷祖谷の山里8棟グループ全体を指している可能性があり、篪庵単体の評価と断定はできない。フォートラベルでは同グループ全体で口コミ10件、うち2021年投稿の2件は5.0だが全体の平均点は確認できなかった。cocolocalaでは『虫が入ってくる』『冬季、床暖房が夜間に切れて寒かった』といった設備面の季節的な弱点を指摘する声が複数あり、悪天候時は道路通行止め等で宿泊自体ができなくなるリスクも紹介記事で確認した。衛生・接客・予約トラブル等の重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "三好市観光協会 公式サイト（miyoshi-tourism.jp）Chiioriページ", "url": "https://miyoshi-tourism.jp/en/spot/chiiori" },
+        { "type": "official", "title": "桃源郷 祖谷の山里（運営会社サイト、天一方ページ経由で確認）", "url": "https://www.tougenkyo-iya.jp/?p=4196" },
+        { "type": "other", "title": "一般財団法人自治体国際化協会（CLAIR）経済交流課資料：株式会社ちいおりアライアンスによる空き家活用・地域活性化事例", "url": "https://economy.clair.or.jp/wp-content/uploads/2022/02/930f0ff8aa434f9298be1d3a5afc57ef.pdf" },
+        { "type": "booking_site", "title": "Priceline: Chiiori Lodge（徳島）掲載ページ", "url": "https://www.priceline.com/hotel-deals/h39844504/JP/Tokusima/Tokushima/Chiiori-Lodge.html" },
+        { "type": "other", "title": "Dinogo: Chiiori（徳島）口コミ掲載ページ", "url": "https://dinogo.com/hotels/593929-chiiori-lodge" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-27-okuiya-niju-kazurabashi",
+      "name": "奥祖谷二重かずら橋（男橋・女橋）",
+      "region": "徳島県三好市東祖谷菅生（剣山・奥祖谷エリア、祖谷のかずら橋からさらに山間部へ車で約40分）",
+      "category": "文化体験",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "GLTJP（Good Luck Trip／観光情報サイト）", "score": 3.94, "scale": 5, "review_count": 6, "checked_date": "2026-10-27", "url": "https://www.gltjp.com/ja/directory/item/11414/" }
+      ],
+      "price_range_jpy": {
+        "note": "入橋料は大人550円・小人（6〜12歳）350円、営業は4月〜11月で冬季（12月〜3月）は休業と紹介記事で確認した。徳島県三好市観光協会公式サイト上での入橋料の正式な表示は本調査では確認できず、訪問前に公式情報での再確認が必要。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "祖谷のかずら橋（本橋）からさらに山間部に入った剣山・奥祖谷エリアにある、男橋・女橋の『二重』構造が特徴のかずら橋。橋の下の川辺まで下りて石の上で休憩できる点や、隣接する人力ロープウェイ『野猿』で渓谷を渡るスリルなど、本橋にはない体験要素を持つ。平家の落人伝説が残る祖谷エリアらしい秘境性も特徴。",
+      "renewal_or_news": "大規模リニューアル等のニュースは確認できなかった。営業は例年4月〜11月で、12月〜3月は冬季休業する点が変動情報として確認できた（情報源により休業期間の詳細な表記に差があるため訪問前に要再確認）。",
+      "target_audience": ["友人", "一人旅", "絶景好き", "家族"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 5,
+        "unique_experience_score": 14,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 66,
+      "recommendation_reason": "祖谷のかずら橋（本橋）よりもさらに山間部にあり知名度が低い『奥祖谷二重かずら橋』を調査した。平家伝説が残る祖谷エリアらしい独自性と秘境感はあるが、数値レビューを確認できた独立情報源がGLTJPの1件（3.94/5、6件）のみで、原則7が求める最低2件の独立情報源を満たせなかった。また祖谷エリアの看板スポットである本橋の派生的な位置づけであり、本サイクルで優先的に採用するだけの新規性・独自ニュース性の根拠も薄いため、66点でrejectedとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "GLTJP掲載の口コミ6件の中には、『木が多すぎて強い印象は残らなかった』『橋が揺れて景色を楽しむ余裕がなかった』という声があるが、衛生・安全上の重大な指摘ではない。評価自体（3.94/5、6件）は参考にはなるが、独立した2つ目の数値レビュー情報源は本調査では確認できなかった（原則7の基準を満たさない）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "国土交通省 四国地方整備局 資料（奥祖谷二重かずら橋を含む祖谷エリアの観光資源に関する記載）", "url": "https://www.skr.mlit.go.jp/kikaku/88-kei/topics/01select/H28_004.pdf" },
+        { "type": "other", "title": "GLTJP（Good Luck Trip）Oku-Iya Niju Kazurabashi Bridge 紹介・口コミページ", "url": "https://www.gltjp.com/ja/directory/item/11414/" },
+        { "type": "other", "title": "たびまがジャーナル 奥祖谷二重かずら橋紹介記事", "url": "https://tabi-mag.jp/ts0038/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立した数値レビュー情報源が1件のみ（原則7が求める最低2件に届かない）で評価の安定性を判断できず、また祖谷のかずら橋本橋の派生的スポットという位置づけで、今サイクルの『まだ知られていない場所の発見』という狙いに対する新規性も薄いため見送り。"
+    }
+  ]
+}
