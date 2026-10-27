@@ -1,0 +1,227 @@
+{
+  "cycle_date": "2026-10-27",
+  "theme": "長野県安曇野市のグランピング施設",
+  "season_rationale": "10月下旬の安曇野は北アルプス（常念岳・燕岳方面）の紅葉が麓まで下りてくる時期で、朝晩の気温が下がり始めるため、グランピングドームの電源・空調や温泉・テントサウナが最も心地よく使える季節に入る。本サイクルは当初予定の岡山県蒜山高原（グランピング）が該当なしだったための再調査枠であり、未着手の長野県安曇野市エリアを対象にした。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-27-hiruzen-shiogama-glamping", "region": "岡山県真庭市蒜山高原", "category": "グランピング（shortlisted・selectedなし。本サイクルの再調査元）" },
+    { "post_id": "2026-10-26-redondo-akiyoshidai-glamping", "region": "山口県美祢市（秋吉台国定公園）", "category": "グランピング（shortlisted・selectedなし）" },
+    { "post_id": "2026-10-26-nachikatsuura-glamping", "region": "和歌山県東牟婁郡那智勝浦町・太地町", "category": "グランピング（shortlisted・selectedなし）" },
+    { "post_id": "2026-10-25-shiretoko-glamping", "region": "北海道斜里郡斜里町（知床）", "category": "グランピング（知床VILLA HOTEL FREEZE selected）" },
+    { "post_id": "2026-10-24-aso-glamping", "region": "熊本県阿蘇", "category": "グランピング" },
+    { "post_id": "2026-10-23-kirishima-glamping", "region": "鹿児島県霧島", "category": "グランピング" },
+    { "post_id": "2026-10-22-minakami-glamping", "region": "群馬県利根郡みなかみ町", "category": "グランピング（全4件rejected）" },
+    { "post_id": "2026-10-21-onomichi-setouchi-glamping", "region": "広島県尾道市・愛媛県今治市（しまなみ海道）", "category": "グランピング" },
+    { "post_id": "2026-10-20-nasu-awaji-glamping", "region": "栃木県那須高原／兵庫県淡路島", "category": "グランピング" },
+    { "post_id": "2026-10-20-yamanakako-itoshima-glamping", "region": "山梨県山中湖村／福岡県糸島市", "category": "グランピング" },
+    { "post_id": "2026-10-19-iseshima-glamping", "region": "三重県伊勢志摩", "category": "グランピング" },
+    { "post_id": "2026-10-19-takashima-glamping", "region": "滋賀県高島市", "category": "グランピング" },
+    { "post_id": "2026-10-18-tateshina-glamping", "region": "長野県茅野市（蓼科）", "category": "グランピング（長野県内だが安曇野市とは別エリア）" },
+    { "post_id": "2026-10-18-fujikawaguchiko-glamping", "region": "山梨県河口湖", "category": "グランピング" },
+    { "post_id": "2026-10-17-shirahama-glamping", "region": "和歌山県西牟婁郡白浜町", "category": "グランピング" },
+    { "post_id": "2026-09-22-hokkaido-glamping", "region": "北海道空知郡上富良野町（富良野）", "category": "グランピング" },
+    { "post_id": "2026-09-18-fujinomiya-glamping", "region": "静岡県富士宮市", "category": "グランピング" },
+    { "post_id": "2026-09-14-glamping", "region": "栃木県佐野市／千葉県大多喜町／三重県志摩市", "category": "グランピング" }
+  ],
+  "duplication_note": "data/candidates/ と captions/ の全件を『安曇野』『Azumino』で全文検索したが、1件もヒットしなかった（grep確認済み）。『長野』『Nagano』でより広く検索すると2026-10-18-tateshina-glamping（長野県茅野市・蓼科）が該当するが、安曇野市とは異なる市・異なる施設のため重複にはあたらない。カテゴリ『グランピング』×地域『安曇野市』の組み合わせでの調査・候補化は本サイクルが初回。",
+  "research_constraints": "本セッションではWebFetchがwww.jalan.net / www.ozmall.co.jp / tenar.jp 等、確認を試みた全ドメインに対してDNS解決エラー（getaddrinfo ENOTFOUND）で失敗し、OTA・公式サイトの個別ページを直接開けなかった。そのため本候補の情報はすべてWebSearchが返すスニペット要約経由であり、各サイトの口コミ本文・正確な最新件数を直接確認できていない。じゃらん『檜湯の宿 松伯』については、検索結果内でも一覧ページ表示（4.0／117件）と施設詳細ページ表示（3.9／117件）に0.1点の差異があり、どちらが最新か確定できなかったため、スコアには保守的な側（低い方の傾向）を踏まえて評価した。",
+  "other_candidates_considered": [
+    {
+      "name": "Glamping Azumino BASE ポレキャン",
+      "region": "長野県安曇野市穂高有明7348-1",
+      "reason_not_selected": "なっぷ（なっぷキャンプ場検索）上で『未評価・口コミ0件』と表示されており、じゃらん・楽天トラベル等の他サイトでも本セッションの検索範囲では口コミ・評価が一切見つからなかった。安曇野で唯一キャンプ場併設型のグランピングでロウリュウ可能なテントサウナを備えるという独自性はあるが、評価の数値的根拠が皆無のため候補カードとしては不採用（rejected、下記candidatesに含む）。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-27-glampark-hinokiyu-matsuhaku-azumino",
+      "name": "檜湯の宿 松伯〈glampark 檜湯の宿〉グランピングドーム",
+      "region": "長野県安曇野市穂高有明7713-2（穂高温泉郷・北アルプス山麓）",
+      "category": "グランピング",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "じゃらん",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 117,
+          "checked_date": "2026-10-27",
+          "url": "https://www.jalan.net/yad304742/"
+        },
+        {
+          "source": "NEWT",
+          "score": 3.9,
+          "scale": 5,
+          "review_count": 16,
+          "checked_date": "2026-10-27",
+          "url": "https://newt.net/hotel/jpn/e1117114"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらん掲載では和室・2名1室利用・素泊まりで1名あたり15,560円程度〜（税込）。グランピングドーム単体の宿泊料金は検索範囲では確認できず、公式サイトまたは電話（0263-83-3822）での確認が必要。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "松林に囲まれた中庭を持つ17室の和風温泉旅館『檜湯の宿 松伯』が、全国の既存温泉旅館と提携してグランピングドームを展開するブランド『glampark』と組み、敷地内の約2,000坪の庭に1日2組限定のグランピングドームを設置している。ドーム宿泊者も宿の総檜風呂・弱アルカリ性の天然温泉（美肌の湯として紹介される）を利用できる。燕岳・一ノ沢登山口まで車で約30分というアクセスで、登山前後の滞在先としても使える。glamparkは島根（四季荘）・愛知（海陽閣）・石川（能登小牧台）・奈良（おかげ楼）・北海道（小樽はなえみ）・徳島（つるぎの湯）・静岡（一句石）など全国の既存温泉旅館・国民宿舎と提携してグランピングドームを展開しているブランドであり、安曇野フィールドもその一つ。",
+      "renewal_or_news": "なっぷの紹介記事（取得時点で最新の記述）で現在も『1日2組限定のグランピングドーム』として案内されている。母体旅館『松伯』側の口コミはナビタイム経由で2021年8月投稿分まで確認でき（看板猫クロちゃんの話題）、旅館自体は継続営業中。ただし、グランピングドーム単体の2026年時点の予約可否・営業状況は、本セッションのWebFetch不可・OTA直接確認不可のため、Production移行時に公式サイト・電話での最終確認が必須。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 8,
+        "unique_experience_score": 15,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 58,
+      "recommendation_reason": "『既存の名湯旅館×全国ブランドのグランピングドーム』という組み合わせ自体には独自性があり、母体旅館はじゃらんで4.0（一覧表示）〜3.9（詳細ページ表示）／117件という一定の信頼できる評価規模を持つ。しかしこの評価は旅館本体（和室・大浴場）に対するもので、グランピングドーム単体の独立した口コミはフォートラベルで1件（評価数値なし）しか見つからず、ドーム経験そのものの評価を独立2情報源で数値的に裏付けることはできなかった。また2026年時点でのドームの営業継続・予約可否も未確認。総合58点で原則の75点採用ラインに届かないため、今回はselectedとせずrejected（将来、ドーム単体の口コミ・最新営業状況を公式サイト・電話で確認できた場合に再評価する価値あり）とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "グランピングドーム（glampark 檜湯の宿）単体のフォートラベル口コミは1件のみで、料理は好評だった一方、『お湯が夜22時までしか使えない』『温度調節が難しい』『冬の利用は大変かもしれない』という指摘があった。母体旅館側（ナビタイム経由の口コミ）では看板猫や檜風呂を評価する声が中心で、重大な衛生・接客・安全上の問題は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "安曇野で贅沢なグランピング体験「glampark 檜湯の宿」ほか安曇野グランピング3選 - なっぷマガジン",
+          "url": "https://www.nap-camp.com/mag/9016"
+        },
+        {
+          "type": "review_site",
+          "title": "檜湯の宿 松伯 クチコミ・評価（4.0／117件） - じゃらんnet",
+          "url": "https://www.jalan.net/yad304742/"
+        },
+        {
+          "type": "booking_site",
+          "title": "檜湯の宿 松伯（3.9／16件） - NEWT",
+          "url": "https://newt.net/hotel/jpn/e1117114"
+        },
+        {
+          "type": "other",
+          "title": "穂高温泉郷 檜湯の宿 松伯 施設情報・個別クチコミ（Rakuten提供） - NAVITIME",
+          "url": "https://travel.navitime.com/ja/area/jp/spot/01140-RK74534/"
+        },
+        {
+          "type": "review_site",
+          "title": "glampark 檜湯の宿（長野県安曇野市穂高有明7713-2）クチコミ - フォートラベル",
+          "url": "https://4travel.jp/dm_hotel-11994857"
+        },
+        {
+          "type": "press",
+          "title": "glampark 各地開業記事（四季荘・海陽閣・小樽はなえみ 等、ブランド展開の裏付け） - Travel Watch",
+          "url": "https://travel.watch.impress.co.jp/img/trw/docs/1427/964/html/02_o.jpg.html"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "母体旅館（檜湯の宿松伯）はじゃらんで4.0前後・117件という信頼できる評価規模を持つが、これはグランピングドーム単体の体験に対する評価ではなく、ドーム自体の独立した数値口コミは確認できなかった（フォートラベルに1件のみ、評価数値なし）。原則7（独立2情報源での数値評価の裏付け）をドーム体験そのものについては満たせず、score_breakdownを保守的に採点した結果58点となり、原則6の採用ライン（75点以上）に届かないため不採用。将来、ドーム単体の口コミや2026年時点の営業状況を公式サイト・電話で確認できれば再評価の余地がある。"
+    },
+    {
+      "id": "2026-10-27-tenar-hotakaview-azumino",
+      "name": "TENAR the Outdoor Hotel 安曇野穂高ビューホテルフィールド",
+      "region": "長野県安曇野市穂高牧2200-3（安曇野穂高ビューホテル敷地内）",
+      "category": "グランピング",
+      "is_hidden_gem": true,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "2021年のMakuakeクラウドファンディング時点の掲載では2名素泊まり25,000円〜。2026年時点の正式料金は検索範囲では確認できず、予約エンジン（reserve.489ban.net）では一部プランが完売表示だった。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "建築家・藤野高志氏が設計を手がけたとされる、三角窓が特徴の専用モバイルハウス型キャビンに宿泊するグランピング。2020年11月開業、運営会社CountryWorksが展開する全国ブランド『TENAR the Outdoor Hotel』の安曇野フィールドで、30年以上の歴史を持つリゾート『安曇野穂高ビューホテル』の庭（約15,000坪、別記事では約40,000坪とする記載もあり数字に食い違いがある）内に位置する。ホテルの天然温泉・レストラン・朝食バイキングを利用できるほか、スウェーデントーチを囲む焚き火体験・プライベートシネマなどのアクティビティがある。キャビン自体は13㎡で浴室・トイレは室内になし。",
+      "renewal_or_news": "PR TIMESで『TENAR the Outdoor Hotel 安曇野穂高ビューホテルフィールド オープン3周年記念特別割引プラン』の記事が確認でき、2020年11月の開業から長期間営業を継続していることが分かる。運営会社は2023年に山梨県南アルプス市にも新フィールド（ALPS LAPS with TENAR）を開設しており、ブランドとして現役稼働中。",
+      "target_audience": ["カップル", "記念日", "女子旅"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 16,
+        "photogenic": 11,
+        "value_for_price": 4,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 38,
+      "recommendation_reason": "建築家デザインのキャビン・全国ブランドとしての展開実績という独自性は高く評価できるが、TENARキャビン自体の独立した数値口コミが、じゃらん・楽天トラベル・OZmall・Googleマップ等を広く検索しても一切見つからなかった。同じ敷地の母体ホテル『安曇野穂高ビューホテル』にはJTB総合84点・Kayak8.0（158件）等の評価があるが、TENARキャビンは浴室・トイレが室内にない全く別の客室タイプであり、母体ホテルの評価をそのままTENARの評価として転用することは実体と異なるため避けた。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "TENARキャビン自体の口コミ本文は確認できなかった。母体の安曇野穂高ビューホテル側では、紹介記事で『風呂の評価が2.0と低め』という指摘があったが、これは本館の浴室評価であり、TENARキャビンが利用する温泉そのものの評価かは確認できなかった。また予約エンジン（489ban）ではTENARの一部プランが完売表示となっており、現在の空室状況は変動する可能性がある。重大な欠陥の指摘は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "アウトドアホテル「TENAR」｜安曇野穂高ビューホテル【公式】",
+          "url": "https://www.hotaka-view.co.jp/tenar/"
+        },
+        {
+          "type": "official",
+          "title": "TENAR azumino（安曇野フィールド） - TENAR公式サイト",
+          "url": "https://tenar.jp/field/hotaka_viewhotel_field/"
+        },
+        {
+          "type": "press",
+          "title": "【TENAR the Outdoor Hotel 安曇野穂高ビューホテルフィールド】オープン3周年記念特別割引プランが12月7日より登場 - PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000006.000073288.html"
+        },
+        {
+          "type": "other",
+          "title": "TENAR the Outdoor Hotel｜安曇野穂高ビューホテル【長野県】施設詳細｜関東のグランピングスポット - OZmall",
+          "url": "https://www.ozmall.co.jp/glamping/nagano/30998/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "建築・ブランド展開としての独自性は高いが、TENARキャビン自体の数値口コミを独立2情報源で確認できず（原則7未達）、主要レビュー4.0以上の裏付け（原則6）も取れなかった。母体ホテルの評価を転用することは実体と異なる客室タイプの評価を流用することになるため行わず、score_breakdownを保守的に採点した結果38点で採用ラインに届かず不採用。"
+    },
+    {
+      "id": "2026-10-27-polecan-azumino-base",
+      "name": "Glamping Azumino BASE ポレキャン",
+      "region": "長野県安曇野市穂高有明7348-1",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "なっぷ掲載プランでは、BBQ食材付きグランピングプランが9,800円〜、素泊まりグランピングプラン4,900円〜、レンタル用品付きテントキャンププランが3,900円〜（いずれも1名あたり目安、オンラインカード決済のみ）。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "安曇野市内で唯一、既存キャンプ場に併設する形態のグランピング施設。ウッドデッキ・大型タープ付きのテントにBBQ道具・冷蔵庫を完備し手ぶらでBBQが可能。ロウリュウ体験ができる本格的なテントサウナを備え、キャンプ初心者・女性向けを打ち出している。2025年からは自家製梅酒・クラフトビールの販売開始も予定されていたと紹介記事にある。",
+      "target_audience": ["友人", "カップル", "女子旅"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 11,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 30,
+      "recommendation_reason": "テントサウナ・手ぶらBBQ等の独自性はあるが、なっぷ上で『未評価・口コミ0件』と表示されており、じゃらん・楽天トラベル等の他サイトでも本セッションの検索範囲では口コミ・評価が一切見つからなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ自体が存在しないため、肯定的・否定的いずれの評判も確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "Glamping Azumino BASE ポレキャン 施設写真・プラン一覧 - なっぷ（未評価・口コミ0件）",
+          "url": "https://www.nap-camp.com/nagano/16044/images"
+        },
+        {
+          "type": "other",
+          "title": "安曇野で唯一のキャンプ場併設グランピング施設として紹介 - なっぷマガジン",
+          "url": "https://www.nap-camp.com/mag/9016"
+        },
+        {
+          "type": "booking_site",
+          "title": "Glamping Azumino BASE Polecan Vacation STAY",
+          "url": "https://www.bedandbreakfast.eu/en/a/ibcUu7mHHfnA/glamping-azumino-base-polecan-vacation-stay-49297v"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "原則6・7（主要レビュー4.0以上を独立2情報源の数値で裏付け）を満たす根拠が皆無（口コミ0件）のため不採用。score_breakdownも30点と採用ラインに大きく届かない。"
+    }
+  ],
+  "selected": null,
+  "cycle_result_note": "既存候補で未出だった長野県安曇野市のグランピングを調査した。候補3件（檜湯の宿松伯×glampark／TENAR 安曇野穂高ビューホテルフィールド／Glamping Azumino BASE ポレキャン）のうち、母体旅館に117件の口コミを持つ『檜湯の宿松伯』が最も有望だったが、いずれもグランピング体験（ドーム・キャビン）自体の独立した数値口コミを原則7の基準（独立2情報源）で確認できず、最高スコアも58点（松伯）で原則6の採用ライン75点に届かなかった。TENARは建築的な独自性が高いもののキャビン自体の口コミが皆無、ポレキャンはなっぷ上で口コミ0件だった。本セッションはWebFetchが全ドメインでDNS解決エラーとなり、OTA・公式サイトの個別ページを直接確認できなかったことも制約となった。得られた情報のみで誠実に採点した結果、無理に基準を下げてselectedとすることはせず、selectedなしで確定する。次回以降、ネットワーク制約が解消した状態で『檜湯の宿松伯』のグランピングドーム単体の口コミ・最新営業状況を公式サイト・電話で再確認する価値がある。"
+}
