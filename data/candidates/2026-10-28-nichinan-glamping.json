@@ -1,0 +1,249 @@
+{
+  "cycle_date": "2026-10-28",
+  "theme": "宮崎県日南市（日南海岸エリア）のグランピング施設",
+  "season_rationale": "10月下旬の日南海岸は台風シーズンが過ぎて海が落ち着き始める一方、気温・水温はまだ高めでSUP・シーカヤックなどのマリンアクティビティを無理なく楽しめる時期にあたる。真夏の強い日差しと混雑を避けつつ、ドームテントや海辺のキャンピングカー泊で過ごす夜も過ごしやすい気候になるため、海系グランピングの滞在体験が最も心地よくなる季節の一つ。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-27-hiruzen-shiogama-glamping", "region": "岡山県真庭市蒜山高原／宮城県塩釜（再調査枠）", "category": "グランピング" },
+    { "post_id": "2026-10-27-azumino-glamping", "region": "長野県安曇野市", "category": "グランピング（selectedなし）" },
+    { "post_id": "2026-10-26-redondo-akiyoshidai-glamping", "region": "山口県美祢市（秋吉台国定公園）", "category": "グランピング" },
+    { "post_id": "2026-10-26-nachikatsuura-glamping", "region": "和歌山県東牟婁郡那智勝浦町・太地町", "category": "グランピング" },
+    { "post_id": "2026-10-25-shiretoko-glamping", "region": "北海道斜里郡斜里町（知床）", "category": "グランピング（selectedあり）" },
+    { "post_id": "2026-10-24-aso-glamping", "region": "熊本県阿蘇", "category": "グランピング" },
+    { "post_id": "2026-10-23-kirishima-glamping", "region": "鹿児島県霧島", "category": "グランピング" },
+    { "post_id": "2026-10-22-minakami-glamping", "region": "群馬県利根郡みなかみ町", "category": "グランピング（全4件rejected）" },
+    { "post_id": "2026-10-21-onomichi-setouchi-glamping", "region": "広島県尾道市・愛媛県今治市（しまなみ海道）", "category": "グランピング" },
+    { "post_id": "2026-10-20-nasu-awaji-glamping", "region": "栃木県那須高原／兵庫県淡路島", "category": "グランピング" },
+    { "post_id": "2026-10-20-yamanakako-itoshima-glamping", "region": "山梨県山中湖村／福岡県糸島市", "category": "グランピング" },
+    { "post_id": "2026-10-19-iseshima-glamping", "region": "三重県伊勢志摩", "category": "グランピング" },
+    { "post_id": "2026-10-19-takashima-glamping", "region": "滋賀県高島市", "category": "グランピング" },
+    { "post_id": "2026-10-18-tateshina-glamping", "region": "長野県茅野市（蓼科）", "category": "グランピング" },
+    { "post_id": "2026-10-18-fujikawaguchiko-glamping", "region": "山梨県河口湖", "category": "グランピング" },
+    { "post_id": "2026-10-17-shirahama-glamping", "region": "和歌山県西牟婁郡白浜町", "category": "グランピング" },
+    { "post_id": "2026-09-22-hokkaido-glamping", "region": "北海道空知郡上富良野町（富良野）", "category": "グランピング" },
+    { "post_id": "2026-09-18-fujinomiya-glamping", "region": "静岡県富士宮市", "category": "グランピング" },
+    { "post_id": "2026-09-14-glamping", "region": "栃木県佐野市／千葉県大多喜町／三重県志摩市", "category": "グランピング" }
+  ],
+  "duplication_note": "data/candidates/ と captions/ の全件を『日南』『Nichinan』『宮崎』『Miyazaki』で全文検索したが、既存候補に宮崎県日南市（または日南海岸エリア）のグランピングを扱ったものは1件もヒットしなかった（grep確認済み）。カテゴリ『グランピング』×地域『宮崎県日南市（日南海岸エリア）』の組み合わせでの調査・候補化は本サイクルが初回。",
+  "research_constraints": "本セッションではWebFetchがwww.jalan.net / www.tour.ne.jp / cdn.gltjp.com 等、確認を試みた全ドメインに対してDNS解決エラー（getaddrinfo ENOTFOUND）で失敗し、OTA・公式サイトの個別ページを直接開けなかった。そのため本候補群の情報はすべてWebSearchが返すスニペット要約経由であり、各サイトの口コミ本文・正確な最新件数を直接確認できていない。さらに本サイクルの途中でセッションのWebSearch利用上限に達し、同一ターン内での追加検索（楽天トラベル・Googleマップ上のカームラナイハーバー評価確認など）ができなかった。そのため各候補の数値評価は、確認できた範囲（多くは単一OTAの少数レビュー）に限られ、原則7が理想とする『独立2情報源での数値評価』を厳密には満たせていない候補が多い。得られた情報のみで誠実に、保守的に採点した。",
+  "other_candidates_considered": [
+    {
+      "name": "潮の杜キャンプ場（日南市富士）",
+      "region": "宮崎県日南市富士",
+      "reason_not_selected": "廃校した小学校の校庭を利用したオートキャンプ場で、なっぷ上で4.0（53件）という比較的信頼できる評価規模を持つが、紹介記事・プラン内容を確認した限りグランピング（設営済みテント・ドーム等の非日常的な快適宿泊）を提供する施設ではなく、持込み・レンタル中心の通常のキャンプ場であるため、カテゴリ『グランピング』の対象外として候補カードの対象から外した。"
+    },
+    {
+      "name": "HINATA大島（カームラナイアイランドと同じ大島）",
+      "region": "宮崎県日南市大島（無人島）",
+      "reason_not_selected": "株式会社レジャークリエイトホールディングスが2026年8〜10月にグランドオープンした全7棟の高級プライベートリゾート。専用ヘリコプターまたは専用クルーザーでのみアクセスできる超高級路線で、ドームテント等のグランピング形態かどうかを示す客室情報が検索範囲では確認できなかった。グランピングと確認できる根拠が不足するため、本カテゴリの候補としては扱わず、下記candidatesの『カームラナイアイランド』とは別施設として注記するにとどめた。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-28-glamping-calmlanai-harbor-nichinan",
+      "name": "グランピング イン カームラナイハーバー",
+      "region": "宮崎県日南市大字平野8338-2（日南海岸国定公園内、JR日南線油津駅より車で約6〜10分）",
+      "category": "グランピング",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "じゃらん",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 5,
+          "checked_date": "2026-10-28",
+          "url": "https://www.jalan.net/yad359139/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "検索範囲では客室タイプ（ドームテント『ヘルシンキ』、クルーザー『モアナ』『MARUMARU』、キャンピングカー『ロトルア』等）ごとの具体的な宿泊料金は確認できなかった。予約は489ban（reserve.489ban.net）経由で受け付けられている。",
+          "as_of_search_date": "2026-10-28",
+          "disclaimer": "価格は検索日・対象日・プランにより変動する"
+        },
+      "unique_experience": "日向灘を望む日南海岸国定公園内のプライベートハーバーに、バリ島・ウブドをイメージしたグランピングテント、改装クルーザー（客室名『モアナ』『MARUMARU』）、キャンピングカー（『ロトルア』）、吹き抜けのコテージなど複数タイプの非日常的な宿泊スタイルが揃う。宿泊者はSUP・シーカヤックを無料で利用でき、専用桟橋からのクルーズで周辺の島々を巡ることもできる。姉妹館『天然温泉ひなたの宿 日南宮崎』の天然温泉・サウナ入浴券が付くプランがある点も特徴。",
+      "renewal_or_news": "2026年時点でも489ban予約ページ・じゃらん・Yahoo!トラベル・フォートラベル等に現行施設として掲載されており、営業継続中であることは複数の予約経路から確認できる。開業時期自体は検索範囲では特定できなかった。",
+      "target_audience": ["カップル", "記念日", "友人", "女子旅"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 5,
+        "unique_experience_score": 16,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 69,
+      "recommendation_reason": "海辺のプライベートハーバーでクルーザー・キャンピングカー・コテージ・テントという複数の非日常的な宿泊スタイルから選べる独自性は高く、宮崎・日南エリアでは珍しいコンセプトのグランピングである。じゃらんの評価は4.6（5件）と数値自体は良好だが、件数がわずか5件、Yahoo!トラベルも2件で規定件数に届かず総合点非表示、フォートラベルには口コミ自体が存在しないため、原則7が求める『独立2情報源での数値評価』を厳密には満たせていない。保守的に採点した結果69点となり、原則6の採用ライン（75点）に届かないため今回はrejectedとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "じゃらん上のクチコミ本文は検索結果から直接確認できなかったが、総合評価自体は4.6（5件）と低評価ではない。フォートラベルには口コミが0件で『とても悪い』『悪い』も0件（評価自体が存在しない）。Yahoo!トラベルは2件のみで総合点非表示。検索範囲では重大な欠陥・衛生・接客上の指摘は見つからなかったが、母集団が非常に小さいため評判の全体像は確認できていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "カームラナイハーバー クチコミ・評価（4.6／5件） - じゃらんnet",
+          "url": "https://www.jalan.net/yad359139/"
+        },
+        {
+          "type": "review_site",
+          "title": "グランピング イン カームラナイハーバー（クチコミ2件・総合点非表示） - Yahoo!トラベル",
+          "url": "https://travel.yahoo.co.jp/00918315"
+        },
+        {
+          "type": "review_site",
+          "title": "カームラナイハーバー（みんなの満足度：評価なし） - フォートラベル",
+          "url": "https://4travel.jp/dm_hotel-11766930"
+        },
+        {
+          "type": "booking_site",
+          "title": "グランピングインカームラナイハーバー 予約ページ - 489ban",
+          "url": "https://reserve.489ban.net/client/glamping-clh/0/detail/954356"
+        },
+        {
+          "type": "other",
+          "title": "日南のグランピング紹介記事（カームラナイハーバー） - なっぷマガジン",
+          "url": "https://www.nap-camp.com/mag/8900"
+        },
+        {
+          "type": "other",
+          "title": "カームラナイハーバー スポット情報 - るるぶ&more",
+          "url": "https://rurubu.jp/andmore/spot/80127112"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価自体は4.6と良好だが、独立した数値口コミ源が実質的にじゃらん1件（5件分）のみで、他サイトは件数不足や口コミ0件のため原則7（独立2情報源での数値評価）を満たせていない。保守的に採点した結果score_breakdown合計69点となり、原則6の採用ライン75点に届かないため不採用。将来、じゃらん・楽天トラベル等でレビュー数が増え、複数サイトで数値評価が確認できた場合に再評価する価値がある。"
+    },
+    {
+      "id": "2026-10-28-glamping-calmlanai-island-nichinan",
+      "name": "グランピング in Calm Lanai Island（カームラナイアイランド・離島）",
+      "region": "宮崎県日南市大字大窪（無人島『大島』、めいつ港より定期船あけぼので約15分）",
+      "category": "グランピング",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "tour.ne.jp",
+          "score": 4.8,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-28",
+          "url": "https://www.tour.ne.jp/j_hotel/47280/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "検索範囲では宿泊料金の具体的な数字を確認できなかった。予約は489ban経由と推測されるが、本セッションでは個別プランの価格表示までは確認できていない。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "めいつ港から定期船あけぼので約15分の無人島『大島』に位置する離島グランピング。ドームテントにはベッド・冷蔵冷凍庫・エアコン・コンセントが備わり、シャワー棟に洋式トイレ・シャワー・洗面台がある別棟形式。釣り、サンドアート、アウトドアゲームなど無人島ならではのアクティビティが楽しめ、デッキでのBBQも可能。2026年8月には受付・管理棟に併設する形でシーサイドカフェ『CAFFÈ PORTO』がオープンしたとのプレスリリースがあり、同じ大島内に運営会社・株式会社レジャークリエイトホールディングスが展開する超高級リゾート『HINATA大島』（全7棟、専用ヘリ・専用クルーザー限定アクセス）とは別の施設として現在も案内されている。",
+      "renewal_or_news": "2026年8月1日付のプレスリリースで『CAFFÈ PORTOは、グランピング施設「CALM LANAI ISLAND」の受付・管理棟にある』と明記されており、2026年時点でもグランピング施設自体が稼働中であることが確認できる。一方で同じ大島内にHINATA大島という別ブランドの超高級リゾートが同時期に開業しており、将来的なブランド整理・統合の可能性は否定できない。",
+      "target_audience": ["カップル", "記念日", "友人"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 2,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 66,
+      "recommendation_reason": "定期船でしか渡れない無人島でのグランピングという体験自体の独自性は非常に高く、同一の大島内で超高級リゾート『HINATA大島』が開業するなど地域としての注目度も上がっている。しかし本施設単体の数値口コミはtour.ne.jpで1件（4.8）のみしか確認できず、原則7（独立2情報源）を大きく下回る。アクセスが定期船1日数本に限られる点や、同じ島内の新ブランドとの関係が今後どう整理されるか不確定な点も含め、保守的に採点した結果66点にとどまり、採用ライン75点に届かないため今回はrejectedとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ本文そのものは検索範囲では見つからず、確認できた唯一の数値評価（tour.ne.jp 4.8／1件）は件数が極端に少なく評価の信頼性は限定的。重大な欠陥・安全上の指摘は見つからなかったが、母集団がほぼ存在しないため『低評価レビューがない』ことの確認自体が十分にできていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "グランピング in Calm Lanai Island 離島 - じゃらんnet",
+          "url": "https://www.jalan.net/yad332914/"
+        },
+        {
+          "type": "booking_site",
+          "title": "カームラナイアイランド（評価4.8／1件） - tour.ne.jp",
+          "url": "https://www.tour.ne.jp/j_hotel/47280/"
+        },
+        {
+          "type": "other",
+          "title": "客室詳細（ドームテント設備） - tabiiro",
+          "url": "https://tabiiro.jp/leisure/s/216714-nichinan-calm-lanai-island/"
+        },
+        {
+          "type": "press",
+          "title": "宮崎県日南市・無人島「大島」に「CAFFÈPORTO−カフェ ポルト−」が2026年8月1日(土)オープン - PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000003.000184266.html"
+        },
+        {
+          "type": "press",
+          "title": "HINATA大島 関連プレスリリース（同一島内の別ブランド開業の裏付け） - PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000005.000184266.html"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "無人島グランピングという体験自体の独自性は高いが、数値口コミが実質1件（tour.ne.jp）しか確認できず原則7（独立2情報源）を大きく下回る。保守的に採点した結果66点で原則6の採用ライン75点に届かないため不採用。将来、OTA各社でのレビュー蓄積や、HINATA大島との関係整理が明確になった段階で再評価する価値がある。"
+    },
+    {
+      "id": "2026-10-28-glamping-wellvillage-ibii-nichinan",
+      "name": "ウエルビレッジ・キャンパーズ伊比井",
+      "region": "宮崎県日南市伊比井（海まで車で約5分）",
+      "category": "グランピング",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "なっぷ",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 4,
+          "checked_date": "2026-10-28",
+          "url": "https://www.nap-camp.com/miyazaki/15809/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Coleman ラウンドスクリーン2ルームハウス（4〜5人用テント）レンタル＆設営サービス付き区画（約162㎡）が平日15,000円、金土・祝前日21,000円（入場料別途）。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "設営済みの大型2ルームテント（Coleman ラウンドスクリーン）をレンタルできる、手ぶらグランピングに近い形態のキャンプ場。海まで車で約5分というロケーションでサーフィン・SUP等のマリンアクティビティとの組み合わせがしやすい。森に囲まれ近くに川もある立地で、朝の過ごしやすさが口コミで評価されている。",
+      "renewal_or_news": "なっぷ掲載のクチコミは直近の投稿を含み、継続して受け入れ中であることが確認できる。具体的なリニューアル・新プラン情報は検索範囲では見つからなかった。",
+      "target_audience": ["友人", "女子旅", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 4,
+        "unique_experience_score": 10,
+        "photogenic": 7,
+        "value_for_price": 6,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 52,
+      "recommendation_reason": "海までのアクセスの良さと手ぶらで使える設営済みテントという手軽さには一定の価値があるが、設備は標準的なレンタルテント＋区画キャンプの範囲に留まり、他エリアの温泉・海一体型グランピングと比べると体験としての独自性は限定的。なっぷの評価4.0（4件）という数値も、件数が少なく原則7の独立2情報源を満たせていない。保守的に採点した結果52点となり、採用ライン75点には遠く届かないため不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できたなっぷ上の口コミは『森に囲まれて近くに川があり気持ちよく過ごせた』という好意的な内容が中心で、『川に降りて遊べたらもう少し良かった』という軽微な要望が1件あった程度。重大なネガティブ指摘は見つからなかったが、母集団がわずか4件のため評判の全体像は確認できていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "ウエルビレッジ・キャンパーズ伊比井 施設情報・クチコミ（4.0／4件） - なっぷ",
+          "url": "https://www.nap-camp.com/miyazaki/15809/"
+        },
+        {
+          "type": "other",
+          "title": "ウエルビレッジ・キャンパーズ伊比井 施設写真 - なっぷ",
+          "url": "https://www.nap-camp.com/miyazaki/15809/images"
+        },
+        {
+          "type": "other",
+          "title": "宮崎・青島・日南エリアのグランピング対応キャンプ場一覧 - なっぷ",
+          "url": "https://www.nap-camp.com/gramping/miyazaki/miyazaki_aoshima_nitinan/list"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "原則6（主要レビュー4.0以上の裏付け）は数値上は満たすが件数が4件のみで原則7（独立2情報源）を満たせず、体験の独自性もグランピングとしては標準的な範囲に留まるため保守的に採点。score_breakdown合計52点で採用ライン75点に大きく届かないため不採用。"
+    }
+  ],
+  "selected": null,
+  "cycle_result_note": "宮崎県日南市（日南海岸エリア）のグランピングを初めて調査した。候補3件（グランピング イン カームラナイハーバー／カームラナイアイランド・離島／ウエルビレッジ・キャンパーズ伊比井）のうち、最高スコアはカームラナイハーバーの69点だったが、いずれも原則6の採用ライン75点に届かなかった。共通する課題は、各施設の数値口コミが実質的に単一OTA・少数件数に限られ、原則7が求める独立2情報源での数値評価の裏付けが取れないことだった。日南海岸エリアはカームラナイ系列（ハーバー・アイランド）という独自性の高いコンセプトを持つグランピング施設が存在する一方、口コミ母集団が非常に薄く、まだレビューが蓄積されていない『知られていない』エリアであることが確認できた。本セッションはWebFetchが全ドメインでDNS解決エラーとなりOTA個別ページを直接確認できず、また途中でWebSearch利用上限に達したため、楽天トラベル・Googleマップでの追加の数値評価確認ができなかった制約もある。得られた情報のみで誠実に、無理に基準を下げることなく採点した結果、selectedなしで確定する。次回以降、ネットワーク制約が解消した状態でカームラナイハーバーの楽天トラベル・Googleマップ評価を追加確認し、独立2情報源が揃えば再評価する価値がある。"
+}
