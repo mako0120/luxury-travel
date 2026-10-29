@@ -1,0 +1,202 @@
+{
+  "cycle_date": "2026-10-29",
+  "theme": "離島リゾート（東京都神津島村・神津島）の新規調査",
+  "season_rationale": "離島リゾートカテゴリは2026-10-20の佐渡・隠岐、2026-10-22の宮古島・対馬、2026-10-23の屋久島・甑島、2026-10-24の壱岐、2026-10-25の礁文島、2026-10-26の八丈島、2026-10-27の粟島・新島、2026-10-28の伊平屋島と伊豆諸島・伊豆七島を含め継続調査してきたが、同じ伊豆七島の神津島は本リポジトリで一度も取り上げていない新規地域だった。神津島は東京都心から南へ約180km、伊豆七島の中央に位置するひょうたん型の離島で、2020年12月に東京で初めて国際ダークスカイ協会の『国際ダークスカイアイランド』に認定された星空の美しさ、天上山の火山地形、黒曜石の産地としての歴史などの独自資源を持つ一方、伊平屋島・甑島・粟島と同様に大型リゾートホテルは存在せず、島内唯一のホテルと数軒の民宿・ゲストハウスのみという『超小規模離島』型の地域である。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-28-iheya-remote-island-resort", "region": "沖縄県島尻郡伊平屋村・伊平屋島", "category": "離島リゾート", "note": "候補3件すべて不採用。神津島とは無関係の別地域（沖縄県）。" },
+    { "post_id": "2026-10-27-niijima-remote-island-resort", "region": "東京都新島村・新島", "category": "離島リゾート", "note": "同じ伊豆諸島だが別の島。神津島とは重複なし。" },
+    { "post_id": "2026-10-27-awashima-remote-island-resort", "region": "新潟県岩船郡粟島浦村・粟島", "category": "離島リゾート", "note": "候補3件すべて不採用。神津島とは無関係の別地域。" },
+    { "post_id": "2026-10-26-hachijojima-remote-island-resort", "region": "東京都八丈町・八丈島", "category": "離島リゾート", "note": "リードパークリゾート八丈島が77点でselected。同じ伊豆諸島だが別の島で重複なし。" },
+    { "post_id": "2026-10-25-rebun-island-resort", "region": "北海道礁文島", "category": "離島リゾート", "note": "神津島とは無関係の別地域。" },
+    { "post_id": "2026-10-24-iki-island-resort", "region": "長崎県壱岐島", "category": "離島リゾート", "note": "平山旅館が79点でselected。神津島とは無関係。" },
+    { "post_id": "2026-10-23-koshikishima-remote-island-resort", "region": "鹿児島県甑島", "category": "離島リゾート", "note": "候補3件すべて不採用。神津島と同様『大型リゾートホテルがない超小規模離島』パターン。" },
+    { "post_id": "2026-10-22-miyakojima-remote-island-resort-recheck2", "region": "沖縄県宮古島市下地島", "category": "離島リゾート", "note": "シギラミラージュが81点でselected。神津島とは無関係。" },
+    { "post_id": "2026-10-20-sado-oki-resort", "region": "新潟県佐渡島／島根県隠岐諸島", "category": "離島リゾート", "note": "隠岐のEntôが82点でselected。神津島とは無関係。" }
+  ],
+  "duplication_note": "data/candidates・captions配下の全件（1ヶ月以上前を含む既存ファイル全体）を『神津島』『こうづしま』『kozushima』『ホテル神津館』『菊乃屋』『ふもと屋』『ファミリア』で検索・確認した結果、該当する候補・投稿は一件も存在せず、地域・施設とも完全に新規であることを確認した。離島リゾートカテゴリ自体は伊豆諸島内でも新島・八丈島を既に調査済みだが、いずれも神津島とは別の島であり重複にはあたらない。",
+  "candidates": [
+    {
+      "id": "2026-10-29-hotel-kozukan-kozushima",
+      "name": "ホテル神津館",
+      "region": "東京都神津島村（神津島、前浜港・神津島空港から近い市街地エリア）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.19, "scale": 5, "review_count": 4, "checked_date": "2026-10-29", "url": "https://4travel.jp/dm_hotel-10041225" },
+        { "source": "楽天トラベル", "score": 5.00, "scale": 5, "review_count": 11, "checked_date": "2026-10-29", "url": "https://travel.rakuten.co.jp/HOTEL/29927/review.html" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な宿泊料金は検索では確認できなかった。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "神津島で唯一のホテルとされ、全室オーシャンビューという立地が特徴。徒歩3分ほどで島唯一のスーパーに行ける便利さがあり、船乗り場までの送迎も相談可能とされる。食事（ドリンク含む）の評価は4.50と高い。",
+      "renewal_or_news": "2024年12月投稿のフォートラベル口コミが確認できるため営業は継続しているとみられるが、エレベーターのない古い建物であることや大浴場の利用時間が16:30〜22:00と短いことが指摘されている。",
+      "target_audience": ["一人旅", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 4,
+        "unique_experience_score": 10,
+        "photogenic": 8,
+        "value_for_price": 4,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 42,
+      "recommendation_reason": "楽天トラベル経由の評価は5.00（11件）と高いが、フォートラベル独自の口コミは3.19（4件）とばらつきが大きく、いずれも件数が極端に少ないため独立2情報源での十分な検証ができない。『島唯一のホテルで全室オーシャンビュー』という立地の強みはあるが、バリアフリー評価1.75・エレベーターなし・大浴場の利用時間制限など設備面の見劣りも確認され、総合スコア42点で採用ライン（75点）には届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミでバリアフリー評価が1.75と低く、建物が古くエレベーターがない点、大浴場の利用時間が16:30〜22:00と短い点が指摘されている。衛生・安全上の重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ホテル神津館 - フォートラベル クチコミ（満足度3.19・4件、食事4.50・バリアフリー1.75）", "url": "https://4travel.jp/dm_hotel-10041225" },
+        { "type": "booking_site", "title": "ホテル神津館 - 楽天トラベル クチコミ（5.00・11件）", "url": "https://travel.rakuten.co.jp/HOTEL/29927/review.html" },
+        { "type": "other", "title": "ホテル神津館 - JTB宿泊情報（神津島唯一のホテル、全室海眺望）", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/4186002/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "楽天トラベル5.00・フォートラベル3.19と評価がばらつき、いずれも件数が4〜11件と極端に少なく独立2情報源での十分な検証ができない。バリアフリー評価の低さや設備の古さも確認され、総合スコア42点で採用ラインに届かない。"
+    },
+    {
+      "id": "2026-10-29-kikunoya-kozushima",
+      "name": "民宿菊乃屋",
+      "region": "東京都神津島村（神津島、神津島港から車で約7分、前浜海岸近く）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "楽天トラベル（マップル経由で確認）", "score": 4.25, "scale": 5, "review_count": 37, "checked_date": "2026-10-29", "url": "https://www.mapple.net/pref/13364/hotel/" },
+        { "source": "フォートラベル", "score": 3.03, "scale": 5, "review_count": 1, "checked_date": "2026-10-29", "url": "https://4travel.jp/dm_hotel-11630891" }
+      ],
+      "price_range_jpy": {
+        "note": "フォートラベル掲載情報で洋室ツイン（風呂なし・朝食付き）が1人7,500円という表示があったが、投稿時期が古く現在の料金である保証はない。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "古民家を改装した全7室の宿で、和風・洋風・タイ風・昭和風など客室ごとに異なる内装が特徴。キンメの丸ごと煮付けなど地魚料理や自家菜園の野菜を使った食事が評判で、前浜海岸・黒島登山口にも近く、バーベキュー設備や釣り・ダイビング・ハイキングの拠点としても使われている。",
+      "renewal_or_news": "楽天トラベル経由の口コミが37件と一定の蓄積があり営業継続は確認できるが、直近（2026年内）の投稿かどうかは検索では特定できなかった。",
+      "target_audience": ["友人", "グルメ旅", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 8,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 59,
+      "recommendation_reason": "楽天トラベル経由の評価4.25（37件）は基準の4.0以上を満たし、客室ごとに異なる内装や地魚料理という独自性もある。しかしフォートラベル側では件数が1件のみで、独立した2つめの情報源としての検証力が弱く、送迎が基本的にない点も含め総合スコア59点で採用ライン（75点）には届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "送迎は基本的になく、タクシーの事前予約が必要という指摘があるが、衛生・安全上の重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "神津島民宿菊乃屋 - じゃらんnet 施設情報（全7室、送迎対応）", "url": "https://www.jalan.net/yad380060/" },
+        { "type": "other", "title": "神津島村の宿一覧 - マップル（楽天トラベル経由の評価4.25・37件を掲載）", "url": "https://www.mapple.net/pref/13364/hotel/" },
+        { "type": "review_site", "title": "民宿菊乃屋 - フォートラベル クチコミ（満足度3.03、件数僅少）", "url": "https://4travel.jp/dm_hotel-11630891" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "楽天トラベル経由の評価4.25（37件）は基準を満たすが、フォートラベル側は件数1件のみで独立2情報源としての検証が不十分。送迎なし等の不便さも踏まえ総合スコア59点で採用ラインに届かない。"
+    },
+    {
+      "id": "2026-10-29-fumotoya-kozushima",
+      "name": "旅館ふもと屋",
+      "region": "東京都神津島村（神津島、神津港からやや離れた立地、バス利用）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "楽天トラベル（マップル経由で確認）", "score": 3.83, "scale": 5, "review_count": 75, "checked_date": "2026-10-29", "url": "https://www.mapple.net/pref/13364/hotel/" },
+        { "source": "cocolocala（直近口コミ、2025年8月投稿）", "score": 5.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-29", "url": "https://www.cocolocala.jp/hotels/567617" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な宿泊料金は検索では確認できなかった。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "天然温泉の大浴場があるとされ、地元食材を使った食事が評判。cocolocalaの直近口コミでは夕食の量・味が好評で、神津港から距離はあるがバス停が近く不便ではなかったとされている。",
+      "renewal_or_news": "2025年8月のcocolocala投稿が確認できるため営業は継続しているとみられるが、フォートラベル側の古い口コミ（2013年・2017年）では団体対応時の食事提供の遅れや内容への不満も記録されており、評価の時期によるばらつきが大きい。",
+      "target_audience": ["温泉好き", "友人", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 7,
+        "unique_experience_score": 12,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 46,
+      "recommendation_reason": "楽天トラベル経由の評価は3.83（75件）と件数は多いが基準の4.0未満。直近のcocolocala口コミ（5.0）は好意的だが件数1件に留まり、過去のフォートラベル口コミ（2.5〜3.0）とのばらつきも大きい。天然温泉・郷土料理という魅力はあるが、総合スコア46点で採用ライン（75点）には届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2013年の口コミ（3.0）で団体客対応時の食事提供の遅れや物足りなさ、2017年投稿（2.5）でも評価が割れている。直近のcocolocala口コミ（2025年8月、5.0）は好意的。重大な衛生・安全上の指摘はないが、評価の時期によるばらつきが大きい。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "神津島村の宿一覧 - マップル（楽天トラベル経由の評価3.83・75件を掲載）", "url": "https://www.mapple.net/pref/13364/hotel/" },
+        { "type": "other", "title": "旅館ふもと屋 - cocolocala 口コミ（2025年8月投稿、5.0）", "url": "https://www.cocolocala.jp/hotels/567617" },
+        { "type": "review_site", "title": "旅館ふもと屋 - フォートラベル クチコミ（2013年3.0・2017年2.5、古い投稿）", "url": "https://4travel.jp/dm_hotel-10058827" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "楽天トラベル経由の評価3.83（75件）が基準の4.0未満で、過去の口コミとのばらつきも大きい。総合スコア46点で採用ラインに届かない。"
+    },
+    {
+      "id": "2026-10-29-familia-kozushima",
+      "name": "みんなの別荘ファミリア",
+      "region": "東京都神津島村（神津島、前浜港から徒歩8〜10分）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "Skyticket", "score": 4.8, "scale": 5, "review_count": 16, "checked_date": "2026-10-29", "url": "https://skyticket.jp/hotel/detail/property_893164/" },
+        { "source": "newt.net", "score": 2.7, "scale": 5, "review_count": 1, "checked_date": "2026-10-29", "url": "https://newt.net/hotel/jpn/e260329" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な宿泊料金は検索では確認できなかった。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "古民家をリノベーションした全7室の宿で、オーシャンビュー客室には『日本ベッド』を採用。1階がカフェバーになっており、宿泊者同士・オーナー夫妻との交流が生まれる設計で、『宿のフリした仲間づくりやさん』というコンセプトを掲げている。港・空港からの無料送迎（前日までの要予約）、毎朝7:00〜9:00の無料コンチネンタルブレックファストなどが特徴。神津島は2020年12月に東京で初めて国際ダークスカイ協会の『国際ダークスカイアイランド』に認定されており、星空体験との相性も良い。",
+      "renewal_or_news": "運営会社の合同会社FamiliAは2024年に神津島観光アプリ『まるっと！神津島』のiOS版・Android版をリリースするなど地域活動を継続中で、事業自体は活発に動いている。ただしじゃらんnetでは『過去1年間に投稿されたクチコミが有効数に達していないためクチコミ評価は表示しておりません』とされ、直近の口コミ蓄積は薄い。",
+      "target_audience": ["一人旅", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 11,
+        "review_reliability": 4,
+        "unique_experience_score": 17,
+        "photogenic": 11,
+        "value_for_price": 4,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 55,
+      "recommendation_reason": "古民家リノベーションによる客室の個性、『宿のフリした仲間づくりやさん』という明確なコンセプト、オーナー夫妻の移住・地域活動（観光アプリ開発等）に裏付けられたストーリー性は、離島リゾートとして独自性・写真映え双方で強い。一方でSkyticket4.8（16件）とnewt.net2.7という評価サイト間の数値の不一致が大きく、じゃらんnetでも直近の有効な口コミ数に達していないため評価非表示となっており、独立2情報源での評価の信頼性に課題がある。総合スコア55点で採用ライン（75点）には届かないが、運営の活発さ・コンセプトの明確さから口コミ基盤が整った段階での再調査価値が高いHidden Gem候補。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "newt.netでは総合2.7（清潔度3.4、設備とサービス2.4、施設のコンディション3.0）と、Skyticket（4.8・16件）に比べて明確に低い評価が出ている。じゃらんnetでは直近1年間の有効な口コミ数に達していないため評価が非表示。cocolocala上の個別口コミ（2026年5月、5.0）では『2日目はかなりの悪天候だった』という言及があるが施設側の問題とは特定できない。衛生・安全上の重大な指摘は確認されなかったが、評価サイト間の数値の不一致が大きく、現時点では評価の信頼性に課題がある。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "運営は合同会社FamiliA（代表：田中健太郎氏、通称『ケンちゃん』。妻のあやのさんと共同運営）。田中氏は大阪出身で、神津島を訪れたことをきっかけに島とのつながりを持ち始め、期間限定の海の家の出店など島の力になる活動を経て、最終的に神津島へ移住したと複数の記事で紹介されている（東洋経済オンライン、note『地底人かきたま』）。2017年2月に合同会社FamiliAを設立（同社ブログの該当記事タイトルより確認）。宿のコンセプトは『宿のフリした仲間づくりやさん』で、ゲストともっとゆっくり話したいという思いから生まれたとMATCHAの紹介記事で説明されている。また、2泊3日以上の利用のみを受け付け、共用スペースをカフェ・バーとして使うことで宿泊者同士・オーナーとの交流を生む運営方針も確認できる（note『地底人かきたま』記事）。地域活動として、神津島の歴史ある文化・豊かな自然を残していきたいという想いから、観光アプリ『まるっと！神津島』（季節連動のすごろく・音声ガイド機能）を開発したことがascii.jp・ritoku.tokyoの記事で紹介されている。なお、東洋経済オンラインの記事は会員限定表示のため、検索結果のスニペット（『こうした島の魅力に取りつかれて移住してくる人も少なくない。B＆Bスタイルの宿泊施設「FamiliA」を経営している田中健太郎氏もその1人』）以上の本文は確認できず、田中氏本人の肉声としての詳細なコメント・開業直後の心境などは出典上確認できなかった。推測・創作は行っていない。",
+        "sources": [
+          { "type": "official", "title": "みんなの別荘ファミリア 公式サイト", "url": "https://www.familia-family.club/ja/" },
+          { "type": "press", "title": "東京の秘境！神津島の宿「みんなの別荘ファミリア」でユニークな宿泊を体験 - MATCHA", "url": "https://matcha-jp.com/jp/19177" },
+          { "type": "other", "title": "小さくて素敵な街のヒントは離島にあるか―神津島を訪問して感じたこと｜地底人かきたま（note）", "url": "https://note.com/poketc_meganest/n/n781ffed6316b" },
+          { "type": "press", "title": "島の当事者がアプリを開発 島への接点を作り、愛を育む『まるっと！神津島』がリリース！ - ritoku.tokyo", "url": "https://ritoku.tokyo/2024/07/1152/" },
+          { "type": "press", "title": "神津島観光アプリ「まるっと! 神津島」iOS版登場 - ASCII.jp", "url": "https://ascii.jp/elem/000/004/209/4209620/" },
+          { "type": "other", "title": "合同会社FamiliAを設立しました！ - みんなの別荘ファミリアが綴るSTORY（公式ブログ）", "url": "https://familia.hatenablog.com/entry/2017/02/16/204909" },
+          { "type": "press", "title": "東洋経済オンライン（神津島移住者としての田中健太郎氏への言及。会員限定のため本文は検索スニペットの範囲のみ確認）", "url": "https://toyokeizai.net/articles/-/337349" }
+        ]
+      },
+      "sources": [
+        { "type": "booking_site", "title": "みんなの別荘ファミリア - Skyticket クチコミまとめ（4.8・16件）", "url": "https://skyticket.jp/hotel/detail/property_893164/" },
+        { "type": "review_site", "title": "みんなの別荘ファミリア - newt.net（総合2.7、清潔度3.4／設備とサービス2.4／施設のコンディション3.0）", "url": "https://newt.net/hotel/jpn/e260329" },
+        { "type": "other", "title": "みんなの別荘ファミリア - cocolocala 口コミ（2026年5月投稿、5.0）", "url": "https://www.cocolocala.jp/hotels/566655" },
+        { "type": "official", "title": "みんなの別荘ファミリア 公式サイト", "url": "https://www.familia-family.club/ja/" },
+        { "type": "booking_site", "title": "みんなの別荘ファミリア - じゃらんnet 施設情報", "url": "https://www.jalan.net/yad327505/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "Skyticket4.8（16件）とnewt.net2.7の評価差が大きく、じゃらんnetでも直近の有効な口コミ数に達していないため評価が非表示となっており、独立2情報源での評価の信頼性が確保できない。コンセプト・ストーリー性は強いが、総合スコア55点で採用ラインに届かない。"
+    }
+  ],
+  "cycle_conclusion": "東京都神津島村・神津島を対象に離島リゾートカテゴリで4件（ホテル神津館、民宿菊乃屋、旅館ふもと屋、みんなの別荘ファミリア）を調査・採点した。神津島は本リポジトリで一度も取り上げていない新規地域で、2020年に東京初の国際ダークスカイアイランドに認定された星空や天上山の火山地形といった独自資源を持つが、伊平屋島・甑島・粟島と同様に大型リゾートホテルが存在しない超小規模離島だった。島唯一のホテルであるホテル神津館は評価サイト間のばらつきと件数の少なさで42点、客室ごとに異なる内装と地魚料理が魅力の民宿菊乃屋は楽天経由4.25（37件）と基準を満たすが独立2情報源での検証が不十分で59点、天然温泉が売りの旅館ふもと屋は楽天経由3.83（75件）と基準の4.0未満で46点だった。古民家リノベーションの宿『みんなの別荘ファミリア』は『宿のフリした仲間づくりやさん』という明確なコンセプトとオーナー夫妻の移住・地域アプリ開発というストーリー性を備え、creator_storyとして出典付きで記録したが、Skyticket4.8（16件）とnewt.net2.7という評価の不一致が大きく、じゃらんnetでも直近の口コミ数が評価表示に足りていないため、現時点では独立2情報源での評価の信頼性に課題があり55点だった。4件とも採用ライン（75点）に届かず不採用のため、captions/配下の新規作成は行わない。特にみんなの別荘ファミリアはコンセプト・運営の活発さの点でHidden Gemとしての資質が高く、口コミ基盤（特にじゃらんnet・楽天トラベル等の主要サイトでの蓄積）が整った段階、またはnewt.netとの評価差の背景が確認できた段階で再調査する価値がある。"
+}

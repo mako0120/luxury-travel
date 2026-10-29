@@ -1,0 +1,110 @@
+{
+  "cycle_date": "2026-10-29",
+  "theme": "カテゴリ『オールインクルーシブ』×地域『鹿児島県奄美市（奄美大島）』の再調査（依頼指定）",
+  "season_rationale": "10月下旬〜11月上旬の奄美大島は台風シーズンがほぼ終わり、海水温もまだ高くビーチ・プール滞在が楽しめる一方、年末年始の繁忙期前で比較的予約が取りやすいと見られる『狙い目』の時期（原則30）。今回は地域・カテゴリとも依頼による指定のため、原則29（地域・カテゴリの連続回避）の自律判断は適用対象外。",
+  "prior_posts_checked": [
+    { "candidate_file": "2026-10-22-amami-all-inclusive.json", "region": "鹿児島県奄美市笠利町（コーラルパームス／ばしゃ山村／ティダムーン）", "category": "オールインクルーシブ（全件rejected）" },
+    { "candidate_file": "2026-10-19-amami-nakijin-activity.json", "region": "鹿児島県奄美市住用町・笠利町", "category": "アクティビティ（マングローブ茶屋／ネイティブシー奄美、全件rejected）" },
+    { "candidate_file": "2026-09-22-amami-island.json", "region": "鹿児島県奄美市名瀬（山羊島）・笠利町・瀬戸内町", "category": "離島リゾート（奄美山羊島ホテル=selected／伝泊MIJORA=shortlisted／THE SCENE amami=rejected）" }
+  ],
+  "duplication_note": "本サイクルの直前（2026-10-22）に同一の『オールインクルーシブ×奄美大島』の組み合わせで、コーラルパームス奄美大島・奄美リゾートばしゃ山村・奄美リゾートホテルティダムーンの3施設を調査済み（いずれもrejected）。また2026-09-22（離島リゾート）・2026-10-19（アクティビティ、マングローブ茶屋／ネイティブシー奄美）でも奄美大島内の別施設・業態を調査済み。これらと同一施設の重複は避け、本サイクルでは上記のいずれにも登場していない新規2施設（Miru Amami／ホテルカレッタ、いずれも鹿児島県大島郡龍郷町）を調査対象とした。",
+  "research_note": "WebSearchで『奄美大島 オールインクルーシブ ホテル』『Amami Oshima all-inclusive resort hotel』等を再検索したが、2026-10-22サイクルの結論（奄美大島内で『オールインクルーシブ』＝全食事・全飲料込みを公式に明示している施設は確認できない）は本サイクルでも変わらなかった。そのため本サイクルも『食事付きの滞在型リゾート』という最も近い解釈で、未調査の新規施設2件（Miru Amami／ホテルカレッタ）を調査した。なお、本セッションはWebSearchツールの呼び出し上限（セッション内で共有される制限）に本サイクル調査中に到達し、3件目の新規施設調査に必要な追加検索（独立2情報源での数値付きレビュー確認等）を完了できなかった。事実を推測・創作して3件目を埋めることは避け、正直に『本サイクルは新規2件の調査にとどまった』と記録する。3件目（例: ホテルサンデイズ奄美、ホテルニュー奄美、ネストアット奄美ビーチヴィラ等、名称のみ確認できたが数値付きレビューを確認できていない施設）の調査は次サイクル以降に持ち越しを推奨する。また、WebFetchは4travel.jp・icotto.jp・travel.yahoo.co.jp・www.ikyu.com・guide.michelin.com・discoverjapan-web.com等、主要な予約・レビュー・メディアドメインへのアクセスがすべてEGRESS_BLOCKED（DNS解決不可）となり、WebSearchのスニペット経由で得られる情報のみを情報源とした。",
+  "candidates": [
+    {
+      "id": "2026-10-29-amami-miru",
+      "name": "Miru Amami（ミル奄美）",
+      "region": "鹿児島県大島郡龍郷町芦徳800",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "tour.ne.jp", "score": 4.8, "scale": 5, "review_count": 31, "checked_date": "2026-10-29", "url": "https://www.tour.ne.jp/j_hotel/44166/" },
+        { "source": "icotto（宿泊者投稿）", "score": 4.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-29", "url": "https://icotto.jp/hotels/5668" }
+      ],
+      "price_range_jpy": {
+        "note": "一休.com（繁体字版ページ）のスニペットでは、2026年7月以降の宿泊分で素泊まり1泊30,800円〜、朝食付き35,860円〜という表示を確認。2名1室あたりの正確な最新料金、及び『オールインクルーシブ』（全食事・全飲料込み）プランの有無は確認できなかった。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "奄美大島北部・龍郷町の赤尾木湾に面した全23室のヴィラ専用リゾート。プールヴィラ（専用プール付き）・オーシャンヴィラ・ヒルサイドヴィラの3タイプがあり、コテージ風の造りに梁や畳を生かした内装、専用デッキを備える（Michelin Guideの紹介）。レストラン（旧Restaurant AMANARI）では鹿児島・奄美の地元食材を使った料理を提供。奄美空港から車で約20分、事前予約で無料送迎あり。ただし『オールインクルーシブ』（全食事・全飲料込み）プランの明示は確認できず、素泊まり・朝食付き等の通常プランが中心。",
+      "renewal_or_news": "複数の口コミ投稿が2022年9〜10月宿泊分から継続して確認でき、2026年3月・6月にも新しい投稿があることから現在も営業継続中と見られる。一方、icottoの宿泊者投稿（2020年10月付）には『オーナーが一度変わった』という言及があり、運営主体の変遷があった可能性があるが、変更の経緯・時期を示す公式情報は確認できなかった。",
+      "target_audience": ["カップル", "記念日", "ホテル好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 11,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 79,
+      "recommendation_reason": "tour.ne.jp4.8（31件）、icotto4.0（1件）という2つの独立した情報源で原則6の採用ライン4.0以上を確認（原則6・7）。加えてYahoo!トラベル（満足度4.63、客室・アメニティ4.77、食事4.75等）・travel.co.jp（4.73）でも高評価が確認できたが、いずれも口コミ件数がスニペットから確認できなかったため、正式なreview_scoresには採用せず参考情報として記載する。専用プール付きヴィラ・赤尾木湾を望むコテージ風建築・地元食材を使った料理など独自性が高く、奄美空港から車で約20分というアクセスの良さも魅力。全23室規模で口コミ件数自体は多くなく、国内での知名度もまだ高くないと見られる点から『穴場』として扱うのが適切と判断した（原則9 Hidden Gem）。ただし『オールインクルーシブ』プランの公式な明示は確認できておらず、カテゴリとの厳密な適合には留意が必要。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icotto（2020年10月投稿）で『プライベートビーチはあまり広くない』『開発工事の影響か水が濁っていてシュノーケルには向かない印象』という指摘、同投稿で『オーナーが一度変わった』との言及があった。Expediaの口コミでは『ディナーは非常に良かったが朝食は今ひとつ』という指摘もあった。安全性・衛生面での重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "Miru Amami<奄美大島> - tour.ne.jp（宿泊予約・クチコミ）", "url": "https://www.tour.ne.jp/j_hotel/44166/" },
+        { "type": "review_site", "title": "Miru Amami<奄美大島> - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/166461/" },
+        { "type": "other", "title": "Miru Amami - icotto（宿泊施設紹介・クチコミ）", "url": "https://icotto.jp/hotels/5668" },
+        { "type": "press", "title": "Miru Amami プレスリリース - icotto", "url": "https://icotto.jp/presses/21354" },
+        { "type": "other", "title": "Miru Amami特集記事 - Discover Japan web", "url": "https://discoverjapan-web.com/?p=103413" },
+        { "type": "other", "title": "Miru Amami - Michelin Guide（ホテルセレクション）", "url": "https://guide.michelin.com/jp/ja/hotels-stays/Tatsugo/miru-amami-14277" }
+      ],
+      "decision": "selected",
+      "creator_story": {
+        "text": "Discover Japan webの特集記事によれば、Miru Amamiは『島にできた新しい集落』というコンセプトで紹介されており、支配人の近藤哲氏は、奄美大島の自然や『混ざり合う文化』を宿泊・食事を通じて伝える『解釈者』のような存在になりたい、という趣旨の発言をしている（同記事では大人の休日旅の拠点として紹介）。レストラン（旧Restaurant AMANARI）では、ソテツの実など奄美の食文化を新しい形で表現し、鹿児島・奄美の地元食材を使ったランチ・ディナーを提供しているという説明がある。Michelin Guideの施設ページでは『Miru Collection』というブランドの一施設として位置づけられているが、運営会社の正式名称、創業者・経営者個人の開業への思い、建築・インテリアの設計者名については、今回のWebSearch（WebFetchが主要サイトでEGRESS_BLOCKEDのため、検索スニペットの範囲）では確認できなかった。また、宿泊者の口コミ（icotto、2020年10月投稿）には『オーナーが一度変わった』との言及があるが、変更の経緯や現在の運営主体を示す公式な説明も確認できなかった。これらの点は確認できなかった事実として明記し、推測や発言の創作は行わない。",
+        "sources": [
+          { "type": "other", "title": "Miru Amami特集記事（支配人 近藤哲氏のコメントを含む） - Discover Japan web", "url": "https://discoverjapan-web.com/?p=103413" },
+          { "type": "press", "title": "Miru Amami プレスリリース - icotto", "url": "https://icotto.jp/presses/21354" },
+          { "type": "other", "title": "Miru Amami（Miru Collectionの一施設として紹介） - Michelin Guide", "url": "https://guide.michelin.com/jp/ja/hotels-stays/Tatsugo/miru-amami-14277" },
+          { "type": "other", "title": "Miru Amami - icotto（オーナー変更に言及した宿泊者投稿を含む）", "url": "https://icotto.jp/hotels/5668" }
+        ]
+      }
+    },
+    {
+      "id": "2026-10-29-amami-hotel-caretta",
+      "name": "ホテルカレッタ",
+      "region": "鹿児島県大島郡龍郷町芦徳419-1",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.58, "scale": 5, "review_count": 72, "checked_date": "2026-10-29", "url": "https://4travel.jp/dm_hotel-10038957" },
+        { "source": "JTB（宿泊者投稿）", "score": 3.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-29", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/8632017/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な料金帯は今回の検索範囲では数値確認できなかった。『コストパフォーマンスが良い』という口コミ言及は複数あったが、2名1室あたりの正確な最新料金は確認できていない。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "海に近くビーチへすぐ出られる立地で、無料利用できるプールがあるとされる。朝食は焼きたてパンや地元料理が好評で、ダイビング目的の宿泊者からレストランの使いやすさも挙がっている。奄美空港からの無料送迎（要予約）あり。ただし施設情報が情報源間で一致しておらず（客室数62〜63室、プールの有無についても記載が分かれる）、建物が敷地内に分散しているため移動がやや不便という指摘もある。『オールインクルーシブ』プランの明示も確認できなかった。",
+      "renewal_or_news": "確認できる範囲で直近のリニューアル・新プラン等の明確な最新ニュースは見つからなかった。",
+      "target_audience": ["家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 9,
+        "review_reliability": 8,
+        "unique_experience_score": 7,
+        "photogenic": 6,
+        "value_for_price": 6,
+        "sns_buzz": 2,
+        "access_and_freshness": 1
+      },
+      "score": 39,
+      "recommendation_reason": "フォートラベル3.58（72件）・JTB3.0（1件）のいずれも原則6の採用ライン4.0に届かない。風呂の評価が2.79と特に低く、建物が敷地内に分散して移動が不便、周辺に飲食店が少なくレンタカー必須という指摘も複数あった。客室数・プールの有無について情報源間で記載が一致しないなど、情報の鮮度・信頼性にも懸念がある。『オールインクルーシブ』プランの明示も確認できず、採用ラインに届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの項目別評価で『風呂』が2.79と他項目（接客3.95・食事3.77）より明確に低い。建物が分散しており移動がやや不便という指摘、周辺に飲食店がほぼなくレンタカーがないと不便という指摘、朝食ビュッフェの品数が多くないという感想、接客の愛想について評価が割れる口コミ（JTB3.0）も確認された。安全性・衛生面での重大な指摘には至らないが、施設の老朽化・情報の不一致・サービス品質のばらつきは無視できない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ホテルカレッタ(龍郷町)のクチコミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10038957" },
+        { "type": "review_site", "title": "ホテルカレッタの口コミ - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/8632017/review/" },
+        { "type": "other", "title": "ホテルカレッタ - 近畿日本ツーリスト宿情報", "url": "https://yado.knt.co.jp/st/S460246/" },
+        { "type": "other", "title": "ホテルカレッタ宿情報 - jcation", "url": "https://jcation.com/hotel/detail-3015/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア39点で採用ライン（75点）に大きく届かず、主要レビュー評価も4.0未満（フォートラベル3.58・JTB3.0）。風呂の評価の低さ（2.79）、建物の分散・老朽化、周辺アクセスの不便さ、情報源間の施設情報不一致が確認され、『オールインクルーシブ』プランの明示もないため不採用とした。"
+    }
+  ]
+}

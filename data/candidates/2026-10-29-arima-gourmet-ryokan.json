@@ -1,0 +1,198 @@
+{
+  "cycle_date": "2026-10-29",
+  "theme": "グルメ旅館（兵庫県神戸市北区有馬町・有馬温泉）",
+  "season_rationale": "有馬温泉は六甲山麓の紅葉名所でもあり、11月は紅葉本番直前で関西圏から日帰り圏の温泉旅として需要が高まる時期。今回は『グルメ旅館』カテゴリの指定のため、温泉そのものよりも料理・食体験を主軸に据えた宿を中心に調査した。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-10-24-arima-goen", "region": "兵庫県神戸市北区有馬町（有馬温泉）", "category": "温泉旅館", "decision": "selected" },
+    { "candidate_id": "2026-10-24-hyoe-kosyokaku", "region": "兵庫県神戸市北区有馬町（有馬温泉）", "category": "温泉旅館", "decision": "shortlisted" },
+    { "candidate_id": "2026-10-24-tousen-gosyobo", "region": "兵庫県神戸市北区有馬町（有馬温泉）", "category": "温泉旅館", "decision": "rejected" },
+    { "candidate_id": "2026-10-27-arai-ryokan-shuzenji", "region": "静岡県伊豆市修善寺温泉", "category": "グルメ旅館", "decision": "selected" },
+    { "candidate_id": "2026-10-28-okuhida-hirayu-gourmet-ryokan", "region": "岐阜県高山市奥飛騨温泉郷平湯温泉", "category": "グルメ旅館" },
+    { "candidate_id": "2026-10-26-iizaka-gourmet-ryokan", "region": "福島県福島市飯坂温泉", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "依頼は『カテゴリ：グルメ旅館／地域：兵庫県神戸市北区有馬町（有馬温泉）』。有馬温泉という地域自体は2026-10-24サイクルで『温泉旅館』カテゴリとして既に調査済み（有馬御苑=selected、兵衛向陽閣=shortlisted、陶泉御所坊=rejected）だが、今回のカテゴリは『グルメ旅館』であり、依頼として明示的に同一地域の別カテゴリ調査を求められている。重複回避のため、data/candidates・captionsの全履歴（2026-09-14〜2026-10-28）を『有馬』『arima』『兵庫』『竹取亭』『御所別墅』『欽山』で全件grep確認し、今回調査する3施設（竹取亭円山・有馬山叢御所別墅・欽山）はいずれも過去に一度も候補・採用履歴に登場していないことを確認した。一方で『グルメ旅館』カテゴリ自体は直近も複数回（2026-10-27修善寺・2026-10-28奥飛騨平湯・2026-10-26飯坂等）使われており連続気味だが、地域側がユーザー指定のため今回は地域優先で調査した。",
+  "research_constraints": "本サイクルは調査途中でWebSearchの実行回数上限（セッション/ターン単位の上限）に達したため、価格の最終確認・一部施設のリニューアル情報・創業者/設計者の思想に関する一次情報の追加調査を完了できなかった。またWebFetchは本セッションのネットワーク許可設定により、jalan.net・skyticket.jp・rlx.jp・aumo.jp・icotto.jp・cocolocala.jp等への直接アクセスが全てDNS解決エラー（ENOTFOUND）で拒否されたため、これらのサイトの情報はWebSearchツールが返す検索結果の要約のみに基づいている。各candidateの該当箇所に『確認できなかった』旨を明記した。次サイクル以降、ネットワーク制限が解除された場合は一次ページを直接確認することを推奨する。",
+  "candidates": [
+    {
+      "id": "2026-10-29-taketoritei-maruyama",
+      "name": "竹取亭円山",
+      "region": "兵庫県神戸市北区有馬町（有馬温泉。神戸電鉄有馬温泉駅から徒歩約15分の高台、電話予約制の無料送迎あり）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "skyticket（施設詳細ページ）",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 832,
+          "checked_date": "2026-10-29",
+          "url": "https://skyticket.jp/hotel/hyogo/st_280139/"
+        },
+        {
+          "source": "楽天トラベル（クチコミ・温泉ページ集計）",
+          "score": 5.0,
+          "scale": 5,
+          "review_count": 578,
+          "checked_date": "2026-10-29",
+          "url": "https://travel.rakuten.co.jp/HOTEL/2093/review.html"
+        },
+        {
+          "source": "るるぶトラベル（JTB掲載口コミ集計）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 30,
+          "checked_date": "2026-10-29",
+          "url": "https://www.jtb.co.jp/kokunai-hotel/htl/6435A16/review/"
+        },
+        {
+          "source": "ニフティ温泉",
+          "score": 3.8,
+          "scale": 5,
+          "review_count": 4,
+          "checked_date": "2026-10-29",
+          "url": "https://onsen.nifty.com/arimaonsen-onsen/onsen005102/kuchikomi/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "WebSearchの検索回数上限に達したため、1泊2食の具体的な料金帯を今回は確定できなかった。貸切風呂8ヵ所・個室ダイニングでの会席料理を提供する上位クラスの旅館だが、正確な価格帯は制作前に公式サイト・予約サイトで直接確認する必要がある。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "有馬温泉の二種の源泉（金泉・銀泉）を、館内8ヵ所の貸切風呂で楽しめるのが最大の特徴。『竹取物語』をモチーフにした和風旅館で、夕食は個室のダイニングレストランで提供される会席料理。神戸電鉄有馬温泉駅からは徒歩約15分の高台に位置し、電話予約制の無料送迎がある。",
+      "renewal_or_news": "直近のリニューアル・新プラン等の一次情報は、WebSearchの検索回数上限に達したため今回は確認できなかった。次サイクルで追加確認が必要。",
+      "target_audience": ["夫婦", "記念日", "カップル", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 13,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 3
+      },
+      "score": 82,
+      "recommendation_reason": "skyticket（4.6点・832件）、楽天トラベル（5.0点・578件）、るるぶ/JTB（4.0点・30件）という3つの独立した情報源で、いずれも採用ライン（4.0以上）を満たし、かつサンプル規模も十分で評価が安定している。有馬温泉の金泉・銀泉を8ヵ所の貸切風呂で楽しめる点と、個室ダイニングでの会席料理という『グルメ旅館』として明確な訴求軸を両方備えており、独自性も高い。一方で価格帯・直近のリニューアル情報は今サイクルの検索回数上限により未確認のため、制作に進める前に公式サイト等での再確認が必須。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Relux個別口コミ（2021年投稿）で、夜間のフロント対応への不満、客室の一部の傷み、装飾の桜の状態を指摘する声があった。ニフティ温泉は3.8点だが件数4件と少なくサンプル規模は小さい。いずれも衛生・安全上の重大な問題や予約対応トラブルの多発を示すものではなく、除外基準（原則10）に該当する問題は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "竹取亭円山（兵庫県有馬）クチコミ4.6・832件 - skyticket", "url": "https://skyticket.jp/hotel/hyogo/st_280139/" },
+        { "type": "booking_site", "title": "有馬温泉 竹取亭円山 に実際に泊まった方のクチコミ・レビュー - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/2093/review.html" },
+        { "type": "other", "title": "竹取亭円山 口コミ・おすすめコメント＜有馬温泉＞ - JTB/るるぶトラベル", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/6435A16/review/" },
+        { "type": "review_site", "title": "竹取亭 円山(有馬)の口コミ情報一覧 - ニフティ温泉", "url": "https://onsen.nifty.com/arimaonsen-onsen/onsen005102/kuchikomi/" }
+      ],
+      "creator_story": {
+        "text": "竹取亭円山の開業経緯や、設計者・運営者がどのような思いで『竹取物語』をコンセプトにした建物・サービスを作ったかについて、公式サイトの沿革ページ・運営会社のプレスリリース・インタビュー記事など、創業者・設計者本人の発言や意図を直接裏付ける一次情報は、今回のWebSearch（検索回数上限に達したため途中で終了）の範囲では確認できなかった。旅行メディア側の紹介文に『竹取物語をコンセプトに彩られた和風旅館』という第三者による説明表現が見られたが、これは施設側の公式な創業ストーリーとして確認できたものではない。推測や発言の創作は行わず、次サイクル以降に公式サイト・プレスリリース等での追加確認が必要。",
+        "sources": []
+      },
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-29-arima-sansou-goshobessho",
+      "name": "有馬山叢 御所別墅",
+      "region": "兵庫県神戸市北区有馬町（有馬温泉。阪神高速西宮山口東出口から約6分、新神戸駅より電車約30分）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "Relux クチコミ集計",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 39,
+          "checked_date": "2026-10-29",
+          "url": "https://rlx.jp/22335/review/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "JTB掲載プラン（御所別墅スタンダード The Besshoプラン）では大人1名122,700円〜337,300円。一方でicottoの紹介記事では32,700円〜という掲載もあり、取得時期・プラン・掲載サイトにより数値が大きく異なる。どちらが最新か今回のWebSearchでは確定できなかった。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全10室がすべて離れのスイートヴィラで、全棟に低温サウナ（サーマルルーム）とプライベート温泉（金泉）を備える。ミシュランガイドで『有馬唯一のパビリオンマーク5つ』と紹介される、開放的な造りの別邸型旅館。食材にこだわった山家料理が評価されている。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 6,
+        "unique_experience_score": 20,
+        "photogenic": 14,
+        "value_for_price": 4,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 71,
+      "recommendation_reason": "全室離れ・全棟サーマルルーム+プライベート金泉・ミシュランガイドで有馬唯一の5パビリオン評価という、独自体験の面では今回調査した3件の中で最も際立つ。Relux（4.6点・39件）という単一ソースでは高評価が確認できたが、じゃらん・楽天トラベルなど他の主要予約サイトの集計スコア・件数を直接確認できず、原則7が求める独立2情報源での裏取りができなかった。加えて掲載サイト間で料金表示に数倍の差があり、価格情報の鮮度・正確性にも疑問が残る。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Reluxの個別口コミ（2022年2月投稿）では部屋・風呂・接客など総合的には高評価だったが、朝食・夕食が3点とやや低く、メゾネットタイプの部屋は高齢者には向かないとの指摘があった。じゃらんの個別口コミ（2024年4月投稿）は全項目5点で高評価。重大な衛生・安全上の問題や予約対応トラブルは確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "有馬山叢 御所別墅の口コミ（レビュー）- Relux（4.6点・39件）", "url": "https://rlx.jp/22335/review/" },
+        { "type": "other", "title": "有馬山叢 御所別墅 宿泊プラン（御所別墅スタンダード The Bessho、大人1名122,700円〜337,300円） - JTB", "url": "https://www.jtb.co.jp/kokunai_jr/t/villa/280109/" },
+        { "type": "press", "title": "Arimasansoh Goshobessho（有馬唯一のミシュランパビリオンマーク5つ） - ミシュランガイド", "url": "https://guide.michelin.com/jp/ja/hotels-stays/kobe/arimasansoh-goshobessho-6575" },
+        { "type": "other", "title": "有馬山叢 御所別墅の口コミ・評判 - じゃらんnet（個別口コミ、2024年4月投稿）", "url": "https://www.jalan.net/yad322974/kuchikomi/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独自体験（全室離れ・サーマルルーム+プライベート温泉・ミシュランガイド掲載）は有馬温泉でも際立つが、口コミ評価の数値的な裏付けがRelux（4.6点・39件）という単一の集計ソースに限られ、原則7が求める独立2情報源での裏取りができなかった。また掲載サイトによって料金表示に大きな差（122,700円〜337,300円 vs 32,700円台〜等）があり、価格情報の鮮度・正確性も確認できなかった。総合スコアも71点で採用ライン（75点）に届かないため、今回は不採用としたが、じゃらん・楽天トラベルの一次ページで評価件数・料金を直接確認できれば次サイクルでの再評価の余地がある。"
+    },
+    {
+      "id": "2026-10-29-arima-kinzan",
+      "name": "欽山",
+      "region": "兵庫県神戸市北区有馬町1302-4（有馬温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル",
+          "score": 3.32,
+          "scale": 5,
+          "review_count": 20,
+          "checked_date": "2026-10-29",
+          "url": "https://4travel.jp/dm_hotel-10050203"
+        },
+        {
+          "source": "Relux クチコミ集計",
+          "score": 4.3,
+          "scale": 5,
+          "review_count": 7,
+          "checked_date": "2026-10-29",
+          "url": "https://rlx.jp/23050/review/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "WebSearchの範囲では1泊2食の具体的な料金を確定できなかった。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "離れ中心の落ち着いた造りの高級旅館で、るるぶ掲載の項目別評価ではサービス4.7・食事4.6・部屋4.6・風呂4.6と食事・接客面の評価が高い。一方でフォートラベルの個別口コミでは温泉自体に『特に個性がない』『昭和感がある』という指摘もあり、建物・温泉の独自性については評価が分かれている。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 7,
+        "unique_experience_score": 10,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 51,
+      "recommendation_reason": "食事・接客面の評価（るるぶ：サービス4.7・食事4.6等、フォートラベル項目別でも食事4.57・接客4.47）は高く、『グルメ旅館』としての素地はある。しかしサンプル規模の大きい主要レビューであるフォートラベル（3.32点・20件）が採用ライン4.0未満であり、Relux（4.3点・7件）はサンプルが小さくこの弱点を覆す裏付けにはならない。温泉・建物自体の独自性を疑問視する口コミもあり、有馬温泉の他候補と比べて明確な差別化を示せなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの満足度3.32（20件）は採用ライン4.0未満で、コストパフォーマンス評価も項目別で3.63と相対的に低い。個別口コミでは温泉に『特に個性がない』『昭和感がある』という指摘があった。衛生・安全上の重大な問題や予約対応トラブルの多発は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "欽山 口コミ（フォートラベル／満足度3.32・20件、食事4.57・接客4.47・コスパ3.63）", "url": "https://4travel.jp/dm_hotel-10050203" },
+        { "type": "review_site", "title": "欽山の口コミ（レビュー）- Relux（4.3点・7件）", "url": "https://rlx.jp/23050/review/" },
+        { "type": "other", "title": "欽山 (Kinzan) 施設情報（サービス4.7・お部屋4.6・風呂4.6・食事4.6） - るるぶ.travel", "url": "https://www.rurubu.travel/hotel/japan/kobe/kinzan" },
+        { "type": "other", "title": "欽山 施設情報 - JTB", "url": "https://www.jtb.co.jp/kokunai_hotel/htl/6435008/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要な独立レビューであるフォートラベル（3.32点・20件）が採用基準の4.0未満であり、原則10（主要レビュー4.0未満は原則不採用）に該当する。Relux（4.3点・7件）は高評価だがサンプル数が少なく、フォートラベルの評価を覆す裏付けにはならない。食事・接客面の評価は高いが、温泉自体の独自性を疑問視する口コミもあり、総合51点で採用ライン（75点）にも届かないため不採用とした。"
+    }
+  ],
+  "cycle_result": "選定: 竹取亭円山（82点）。兵庫県有馬温泉のグルメ旅館カテゴリで3件（竹取亭円山・有馬山叢御所別墅・欽山）を調査した。竹取亭円山はskyticket（4.6点・832件）・楽天トラベル（5.0点・578件）・るるぶ/JTB（4.0点・30件）の3つの独立した大規模サンプル情報源でいずれも採用ラインを満たし、金泉・銀泉を8ヵ所の貸切風呂で楽しめる点と個室ダイニングでの会席料理という独自性もあるため選定した。有馬山叢御所別墅（71点）は全室離れ・サーマルルーム+プライベート金泉・ミシュランガイド掲載という独自体験は際立つが、口コミの数値的裏付けがRelux単一ソースに限られ、料金表示もサイト間で大きく異なるため今回は不採用（次点のhidden gemとして再評価の余地を残す）。欽山（51点）は食事・接客評価は高いが主要レビュー（フォートラベル3.32点）が採用ライン4.0未満のため不採用とした。なお本サイクルはWebSearchの実行回数上限により、竹取亭円山の価格・リニューアル情報・創業者/設計者の思想に関する一次情報の追加確認が未完了であり、次サイクルでの再確認を推奨する。"
+}
