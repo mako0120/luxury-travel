@@ -1,0 +1,140 @@
+{
+  "cycle_date": "2026-10-29",
+  "theme": "グランピング（奈良県吉野郡天川村・洞川温泉エリア）【再調査枠】",
+  "season_rationale": "10月下旬〜11月の天川村・洞川温泉エリアは標高が高く紅葉が見頃に入り、夏の川遊び客・登山客のピークを過ぎて静かに過ごせる時期。日中と朝晩の気温差が大きくなり始め、焚き火・サウナ・BBQといったグランピング体験が心地よく感じられる一方、積雪期（本格的な冬）の前の計画しやすいタイミングでもある。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-18-edosan-nara / 2026-10-18-nara-culture", "region": "奈良県奈良市高畑町・ならまち", "category": "文化体験", "note": "同じ奈良県だが奈良市内の古都文化体験カテゴリで、天川村・洞川温泉エリア・グランピングとは地域・カテゴリとも異なる" },
+    { "post_id": "2026-10-29-tateshina-glamping（本日・別セッション）", "region": "長野県茅野市蓼科高原エリア", "category": "グランピング", "note": "本日の第一候補地だった蓼科高原グランピング再調査サイクルが候補すべて不採用（該当なし）だったため、依頼により天川村・洞川温泉エリアで別地域の再調査を行った" }
+  ],
+  "duplication_note": "依頼時点の指定は『カテゴリ：グランピング／地域：奈良県吉野郡天川村（洞川温泉エリア）』。captions/・data/candidates/ の全履歴（2026-09-14〜2026-10-28、1ヶ月以上前の分も含む）を『天川』『洞川』『tenkawa』『dorogawa』『吉野』『奈良』『グランピング』『glamping』で全件grepした結果、奈良県関連の既存候補（2026-09-18-edosan-nara、2026-10-18-nara-culture、captions/2026-10-18-nara-hotel）はいずれも奈良市内の文化体験カテゴリであり、天川村・洞川温泉エリア、またグランピングカテゴリとしての投稿・候補は過去に一度も存在しない。今回調査した3候補（NATURA＝天の川青少年旅行村内グランピングサイト、洞川キャンプ場、キャンプベース角甚）も、本リポジトリで候補・投稿として過去に一度も登場していない。",
+  "candidates": [
+    {
+      "id": "2026-10-29-natura-amanogawa-glamping",
+      "name": "グランピングNATURA（天の川青少年旅行村）",
+      "region": "奈良県吉野郡天川村庵住78（天の川青少年旅行村内）",
+      "category": "グランピング",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "いこーよ 利用者満足度", "score": 4.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-29", "url": "https://iko-yo.net/facilities/150105" },
+        { "source": "なっぷ（キャンプ場専門サイト）クチコミ", "score": 3.9, "scale": 5, "review_count": 2, "checked_date": "2026-10-29", "url": "https://www.nap-camp.com/nara/12607/reviews" },
+        { "source": "Yahoo!マップ クチコミ", "score": 3.83, "scale": 5, "review_count": 6, "checked_date": "2026-10-29", "url": "https://map.yahoo.co.jp/v3/place/SrzZcVkp1o6/review" }
+      ],
+      "price_range_jpy": {
+        "note": "入村料は大人（中学生以上）500円、子ども（3歳〜小学生）300円。マップル掲載情報ではグランピングテントは40,000円〜とされているが、1棟あたりか1名あたりか、現在も同額かは今回のWeb調査では確認できなかった。確定額は現地・予約サイトで要確認。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2018年7月、奈良県初のグランピングサイトとして開業。天の川青少年旅行村の管理棟から川を挟んだ対岸にあり、徒歩3〜5分。3棟限定で、屋根付きテラス＋円形のコットン製テントという構成。テラス全体をビニールカーテンで囲めるため雨天・冬場でも利用しやすく、Weber社の本格ガスグリルやワインセラーを備えるなど調理設備が充実している。宿泊者には近隣の温泉施設「みずはの湯」の利用券が付き、魚釣りや川魚の塩焼き、キャンプファイヤー（有料）も楽しめる。",
+      "renewal_or_news": "今回のWeb調査では、2018年開業時のBE-PAL記事（2020年8月掲載）が最も詳しい情報源で、それ以降の改装・新プラン等の鮮度の高いニュースは確認できなかった。公式サイト・公式SNSも特定できず、原則4（最新性の確認）を十分には満たせていない。",
+      "target_audience": ["カップル", "家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 4,
+        "unique_experience_score": 16,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 1
+      },
+      "score": 49,
+      "recommendation_reason": "『奈良県初グランピング』『コットンテント＋屋根付きテラス＋本格ガスグリル・ワインセラー』という独自性は評価できるが、数値評価として確認できた3つの情報源（いこーよ4.0・1件、なっぷ3.9・2件、Yahoo!マップ3.83・6件）はいずれも件数が極端に少なく、サイト間でも4.0前後で割れている。公式サイト・公式SNSも特定できず、開業（2018年）以降の鮮度の高い情報も確認できなかったため、原則4・原則7の観点から確証不足と判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "いこーよ（4.0・1件）、なっぷ（3.9・2件）、Yahoo!マップ（平均3.83・6件）のいずれも、具体的な低評価コメントの本文までは今回のWeb調査で確認できなかった。重大な衛生・安全・予約対応トラブルを示す投稿は見当たらなかったが、件数自体が極端に少なく、評価の安定性は確認できていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "天ノ川と星を満喫！3棟限定グランピングサイト「NATURA」 - BE-PAL", "url": "https://www.bepal.net/archives/104728" },
+        { "type": "other", "title": "天の川青少年旅行村 てんのかわせいしょうねんりょこうむら - るるぶ&more", "url": "https://rurubu.jp/andmore/spot/80078242" },
+        { "type": "review_site", "title": "天の川青少年旅行村 口コミ（いこーよ）", "url": "https://iko-yo.net/facilities/150105" },
+        { "type": "booking_site", "title": "天の川青少年旅行村 口コミ・予約（なっぷ）", "url": "https://www.nap-camp.com/nara/12607" },
+        { "type": "review_site", "title": "天の川青少年旅行村 クチコミ（Yahoo!マップ）", "url": "https://map.yahoo.co.jp/v3/place/SrzZcVkp1o6/review" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score_breakdown合計49点で75点基準に届かなかった。review_scoresは3情報源とも確認できたが（原則7の独立2情報源は形式上満たす）、各サイトの口コミ件数が1〜6件と極端に少なく評価の確証が薄いこと、公式サイト・一次情報が特定できず最新の営業状況・料金を確認できなかったこと（原則4）が主な減点理由。Hidden Gemとしての再調査価値は残るため、将来的に公式情報・口コミの蓄積を確認できた時点での再評価を推奨する。"
+    },
+    {
+      "id": "2026-10-29-dorogawa-campsite-glamping-theme",
+      "name": "洞川キャンプ場",
+      "region": "奈良県吉野郡天川村洞川934-15",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "なっぷ（キャンプ場専門サイト）クチコミ", "score": 4.3, "scale": 5, "review_count": 239, "checked_date": "2026-10-29", "url": "https://www.nap-camp.com/nara/12616" }
+      ],
+      "price_range_jpy": {
+        "note": "入場料は大人800円、オンシーズンは追加料金あり。1泊2,000円〜という掲載情報もあるが、サイト種別（オート・バンガロー等）による違いの詳細は今回のWeb調査では確認できなかった。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "『不便を楽しもう』『星空と遊ぼう』『グランピング』の3テーマを掲げるキャンプ場で、定員6名の小型タイプから最大20名までの大型バンガローまで幅広いサイトを用意。目の前を流れる天の川沿いにあり、周辺の電灯が少なく星空がきれいに見える。ただし『グランピング』はテーマとして掲げられているのみで、実際のテント設営は利用者自身が行う方式であり、家具・寝具が整った状態で滞在できる本来の『グランピング』（グラマラス・キャンピング）とは体験の中身が異なる。",
+      "renewal_or_news": "今回のWeb調査では、近年のリニューアルや新設備に関する鮮度の高い情報は確認できなかった。",
+      "target_audience": ["家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 8,
+        "unique_experience_score": 8,
+        "photogenic": 8,
+        "value_for_price": 6,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 54,
+      "recommendation_reason": "なっぷの口コミ（4.3・239件）は件数・評価ともに良好で、星空・川沿いの立地への満足度は高い。しかし『グランピング』は施設が掲げる3つのテーマの一つに過ぎず、実際にはテントを利用者自身が組み立てる方式（初心者向けにはバンガローを推奨）であり、家具・快適設備が整った状態で滞在する本来のグランピング体験とは異なる。独立した2情報源での数値確認もできなかった（なっぷ以外の口コミサイトでは明確な評価点を確認できず）。カテゴリ『グランピング』としての訴求力・体験内容が本来の定義と食い違うため、今回は見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "nap-camp経由の口コミ（4.3・239件）の個別の低評価コメント本文までは今回のWeb調査では確認できなかった。一方で紹介記事では『不便を楽しもう』というコンセプト通り設備は簡素で、BBQ利用時はやや賑やかになる、近隣に民家が見えるといった注意点が挙げられている。重大な衛生・安全・予約対応トラブルを示す投稿は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "洞川キャンプ場 施設紹介（『不便を楽しもう』『星空と遊ぼう』『グランピング』の3テーマ） - hinata", "url": "https://hinata.me/article/1283963137644776243" },
+        { "type": "booking_site", "title": "洞川キャンプ場（旧:フォレスト・イン洞川キャンプ場）クチコミ（4.3・239件） - なっぷ", "url": "https://www.nap-camp.com/nara/12616" },
+        { "type": "other", "title": "洞川キャンプ場 どろがわきゃんぷじょう スポット情報 - るるぶ&more", "url": "https://rurubu.jp/andmore/spot/80127169" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score_breakdown合計54点で75点基準に届かなかった。口コミ評価自体（なっぷ4.3・239件）は良好だが、独立した2情報源での数値確認ができず、かつ『グランピング』が施設の掲げる3テーマの一つに過ぎずテント設営を利用者が行う方式であるため、本来の意味でのグランピング体験とのズレが大きい（unique_experience_score低評価の主因）。カテゴリの趣旨と実際の体験が一致しないため今回は見送った。"
+    },
+    {
+      "id": "2026-10-29-campbase-kadojin-dorogawa",
+      "name": "Camp Base Kadojin（キャンプベース角甚）",
+      "region": "奈良県吉野郡天川村洞川445-1（洞川温泉エリア）",
+      "category": "グランピング",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "楽天トラベル クチコミ", "score": 5.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-29", "url": "https://travel.rakuten.co.jp/HOTEL/184647/review.html" }
+      ],
+      "price_range_jpy": {
+        "note": "今回のWeb調査では具体的な1泊料金を確認できなかった。日帰りBBQプランや食材付き宿泊プランがあることは楽天トラベル・tour.ne.jp等で確認できたが、確定額・プラン内容は公式情報・予約サイトで要確認。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "洞川温泉で元禄元年（1688年）創業・約300年の歴史を持つ老舗旅館「行者の宿 角甚」（株式会社角甚）が運営する、奈良県初（とされる）のタイニートレーラー＋バレルサウナのグランピング施設。トレーラーは『コツノ』『ゼンキ』『ゴキ』の3棟で、ゼンキ・ゴキは大峯山で修行した役小角（えんのおづぬ）に従った前鬼・後鬼の名を取ったものとみられ、大峯山の行者宿という洞川温泉の歴史的文脈に根ざした命名となっている。デッキにはバレルサウナ・水風呂・BBQグリルを備え、一部トレーラーはペット同伴可。地元のジビエを含む食材でのBBQプランもあり、姉妹旅館「行者の宿角甚」（徒歩約7分、洞川温泉唯一の客室温泉露天風呂あり）の温泉を利用できる。",
+      "renewal_or_news": "今回のWeb調査では、開業年・開業時のプレスリリースを特定できず、公式サイト（kadojin.com）上でのグランピング告知内容も確認できなかった。英語のグランピング紹介サイトの掲載内容が最も詳しい情報源で、原則4（最新性の確認）を十分には満たせていない。",
+      "target_audience": ["カップル", "友人"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 2,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 4
+      },
+      "score": 54,
+      "recommendation_reason": "『洞川温泉の老舗行者宿が運営』『タイニートレーラー＋バレルサウナ』『大峯山修験道にゆかりのあるトレーラー名（コツノ・ゼンキ・ゴキ）』という独自性・物語性は3候補中最も高く評価できる。依頼地域（洞川温泉エリア）に最も直接的に合致する候補でもある。しかし数値評価として確認できた独立情報源は楽天トラベル（5.0・1件）の1件のみで、原則7の独立2情報源の基準を満たせず、母数が極端に少ないため確証を持てない。公式サイト上の開業情報・料金も特定できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベルの口コミは1件（5.0）のみで、低評価の投稿は確認できなかった。姉妹旅館『行者の宿角甚』側の口コミ（楽天トラベル・Yahoo!トラベル等、総合4.5前後）では、階段が急で滑り止めがなく上り下りがやや危険、駐車場の場所が分かりにくいといった指摘があったが、いずれも重大な衛生・安全上の問題ではなく、キャンプベース角甚自体への具体的な低評価投稿は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "Camp base Kadojin（奈良県初のタイニートレーラー＋バレルサウナ） - GLAMPING LIFE TOKYO JAPAN（英語版ディレクトリ）", "url": "https://www.gltjp.com/en/directory/item/18828/" },
+        { "type": "booking_site", "title": "Camp Base Kadojin クチコミ（5.00・1件） - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/184647/review.html" },
+        { "type": "other", "title": "キャンプベース角甚 施設情報（奈良県吉野郡天川村洞川445-1） - じゃらん観光", "url": "https://www.jalan.net/kankou/sta_023478/g2_N2/" },
+        { "type": "other", "title": "洞川温泉 行者の宿 角甚（創業元禄元年・約300年の歴史、大峯山の行者宿） - icotto", "url": "https://icotto.jp/hotels/9073" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score_breakdown合計54点で75点基準に届かなかった。物語性・独自性（修験道にゆかりのある命名、老舗行者宿が運営）は高く評価したが、数値評価として確認できた口コミが楽天トラベル1件（5.0）のみで原則7の独立2情報源を満たせず、公式サイト上での開業情報・料金も特定できなかったため確証不足と判断した。地域合致度・独自性の高さから、口コミ・公式情報の蓄積を待って再調査する価値が3候補中最も高い。"
+    }
+  ]
+}
