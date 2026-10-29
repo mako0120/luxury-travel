@@ -1,0 +1,138 @@
+{
+  "cycle_date": "2026-10-29",
+  "theme": "長野県松本市安曇乗鞍高原のアクティビティ型体験【石川県白山市の再調査枠（本日該当なし）を転用した別地域での再調査】",
+  "season_rationale": "乗鞍高原は標高約1,200〜1,800mの山麓高原で、紅葉は一の瀬園地の大カエデ・まいめの池・善五郎の滝周辺で10月中旬〜下旬に見頃を迎えるとされる（weathernews.jp・mapple.net調べ）。本サイクル実施日（10月29日）は紅葉シーズンの終盤にあたる。乗鞍高原の公認マウンテンバイクトレイル（NCMT）はグリーンシーズンの最終日が例年11月末頃と報じられており、本サイクル時点ではまだ利用可能な時期。一方、水辺のアクティビティ（シャワークライミング等）は営業終了時期が明確に確認できず、季節性の裏取りが不十分な候補も含まれる。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-28-shimantocho-furusato-koryu-rafting", "region": "高知県高岡郡四万十町（四万十川中流域）", "category": "アクティビティ" },
+    { "post_id": "2026-10-28-oboke-koboke-rafting-activity", "region": "徳島県三好市（吉野川・大歩危小歩危）", "category": "アクティビティ" },
+    { "post_id": "2026-10-29-taketoritei-maruyama", "region": "兵庫県神戸市北区有馬町（有馬温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-27-azumino-glamping", "region": "長野県安曇野市", "category": "グランピング" }
+  ],
+  "duplication_note": "data/candidates/2026-10-18-kamikochi-activity.json にて『長野県松本市安曇上高地』（上高地帝国ホテル・五千尺ホテル上高地・上高地ホテル白樺荘、いずれも不採用）を調査済みだが、本サイクルの対象地域は同じ松本市安曇地区内でも上高地とは別エリアの『乗鞍高原』（上高地からさらに乗鞍岳側に位置し、特別保護地区で自家用車が規制される上高地とは異なり、マイカー規制のない温泉・レジャー・MTB拠点エリア）であり、施設・体験内容も重複しない。カテゴリ『アクティビティ』は直近2026-10-28サイクルで四国の2河川（四万十川・吉野川）のラフティング系候補を調査済みだが、本サイクルは渓流下りではなくマウンテンバイク・アドベンチャーパーク・沢登り系の候補を中心に調査し、地域・体験の種類ともに重複を避けた。",
+  "research_note": "石川県白山市での当初の再調査（本日の別サイクル）が該当なしだったため、別地域として長野県松本市安曇乗鞍高原（カテゴリ：アクティビティ）を新規に調査した。WebSearchのみで調査し、WebFetchはasoview.com・norikurabase.com・tabi-mag.jp・norikura.gr.jp・ja.wikipedia.org等いずれもEGRESS_BLOCKED（DNS解決不可、セッションの許可ネットワーク外）となり本文を直接確認できなかったため、検索スニペット経由で得られる情報のみを情報源とした。候補3件を調査したが、(1) NORTH STAR outdoor adventures（e-MTB/MTBガイドツアー）と(2) リトルピークス（シャワークライミング等渓流アクティビティ）はいずれもasoview掲載の口コミ件数（23件・141件）は確認できたが、星評価の数値そのものがWebSearch経由では一切取得できず、原則6・7の判定材料（独立2情報源での数値評価）を満たせなかった。(3) 乗鞍BASE いがやレクリエーションランド（アドベンチャーパーク・ジップライン等）は、キャンプ場専門サイト『なっぷ』で4.5点（116〜120件、計測タイミングにより変動）という数値評価を確認できたが、これは主にキャンプ場利用者の評価であり、アドベンチャーパーク自体の口コミはasoviewで1件（5/5）のみと極めて少なく、2件目の独立した数値評価としては心もとない。アドベンチャーパーク単体の入場料金も確認できなかった（キャンプサイト利用料のみ確認）。3件とも総合スコアが採用ライン（75点）に届かず、採用候補は見送った。乗鞍BASEのみ、確認できた情報の確度が相対的に高く見込みもあることから『shortlisted』として記録し、次サイクル以降の再調査候補とする。",
+  "candidates": [
+    {
+      "id": "2026-10-29-norikura-northstar-embike",
+      "name": "NORTH STAR outdoor adventures（乗鞍高原 e-MTB／マウンテンバイクガイドツアー）",
+      "region": "長野県松本市安曇乗鞍高原（乗鞍観光センター周辺）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "asoview掲載のハーフデイe-MTB/MTBガイドツアーは12,100円〜（レンタルバイク・ヘルメット・保険・トレイル整備協力金込み）、経験者向け半日コースは14,300円〜という掲載を確認した。宿泊付きプラン（休暇村乗鞍高原とのタイアップ）は2023年時点の情報として平日2名1室1泊2食+ツアーで大人1名22,000円〜という掲載があったが、2026年時点の料金は確認できなかった。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "乗鞍高原には2022年、日本の国立公園として初めてパブリックなマウンテンバイクトレイル『NCMT（のりくらコミュニティマウンテンバイクトレイル）』が開通しており、整備協力金を払えば誰でも走行できる。NORTH STARは2001年から乗鞍高原でアウトドアスクールを営む事業者（代表は2006年より乗鞍在住、asoview掲載情報）で、常設のレンタルe-MTB（ミヤタ『RIDGE-RUNNER 6180』・メリダ『eBIG.SEVEN 600』、いずれもシマノSTEPS搭載）を使い、手ぶらで国立公園内のトレイルを走れるガイド付きe-bikeツアーを提供する。初心者には重心移動の基本を学べるレッスンもあり、環境省の国立公園体験情報でもE-Bikeを使ったガイドツアーとして紹介されている。",
+      "renewal_or_news": "グリーンシーズンの最終日は例年11月末頃とされ（ノーススターのツアーレポート記事）、環境省の案内でも秋（9〜11月）のオフロード・サイクリングツアーが催行されるとされている。本サイクル時点（10月29日）はシーズン終盤だが利用可能な時期にあたる。",
+      "target_audience": ["友人", "一人旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 17,
+        "photogenic": 11,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 42,
+      "recommendation_reason": "『日本の国立公園初の公認MTBトレイル』をガイド付きe-bikeで手ぶらで走れるという独自性は非常に高く、Impress Watchの体験記事等での紹介もある。しかしasoview掲載の口コミは23件あることは確認できたものの、肝心の星評価（平均点）がWebSearch経由では一度も取得できず（WebFetchはEGRESS_BLOCKEDで本文確認不能）、原則6（主要レビュー4.0以上）・原則7（独立2情報源での数値評価）のいずれも判定材料が得られなかった。独自性の高さだけでは採点できず見送った。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "asoview上に口コミ23件があることは確認できたが、本文・評価点ともにWebSearch経由では取得できず（asoview.comへのWebFetchはEGRESS_BLOCKED）、ネガティブレビューの有無を確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "手ぶらで国立公園の乗鞍高原を走れるe-bikeサイクリングツアーへ行ってきた - Impress Watch", "url": "https://kaden.watch.impress.co.jp/docs/topic/special/1547654.html" },
+        { "type": "booking_site", "title": "口コミ(23) NORTHSTAR outdoor adventures(ノーススターアウトドアアドベンチャー) - アソビュー", "url": "https://www.asoview.com/item/activity/pln3000040296/" },
+        { "type": "press", "title": "休暇村乗鞍高原、ノーススターと連携したE-MTBツアー付き宿泊プラン販売（2023年プレスリリース） - 休暇村", "url": "https://www.qkamura.or.jp/qkamura/data/press_data/pdf/press_pdf_1_20230619_163533.pdf" },
+        { "type": "other", "title": "国立公園 乗鞍高原のマウンテンバイク体験 - 環境省 国立公園オンライン体験", "url": "https://www.env.go.jp/nature/nationalparks/try/all/act679.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独自性・季節適合性は高いが、口コミの星評価数値を独立した情報源で確認できず（asoview本文がWebFetch不可）、原則6・7の数値評価の裏付けが取れなかったため採点できず不採用。review_rating/review_reliabilityを0として計算した結果、総合スコア42点で採用ライン75点に届かない。"
+    },
+    {
+      "id": "2026-10-29-norikura-little-peaks-showerclimbing",
+      "name": "リトルピークス（乗鞍高原 シャワークライミング／沢登りツアー）",
+      "region": "長野県松本市安曇乗鞍高原（Mt.乗鞍スキー場内、小大野川流域）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "asoview掲載のファミリーコース（6歳〜対象、小大野川でじっくり沢遊び・写真撮影付き）は6,500円〜、沢登り『3滝チャレンジコース』（11歳〜対象）は7,000円〜という掲載を確認した。いずれも所要時間は約2時間30分〜。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "乗鞍高原を流れる小大野川を舞台に、シャワークライミング（沢登り）・ラフティング・SUPなど渓流アクティビティを提供するガイド会社。6歳から参加できるファミリーコースと、3つの滝を登る『3滝チャレンジコース』の2本立てで、写真撮影付きという紹介がある。まっぷるマガジンでは『ガイドが案内するさまざまなツアーが好評』『小学生から参加できるツアーも多く家族みんなで楽しめる』と紹介されている。",
+      "target_audience": ["家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 3,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 1
+      },
+      "score": 37,
+      "recommendation_reason": "asoview掲載の口コミ件数は141件と確認でき、母数自体は大きい。しかし星評価の数値はWebSearch経由では一切取得できず（WebFetchはEGRESS_BLOCKED）、原則6・7の数値評価の判定材料が不足した。加えて、渓流を使う水のアクティビティであるため、10月末時点（本サイクル実施日）の営業継続状況・終了時期を公式サイト・予約サイトのいずれからも確認できず、季節性の裏付けが取れなかった点も採点を下げる要因とした。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "asoview上に口コミ141件があることは確認できたが、本文・評価点ともにWebSearch経由では取得できず、ネガティブレビューの有無を確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "乗鞍高原の観光・体験ツアー紹介（リトルピークスのシャワークライミング等） - まっぷるトラベルガイド", "url": "https://www.mapple.net/article/79933/" },
+        { "type": "booking_site", "title": "【長野・乗鞍・シャワークライミング】ファミリーコース - アソビュー（リトルピークス、口コミ141件）", "url": "https://www.asoview.com/item/activity/pln3000032620/" },
+        { "type": "booking_site", "title": "【長野・乗鞍・シャワークライミング】沢登りコース（3滝チャレンジ） - アソビュー（リトルピークス）", "url": "https://www.asoview.com/item/activity/pln3000022522/" },
+        { "type": "other", "title": "湯快リゾート系施設情報ページ内 乗鞍高原周辺の観光・レジャー紹介 - ゆこゆこ", "url": "https://www.yukoyuko.net/onsen/spot/s0001038" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数（141件）は確認できたが星評価の数値を確認できず、原則6・7の判定材料が不足。加えて10月末時点での営業継続（水温・増水対策含む）が未確認で季節適合性のリスクが残るため、総合スコア37点で不採用。"
+    },
+    {
+      "id": "2026-10-29-norikura-base-igaya-adventurepark",
+      "name": "乗鞍BASE いがやレクリエーションランド（アドベンチャーパーク／ジップライン）",
+      "region": "長野県松本市安曇3994-21（乗鞍高原）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "なっぷ（キャンプ場専門口コミサイト、施設全体の評価）", "score": 4.5, "scale": 5, "review_count": 118, "checked_date": "2026-10-29", "url": "https://www.nap-camp.com/nagano/14035" },
+        { "source": "アソビュー（アドベンチャーパークプラン個別口コミ、件数僅少）", "score": 5, "scale": 5, "review_count": 1, "checked_date": "2026-10-29", "url": "https://www.asoview.com/item/activity/pln3000043150/" }
+      ],
+      "price_range_jpy": {
+        "note": "アドベンチャーパーク（19アクティビティ、総延長400m、A/Bコース、小学3年生以上・身長125cm以上・体重25kg以上）自体の入場料は今回の検索では確認できなかった。中学生までが対象の無料エリア『キッズアドベンチャー』（4アイテム）がある。オートキャンプのサイト使用料は1区画6,000円〜、車中泊サイトは4,000円〜という掲載を確認したが、これはキャンプサイト利用料であり、アドベンチャーパーク入場料とは別。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "松本市が設置し2018年4月にリニューアルオープンした22ha（旧ゲレンデ跡地含む）のレジャー施設で、『スイスの片田舎』をイメージした造りと『山遊びの前線基地』というキャッチフレーズを掲げる。森の木々と地形を生かした樹上のアドベンチャーパーク（ジップラインを含む19アクティビティ）に加え、無料のキッズアドベンチャー、白樺林のマレットゴルフ場、乗鞍岳を望むレンタルマウンテンバイク、芝生広場からの乗鞍岳大展望、標高約1,370〜1,500mならではの夜の満天の星も魅力として紹介されている。",
+      "renewal_or_news": "2018年4月のリニューアルオープン以降の大きな追加投資・新規情報は今回の検索では確認できなかった。営業期間は公式サイト情報で4月下旬〜11月上旬とされ、本サイクル時点（10月29日）はシーズン終盤だが営業期間内。",
+      "target_audience": ["家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 8,
+        "unique_experience_score": 14,
+        "photogenic": 12,
+        "value_for_price": 4,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 68,
+      "recommendation_reason": "キャンプ場専門口コミサイト『なっぷ』で4.5点（約118件）という採用ラインを満たす数値評価を確認できた。ただしこれは施設全体（主にキャンプ利用者）の評価で、アドベンチャーパーク自体の口コミはアソビューでわずか1件（5/5）にとどまり、原則7が求める『2件の独立した十分な評価件数』としては心もとない。また肝心のアドベンチャーパーク入場料金も確認できず、価格対体験価値を正確に評価できなかった。独自性（国立公園エリアの旧ゲレンデを活用した樹上アドベンチャー＋ジップライン＋満天の星）は確かにあり、総合スコア68点は『アクティビティ』カテゴリの既存採用例（例: 水上高原ホテル200）と比べると見劣りするが、再調査すれば採用ラインに届く可能性があるため、shortlistedとして記録する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "なっぷの口コミでは『標高が高く夏も涼しい一方、テントサイトに木陰がなく日よけのタープが必要』『車中泊サイトからは乗鞍岳の大展望は見えない』という指摘があった。場内にシャワー・入浴施設がなく、周辺の日帰り温泉施設の利用が必要という点も複数の紹介記事で言及されていた。アドベンチャーパーク自体への重大な否定的指摘（安全性・衛生面等）は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "乗鞍BASE（のりくらベース）いがやレクリエーションランド 公式サイト", "url": "https://norikurabase.com/" },
+        { "type": "review_site", "title": "乗鞍BASE いがやレクリエーションランド - なっぷ（評価4.5・約118件の口コミ）", "url": "https://www.nap-camp.com/nagano/14035" },
+        { "type": "booking_site", "title": "口コミ(1) 乗鞍BASE アドベンチャーパーク - アソビュー", "url": "https://www.asoview.com/item/activity/pln3000043150/" },
+        { "type": "other", "title": "乗鞍BASE いがやレクリエーションランド 施設紹介 - 信州スタイル（tabi-mag）", "url": "https://shinshu-style.com/matsumoto-region/city-matsumoto/nn102/" },
+        { "type": "other", "title": "乗鞍BASE いがやレクリエーションランド - ウォーカープラス", "url": "https://summer.walkerplus.com/odekake/detail/ar0420s495663/" }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "なっぷの評価4.5点は採用ラインを満たすが、アドベンチャーパーク単体の独立した口コミ件数が1件と薄く、入場料金も未確認なため、総合スコア68点で採用ライン75点には届かない。ただし施設全体としての評価・独自性は一定水準あり、次回以降に料金・アドベンチャーパーク単体の口コミを追加確認できれば採用ラインに届く可能性があるため、rejectedではなくshortlistedとして保留する。"
+    }
+  ]
+}
