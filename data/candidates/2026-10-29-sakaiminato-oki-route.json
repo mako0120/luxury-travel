@@ -1,0 +1,209 @@
+{
+  "cycle_date": "2026-10-29",
+  "theme": "列車・船カテゴリ：鳥取県境港市（境港〜隠岐フェリー等）",
+  "season_rationale": "10月下旬〜11月は隠岐航路の高速船レインボージェットが通常運航している時期（運休は年末12月下旬〜2月末）であり、また米子・境港エリアの鉄道は季節性が小さく年間を通じて体験価値が安定している。一方、隠岐航路のフェリーは2026年に船員不足を理由とした減便が決定しており、現在の運航安定性には留意が必要（詳細はcandidates内に記載）。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-10-20-sado-oki-resort", "region": "新潟県佐渡市・島根県隠岐地域（宿泊リゾート中心）", "category": "離島リゾート" },
+    { "candidate_id": "2026-10-22-daisen-view-hotel", "region": "鳥取県大山町", "category": "絶景ホテル" },
+    { "candidate_id": "2026-10-23-mikuni-tojinbo-bunka-taiken", "region": "福井県坂井市三国町", "category": "文化体験" },
+    { "candidate_id": "2026-09-14-scenic-train / 2026-09-18-kyushu-train / 2026-10-18-kurobe-gorge-torokko / 2026-10-19-hisatsu-orange-railway / 2026-10-20-kumagawa-railway / 2026-10-20-oigawa-sl-train / 2026-10-23-hokkaido-kanko-ressha / 2026-10-24-the-royal-express-izu / 2026-10-26-fujikyu-sightseeing-trains", "region": "各地の観光列車（鳥取県境港市・米子市は含まれない）", "category": "列車・船" }
+  ],
+  "duplication_note": "data/candidates・captions配下を『境港』『隠岐汽船』『鬼太郎列車』『境線』『レインボージェット』『美保関』のキーワードでファイル名・本文内容の両方で横断検索した結果（1ヶ月以上前の実績も含め全件確認）、該当する候補・投稿はこれまで一度も存在しないことを確認した。『隠岐』という語自体は2026-10-20佐渡隠岐リゾート（宿泊施設、離島リゾートカテゴリ）・2026-10-20ento-okiキャプション（隠岐の宿、既存投稿）で言及があるが、いずれも境港発の航路・列車そのものではなく宿泊施設が主題であり、本サイクルの対象（境港〜隠岐フェリー等の交通体験そのもの）とは重複しない。",
+  "research_constraints": "本セッションはWebSearch回数の上限にサイクル後半で到達し、以降の追加検索（境港発の観光船・遊覧船の追加候補確認、鬼太郎列車の低評価レビュー詳細、改修コンセプトの一次情報確認等）が実行できなくなった。また tripadvisor.jp・4travel.jp・trafficnews.jp・tabi-mag.jp 等へのWebFetchによる直接アクセスはDNS解決不可（EGRESS_BLOCKED相当）であり、CLAUDE.mdの制約と同様、これらについてはWebSearchのスニペット経由で得られる情報のみを情報源とした。隠岐汽船（フェリー・高速船）については、口コミサイトでの定量的な評価（星評価・件数）を本調査では一件も確認できなかった。\n\n次サイクルへの推奨: WebSearch回数制限が解消された状態で、(a) 隠岐汽船フェリー・高速船レインボージェットのGoogleマップ/じゃらん上の定量評価を個別に確認、(b) 2026年の減便後の最新運航ダイヤ・便数を隠岐汽船公式サイトで再確認、(c) 境港発の観光船・遊覧船（美保湾・中海方面）の有無を追加調査することを推奨する。",
+  "candidates": [
+    {
+      "id": "2026-10-29-jr-sakaisen-kitaro-train",
+      "name": "JR境線 鬼太郎列車",
+      "region": "鳥取県境港市・米子市（JR境線 米子駅〜境港駅、17.9km）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "トリップアドバイザー「JR 境線」口コミ（とても良い77・良い135・普通51・悪い3・とても悪い1の内訳から算出した加重平均）",
+          "score": 4.06,
+          "scale": 5,
+          "review_count": 267,
+          "checked_date": "2026-10-29",
+          "url": "https://www.tripadvisor.jp/ShowUserReviews-g1023598-d2075355-r701278495-JR_Sakai_Line-Sakaiminato_Tottori_Prefecture_Chugoku.html"
+        },
+        {
+          "source": "gltjp.com（観光ガイドサイト、鬼太郎列車ページ）※口コミ件数が3件と少なく参考情報扱い",
+          "score": 4.03,
+          "scale": 5,
+          "review_count": 3,
+          "checked_date": "2026-10-29",
+          "url": "https://www.gltjp.com/ja/directory/item/18118/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "通常の乗車券のみで乗車可能（指定席料金等の追加なし）。検索で確認できた参考運賃は米子駅〜境港駅間で大人330円、子ども160円。2026年10月時点での最新運賃はJR西日本公式サイトで要再確認。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "米子駅〜境港駅間17.9kmを結ぶJR境線は、沿線16駅すべてに『ねずみ男駅（米子駅）』『鬼太郎駅（境港駅）』など妖怪にちなんだ愛称が付けられており、車両も国鉄キハ40系気動車の外装・内装一面に水木しげる作品の妖怪キャラクターが描かれた『鬼太郎列車』として運行されている。2018年のリニューアルで、それまでの4種類から現行6種類（鬼太郎・ねずみ男・ねこ娘・目玉おやじ・ファミリー『こなきじじい』・ファミリー『砂かけばばあ』編成）に増え、車内アナウンスを鬼太郎・ねこ娘らが担当する点も特徴。乗車券のみ・予約不要で誰でも体験でき、終点の境港駅を出ればすぐに水木しげるロード（妖怪ブロンズ像が並ぶ通り）へアクセスできる、移動そのものが観光コンテンツになっている点が独自性といえる。",
+      "renewal_or_news": "2018年のリニューアルで編成が4種類から現行6種類に増加したことが複数の媒体で確認できた。2026年時点での新たな追加改装・新編成投入等のニュースは本調査では確認できなかった。",
+      "target_audience": ["家族", "友人", "女子旅", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 11,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 9,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 77,
+      "recommendation_reason": "通常の乗車券のみ・予約不要で誰でも体験できる手軽さと、全国的に知名度のある『ゲゲゲの鬼太郎』ブランドを活かした沿線・車両一体型のテーマ性は独自性が高く、トリップアドバイザーで267件・加重平均約4.06という比較的大きなサンプルで4.0以上の評価を確認できた。水木しげるロードへの実質的な玄関口としての役割も含め、境港市のまちの魅力を伝える『交通体験そのものがPRになる』候補として75点の採用ラインを上回ると判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "トリップアドバイザー267件の口コミ中、『悪い』3件・『とても悪い』1件はごく少数で、内容は『米子〜境港間17.9kmを約45分かけるため遅い』『運行間隔が45分〜1時間に1本程度で本数が少なく乗り遅れに注意』といった運行速度・頻度に関する軽微な指摘、および『大規模な改造はされていない』という厳しい見方が中心。安全面の懸念や重大なサービス不備の指摘は見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "米子から境港へ鬼太郎列車で - JR 境線の口コミ（全267件、評価内訳含む） - トリップアドバイザー",
+          "url": "https://www.tripadvisor.jp/ShowUserReviews-g1023598-d2075355-r701278495-JR_Sakai_Line-Sakaiminato_Tottori_Prefecture_Chugoku.html"
+        },
+        {
+          "type": "official",
+          "title": "米子・境港地域の公共交通に関する資料（鬼太郎列車・妖怪テーマの沿線整備を含む） - 国土交通省中国運輸局",
+          "url": "https://www.mlit.go.jp/sogoseisaku/transport/pdf/076_yonago_sakaiminato.pdf"
+        },
+        {
+          "type": "press",
+          "title": "鬼太郎列車の概要・車内放送・編成に関する記事 - 乗りものニュース（trafficnews.jp）",
+          "url": "https://trafficnews.jp/post/526134"
+        },
+        {
+          "type": "other",
+          "title": "鬼太郎列車 施設情報・評価 - gltjp.com",
+          "url": "https://www.gltjp.com/ja/directory/item/18118/"
+        },
+        {
+          "type": "other",
+          "title": "鬼太郎列車 紹介記事 - tabi-mag.jp",
+          "url": "https://tabi-mag.jp/kitaroutrain/"
+        }
+      ],
+      "decision": "selected",
+      "creator_story": {
+        "text": "出典で確認できた範囲では、2018年のリニューアルにより鬼太郎列車の編成が従来の4種類から現行6種類に増えたという事実、および境線沿線の全16駅に妖怪にちなんだ愛称が付けられている取り組みが国土交通省中国運輸局の資料で確認できた。しかし、デザインを具体的に手がけた人物・デザイン会社名、JR西日本・境港市・水木プロダクションそれぞれが『どんな思いでこの列車を手がけたか』という企画意図・コンセプト・開業経緯を本人の発言や公式発表として裏付ける一次情報は、本調査（WebSearchのスニペット経由の調査、かつ対象サイトへの直接WebFetchが利用不可という制約下）では確認できなかった。そのため、推測や発言の創作は行わず『確認できなかった』ことを明記する。Production移行時には、JR西日本米子支社・境港市観光協会・水木プロダクションへの一次情報確認を推奨する。",
+        "sources": [
+          {
+            "type": "official",
+            "title": "米子・境港地域の公共交通に関する資料（妖怪テーマの沿線整備の経緯を含む） - 国土交通省中国運輸局",
+            "url": "https://www.mlit.go.jp/sogoseisaku/transport/pdf/076_yonago_sakaiminato.pdf"
+          },
+          {
+            "type": "press",
+            "title": "鬼太郎列車の編成数・リニューアル年に関する記事 - 乗りものニュース（trafficnews.jp）",
+            "url": "https://trafficnews.jp/post/526134"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-10-29-okikisen-ferry",
+      "name": "隠岐汽船フェリー（フェリーくにが／フェリーしらしま／フェリーおき、境港〜隠岐航路）",
+      "region": "鳥取県境港市（境港発、島根県隠岐諸島・西郷/西ノ島/中之島/知夫里島行き）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "往復フェリー＋宿泊のセット商品が2026年3月1日〜11月30日の期間で発売されているとの情報を確認したが、具体的な料金は本調査では確認できなかった。通常のフェリー運賃も本調査では一次情報を確認できていない。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "境港（または七類港）から隠岐諸島（西郷・西ノ島・中之島・知夫里島）へ本土からフェリーで渡るという、離島への『旅の入り口』そのものを体験できる航路。隠岐ユネスコ世界ジオパークの景観や、航路途中での海鳥・イルカ等との遭遇も期待できる点に独自性がある。",
+      "renewal_or_news": "島根県の県民意見record（2026年7月受付分）によると、隠岐汽船は船員不足を理由に、繁忙期を除く期間のフェリーを3便から2便へ減便したことが決定している。新造船への補助金に関する議論も県に寄せられており、2便体制が今後も続く可能性が懸念されている状況が確認できた。",
+      "target_audience": ["家族", "友人", "一人旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 12,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 1
+      },
+      "score": 29,
+      "recommendation_reason": "本土から隠岐諸島へのフェリー航路という体験自体には離島旅行の『入り口』としての魅力があるが、じゃらん・Googleマップ等の口コミサイトで定量的な評価（星評価・件数）を独立した情報源から一件も確認できなかった。加えて2026年には船員不足を理由とした減便が決定しており、運航の安定性・便数という現在の営業状況にも懸念がある。原則6（口コミの裏付け）・原則7（最新営業状況の確認）のいずれも採用ラインに届く根拠を示せないため見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミサイト上に定量的な評価数値自体が見つからず、乗客の個別の低評価レビューの有無は確認できなかった。一方で、島根県への県民意見recordでは『船員不足により2026年に減便が決定し、今後2便体制になる可能性がある』『サービス向上を求める利用者の声が多い』という行政記録上の指摘が確認できており、これは運航安定性に関わる実質的なネガティブ要素として扱った。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "隠岐航路の減便（船員不足）に関する県民の声と島根県の回答",
+          "url": "https://www.pref.shimane.lg.jp/admin/seisaku/koho/teian/record/2026/202607/2026-00060.html"
+        },
+        {
+          "type": "official",
+          "title": "隠岐汽船の新造船補助金・減便継続への懸念に関する県民の声と島根県の回答",
+          "url": "https://www.pref.shimane.lg.jp/admin/seisaku/koho/teian/record/2026/202607/2026-00061.html"
+        },
+        {
+          "type": "other",
+          "title": "隠岐汽船フェリーガイド（航路・船種紹介）",
+          "url": "https://crexgroup.com/ja/travel/transportation/oki-kisen-ferry-guide/"
+        },
+        {
+          "type": "other",
+          "title": "隠岐汽船 運航経路図",
+          "url": "https://www.city.matsue.lg.jp/material/files/group/92/okikisenn_unnkoukeiro.pdf"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立した口コミサイトでの定量評価が一件も確認できず原則6を満たせないこと、2026年に船員不足を理由とした減便が決定しており運航の安定性（現在の営業状況）に懸念があることから、現時点では採用ラインに届く根拠を示せず見送った。"
+    },
+    {
+      "id": "2026-10-29-okikisen-rainbow-jet",
+      "name": "隠岐汽船 高速船レインボージェット（境港〜隠岐航路）",
+      "region": "鳥取県境港市（境港発、島根県隠岐諸島行き）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "フェリーより急行料金が別途発生するとの記載を確認したが、具体的な料金は本調査では確認できなかった。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "水面から船体を持ち上げて進むジェットフォイル（水中翼船）で、本土〜隠岐間を約1時間と通常フェリーより大幅に短い時間で結ぶ高速船。船体が海面から浮き上がるように進む乗船体験自体が独自性になり得る。",
+      "renewal_or_news": "2026年のレインボージェット今季初就航は3月1日だったとの情報を確認した。年末12月下旬〜2月末は運休期間にあたる。",
+      "target_audience": ["一人旅", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 11,
+        "photogenic": 6,
+        "value_for_price": 4,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 25,
+      "recommendation_reason": "水中翼船が海面から浮き上がって進むという体験の独自性はあるが、口コミサイトでの定量評価が一件も確認できないこと、12月下旬〜2月末は運休期間であること、荷物重量に制限があり船内に売店等もないという利便性面の制約があることから、現時点で採用ラインに届く根拠を示せない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミサイト上に定量的な評価数値自体が見つからず、低評価レビューの有無を判断する材料がない。公式の利用案内では『船内に売店・自動販売機・ゴミ箱がない』『大きなスーツケースや自転車を持つ場合は通常のフェリーを利用するよう案内されている』という利便性面の制約が確認できた。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "Additional Information / Timetables / Prices（隠岐汽船レインボージェット利用案内） - Visit Oki Islands",
+          "url": "https://visit-okiislands.e-oki.net/wp/wp-content/uploads/2024/04/Additional-Information-Timetables-Prices.pdf"
+        },
+        {
+          "type": "press",
+          "title": "隠岐汽船 高速船レインボージェット 2026年シーズン初就航関連記事",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2092054.html"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立した口コミサイトでの定量評価が一件も確認できず原則6を満たせないこと、季節運休（12月下旬〜2月末）があること、利便性面の制約（売店なし・荷物制限）から、現時点では採用ラインに届く根拠を示せず見送った。"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "cycle_date": "2026-09-18",
+  "theme": "列車・船カテゴリ（リサーチ＋キャプションのみ、画像構成なし）— 九州の観光列車・秋の旅行需要期に向けて",
+  "season_rationale": "9月中旬〜下旬は、10〜11月の秋の九州旅行（紅葉・味覚シーズン）を検討し始める時期にあたる。九州の観光列車は全席指定で乗車日の概ね1ヶ月前から予約が始まるものが多く、10月中旬以降の乗車を考えるなら9月中に情報収集・予約準備をしてほしいタイミング（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-18-fufu-karuizawa", "region": "長野県北佐久郡軽井沢町（中軽井沢・星野温泉エリア）", "category": "サウナ" },
+    { "post_id": "2026-09-14-sagano-torokko", "region": "京都府京都市（嵐山・嵯峨野）〜亀岡市", "category": "列車・船" },
+    { "post_id": "2026-09-14-unkai-terrace-tomamu", "region": "北海道勇払郡占冠村（トマム）", "category": "アクティビティ" },
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-kinmedai-kokorone", "region": "静岡県伊東市（宇佐美温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-09-14-clubmed-ishigaki-kabira", "region": "沖縄県石垣市（川平湾エリア）", "category": "オールインクルーシブ" }
+  ],
+  "duplication_note": "『列車・船』カテゴリは2026-09-14サイクルで京都府（嵯峨野トロッコ列車）が既に採用済みのため、本サイクルは依頼どおり別地域・別列車として九州（福岡・大分・熊本）の観光列車を調査した。地域としても九州はこのリポジトリで未登場（石垣島・宮古島等の沖縄離島はオールインクルーシブ／離島リゾートカテゴリで登場済みだが、九州本土は初）であり、原則29（地域・カテゴリの連続回避）の観点からも適切と判断した。",
+  "other_candidates_considered": [],
+  "candidates": [
+    {
+      "id": "2026-09-18-yufuin-no-mori",
+      "name": "特急ゆふいんの森（JR九州 D&S列車）",
+      "region": "福岡県福岡市（博多）〜大分県由布市・別府市",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Tripadvisor", "score": 4.2, "scale": 5, "review_count": 155, "checked_date": "2026-09-18", "url": "https://www.tripadvisor.com/Attraction_Review-g14135122-d1652879-Reviews-Limited_Express_Yufuin_no_Mori-Hakataekimae_Hakata_Fukuoka_Fukuoka_Prefecture_K.html" }
+      ],
+      "price_range_jpy": {
+        "note": "博多〜由布院間 片道 運賃+指定席特急料金の目安として5,690円程度（検索日時点でのWeb検索スニペットに基づく参考値）。全席指定で、乗車日の1ヶ月前からネット予約可能。区間・きっぷの種類（IC早特等）により料金は異なる。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "1989年デビュー、JR九州のD&S（デザイン&ストーリー）列車の先駆けとされる観光特急。ハイデッカー構造で天井まで届く大きな窓から由布院・別府方面の山並みや久大本線沿線の自然を一望できる、森をイメージした深緑基調の内装が特徴。客室乗務員による記念撮影サービスやビュッフェ・軽食販売など、乗車自体を目的地にできるホスピタリティがある。",
+      "renewal_or_news": "1989年の初代デビュー以来、1999年に3代目車両が加わり現在は2編成で運行。長年にわたり九州を代表する観光列車として安定運行しており、今回のWeb検索では直近の大規模リニューアル発表は確認できなかった（今後の公式発表は要確認）。",
+      "target_audience": ["カップル", "家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 9,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 75,
+      "recommendation_reason": "Tripadvisorで4.2（155件）と、主要レビューサイトでの評価が原則6の最低ライン4.0以上を確保している。ただし、このセッションのネットワーク制限により、じゃらんnet・フォートラベル・JR九州公式サイトへの直接アクセス（WebFetch）はいずれもEGRESS_BLOCKEDとなり、WebSearchのスニペットからは数値評価をTripadvisorの1件しか確認できなかった。原則7が理想とする『公式情報＋旅行サイト＋Googleレビュー＋SNS』の複数方向での裏付けは、数値評価という点では単一情報源にとどまる限界があるが、公式サイト・フォートラベル（順位情報のみ確認）・複数の旅行メディア記事など情報源の種類自体は複数確認できている。1989年デビューでJR九州D&S列車の先駆けという歴史的・デザイン的独自性が高く、博多駅という九州最大のターミナル駅からアクセスしやすい点も強み。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorのレビュータイトルに『JR九州にがっかりです』というものがあり、個別レビュー本文の詳細はEGRESS_BLOCKEDのため確認できなかったが、少なくとも一定数の不満コメントが存在することが分かる。また別のレビューでは『混雑していて荷物棚が一杯だった』『まあまあだった』という声、予約の取りづらさ（週末・繁忙期は満席になりやすく、海外からの会員登録がしづらいとの声）も複数確認した。安全性・清潔感に関わる重大な指摘はこのセッションで確認した範囲では見つからなかったが、レビュー本文を全件読めていない点は正直に明記する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "特急ゆふいんの森 | JR KYUSHU D&S TRAINS D&S列車の旅", "url": "https://www.jrkyushu.co.jp/trains/yufuinnomori/" },
+        { "type": "review_site", "title": "Limited Express Yufuin no Mori - All You SHOULD Know Before Going (2026 Reviews) - Tripadvisor", "url": "https://www.tripadvisor.com/Attraction_Review-g14135122-d1652879-Reviews-Limited_Express_Yufuin_no_Mori-Hakataekimae_Hakata_Fukuoka_Fukuoka_Prefecture_K.html" },
+        { "type": "review_site", "title": "ゆふいんの森 クチコミ・アクセス・周辺情報｜博多 - フォートラベル", "url": "https://4travel.jp/dm_shisetsu/11290393" },
+        { "type": "other", "title": "観光列車「ゆふいんの森」で博多から由布院・別府へ乗車レポート【楽天トラベル】", "url": "https://travel.rakuten.co.jp/mytrip/howto/yufuinnomori-guide" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-18-kawasemi-yamasemi",
+      "name": "観光特急かわせみ やませみ（JR九州 D&S列車）",
+      "region": "熊本県熊本市〜人吉市（JR肥薩線）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Tripadvisor", "score": 4.5, "scale": 5, "review_count": 27, "checked_date": "2026-09-18", "url": "https://www.tripadvisor.com/Attraction_Review-g298213-d12350817-Reviews-Kawasemi_Yamasemi-Kumamoto_Kumamoto_Prefecture_Kyushu.html" }
+      ],
+      "price_range_jpy": {
+        "note": "運賃・料金の正確な最新数値は、このセッションのWeb検索では確認できなかった。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2017年3月運行開始のD&S列車。球磨川流域に生息するかわせみ（青）・やませみ（緑）にちなんだ2両編成で、人吉球磨産のヒノキ・杉をふんだんに使った車内、ラウンジでの地元特産品販売、記念スタンプ・記念撮影サービスなどが特徴。車窓からはエメラルドグリーンに輝く球磨川の渓谷美を楽しめる。",
+      "renewal_or_news": "2025年8月時点の資料で『熊本デスティネーションキャンペーン2026』関連の企画（京都鉄道博物館での展示等）が確認でき、2026年に向けて継続的にプロモーションされている様子はうかがえた。一方で、肥薩線は2020年7月豪雨で八代〜人吉間に被害が生じ、長期間にわたり一部区間が不通となった経緯があり、現在『かわせみ やませみ』が公式サイトが案内する熊本〜人吉間をフルルートで運行しているか、代替ルート・臨時ダイヤになっているかは、このセッションのネットワーク制限（JR九州公式サイトがEGRESS_BLOCKED）により確認できなかった。予約前に必ず公式サイトで最新の運行区間を確認する必要がある。",
+      "target_audience": ["カップル", "家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 5,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 2
+      },
+      "score": 67,
+      "recommendation_reason": "Tripadvisor評価は4.5（27件）と数値自体は高いが、確認できた数値評価がこの1件のみでレビュー件数も27件と少なく、原則7が求める複数情報源での裏付けが弱い。加えて、2020年の豪雨被害以降の肥薩線の運行区間・ルートの現状をこのセッションでは確認できておらず（JR九州公式サイトがEGRESS_BLOCKED）、原則4（情報の新しさ）の観点でアクセス・運行情報の信頼性に不安が残る。デザイン性・独自性は高く評価できるため、次サイクル以降、運行区間の最新情報とレビュー件数の増加が確認できれば再候補とする。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorのレビュータイトルに『Not worth the money』（値段に見合わない）というものがあり、他のレビューでもスタッフの対応への不満、ローカル列車と比較して割高だと感じたという声を複数確認した。安全性・清潔感に関する重大な指摘は確認できなかったが、価格への納得感にはばらつきがある。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "特急かわせみやませみ | JR KYUSHU D&S TRAINS D&S列車の旅", "url": "https://www.jrkyushu.co.jp/trains/kawasemiyamasemi/" },
+        { "type": "review_site", "title": "Kawasemi Yamasemi - All You SHOULD Know Before Going (2026 Reviews) - Tripadvisor", "url": "https://www.tripadvisor.com/Attraction_Review-g298213-d12350817-Reviews-Kawasemi_Yamasemi-Kumamoto_Kumamoto_Prefecture_Kyushu.html" },
+        { "type": "review_site", "title": "観光特急かわせみやませみ クチコミ・アクセス・周辺情報｜人吉 - フォートラベル", "url": "https://4travel.jp/dm_shisetsu/11852358" },
+        { "type": "other", "title": "特急 かわせみ やませみ | 人吉球磨ガイド", "url": "https://hitoyoshikuma-guide.com/2019/04/28/kawasemiyamasemi/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア67点で採用ライン（75点）を下回った。主因は数値評価の裏付けが単一情報源（Tripadvisor27件）にとどまり信頼性配点が低いこと、および2020年豪雨以降の肥薩線運行区間の最新状況をこのセッションでは確認できなかったこと（アクセス・鮮度の配点を保守的に評価）。次サイクル以降、運行区間の確認とレビュー件数の裏付けが取れれば再候補とする。"
+    },
+    {
+      "id": "2026-09-18-aru-ressha",
+      "name": "或る列車（JR九州 スイーツ・コース料理列車）",
+      "region": "福岡県福岡市（博多）〜大分県由布市（由布院）※長崎方面運行日もあり",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Tripadvisor", "score": 4.3, "scale": 5, "review_count": 13, "checked_date": "2026-09-18", "url": "https://www.tripadvisor.com/Attraction_Review-g298207-d12729292-Reviews-JR_Kyushu_Sweet_Train_Aru_Ressha-Fukuoka_Fukuoka_Prefecture_Kyushu.html" },
+        { "source": "食べログ（大分）", "score": 3.06, "scale": 5, "review_count": 14, "checked_date": "2026-09-18", "url": "https://tabelog.com/oita/A4401/A440101/44008827/" }
+      ],
+      "price_range_jpy": {
+        "note": "シェフ監修のコース料理付きプランで、区間・シーズンにより価格が変動する。正確な最新料金は、このセッションのWeb検索では確認できなかった。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "大正〜昭和初期に実在した皇族・華族専用車両『或る列車』をモチーフに、水戸岡鋭治氏デザインで復元した豪華列車。外観は金色に輝き、車内も宮殿のような装飾。九州食材を使ったコース料理を、走る車窓とともに楽しめる、他に類を見ない非日常体験。",
+      "target_audience": ["カップル", "夫婦", "記念日", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 5,
+        "unique_experience_score": 19,
+        "photogenic": 14,
+        "value_for_price": 5,
+        "sns_buzz": 7,
+        "access_and_freshness": 3
+      },
+      "score": 65,
+      "recommendation_reason": "外観・内装・コース料理という『ここでしかできない』体験の独自性は今回調査した3候補の中で最も高い。一方で、確認できた2つの独立した数値評価のうち食べログ（大分）が3.06（14件）と原則6の最低ライン4.0を大きく下回り、Tripadvisorの4.3（13件）も件数が少ない。2つの独立情報源を確認できた点は原則7を満たすが、いずれも評価の分かれ幅が大きく（Tripadvisorの内訳は13件中『普通』以下が2件）、総合的な信頼度は低いと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorのレビュー内訳（13件中：非常に良い9・良い2・普通0・悪い1・非常に悪い1）から、約15%が低評価であることを確認した。食べログでも評価点そのものが3点台にとどまっており、価格帯（コース料理付きの豪華列車として高価格帯）に対する満足度にばらつきがあることを示唆している。安全性・清潔感に関する重大な指摘はこのセッションでは確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "或る列車 | 事業紹介 | 企業情報 | JR九州", "url": "https://www.jrkyushu.co.jp/profile/aruressha/aruressha.jsp" },
+        { "type": "review_site", "title": "JR Kyushu Sweet Train Aru Ressha - All You SHOULD Know Before Going (2026 Reviews) - Tripadvisor", "url": "https://www.tripadvisor.com/Attraction_Review-g298207-d12729292-Reviews-JR_Kyushu_Sweet_Train_Aru_Ressha-Fukuoka_Fukuoka_Prefecture_Kyushu.html" },
+        { "type": "review_site", "title": "或る列車 - 大分/その他 | 食べログ", "url": "https://tabelog.com/oita/A4401/A440101/44008827/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア65点で採用ライン（75点）を下回った。主因は独立した2つの数値評価のうち食べログが3.06と原則6の最低ライン4.0を大きく下回ること、両情報源ともレビュー件数が少なく（13件・14件）信頼性配点が低いこと。体験自体の独自性・映え度は非常に高いため、次サイクル以降、レビュー件数の増加や他情報源での高評価が確認できれば再候補とする。"
+    }
+  ]
+}

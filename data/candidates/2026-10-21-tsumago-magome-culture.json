@@ -1,0 +1,140 @@
+{
+  "cycle_date": "2026-10-21",
+  "theme": "文化体験カテゴリ（長野県・中山道 妻籠宿・馬籠宿エリアに泊まる）",
+  "season_rationale": "10月下旬の木曽路は紅葉前の落ち着いたシーズンで、馬籠宿の紅葉見頃（例年11月上旬〜中旬）・妻籠宿近くの阿寺渓谷の紅葉（例年10月下旬〜11月上旬）に向けて旅行検討が動き出すタイミング。江戸時代の宿場町並みが保存された妻籠宿・馬籠宿を歩いたあとに立ち寄れる拠点を、紅葉本番前の今のうちに紹介する価値がある。",
+  "prior_posts_checked": [
+    { "caption_id": "2026-10-18-nara-hotel", "region": "奈良県奈良市高畑町", "category": "文化体験" },
+    { "caption_id": "2026-10-19-machiya-club-omihachiman", "region": "滋賀県近江八幡市", "category": "文化体験" },
+    { "caption_id": "2026-10-20-kurashiki-ivysquare", "region": "岡山県倉敷市本町（倉敷美観地区）", "category": "文化体験" },
+    { "candidate_id": "2026-09-22-honjin-hiranoya-kachoan", "region": "岐阜県高山市（飛騨高山・古い町並み）", "category": "文化体験", "note": "過去サイクル（2026-09-22）で岐阜県高山市『本陣平野屋 花兆庵』を既にcandidates/captions化済み。高山市と木曽路（南木曽町・妻籠宿・馬籠宿）は同じ中山道沿いの岐阜・長野の宿場町文化圏だが、所在地（飛騨高山 vs 木曽谷）・施設（本陣旅館 vs 木曽路の温泉宿）とも異なる新規候補のため重複に該当しないと判断した。" },
+    { "candidate_id": "2026-09-14-hoshinoya-kyoto", "region": "京都府京都市西京区（嵐山）", "category": "文化体験", "note": "1か月以上前のサイクル（2026-09-14）。地域・施設とも無関係で重複なし。" },
+    { "candidate_id": "2026-09-18-soki-kanazawa / 2026-09-18-nara-culture", "region": "石川県金沢市・奈良県", "category": "文化体験", "note": "1か月以上前のサイクル（2026-09-18）。地域が異なり重複なし。" }
+  ],
+  "duplication_note": "直近3件のcaptions（2026-10-18奈良／2026-10-19近江八幡／2026-10-20倉敷）はいずれも文化体験カテゴリで3件連続している。原則29の『地域・カテゴリの連続を避ける』観点ではカテゴリの連続が続くことになるが、本サイクルは依頼内容で明示的に『文化体験カテゴリ・長野県妻籠宿・馬籠宿エリア』を指定されているため、その方針に従った。地域については、captions/posts/data/candidates全体を確認した結果、過去1か月以上に遡っても妻籠宿・馬籠宿・南木曽町・木曽郡を扱った候補・投稿は存在しないことを確認した（最も近い既存候補は2026-09-22の岐阜県高山市『本陣平野屋 花兆庵』だが、所在地・施設ともに異なる）。地域重複はないと判断し、このまま調査を実施した。",
+  "candidates": [
+    {
+      "id": "2026-10-21-hotel-fukinomori",
+      "name": "富貴畑高原温泉 ホテル富貴の森",
+      "region": "長野県木曽郡南木曽町吾妻（妻籠宿から車で約10分）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル（人気ホテル・旅館ランキング／部屋カテゴリ評価）", "score": 4.42, "scale": 5, "review_count": 286, "checked_date": "2026-10-21", "url": "https://travel.rakuten.co.jp/ranking/nagano/kiso_0002_0_0_0_0.html" },
+        { "source": "jcation（Expediaレビュー集計）", "score": 4.6, "scale": 5, "review_count": 62, "checked_date": "2026-10-21", "url": "https://jcation.com/hotel/detail-12275" },
+        { "source": "フォートラベル", "score": 3.17, "scale": 5, "review_count": 4, "checked_date": "2026-10-21", "url": "https://4travel.jp/dm_hotel-10036503" }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベルの表示では最安料金の目安が10,910円〜（消費税込12,000円〜）だったが、部屋タイプ・プラン・時期により幅があると見られる。正確な最新料金は公式サイト・各予約サイトで要確認。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "木曽の深い森に包まれた高台にあり、トロリとしたアルカリ性の単純硫黄温泉が自慢の宿。檜造りの内湯と露天風呂があり、夜は満天の星を眺めながら湯あみできる。中山道の宿場町・妻籠宿まで車で約10分、馬籠宿へも足を延ばしやすい位置にあり、江戸時代の宿場町並みと馬籠峠の石畳道を歩いたあとに立ち寄れる『文化体験＋温泉』の拠点として機能する点が独自性。",
+      "renewal_or_news": "2026年10月時点で通常営業を継続していることを楽天トラベル・jcation・フォートラベル各サイトの直近投稿で確認。馬籠宿の紅葉見頃は例年11月上旬〜中旬、車で約25分の阿寺渓谷も10月下旬〜11月上旬に色づくため、紅葉本番前の予約検討タイミングに当たる。",
+      "target_audience": ["夫婦", "カップル", "温泉好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 11,
+        "unique_experience_score": 15,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 77,
+      "recommendation_reason": "楽天トラベル4.42（286件）、jcation（Expedia集計）4.6（62件）という2つの独立した情報源でいずれも推奨ライン4.0を上回る評価を確認した（原則6・7）。フォートラベルのみ3.17（4件）とやや低いが、件数が極端に少なく参考値にとどめた。木曽の森に囲まれたアルカリ性硫黄泉・満天の星の露天風呂という『非日常』と、妻籠宿・馬籠宿という中山道の保存町並みへのアクセスの良さを両立している点を評価し、紅葉本番前の今の時期に紹介する価値があると判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "cocolocala掲載の口コミの中に、浴室の清掃時間の案内方法を巡ってスタッフ対応に不満を述べる1.0点の投稿が1件あった。フォートラベルの評価も3.17（4件）とやや低めだが、件数が非常に少なく単独の体験に依存する可能性が高い。一方で楽天トラベル（286件）・jcation/Expedia（62件）という母数の大きい2つの独立ソースはいずれも4.4〜4.6と安定して高く、清潔感・接客に関する重大・複数の指摘が独立ソース間で一致して確認されたわけではないため、disqualifying_issues_foundはfalseとした。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "楽天トラベル 人気ホテル・旅館ランキング（長野県・木曽）", "url": "https://travel.rakuten.co.jp/ranking/nagano/kiso_0002_0_0_0_0.html" },
+        { "type": "review_site", "title": "ホテル富貴の森 レビュー集計 - jcation（Expedia）", "url": "https://jcation.com/hotel/detail-12275" },
+        { "type": "review_site", "title": "ホテル富貴の森の口コミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10036503" },
+        { "type": "booking_site", "title": "ホテル富貴の森 - Hotels.com", "url": "https://jp.hotels.com/ho1105509184/" },
+        { "type": "booking_site", "title": "ホテル富貴の森 - じゃらんnet", "url": "https://www.jalan.net/yad303802/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-21-taoya-kisoji",
+      "name": "TAOYA木曽路",
+      "region": "長野県木曽郡南木曽町吾妻（妻籠宿・馬籠宿まで車で約10分）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.84, "scale": 5, "review_count": 93, "checked_date": "2026-10-21", "url": "https://4travel.jp/dm_hotel-10036501" }
+      ],
+      "price_range_jpy": {
+        "note": "阪急交通社ツアー経由の掲載で、朝食・夕食付きの旅行代金が約79,900円〜約145,900円（日程により変動）という表示を確認した。宿単体の素泊まり・2食付き料金は公式サイトでの確認が必要。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "旧「南木曽温泉 ホテル木曽路」を2024年に大江戸温泉物語の新ブランド『TAOYA』としてリブランドオープンした全90室の大型温泉ホテル。大きな岩風呂と庭園の大露天風呂、オールインクルーシブ（ラウンジ・食事時のアルコール飲み放題）が特徴で、妻籠宿・馬籠宿まで車で約10分という立地。",
+      "renewal_or_news": "大江戸温泉物語ホテルズ&リゾーツ発表によると、TAOYAブランド6店舗目として2024年1月8日予約受付開始・同年にリブランドオープン。2026年も阪急交通社のツアー商品に組み込まれるなど継続的に販売されている。",
+      "target_audience": ["夫婦", "カップル", "家族", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 13,
+        "unique_experience_score": 15,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 2
+      },
+      "score": 74,
+      "recommendation_reason": "フォートラベルで3.84（93件）、楽天トラベル掲載情報では総合4.41という表示も確認できたが、この4.41はクチコミ件数を確認できなかったため正式なreview_scoresには含めず参考情報とした。大規模ホテルゆえの口コミ母数（93件）とオールインクルーシブの手軽さは魅力だが、フォートラベルの項目別評価で『アクセス』が3.26と低く、妻籠宿・馬籠宿という宿場町文化への接続という今回のテーマ軸では、より評価が安定しているホテル富貴の森をわずかに下回ると判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの項目別評価でアクセス3.26が他項目（風呂4.63・食事4.13）より低く、公共交通では南木曽駅から無料送迎バスを使う必要がある点が指摘されている。清潔感・接客・安全性に関わる重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "大江戸温泉物語が手がける温泉リゾートホテル【TAOYA】6つ目のホテル【TAOYA木曽路】予約受付開始 - 財経新聞", "url": "https://zaikei.co.jp/releases/2317563/" },
+        { "type": "review_site", "title": "TAOYA木曽路（旧ホテル木曽路）の口コミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10036501" },
+        { "type": "booking_site", "title": "TAOYA木曽路 掲載情報（楽天トラベル総合4.41表示）- travel.gpoint.co.jp", "url": "https://travel.gpoint.co.jp/daredoko/h37033/" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-21-takimi-house",
+      "name": "滝見の家（滝見温泉）",
+      "region": "長野県木曽郡南木曽町（南木曽駅・妻籠宿から送迎あり）",
+      "category": "文化体験",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "cocolocala", "score": 5.0, "scale": 5, "review_count": 2, "checked_date": "2026-10-21", "url": "https://www.cocolocala.jp/hotels/13019" }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では具体的な宿泊料金を確認できなかった。公式情報での要確認。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "1日1組限定・家族経営の小さな温泉宿で、実質的に貸切状態になる滝を望む露天風呂が特徴。オーナーが食事を手作りしてもてなすホスピタリティが口コミ・ブログで高く評価されている。南木曽駅・妻籠宿からの送迎あり。",
+      "target_audience": ["夫婦", "カップル", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 5,
+        "unique_experience_score": 16,
+        "photogenic": 10,
+        "value_for_price": 7,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 59,
+      "recommendation_reason": "確認できた口コミ（cocolocalaで2件、いずれも5.0）やブログ記事はすべて好意的で、貸切状態になる滝見の露天風呂・オーナーの手作り料理という独自性の高さ（原則8のHidden Gem候補の方向性）はあるが、独立した口コミサイトでの件数が極端に少なく、原則7の『最低2種類以上の独立情報源』を数値的エビデンスとして十分に満たせなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できた口コミは好意的な内容のみだったが、件数が非常に少なく（cocolocalaで2件程度）、悪い口コミの傾向を判断するための材料が不足している。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "滝見の家 口コミ - cocolocala", "url": "https://www.cocolocala.jp/hotels/13019" },
+        { "type": "other", "title": "Takimi House - japanese-onsen.com", "url": "https://japanese-onsen.com/?p=59147" },
+        { "type": "other", "title": "Takimi House, Nagano ryokan - Japan Cheapo", "url": "https://japancheapo.com/places-to-stay/takimi-house-nagano-ryokan/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数が極端に少なく（主要サイトで確認できたのは2件程度）、原則6の『件数とセットで信頼度を判断する』基準を満たす独立情報源を数値的に2種類以上確認できなかったため、Hidden Gem候補としても今回は正式選定を見送った。公式サイト・追加の口コミが確認できた時点で次サイクル以降に再評価する余地がある。"
+    }
+  ]
+}

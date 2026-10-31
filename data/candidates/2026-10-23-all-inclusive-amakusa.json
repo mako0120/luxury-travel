@@ -1,0 +1,145 @@
+{
+  "cycle_date": "2026-10-23",
+  "theme": "カテゴリ『オールインクルーシブ』×地域候補『熊本県天草エリア』",
+  "season_rationale": "10月下旬の天草は、海水浴シーズンが落ち着き台風の影響も減って、ドライブ・展望・海鮮グルメを楽しむのに適した気候になる時期。紅葉や雪のない温暖な島嶼エリアとして、年末年始の繁忙期前の予約検討が動き出すタイミングでもある（原則30）。カテゴリ『オールインクルーシブ』は直近3サイクル（2026-10-20宮古島THE SHIGIRA・2026-10-21三重鳥羽オーシャンリゾート・2026-10-22奄美大島=該当なし）で続けて調査対象になっているが、地域はこれまで沖縄・三重・鹿児島で、熊本県天草エリアは未調査だった。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-20-the-shigira-miyako", "region": "沖縄県宮古島市新城（シギラセブンマイルズリゾート内）", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-21-toba-ocean-resort", "region": "三重県鳥羽市安楽島町", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-22-amami-all-inclusive（該当なし・全件rejected）", "region": "鹿児島県奄美大島", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-21-zao-kokusai-hotel", "region": "山形県東根市", "category": "温泉旅館" },
+    { "post_id": "2026-10-22-daisen-view-hotel", "region": "鳥取県米子市・大山", "category": "絶景ホテル" },
+    { "post_id": "2026-10-22-gourmet-ryokan-kurokawa", "region": "熊本県阿蘇郡小国町・黒川温泉（約1日前・同一県だが別エリア・別カテゴリ）", "category": "グルメ旅館" },
+    { "post_id": "2026-09-14-onsen-kurokawa", "region": "熊本県黒川温泉（約1ヶ月前・同一県だが別エリア・別カテゴリ）", "category": "温泉旅館" }
+  ],
+  "duplication_note": "直近3サイクル連続でカテゴリ『オールインクルーシブ』を調査しているが、地域は宮古島（沖縄）・鳥羽（三重）・奄美大島（鹿児島・該当なし）であり、熊本県天草エリアとは重複しない。熊本県内では黒川温泉（2026-09-14・2026-10-22、いずれも温泉旅館／グルメ旅館カテゴリ）が登場しているが、天草エリアおよびオールインクルーシブカテゴリとしては初調査。重複チェックは直近数日だけでなく`data/candidates/`・`captions/`の全件（2026-09-14〜2026-10-22、約100件）をファイル名・内容（『天草』『Amakusa』を含むか）で確認し、該当する既存候補・投稿は一件も存在しないことを確認した。",
+  "research_note": "ユーザー指定の必須条件『オールインクルーシブプランを公式に明示している施設』を優先して探すため、WebSearchで『天草 オールインクルーシブ』『天草 ホテル 飲み放題 全食事込み』『Amakusa hotel all inclusive』など複数の日本語・英語クエリを試したが、天草エリア（天草市・上天草市）内で『オールインクルーシブ』を公式に明示している宿泊施設は確認できなかった。確認できた唯一の『オールインクルーシブ』表記施設（島原温泉ホテル南風楼）は長崎県島原市であり天草ではないため対象外とした。この事実を踏まえ、事実を捏造して『オールインクルーシブ』に適合させることは避け、天草エリア内で最も評価の高いリゾート系宿泊施設3件（天空の船／海のやすらぎホテル竜宮／ホテルアレグリアガーデンズ天草）を『オールインクルーシブに近い滞在型リゾート』として調査・採点したが、いずれも飲料・館内施設利用等を含む全包括プランの公式明記がなく、ユーザー指定の必須条件を満たさないため3件とも不採用とした。次サイクル以降は、オールインクルーシブ×天草という組み合わせ自体の再検討（別カテゴリでの天草紹介、または別地域でのオールインクルーシブ継続）を推奨する。",
+  "candidates": [
+    {
+      "id": "2026-10-23-amakusa-tenkunofune",
+      "name": "天草 天空の船",
+      "region": "熊本県上天草市松島町合津（天草五橋・松島）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.69, "scale": 5, "review_count": 380, "checked_date": "2026-10-23", "url": "https://travel.rakuten.co.jp/HOTEL/143273/143273_std.html" },
+        { "source": "Relux", "score": 4.6, "scale": 5, "review_count": 130, "checked_date": "2026-10-23", "url": "https://rlx.jp/24578/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらん掲載のスニペットで1泊大人2名合計（税込）67,760円〜・1名あたり33,880円〜という表示を確認。オールインクルーシブ対象プランかどうかの記載はなく、通常の1泊2食（イタリアン）付きプランとみられる。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "天草五橋を望む上天草市松島町の高台に立つ、全室オーシャンビュー・客室テラスに天然温泉の露天風呂を備えたリゾートホテル。建築デザイナー三澤浩之氏が設計し『空に浮かぶ豪華客船』をイメージした外観が特徴的。天草の食材を使ったイタリアンを提供し、夕陽の美しさを評価する声が多い。",
+      "renewal_or_news": "確認できる範囲で直近の大規模リニューアル・新プラン等の明確なニュースは見つからなかった。系列の新施設『天ノ寂』が2023年6月に開業している。",
+      "target_audience": ["カップル", "記念日", "夫婦", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 11,
+        "unique_experience_score": 10,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 2
+      },
+      "score": 70,
+      "recommendation_reason": "楽天トラベル4.69（380件）・Relux4.6（130件）という2つの独立情報源で高評価を確認。全室オーシャンビュー・客室テラスの露天風呂・建築的に特徴のある外観は写真映えする独自体験だが、『オールインクルーシブ』を公式に明示したプランではなく、飲料・館内施設利用等を含む全包括型の記載は確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "検索結果の範囲では重大な安全・衛生上の指摘は確認されなかったが、上天草市松島町は車移動が前提のエリアで公共交通のアクセスはやや弱い。レビュー件数（380件・130件）はじゃらんの620件という表示もあり媒体間で差があるため、母数の取り方に留意が必要。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "天草 天空の船 - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/143273/143273_std.html" },
+        { "type": "review_site", "title": "天草 天空の船の口コミ・レビュー - Relux", "url": "https://rlx.jp/24578/review/" },
+        { "type": "other", "title": "天草 天空の船 メディア紹介記事 - Precious.jp", "url": "https://precious.jp/articles/-/41862" },
+        { "type": "other", "title": "天草 天空の船 関連プレス - icotto", "url": "https://icotto.jp/presses/21828" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "レビュー評価自体は楽天トラベル4.69（380件）・Relux4.6（130件）と高水準だが、ユーザー指定の必須条件である『オールインクルーシブプランを公式に明示している施設』には該当しない。夕食・露天風呂付き客室という上質な体験はあるが、飲料・館内施設利用等を含む全包括プランの公式明記が確認できず、カテゴリ適合性の観点で不採用とした。"
+    },
+    {
+      "id": "2026-10-23-amakusa-ryukyu",
+      "name": "松島温泉 海のやすらぎ ホテル竜宮",
+      "region": "熊本県上天草市松島町合津（天草五橋・前島橋付近）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.64, "scale": 5, "review_count": 1481, "checked_date": "2026-10-23", "url": "https://travel.rakuten.co.jp/HOTEL/16615/CUSTOM/GW1661560417164343.html" },
+        { "source": "フォートラベル", "score": 3.6, "scale": 5, "review_count": 59, "checked_date": "2026-10-23", "url": "https://4travel.jp/dm_hotel-10052752" }
+      ],
+      "price_range_jpy": {
+        "note": "正確な1泊2食価格帯はWebSearchの範囲では確認できなかった。オールインクルーシブ対象プランの記載は確認できず。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "天草五橋4号橋（前島橋）付近に位置し、有明海・島々を望む展望浴場、貸切露天風呂、岩盤浴を備える宿。車海老やお造りなど海の幸を使った食事の評価が高く、フォートラベルの項目別評価では食事4.43・客室4.33。別棟『海ほたる』もある。",
+      "renewal_or_news": "確認できる範囲で直近のリニューアル・新プラン等の明確な最新ニュースは見つからなかった。",
+      "target_audience": ["夫婦", "カップル", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 12,
+        "unique_experience_score": 9,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 1
+      },
+      "score": 63,
+      "recommendation_reason": "楽天トラベル4.64（1,481件、件数が多く信頼性が高い）は高評価だが、フォートラベル3.6（59件）はそれより明確に低く、特に項目別のアクセス評価（3.49）が弱点として繰り返し指摘されている。食事（海の幸）の評価は高いが、『オールインクルーシブ』を公式に明示したプランは確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの項目別評価でアクセスが3.49と他項目（食事4.43・客室4.33）より明確に低く、アクセスがやや不便という指摘が複数確認された。重大な衛生・安全上の指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "松島温泉 海のやすらぎ ホテル竜宮 - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/16615/CUSTOM/GW1661560417164343.html" },
+        { "type": "review_site", "title": "松島温泉 海のやすらぎ ホテル竜宮の口コミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10052752" },
+        { "type": "other", "title": "松島温泉 海のやすらぎ ホテル竜宮 - icotto", "url": "https://icotto.jp/hotels/1845" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "楽天トラベル4.64（1,481件）は高評価だが、フォートラベル3.6（59件）はそれより低く、アクセス項目（3.49）が弱点として繰り返し指摘される。『オールインクルーシブ』を公式に明示したプランも確認できず、ユーザー指定の必須条件を満たさないため不採用とした。"
+    },
+    {
+      "id": "2026-10-23-amakusa-alegria-gardens",
+      "name": "ホテル アレグリアガーデンズ天草",
+      "region": "熊本県天草市（天草下島・本渡、有明海沿い）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.4, "scale": 5, "review_count": 1043, "checked_date": "2026-10-23", "url": "https://www.jalan.net/yad393885" },
+        { "source": "jcation", "score": 4.2, "scale": 5, "review_count": 46, "checked_date": "2026-10-23", "url": "https://jcation.com/hotel/detail-4719/" }
+      ],
+      "price_range_jpy": {
+        "note": "2026年8月3日〜2027年3月31日設定の夕食付きプラン『ワンランク上の天草の幸「曙」』『天草旬魚会席』で1人あたり18,700円〜26,950円程度の表示を確認。オールインクルーシブ対象プランの記載はない。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "有明海の大パノラマを望む敷地約5万平米の大型リゾートホテル（全55室）。別館温泉館『ペルラの湯船』、海を望むチャペルガーデンを併設。夕食は天草の旬魚を使った会席料理が中心。",
+      "renewal_or_news": "確認できる範囲で直近の大規模リニューアル・新プラン等の明確なニュースは見つからなかった。",
+      "target_audience": ["家族", "夫婦", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 11,
+        "unique_experience_score": 9,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 62,
+      "recommendation_reason": "じゃらんnet4.4（1,043件、件数が多く信頼性が高い）は良好だが、jcation4.2（46件）は規模が小さく参考程度。有明海を望む広大な敷地・チャペルガーデン・温泉は独自性があるが、『オールインクルーシブ』を公式に明示したプランは確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ（2026年2月投稿、cocolocala.jp）で『ホテルは少し経年劣化がある』という指摘、ツインルームが少ない、食事量が多すぎるという声が確認された。重大な安全・衛生上の指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "ホテル アレグリアガーデンズ天草 - じゃらんnet", "url": "https://www.jalan.net/yad393885" },
+        { "type": "review_site", "title": "ホテル アレグリアガーデンズ天草 - jcation", "url": "https://jcation.com/hotel/detail-4719/" },
+        { "type": "review_site", "title": "ホテル アレグリアガーデンズ天草 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10038573" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "じゃらんnet4.4（1,043件）は良好だが、jcation4.2（46件）は母数が小さく、施設の経年劣化を指摘する口コミも確認された。『オールインクルーシブ』を公式に明示したプランも確認できず、ユーザー指定の必須条件を満たさないため不採用とした。"
+    }
+  ]
+}

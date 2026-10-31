@@ -1,0 +1,156 @@
+{
+  "cycle_date": "2026-10-17",
+  "theme": "福島県いわき市いわき湯本温泉のサウナ施設",
+  "season_rationale": "10月中旬のいわき地方は朝晩が冷え込み始め、ロウリュ・外気浴で『ととのう』のに適した季節に入る（原則30: 秋は紅葉・温泉）。カテゴリ『サウナ』は2026-09-22（十勝川温泉）以来で、直近2投稿（石垣島・離島リゾート／箱根仙石原・絶景ホテル）とは地域・カテゴリとも重複しない（原則29）。いわき湯本温泉自体はこれまでの投稿で未取り上げの地域であり、道後・有馬と並ぶ『日本三古泉』のひとつという物語性がある。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-ana-intercontinental-ishigaki", "region": "沖縄県石垣市真栄里（マエサトビーチ）", "category": "離島リゾート" },
+    { "post_id": "2026-10-16-kai-sengokuhara", "region": "神奈川県箱根町仙石原", "category": "絶景ホテル" },
+    { "post_id": "2026-09-22-daiichi-hotel-tokachigawa", "region": "北海道河東郡音更町十勝川温泉南（十勝川温泉）", "category": "サウナ" }
+  ],
+  "duplication_note": "直近2投稿（石垣島・箱根）とは地域・カテゴリとも重複しない。カテゴリ『サウナ』自体は2026-09-22の十勝川温泉以来だが、その間に離島リゾート・絶景ホテルを挟んでおり連続はしていない。地域（福島県いわき市）は過去の候補・投稿データに一度も登場していない新規エリア（原則29）。",
+  "candidates": [
+    {
+      "id": "2026-10-17-hotel-izumiya-iwaki",
+      "name": "いわき湯本温泉 ホテルいづみや",
+      "region": "福島県いわき市常磐湯本町（いわき湯本温泉、JR常磐線湯本駅徒歩約3分）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらんnet",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 135,
+          "checked_date": "2026-10-17",
+          "url": "https://www.jalan.net/yad328670/"
+        },
+        {
+          "source": "フォートラベル",
+          "score": 3.08,
+          "scale": 5,
+          "review_count": 3,
+          "checked_date": "2026-10-17",
+          "url": "https://4travel.jp/dm_hotel-10055491"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では部屋タイプ別の正確な1泊料金帯は確定できなかった。全30室（洋室27・和室3）の中規模ホテルで、リニューアル前は比較的手頃な価格帯だったとの言及がある。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2025年12月にグランドオープン（全面リニューアル）し、ロウリュサウナと水風呂を新設。日本三古泉（道後・有馬と並ぶ）のひとつに数えられるいわき湯本温泉の源泉かけ流し大浴場を備え、JR湯本駅から徒歩約3分という駅近の立地も特徴。",
+      "renewal_or_news": "2025年12月グランドオープン。リニューアルでロウリュサウナ・水風呂を新設し、2026年2月以降の口コミでは清潔感・朝食への評価が上がっている。",
+      "target_audience": ["温泉好き", "ホテル好き", "一人旅", "友人"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 6,
+        "unique_experience_score": 13,
+        "photogenic": 7,
+        "value_for_price": 7,
+        "sns_buzz": 4,
+        "access_and_freshness": 5
+      },
+      "score": 60,
+      "recommendation_reason": "2025年12月のリニューアルでサウナ・水風呂が新設され、駅徒歩3分という立地に、日本三古泉のひとつという物語性が加わる点は魅力的。ただしじゃらんの総合評価・件数は検索するたびに3.9〜4.6／135〜140件とばらつきが大きく、フォートラベルも満足度3.08（クチコミ3件、かつ2022年のリニューアル前の投稿）と心強い裏付けにならず、原則7が求める『信頼できる独立2情報源』を十分な確度で満たせたとは言えない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2022年（リニューアル前）のフォートラベル投稿では『旅館というよりビジネスホテルを大きくした感じ』『客室にタバコ・カビのにおいがある』という指摘があった。一方、2026年2月以降のじゃらん口コミでは清潔感5.0・朝食の評価が高いなど改善を示す声もあり、どちらが現状を正しく反映しているか今回のWeb検索だけでは確定できなかった。清潔感に関する言及が時期によって大きく分かれる点は、原則10の観点で無視できないリスクと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "いわき湯本温泉 ホテルいづみや - 宿泊予約は＜じゃらんnet＞", "url": "https://www.jalan.net/yad328670/" },
+        { "type": "review_site", "title": "いわき湯本温泉 ホテルいづみや - フォートラベル", "url": "https://4travel.jp/dm_hotel-10055491" },
+        { "type": "review_site", "title": "朝食が美味しい/いわき湯本温泉 ホテルいづみやのクチコミ・評判 - じゃらんnet", "url": "https://www.jalan.net/yad328670/kuchikomi/detail_15063138/" },
+        { "type": "other", "title": "ホテルいづみや（いわき湯本温泉）- cocolocala", "url": "https://www.cocolocala.jp/hotels/3923" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア60点で採用ライン（75点）に届かず、またレビュー評価・件数がWeb検索結果間で大きくばらつき（原則7が求める信頼できる独立2情報源を満たす確度に欠ける）、清潔感に関する新旧の口コミの食い違いも解消できなかったため、今回は選定を見送った。"
+    },
+    {
+      "id": "2026-10-17-furutakiya-iwaki",
+      "name": "元禄彩雅宿 古滝屋",
+      "region": "福島県いわき市常磐湯本町三凹（いわき湯本温泉、温泉神社前）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "温泉なび（nifty）",
+          "score": 3.5,
+          "scale": 5,
+          "review_count": 23,
+          "checked_date": "2026-10-17",
+          "url": "https://onsen.nifty.com/iwaki-onsen/onsen000920/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な1泊2食価格帯は確定できなかった。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "温泉神社の目の前という立地で、9階の女性専用露天『天女の湯あみ』など趣の異なる浴場を持つ老舗旅館。じゃらんの設備欄に『サウナ』の記載があるが、今回のWeb検索ではサウナ室の詳細（温度・ロウリュの有無等）を確認できなかった。",
+      "target_audience": ["温泉好き", "一人旅", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 7,
+        "unique_experience_score": 9,
+        "photogenic": 7,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 44,
+      "recommendation_reason": "温泉神社前という立地や女性専用露天風呂に独自性はあるが、温泉なびの評価3.5（23件）は採用ライン（4.0以上）に届かず、独立した2件目の数値評価源も今回のWeb検索では確認できなかった（原則7未達）。サウナ設備自体の詳細（温度・ロウリュ等）も確認できず、カテゴリ『サウナ』として強く推す根拠が弱いと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "部屋の古さ・朝食の品数の少なさに関する不満が複数確認できた。清潔感・安全性に関わる重大な指摘ではないが、評価が採用ラインに届いていないこととあわせて選定を見送る材料とした。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "元禄彩雅宿 古滝屋の温泉情報、お得なクーポン、口コミ情報 - 温泉なび", "url": "https://onsen.nifty.com/iwaki-onsen/onsen000920/" },
+        { "type": "booking_site", "title": "古滝屋 - 宿泊予約は＜じゃらんnet＞", "url": "https://www.jalan.net/yad335663/" },
+        { "type": "other", "title": "いわき湯本温泉 元禄彩雅宿 古滝屋 - icotto", "url": "https://icotto.jp/hotels/461" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア44点で採用ライン（75点）を大きく下回り、主要レビュー評価も3.5（23件）と4.0未満のため見送った（原則6）。"
+    },
+    {
+      "id": "2026-10-17-iwaki-yuttari-kan",
+      "name": "ウェルネスパーク いわきゆったり館",
+      "region": "福島県いわき市常磐湯本町（いわき湯本温泉）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "入館料について、いわき市公表の資料では700円、別の紹介記事では2,000円と食い違いがあり、今回のWeb検索では確定できなかった。別棟に和室8室・洋室8室の宿泊施設がある。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2026年6月1日にリニューアルオープンした日帰り温浴施設（別棟に宿泊施設あり）。サウナ室を全面改装し、新設の水風呂も設置された。いわき湯本温泉の湯を引く施設。",
+      "renewal_or_news": "2026年6月1日リニューアルオープン。サウナ全面改装・水風呂新設、カフェ＆ダイニングのメニューも刷新。",
+      "target_audience": ["温泉好き", "一人旅", "家族"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 10,
+        "photogenic": 5,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 4
+      },
+      "score": 27,
+      "recommendation_reason": "2026年6月のリニューアルでサウナ・水風呂が新設された点は新しさがあるが、今回のWeb検索ではフォートラベル等の口コミサイトで数値評価（review_scores）を一件も確認できず、料金表示も資料間で食い違いがあった。日帰り主体の公衆浴場的な施設で『少し贅沢な旅』という本リポジトリの方向性とも距離があり、評価データの裏付け不足とブランドフィットの両面から見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "数値評価自体が確認できず、ポジティブ・ネガティブいずれの口コミも今回のWeb検索では十分に見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "新しくなった「ウェルネスパーク いわき ゆったり館」- いわき市", "url": "https://www.city.iwaki.lg.jp/www/contents/1782449091799/simple/iwaki20260708.pdf" },
+        { "type": "other", "title": "いわきゆったり館クアハウス - サウナイキタイ", "url": "https://sauna-ikitai.com/gym?page=11" },
+        { "type": "other", "title": "いわきゆったり館 紹介記事 - nap-camp", "url": "https://www.nap-camp.com/mag/68276" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価となるreview_scoresを確認できず原則7・6の採点根拠が不足していること、また料金情報の食い違いが解消できなかったことから選定を見送った。"
+    }
+  ]
+}

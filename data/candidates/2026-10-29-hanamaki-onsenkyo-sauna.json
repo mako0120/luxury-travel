@@ -1,0 +1,229 @@
+{
+  "cycle_date": "2026-10-29",
+  "theme": "サウナ（岩手県花巻市・花巻温泉郷）",
+  "season_rationale": "10月末〜11月上旬は花巻南温泉峡（豊沢川渓谷沿い）の紅葉が見頃〜後半にあたる時期で、山間部は朝晩の冷え込みが強まり始める。気温が下がるこの時期は、熱いサウナと源泉そのものを使った水風呂・渓流を望む外気浴とのコントラストが特に心地よく、紅葉とセットで訴求しやすい好機と判断した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-28-towada-tsutaonsen-sauna / 2026-10-28-oirase-keiryu-towada-sauna", "region": "青森県十和田市（奥入瀬渓流・十和田湖畔）", "category": "サウナ" },
+    { "post_id": "2026-10-27-tsuchiyu-onsen-sauna / 2026-10-27-sansousou-tsuchiyu", "region": "福島県福島市土湯温泉町", "category": "サウナ" },
+    { "post_id": "2026-10-26-sakaya-ryokan-nozawa", "region": "長野県下高井郡野沢温泉村", "category": "サウナ" },
+    { "post_id": "2026-10-18-hanamaki-onsenkyo", "region": "岩手県花巻市花巻温泉郷（花巻南温泉峡）", "category": "温泉旅館" },
+    { "post_id": "2026-10-24-geibikei-funakudari", "region": "岩手県一関市（猊鼻渓）", "category": "アクティビティ" },
+    { "post_id": "2026-10-23-asamushi-onsen-ryokan", "region": "青森県青森市浅虫温泉", "category": "温泉旅館" }
+  ],
+  "duplication_note": "data/candidates・captions全件（1ヶ月以上前を含む）を『花巻』『岩手』『鉛温泉』『サウナ』で横断検索した。カテゴリ『サウナ』×岩手県花巻市を扱った候補・制作物は過去に一件も存在しない。唯一の地域重複は2026-10-18付『岩手県花巻市花巻温泉郷』だが、これはカテゴリ『温泉旅館』として山の神温泉 優香苑（selected）・游泉志だて・鉛温泉 藤三旅館 別邸『心の刻 十三月』（いずれも本館ではない別邸）を調査したもので、カテゴリ・調査対象施設とも今回とは異なる。鉛温泉 藤三旅館の本館サウナ『なめとこ山サウナ』は2026-10-18付ファイルには一切登場していない新規候補である。山の神温泉 優香苑は本サイクルでもサウナ設備の有無を再確認したが、2026-10-18に温泉旅館カテゴリで既にselected済みのため、同一施設の近接重複を避ける観点でサウナカテゴリでの再選定は見送った（詳細は候補内rejection_reason参照）。",
+  "candidates": [
+    {
+      "id": "2026-10-29-namari-onsen-fujisan-nametoko-sauna",
+      "name": "鉛温泉 藤三旅館「なめとこ山サウナ」",
+      "region": "岩手県花巻市鉛中平（花巻温泉郷・鉛温泉、豊沢川渓谷沿いの一軒宿）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "ニフティ温泉（鉛温泉 藤三旅館の温泉口コミ）",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 60,
+          "checked_date": "2026-10-29",
+          "url": "https://onsen.nifty.com/hanamaki-onsen/onsen005801/kuchikomi/"
+        },
+        {
+          "source": "楽天トラベル（岩手 花巻温泉郷 鉛温泉 藤三旅館 クチコミ・レビュー）",
+          "score": 4.49,
+          "scale": 5,
+          "review_count": 2501,
+          "checked_date": "2026-10-29",
+          "url": "https://travel.rakuten.co.jp/HOTEL/9536/review.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "日帰り入浴は大人800円・小人（3〜12歳）600円、営業時間10:00〜20:00（閉館21:00）という掲載を確認した。宿泊料金は部屋タイプ・時期により幅があり、紹介記事では大人1名（参考価格）1万1,900円という表示や、別の比較サイトでは1室1泊最安6,000円という表示も見られたが、本セッションでは正確な最新の部屋別価格帯を確定できなかった。なお『なめとこ山サウナ』自体に日帰り入浴料とは別の追加利用料が必要かどうかは、本セッションの検索範囲では確認できなかった。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "館内4浴場すべてが加熱・循環・差し水なしの完全源泉かけ流しという鉛温泉 藤三旅館（総けやきづくり、登録有形文化財）は、日本一深いとされる混浴の立ち湯・自噴岩風呂『白猿の湯』（深さ平均1.25m）で知られる一軒宿。2024年1月に浴場『白糸の湯』をリニューアルし、同館に縁の深い宮沢賢治の童話『なめとこ山の熊』をテーマにした『なめとこ山サウナ』をグランドオープンした。サウナ室には『なめとこ山の熊』や『賢治さん』のシルエットをイメージしたデザインが施され、サウナストーブは宮沢賢治『銀河鉄道の夜』を思わせる銀河鉄道モチーフで、セルフロウリュにも対応。水風呂は本館名物『白猿の湯』と同じ平均深度1.25mに設定されており、外気浴では豊沢川と白糸の滝を望める。源泉そのものの完全かけ流し温泉と、地元・花巻ゆかりの文学的テーマを融合させたサウナという組み合わせは他では見られない独自性がある。",
+      "renewal_or_news": "2024年1月に浴場『白糸の湯』をリニューアルし『なめとこ山サウナ』を新設・グランドオープンしたばかりの比較的新しい設備で、2026年10月時点でも紹介記事・予約サイトの施設紹介に『(2024年OPEN)』として掲載が続いており鮮度は維持されている。",
+      "target_audience": ["カップル", "夫婦", "記念日", "温泉好き", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 13,
+        "unique_experience_score": 19,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 83,
+      "recommendation_reason": "ニフティ温泉4.6点（60件）・楽天トラベル4.49点（2,501件）という件数・信頼性ともに十分な独立2情報源でいずれも採用ライン（4.0以上）を大きく上回った（review_rating 22/25・review_reliability 13/15）。日本一深いとされる自噴岩風呂『白猿の湯』と同じ深さの水風呂、宮沢賢治『なめとこ山の熊』『銀河鉄道の夜』をテーマにした意匠、完全源泉かけ流しという要素が重なる独自性（unique_experience_score 19/20）を高く評価した。一方、なめとこ山サウナ単体の数値口コミやSNS話題性の裏付けは本セッションでは確認できず、sns_buzzは6/10に抑えている。総合83点でselectedとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一休・icotto等の口コミでは『建物の古さは仕方ないが、もう少し清掃に力を入れても』『設備は古く小綺麗とは言い難い』といった、歴史ある木造建築ゆえの古さ・清掃面への指摘が複数見られた。2023年12月の口コミ（評価2.5）では訪問時に浴場の一部が工事中で利用できなかったという指摘もあった。別邸『心の刻 十三月』ではタオルの古さ・食事の量や味付けへの不満も見られたが、これは本館とは別の客室ブランドの口コミである。『白猿の湯』自体は唯一無二と高く評価する声が多数で、衛生・安全面の重大な指摘や『なめとこ山サウナ』単体への否定的言及は、本セッションの検索範囲では見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "press",
+          "title": "岩手・花巻 鉛温泉 藤三旅館に宮沢賢治をテーマにした「なめとこ山サウナ」がグランドオープン",
+          "url": "https://sp.jorudan.co.jp/onsen/news/jrd_240611_2/"
+        },
+        {
+          "type": "review_site",
+          "title": "鉛温泉 藤三旅館の温泉情報・口コミ（4.6点・60件） - ニフティ温泉",
+          "url": "https://onsen.nifty.com/hanamaki-onsen/onsen005801/kuchikomi/"
+        },
+        {
+          "type": "booking_site",
+          "title": "岩手 花巻温泉郷 鉛温泉 藤三旅館 に実際に泊まった方のクチコミ・レビュー（総合4.49・2,501件） - 楽天トラベル",
+          "url": "https://travel.rakuten.co.jp/HOTEL/9536/review.html"
+        },
+        {
+          "type": "press",
+          "title": "【岩手県の人気日帰り温泉】「鉛温泉 藤三旅館」は完全源泉かけ流しと宮沢賢治の世界観を楽しめる施設。立居浴専用の「白猿の湯」で至高の温浴体験 - All About",
+          "url": "https://news.allabout.co.jp/articles/o/129777/"
+        },
+        {
+          "type": "other",
+          "title": "鉛温泉 藤三旅館 施設情報（日帰り入浴料・営業時間） - jorudan温泉",
+          "url": "https://sp.jorudan.co.jp/onsen/details/265/"
+        }
+      ],
+      "decision": "selected",
+      "creator_story": {
+        "text": "『なめとこ山サウナ』の設計者・運営者個人の名前を挙げたコンセプト発言や改修方針のインタビューは、本セッションの検索範囲（WebSearch経由。onsen.nifty.comやtravel.rakuten.co.jpなど一部ドメインへの直接WebFetchはネットワーク制限により接続できず、検索結果スニペット経由の確認に限られた）では確認できなかった。確認できた一次・準一次的な情報は、運営会社が発表したオープン告知記事（jorudan温泉ニュース）の内容にとどまる。そこでは、運営は鉛温泉株式会社であり、宮沢賢治が藤三旅館の家系と親戚関係にあったため幼いころから当館をよく訪れていたとされ、賢治の作品に実名で登場する宿は同館のみと紹介されている。2024年1月のリニューアルでは浴場『白糸の湯』に、賢治の童話『なめとこ山の熊』をテーマにしたサウナ室（『なめとこ山の熊』『賢治さん』のシルエットをイメージした意匠）と、『銀河鉄道の夜』を思わせる銀河鉄道モチーフのサウナストーブ（セルフロウリュ対応）を新設したことが説明されている。水風呂の深さを名物『白猿の湯』と同じ1.25mに揃えた点も、本館の看板である『深い湯』という特徴を新設備にも引き継ぐ狙いがあったと推測はできるが、これは周辺情報からの推測であり、運営者自身がそのような意図を語ったことを示す一次情報は本セッションでは確認できなかった。したがって、設計を担当した個人や改修プロジェクトの詳しい経緯・込めた思いについては『確認できなかった』こととし、推測や発言の創作は行わない。",
+        "sources": [
+          {
+            "type": "press",
+            "title": "岩手・花巻 鉛温泉 藤三旅館に宮沢賢治をテーマにした「なめとこ山サウナ」がグランドオープン",
+            "url": "https://sp.jorudan.co.jp/onsen/news/jrd_240611_2/"
+          },
+          {
+            "type": "press",
+            "title": "【岩手県の人気日帰り温泉】「鉛温泉 藤三旅館」は完全源泉かけ流しと宮沢賢治の世界観を楽しめる施設。立居浴専用の「白猿の湯」で至高の温浴体験 - All About",
+            "url": "https://news.allabout.co.jp/articles/o/129777/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-10-29-hanamaki-onsen-koyokan-sauna",
+      "name": "花巻温泉 ホテル紅葉館（サウナ・クールダウンテラス）",
+      "region": "岩手県花巻市湯本（花巻温泉郷・花巻温泉）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル（ホテル紅葉館 宿泊者口コミ）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-29",
+          "url": "https://4travel.jp/dm_hotel-10040123"
+        },
+        {
+          "source": "ニフティ温泉（花巻温泉 ホテル紅葉館の温泉口コミ、投稿は2006年時点で古い）",
+          "score": 2.3,
+          "scale": 5,
+          "review_count": 6,
+          "checked_date": "2026-10-29",
+          "url": "https://onsen.nifty.com/hanamaki-onsen/onsen000436/kuchikomi/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションでは宿泊・日帰りの正確な最新価格帯を確認できなかった。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "開放感のある岩露天風呂『紅葉の湯』にサウナを備え、2022年12月にはサウナ後の外気浴に適した『クールダウンテラス』が新設されたと紹介されている。隣接するホテル千秋閣・ホテル花巻の大浴場・露天風呂も宿泊者は無料で利用できる。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 5,
+        "unique_experience_score": 10,
+        "photogenic": 8,
+        "value_for_price": 6,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 45,
+      "recommendation_reason": "サウナ・クールダウンテラスという設備自体は公式系ページで確認できたが、サウナ単体への口コミは見当たらず、確認できた数値口コミ（フォートラベル4.0・1件、ニフティ温泉2.3/6件かつ2006年時点の古いデータ）は件数・鮮度ともに乏しく信頼できる独立2情報源での裏付けが取れなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ニフティ温泉の古い口コミ（2006年）では施設の傷みを指摘する声があった。フォートラベルでは浴場が改装中だったことを残念に感じる口コミが見られた。サウナ単体への否定的言及は確認できなかったが、評価自体の裏付けが薄い。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "press",
+          "title": "【岩手県の人気ホテル】「花巻温泉 ホテル紅葉館」は開放感あふれる岩露天風呂が魅力! みちのくの四季を全身で感じられる温泉リゾート - All About",
+          "url": "https://news.allabout.co.jp/articles/o/106947/"
+        },
+        {
+          "type": "review_site",
+          "title": "花巻温泉 ホテル紅葉館のクチコミ情報 - フォートラベル",
+          "url": "https://4travel.jp/dm_hotel-10040123"
+        },
+        {
+          "type": "review_site",
+          "title": "花巻温泉 ホテル紅葉館の温泉情報・口コミ - ニフティ温泉",
+          "url": "https://onsen.nifty.com/hanamaki-onsen/onsen000436/kuchikomi/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score 45点で採用ライン（75点）に届かず、サウナ単体の信頼できる数値評価・独立2情報源での裏付けが取れなかったため見送った。"
+    },
+    {
+      "id": "2026-10-29-yamanokami-yukaen-sauna-recheck",
+      "name": "山の神温泉 優香苑（新露天風呂サウナ・サウナカテゴリ再検討）",
+      "region": "岩手県花巻市下シ沢字中野（花巻温泉郷・花巻南温泉峡）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Trip.com",
+          "score": 8.8,
+          "scale": 10,
+          "review_count": 13,
+          "checked_date": "2026-10-29",
+          "url": "https://jp.trip.com/hotels/hanamaki-hotel-detail-61947466/yuukaen/"
+        },
+        {
+          "source": "Googleクチコミ（All About『岩手県の人気ホテル』シリーズの選定基準値：500件以上・平均4.0超として優香苑が掲載対象に含まれている）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 500,
+          "checked_date": "2026-10-29",
+          "url": "https://news.allabout.co.jp/articles/o/120824/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "2026-10-18サイクル時点の確認では、記事により大人1名1万5,400円〜・別記事では2万3,100円という表示が確認されていた。本サイクルでは価格の再確認は行っていない。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "花巻南温泉峡最大級と紹介される大露天風呂『とよさわ乃湯』に、2024年前後にサウナを併設した新露天風呂が増設されたと2026-10-18サイクルの調査で確認している。本サイクルでは、サウナカテゴリ単独の魅力・話題性として改めて検討したが、サウナ自体を主題にした紹介記事・口コミは本セッションでは新たに見つからなかった。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "カップル"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 11,
+        "unique_experience_score": 10,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 66,
+      "recommendation_reason": "施設全体の評価は高いが、サウナ単体としての独自性・話題性の裏付けが本セッションでは確認できず、unique_experience_score・sns_buzzを低めに評価した結果66点で採用ライン（75点）に届かなかった。加えて、本施設は2026-10-18サイクルで既に温泉旅館カテゴリとしてselected済み（score 77）であり、至近日に別カテゴリで同一施設を再掲載することは内容の重複につながるため、スコアの観点でも重複回避の観点でも見送るべき候補と判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本サイクルの検索ではサウナ単体の口コミ・言及は見当たらなかった。2026-10-18サイクル確認時点では、接客面について単一の低評価口コミ（icotto・評価3.0）があったが、重大な指摘ではない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "山の神温泉 優香苑 - Trip.com ホテル詳細（8.8/10, 13件）", "url": "https://jp.trip.com/hotels/hanamaki-hotel-detail-61947466/yuukaen/" },
+        { "type": "press", "title": "【花巻南温泉峡の人気ホテル】「花巻温泉郷 山の神温泉 優香苑」は宮大工建築の美しさと極上のとろとろ温泉が魅力 - All About", "url": "https://news.allabout.co.jp/articles/o/120824/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score 66点で採用ライン（75点）に届かず、またサウナカテゴリとしては2026-10-18サイクルで既にselected済みの同一施設（温泉旅館カテゴリ）との内容重複を避けるため見送った。"
+    }
+  ]
+}

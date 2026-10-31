@@ -1,0 +1,181 @@
+{
+  "cycle_date": "2026-10-27",
+  "theme": "温泉旅館（秋田県仙北市乳頭温泉郷）",
+  "season_rationale": "乳頭温泉郷は11月に入ると紅葉が深まり、ブナ林の中の露天風呂が紅葉・初雪と組み合わせて楽しめる時期に入る。雪見露天が本格的な見頃を迎える厳冬期・年末年始の予約混雑が本格化する前の、比較的落ち着いて計画しやすい時期でもある。これまで本リポジトリでは温泉旅館カテゴリとして群馬・草津・伊香保・箱根方面を含む各地の名湯を扱ってきたが、東北屈指の秘湯として知られる秋田県仙北市の乳頭温泉郷そのものは未扱いであり、地域を初めて深掘りする意図で選定した（原則4：最新性の確認）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-23-asamushi-onsen-ryokan", "region": "青森県青森市浅虫温泉（ホテル秋田屋）", "category": "温泉旅館", "note": "施設名に『秋田』を含むため検索に引っかかったが、所在地は青森県浅虫温泉であり秋田県・乳頭温泉郷とは無関係（名称の一致による誤検出）" },
+    { "post_id": "2026-09-14-onsen-kurokawa", "region": "熊本県黒川温泉", "category": "温泉旅館", "note": "同じ温泉旅館カテゴリだが熊本県で地域が異なる" },
+    { "post_id": "2026-10-26-ikaho-onsen-ryokan", "region": "群馬県渋川市伊香保温泉", "category": "温泉旅館", "note": "同じ温泉旅館カテゴリだが群馬県伊香保温泉で地域が異なる" }
+  ],
+  "duplication_note": "依頼時点の指定は『カテゴリ：温泉旅館／地域：秋田県仙北市乳頭温泉郷』。重複回避のため captions/・data/candidates/ の全履歴（2026-09-14〜2026-10-26、1ヶ月以上前の分も含む）を『乳頭』『仙北』『田沢湖』『鶴の湯』『妙乃湯』『蟹場』『黒湯』『孫六』『秋田』で全件grepした結果、『秋田』で1件ヒットしたが、所在地が青森県浅虫温泉の『ホテル秋田屋』であり施設名の一致による誤検出と確認した。乳頭温泉郷・仙北市・田沢湖エリアの施設はこれまで候補・採用として一度も登場していない。地域・カテゴリとも完全に新規。",
+  "candidates": [
+    {
+      "id": "2026-10-27-nyuto-onsenkyo-tsurunoyu",
+      "name": "乳頭温泉郷 鶴の湯温泉",
+      "region": "秋田県仙北市田沢湖田沢字先達沢国有林（乳頭温泉郷）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "ニフティ温泉 口コミ集計（最新投稿2024年1月7日時点）",
+          "score": 4.3,
+          "scale": 5,
+          "review_count": 166,
+          "checked_date": "2026-10-27",
+          "url": "https://onsen.nifty.com/kakunodate-onsen/onsen000615/kuchikomi/"
+        },
+        {
+          "source": "icotto掲載（フォートラベル集計値）",
+          "score": 4.39,
+          "scale": 5,
+          "review_count": 309,
+          "checked_date": "2026-10-27",
+          "url": "https://icotto.jp/hotels/2"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "情報源・掲載時期により表記が異なる。2021年時点の口コミ情報では、本陣が1名12,250円（税込）、新本陣・東本陣が14,450〜19,950円、一号館が12,800円、二号館・三号館（湯治部屋）が9,830円という掲載があった。別の雑誌記事（和樂）では2名1室利用時1名あたり1泊2食10,600円（税込）〜で、冬期（概ね10月〜5月）は暖房費が1室あたり別途1,320円かかるとされる。いずれも調査時点・税込表記の違いにより単純比較できないため、推測はせず、予約時に公式サイトまたは電話（0187-46-2139）で最新金額を確認する必要がある。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "乳頭温泉郷の最奥に位置する、350年以上の歴史を持つ秋田藩主ゆかりの湯治場。客室として使われる茅葺屋根の長屋（本陣）は、2代目藩主佐竹義隆の湯治に随行した従者の詰所が元とされ、2010年に登録有形文化財に登録されている。白湯・黒湯・中の湯・滝の湯という泉質の異なる4つの自家源泉を持ち、名物は乳白色で全国でも数少ない『足元湧出』の混浴露天風呂『白湯』（美人の湯とも呼ばれる）。乳白色の湯と湯気で視線を気にしにくいとされ、女性専用の露天風呂も別に用意されている。",
+      "renewal_or_news": "2026年時点での明確なリニューアル情報は確認できなかったが、客室として使われる茅葺屋根の本陣が2010年に登録有形文化財に登録されている点は、現在も複数の観光メディア・観光推進機構のページで継続して紹介されている（確認できた事実のみ記載し、推測は避けた）。",
+      "target_audience": ["温泉好き", "カップル", "一人旅", "記念日"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 13,
+        "unique_experience_score": 19,
+        "photogenic": 14,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 3
+      },
+      "score": 85,
+      "recommendation_reason": "ニフティ温泉（4.3点・166件）、icotto掲載のフォートラベル集計値（4.39点・309件）という2つの独立した情報源でともに採用ライン（4.0以上）を大きく上回り、件数規模も十分で評価が安定している。350年以上の歴史を持つ秋田藩主ゆかりの湯治場、登録有形文化財の茅葺屋根本陣、泉質の異なる4つの自家源泉、全国でも数少ない足元湧出の乳白色混浴露天風呂『白湯』など、他の温泉旅館にはない圧倒的な独自性と『伝えやすい絵』を持つ。知名度自体は高いが、乳頭温泉郷という地域・鶴の湯という施設単体は本リポジトリで未扱いであり、歴史・泉質の背景まで含めて改めて丁寧に紹介する価値がある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ニフティ温泉166件・icotto経由フォートラベル309件とも『風呂』の評価が特に高い（icotto経由では風呂4.69）一方、バリアフリーは2.43程度と低め。2024年1月の口コミでは、日帰り入浴客が使える無料ロッカーが混浴露天風呂から離れた建物にしかなく、近くには有料ロッカーしかないという不満が複数人の支持を得ていた。2024年10月の口コミでは観光客が多く混雑して落ち着いて入浴できなかったという指摘もあった。重大な衛生・安全上の問題や予約対応トラブルの多発は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "鶴の湯温泉 公式サイト", "url": "http://www.tsurunoyu.com/" },
+        { "type": "review_site", "title": "乳頭温泉郷 鶴の湯温泉 クチコミ（4.3点・166件、最新投稿2024年1月7日） - ニフティ温泉", "url": "https://onsen.nifty.com/kakunodate-onsen/onsen000615/kuchikomi/" },
+        { "type": "review_site", "title": "乳頭温泉郷 秘湯 鶴の湯温泉 クチコミ（フォートラベル集計値 満足度4.39・309件） - icotto", "url": "https://icotto.jp/hotels/2" },
+        { "type": "other", "title": "鶴の湯温泉 施設紹介（歴史・登録有形文化財の本陣など） - 東北観光推進機構", "url": "https://www.tohokukanko.jp/attractions/detail_1776.html" },
+        { "type": "press", "title": "4つの源泉が楽しめる由緒ある秘湯「乳頭温泉郷 鶴の湯」(秋田県) - BE-PAL", "url": "https://www.bepal.net/archives/34069" },
+        { "type": "press", "title": "鶴の湯温泉 本陣の料金・暖房費情報（2023年2・3月号転載） - 和樂web", "url": "https://intojapanwaraku.com/?p=234308" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-27-nyuto-onsenkyo-taenoyu",
+      "name": "乳頭温泉郷 妙乃湯",
+      "region": "秋田県仙北市田沢湖生保内駒ヶ岳2-1（乳頭温泉郷）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル みんなの満足度",
+          "score": 3.8,
+          "scale": 5,
+          "review_count": 280,
+          "checked_date": "2026-10-27",
+          "url": "https://4travel.jp/dm_hotel-10062072"
+        },
+        {
+          "source": "ニフティ温泉 口コミ集計（最新投稿2017年2月時点、情報が古い点に留意）",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 55,
+          "checked_date": "2026-10-27",
+          "url": "https://onsen.nifty.com/kakunodate-onsen/onsen000621/kuchikomi/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "今回のWeb調査では公式一次情報での具体的な1泊2食料金を確認できなかった。予約時に公式サイト・予約サイトで最新金額の確認が必須。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "鉄分を含む赤褐色の『金の湯』と無色透明の『銀の湯』という2種類の自家源泉を持ち、渓流に面した木造りの混浴露天風呂・岩風呂・寝湯・青森ヒバの内湯など趣の異なる湯を楽しめる。乳頭温泉郷の中でも『一番おしゃれ』と評されるモダンな内装・囲炉裏のあるラウンジがあり、女性人気が高い宿として知られる。",
+      "target_audience": ["女子旅", "カップル", "記念日", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 11,
+        "unique_experience_score": 16,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 3
+      },
+      "score": 75,
+      "recommendation_reason": "フォートラベル（3.8点・280件）、ニフティ温泉（4.4点・55件、投稿は2017年時点でやや古い）という2つの独立した情報源で確認でき、ニフティでは採用ライン（4.0以上）を満たす。金の湯・銀の湯という2種の自家源泉と、乳頭温泉郷の中でも『一番おしゃれ』と評されるモダンな内装・渓流沿いの混浴露天風呂という『伝えやすい絵』があり、女子旅・カップル需要に強い。ただしアクセス・バリアフリー評価が低めな点、価格が一次情報で確認できない点には留意が必要。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベル280件は満足度3.8で、項目別ではアクセス3.17・バリアフリー2.79が低め。女性用大浴場の湯船がそれほど大きくないという指摘や、日帰り入浴客で日中の時間帯が混み合うという声も見られた。重大な衛生・安全上の問題や予約対応トラブルの多発は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "乳頭温泉郷 妙乃湯 クチコミ（満足度3.8・280件） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10062072" },
+        { "type": "review_site", "title": "妙乃湯 クチコミ（4.4点・55件、最新投稿2017年2月） - ニフティ温泉", "url": "https://onsen.nifty.com/kakunodate-onsen/onsen000621/kuchikomi/" },
+        { "type": "other", "title": "乳頭温泉郷 妙乃湯 施設情報（金の湯・銀の湯、アクセス等） - るるぶ&more", "url": "https://rurubu.jp/andmore/spot/80004161" },
+        { "type": "other", "title": "乳頭温泉郷 妙乃湯 クチコミ集計 - icotto", "url": "https://icotto.jp/hotels/1804" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-27-nyuto-onsenkyo-ganiba",
+      "name": "乳頭温泉郷 蟹場温泉",
+      "region": "秋田県仙北市田沢湖田沢字先達沢（乳頭温泉郷最北）",
+      "category": "温泉旅館",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "ニフティ温泉 口コミ集計",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 63,
+          "checked_date": "2026-10-27",
+          "url": "https://onsen.nifty.com/kakunodate-onsen/onsen000617/"
+        },
+        {
+          "source": "icotto掲載（フォートラベル集計値、総合評価の表示形式にやや不明瞭さあり）",
+          "score": 3.43,
+          "scale": 5,
+          "review_count": 36,
+          "checked_date": "2026-10-27",
+          "url": "https://icotto.jp/hotels/6031"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "今回のWeb調査では公式一次情報での具体的な1泊2食料金を確認できなかった。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "乳頭温泉郷最北の一軒宿。敷地内に自家源泉を2本持ち、すべての湯船が源泉かけ流しとされる。原生林（ブナ林）に包まれた露天風呂が人気で、鄙びた湯治場の雰囲気が残る。",
+      "target_audience": ["一人旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 8,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 63,
+      "recommendation_reason": "ニフティ温泉（4.0点・63件）では採用ラインぎりぎりを満たすが、icotto掲載のフォートラベル集計値では総合評価が3.43程度（アクセス3.17・バリアフリー2.09と低め）とばらつきが大きく、score_breakdown合計は63点で75点基準に届かなかった。原生林に包まれた露天風呂など独自性はあるが、現時点のレビュー評価・件数の確証では選定を見送る。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icotto経由のフォートラベル集計では風呂4.60と高評価だが、アクセス3.17・バリアフリー2.09と低く、食事3.46、総合評価も3.43程度とばらつきが大きい。『食事がシンプル』『冬は非常に静かで人里離れている』という声があった。重大な衛生・安全上の問題は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "蟹場温泉 クチコミ（4.0点・63件） - ニフティ温泉", "url": "https://onsen.nifty.com/kakunodate-onsen/onsen000617/" },
+        { "type": "review_site", "title": "蟹場温泉 クチコミ集計（フォートラベル集計値） - icotto", "url": "https://icotto.jp/hotels/6031" },
+        { "type": "other", "title": "蟹場温泉 掲載ページ - JTB国内旅行", "url": "https://www.jtb.co.jp/kokunai_jr/t/k_th/0507/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "ニフティ温泉では4.0点（63件）と採用ラインぎりぎりだが、icotto掲載のフォートラベル集計値では総合評価が3.43程度（アクセス3.17・バリアフリー2.09と低め）であり、score_breakdown合計が63点と75点基準に届かなかった。原生林の露天風呂など独自性はあるが、現時点のレビュー評価・件数の確証では今回は見送りとした。"
+    }
+  ]
+}

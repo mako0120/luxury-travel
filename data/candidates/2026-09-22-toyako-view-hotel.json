@@ -1,0 +1,153 @@
+{
+  "cycle_date": "2026-09-22",
+  "theme": "北海道洞爺湖温泉の絶景（レイクビュー）ホテル",
+  "season_rationale": "9月下旬の洞爺湖温泉は残暑が落ち着き、空気が澄んで羊蹄山と湖面のコントラストがはっきり見えるシーズン。10月上旬までロングラン花火大会『洞爺湖ロングラン花火大会』が続いており、客室・大浴場から湖上花火を鑑賞できる時期でもある。紅葉本番（10月中旬〜）や本格的な積雪期に入る前の、秋の湖畔旅を検討し始める層が動き出すタイミング（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-21-kerama-terrace", "region": "沖縄県島尻郡渡嘉敷村（渡嘉敷島）", "category": "アクティビティ" },
+    { "post_id": "2026-09-20-akiu-rantei", "region": "宮城県仙台市太白区秋保町（秋保温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-18-shima-tsuruya", "region": "群馬県吾妻郡中之条町（四万温泉）", "category": "サウナ" },
+    { "post_id": "2026-09-18-yufuin-no-mori", "region": "福岡県福岡市（博多）〜大分県由布市・別府市", "category": "列車・船" },
+    { "post_id": "2026-09-18-shima-kanko-hotel-classic", "region": "三重県志摩市阿児町神明（賢島・英虞湾）", "category": "絶景ホテル" },
+    { "post_id": "2026-09-18-sansou-murata-yufuin", "region": "大分県由布市湯布院町川上（由布院温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-18-nishimuraya-honkan", "region": "兵庫県豊岡市城崎町湯島（城崎温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-09-18-satoyama-vacation-fujinomiya", "region": "静岡県富士宮市上井出（白糸ノ滝周辺）", "category": "グランピング" },
+    { "post_id": "2026-09-18-hilton-okinawa-miyako", "region": "沖縄県宮古島市平良（トゥリバー地区）", "category": "離島リゾート" },
+    { "post_id": "2026-09-18-fufu-karuizawa", "region": "長野県北佐久郡軽井沢町（中軽井沢・星野温泉エリア）", "category": "サウナ" },
+    { "post_id": "2026-09-18-clubmed-tomamu-unkai", "region": "北海道勇払郡占冠村（トマム）", "category": "オールインクルーシブ" }
+  ],
+  "duplication_note": "洞爺湖温泉（虻田郡洞爺湖町）は既存のdata/candidates・captionsに一度も登場していない。北海道自体はトマム（占冠村・オールインクルーシブ／アクティビティ）が既出だが、エリア・カテゴリの切り口（占冠村の雲海リゾート vs 洞爺湖のレイクビュー温泉ホテル）が異なるため重複しない。絶景ホテルカテゴリの直近投稿は三重県志摩市（2026-09-18・賢島の英虞湾ビュー）のみで、直前2投稿（アクティビティ→温泉旅館）とも連続しておらず、地域・カテゴリともに原則29の連続回避を満たす。",
+  "candidates": [
+    {
+      "id": "2026-09-22-nonokaze-resort-toya",
+      "name": "ザ レイクビューTOYA 乃の風リゾート",
+      "region": "北海道虻田郡洞爺湖町（洞爺湖温泉）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "一休.com", "score": 4.61, "scale": 5, "review_count": 194, "checked_date": "2026-09-22", "url": "https://www.ikyu.com/00001876/review/" },
+        { "source": "Yahoo!トラベル", "score": 4.49, "scale": 5, "review_count": 170, "checked_date": "2026-09-22", "url": "https://travel.yahoo.co.jp/00001876/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "WebSearchのスニペットでは、スパリゾート館が1泊2食・1室2名利用で1人15,000円（税込）〜、プレミアム棟『乃の風倶楽部館』が1人22,000円（税込）〜という2022年リニューアル時点の情報を確認。季節・部屋タイプ・プランにより変動する。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "洞爺湖畔に立つ全164室オールレイクビューの温泉リゾート（旧・洞爺パークホテル天翔を全面改装して誕生）。最上階の天空露天風呂『TENQOO』は湯船と湖面が一続きに見える演出が自慢で、朝は羊蹄山越しの日の出、夜は洞爺湖温泉花火（例年4月下旬〜10月）を湯船から眺められる。2022年10月にはプレミアム棟『乃の風倶楽部館』を全面改修し、全室56㎡以上の和モダン客室・新レストランとしてリニューアルオープンした。",
+      "renewal_or_news": "2022年10月、プレミアム棟『乃の風倶楽部館』を大規模改修してリニューアルオープン（新レストラン・ラウンジ刷新を含む）。10周年を機にワンランク上の滞在として複数の旅行メディアで紹介されている。",
+      "target_audience": ["夫婦", "記念日", "カップル", "絶景好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 84,
+      "recommendation_reason": "一休.com4.61（194件）・Yahoo!トラベル4.49（170件）と、性質の異なる2つの独立した情報源でいずれも4.2以上の高評価かつ十分なレビュー件数を確認できた（原則6・7）。Tripadvisorでも洞爺湖町9軒中1位（口コミ1,049件）にランクされており、複数情報源で評価の一致が見られる。全室164室オールレイクビューかつ最上階の天空露天風呂『TENQOO』から羊蹄山越しの日の出・湖上花火を眺められる点は他候補にない体験価値で、2022年10月のプレミアム棟大規模リニューアルという最新性の裏付けもある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "WebSearchで確認できた範囲では、『朝夕の食事がやや期待外れだった』『チェックイン時の対応がやや事務的だった』『低層階の部屋だと隣接するロビー棟の影響で眺望・花火が半分しか見えなかった』『露天風呂に至る階段が急で高齢者には大変』といった個別の指摘はあったが、清潔感・安全面での重大かつ複数一致する指摘は見当たらなかった。一休.comの温泉・お風呂4.70、お食事4.70という項目別評価とも矛盾しない範囲。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "【公式】洞爺湖温泉 ザ レイクビュー TOYA 乃の風リゾート｜野口観光", "url": "https://nonokaze-resort.com/" },
+        { "type": "review_site", "title": "ザ レイクビューTOYA 乃の風リゾート - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00001876/review/" },
+        { "type": "review_site", "title": "ザ レイクビューTOYA 乃の風リゾート - クチコミ・評判 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00001876/review/" },
+        { "type": "review_site", "title": "The Lake View Toya Nonokaze Resort - Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-g670061-d3523594-Reviews-The_Lake_View_Toya_Nonokaze_Resort-Toyako_cho_Abuta_gun_Hokkaido.html" },
+        { "type": "booking_site", "title": "ザ レイクビュー TOYA 乃の風リゾート に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/139962/review.html" },
+        { "type": "press", "title": "「乃の風リゾート」新装開業 - 観光経済新聞", "url": "https://www.kankokeizai.com/%E3%80%8C%E4%B9%83%E3%81%AE%E9%A2%A8%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%E3%80%8D%E6%96%B0%E8%A3%85%E9%96%8B%E6%A5%AD/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-22-windsor-hotel-toya",
+      "name": "ザ・ウィンザーホテル洞爺 リゾート&スパ ヴィニェットコレクション by IHG",
+      "region": "北海道虻田郡洞爺湖町（洞爺湖温泉・ポロモイ山山頂）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "一休.com", "score": 4.38, "scale": 5, "review_count": 161, "checked_date": "2026-09-22", "url": "https://www.ikyu.com/00000440/review/" },
+        { "source": "楽天トラベル", "score": 4.38, "scale": 5, "review_count": 591, "checked_date": "2026-09-22", "url": "https://travel.rakuten.co.jp/HOTEL/15606/review.html" },
+        { "source": "Tripadvisor", "score": 4.0, "scale": 5, "review_count": 767, "checked_date": "2026-09-22", "url": "https://www.tripadvisor.jp/Hotel_Review-g670061-d302436-Reviews-The_Windsor_Hotel_Toya-Toyako_cho_Abuta_gun_Hokkaido.html" }
+      ],
+      "price_range_jpy": {
+        "note": "WebSearchの範囲では公式・予約サイトへのアクセスがブロックされ（EGRESS_BLOCKED）、具体的な価格帯の記載は確認できなかった。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "洞爺湖を見下ろすポロモイ山山頂に立つIHGのラグジュアリーブランド『ヴィニェットコレクション』ホテル。2008年北海道洞爺湖サミットの会場となった格式を持ち、洞爺湖と噴火湾（太平洋）の両方を一望できる立地は『パワースポット』とも評される。室内プールからの夕焼けも評判。",
+      "target_audience": ["夫婦", "記念日", "カップル", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 13,
+        "unique_experience_score": 16,
+        "photogenic": 11,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 2
+      },
+      "score": 74,
+      "recommendation_reason": "一休.com4.38（161件）・楽天トラベル4.38（591件）・Tripadvisor4.0（767件）と3つの独立した情報源すべてで採用ラインの4.0以上を確認でき、洞爺湖サミット会場という格式や洞爺湖・噴火湾の二面パノラマは強み。ただし総合スコアは74点で採用ライン（75点）にわずかに届かず、後述の設備老朽化に関する複数の独立した指摘（原則10）もあるため、本サイクルではBEST候補として選定を見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorの『がっかり』『あんまり』と題された複数の独立した口コミで、客室の暖房が十分に効かない・床やトイレが冷たい、大浴場・温泉施設までの廊下が長く寒い（年配者には大変）、フリーWi-Fiがほぼ使えない、室内が埃っぽい、チェックイン時に床に食べかすが落ちていた、といった設備老朽化・清掃面の指摘が一致して複数確認された。景観・サービス自体を評価する声も多いが、原則10（設備老朽化を含む重大な問題が複数確認された場合は除外）に照らし disqualifying issue と判断した。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "official", "title": "ザ・ウィンザーホテル洞爺【公式】| 北海道の最高級リゾートホテル", "url": "https://www.windsor-hotels.co.jp/ja/" },
+        { "type": "review_site", "title": "ザ・ウィンザーホテル洞爺 ヴィニェットコレクション by IHG - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00000440/review/" },
+        { "type": "booking_site", "title": "ザ・ウィンザーホテル洞爺 リゾート＆スパ ｂｙ ＩＨＧ に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/15606/review.html" },
+        { "type": "review_site", "title": "The Windsor Hotel Toya - Tripadvisor", "url": "https://www.tripadvisor.jp/Hotel_Review-g670061-d302436-Reviews-The_Windsor_Hotel_Toya-Toyako_cho_Abuta_gun_Hokkaido.html" },
+        { "type": "review_site", "title": "がっかり - ザ・ウィンザーホテル洞爺リゾート&スパの口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g670061-d302436-r289488246-The_Windsor_Hotel_Toya-Toyako_cho_Abuta_gun_Hokkaido.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア74点で採用ライン（75点）にわずかに届かず、かつTripadvisorの複数の独立レビューで設備老朽化（暖房・冷たい床・長く寒い廊下・Wi-Fi不良等）が一致して指摘されたため、原則6・10に基づき本サイクルでは選定を見送った。景観・立地の強さ自体は志摩観光ホテル級だが、快適性の面で乃の風リゾートに劣ると判断。"
+    },
+    {
+      "id": "2026-09-22-toya-manseikaku-lakeside",
+      "name": "洞爺湖万世閣ホテルレイクサイドテラス",
+      "region": "北海道虻田郡洞爺湖町（洞爺湖温泉）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.25, "scale": 5, "review_count": 93, "checked_date": "2026-09-22", "url": "https://travel.rakuten.co.jp/HOTEL/20613/review.html" },
+        { "source": "Yahoo!トラベル", "score": 4.28, "scale": 5, "review_count": 65, "checked_date": "2026-09-22", "url": "https://travel.yahoo.co.jp/00030990/review/" },
+        { "source": "Tripadvisor", "score": 3.4, "scale": 5, "review_count": 429, "checked_date": "2026-09-22", "url": "https://www.tripadvisor.jp/Hotel_Review-g670061-d1138959-Reviews-Toyako_Manseikaku_Hotel_Lakeside_Terrace-Toyako_cho_Abuta_gun_Hokkaido.html" }
+      ],
+      "price_range_jpy": {
+        "note": "WebSearchの範囲では正確な1泊2食価格帯は確認できなかった（楽天トラベル最安表示等はあるが金額の明記なし）。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "洞爺湖と羊蹄山を一望できるロケーションで、最上階にインフィニティ露天風呂『星の湯』とロウリュサウナ『月の湯』を備える。出来立て料理を提供するライブキッチン付きビュッフェや、客室・大浴場から鑑賞できる洞爺湖温泉花火も特徴。",
+      "target_audience": ["夫婦", "家族", "絶景好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 17,
+        "review_reliability": 9,
+        "unique_experience_score": 15,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 64,
+      "recommendation_reason": "楽天トラベル4.25（93件）・Yahoo!トラベル4.28（65件）は採用ラインを満たすが、Tripadvisor3.4（429件）と情報源間で評価の乖離が大きく、原則6が求める『主要レビューサイト評価4.0以上』を安定して満たせていない。インフィニティ露天風呂・花火鑑賞という体験価値はあるものの、総合スコア64点は採用ライン（75点）を大きく下回るため見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorに『今まで泊まった最悪のホテルでがっかり』『最悪・・・』『少し残念！』『サウナ期待外れ』といった複数の独立した強いタイトルの口コミがあり、低層階の部屋で眺望・花火がほとんど見えない、廊下の足音・自販機音・BGMが早朝から響く、スタッフの対応が高圧的だった、サウナがぬるく期待外れだった、といった具体的な指摘が複数一致して見られた。楽天・Yahoo!トラベルの評価（4.2台）と大きく矛盾するため、原則10に基づきdisqualifying issueありと判断した。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "official", "title": "【公式】洞爺湖万世閣ホテルレイクサイドテラス｜北海道・洞爺湖温泉の温泉ホテル", "url": "https://www.toyamanseikaku.jp/" },
+        { "type": "review_site", "title": "洞爺湖万世閣ホテルレイクサイドテラス - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00030990/review/" },
+        { "type": "booking_site", "title": "洞爺湖万世閣ホテルレイクサイドテラス に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/20613/review.html" },
+        { "type": "review_site", "title": "洞爺湖万世閣ホテルレイクサイドテラス - クチコミ・評判 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00030990/review/" },
+        { "type": "review_site", "title": "今まで泊まった最悪のホテルでがっかり - 洞爺湖万世閣ホテルレイクサイドテラスの口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g670061-d1138959-r118660187-Toyako_Manseikaku_Hotel_Lakeside_Terrace-Toyako_cho_Abuta_gun_Hokkaido.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア64点で採用ライン（75点）を大きく下回り、かつTripadvisorで複数の独立レビューが一致して重大な不満（眺望不良・騒音・接客・サウナの質）を指摘しており、原則6・10の両方に抵触するため除外した。"
+    }
+  ]
+}

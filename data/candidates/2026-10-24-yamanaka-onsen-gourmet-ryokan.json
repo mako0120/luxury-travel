@@ -1,0 +1,103 @@
+{
+  "cycle_date": "2026-10-24",
+  "theme": "グルメ旅館×石川県山中温泉（依頼指定の地域・カテゴリ）",
+  "season_rationale": "山中温泉は紅葉の名所・鶴仙渓を抱えるエリアで、10月下旬〜11月上旬は渓谷の紅葉が見頃に近づく時期。あわせて加能ガニ（ズワイガニ）漁が例年11月6日前後に解禁され、カニ会席プランの提供が本格化するタイミングと重なるため、グルメ旅館カテゴリの訴求に適した季節。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-23-higashiyama-harataki", "region": "福島県会津若松市東山町湯本（東山温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-19-kaga-onsenkyo-gourmet-ryokan（候補: 2026-10-19-yamanaka-kuriya88）", "region": "石川県加賀市山中温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-19-kaga-onsenkyo-gourmet-ryokan（候補: 2026-10-19-yamashiro-kikyo / yamashiro-araya-touan）", "region": "石川県加賀市山代温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-20-gero-onsen-gourmet-ryokan", "region": "岐阜県下呂温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-21-yuda-onsen-gourmet-ryokan", "region": "山口県湯田温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-19-wajima-gourmet-ryokan", "region": "石川県輪島市（輪島温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-22-wakura-onsen-notoraku", "region": "石川県七尾市和倉温泉", "category": "温泉旅館", "note": "和倉温泉の候補調査で山中温泉への言及があったが、同一施設の重複はなし" }
+  ],
+  "duplication_note": "data/candidates/ 全件（2026-09-14〜2026-10-23、約139件）とcaptions/全件を『山中温泉』『山中』で確認した。地域『石川県山中温泉』は2026-10-19サイクル（data/candidates/2026-10-19-kaga-onsenkyo-gourmet-ryokan.json、加賀温泉郷＝山代温泉・山中温泉の合同調査）で一度調査済みで、同サイクルの山中温泉枠候補『山中温泉 厨八十八』（id: 2026-10-19-yamanaka-kuriya88、score 58、shortlisted＝未採用）が既に存在する。この施設は本サイクルの再調査・再採点対象から除外し、未取り上げの別施設のみを新規候補とした。地域『山中温泉』の再登場は約5日前（2026-10-19）で、1ヶ月以上は経過していないが、本サイクルは依頼側で地域・カテゴリが直接指定されているため実施した。カテゴリ『グルメ旅館』は直前の2026-10-23（福島県東山温泉）に続き2日連続となる点も認識しているが、同様に依頼指定のため実施し、次サイクル以降は別カテゴリへの振り分けを推奨する。なお検索の過程で『山中湖』（山梨県）に関する既存投稿（captions/2026-10-20-vision-glamping-yamanakako.json、posts/2026-09-14-cycl-yamanakako/）がヒットしたが、これは地名が似ているだけの別地域（山中温泉とは無関係）であり、重複には該当しない。",
+  "research_note": "本サイクルの調査中にWebSearchツールの呼び出し上限（セッション内の共有上限）に達したため、以降の追加検索を断念した。調査対象として名前が挙がった『セレクトグランド加賀山中』（評価4.56との言及あり）および『山中プリンスホテル』（フォートラベルの食事項目別評価2.75との言及あり）は、信頼できる口コミ件数（review_count）を独立した複数の情報源から確認できなかったため、推測値での記載を避け、本ファイルの候補一覧（候補とカウントする2件）には含めていない。次サイクル以降、WebSearch上限がリセットされた状態で追加調査・再評価することを推奨する。",
+  "candidates": [
+    {
+      "id": "2026-10-24-kissho-yamanaka",
+      "name": "吉祥やまなか",
+      "region": "石川県加賀市山中温泉東町（鶴仙渓沿い）。JR「加賀温泉」駅・小松空港から無料定時送迎バスあり。",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.74, "scale": 5, "review_count": 1489, "checked_date": "2026-10-24", "url": "https://travel.rakuten.co.jp/HOTEL/67124/review.html" },
+        { "source": "スカイチケット（口コミ集計）", "score": 4.7, "scale": 5, "review_count": 990, "checked_date": "2026-10-24", "url": "https://skyticket.jp/hotel/detail/property_17351/" },
+        { "source": "ニフティ温泉", "score": 4.0, "scale": 5, "review_count": 3, "checked_date": "2026-10-24", "url": "https://onsen.nifty.com/kagashuuhen-onsen/onsen008296/" },
+        { "source": "icotto（少数意見・参考）", "score": 3.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-24", "url": "https://icotto.jp/hotels-564/" }
+      ],
+      "price_range_jpy": {
+        "note": "第三者サイト（トラベリスト）掲載の参考値で、1名1泊・夕朝食付き洋室プランが約27,200円〜、専用風呂付き和室プランが約54,300円〜という表示を確認した。じゃらん・楽天トラベル上の具体的な料金はWeb検索のスニペットでは確定できなかったため、個別プラン料金は断定しない。2025年11月8日〜2026年3月20日には加能ガニを1人2杯味わえる『加能蟹会席 極』付きプランが提供され、2026年11月7日以降分の同種プランも予約サイトに掲載されていることを確認した（本調査時点2026-10-24は解禁直前〜直後の時期にあたる）。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する。予約時に公式サイト・予約サイトで最新料金の確認を推奨。"
+      },
+      "unique_experience": "「ミシュランガイド北陸版2021」宿泊施設部門で三ツ星を獲得。館内に3つの食事処（加賀料理の会席「べにはな」＝輪島ふぐ・のどぐろ等の日本海の魚介に能登牛・加賀野菜を合わせる／鉄板焼き「青竹」／展望風呂付き客室専用の料亭「千尋」）を持ち、能登牛・のどぐろを使った加賀の食を複数の形式で楽しめる点がグルメ旅館としての独自性になっている。開湯1300年、俳聖・松尾芭蕉も愛したと伝わる湯を、大浴場・露天風呂・3種の貸切風呂（無料で選べる）・足湯で楽しめる。グループ旅館「かがり吉祥亭」（同じく北陸版三ツ星）との湯めぐりも可能。",
+      "renewal_or_news": "2025年11月8日〜2026年3月20日の期間に加能ガニ会席付きプラン『加能蟹会席 極』を発売し、2026年11月7日以降の同種プランも予約サイトに掲載されている（調査時点2026-10-24はカニシーズン直前〜解禁直後）。また2026年4〜6月には開業19周年記念プランも実施されており、近年の営業・企画が継続的に更新されていることを確認した。",
+      "target_audience": ["カップル", "記念日", "夫婦", "グルメ旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 84,
+      "recommendation_reason": "「ミシュランガイド北陸版2021」宿泊施設部門三ツ星という公式に近い評価軸に加え、楽天トラベル4.74（1,489件）・スカイチケット集計4.7（990件）という2つの独立した予約サイト系情報源で、1,000件前後という大きな母数を伴って採用ライン4.0以上を安定して満たしている（原則6・7）。会席・鉄板焼き・展望風呂付き料亭の3つの食事処でのどぐろ・能登牛など加賀の食材を使い分ける構成は『グルメ旅館』カテゴリに合致する独自性が高い。調査時点（2026-10-24）は加能ガニ会席プランの解禁直前〜直後にあたり、季節性の訴求にも適う（原則4）。石川県山中温泉という地域自体は5日前の2026-10-19サイクルで一度調査しているが、同サイクルで扱った『厨八十八』（shortlisted・58点）とは別施設であり、新規候補として未取り上げ。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベル系アグリゲータに残る2021年頃の投稿で『個室風呂がホテルの外にあって行くのが面倒』という指摘、icotto（2025年3月投稿）で『老舗旅館なので建物には古さを感じました』という指摘を確認した。いずれも施設の構造・築年数に関するもので、清潔感・安全性・接客の重大な欠陥を示すものではない。直近（2026年5月・7月）の投稿では夕食・接客への満足度が高く、清潔感や安全性に関わる現行の重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "吉祥やまなか 口コミ・評価（総合4.74・1,489件） - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/67124/review.html" },
+        { "type": "other", "title": "吉祥やまなか 口コミ集計（4.7・990件） - スカイチケット", "url": "https://skyticket.jp/hotel/detail/property_17351/" },
+        { "type": "review_site", "title": "吉祥やまなか クチコミ（4.0・3件） - ニフティ温泉", "url": "https://onsen.nifty.com/kagashuuhen-onsen/onsen008296/" },
+        { "type": "review_site", "title": "吉祥やまなか 口コミ（3.0・建物の古さへの指摘あり） - icotto", "url": "https://icotto.jp/hotels-564/" },
+        { "type": "booking_site", "title": "吉祥やまなか 施設ページ（じゃらんnet／加能蟹プラン等掲載）", "url": "https://www.jalan.net/yad322948/" },
+        { "type": "other", "title": "加能蟹会席プラン等プレスリリース（吉祥やまなか） - 産経トラベル／san-tatsu.jp プレスリリース掲載", "url": "https://san-tatsu.jp/pressrelease/491683/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-24-ohanami-kyube",
+      "name": "お花見久兵衛",
+      "region": "石川県加賀市山中温泉",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル系アグリゲータ（「山中温泉×宿」人気ランキング・おすすめ人数表示）", "score": 4.29, "scale": 5, "review_count": 9, "checked_date": "2026-10-24", "url": "https://travel.gpoint.co.jp/daredoko/19b023-d005/ranking/p2/" }
+      ],
+      "price_range_jpy": {
+        "note": "本調査では具体的な料金帯を確認できなかった。WebSearch上限に達したため公式サイト・主要予約サイトでの直接確認は次サイクルに持ち越す。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "貸切露天風呂や、団子・せんべい焼きといった体験が口コミ上で触れられており、素朴な温泉情緒を売りにしている様子がうかがえる。",
+      "target_audience": ["夫婦", "カップル", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 3,
+        "unique_experience_score": 10,
+        "photogenic": 7,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 42,
+      "recommendation_reason": "貸切露天風呂や団子・せんべい焼きといった素朴な体験には一定の魅力があり、ランキング集計上の評価（4.29）自体は採用ラインの4.0を上回る。しかし、この数値は楽天トラベル系アグリゲータの人気ランキングページ1件（しかも『おすすめ人数9人』という参考指標で、標準的な口コミ件数とは異なる）にとどまり、過去の黒川温泉調査でも同種アグリゲータの評価数値が他施設情報と混在する例が確認されているため、原則7が求める『独立した複数情報源による確度の高い確認』を満たせていない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "WebSearch上限に達し、低評価レビューの個別確認まで調査を広げられなかった。具体的な低評価投稿は確認できていないが、これは『問題が見つからなかった』ことの確認ではなく『十分な件数の口コミを確認できていない』ことを意味する。清潔感・安全性に関わる重大な指摘は確認されていないが、確認の網羅性自体に限界がある。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "「山中温泉×宿」人気ホテルランキング（お花見久兵衛 4.29・おすすめ9人） - 楽天トラベル系アグリゲータ", "url": "https://travel.gpoint.co.jp/daredoko/19b023-d005/ranking/p2/" },
+        { "type": "review_site", "title": "山中温泉エリア 口コミ総合（3.7・90件） - ニフティ温泉", "url": "https://onsen.nifty.com/yamanaka-onsen/detail/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア42点で採用ライン（75点）未満。評価数値（4.29）の出典が楽天トラベル系アグリゲータの集計ページ1件に限られ、かつ『おすすめ人数9人』という参考指標であり標準的な口コミ件数ではないため、原則7（独立2情報源必須）を十分な確度で満たせなかった。WebSearch上限に達したため本サイクルでの追加調査を断念した。次サイクル以降、じゃらん・楽天トラベル公式ページ等で直接の評価・件数を確認できれば再評価する。"
+    }
+  ]
+}

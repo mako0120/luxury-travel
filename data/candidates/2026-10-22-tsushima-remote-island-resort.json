@@ -1,0 +1,146 @@
+{
+  "cycle_date": "2026-10-22",
+  "theme": "離島リゾート（長崎県対馬市）の新規調査",
+  "season_rationale": "直近の離島リゾートは2026-10-20に隠岐諸島のEntô（エントウ）が採用済み（captions/2026-10-20-ento-oki.json）で、2026-10-21には久米島（再調査・該当なし）・波照間島・小笠原諸島（該当なし）を検討済み。依頼により今回は長崎県対馬を新規地域として調査した。11月にかけて気候が落ち着き遠征しやすくなる時期で、対馬は近年『最も近い国境の島』『神話・歴史探訪＋海の絶景』として注目度が上がっているが、宿泊施設の規模・評価面で離島リゾートカテゴリの採用ラインを満たせるかは未知数だったため、着手前にdata/candidates・captions全件（1ヶ月以上前を含む）を確認した上で、対馬に『大型リゾートホテル』が実在するかどうかをまず見極めることを優先した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-21-hateruma-ogasawara-resort(候補のみ・選定なし)", "region": "沖縄県波照間島／東京都小笠原諸島", "category": "離島リゾート" },
+    { "post_id": "2026-10-21-kumejima-resort-recheck(候補のみ・選定なし)", "region": "沖縄県久米島", "category": "離島リゾート" },
+    { "post_id": "2026-10-20-sado-oki-resort", "region": "新潟県佐渡島／島根県隠岐諸島", "category": "離島リゾート", "note": "隠岐諸島のEntô（82点）がselectedとなり、captions/2026-10-20-ento-oki.jsonとして採用済み。" },
+    { "post_id": "2026-10-20-yakushima-shodoshima-resort(候補のみ・選定なし)", "region": "鹿児島県屋久島／香川県小豆島", "category": "離島リゾート" },
+    { "post_id": "2026-10-19-irabu-island-resort(候補のみ・選定なし)", "region": "沖縄県宮古島市伊良部島", "category": "離島リゾート" },
+    { "post_id": "2026-10-19-tanegashima-resort(候補のみ・選定なし)", "region": "鹿児島県種子島", "category": "離島リゾート" },
+    { "post_id": "2026-10-19-hotel-denhaag-htb", "region": "長崎県佐世保市ハウステンボス町", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-18-goto-retreat-ray", "region": "長崎県五島市（福江島）", "category": "離島リゾート", "note": "候補のみで選定なし。" },
+    { "post_id": "2026-10-17-hoshino-iriomote-hotel", "region": "沖縄県八重山郡竹富町（西表島）", "category": "離島リゾート" }
+  ],
+  "duplication_note": "data/candidates・captions配下の全件（2026-09-14〜2026-10-21、1ヶ月以上前を含む）を『対馬』『tsushima』でgrep確認した結果、本サイクル以前に対馬を対象とした候補・投稿は一件も存在せず、地域として完全に新規であることを確認した。長崎県自体は2026-10-18（五島・離島リゾート・候補のみ）、2026-10-19（佐世保ハウステンボス・オールインクルーシブ・採用済み）で登場しているが、同一施設・同一島ではなく、直近の離島リゾート採用は2026-10-20隠岐（Entô）であるため、本サイクルの対馬調査は重複にあたらない。一方で、事前調査の結果、対馬の宿泊施設は東横INN等のビジネスホテルや個人経営の民宿・ゲストハウスが中心で、一休.com・Relux等の高級路線で扱われる大型リゾートホテルは確認できなかった（フォートラベルの『対馬ホテル満足度ランキング』54件中でも上位は軒並き評価3点台）。この点を踏まえ、対馬唯一のリゾート系施設とされるSOAR RESORT、対馬唯一の温泉付き宿泊施設である対馬グランドホテル、厳原港前の老舗ホテル対馬の3件を独立した情報源で調査・採点した。なお、2026年に開業したばかりのグランピング施設TSUSHIMA RESORT（対馬リゾート、19室）および上対馬のSloth Glamping（星空と海のリゾート）も確認したが、じゃらん・楽天トラベル・フォートラベル・Trip.com・Booking.com等のいずれにも口コミ件数・評価点が一切見つからず（開業直後のため口コミが蓇積していない）、原則7が求める『複数の独立した情報源での評価確認』を満たす数値データが存在しなかったため、存在しない評価を捏造せず、正式な採点対象からは除外した（このセッションのWebSearch回数上限に達したため、これ以上の裏取りも行っていない）。",
+  "candidates": [
+    {
+      "id": "2026-10-22-soar-resort-tsushima",
+      "name": "SOAR RESORT（ソアリゾート対馬）",
+      "region": "長崎県対馬市美津島町洲藻",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Trip.com（海外向けページ、より大きいサンプル）", "score": 8.6, "scale": 10, "review_count": 25, "checked_date": "2026-10-22", "url": "https://us.trip.com/hotels/tsushima-hotel-detail-28187162/soar-resort/review.html" },
+        { "source": "Expedia", "score": 9.0, "scale": 10, "review_count": 2, "checked_date": "2026-10-22", "url": "https://www.expedia.com/go/hotel/info/40232127" }
+      ],
+      "price_range_jpy": {
+        "note": "第三者の予約比較サイトで確認できた最安値は、朝食付き和室（1泊1室2名）で19,400円〜という表示があった。航空券付きパックでは1泊1名67,400円〜262,900円という表示もあったが、これは空港施設利用料等込みのパック価格であり室料のみの価格ではない。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "対馬空港から車で約10分、対馬で唯一のリゾート施設と紹介されることがある。和室50室、露天風呂付き大浴場、韓国式BBQが名物。空港からの無料シャトル送迎（事前連絡制）、庭園、レストランを備える。",
+      "target_audience": ["家族", "友人", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 6,
+        "unique_experience_score": 10,
+        "photogenic": 6,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 48,
+      "recommendation_reason": "対馬で『唯一のリゾート施設』と称されること自体は話題性があり、露天風呂・韓国式BBQという設備は『ちょっと贅沢』路線に合う要素ではある。ただしじゃらん系のNTA宿泊ガイドでは総合評価が『収集中』、フォートラベルでは『評価なし』で、国内の主要レビューサイトでは評価を一切確認できなかった。Trip.com（8.6/10・25件）とExpedia（9.0/10・2件）という海外OTA2件では高評価だが、いずれも件数が少なく、海外ゲスト中心のサンプルである点を踏まえると信頼性は限定的。加えてTrip.comの口コミでは防音性の低さ（『防音がまったくない』）と立地（レンタカーがないと不便）への指摘があり、客室料金自体は19,400円〜と『少し贅沢』よりは手頃な価格帯にとどまる。SNS上での話題性も確認できなかったため、総合スコアは48点にとどまり、採用ライン（75点）には届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Trip.com（海外ユーザー）の口コミで、防音性がまったくないという指摘と、料金に対する割安感への疑問（立地的な価値に疑問）が複数見られた。一方で温泉・サウナ・朝食・スタッフ対応を評価する声もあった。国内のフォートラベル等では評価自体が未集計で、ネガティブ傾向を国内レビューから裏取りすることはできなかった。衛生・安全上の重大な問題が複数情報源で一致して確認されたわけではないため、disqualifying issueとまでは判断しなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "SOAR RESORT（対馬） - フォートラベル（満足度ランキング掲載・評価なし）", "url": "https://4travel.jp/dm_hotel-11808578" },
+        { "type": "other", "title": "SOAR RESORT - NTA宿泊ガイド（総合評価収集中）", "url": "https://www.nta.co.jp/nta_yado/hotel/9320-302/info" },
+        { "type": "booking_site", "title": "SOAR RESORT - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/177980/177980.html" },
+        { "type": "booking_site", "title": "Soar Resort - Trip.com（口コミ・8.6/10・25件）", "url": "https://us.trip.com/hotels/tsushima-hotel-detail-28187162/soar-resort/review.html" },
+        { "type": "booking_site", "title": "Soar Resort - Expedia（口コミ・9.0/10・2件）", "url": "https://www.expedia.com/go/hotel/info/40232127" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア48点で採用ライン（75点）に届かない。国内主要レビューサイト（じゃらん系NTA・フォートラベル）では評価が未集計／評価なしで、原則6が求める『主要レビューサイト評価4.0以上』を国内情報源で確認できず、海外OTAのみ（件数も25件・2件と少ない）の高評価に依存した判断になってしまうため採用を見送った。防音性への指摘と、料金帯が『贅沢』というより手頃な価格帯である点も踏まえた。"
+    },
+    {
+      "id": "2026-10-22-tsushima-grand-hotel",
+      "name": "対馬グランドホテル",
+      "region": "長崎県対馬市美津島町鶏知甲",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.29, "scale": 5, "review_count": 13, "checked_date": "2026-10-22", "url": "https://4travel.jp/dm_hotel-10038417" },
+        { "source": "gpoint daredoko（対馬おすすめホテルランキング掲載）", "score": 4.0, "scale": 5, "review_count": 31, "checked_date": "2026-10-22", "url": "https://travel.gpoint.co.jp/daredoko/42b007/" }
+      ],
+      "price_range_jpy": {
+        "note": "第三者の料金比較サイトで最安値9,900円/1部屋1泊という表示を確認した。室料のみか食事付きかは確認できなかった。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "対馬で唯一の温泉付き宿泊施設とされ、対馬唯一の温泉『真珠の湯』を名物とする。全室オーシャンビューで、ロビー横のテラスから朝日・水平線・漁火を眺められる。対馬空港から車で約10分。",
+      "renewal_or_news": "このセッションのWebSearchでは直近のリニューアル・新プラン等の情報は確認できなかった。",
+      "target_audience": ["温泉好き", "絶景好き", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 6,
+        "unique_experience_score": 12,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 51,
+      "recommendation_reason": "『対馬唯一の温泉』『全室オーシャンビュー』という独自性はあるが、フォートラベルの総合満足度が3.29（13件）と原則6の最低ライン（主要レビューサイト評価4.0以上）に届いていない。gpoint daredoko経由では4.00（31人がおすすめ）という表示もあったが、これは『対馬のおすすめホテルランキング』内の集計表示であり、ホテル単体の正式な評価点として扱うには裏取りが不十分。アクセス（2.90）・バリアフリー（2.33）の項目評価が低く、エレベーターがない2階建てで浴場が1階にあるという口コミもあり、設備面の課題が目立つ。総合スコアは51点にとどまり、原則6の即不採用基準（主要レビュー4.0未満）にも該当するため不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "エレベーターがなく、浴場が1階にあるため移動が不便という指摘がある。項目別評価でもアクセス2.90・バリアフリー2.33と低い。一方で客室（4.25）・食事（3.75）は比較的高評価で、『温泉はゆっくり過ごせた』という声もある。衛生・安全上の重大な問題として複数情報源で一致して確認されたわけではないため、disqualifying issueとまでは判断しなかったが、評価基準自体（4.0未満）で不採用に該当する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "対馬グランドホテル - フォートラベル", "url": "https://4travel.jp/dm_hotel-10038417" },
+        { "type": "booking_site", "title": "対馬グランドホテル - じゃらんnet", "url": "https://www.jalan.net/yad340708" },
+        { "type": "other", "title": "対馬市のホテル一覧 - Mapple", "url": "https://www.mapple.net/pref/42209/hotel/" },
+        { "type": "other", "title": "対馬のおすすめホテルランキング - gpoint daredoko", "url": "https://travel.gpoint.co.jp/daredoko/42b007/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "フォートラベル総合満足度3.29（13件）が原則6の最低ライン（主要レビュー4.0以上）に届かず、総合スコアも51点で採用ライン（75点）に届かないため不採用。"
+    },
+    {
+      "id": "2026-10-22-hotel-tsushima-itsuhara",
+      "name": "ホテル対馬",
+      "region": "長崎県対馬市厳原町（厳原港周辺）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "aumo（対馬エリアホテル一覧ページ経由）", "score": 4.94, "scale": 5, "review_count": 5, "checked_date": "2026-10-22", "url": "https://aumo.jp/hotel/areas/1534" },
+        { "source": "スカイチケット", "score": 3.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-22", "url": "https://skyticket.jp/hotel/nagasaki/bl_420018/" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは1泊2名あたりの具体的な料金を確定できなかった。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "厳原港から徒歩5分の立地。対馬の郷土料理『石焼会席』が名物で、客室は明るく清潔との口コミがある。家族経営的な雰囲気の小規模ホテル。",
+      "target_audience": ["一人旅", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 8,
+        "review_reliability": 2,
+        "unique_experience_score": 6,
+        "photogenic": 4,
+        "value_for_price": 3,
+        "sns_buzz": 1,
+        "access_and_freshness": 2
+      },
+      "score": 26,
+      "recommendation_reason": "確認できた口コミは好意的（4.94／5人、3/5／1人）だが、いずれも件数が5件・1件と極端に少なく、評価もサイト間で大きく食い違っており、原則7（最低2種類以上の独立情報源）が求める信頼水準の評価確認には全く届かない。『離島リゾート』というより厳原港前の小規模な観光ホテル・民宿的な立ち位置で、独自性・写真映え・SNS話題性のいずれも確認できる材料が乏しく、総合スコアは26点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ件数が5件・1件と極端に少なく、ネガティブレビューの傾向分析ができるだけのサンプルが確認できなかった。確認できた範囲では明確な重大指摘はないが、母数が少なすぎるため判断材料として不十分（disqualifying issueというより評価自体が成立しない）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "対馬エリアのホテル一覧 - aumo", "url": "https://aumo.jp/hotel/areas/1534" },
+        { "type": "review_site", "title": "長崎県のホテル一覧（対馬含む） - スカイチケット", "url": "https://skyticket.jp/hotel/nagasaki/bl_420018/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数が極端に少なく（5件・1件）原則7の信頼性要件を満たせないこと、また離島リゾートとしての独自性・話題性に乏しいため、総合スコア26点で採用ライン（75点）に届かない。"
+    }
+  ],
+  "cycle_conclusion": "長崎県対馬市を対象に離島リゾートカテゴリで3件（SOAR RESORT、対馬グランドホテル、ホテル対馬）を調査・採点したが、いずれも採用ライン（75点）に届かず、selected候補なし。対馬グランドホテルは主要レビューサイト評価が4.0未満（3.29）のため原則6の即不採用基準にも該当する。開業直後で口コミ・評価データが一切存在しないTSUSHIMA RESORT（グランピング、19室）およびSloth Glamping（星空と海のリゾート）は、存在しない評価を捏造しないため正式な採点対象から除外した。事前調査の時点で予想された通り、対馬の宿泊施設は東横INN等のビジネスホテルと個人経営の民宿・ゲストハウスが中心で、評価面・規模面で『離島リゾート』カテゴリの採用ラインを満たす大型リゾートホテルは現時点で確認できなかった。captions/ の新規作成は行わない。次サイクル以降、対馬を再調査する場合はTSUSHIMA RESORT・SOAR RESORTの口コミ蓄積状況（特に国内主要サイトでの評価確定）を優先的に確認するのが有効と考えられる。"
+}

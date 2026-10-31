@@ -1,0 +1,66 @@
+{
+  "cycle_date": "2026-09-14",
+  "theme": "第4サイクル：グルメ旅館（新スコープ＝リサーチ＋キャプションのみ、画像構成なし）",
+  "season_rationale": "秋は金目鯛が脂が乗り旬を迎える時期の一つで、味覚の面でも投稿タイミングとして適している（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-20-mizu-no-oto", "region": "神奈川県箱根町（小涌谷）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-cycl-yamanakako", "region": "山梨県山中湖村", "category": "サウナ" }
+  ],
+  "duplication_note": "直近3件は温泉旅館×2・サウナ×1。地域・カテゴリともに重複しないグルメ旅館（静岡県伊東市）を選定した。",
+  "other_candidates_considered": [
+    {
+      "name": "THE ROYAL EXPRESS（伊豆急行）",
+      "category": "列車・船",
+      "note": "デザイン・話題性は極めて高いが、宿泊予約サイト型の数値評価（楽天トラベル/じゃらん等）が存在せず、Web検索でも主要な評価点・口コミ件数を確認できなかった。原則6・7の数値的な裏付け基準を満たせず今サイクルでは見送り。次サイクル以降、Googleマップ等の評価が確認できれば再検討。"
+    },
+    {
+      "name": "BATON SUITE 沖縄古宇利島",
+      "category": "離島リゾート",
+      "note": "2025年3月開業で口コミ自体は好意的（低評価なし、との言及あり）だが、楽天トラベル/一休の具体的な評価点数・件数をWeb検索で確認できなかった。数値的な裏付けが取れ次第、穴場候補（原則8）として再検討する。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-09-14-kinmedai-kokorone",
+      "name": "伊豆・伊東 金目鯛の宿 こころね",
+      "region": "静岡県伊東市（宇佐美温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.57, "scale": 5, "review_count": 81, "checked_date": "2026-09-14", "url": "https://travel.rakuten.co.jp/HOTEL/66517/review.html" }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベル最安表示で9,350円〜（1名あたりか、素泊まり等の条件付きプランの可能性あり。1泊2食の標準的な価格帯は未確認）。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全6室限定の隠れ宿。特大サイズの金目鯛の煮付けと金目鯛しゃぶしゃぶが名物で、楽天トラベル『食事の評価が高い宿ランキング』で2023年全国1位、アワードを16年連続受賞（一部情報源では11年連続との記載もあり要再確認）。海と夜景を望む絶景露天風呂も備える。",
+      "renewal_or_news": "直近の大規模リニューアル情報は確認できず。継続的な受賞歴（2023年食事評価全国1位、複数年連続アワード）が最新性の裏付け。",
+      "target_audience": ["夫婦", "記念日", "グルメ旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 11,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 84,
+      "recommendation_reason": "楽天トラベル4.57／81件という、小規模宿（全6室）としては十分な母数と高評価。『食事評価全国ランキング1位』『アワード連続受賞』という第三者評価の裏付けが強く、金目鯛料理という写真映えする明確なフックがある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Web検索では『部屋が狭い』『残念』等の具体的な低評価コメントは見つからなかった。夕食・接客・清潔感・朝食・風呂について高評価という言及のみ確認。ただし個別の低評価レビュー本文までは深掘りできておらず、重大な問題が本当にゼロと断定はできない点は留意事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "伊豆・伊東 金目鯛の宿 こころね クチコミ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/66517/review.html" },
+        { "type": "booking_site", "title": "伊豆・伊東 金目鯛の宿 こころね - じゃらんnet", "url": "https://www.jalan.net/yad385353/" },
+        { "type": "official", "title": "アクセス | 伊豆・伊東 金目鯛の宿 こころね 公式", "url": "https://cocorone.jp/access" },
+        { "type": "official", "title": "≪公式≫伊豆・伊東 金目鯛の宿こころね", "url": "https://cocorone.jp/" }
+      ],
+      "decision": "selected"
+    }
+  ]
+}

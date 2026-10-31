@@ -1,0 +1,140 @@
+{
+  "cycle_date": "2026-09-14",
+  "theme": "列車・船カテゴリ（新スコープ＝リサーチ＋キャプションのみ、画像構成なし）— 秋の紅葉シーズンに向けた絶景列車",
+  "season_rationale": "9月中旬は紅葉本番（11月中旬〜12月上旬）に向けた旅行検討・予約開始期にあたる。嵯峨野トロッコ列車は乗車券が乗車日の1ヶ月前から発売される事前予約制で、紅葉シーズンは予約が早期に埋まるため、『今のうちに予約枠を確保してほしい』という情報価値が高いタイミング（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-14-kinmedai-kokorone", "region": "静岡県伊東市（宇佐美温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-09-14-setouchi-retreat-aonagi", "region": "愛媛県松山市（柳谷町）", "category": "絶景ホテル" },
+    { "post_id": "2026-09-14-unkai-terrace-tomamu", "region": "北海道勇払郡占冠村（トマム）", "category": "アクティビティ" },
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-20-mizu-no-oto", "region": "神奈川県足柄下郡箱根町（小涌谷）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-cycl-yamanakako", "region": "山梨県南都留郡山中湖村", "category": "サウナ" }
+  ],
+  "duplication_note": "既存の captions/・data/candidates/ には温泉旅館・グルメ旅館・絶景ホテル・アクティビティ・グランピング・サウナ・離島リゾート・オールインクルーシブ・文化体験・期間限定イベントは登場済みだが、『列車・船』カテゴリはこのリポジトリで未着手（過去サイクルでTHE ROYAL EXPRESSを検討したが数値評価不足で見送った経緯がある）。地域も京都府はまだ登場しておらず、原則29（カテゴリ・地域の連続回避）の観点から今サイクルで調査した。",
+  "other_candidates_considered": [],
+  "candidates": [
+    {
+      "id": "2026-09-14-sagano-torokko",
+      "name": "嵯峨野トロッコ列車（嵯峨野観光鉄道）",
+      "region": "京都府京都市（嵐山・嵯峨野）〜亀岡市",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.2, "scale": 5, "review_count": 1253, "checked_date": "2026-09-17", "url": "https://www.jalan.net/kankou/spt_guide000000175901/kuchikomi/" },
+        { "source": "フォートラベル", "score": 4.00, "scale": 5, "review_count": 203, "checked_date": "2026-09-17", "url": "https://4travel.jp/dm_shisetsu/10000527" }
+      ],
+      "price_range_jpy": {
+        "note": "片道 大人880円・こども440円（全席指定・乗車日の1ヶ月前から予約可）。紅葉シーズンの『光の幻想列車』ライトアップ運行時は別途特別便として案内される場合があり、料金・設定日は年により変動する。保津川下り（別事業者・別料金）と組み合わせて片道ずつ利用する旅行者も多い。",
+        "as_of_search_date": "2026-09-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "嵯峨（トロッコ嵯峨駅）から亀岡（トロッコ亀岡駅）まで保津川渓谷沿い7.3kmを約25分かけて走る、屋根はあるが窓のない開放的なトロッコ列車。5号車『ザ・リッチ号』は屋根のみで側面も開いた最も開放的な車両として人気が高い。春は桜、夏は新緑、秋は紅葉、冬は雪景色と四季で異なる保津川渓谷の景観を間近に楽しめる、他の観光鉄道にはない体験。沿線にはモミジ・カエデ類が約1,000本植えられており、紅葉の名所としても全国有数（紅葉名所ランキングで全国7位・京都府内2位という評価も確認）。",
+      "renewal_or_news": "2025年秋（10月下旬〜12月）に恒例のライトアップ・イルミネーション運行『光の幻想列車』を実施（公式プレスリリースで確認）。乗車券は乗車日の1ヶ月前からオンライン予約可能で、紅葉シーズンは早期に埋まりやすいため、9月時点での事前計画・予約案内の情報価値が高い。",
+      "target_audience": ["カップル", "家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 9,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 82,
+      "recommendation_reason": "じゃらんnet4.2（1,253件）・フォートラベル4.00（203件）と、独立した2つのレビューサイトでいずれも4.0以上・かつ件数の多い（原則6・7）評価が確認できた。Tripadvisorにも965件のレビューが集まっており（京都市内の観光スポット2,188件中92位）、複数情報源での話題性・信頼性の裏付けがある。保津川渓谷の景観は他では代替できない体験で、片道大人880円という価格の割に非日常感が強く、価格対体験価値も高い。紅葉シーズンは予約が埋まりやすいため、9月時点での紹介は『今のうち予約案内』として情報価値が高い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorでは『当日券は昼頃に売り切れる』『紅葉シーズンは激混みで、片側の座席からはライトアップが見えないことがある』『座席が硬く長時間は疲れる』という声を確認。フォートラベルの旅行記でも紅葉シーズンの予約困難さへの言及があり、Tripadvisorには乗務員の接客態度に不満を述べる個別レビューも1件確認した（独立2情報源：Tripadvisor・旅行者ブログ）。いずれも『混雑・座席の快適性・接客個別対応』に関するもので、安全性や清潔感に関わる重大な問題ではないと判断した。キャプションでは紅葉シーズンの予約の取りづらさを正直に明記する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "嵯峨野観光鉄道 – トロッコ列車 公式サイト", "url": "https://www.sagano-kanko.co.jp/" },
+        { "type": "official", "title": "運賃について – 嵯峨野観光鉄道", "url": "https://www.sagano-kanko.co.jp/ticket/" },
+        { "type": "press", "title": "【プレスリリース】『光の幻想列車』の運行について ～車窓から見る「ライトアップ&イルミネーション」～ – 嵯峨野観光鉄道", "url": "https://www.sagano-kanko.co.jp/news/2664/" },
+        { "type": "review_site", "title": "嵯峨野トロッコ列車のクチコミ一覧 - じゃらんnet", "url": "https://www.jalan.net/kankou/spt_guide000000175901/kuchikomi/" },
+        { "type": "review_site", "title": "嵯峨野トロッコ列車 クチコミ・アクセス・周辺情報｜嵐山・嵯峨野・太秦・桂 - フォートラベル", "url": "https://4travel.jp/dm_shisetsu/10000527" },
+        { "type": "review_site", "title": "Sagano Romantic Train - All You SHOULD Know Before Going (Reviews) - Tripadvisor", "url": "https://www.tripadvisor.com/Attraction_Review-g298564-d1497824-Reviews-Sagano_Romantic_Train-Kyoto_Kyoto_Prefecture_Kinki.html" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-14-kurobe-gorge-railway",
+      "name": "黒部峡谷鉄道（トロッコ電車）",
+      "region": "富山県黒部市（宇奈月〜欅平）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.91, "scale": 5, "review_count": 166, "checked_date": "2026-09-17", "url": "https://4travel.jp/dm_shisetsu/10000773" }
+      ],
+      "price_range_jpy": {
+        "note": "宇奈月〜欅平の片道乗車券は一般車両・特別車両（リラックス車両）で価格が異なり、特別車両は追加料金が必要（具体的な最新料金はこのセッションのWeb検索では正確な数値を確認できなかった）。",
+        "as_of_search_date": "2026-09-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "日本一深いV字峡谷とされる黒部峡谷を、全長20.1km・片道約1時間20分かけて走るトロッコ電車。エメラルドグリーンの黒部川、新緑・紅葉の渓谷美を間近に楽しめ、終点の欅平では黒薙温泉・名剣温泉など秘湯とも組み合わせやすい。",
+      "target_audience": ["カップル", "家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 10,
+        "unique_experience_score": 18,
+        "photogenic": 14,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 3
+      },
+      "score": 73,
+      "recommendation_reason": "景観の独自性・映え度は非常に高く、Tripadvisorには449件のレビューが集まるなど話題性自体は十分ある。しかし今回確認できた唯一の数値評価源であるフォートラベルが3.91（166件）と、原則6の最低ライン（4.0以上）をわずかに下回った。Tripadvisor・じゃらんにもレビューは多数存在するものの、このセッションのWeb検索では正確な星評価の数値（4.0以上かどうか）を確認できず、原則7が求める『2つ以上の独立情報源での数値的な裏付け』を満たせなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルのクチコミで『キレイだけど、この高い値段は何なのだ？』という価格への不満を確認。Tripadvisorでも『過大評価され過ぎのような…』『通勤電車並みに混雑している』という声を複数の独立レビューで確認した。安全性・清潔感に関する重大な指摘は見つからなかったが、価格に対する納得感・混雑への不満は一定数存在する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "黒部峡谷鉄道公式サイト", "url": "https://www.kurotetu.co.jp/" },
+        { "type": "review_site", "title": "黒部峡谷鉄道 (トロッコ電車) クチコミ・アクセス・周辺情報｜宇奈月・黒部峡谷 - フォートラベル", "url": "https://4travel.jp/dm_shisetsu/10000773" },
+        { "type": "review_site", "title": "Kurobe Gorge Railway - All You SHOULD Know Before Going (Reviews) - Tripadvisor", "url": "https://www.tripadvisor.com/Attraction_Review-g1021440-d3616621-Reviews-Kurobe_Gorge_Railway-Kurobe_Toyama_Prefecture_Hokuriku_Chubu.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア73点で採用ライン（75点）をわずかに下回り、かつ確認できた唯一の数値評価（フォートラベル3.91）が原則6の最低ライン4.0を下回った。景観の魅力自体は高いため、次サイクル以降、Tripadvisor・じゃらんの正確な星評価数値を確認できれば再候補とする。"
+    },
+    {
+      "id": "2026-09-14-52seki-no-shifuku",
+      "name": "西武 旅するレストラン「52席の至福」",
+      "region": "埼玉県（西武池袋線・西武秩父線：池袋・西武秩父間ほか）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "食べログ", "score": 3.61, "scale": 5, "review_count": 66, "checked_date": "2026-09-17", "url": "https://tabelog.com/en/saitama/A1107/A110701/11042552/dtlrvwlst/" }
+      ],
+      "price_range_jpy": {
+        "note": "シェフ監修のコース料理付きプランで、公式サイト記載のコース内容・シーズンにより価格が変動する（このセッションのWeb検索では正確な最新料金を確認できなかった）。",
+        "as_of_search_date": "2026-09-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "建築家・隈研吾氏がデザインした4両編成・52席限定のダイニングトレイン。西武秩父線沿線の四季の景色を眺めながら、料理人監修の季節替わりコース料理を楽しめる。2016年4月運行開始、2026年4月に運行10周年を迎える。",
+      "target_audience": ["カップル", "夫婦", "記念日", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 7,
+        "unique_experience_score": 19,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 68,
+      "recommendation_reason": "隈研吾氏デザインの車両とシェフ監修コースという『ここでしかできない』体験の独自性は高いが、確認できた唯一の数値評価が食べログ3.61（66件）で、原則6の最低ライン4.0を大きく下回った。件数も66件と少なく、他の独立したレビューサイト（Google・Tripadvisor等）での数値評価もこのセッションでは確認できず、原則7の複数情報源での裏付けが不十分だった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "個別のブログ体験記では料理・接客への好意的なコメントが中心だったが、食べログの評価点自体が3点台にとどまっており、価格帯（コース料理付きの列車旅として比較的高価格）に対する納得感にばらつきがある可能性を示唆している。重大な安全性・衛生上の指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "「52席の至福」概要｜西武 旅するレストラン 52席の至福", "url": "https://www.seiburailway.jp/railways/seibu52-shifuku/overview/" },
+        { "type": "review_site", "title": "西武 旅するレストラン 52席の至福 - 食べログ", "url": "https://tabelog.com/en/saitama/A1107/A110701/11042552/dtlrvwlst/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア68点で採用ライン（75点）を下回った。主因は数値評価（食べログ3.61）が原則6の最低ライン4.0未満であること、レビュー件数が少なく（66件）他の独立情報源での数値的な裏付けも取れなかったこと（原則7）。体験自体の独自性は高いため、次サイクル以降、Google等でのレビュー件数が増え4.0以上の評価が複数確認できれば再候補とする。"
+    }
+  ]
+}

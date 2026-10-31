@@ -1,0 +1,144 @@
+{
+  "cycle_date": "2026-10-22",
+  "theme": "大阪府大阪市のホテルで楽しむカフェ・アフタヌーンティー・期間限定イベント企画（ホテル宿泊以外の少し贅沢な体験、リサーチ＋キャプションのみ・画像構成なし）",
+  "season_rationale": "10月下旬〜11月末は大阪市内の主要ホテルが栗・シャインマスカット・洋梨など『秋の味覚』をテーマにした期間限定アフタヌーンティー／ハイティーを一斉に展開する時期（原則30）。依頼によりカテゴリ『その他（カフェ・アフタヌーンティー・期間限定イベント等）』・地域『大阪府大阪市』を指定して調査した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-19-gatehotel-yokohama-grape-afternoontea", "region": "神奈川県横浜市中区山下町", "category": "その他" },
+    { "post_id": "2026-10-20-westin-sendai-date-hightea-blackpurple", "region": "宮城県仙台市", "category": "その他" },
+    { "post_id": "2026-10-21-rihga-royal-hiroshima-aquarium-afternoontea", "region": "広島県広島市中区基町", "category": "その他" },
+    { "post_id": "2026-10-21-toba-ocean-resort", "region": "三重県鳥羽市", "category": "離島リゾート/オールインクルーシブ系" }
+  ],
+  "duplication_note": "依頼により、直近数日（横浜10/19・仙台10/20・広島10/21）だけでなく、data/candidates・captions配下の全履歴（2026-09-14〜）を『大阪』でテキスト検索して重複有無を確認した。該当したのは2026-09-14-osaka-gentei-event.json（候補: シェラトン都ホテル大阪 Night 和sweets［選定・採用済み］、ウォルドーフ・アストリア大阪 アフタヌーンティー［次点］、大阪マリオット都ホテル 秋の収穫祭ブッフェ［不採用］、NAKANOSHIMA ART LIGHTS 2026［不採用］）とcaptions/2026-09-14-sheraton-yosweets.jsonのみ。今回調査した3候補（コンラッド大阪・コートヤード・バイ・マリオット新大阪ステーション・グランドプリンスホテル大阪ベイ）はいずれも施設・企画・エリア（肥後橋／新大阪／咲洲ベイエリア）が異なり、シェラトン都ホテル大阪（上本町）の『Night 和sweets』とは同一施設・同一企画の重複に当たらない。カテゴリ『その他』は直近4日連続（横浜→仙台→広島→大阪）で使用されているが、依頼により同カテゴリ・新規地域（大阪市）を指定した調査サイクルのため実施した。",
+  "research_notes": "このセッションのネットワーク環境では、ホテル公式サイト（conrad-osaka.hiltonjapan.co.jp等）・プレスリリース配信サイト（prtimes.jp）・大阪観光局公式サイト（osaka-info.jp）・楽天トラベル（travel.rakuten.co.jp）へのWebFetchがすべてEGRESS_BLOCKED（DNS解決不可）となり、本文を直接確認できなかった。そのためWebSearchのスニペットから得られる情報のみを根拠としている。また本サイクル終盤でこのセッションのWebSearch回数上限に達したため、グランドプリンスホテル大阪ベイの楽天トラベル総合評価（4.59点、gpoint経由で確認）についてはレビュー件数の数値を確認できておらず、review_scoresには件数を確認できたフォートラベルの数値のみを採用した。じゃらん・Googleマップ本体での直接確認もできていない点は留意事項として記録する。",
+  "candidates": [
+    {
+      "id": "2026-10-22-conrad-osaka-shinemuscat-afternoontea",
+      "name": "コンラッド大阪「シャインマスカット×キャラメル」アフタヌーンティー（40階 40 Sky Bar & Lounge）",
+      "region": "大阪府大阪市西区（肥後橋／フェスティバルタワー・ウエスト）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "ITmedia nlab（大阪府の人気5つ星ホテルランキング記事）", "score": 4.6, "scale": 5, "review_count": 3185, "checked_date": "2026-10-22", "url": "https://nlab.itmedia.co.jp/research/articles/3164970/" },
+        { "source": "Hotels.com（Expediaグループ）", "score": 9.4, "scale": 10, "review_count": 449, "checked_date": "2026-10-22", "url": "https://www.hotels.com/ho664390" },
+        { "source": "フォートラベル（施設全体の口コミ）", "score": 3.97, "scale": 5, "review_count": 121, "checked_date": "2026-10-22", "url": "https://4travel.jp/dm_hotel-11655700" }
+      ],
+      "price_range_jpy": {
+        "note": "1名8,500円、オリジナルカクテル付き11,000円、コンラッドベア付き10,300円（いずれも税・サービス料込み目安）。11:00〜20:00(L.O.18:00)、2時間制、30分間隔で予約受付。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "大阪メトロ四ツ橋線・肥後橋駅直結のフェスティバルタワー・ウエスト上層階に位置するコンラッド大阪。40階『40 Sky Bar & Lounge』で、旬のシャインマスカットに甘く香り豊かなキャラメル（情報源によってはバニラとの表記もあり、要公式確認）を合わせたスイーツ6種・セイボリー5種のアフタヌーンティーを提供。地上約150m超から大阪市街を一望できる眺望が最大の特徴で、オリジナルカクテルやコンラッドベア（ぬいぐるみ）付きプランも選べる。",
+      "renewal_or_news": "2026年8月3日(月)〜11月30日(月)の期間限定提供（一部情報源では開始日が10月7日と案内されており、開始日に食い違いがあるため公式サイト・電話での最終確認を推奨）。",
+      "target_audience": ["カップル", "記念日", "女子旅", "ホテル好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 14,
+        "unique_experience_score": 15,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 5
+      },
+      "score": 84,
+      "recommendation_reason": "ITmedia nlab集計で大阪府5つ星ホテル1位（4.6点／3,185件）、Hotels.com（Expediaグループ）で9.4/10（449件）という2つの独立した情報源でいずれも推奨ライン4.2以上（5点満点換算）を上回る高評価かつ大規模な口コミ母数を確認した（原則6・7）。フォートラベル単体では3.97点とやや低めだが、これは日本の宿泊系口コミサイトでは一般的に見られる傾向（他サイトより厳しめの採点）であり、他2サイトの一致した高評価と合わせて信頼性は十分と判断した。40階からの大阪市街の眺望という『ここでしかできない』体験価値、Hiltonの最上位ブランドという話題性・映え要素も強く、次点のコートヤード・バイ・マリオット新大阪ステーションより口コミの一貫性・信頼性が高い点を評価して選定した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "宿泊口コミの範囲では、客室の広さ・眺望・接客を評価する声が中心で、清潔感や重大な設備不良についての指摘は確認できなかった。結婚式場としての口コミでは『他会場より費用が高め』『駅から徒歩だと思ったより遠い』という声があったが、これは婚礼利用に関するものでアフタヌーンティー体験自体への否定的言及ではない。フォートラベルの一部投稿では『サービスに期待せず施設を楽しむ目的で宿泊した』という評もあり、サービス面の評価にばらつきがある点は留意事項として記録する。本セッションはWebSearch回数の制限があり、Googleマップ・じゃらんでの個別レビュー本文までは深掘りできておらず、確認範囲が限定的である点も正直に記録する。確認できた範囲では除外基準（原則10）に該当する重大な問題は見つかっていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "コンラッド大阪『シャインマスカット×キャラメル』アフタヌーンティー - voix.jp", "url": "https://voix.jp/?p=109287" },
+        { "type": "other", "title": "Conrad Osaka Afternoon Tea 2026 - Osaka Info（大阪観光局公式サイト イベント掲載）", "url": "https://osaka-info.jp/event/conrad-osaka-afternoontea2026/" },
+        { "type": "other", "title": "大阪府の人気5つ星ホテルランキング（コンラッド大阪1位） - ITmedia nlab", "url": "https://nlab.itmedia.co.jp/research/articles/3164970/" },
+        { "type": "booking_site", "title": "Conrad Osaka - Hotels.com", "url": "https://www.hotels.com/ho664390" },
+        { "type": "review_site", "title": "コンラッド大阪 クチコミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-11655700" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-22-courtyard-shinosaka-marrontreat-hightea",
+      "name": "コートヤード・バイ・マリオット 新大阪ステーション「MARRON TREAT（マロン トリート）」秋限定ハイティー（19階 Bar19）",
+      "region": "大阪府大阪市淀川区（新大阪駅前）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル（Mapple経由・施設全体の口コミ）", "score": 4.38, "scale": 5, "review_count": 395, "checked_date": "2026-10-22", "url": "https://www.mapple.net/region/a0503010300/hotel/" },
+        { "source": "フォートラベル（施設全体の口コミ）", "score": 3.9, "scale": 5, "review_count": 106, "checked_date": "2026-10-22", "url": "https://4travel.jp/dm_hotel-10049130" },
+        { "source": "Relux（施設全体の口コミ）", "score": 4.0, "scale": 5, "review_count": 24, "checked_date": "2026-10-22", "url": "https://rlx.jp/21377/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "1名9,200円（税・サービス料込み・フリーフロー付き、90分制）。平日17:00〜20:00(L.O.)、土日祝14:00〜20:00(L.O.)。前日17時までの要予約・2名以上から。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "新大阪駅徒歩約1分、19階『Bar19』で提供される秋限定ハイティー『MARRON TREAT』。前菜からデザートまで栗（栗そのもの・甘栗・マロンペースト・渋皮煮）を随所に使った構成で、ヴーヴ・クリコや栗のリキュールを使ったオリジナルカクテル・ノンアルコールカクテル・マロン風味の紅茶などドリンク12種がフリーフロー（90分）で楽しめる、前菜〜メイン〜デザートまでのコース仕立てという希少な形式。",
+      "renewal_or_news": "2026年9月1日(火)〜11月30日(月)の秋季限定提供（10月17日は提供除外日との情報あり）。前年2025年秋は別名『HARVEST AURA』として同時期・同会場で販売していた実績があり、季節企画として定着している。",
+      "target_audience": ["カップル", "記念日", "夫婦", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 10,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 6,
+        "access_and_freshness": 5
+      },
+      "score": 76,
+      "recommendation_reason": "前菜からデザートまでコース仕立てで栗を使い切る構成、ドリンク12種90分フリーフロー付きという『ここでしかできない』独自性・価格対体験価値はコンラッド大阪案より高い。新大阪駅徒歩1分というアクセスの良さも強み。一方で口コミは楽天トラベル4.38点／395件・Relux4.0点／24件と推奨ライン4.0前後をわずかに満たす一方、フォートラベル単体では3.90点／106件と4.0をわずかに下回り、サイト間で評価がばらつく。総合スコア76点は採用ライン（75点）を上回るが、口コミの一貫性・信頼性ではコンラッド大阪（主要2サイトが4.6〜9.4/10で一致）に及ばないため、次点（shortlisted）として記録する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "検索範囲で見つかった不満点は少なく、いずれも古い投稿（2015年・2021年）か軽微な内容だった。有料朝食（+1,000円）が『値段に見合わない』という指摘、隣室の音漏れ、正面に大きな建物が建ち眺望が遮られる部屋があるという指摘を確認した。いずれも清潔感・接客に関わる重大なクレームではなく、Reluxの24件レビューでも1〜2点の低評価はほぼ見られなかった。本セッションはWebSearch回数の制限があり、Googleマップ・じゃらんでの個別レビュー本文までは深掘りできておらず、確認範囲が限定的である点は正直に記録する。確認できた範囲では除外基準（原則10）に該当する重大な問題は見つかっていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "【コートヤード・バイ・マリオット 新大阪ステーション】前菜からデザートまで栗づくしの秋限定ハイティー「MARRON TREAT」を発売 - oricon.co.jp（プレスリリース掲載）", "url": "https://www.oricon.co.jp/pressrelease/2948386/" },
+        { "type": "press", "title": "同プレスリリース（英語版） - haveagood-holiday.com", "url": "https://haveagood-holiday.com/en/articles/courtyard-marriott-shin-osaka-marron-treat-high-tea" },
+        { "type": "review_site", "title": "コートヤード・バイ・マリオット 新大阪ステーション クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-10049130" },
+        { "type": "review_site", "title": "コートヤード・バイ・マリオット 新大阪ステーション レビュー - Relux", "url": "https://rlx.jp/21377/review/" },
+        { "type": "other", "title": "新大阪・十三エリアのホテル一覧（楽天トラベル評価4.38点を掲載） - Mapple", "url": "https://www.mapple.net/region/a0503010300/hotel/" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-22-grandprince-osakabay-halloween-harvestbuffet",
+      "name": "グランドプリンスホテル大阪ベイ「ハロウィーン・ハーベストブッフェ」（1階 The Cafe）",
+      "region": "大阪府大阪市住之江区（咲洲・ベイエリア）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル（施設全体の口コミ）", "score": 4.09, "scale": 5, "review_count": 194, "checked_date": "2026-10-22", "url": "https://4travel.jp/dm_hotel-10049313" }
+      ],
+      "price_range_jpy": {
+        "note": "ランチ平日大人4,500円／土日祝5,500円、ディナー平日大人6,000円／土日祝7,000円（ソフトドリンク飲み放題・税・サービス料込み、各90分制）。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "咲洲ベイエリアのグランドプリンスホテル大阪ベイ1階ブッフェレストラン『The Cafe』で、2026年9月4日〜11月3日に開催されるハロウィーンをテーマにしたビュッフェ。ホラーな世界観を表現した料理と、旬を迎える秋の食材（かぼちゃ・きのこ等）を使ったメニューを食べ放題で提供する。",
+      "renewal_or_news": "2026年9月4日〜11月3日の期間限定開催、11月4日以降は『オータムハーベストブッフェ』に切り替わる（複数のプレスリリース・メディアで確認）。",
+      "target_audience": ["家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 8,
+        "unique_experience_score": 8,
+        "photogenic": 8,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 58,
+      "recommendation_reason": "ホテル全体の口コミ（フォートラベル4.09点／194件、別途gpoint経由で確認した楽天トラベル4.59点の言及もあるが件数未確認のためreview_scoresには含めず）は一定水準にあるものの、ハロウィーンをテーマにしたブッフェ（食べ放題）という形式は他都市の多くのホテルで定番的に見られる企画であり、『少し贅沢な非日常』というアカウントのトーン（原則2・14〜19）よりファミリー向け・カジュアルな体験に寄る。食事自体の口コミもホテル全体の評価であり本企画単体のものではない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミでは、朝食好評・価格はやや高めだがポイント利用には良いという声が中心で、アクセス（最寄り駅から距離がある）を低く評価する傾向、チェックイン時にフロントが混み合ったという指摘があった。本ブッフェ企画自体についての口コミはまだ蓄積されていない（新規開催のため）。重大な欠陥の指摘は確認できなかったが、ブッフェ形式のカジュアルさから候補としては見送った。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "グランドプリンスホテル大阪ベイ「ハロウィーン・ハーベストブッフェ」開催 - san-tatsu.jp（プレスリリース掲載）", "url": "https://san-tatsu.jp/pressrelease/541296/" },
+        { "type": "official", "title": "Harvest Buffet - 公式サイト（プリンスホテル）", "url": "https://www.princehotels.co.jp/osakabay/plan/the_cafe/halloween/" },
+        { "type": "review_site", "title": "グランドプリンスホテル大阪ベイ クチコミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10049313" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score_breakdown合計58点で採用ライン（75点）に届かず、ブッフェ（食べ放題）形式のカジュアルさ・独自性の低さ（原則2・14〜19が求める『少し奮発すれば届く非日常』からファミリー向けのカジュアルさに寄る）が主因。本企画自体の口コミも新規開催のため蓄積されていない。"
+    }
+  ]
+}

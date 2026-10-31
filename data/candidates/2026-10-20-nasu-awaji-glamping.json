@@ -1,0 +1,193 @@
+{
+  "cycle_date": "2026-10-20",
+  "theme": "栃木県那須高原・兵庫県淡路島のグランピング施設（グランピング継続調査・4回目）",
+  "season_rationale": "本サイクルはカテゴリ『グランピング』の継続調査。直近は和歌山県白浜（2026-10-17・captions/2026-10-17-luanapark-shirahama.json）、山梨県河口湖（2026-10-18・captions/2026-10-18-hoshinoya-fuji.json）で選定済み、2026-10-19には滋賀県高島市・三重県伊勢志摩・北海道洞爺湖町で3回連続して75点以上の候補が見つからなかった（data/candidates/2026-10-19-takashima-glamping.json, 2026-10-19-iseshima-glamping.json）。指示に従い地域を栃木県那須高原・兵庫県淡路島に変更して4回目の調査を実施した。10月下旬は那須・淡路いずれも朝晩が冷え込み始める時期で、サウナ・焚き火・温泉付きのグランピングが心地よくなる季節（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-shirahama-glamping", "region": "和歌山県西牟婁郡白浜町", "category": "グランピング" },
+    { "post_id": "2026-10-18-hoshinoya-fuji", "region": "山梨県南都留郡富士河口湖町（河口湖畔）", "category": "グランピング" },
+    { "post_id": "2026-10-19-takashima-glamping", "region": "滋賀県高島市（琵琶湖畔）", "category": "グランピング（該当なし）" },
+    { "post_id": "2026-10-19-iseshima-glamping", "region": "三重県伊勢志摩・北海道虻田郡洞爺湖町", "category": "グランピング（該当なし）" },
+    { "post_id": "2026-10-17-shichijuyae", "region": "栃木県日光市鬼怒川温泉", "category": "温泉旅館（同一県だが別地域・別カテゴリ）" },
+    { "post_id": "2026-10-19-kusatsu-onsen-ryokan", "region": "群馬県吾妻郡草津町", "category": "温泉旅館" },
+    { "post_id": "2026-10-19-jozankei-sauna", "region": "北海道札幌市（定山渓）", "category": "サウナ" },
+    { "post_id": "2026-10-19-ibusuki-view-hotel", "region": "鹿児島県指宿市", "category": "絶景ホテル" },
+    { "post_id": "2026-10-19-wajima-gourmet-ryokan", "region": "石川県輪島市", "category": "グルメ旅館" },
+    { "post_id": "2026-10-19-irabu-island-resort", "region": "沖縄県宮古島市（伊良部島）", "category": "離島リゾート" },
+    { "post_id": "2026-10-19-hakuba-activity", "region": "長野県北安曇郡白馬村", "category": "アクティビティ" },
+    { "post_id": "2026-10-19-all-inclusive-motobu-htb", "region": "沖縄県国頭郡本部町", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-19-hisatsu-orange-railway", "region": "熊本県・鹿児島県（肥薩おれんじ鉄道）", "category": "列車・船" },
+    { "post_id": "2026-10-19-yokohama-gentei-event", "region": "神奈川県横浜市", "category": "期間限定イベント" }
+  ],
+  "duplication_note": "既存の `data/candidates/`・`captions/`・`posts/` を確認した結果、栃木県那須高原・兵庫県淡路島を『グランピング』カテゴリで扱った既存候補・投稿はなし（`data/candidates/`・`captions/`をファイル名でgrepしても那須・栃木・淡路・兵庫に該当するグランピング案件は0件）。栃木県については2026-10-17に`captions/2026-10-17-shichijuyae.json`（鬼怒川温泉、温泉旅館）があるが、地域（那須 vs 鬼怒川）・カテゴリとも異なるため重複としない。グランピング自体は2026-10-17（白浜）・2026-10-18（河口湖）と直近2日連続で選定済みのため、本サイクルで仮に選定候補が出ても次回は別カテゴリへのローテーションを推奨する。",
+  "research_note": "栃木県那須高原では『那須りんどう湖グランピング&キャンプ場（りんどう湖ファミリー牧場グランピング&ヴィラ）』『グランハイドアウト那須高原』『グランピングB&V 那須高原』『Nenn NASUKOUGEN』『那須グランピング（那須町寺子、5棟のドーム型）』の5件、兵庫県淡路島では『Glamping Resort Awaji（グランピングリゾートアワジ）』『AWAJI GLAMPING BEACH VILLA SAZANAMI（漣）』『シーサイドグランピング淡路』『THE BOND -camp&sauna-（旧UN REAL-camp&sauna-）』『あわじ島 鮎屋組 滝テラス』の5件、計10件を調査した。このセッションのネットワーク環境では引き続きjalan.net・nap-camp.com・travel.rakuten.co.jp・4travel.jp等へのWebFetchがいずれもEGRESS_BLOCKED（DNS解決不可）となったため、WebSearchのスニペットから得られる情報のみを根拠とした。この制約下では、那須・淡路のグランピング施設について『原則7（最低2種類以上の独立した情報源）』と『原則6（主要レビューサイト4.0以上）』を同時に満たす数値的根拠を確認できた施設は1件もなかった。最も有力だったのは淡路島の『THE BOND -camp&sauna-』で、なっぷ（nap-camp.com）掲載の評価が4.7（口コミ71件、別の一覧ページでは261件と表示されページにより件数が異なる）と高評価だったが、これはなっぷという単一サイトの掲載であり、じゃらん・Googleマップ・Tripadvisor等の第二の独立した数値評価は複数回の検索でも確認できなかった。また施設全体はオートキャンプ区画（¥4,000〜）が主体で、サウナ・露天風呂・プール付きのグランピング（デッキエリア、定員6名、¥39,800〜）は複数プランの一つという位置づけであり、ラグジュアリー訴求の核にするには情報が薄い。栃木県の『那須りんどう湖グランピング&キャンプ場』は、いこーよで4.3（63件、ただし施設全体＝りんどう湖ファミリー牧場としての評価でグランピング単体の評価ではない）、楽天トラベルでは宿泊者レビューが2026年6月の1件のみで、その中で『トイレ・シャワー棟への移動が不便』『虫が多い』という指摘があった。淡路島の『あわじ島 鮎屋組 滝テラス』はなっぷで4.2（8件）という基準超えの評価だったが件数が少なすぎて信頼性に乏しい。その他（グランハイドアウト那須高原、グランピングB&V那須高原、Nenn那須高原、那須グランピング寺子、Glamping Resort Awaji、AWAJI GLAMPING BEACH VILLA SAZANAMI、シーサイドグランピング淡路）はいずれも口コミ件数が極端に少ない（0〜8件）か、数値評価自体がWebSearchで確認できなかった。存在しない評価を捏造することは避け、以上の理由から本サイクルでも75点以上かつ原則6・7を満たす『selected』候補は確認できず、該当なしとした。なお本セッションのWebSearch呼び出し回数が上限に達したため、淡路島の他施設（淡路サウナグランピングMeri等）の追加調査は次回サイクルに持ち越す。",
+  "candidates": [
+    {
+      "id": "2026-10-20-nasu-rindoko-glamping",
+      "name": "那須りんどう湖グランピング&キャンプ場（りんどう湖ファミリー牧場グランピング&ヴィラ）",
+      "region": "栃木県那須郡那須町高久丙（りんどう湖ファミリー牧場内）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "いこーよ（施設全体＝りんどう湖ファミリー牧場の評価）", "score": 4.3, "scale": 5, "review_count": 63, "checked_date": "2026-10-20", "url": "https://iko-yo.net/experiences/43966/memory_photos/76770" }
+      ],
+      "price_range_jpy": {
+        "note": "テーマパーク入園料込み・1泊朝食付きで5,500円〜20,000円程度という記事記載を確認（検索時点）。具体的なグランピング棟タイプ別の最新料金は公式サイト・楽天トラベルで要確認。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "那須高原唯一の湖『りんどう湖』畔に、レイクビューグランピング・水上グランピング・アルパカグランピング・こどもスイートルームなど複数タイプのグランピングを配置し、牧場・遊園地とセットで楽しめる。那須連山を望む湖畔の星空観賞も魅力。",
+      "renewal_or_news": "2020年にりんどう湖ファミリー牧場内にグランピング・オートキャンプ場として新設された比較的新しい施設。",
+      "target_audience": ["家族", "友人", "カップル"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 5,
+        "unique_experience_score": 12,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 48,
+      "recommendation_reason": "湖畔・牧場・遊園地・アルパカという複合体験は家族連れ向けの独自性があるが、いこーよの4.3（63件）は施設全体＝りんどう湖ファミリー牧場としての評価であり、グランピング単体の評価ではない。楽天トラベルのグランピング&ヴィラ専用ページには宿泊レビューが2026年6月の1件のみしかなく、その中で『トイレ・シャワー棟への移動が不便』『虫が多い』という指摘があった。原則7（最低2種類以上の独立した情報源でグランピング自体を評価）を満たす根拠が薄く、保守的に採点した結果48点で採用ライン（75点）に届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベルの唯一の宿泊レビュー（2026年6月・40代女性）で『トイレやシャワー棟への移動が不便』『虫が多い』『雨天時にテント内で過ごしづらい』という指摘を確認した。施設側は改善の参考にすると回答している。安全・衛生上の重大な問題を示す言及はないが、口コミ総数自体が極端に少なく（グランピング専用レビューは1件）、全体像の把握はできていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "那須りんどう湖ファミリー牧場グランピング&ヴィラ 宿泊者レビュー - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/198714/review.html" },
+        { "type": "review_site", "title": "那須りんどう湖ファミリー牧場 みんなの満足度（評価なし） - フォートラベル", "url": "https://4travel.jp/dm_hotel-11984912" },
+        { "type": "other", "title": "那須りんどう湖ファミリー牧場 関連ページ（評価4.3・63件への言及） - いこーよ", "url": "https://iko-yo.net/experiences/43966/memory_photos/76770" },
+        { "type": "booking_site", "title": "那須りんどう湖グランピング&キャンプ場 プラン一覧 - なっぷ", "url": "https://www.nap-camp.com/tochigi/14422/plans" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "グランピング単体についての独立した複数評価（原則7）が確認できず、唯一の宿泊レビューには施設面の不満指摘もあったため、保守的な採点（48点）で採用ライン（75点）に届かず不採用。"
+    },
+    {
+      "id": "2026-10-20-awaji-the-bond-camp-sauna",
+      "name": "THE BOND -camp&sauna-（旧 UN REAL-camp&sauna-）",
+      "region": "兵庫県南あわじ市（淡路島）",
+      "category": "グランピング",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "なっぷ（nap-camp.com）", "score": 4.7, "scale": 5, "review_count": 71, "checked_date": "2026-10-20", "url": "https://www.nap-camp.com/treehouse_other/hyogo/awajishima/list" }
+      ],
+      "price_range_jpy": {
+        "note": "サウナ・露天風呂・プール・BBQグリル付きの貸切デッキエリア（定員6名）が39,800円〜。オートキャンプ区画は4,000円〜（別プラン・素泊まり）。オンラインカード決済のみ。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "淡路島南部のキャンプ場内に、プライベートサウナ・露天風呂・プールを備えた貸切デッキエリアのグランピングプランがあり、サウナ→水風呂（記録なし）→外気浴を1組貸切で楽しめる構成。サウナ専門サイト『サウナイキタイ』にも宿泊者限定・事前予約制として掲載されている。",
+      "renewal_or_news": "『UN REAL-camp&sauna-』から『THE BOND-camp&sauna-』へ名称変更された形跡があるが、リニューアル時期の詳細は本セッションのWebSearchでは確認できなかった。",
+      "target_audience": ["カップル", "友人", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 17,
+        "review_reliability": 4,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 57,
+      "recommendation_reason": "なっぷでの評価4.7（71件、別ページでは261件と表示され件数に不一致あり）は高く、サウナ・露天風呂・プール付きの貸切グランピングデッキという独自性も一定ある。ただし複数回の検索でも、じゃらん・Googleマップ・Tripadvisor等の第二の独立した数値評価サイトを確認できず、原則7（最低2種類以上の独立した情報源）を満たせなかった。施設全体はオートキャンプ区画が主体でグランピングはデッキエリアの一部プランに限られる点も踏まえ、保守的に採点した結果57点で採用ライン（75点）に届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "なっぷ側の個別レビュー本文・低評価コメントは本セッションのWebFetch制限（EGRESS_BLOCKED）により確認できなかった。サウナイキタイ上では水風呂・外気浴の設備情報が『無し』と表示されている点が気になるが、重大な衛生・安全上の問題を示す言及は検索結果からは見当たらない。口コミ件数の表示が71件・261件とページによって異なる点はデータの一貫性への留保事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "淡路島 ツリーハウス等カテゴリ一覧（THE BOND -camp&sauna- 4.7・71件掲載） - なっぷ", "url": "https://www.nap-camp.com/treehouse_other/hyogo/awajishima/list" },
+        { "type": "other", "title": "THE BOND -camp&sauna- 施設画像ページ（施設ID確認用） - なっぷ", "url": "https://www.nap-camp.com/hyogo/15959/images" },
+        { "type": "other", "title": "南あわじ市のサウナ施設一覧（THE BOND -camp&sauna- 掲載） - サウナイキタイ", "url": "https://sauna-ikitai.com/hyogo/南あわじ市?page=2" },
+        { "type": "booking_site", "title": "THE BOND -camp&sauna- 貸切デッキエリア プラン詳細 - 489ban.net予約システム", "url": "https://reserve.489ban.net/client/the-bonds/0/detail/956997" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "単一サイト（なっぷ）のみの高評価で、原則7が求める第二の独立した数値評価源を確認できなかったため、評価自体は有望だが根拠不足により57点相当とし不採用。第二の情報源（じゃらん・Google・Tripadvisor等）が確認できれば再調査の価値がある。"
+    },
+    {
+      "id": "2026-10-20-awaji-ayuyagumi-takiterrace",
+      "name": "あわじ島 鮎屋組 滝テラス",
+      "region": "兵庫県洲本市（鮎屋の滝周辺）",
+      "category": "グランピング",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "なっぷ（nap-camp.com）", "score": 4.2, "scale": 5, "review_count": 8, "checked_date": "2026-10-20", "url": "https://www.nap-camp.com/river/hyogo/awajishima/list" }
+      ],
+      "price_range_jpy": {
+        "note": "プライベートサウナ付き・エアコン付きダイニング付きのグランピングプラン『太郎』等が提供されているが、具体的な1泊料金は検索結果からは確認できなかった。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "淡路島の渓流・滝が近いエリアでプライベートサウナ付きのグランピングプランを提供。川のせせらぎを聞きながらのサウナ・焚き火体験という渓流型グランピングの独自性がある。",
+      "renewal_or_news": "開業時期・リニューアル情報は本セッションのWebSearchでは確認できなかった。",
+      "target_audience": ["カップル", "友人"],
+      "score_breakdown": {
+        "review_rating": 13,
+        "review_reliability": 2,
+        "unique_experience_score": 11,
+        "photogenic": 7,
+        "value_for_price": 4,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 41,
+      "recommendation_reason": "なっぷでの評価4.2は採用ライン（4.0）を上回るが、口コミ件数がわずか8件と少なく信頼性が低い（原則6『件数とセットで信頼度を判断』）。第二の独立した情報源も確認できず原則7も満たせない。渓流サウナという独自性はあるが、情報不足のため41点相当とし不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ件数が8件と極端に少なく、個別レビュー本文は本セッションのWebFetch制限により確認できなかった。重大な問題を示す言及は検索結果からは見当たらないが、ネガティブ情報の網羅的な確認ができているとは言えない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "淡路島 リバーサイトカテゴリ一覧（あわじ島 鮎屋組 滝テラス 4.2・8件掲載） - なっぷ", "url": "https://www.nap-camp.com/river/hyogo/awajishima/list" },
+        { "type": "other", "title": "淡路島のグランピング施設紹介記事（鮎屋組含む） - なっぷマガジン", "url": "https://www.nap-camp.com/mag/8238" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "評価点（4.2）は基準を満たすが口コミ件数が8件のみと信頼性が低く、第二の独立情報源も確認できないため（原則6・7）不採用。"
+    }
+  ],
+  "excluded_insufficient_data": [
+    {
+      "name": "グランハイドアウト那須高原",
+      "region": "栃木県那須郡那須町",
+      "category": "グランピング",
+      "reason": "全室冷暖房完備のドーム型客室、高台のダイニングテラスでのBBQ、世界選手権2位のピッツァ等メディア露出はあるが、フォートラベルでは『みんなの満足度 評価なし・口コミ0件』、じゃらんのページも評価点を確認できず、なっぷにも該当ページが見当たらなかった。原則6・7を満たす数値的根拠が一切得られず、正式な候補エントリとはせず除外した。開業から時間が経ち口コミが蓄積された段階で再調査の価値がある。"
+    },
+    {
+      "name": "グランピングB&V 那須高原",
+      "region": "栃木県那須郡那須町高久甲",
+      "category": "グランピング",
+      "reason": "全棟個別温泉・サウナ・焚き火付きのプレミアムグランピングという北関東初をうたう独自性の高い施設だが、じゃらん・なっぷ・Googleマップいずれの数値評価もWebSearchで確認できなかった。原則6・7を満たす根拠が得られず除外した。"
+    },
+    {
+      "name": "Nenn NASUKOUGEN",
+      "region": "栃木県那須郡那須町高久甲",
+      "category": "グランピング",
+      "reason": "天然温泉の大浴場・貸切サウナ付きで犬同伴可の人気ブランドだが、じゃらん・Booking.com等の数値評価がWebSearchで確認できなかった。原則6・7を満たす根拠が得られず除外した。"
+    },
+    {
+      "name": "那須グランピング（那須町寺子）",
+      "region": "栃木県那須郡那須町寺子",
+      "category": "グランピング",
+      "reason": "海外向け宿泊サイト（dinogo掲載）で9.8（8件）という高評価が確認できたが、Yahoo!トラベルでは『規定のクチコミ件数に達していないため総合点数非表示』と案内されており、件数（8件）が少なすぎることに加え、国内の主要レビューサイト（じゃらん・楽天トラベル等）での評価が確認できなかった。原則6・7を満たす根拠として不十分なため除外した。"
+    },
+    {
+      "name": "Glamping Resort Awaji（グランピングリゾートアワジ）",
+      "region": "兵庫県淡路市岩屋",
+      "category": "グランピング",
+      "reason": "淡路エリア初のドーム型グランピング（全7室）、愛犬同伴可能な『ドッグテラス・プレミアム』等の話題性はあるが、じゃらん・楽天トラベル等の数値評価がWebSearchで確認できず、口コミサイトyuru-toの個人投稿1件（好意的）のみしか確認できなかった。原則6・7を満たす根拠が得られず除外した。"
+    },
+    {
+      "name": "AWAJI GLAMPING BEACH VILLA SAZANAMI（淡路島グランピングビーチヴィラ 漣）",
+      "region": "兵庫県淡路市岩屋（ビーチリゾートMOON JELLY屋上）",
+      "category": "グランピング",
+      "reason": "明石海峡大橋の夜景を望む屋上ドームテント（1日1組限定）という独自性の高い施設だが、一休.comのページに『レビュー』の見出しはあるものの点数・件数は確認できず、じゃらん等の他サイトでも数値評価が得られなかった。原則6・7を満たす根拠が得られず除外した。"
+    },
+    {
+      "name": "シーサイドグランピング淡路",
+      "region": "兵庫県淡路市",
+      "category": "グランピング",
+      "reason": "2024年7月開業のプール・インクルーシブBAR付きドーム型グランピングで『ビーチまでゼロ距離』を訴求する新しい施設だが、じゃらん・楽天トラベル・なっぷいずれの数値評価もWebSearchで確認できなかった。開業から間もなく口コミ自体が少ない可能性があり、原則6・7を満たす根拠が得られず除外した。"
+    }
+  ]
+}

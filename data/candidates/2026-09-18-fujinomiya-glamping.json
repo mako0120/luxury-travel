@@ -1,0 +1,106 @@
+{
+  "cycle_date": "2026-09-18",
+  "theme": "静岡県富士宮市エリア（富士山ビュー）のグランピング新規調査",
+  "season_rationale": "9月下旬〜10月の富士宮・朝霧高原エリアは空気が澄み、富士山の稜線がくっきり見える時期。日中の残暑が和らぎ、夜は焚き火・星空観賞に適した気温になるため、グランピング体験の映え・快適性がともに高まる（原則30）。紅葉本番前のこの時期は週末旅行の予約検討が始まるタイミングでもある。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-18-fufu-karuizawa", "region": "長野県北佐久郡軽井沢町（中軽井沢）", "category": "サウナ" },
+    { "post_id": "2026-09-14-unkai-terrace-tomamu", "region": "北海道占冠村（星野リゾート トマム）", "category": "絶景ホテル" },
+    { "post_id": "2026-09-14-kinmedai-kokorone", "region": "静岡県伊東市（宇佐美温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-09-14-lanature-glamping", "region": "栃木県佐野市", "category": "グランピング" },
+    { "post_id": "2026-09-14-yamamizuki-kurokawa", "region": "熊本県阿蘇郡南小国町（黒川温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-hoshinoya-kyoto", "region": "京都府京都市（嵐山）", "category": "文化体験" },
+    { "post_id": "2026-09-14-azumi-setoda", "region": "広島県尾道市瀬戸田町", "category": "離島リゾート" },
+    { "post_id": "2026-09-14-soki-kanazawa", "region": "石川県金沢市（近江町市場前）", "category": "文化体験" },
+    { "post_id": "2026-09-14-sagano-torokko", "region": "京都府京都市（嵯峨野）〜亀岡市", "category": "列車・船" },
+    { "post_id": "2026-09-14-sheraton-yosweets", "region": "大阪府大阪市天王寺区（上本町）", "category": "その他" },
+    { "post_id": "2026-09-14-aonagi-setouchi", "region": "愛媛県松山市（柳谷町）", "category": "絶景ホテル" },
+    { "post_id": "2026-09-14-clubmed-ishigaki-kabira", "region": "沖縄県石垣市（川平湾）", "category": "オールインクルーシブ" }
+  ],
+  "duplication_note": "グランピングカテゴリは直近では2026-09-14（ラ・ナチュール、栃木県佐野市）で使用済みだが、本サイクルは指示により静岡県富士宮市エリアを新規に調査するもので、地域は重複しない（原則29）。直近の投稿の並びは サウナ→絶景ホテル→グルメ旅館→グランピング→温泉旅館→文化体験…と多様であり、今回のグランピング（富士宮）を挟んでも地域・切り口（富士山ビュー×エコツーリズム）が既存投稿と重ならないことを確認した。静岡県自体は2026-09-14のこころね（伊東市・宇佐美温泉）で一度登場しているが、富士宮市は伊東市と離れた別エリア（富士山麓）であり、カテゴリ（グルメ旅館→グランピング）も異なるため問題なしと判断した。",
+  "known_difficulty_note": "本セッションのネットワーク環境では、じゃらん・楽天トラベル・一休.com・Tripadvisor・Booking.com・なっぷ・hinata・glampress等、ほぼ全ての旅行系・キャンプ系ドメインへのWebFetchがEGRESS_BLOCKEDとなり本文を直接確認できなかった。加えて本サイクルの調査中にセッションのWebSearch実行回数上限（200回）に到達し、追加のWeb検索も行えなくなった。そのため、GRAN REGALO ASAGIRI・ふもとっぱらについては施設の魅力は高いものの、スコアリングに必要な『情報源ごとの評価点＋件数（review_scores）』を数値として確認しきれず、原則7・スコアリングの前提を満たせないため、無理に数値を作らず候補一覧（other_candidates_considered）にとどめ、正式なスコアリング対象からは除外した。正式にスコアリングできたのはMt. FUJI SATOYAMA VACATION（Google 5.0／413件、なっぷ4.8／3件の2つの独立ソースで数値を確認できた）のみである。",
+  "other_candidates_considered": [
+    {
+      "name": "GRAN REGALO ASAGIRI（グランレガロ ASAGIRI）",
+      "category": "グランピング",
+      "note": "静岡県富士宮市・朝霧高原。全8棟の大型ドームテント（1棟専有面積220㎡、プライベートガーデン100㎡）で、富士宮初という専用ドッグラン付き客室もある高規格グランピング。なっぷ上の口コミには『自然3・立地4・サービス5・設備5・管理5・周辺環境4』という項目別評価が見られ好意的だが、これは個別レビューの項目内訳であり、施設全体の集計評価点・レビュー総数を示す数値ではない。楽天トラベル等の主要予約サイトでの集計スコア・件数はWebFetchのEGRESS_BLOCKEDとWebSearch上限到達により確認できなかったため、スコアリング（review_scores）を構成できず、今サイクルは正式候補から除外した。次サイクル以降、検索回数に余裕がある状態で再調査すれば有力候補になり得る。"
+    },
+    {
+      "name": "ふもとっぱら",
+      "category": "グランピング／キャンプ場（森のコテージ）",
+      "note": "静岡県富士宮市麓。富士山の稜線を遮るものなく一望できる広大なサイトで著名だが、グランピング的な宿泊は『森のコテージ』等の一部に限られ、施設全体としてはハイエンドなグランピングというより大規模キャンプ場としての性格が強い。なっぷの項目別評価は自然4.5・立地4.1に対しサービス3.7・設備3.6・管理3.6とやや低く、Tripadvisorには『もう行かない』という否定的な見出しの口コミも確認された。施設全体の集計評価点・件数も確認できず、スタッフ対応に関する厳しい声もあることから、『少し贅沢な旅』というブランドコンセプトとの適合度・原則10（マイナス口コミ）の両面でリスクがあると判断し、正式候補から除外した。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-09-18-satoyama-vacation",
+      "name": "Mt. FUJI SATOYAMA VACATION（マウントフジ里山バケーション）",
+      "region": "静岡県富士宮市上井出（白糸ノ滝周辺）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Google レビュー",
+          "score": 5.0,
+          "scale": 5,
+          "review_count": 413,
+          "checked_date": "2026-09-18"
+        },
+        {
+          "source": "なっぷ（キャンプ場専門口コミサイト）",
+          "score": 4.8,
+          "scale": 5,
+          "review_count": 3,
+          "checked_date": "2026-09-18",
+          "url": "https://www.nap-camp.com/shizuoka/14494/reviews"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な宿泊料金は、本セッションのネットワーク制限（主要な予約・口コミサイトの多くがWebFetchでEGRESS_BLOCKED、かつWebSearchも検索回数上限に到達）により確認できなかった。ガイド付きエコツアー・食事込みのオールインクルーシブ型プライベートグランピング（1日1組限定）であるため、素泊まり中心の一般的なグランピングよりも高めの価格帯であることが推測されるが、具体的な金額は未確認のため本記録には記載しない。予約前に公式サイトで要確認。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "白糸ノ滝near接する富士宮市上井出の里山に、2021年3月に開業したプライベートグランピング施設。1日1組限定で、世界各国のクラフトで彩られたベルテント、富士山ビューのラウンジ、リゾート仕様のシャワーを備える。ソーラー発電・手作り家具・フェアトレードコーヒーなど持続可能な観光をコンセプトに、英語ガイド付きのeバイクツアー、富士登山トレッキング、酒蔵見学、ファーム・トゥ・テーブルツアー、蛍観賞、白糸ノ滝への朝の散策、星空観賞など、宿泊とエコツアーが一体化した体験を提供する。単なる宿泊ではなく『里山まるごと体験』という切り口が、他の富士山周辺グランピングとの明確な差別化要素。",
+      "renewal_or_news": "2021年3月開業。Googleレビューが413件まで積み上がっており継続的に利用されていることを確認。JNTO（日本政府観光局）『Japan's Local Treasures』やLIVE JAPAN、MATCHA、Bespoke Black Book等の観光メディアでも継続的に紹介されている。",
+      "target_audience": ["カップル", "夫婦", "絶景好き", "友人"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 12,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 5,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 82,
+      "recommendation_reason": "Googleレビュー5.0（413件）という大規模な母数での満点評価に加え、Tripadvisorでも『富士宮の専門宿泊施設27軒中6位、評価5/5』（具体的な件数は本セッションでは未確認）、なっぷでも4.8（3件）と、性質の異なる複数の独立情報源すべてで4.0を大きく上回る評価が確認できた。1日1組限定・英語ガイド付きエコツアー一体型という『ここでしかできない体験』が明確で、白糸ノ滝至近・富士山ビューという映えの強さもある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本セッションのWebSearchで得られたスニペットの範囲では、『富士山の絶景』『ホストが親切』『寒い時期でもテントが暖かく快適だった』といった好意的な内容のみが確認され、清潔感・接客・老朽化・予約トラブル等に関する具体的な低評価コメントは見つからなかった。ただし、Google・Tripadvisor・Booking.comの個別レビュー本文はWebFetchがEGRESS_BLOCKEDとなり直接確認できず、かつ本セッションのWebSearch実行回数上限に到達したため、低評価レビューの追加検索も行えなかった。したがって『低評価レビューが実際にゼロ』とまでは断定できず、次サイクル以降に検索余力がある状態で再確認することが望ましい点は留意事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "MT. FUJI SATOYAMA VACATION - Prices & Campground Reviews (Fujinomiya, Japan) - Tripadvisor",
+          "url": "https://www.tripadvisor.com/Hotel_Review-g780857-d26873714-Reviews-Mt_Fuji_Satoyama_Vacation-Fujinomiya_Shizuoka_Prefecture_Tokai_Chubu.html"
+        },
+        {
+          "type": "review_site",
+          "title": "Mt. FUJI SATOYAMA VACATION (マウントフジ里山バケーション）の口コミ・評判（静岡県富士宮市） - なっぷ",
+          "url": "https://www.nap-camp.com/shizuoka/14494/reviews"
+        },
+        {
+          "type": "official",
+          "title": "Mt. Fuji satoyama vacation（公式サイト）",
+          "url": "https://satoyama-vacation.com/"
+        },
+        {
+          "type": "press",
+          "title": "Mt. Fuji Satoyama Vacation and Ecotours | Japan's Local Treasures | Travel Japan（JNTO）",
+          "url": "https://www.japan.travel/en/japans-local-treasures/mt-fuji-satoyama-vacation-and-ecotours/"
+        }
+      ],
+      "decision": "selected"
+    }
+  ]
+}

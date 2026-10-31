@@ -1,0 +1,189 @@
+{
+  "cycle_date": "2026-09-18",
+  "theme": "群馬県・四万温泉/水上温泉エリアのサウナ×温泉旅館リトリート",
+  "season_rationale": "9月下旬の群馬県北部は朝晩の冷え込みが強まり始め、貸切サウナで発汗した後の渓谷沿いの外気浴が心地よい季節。10月中旬以降の紅葉本番の直前で、秋の温泉旅を検討し始める層が増えるタイミングでもある（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-18-fufu-karuizawa", "region": "長野県北佐久郡軽井沢町（中軽井沢）", "category": "サウナ" },
+    { "post_id": "2026-09-20-mizu-no-oto", "region": "神奈川県足柄下郡箱根町（小涌谷）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-cycl-yamanakako", "region": "山梨県南都留郡山中湖村", "category": "サウナ" },
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-yamamizuki-kurokawa", "region": "熊本県阿蘇郡南小国町（黒川温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-hoshinoya-kyoto", "region": "京都府京都市（嵐山）", "category": "文化体験" },
+    { "post_id": "2026-09-14-soki-kanazawa", "region": "石川県金沢市（近江町市場前）", "category": "文化体験" },
+    { "post_id": "2026-09-14-aonagi-setouchi", "region": "愛媛県松山市（柳谷町）", "category": "絶景ホテル" },
+    { "post_id": "2026-09-14-lanature-glamping", "region": "栃木県佐野市", "category": "グランピング" },
+    { "post_id": "2026-09-14-azumi-setoda", "region": "広島県尾道市瀬戸田町", "category": "離島リゾート" }
+  ],
+  "duplication_note": "サウナカテゴリの既存投稿は山梨県山中湖村（CYCL）・長野県軽井沢町（ふふ軽井沢）のみで、群馬県は本サイクルが初出。地域・宿ブランドともに重複しない（原則29）。",
+  "candidates": [
+    {
+      "id": "2026-09-18-shima-tsuruya",
+      "name": "四万温泉 鹿覗きの湯 つるや",
+      "region": "群馬県吾妻郡中之条町（四万温泉）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 280,
+          "checked_date": "2026-09-18",
+          "url": "https://travel.rakuten.co.jp/HOTEL/67233/review.html"
+        },
+        {
+          "source": "一休.com",
+          "score": 4.33,
+          "scale": 5,
+          "review_count": 51,
+          "checked_date": "2026-09-18",
+          "url": "https://www.ikyu.com/00000949/review/"
+        },
+        {
+          "source": "Relux",
+          "score": 3.9,
+          "scale": 5,
+          "review_count": 10,
+          "checked_date": "2026-09-18",
+          "url": "https://rlx.jp/21313/review/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらんnet掲載プランで2名1室・目安92,400円〜（税込）という表示を確認したが、1名あたりの1泊2食価格や部屋タイプ別の正確な下限・上限はWeb検索の範囲では確定できなかった。全室に露天風呂付きの客室が中心のため、標準的な温泉旅館より高めの価格帯になる可能性が高い。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "四万温泉の一番奥、けもの道を望む静かな立地にある全室温泉付き客室の宿。貸切風呂フロアに露天風呂「鹿覗きの湯」、内湯「観月の湯」に加え、水風呂・シャワーブース・外気浴デッキを備えた本格貸切サウナ「天下人サウナ」、プライベート空間の「薬王岩盤浴」の4施設を宿泊者無料・時間貸切制で用意。四万最古の源泉「御夢想の湯」を含む4つの源泉をブレンドした源泉掛け流しという泉質の豊かさも特徴。",
+      "renewal_or_news": "2025年1月に最上階の新客室（露天風呂・展望ウッドデッキ付き、91.30㎡）をオープン。2024年9月には別館「美月庵」のリニューアルも発表されており、直近1〜2年で継続的に施設投資が行われている。",
+      "target_audience": ["夫婦", "記念日", "カップル", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 81,
+      "recommendation_reason": "楽天トラベル4.5（280件）・一休.com4.33（51件）と、母数の異なる2つの独立した予約サイトでいずれも推奨ライン（4.2以上）近傍〜上回る高評価を確認できた（原則6・7）。全室露天風呂付き客室に加え、貸切制の本格サウナ「天下人サウナ」・岩盤浴・2種の貸切風呂を無料で使える『4施設をローテーションできる』構成は他候補にない独自性がある。2025年1月の新客室オープンなど情報の新しさも確認できた。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Reluxでは評価3.9/5（5つ星30%・4つ星40%・3つ星20%・2つ星10%）とやや厳しめの分布があり、客室露天風呂の湯温調整（夜はぬるく、朝は熱すぎて入れなかった）、ミネラルウォーター追加時の160円課金の説明不足、夕食メニュー表の提供が遅れた、といった具体的な不満点が確認できた。いずれもサービス運用上の改善点であり、清潔感・安全性に関わる重大な指摘ではないため disqualifying issue とは判断しなかった（原則10）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "四万温泉 鹿覗きの湯つるや に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/67233/review.html" },
+        { "type": "review_site", "title": "四万温泉 鹿覗きの湯 つるや - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00000949/review/" },
+        { "type": "review_site", "title": "四万温泉 鹿覗きの湯 つるやの口コミ（レビュー） - Relux", "url": "https://rlx.jp/21313/review/" },
+        { "type": "official", "title": "四万温泉 鹿覗きの湯 つるや 公式HP", "url": "https://tsuruya.net/" },
+        { "type": "official", "title": "温泉 - 四万温泉 鹿覗きの湯 つるや（天下人サウナ・薬王岩盤浴の案内）", "url": "https://tsuruya.net/bath/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-18-shimablue-nakanojo",
+      "name": "四万温泉 シマブルー（温泉グランピング ShimaBlue）",
+      "region": "群馬県吾妻郡中之条町（四万温泉）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル",
+          "score": 4.68,
+          "scale": 5,
+          "review_count": 52,
+          "checked_date": "2026-09-18",
+          "url": "https://travel.rakuten.co.jp/HOTEL/162764/review.html"
+        },
+        {
+          "source": "一休.com",
+          "score": 3.6,
+          "scale": 5,
+          "review_count": 15,
+          "checked_date": "2026-09-18",
+          "url": "https://www.ikyu.com/00050707/review/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な1泊2食価格帯を確認できなかった。全棟に露天風呂付きコテージ型のグランピング施設のため、一般的な旅館より価格帯は高めと推測される。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "四万川渓谷沿いに立つ、四万温泉初の温泉付きグランピング施設。全7棟のコテージに温泉露天風呂を完備し、敷地内には渓谷の景勝地「楓仙峡」を望む貸切プライベートサウナ「森のサウナ」（本格ロウリュ対応）を設置。source-to-tap源泉かけ流しの温泉とアウトドア体験を掛け合わせた構成が特徴。",
+      "target_audience": ["カップル", "友人", "女子旅"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 6,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 64,
+      "recommendation_reason": "渓谷を望む貸切サウナ×温泉付きコテージという独自性は高いが、楽天トラベル4.68（52件）に対し一休.com3.60（15件）と、独立した2情報源の間で評価が大きく乖離し、一方が採用ライン（4.0以上、原則6）を下回った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "『お風呂が写真より小さい』『露天風呂とシャワーが別々で使いづらい』といった設備面の指摘、および『虫が出る』という声が複数確認できた。施設側も虫の発生について『自然環境に囲まれた立地のため完全な防止は難しいが清掃・対策を強化している』とコメントしており、深刻な衛生上の欠陥というより立地起因の限定的な課題と判断したため disqualifying issue は『なし』とするが、一休.comの低めの評価（3.60）と合わせて写真とのギャップに関する懸念材料として選定に影響した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "四万温泉 シマブルー に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/162764/review.html" },
+        { "type": "review_site", "title": "四万温泉 ShimaBlue - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00050707/review/" },
+        { "type": "official", "title": "【森のサウナ】のご案内 | 四万温泉・温泉グランピング シマブルー", "url": "https://shimablue.jp/sauna/" },
+        { "type": "other", "title": "温泉グランピング シマブルーの口コミ・予約（群馬県吾妻郡中之条町）", "url": "https://www.nap-camp.com/gunma/13943" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立した2情報源のうち一休.comの評価（3.60）が採用ライン（4.0以上）を下回り、楽天トラベル（4.68）との乖離も大きいこと（原則6・7）、加えて『写真より風呂が小さい』『虫が出る』といった具体的な不満が複数確認できたことから、今回は選定を見送った。"
+    },
+    {
+      "id": "2026-09-18-hotel-sunbird-minakami",
+      "name": "水上高原ホテルサンバード（サウナガーデン／11種類の貸切露天風呂）",
+      "region": "群馬県利根郡みなかみ町（水上高原・奥利根温泉）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "NAVITIME（Googleマップ由来集計）",
+          "score": 3.3,
+          "scale": 5,
+          "review_count": 49,
+          "checked_date": "2026-09-18",
+          "url": "https://www.navitime.co.jp/poi?spot=01140-RK9340"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な1泊2食価格帯を確認できなかった。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "奥利根・水上高原の谷川連山を望む高原リゾートで、趣の異なる11種類の貸切露天風呂『温泉道楽』に加え、敷地内にフィンランド式の『サウナガーデン』を開設し、谷川連山を望む外気浴ができる点が特徴。毎分800Lの豊富な自家源泉を使用。",
+      "renewal_or_news": "じゃらんアワード2021（泊まって良かった宿大賞・朝食部門、関東甲信越50室以下）で第3位、2024年1月クチコミランキング夕食部門でも関東甲信越第3位を受賞（じゃらん経由の情報）。",
+      "target_audience": ["家族", "夫婦", "友人"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 3,
+        "unique_experience_score": 15,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 49,
+      "recommendation_reason": "11種類の貸切露天風呂とフィンランド式サウナガーデンという独自性は非常に高いが、今回のセッションで数値評価を確認できた情報源がNAVITIME集計の3.3（49件）のみで、原則7の『最低2件以上の独立情報源』および原則6の『主要レビューサイト評価4.0以上』のいずれも満たせなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "じゃらんの口コミでは『露天風呂付客室で貸切露天風呂の無料特典があり食事は美味しい』という好意的な声がある一方、『施設は古い』という指摘も確認された。NAVITIME集計の3.3という数値も含め、清潔感や安全性に関わる重大な指摘は見つからなかったが、全体として評価にばらつきがある。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "11種類の貸切露天風呂 水上高原／奥利根温泉 ホテルサンバード - NAVITIME", "url": "https://www.navitime.co.jp/poi?spot=01140-RK9340" },
+        { "type": "review_site", "title": "水上高原ホテルサンバードのクチコミ一覧 - じゃらんnet", "url": "https://www.jalan.net/kankou/spt_guide000000160605/kuchikomi/" },
+        { "type": "official", "title": "サウナガーデン | 群馬県水上温泉郷の秘湯 ホテルサンバード 公式HP", "url": "https://hotel-sunbird.com/sauna/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコアが49点と採用ライン（75点）を大きく下回り、確認できた数値評価も単一情報源（NAVITIME 3.3／49件）のみで原則6・7の基準を満たせなかったため、今回は選定を見送った。"
+    }
+  ]
+}

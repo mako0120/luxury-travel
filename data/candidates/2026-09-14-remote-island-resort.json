@@ -1,0 +1,179 @@
+{
+  "cycle_date": "2026-09-14",
+  "theme": "離島リゾート（沖縄離島・瀬戸内離島）",
+  "season_rationale": "9月中旬は台風シーズンが落ち着き始め、夏の混雑・猛暑を避けて離島旅行を検討する層が増える時期（原則30）。瀬戸内エリアはしまなみ海道サイクリングの適期に入るタイミングでもある。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-20-mizu-no-oto", "region": "神奈川県足柄下郡箱根町（小涌谷）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-cycl-yamanakako", "region": "山梨県南都留郡山中湖村", "category": "サウナ" },
+    { "post_id": "2026-09-14-kinmedai-kokorone", "region": "静岡県伊東市（宇佐美温泉）", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "直近の投稿・キャプションは温泉旅館×2（玉泉／水の音）、サウナ×1（CYCL）、グルメ旅館×1（金目鯛の宿こころね）で、離島リゾートの地域・カテゴリは未着手だった。本サイクルでは沖縄離島（竹富島・伊良部島）と瀬戸内離島（生口島）を横断的に調査し、地域・カテゴリともに重複しない瀬戸内・生口島『Azumi Setoda』を選定した。",
+  "candidates": [
+    {
+      "id": "2026-09-14-azumi-setoda",
+      "name": "Azumi Setoda",
+      "region": "広島県尾道市瀬戸田町（生口島・しまなみ海道）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.2, "scale": 5, "review_count": 8, "checked_date": "2026-09-14", "url": "https://travel.rakuten.co.jp/HOTEL/184183/review.html" },
+        { "source": "一休.com", "score": 4.56, "scale": 5, "review_count": 14, "checked_date": "2026-09-14", "url": "https://www.ikyu.com/00002880/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "2名1室・室料のみで76,718円〜、朝食付きプランは80,360円〜、夕朝食付きプランは128,018円〜という情報を確認（税込表示）。部屋タイプ（Azumi 涼／Azumi 庭 等）や食事プランにより10万円台後半まで幅がある。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "1876年築、製塩業・海運業で財を成した豪商『堀内邸』を、Aman創業者エイドリアン・ゼッカ氏が手がけて再生した全22室の高級旅館。ミシュランガイドにも掲載。隣接して瀬戸田唯一の銭湯を兼ねる宿泊棟『yubune』があり、瀬戸田港から徒歩2分。しまなみ海道サイクリングの拠点として知られる生口島・瀬戸田で、古民家再生建築と瀬戸内の景観を一体で味わえる稀少な体験。",
+      "renewal_or_news": "2021年3月開業。大規模改装等の最新ニュースは確認できなかったが、公式Instagram（約2.1万フォロワー）で継続的に情報発信中。",
+      "target_audience": ["夫婦", "記念日", "ホテル好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 6,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 75,
+      "recommendation_reason": "楽天トラベル4.2／一休.com4.56と、独立した2つの予約サイトでともに4.0を上回る評価が取れている。件数は8〜14件とまだ少なく信頼性は限定的だが、Aman創業者が手がけた140年前の豪商邸再生という唯一無二のコンセプトと、ミシュランガイド掲載という第三者評価の裏付けがあり、離島の中でも高い『非日常』フックを持つ。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一休.comの口コミで、8万円超の宿泊料金に対しバレーパーキングがない・タオルが使い捨てで安っぽい・スタッフの対応にやや物足りなさを感じたという声、朝食時に厨房・スタッフの物音が気になったという声を確認した。いずれも清潔感・安全性に関わる重大な問題ではなく、高価格帯への期待値とのギャップに起因する指摘にとどまる。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "Azumi Setoda 公式サイト（予約）", "url": "https://azumi.co/ja/reservation/" },
+        { "type": "review_site", "title": "Azumi Setoda クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00002880/review/" },
+        { "type": "review_site", "title": "Azumi Setoda クチコミ・感想・情報 - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/184183/review.html" },
+        { "type": "other", "title": "Azumi Setoda - ミシュランガイド", "url": "https://guide.michelin.com/jp/ja/hotels-stays/onomichi/azumi-setoda-13824" },
+        { "type": "sns", "title": "Azumi Setoda 公式Instagram", "url": "https://www.instagram.com/azumi.setoda/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-14-hoshinoya-taketomi",
+      "name": "星のや竹富島",
+      "region": "沖縄県八重山郡竹富町（竹富島）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.25, "scale": 5, "review_count": 27, "checked_date": "2026-09-14", "url": "https://travel.rakuten.co.jp/HOTEL/172993/review.html" },
+        { "source": "Tripadvisor", "score": 4.2, "scale": 5, "review_count": 333, "checked_date": "2026-09-14", "url": "https://www.tripadvisor.jp/ShowUserReviews-g424930-d2528751-r151741309-HOSHINOYA_Taketomi_Island-Taketomi_jima_Taketomi_cho_Yaeyama_gun_Okinawa_Prefect.html" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な最新料金はセッション内で数値確認できなかった。星野リゾート『星のや』ブランドの高価格帯として知られる（一般に1泊十万円台〜との情報あり）。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "沖縄の伝統的な『離島の集落』を再現した、全48棟の平屋・赤瓦の独立ヴィラ。竹富島の集落景観をホテル全体で再現するという唯一無二のコンセプトで2012年開業。星空観賞や島内アクティビティも充実。",
+      "target_audience": ["夫婦", "記念日", "ホテル好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 13,
+        "unique_experience_score": 19,
+        "photogenic": 14,
+        "value_for_price": 5,
+        "sns_buzz": 7,
+        "access_and_freshness": 3
+      },
+      "score": 82,
+      "recommendation_reason": "採点上は82点で採用ラインを上回るが、negative_review_checkで確認した理由により今サイクルでは不採用と判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisor上で『ガッカリ以外の言葉はない』『もう行きたいない』等のレビュータイトルが複数確認でき、開放的な建築ゆえに客室内に蚊・ゴキブリ・ムカデ・ヤモリ等の虫が侵入するという報告が、独立した複数の口コミおよび第三者ブログ記事（『がっかり観光研究所』『オキナワ旅シオリ』等）で繰り返し確認された。あわせてスタッフ対応への不満も複数件見られた。高価格帯の高級宿としての期待値とのギャップが大きい。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "review_site", "title": "星のや竹富島＜竹富島＞ クチコミ・レビュー - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/172993/review.html" },
+        { "type": "review_site", "title": "『ガッカリ以外の言葉はない』- 星のや竹富島の口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g424930-d2528751-r151741309-HOSHINOYA_Taketomi_Island-Taketomi_jima_Taketomi_cho_Yaeyama_gun_Okinawa_Prefect.html" },
+        { "type": "other", "title": "星のや竹富島でがっかりする過ごし方は？（がっかり観光研究所）", "url": "https://spotsacks.com/hoshinoyataketomiisland/" },
+        { "type": "official", "title": "星のや竹富島【公式】| HOSHINOYA Taketomi Island", "url": "https://hoshinoresorts.com/en/hotels/hoshinoyataketomijima/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "採点上は82点で基準（75点）を満たすが、開放的な建築による虫の侵入（蚊・ゴキブリ・ムカデ等）とスタッフ対応への不満が、Tripadvisorの複数の独立レビューおよび複数の第三者ブログ記事で繰り返し確認された（原則10：マイナス口コミ分析）。高額な宿泊料金に対する期待値とのギャップが大きく、『少し贅沢な旅』というブランドイメージを毀損するリスクがあるため、今サイクルでは見送る。"
+    },
+    {
+      "id": "2026-09-14-takana-ryokan",
+      "name": "高那旅館",
+      "region": "沖縄県八重山郡竹富町（竹富島）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.67, "scale": 5, "review_count": 150, "checked_date": "2026-09-14", "url": "https://travel.rakuten.co.jp/HOTEL/129650/review.html" }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付き・風呂トイレ共同で1名9,500円程度〜、本館和室で1名12,000円程度との情報もあり。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "竹富島の集落内にある老舗民宿。島の素材を活かした手作りの郷土料理（夜はヤシガニツアーも）が名物で、竹富島が観光地化する前から続く素朴な佇まいがテレビ等でも紹介されている。港まで軽自動車での送迎対応。",
+      "target_audience": ["一人旅", "友人", "女子旅"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 14,
+        "unique_experience_score": 14,
+        "photogenic": 7,
+        "value_for_price": 9,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 76,
+      "recommendation_reason": "楽天トラベル4.67（150件）という高評価かつ十分な母数を持つ穴場候補。テレビでも紹介される郷土料理と竹富島の集落景観という独自性は強いが、後述の理由で本アカウントの方向性には合致しないと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "検索範囲では重大な低評価コメントは確認できなかった（清潔感・接客・食事とも概ね好評）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "高那旅館＜竹富島＞ クチコミ・感想・情報 - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/129650/review.html" },
+        { "type": "booking_site", "title": "高那旅館 - じゃらんnet", "url": "https://www.jalan.net/yad359430/" },
+        { "type": "official", "title": "高那旅館 - 竹富町観光協会", "url": "https://painusima.com/257/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "評価点・件数（4.67／150件）は申し分ないが、1泊2食9,500円前後・共同浴場の素朴な民宿であり、『普通の旅行より一段上』『少し奮発すれば届く非日常』という本アカウントのポジショニング（原則2・14〜19）とは方向性が異なる。安価に島time を楽しみたい層向けの施設のため、今サイクルでは見送る。"
+    },
+    {
+      "id": "2026-09-14-iraph-sui",
+      "name": "イラフ SUI ラグジュアリーコレクションホテル 沖縄宮古",
+      "region": "沖縄県宮古島市（伊良部島）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Tripadvisor", "score": 4.1, "scale": 5, "review_count": 88, "checked_date": "2026-09-14", "url": "https://www.tripadvisor.jp/Hotel_Review-g680765-d15051010-Reviews-IRAPH_SUI_a_Luxury_Collection_Hotel_Miyako_Okinawa-Miyakojima_Okinawa_Prefecture_.html" }
+      ],
+      "price_range_jpy": {
+        "note": "マリオット系ラグジュアリーコレクションの高級ホテルとして知られるが、具体的な1泊2名の料金はセッション内で数値確認できなかった。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "伊良部島にある宮古地区では数少ない高級ホテル。サンセット時間帯にプールサイドやロビーで無料のシャンパン・軽食を楽しめる『シャンパンディライト』が名物。2018年12月開業。",
+      "target_audience": ["夫婦", "記念日", "ホテル好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 11,
+        "unique_experience_score": 15,
+        "photogenic": 12,
+        "value_for_price": 4,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 68,
+      "recommendation_reason": "Tripadvisor4.1（88件）で数値的な最低ラインはクリアするが、negative_review_checkの内容を踏まえ価格対体験価値を厳しく採点した結果、採用ラインに届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisor上で『最悪』『期待外れ！』『再訪はないかも』『ちょっと期待外れ・・』等、高額な宿泊料金に見合わないという趣旨のレビューが独立して複数確認された。清潔感・安全性に関わる重大な問題ではないが、価格対体験価値への不満が繰り返し指摘されている点を減点材料とした。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "イラフ SUI ラグジュアリーコレクションホテル 沖縄宮古 - トリップアドバイザー", "url": "https://www.tripadvisor.jp/Hotel_Review-g680765-d15051010-Reviews-IRAPH_SUI_a_Luxury_Collection_Hotel_Miyako_Okinawa-Miyakojima_Okinawa_Prefecture_.html" },
+        { "type": "review_site", "title": "イラフ SUI ラグジュアリーコレクションホテル 沖縄宮古 - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00002573/review/" },
+        { "type": "official", "title": "IRAPH SUI, a Luxury Collection Hotel, Miyako Okinawa 公式", "url": "https://www.suihotels.com/iraphsui-miyako_okinawa/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価（4.1／88件）は基準を満たすが、独立した複数レビューで『期待外れ』という趣旨の指摘が繰り返されており、価格対体験価値のスコアを厳しく採点した結果、総合68点で採用ライン（75点）に届かなかった。"
+    }
+  ]
+}

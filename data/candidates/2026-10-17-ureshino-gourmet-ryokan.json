@@ -1,0 +1,139 @@
+{
+  "cycle_date": "2026-10-17",
+  "theme": "佐賀県嬉野市嬉野温泉のグルメ旅館（美食自慢の老舗旅館）",
+  "season_rationale": "10月中旬は秋の味覚（佐賀牛・温泉湯どうふ等）と紅葉前の旅行検討期にあたる。直近2投稿（2026-10-16箱根・絶景ホテル、2026-10-17石垣島・離島リゾート）とは地域・カテゴリとも重複せず、グルメ旅館カテゴリは2026-09-22のあわら温泉・つるや以来で、西九州エリアの温泉地としても新規性がある（原則29・30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-ana-intercontinental-ishigaki", "region": "沖縄県石垣市真栄里", "category": "離島リゾート" },
+    { "post_id": "2026-10-16-kai-sengokuhara", "region": "神奈川県箱根町仙石原", "category": "絶景ホテル" },
+    { "post_id": "2026-09-22-awara-tsuruya", "region": "福井県あわら市（あわら温泉）", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "佐賀県・嬉野温泉は data/candidates・captions の既存エントリに登場しておらず、地域として新規。直近2投稿（石垣島・離島リゾート／箱根・絶景ホテル）とも地域・カテゴリが異なるため重複なし。",
+  "candidates": [
+    {
+      "id": "2026-10-17-ureshino-taishoya",
+      "name": "嬉野観光ホテル大正屋",
+      "region": "佐賀県嬉野市嬉野町（嬉野温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらん", "score": 4.6, "scale": 5, "review_count": 1580, "checked_date": "2026-10-17", "url": "https://www.jalan.net/yad321819" },
+        { "source": "スカイチケット", "score": 4.7, "scale": 5, "review_count": 931, "checked_date": "2026-10-17", "url": "https://skyticket.jp/hotel/detail/property_838869/" }
+      ],
+      "price_range_jpy": {
+        "note": "旅行メディア掲載時点で大人1名(参考価格)1万7,600円〜2万4,200円程度という紹介があり、インターネット限定プラン『大正屋特選牛付会席《藤会席》』や早期予約で1,000円引になる『早割30』等の会席プランを確認。正確な料金は時期・プラン・部屋タイプにより変動する。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "大正14年(1925年)創業、日本建築界の重鎮・故吉村順三氏が設計した、嬉野温泉を代表する老舗旅館。『日本三大美肌の湯』と称される嬉野温泉の中でも、庭園の滝を望む大浴場『滝の湯』と『四季の湯』という2つの源泉かけ流し大浴場を持つ。夕食は有田焼の器で供される『大正屋特選牛付会席』、朝食は自家製『とろける湯どうふ』が看板料理で、創業100年を超える老舗が『美肌の湯と極上の美食』を前面に打ち出している。",
+      "renewal_or_news": "2026年時点でも複数の旅行メディア(All About)で継続的に紹介され、知名度・情報の新しさは確認できた。大規模リニューアルに関する直近ニュースは今回のWebSearchの範囲では確認できなかった。",
+      "target_audience": ["夫婦", "記念日", "グルメ旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 14,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 5
+      },
+      "score": 84,
+      "recommendation_reason": "じゃらん4.6（1,580件）・スカイチケット4.7（931件）という性質の異なる2つの独立した情報源でいずれも推奨ライン（4.2以上）を大きく上回る高評価を確認（原則6・7）。創業100年を超え、日本建築界の重鎮・吉村順三氏設計という来歴に、『大正屋特選牛付会席』と自家製『とろける湯どうふ』という名物料理を組み合わせた『美肌の湯と極上の美食』という訴求が、グルメ旅館カテゴリとして明確な独自性を持つ。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一部の口コミで『施設は昭和感があるが整っている』『特に凝った造りではない』といった指摘、温泉湯どうふが薄味だったという感想が見られたが、清潔感・接客・安全性に関わる重大な指摘は複数の情報源では確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "嬉野温泉 大正屋 - じゃらんnet（クチコミ総合4.6・1,580件）", "url": "https://www.jalan.net/yad321819" },
+        { "type": "review_site", "title": "嬉野観光ホテル大正屋 - スカイチケット（クチコミ4.7・931件）", "url": "https://skyticket.jp/hotel/detail/property_838869/" },
+        { "type": "other", "title": "【佐賀県の人気ホテル】「嬉野温泉 大正屋」は創業100年を超える老舗の美肌の湯と極上の美食が魅力 - All About", "url": "https://news.allabout.co.jp/articles/o/110257/" },
+        { "type": "other", "title": "【佐賀県の人気ホテル】「嬉野温泉 大正屋」は多彩な浴場で美肌の湯を心ゆくまで堪能できる - All About", "url": "https://news.allabout.co.jp/articles/o/107588/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-17-ureshino-watayabessou",
+      "name": "嬉野温泉 和多屋別荘",
+      "region": "佐賀県嬉野市嬉野町（嬉野温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらん", "score": 4.1, "scale": 5, "review_count": 250, "checked_date": "2026-10-17", "url": "https://www.jalan.net/yad322946" },
+        { "source": "travelist", "score": 4.2, "scale": 5, "review_count": 289, "checked_date": "2026-10-17", "url": "https://travelist.jp/hotel/detail/5006266" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な料金帯は今回のWebSearchの範囲では確認できなかった。『温泉湯豆腐&佐賀牛/若楠豚しゃぶしゃぶプラン』等の存在は確認できた。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "嬉野川をまたぐ二万坪（約6.6万平米）の広大な敷地に、大浴場・庭園露天風呂・特別湯殿・足湯茶寮・オリエンタルスパ等が点在する大型老舗旅館。敷地内の『佐賀牛ダイニング李荘庵』は地元の陶芸窯『李荘窯』とのコラボレーションで生まれた佐賀牛専門ダイニングで、個室で佐賀の旬の幸をふんだんに使った会席料理を楽しめる。",
+      "target_audience": ["夫婦", "記念日", "グルメ旅", "女子旅"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 11,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 76,
+      "recommendation_reason": "じゃらん4.1（250件）・travelist4.2（289件）の2つの独立した情報源でいずれも最低ライン（4.0以上）は満たすが、推奨ライン（4.2以上）を明確に上回るとまでは言えない水準（原則6）。二万坪の敷地と『佐賀牛ダイニング李荘庵』という独自性の高いグルメ体験を持ち、複数の旅行メディアで継続的に紹介されているが、同じ嬉野温泉のグルメ旅館である大正屋と比べるとレビュー評価の強度でわずかに下回った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2013年の口コミ(評価2.5)で客室の古さと、呼び出しボタンを押さないと次の料理が出てこない食事提供のタイミングへの不満が見られたが、10年以上前の投稿で現在の状況とは異なる可能性がある。別の集計(TrustYou)では3.9という、推奨ラインをやや下回る評価も確認され、評価にばらつきがある点に留意した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "嬉野河畔に佇む日本のリゾート 和多屋別荘 - じゃらんnet（クチコミ総合4.1・250件）", "url": "https://www.jalan.net/yad322946" },
+        { "type": "review_site", "title": "和多屋別荘 - travelist（クチコミ4.2・289件）", "url": "https://travelist.jp/hotel/detail/5006266" },
+        { "type": "other", "title": "【佐賀県の人気ホテル】「嬉野温泉 和多屋別荘」は二万坪の広大な敷地で伝統とモダンが融合する宿 - All About", "url": "https://news.allabout.co.jp/articles/o/111482/" },
+        { "type": "other", "title": "【嬉野温泉の人気ホテル】「嬉野温泉 和多屋別荘」が選ばれる理由 - All About", "url": "https://news.allabout.co.jp/articles/o/121205/" }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "同じ嬉野温泉のグルメ旅館カテゴリで大正屋（84点）と競合したが、レビュー評価が推奨ライン4.2以上を明確に上回らず、TrustYou集計で3.9という下振れも確認されたため、僅差で今サイクルは見送り。次サイクル以降、嬉野温泉以外の投稿が続いた後の再候補とする。"
+    },
+    {
+      "id": "2026-10-17-ureshino-oomuraya",
+      "name": "嬉野温泉 旅館大村屋",
+      "region": "佐賀県嬉野市嬉野町（嬉野温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "スカイチケット", "score": 4.5, "scale": 5, "review_count": 421, "checked_date": "2026-10-17", "url": "https://skyticket.jp/hotel/saga/bl_410002/" },
+        { "source": "フォートラベル", "score": 3.7, "scale": 5, "review_count": 57, "checked_date": "2026-10-17", "url": "https://4travel.jp/dm_hotel-10052414" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な料金帯は今回のWebSearchの範囲では確認できなかった。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "天保元年(1830年)創業、嬉野でも指折りの歴史を持つ老舗旅館。4タイプの源泉貸切風呂を持ち、湯上がりに館内に流れる音楽と本を楽しめるというコンセプトが特徴。外観は昭和調だが館内は現代的にリフォームされている。",
+      "target_audience": ["夫婦", "温泉好き", "家族"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 10,
+        "unique_experience_score": 15,
+        "photogenic": 10,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 71,
+      "recommendation_reason": "スカイチケット4.5（421件）の評価は高いが、フォートラベル上の集計評価が3.70（57件、フォートラベル内の別ページでは13件表示もあり件数表示に差異がある点に留意）と推奨ライン4.2未満で、2つの独立情報源の間で評価の強度にばらつきがあった（原則6・7）。4タイプの源泉貸切風呂や湯上がりの音楽・本という独自のコンセプトは魅力だが、グルメ（食事）面での強い差別化情報は今回のWebSearchでは十分に確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミでは外観が昭和調であることへの言及や、3.5点程度の個別クチコミも複数確認された。清潔感・安全性に関する重大な指摘は見つからなかったが、評価のばらつきが比較的大きい。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "旅館 大村屋 - スカイチケット（クチコミ4.5・421件）", "url": "https://skyticket.jp/hotel/saga/bl_410002/" },
+        { "type": "review_site", "title": "嬉野温泉 旅館大村屋 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10052414" },
+        { "type": "other", "title": "嬉野温泉 旅館大村屋 - icotto", "url": "https://icotto.jp/hotels/1770" },
+        { "type": "other", "title": "旅館 大村屋 (Ryokan Oomuraya) - るるぶトラベル", "url": "https://www.rurubu.travel/hotel/japan/ureshino/ryokan-oomuraya" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score(71)が採用ライン(75点)未満。独立した2情報源のうち1件(フォートラベル3.70)が推奨ライン4.2未満であったことに加え、グルメ(食事)面での強い独自性の根拠が今回のWebSearchでは十分に確認できなかったため見送り。"
+    }
+  ]
+}
