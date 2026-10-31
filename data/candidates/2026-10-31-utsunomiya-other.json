@@ -1,0 +1,307 @@
+{
+  "cycle_date": "2026-10-31",
+  "theme": "その他（栃木県宇都宮市・期間限定イベント／アフタヌーンティー等）",
+  "season_rationale": "10月末の宇都宮市は紅葉が進み始める一方、夏季限定の企画が一通り終了し、秋季限定（9〜11月期）の企画が営業終盤・冬季企画が立ち上がる前の切り替わり時期にある。カテゴリ『その他』は期間限定イベント・アフタヌーンティー等を想定しているため、本サイクルでは現在実施中（2026年10月31日時点）かつ11月末までに終了予定の企画を中心に調査した。",
+  "prior_posts_checked": [
+    {
+      "post_id": "2026-10-17-kinugawa-onsen",
+      "region": "栃木県日光市鬼怒川温泉（大原・滝）",
+      "category": "温泉旅館"
+    },
+    {
+      "post_id": "2026-10-25-ritz-carlton-nikko",
+      "region": "栃木県日光市中宮祠（中禅寺湖南岸、奥日光エリア）",
+      "category": "絶景ホテル"
+    },
+    {
+      "post_id": "2026-10-25-chuzenji-kanaya-hotel / 2026-10-25-hotel-hanaan-chuzenji",
+      "region": "栃木県日光市中宮祠（中禅寺湖畔、奥日光エリア）",
+      "category": "絶景ホテル"
+    },
+    {
+      "post_id": "2026-10-26-naoc-kinugawa-rafting",
+      "region": "栃木県日光市鬼怒川温泉",
+      "category": "アクティビティ"
+    }
+  ],
+  "duplication_note": "data/candidates・captions配下の既存ファイル全件（1ヶ月以上前のものを含む）を『宇都宮』『栃木』『utsunomiya』『tochigi』で横断検索した。該当した既存ファイルはいずれも日光市（鬼怒川温泉・中禅寺湖エリア）の温泉旅館・絶景ホテル・アクティビティで、宇都宮市かつカテゴリ『その他』の既存候補・制作済みキャプションは見つからなかった。したがって本サイクルの調査対象（宇都宮市・その他）は既存候補と重複しない。",
+  "research_limitation_note": "本セッションはWebSearchの呼び出し回数上限（セッション全体で共有）に調査途中で到達したため、追加候補の探索・一次情報の裏取りをこの回数内で完了できなかった。また、ホテル公式サイト（tobuhotel.co.jp / en.tobuhotel.co.jp）はこのクラウドセッションのネットワーク許可リストに含まれておらずWebFetchで直接閲覧できなかったため、公式サイト本文の確認は二次掲載サイト（とちぎ旅ネット、TV TOKYO PR欄、各予約比較サイト等）経由の情報に依拠している。これらの制約により、下記候補はいずれも『75点未満は原則不採用』（docs/operating-principles.md 5章・原則6）の基準を満たすだけの独立複数情報源での数値評価・最新情報を確認できず、selected候補は0件となった。",
+  "candidates": [
+    {
+      "id": "2026-10-31-tobu-hotel-grande-autumn-noble-afternoontea",
+      "name": "宇都宮東武ホテルグランデ カフェレストラン オアシス「Autumn Noble AFTERNOON TEA」",
+      "region": "栃木県宇都宮市本町5-12（東武宇都宮駅から徒歩約5分）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "renewal_or_news": "2026年9月1日(火)〜11月30日(月)11:30〜17:00(L.O.16:00)の秋季限定メニュー。葡萄とチーズを組み合わせた内容で、1人5,000円。同時期に同ホテル内の日本料理「簾」でも秋季限定の和のアフタヌーンティー『秋を愛でる和のお茶会』を並行提供している（簾側は前日正午までの予約制）。同ホテルは季節替わりでアフタヌーンティーを継続的に企画しており、2026年6月〜8月は『Summer Fruit Luxe Afternoon Tea（同額5,000円）』を提供していた記録がある。",
+      "review_scores": [
+        {
+          "source": "Skyticket（楽天トラベル等の口コミを集計したホテル総合評価。アフタヌーンティー単体ではなくホテル宿泊全体の評価）",
+          "score": 4.1,
+          "scale": 5,
+          "review_count": 2396,
+          "checked_date": "2026-10-31",
+          "url": "https://skyticket.jp/hotel/tochigi/st_90121/"
+        },
+        {
+          "source": "みんなのウェディング（同ホテルをブライダル施設として利用した利用者の口コミ。アフタヌーンティー・宿泊とは利用目的が異なるため参考値）",
+          "score": 4.21,
+          "scale": 5,
+          "review_count": 98,
+          "checked_date": "2026-10-31",
+          "url": "https://www.mwed.jp/hall/10117/rev/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "アフタヌーンティーは1人5,000円（とちぎ旅ネット等の掲載情報）。宿泊に関する参考情報として、朝食ビュッフェは別途2,500円・6:30〜10:00提供。価格・提供条件はホテル公式サイトでの最終確認が必要。",
+        "as_of_search_date": "2026-10-31",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "宇都宮の名産である大谷石を模した（過去シーズンの口コミでは実際に大谷石の器が使われていたとの記述がある）プレートを使ったアフタヌーンティーで、季節替わりで葡萄とチーズ、いちご、夏のフルーツなど地域色のあるテーマを展開している。同じホテル内で洋風（カフェレストラン オアシス）と和風（日本料理 簾）の2種類の期間限定アフタヌーンティー／お茶会を選べる点も特徴。",
+      "target_audience": [
+        "女子旅",
+        "カップル",
+        "記念日",
+        "友人"
+      ],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 11,
+        "unique_experience_score": 14,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 3,
+        "access_and_freshness": 4
+      },
+      "score": 69,
+      "recommendation_reason": "東武宇都宮駅から徒歩5分という好アクセスで、宇都宮の名産・大谷石を使った器や季節のフルーツ×チーズといった地域色のある見せ方は写真映えの観点で一定の魅力がある。ホテル全体の評価（Skyticket集計4.1／2,396件、みんなのウェディング4.21／98件）はいずれも4.0以上だが、これはアフタヌーンティーそのものやカフェレストラン単体の評価ではなく、ホテル宿泊・ブライダル利用者の評価を参考値として用いたものである。アフタヌーンティー商品自体についての独立した数値評価（口コミ件数付き）やSNS上の話題性を示す一次情報は、本セッションの検索範囲では確認できなかった。これらを踏まえ100点満点中69点と評価し、原則6（75点基準）に届かないため今回は不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ホテル全体の口コミでは、チェックイン機が少なく混雑時に待ち時間が発生する、客室が『やや古い』と感じるという指摘が複数見られたが、衛生・安全上の重大な指摘や営業上の問題は確認されなかった。個別の宿泊口コミでは3.0〜5.0と評価の幅があるが、平均的には好意的な内容が多い。アフタヌーンティーそのものへのネガティブな口コミは、本セッションの検索範囲では見当たらなかった（件数自体が少ないため網羅的確認には至っていない）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "秋季限定アフタヌーンティー関連記事（Autumn Noble AFTERNOON TEAの期間・時間・価格の掲載） - とちぎ旅ネット（カフェレストラン オアシス クチコミ・写真ページ）",
+          "url": "https://www.tochinavi.net/spot/grapevine/?id=9635"
+        },
+        {
+          "type": "press",
+          "title": "宇都宮東武ホテルグランデ 秋のアフタヌーンティー関連PR記事 - TV TOKYO プラス（external-pr）",
+          "url": "https://www.tv-tokyo.co.jp/plus/external-pr/entry/220741.html"
+        },
+        {
+          "type": "other",
+          "title": "宇都宮東武ホテルグランデ 施設情報・口コミ集計（Skyticket）",
+          "url": "https://skyticket.jp/hotel/tochigi/st_90121/"
+        },
+        {
+          "type": "other",
+          "title": "Utsunomiya Tobu Hotel Grande Offers Summer-Limited \"Summer Fruit Luxe Afternoon Tea\" Through August 2026（前シーズンの同企画に関する英語記事）",
+          "url": "https://haveagood-holiday.com/en/articles/utsunomiya-tobu-hotel-grande-summer-fruit-luxe-afternoon-tea"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score(69)が原則6の75点基準に届かず、かつアフタヌーンティー商品・カフェレストラン単体についての独立した数値評価（口コミ件数付き）を2情報源で確認できなかったため、現時点では採用基準を満たさないと判断した。"
+    },
+    {
+      "id": "2026-10-31-oya-connect-night-lantern-event",
+      "name": "大谷地区ナイトイベント（大谷コネクト周辺・ランタン謎解きツアー）",
+      "region": "栃木県宇都宮市大谷町周辺（大谷コネクト・大谷公園・大谷景観公園一帯、JR宇都宮駅からバス約30分の大谷観音前下車）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "renewal_or_news": "確認できた開催日は2026年9月21日(月・祝)17:00〜20:00（マルシェは20:30まで）の単発イベントで、ランタンを使った事前予約制の謎解きツアーや夜間ライトアップ、台湾スイーツ等の飲食ブースがあったとされる。研究日（2026年10月31日）時点ではすでに終了している。",
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "入場料・ツアー参加費等の料金は本セッションの検索では確認できなかった。",
+        "as_of_search_date": "2026-10-31",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "大谷石の産地である大谷地域を舞台に、ランタンを使った謎解きツアーや夜間ライトアップ、自由散策エリアを組み合わせた夜の限定イベント。",
+      "target_audience": [
+        "カップル",
+        "友人",
+        "家族"
+      ],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 12,
+        "photogenic": 10,
+        "value_for_price": 0,
+        "sns_buzz": 3,
+        "access_and_freshness": 0
+      },
+      "score": 25,
+      "recommendation_reason": "大谷石という宇都宮らしい地域資源を活かした夜間イベントとしての独自性はあるが、確認できた開催日程（2026年9月21日）が研究日時点で既に終了しており、原則6（現在営業・公開していること）を満たさない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "イベント自体が終了済みのため、口コミ・ネガティブレビューの収集は実施していない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "大谷地区ナイトイベント（ランタン謎解きツアー）開催情報",
+          "url": "https://www.iwafu.com/en/events/1159630"
+        },
+        {
+          "type": "other",
+          "title": "イベント・お出かけレポート一覧（宇都宮・大谷地域を含む関連企画の掲載媒体） - いこーよ report",
+          "url": "https://report.iko-yo.net/tags/224?page=32"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "2026年9月21日開催で研究日（2026年10月31日）時点では終了済みであり、原則6（現在営業・公開していること）を満たさないため不採用とした。"
+    },
+    {
+      "id": "2026-10-31-tochinavi-gyoza-sweets-machiaruki-campaign",
+      "name": "栃ナビ「餃子×スイーツ×まち歩き」自動診断キャンペーン（宇都宮市内）",
+      "region": "栃木県宇都宮市内（餃子専門店・スイーツ店の食べ歩きコース企画）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "renewal_or_news": "確認できたキャンペーン期間は2025年10月24日(金)〜2026年1月31日(土)で、研究日（2026年10月31日）時点ではすでに終了している。",
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "キャンペーン自体の参加費は無料（食べ歩き先の飲食代は別途）とみられるが、本セッションの検索では詳細条件を確認できなかった。",
+        "as_of_search_date": "2026-10-31",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "3つの質問への回答から、餃子店・スイーツ店を組み合わせた食べ歩きコースを自動診断する企画で、宇都宮餃子（市内約200店）と地元スイーツ（かりまん等）を組み合わせて紹介する点が特徴。",
+      "target_audience": [
+        "女子旅",
+        "友人",
+        "一人旅"
+      ],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 10,
+        "photogenic": 6,
+        "value_for_price": 0,
+        "sns_buzz": 2,
+        "access_and_freshness": 0
+      },
+      "score": 18,
+      "recommendation_reason": "宇都宮餃子という地域名物とスイーツを組み合わせたまち歩き企画としての着眼点はあるが、確認できたキャンペーン期間（2025年10月24日〜2026年1月31日）がすでに終了しており、原則6を満たさない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "キャンペーン自体が終了済みのため、口コミ・ネガティブレビューの収集は実施していない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "餃子×スイーツ×まち歩き自動診断キャンペーン - 栃ナビ",
+          "url": "https://www.tochinavi.net/feature/home.shtml?id=13211"
+        },
+        {
+          "type": "official",
+          "title": "宇都宮餃子の背景・市内店舗数等の紹介資料 - 宇都宮市公式サイト",
+          "url": "https://www.city.utsunomiya.lg.jp/_res/projects/default_project/_page_/001/009/231/r5_03gyouza.pdf"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "キャンペーン期間（2025年10月24日〜2026年1月31日）が研究日時点ではまだ終了していない可能性もあるが、本セッションで提供期間の継続を裏付ける一次情報を確認できず、かつ『少し贅沢な体験』としての差別化要素（限定性・特別感）を示す情報が不足するため不採用とした。"
+    },
+    {
+      "id": "2026-10-31-tobu-hotel-grande-christmas-cake-reservation",
+      "name": "宇都宮東武ホテルグランデ クリスマスケーキ＆特製オードブル早期予約",
+      "region": "栃木県宇都宮市本町5-12",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "renewal_or_news": "2026年10月1日から予約受付開始、11月25日までの予約で早期予約特典が付くクリスマスケーキ・シェフ特製オードブル・ローストチキンの持ち帰り商品。",
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "価格は本セッションの検索では確認できなかった。",
+        "as_of_search_date": "2026-10-31",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "ホテルのシェフが手がけるクリスマスケーキ・オードブル・ローストチキンの持ち帰り予約商品。",
+      "target_audience": [
+        "家族",
+        "夫婦"
+      ],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 4,
+        "photogenic": 4,
+        "value_for_price": 0,
+        "sns_buzz": 0,
+        "access_and_freshness": 0
+      },
+      "score": 8,
+      "recommendation_reason": "ホテルのクリスマス商品としては一般的な企画で、現地で『体験する』要素（来店・滞在して楽しむ体験）ではなく持ち帰り専用商品であるため、旅行先として紹介する『その他（期間限定イベント・アフタヌーンティー等の体験）』の趣旨には合致しないと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "持ち帰り商品のため、本セッションでは口コミ・ネガティブレビューの収集対象としなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "press",
+          "title": "11月25日までの早期予約でお得に 宇都宮東武ホテルグランデのクリスマスケーキ&特製オードブル - ORICON NEWS",
+          "url": "https://www.oricon.co.jp/pressrelease/3025686/"
+        },
+        {
+          "type": "other",
+          "title": "宇都宮東武ホテルグランデ 施設情報（住所・客室数等） - じゃらん",
+          "url": "https://www.jalan.net/yad326028"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "来店・滞在して楽しむ『体験』ではなく持ち帰り専用の物販企画であり、カテゴリ『その他（期間限定イベント・アフタヌーンティー等の少し贅沢な体験）』の趣旨に合致しないため不採用とした。"
+    },
+    {
+      "id": "2026-10-31-utsunomiya-museum-of-art-takashima-yajuro",
+      "name": "宇都宮美術館「没後50年 髙島野十郎展」",
+      "region": "栃木県宇都宮市（宇都宮美術館。正確な所在地・アクセス情報は本セッションでは未確認）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "renewal_or_news": "会期2026年9月20日(日)〜12月6日(日)の巡回企画展。研究日（2026年10月31日）時点で開催中（会期終了まであと約1ヶ月）。",
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "観覧料は本セッションの検索では確認できなかった。",
+        "as_of_search_date": "2026-10-31",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "没後50年を記念した画家・髙島野十郎の回顧展（巡回展）。",
+      "target_audience": [
+        "一人旅",
+        "夫婦"
+      ],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 8,
+        "photogenic": 5,
+        "value_for_price": 0,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 18,
+      "recommendation_reason": "現在開催中であることは確認できたが、来場者の口コミ・評価を独立した情報源で数値確認できず、また巡回型の一般的な美術展であり『少し贅沢な体験』としての独自性・特別感を示す情報（限定鑑賞会、VIP体験等）も確認できなかったため、カテゴリの趣旨との合致度が低いと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "来場者口コミの数値評価を本セッションの検索範囲では確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "没後50年 髙島野十郎展 会期・開催情報",
+          "url": "https://bijutsutecho.com/magazine/insight/33184/pictures/1"
+        },
+        {
+          "type": "other",
+          "title": "全国美術館イベント情報（栃木県エリア） - 日本博物館協会",
+          "url": "https://www.museum.or.jp/event?area=pref-09"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "来場者レビューの数値評価を確認できず、また『少し贅沢な体験』としての独自性・特別感を示す根拠が不足するため不採用とした。"
+    }
+  ]
+}
