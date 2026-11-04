@@ -1,0 +1,136 @@
+{
+  "cycle_date": "2026-11-04",
+  "theme": "鹿児島県日置市吹上浜エリアのオールインクルーシブ",
+  "season_rationale": "依頼により『オールインクルーシブ』カテゴリ・鹿児島県日置市吹上浜エリアを対象に調査した。11月上旬は東シナ海側の薩摩半島西岸でも海水温・気温が落ち着き、長大な砂丘『吹上浜』を静かに眺められる時期。本エリアでの調査はこのリポジトリで初めてであり、同カテゴリでは直近の2026-11-01サイクル（沖縄県久米島町）が最新の類似調査だった。",
+  "prior_posts_checked": [],
+  "duplication_note": "data/candidates全件（1ヶ月以上前を含む）とcaptions全件を『鹿児島』『日置』『吹上浜』『いぶすき』『指宿』でgrepして確認した。鹿児島県関連の既存候補は桜島・霧島・屋久島・奄美・久米島・指宿など他エリアのものであり、日置市・吹上浜エリアの施設は一度も調査・掲載されていない。したがって本サイクルでの調査・候補選定に重複は発生していない。",
+  "candidates": [
+    {
+      "id": "2026-11-04-ocean-resort-eguchiya-ai",
+      "name": "OCEAN RESORT えぐち家",
+      "region": "鹿児島県日置市東市来町湯田731（東シナ海沿い。依頼エリア名の『吹上浜』そのものではなく、同じ日置市内の隣接海岸〈通称・江口浜周辺〉に位置する点に留意）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル",
+          "score": 4.38,
+          "scale": 5,
+          "review_count": 164,
+          "checked_date": "2026-11-04",
+          "url": "https://travel.rakuten.co.jp/HOTEL/137406/review.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベルに『二食付きプラン』『朝食付きプラン』『素泊まりプラン』が掲載されているが、具体的な1名あたり料金はこのセッションのWebSearchでは確認できなかった。全食事・飲み物込みの『オールインクルーシブ』専用プランの料金・存在も確認できなかった。",
+        "as_of_search_date": "2026-11-04",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "客室やダイニングから東シナ海と夕日を一望できる立地で、1階レストランでの二食付きプラン（夕食は時間帯選択制、朝食はビュッフェ）や地元漁港直送の海鮮料理が特徴。英語圏の第三者サイトではマッサージルーム・サウナの設備も案内されている。ただし公式サイト・予約サイトのいずれにも、全食事・ドリンクが料金に含まれる『オールインクルーシブ』型プランの記載はこのセッションのWebSearchでは確認できなかった。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 8,
+        "unique_experience_score": 8,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 57,
+      "recommendation_reason": "楽天トラベル4.38（164件）という単独ながら比較的信頼できる口コミ評価と、東シナ海の夕景を一望できる客室・ダイニングは魅力的だが、評価の裏付けが1サイトのみで独立2情報源化できていない。加えて『オールインクルーシブ』カテゴリの核となる全食事・ドリンク込みプランの存在を確認できず、二食付きプランでも配膳や温泉清掃に関する具体的な苦情レビューが見られたため、総合スコアは57点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベルの口コミ（4つ星評価）に、夕食の焼き物料理が一度に配膳されて冷めてしまったという指摘と、朝食が時間帯によって品数が少なくなるという指摘があった。別の口コミでは温泉の清掃状況への不満があり、施設側が謝罪コメントを返している。衛生・安全上の重大な欠格事由として複数情報源で一致して確認されたわけではないため、disqualifying issueとまでは判断しなかったが、スコアには反映した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "OCEAN RESORT えぐち家 クチコミ4.38（164件） - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/137406/review.html" },
+        { "type": "booking_site", "title": "OCEAN RESORT えぐち家 宿泊プラン一覧 - 楽天トラベル", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/137406" },
+        { "type": "other", "title": "Ocean Resort Eguchiya（設備情報：マッサージルーム・サウナ等） - hotele.pl", "url": "https://m.hotele.pl/en/japan/satsumasendai/ocean-resort-eguchiya" },
+        { "type": "other", "title": "OCEAN RESORT えぐち家 お部屋からの眺め（ギャラリー） - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/137406/gallery.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "楽天トラベル4.38（164件）は良好だが独立2情報源で裏付けできておらず、全食事・ドリンク込みの『オールインクルーシブ』型プランの存在を公式情報・予約サイトのいずれでも確認できなかった。配膳・清掃面の具体的な苦情レビューもあり、採用ライン75点には届かない。"
+    },
+    {
+      "id": "2026-11-04-fukiagehama-field-hotel-ai",
+      "name": "吹上浜 フィールドホテル",
+      "region": "鹿児島県いちき串木野市湊町1-101（吹上浜の北端に位置する。複数の独立した情報源で住所が一致しており、依頼エリアの『鹿児島県日置市吹上浜エリア』とは行政区が異なり日置市ではない点を明記する。吹上浜自体はいちき串木野市〜日置市〜南さつま市にまたがる約47kmの砂丘のため、同じ砂浜の延長上にある施設として調査対象に含めた）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "一般紹介記事では2名で22,000円〜という参考価格が確認できたが、これが特定プランのものか、公式サイトの最新料金かはこのセッションのWebSearchでは断定できなかった。夕食はBBQコース（スタンダード／プレミアム）や季節コースから選ぶ形式、朝食は県産食材のテイクアウトサンドが基本とされ、食材持ち込み・自炊プランや素泊まりプランも存在する。全食事・ドリンクが料金に含まれる『オールインクルーシブ』専用プランの名称・料金は確認できなかった。",
+        "as_of_search_date": "2026-11-04",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "日本三大砂丘の一つ『吹上浜』の砂丘上に建つグランピングリゾートで、ホテル棟・トレーラールーム・テントルームを備える。ホテル棟屋上には温泉プール・テントサウナがあり、日中はプール、夜はプールバー・アウトドアシアターを楽しめるとされる。ペット同伴も可能。Hotels.comでは10段階中9.6という非常に高い評価が確認できたが、対応する口コミ件数は確認できず、楽天トラベルのランキングページには『お客さまの声341件』という件数表示があったものの、そのページ上で平均評価の数値までは確認できなかったため、両者を組み合わせた正式なreview_scoresエントリーは作成していない。全食事・ドリンク込みの『オールインクルーシブ』プランの存在も確認できなかった。",
+      "target_audience": ["カップル", "家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 3,
+        "unique_experience_score": 15,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 2
+      },
+      "score": 57,
+      "recommendation_reason": "砂丘上のグランピング×温泉プール×BBQという組み合わせは写真映え・独自性ともに高く、Hotels.comの10段階中9.6という評価やSNSでの紹介動画も複数確認できた。しかし評価の件数を伴う正式な数値根拠が独立2情報源で確認できず、何より依頼エリアの日置市ではなくいちき串木野市に所在するため、本サイクルが対象とする『鹿児島県日置市吹上浜エリア』の施設としては要件を満たさない。全食事・ドリンク込みのオールインクルーシブ型プランの確認もできなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベルの同カテゴリ（九州 民宿・ペンション）ランキングページ周辺に、ユニットバスの狭さ・段差、部屋にカーテンがないことへの不満を記す口コミが見られたが、それが本施設自身の投稿かどうかはこのセッションのWebSearchでは確定できなかった。他に重大な衛生・安全上の指摘は確認できず、disqualifying issueとまでは判断しなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "吹上浜 フィールドホテル - hamoni.jp", "url": "https://hamoni.jp/hotel/4KBKnRypXktVykVtPzo6G7V3ocKJRpPB" },
+        { "type": "other", "title": "フキアゲハマ フィールド ホテル - Time Out Tokyo", "url": "https://www.timeout.jp/tokyo/ja/things-to-do/fukiagehama-field-hotel" },
+        { "type": "other", "title": "Fukiagehama Field Hotel - LIVE JAPAN", "url": "https://livejapan.com/en/in-tokyo/in-pref-other/in-pref-kagoshima/spot-lj0083493" },
+        { "type": "review_site", "title": "吹上浜フィールドホテル（口コミ10段階中9.6） - Hotels.com", "url": "https://jp.hotels.com/ho1737081824/chui-shang-bangfirudohoteru-ichiki-chuan-mu-ye-shi-ri-ben" },
+        { "type": "other", "title": "九州 民宿・ペンション(総合) 人気ホテル・旅館ランキング（お客さまの声341件の掲載あり） - 楽天トラベル", "url": "https://travel.rakuten.co.jp/ranking/pension/12_0007_1_3_0_0.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "施設としての独自性・映えは高いが、所在地がいちき串木野市であり依頼エリア『日置市吹上浜エリア』の行政区に合致しない。加えて全食事・ドリンク込みの『オールインクルーシブ』型プランの存在を確認できなかったため、カテゴリ・エリア両方の要件未達として不採用とした。"
+    },
+    {
+      "id": "2026-11-04-nakashima-onsen-ryokan-ai",
+      "name": "中島温泉旅館",
+      "region": "鹿児島県日置市吹上町湯之浦1106（吹上浜に面する吹上温泉エリア内）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": true,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "じゃらんnetの料金・宿泊プランページで『2食付』を含むプラン見出しを確認したが、具体的な料金・口コミ総合評価の数値はこのセッションのWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-11-04",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "日置市吹上町湯之浦にある吹上温泉エリアの小規模旅館で、じゃらんnetに2食付きプランを含む複数の宿泊プランが掲載されている。吹上温泉は西郷隆盛・東郷平八郎・斎藤茂吉ら著名人が湯治に訪れたという歴史を持つ単純硫黄泉だが、この施設単独の口コミ評価・写真で伝わる独自の魅力・全食事・ドリンク込みの『オールインクルーシブ』型プランの存在は、このセッションのWebSearchでは確認できなかった。",
+      "target_audience": ["温泉好き", "家族"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 5,
+        "photogenic": 4,
+        "value_for_price": 4,
+        "sns_buzz": 1,
+        "access_and_freshness": 2
+      },
+      "score": 16,
+      "recommendation_reason": "吹上温泉エリア内の施設で依頼エリアには合致するが、口コミの総合評価数値・写真で伝わる独自の魅力・『オールインクルーシブ』型プランの存在のいずれもこのセッションのWebSearchでは確認できず、情報不足のため低スコアとなった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "このセッションのWebSearchでは個別の低評価レビュー本文までは確認できなかった。重大な負の情報は見当たらなかったが、同時に評価を裏付ける十分な情報も得られなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "中島温泉旅館 料金・宿泊プラン一覧 - じゃらんnet", "url": "https://www.jalan.net/yad335021/plan/" },
+        { "type": "other", "title": "日置市 ホテル・旅館エリア一覧 - aumo", "url": "https://aumo.jp/hotel/areas/1590" },
+        { "type": "other", "title": "日置市 観光スポット一覧 - まっぷる", "url": "https://www.mapple.net/pref/46216/spot/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "依頼エリア（日置市吹上浜エリア）内の施設だが、口コミ評価・独自の魅力・オールインクルーシブ型プランのいずれも確認できる情報が乏しく、採用ライン75点には遠く及ばない。"
+    }
+  ],
+  "cycle_conclusion": "『オールインクルーシブ』カテゴリ・鹿児島県日置市吹上浜エリアを対象に3施設（OCEAN RESORT えぐち家・吹上浜フィールドホテル・中島温泉旅館）を調査した結果、いずれも採用ライン（75点）に届かず、selected候補なし。日置市内の施設（えぐち家・中島温泉旅館）はいずれも全食事・ドリンク込みの『オールインクルーシブ』型プランの存在を公式情報・予約サイトで確認できず、砂丘グランピングで最も特徴的だった吹上浜フィールドホテルは所在地がいちき串木野市であり依頼エリアの行政区に合致しなかった。現時点で日置市吹上浜エリアには、本カテゴリの核となる価値提案（全食事・ドリンク込み）を確認できる施設が見当たらないと結論する。なお本セッションはネットワーク制限により楽天トラベル・じゃらん・Hotels.com等の公式ページへの直接WebFetchができず、WebSearchの要約結果のみに基づいて調査した（数値が確認できない項目は推測せず未確認として明記した）。selected候補が存在しないため、creator_story調査・captions/の新規作成は行わない。カテゴリ要件に合う施設が今後確認された場合、または依頼エリアをいちき串木野市まで広げる場合は再調査を推奨する。"
+}
