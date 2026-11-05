@@ -1,0 +1,282 @@
+{
+  "candidates": [
+    {
+      "id": "2026-11-05-shimobe-onsen-hashimotoya",
+      "name": "下部温泉 元湯 橋本屋",
+      "region": "山梨県南巨摩郡身延町下部（下部温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "じゃらんnet",
+          "score": 4.7,
+          "scale": 5,
+          "review_count": 72,
+          "checked_date": "2026-11-05",
+          "url": "https://www.jalan.net/yad359025/"
+        },
+        {
+          "source": "楽天トラベル",
+          "score": 4.89,
+          "scale": 5,
+          "review_count": 48,
+          "checked_date": "2026-11-05",
+          "url": "https://travel.rakuten.co.jp/HOTEL/40448/review.html"
+        },
+        {
+          "source": "ニフティ温泉（参考・件数僅少）",
+          "score": 5.0,
+          "scale": 5,
+          "review_count": 3,
+          "checked_date": "2026-11-05",
+          "url": "https://onsen.nifty.com/shimobeonsen-onsen/onsen013730/kuchikomi/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらんnet掲載では2名1室利用時の宿泊プランが税込11,000円〜（1名あたり）。楽天トラベル掲載では最安料金5,000円〜（税込5,500円〜、素泊まり等の条件付きプランを含む可能性）という表示も確認した。プラン・食事条件・時期により幅が大きい。",
+        "as_of_search_date": "2026-11-05",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "下部温泉郷の中でも歴史が古いとされる湯治宿。身延町の観光情報サイト「みのラブ」では創業慶応元（1865）年と紹介されている（一部ブログでは「江戸時代後期創業」との記載もあり、出典により表記に幅がある）。山梨県観光公式サイトによれば、源泉温度約32℃の自然湧出の冷泉と、近年新たに掘削された源泉温度約50℃の湯の、泉質の異なる2つの源泉を保有し、ぬる湯と熱めの湯を使い分けられる点が特徴。宿自身の案内では、戦国時代に武田信玄が川中島合戦で受けた刀傷をこの湯で癒したという伝承「信玄公のかくし湯」を紹介しているが、これは宿・地域側が伝承として語っているものであり、信玄の時代に当宿が実在したことを示す独立した史料は本セッションの調査範囲では確認できなかった。昭和の雰囲気を残す館内と、山河の幸を使った郷土料理、女将が朝に振る舞うドリップコーヒーが口コミで好意的に触れられている。",
+      "renewal_or_news": "複数の予約サイト口コミ（2026年時点の投稿を含む）で通常営業が継続していることを確認した。新たに掘削された約50℃源泉の存在は山梨県観光公式サイトの現行ページに記載があり、情報としては現行のものと判断できるが、掘削・改修の具体的な実施年は本セッションでは確認できなかった。",
+      "target_audience": [
+        "カップル",
+        "夫婦",
+        "温泉好き",
+        "一人旅"
+      ],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 11,
+        "unique_experience_score": 16,
+        "photogenic": 9,
+        "value_for_price": 9,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 75,
+      "recommendation_reason": "じゃらんnet総合4.7（72件）・楽天トラベル総合4.89（48件）という、独立した主要予約2サイトでいずれも4.0（5点満点換算）を大きく上回る安定した高評価を確認できた（原則6）。泉質・温度の異なる2つの自家源泉（冷泉約32℃＋新源泉約50℃）を使い分けるという数字で語れる独自性に加え、創業慶応元年とされる歴史、湯治文化の継承、郷土料理、女将の接客といった『伝える価値』が複数の独立情報源（じゃらん・楽天トラベル・山梨県観光公式サイト・身延町観光協会）で確認できた。下部温泉郷自体の知名度に比して、当宿個別の口コミ件数は中規模（50〜70件台）に留まり、Hidden Gemとして扱うのが適切と判断した。公式サイト（hasimotoya.jp）の存在も確認済み。価格の正確な幅・創業年の正確な表記（慶応元年か江戸後期か）は出典間で揺れがあり、制作移行時の再確認を推奨する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "じゃらん・楽天トラベルでは大きなネガティブ傾向は確認できなかった。一方でニフティ温泉・フォートラベル系の口コミは件数が極端に少なく（3件前後）、2020年投稿にコロナ禍対応に触れた内容があるのみで、安全性・衛生・接客に関する決定的な低評価の集中は確認できなかった。施設の古さ（昭和の雰懐気）は好意的に『懐かしい』と評価される一方で、好みが分かれる可能性はある。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "当宿の公式サイト（hasimotoya.jp）や山梨県観光公式サイト、身延町観光協会「みのラブ」のページを確認したが、現在の経営者・女将ご本人が開業の経緯・改修方針・コンセプトについて一次情報としてどのように語っているかを示す具体的な発言やインタビュー記事は、本セッションのWebSearchの範囲では見つけられなかった。確認できたのは、（1）みのラブ掲載情報による『創業は慶応元（1865）年』という伝承年代（別のブログでは『江戸時代後期創業』とも記載され出典間で表記の揺れがある）、（2）宿自身の案内文にある『武田信玄公のかくし湯』という地域の伝承（史実としての裏付けは確認できていない）、（3）利用者の口コミにある『女将がドリップしたコーヒーが好評だった』という接客の一場面、の3点のみである。創業者・現当主がどのような思いで宿を営んでいるかという一次情報（本人の発言・インタビュー）は確認できなかった。推測や発言の創作は行っていない。制作レーンへ引き継ぐ際は、宿への直接取材・公式サイトの『宿の想い』的なページの有無を改めて確認することを推奨する。",
+        "sources": [
+          {
+            "type": "official",
+            "title": "元湯橋本屋【公式サイト】下部温泉について",
+            "url": "https://www.hasimotoya.jp/onsen.html"
+          },
+          {
+            "type": "other",
+            "title": "下部温泉郷を巡る Vol.1 歴史ある癒し湯を気軽に楽しむ「日帰り入浴編」 - 身延町観光情報サイト「みのラブ」",
+            "url": "https://www.minolove.jp/soshiki/1/102148.html"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "元湯橋本屋【公式サイト】",
+          "url": "https://www.hasimotoya.jp/"
+        },
+        {
+          "type": "review_site",
+          "title": "下部温泉 元湯 橋本屋 - 宿泊予約（じゃらんnet、総合4.7・72件）",
+          "url": "https://www.jalan.net/yad359025/"
+        },
+        {
+          "type": "review_site",
+          "title": "下部温泉 元湯 橋本屋 に実際に泊まった方のクチコミ・レビュー（楽天トラベル、総合4.89・48件）",
+          "url": "https://travel.rakuten.co.jp/HOTEL/40448/review.html"
+        },
+        {
+          "type": "other",
+          "title": "山梨県観光公式サイト 下部温泉 元湯橋本屋 紹介ページ（2源泉の記載）",
+          "url": "https://www.yamanashi-kankou.jp/kankou/stay/hashimotoya.html"
+        },
+        {
+          "type": "other",
+          "title": "下部温泉郷を巡る Vol.1 - 身延町観光情報サイト「みのラブ」（創業慶応元年の記載）",
+          "url": "https://www.minolove.jp/soshiki/1/102148.html"
+        },
+        {
+          "type": "review_site",
+          "title": "下部温泉 元湯 橋本屋(下部)の口コミ情報一覧｜ニフティ温泉",
+          "url": "https://onsen.nifty.com/shimobeonsen-onsen/onsen013730/kuchikomi/"
+        }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-11-05-shimobe-onsen-gensenkan",
+      "name": "下部温泉 古湯坊 源泉舘",
+      "region": "山梨県南巨摩郡身延町下部（下部温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "ニフティ温泉",
+          "score": 3.9,
+          "scale": 5,
+          "review_count": 27,
+          "checked_date": "2026-11-05",
+          "url": "https://onsen.nifty.com/shimobeonsen-onsen/onsen002130/kuchikomi/"
+        },
+        {
+          "source": "トリップアドバイザー",
+          "score": 3.9,
+          "scale": 5,
+          "review_count": 28,
+          "checked_date": "2026-11-05",
+          "url": "https://www.tripadvisor.jp/ShowUserReviews-g1121179-d1129668-r607973989-Gensenkan-Minobu_cho_Minamikoma_gun_Yamanashi_Prefecture_Koshinetsu_Chubu.html"
+        },
+        {
+          "source": "じゃらんnet（参考・件数僅少）",
+          "score": 4.2,
+          "scale": 5,
+          "review_count": 8,
+          "checked_date": "2026-11-05",
+          "url": "https://www.jalan.net/kankou/spt_guide000000177475/kuchikomi/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションのWebSearchでは、宿泊プランの具体的な料金を独立した一次情報で確認できなかった。",
+        "as_of_search_date": "2026-11-05",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全国的に混浴文化が失われつつある中で、今も混浴の浴場『かくし湯大岩風呂』を維持している旅館。足元の岩盤から自然に湧き出す湯がそのまま浴槽を満たす『足元湧出』形式で、価格.com掲載の情報では風呂（泉質）評価が4.58、全国でも16ヶ所しかないとされる『オール5』評価の泉質の一つとして紹介されている。湯は30℃前後のぬる湯と加温した湯とに浴槽が分かれており、交互に浸かるのがこの宿の作法とされる。混浴ではあるが浴槽内でのタオル使用が認められており、17:00〜18:30は女性専用時間帯が設けられている。下部温泉駅から約1kmで送迎ありとされる。",
+      "renewal_or_news": "本セッションのWebSearchの範囲では、直近のリニューアル・改修に関する独立した一次情報は確認できなかった。複数の口コミ・紹介記事（2026年の温泉まとめ記事を含む）で現在も営業中であることは確認できた。",
+      "target_audience": [
+        "温泉好き",
+        "一人旅"
+      ],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 8,
+        "unique_experience_score": 18,
+        "photogenic": 8,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 62,
+      "recommendation_reason": "『今も混浴文化を守り続ける足元湧出の名湯』という、他にはない独自性の高さは評価できる（泉質評価は価格.comで4.58、全国オール5評価16ヶ所の一つと紹介）。一方で、主要な口コミサイトであるニフティ温泉3.9（27件）・トリップアドバイザー3.9（28件）はいずれも主要レビュー4.0未満であり、独立した2情報源で確認した上でも4.0の基準には届いていない（原則6）。じゃらんnetの4.2（8件）は基準を上回るが件数が少なく信頼性は低い。施設・サービス面では『古い施設なので万人向けのサービスは期待しない方がいい』という評価軸の口コミもあり、好みが分かれる。料金等の一次情報も確認できておらず、今回は75点基準に届かないためshortlisted（継続ウォッチ）とする。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ニフティ温泉の口コミ内訳ではお湯4.9・施設3.7・サービス3.5・飲食4.0とされ、お湯の評価は高い一方で施設・サービス評価は低め。『施設は古いので万人が満足するサービスレベルは期待しない方がいい』という言及があるが、安全性・衛生・営業実態に関する決定的な低評価や苦情は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "古湯坊 源泉舘(下部)の口コミ情報一覧｜ニフティ温泉（総合3.9・27件）",
+          "url": "https://onsen.nifty.com/shimobeonsen-onsen/onsen002130/kuchikomi/"
+        },
+        {
+          "type": "review_site",
+          "title": "常連客向けの湯治場 - 古湯坊源泉館の口コミ - トリップアドバイザー",
+          "url": "https://www.tripadvisor.jp/ShowUserReviews-g1121179-d1129668-r607973989-Gensenkan-Minobu_cho_Minamikoma_gun_Yamanashi_Prefecture_Koshinetsu_Chubu.html"
+        },
+        {
+          "type": "other",
+          "title": "下部温泉「古湯坊 源泉舘」宿泊レビュー！混浴文化を守り抜く足元湧出温泉を徹底解説【山梨】｜ニフティ温泉",
+          "url": "https://onsen.nifty.com/onsen-matome/260306725309/"
+        },
+        {
+          "type": "other",
+          "title": "古湯坊 源泉館 料金比較・宿泊予約 - 価格.com（風呂評価4.58の記載）",
+          "url": "https://travel.kakaku.com/%E5%9B%BD%E5%86%85%E5%AE%BF%E6%B3%8A%E4%BA%88%E7%B4%84/%E5%8F%A4%E6%B9%AF%E5%9D%8A%20%E6%BA%90%E6%B3%89%E9%A4%A8-10046652/"
+        }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-11-05-shimobe-onsen-shimobehotel",
+      "name": "下部温泉郷 下部ホテル",
+      "region": "山梨県南巨摩郡身延町下部（下部温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル（travel.gpoint.co.jp掲載の比較データ経由で確認）",
+          "score": 4.39,
+          "scale": 5,
+          "review_count": 1273,
+          "checked_date": "2026-11-05",
+          "url": "https://travel.gpoint.co.jp/daredoko/15b01a-e000-d0bc/"
+        },
+        {
+          "source": "フォートラベル",
+          "score": 3.53,
+          "scale": 5,
+          "review_count": 52,
+          "checked_date": "2026-11-05",
+          "url": "https://4travel.jp/dm_hotel-10036795"
+        },
+        {
+          "source": "icotto（参考・件数僅少）",
+          "score": 3.5,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-11-05",
+          "url": "https://icotto.jp/hotels/2772"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションのWebSearchでは独立した一次情報で具体的な宿泊料金帯を確認できなかった。",
+        "as_of_search_date": "2026-11-05",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "JR身延線下部温泉駅から徒歩1分の和風旅館。泉質の異なる3つの自家源泉を持ち、露天風呂を含む大浴場など計12の湯舟を有する。和太鼓ショーや餅つきショーなど館内イベントが行われている点、朝夜バイキングが好評という口コミが複数ある点が特徴。",
+      "renewal_or_news": "本セッションでは直近のリニューアル・新プランに関する独立した一次情報は確認できなかった。",
+      "target_audience": [
+        "家族",
+        "友人",
+        "温泉好き"
+      ],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 9,
+        "unique_experience_score": 10,
+        "photogenic": 8,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 55,
+      "recommendation_reason": "3源泉・12湯舟、太鼓ショー、バイキングなど施設としての見どころは複数あるが、独立したフォートラベル（3.53/52件）・icotto（3.5）がいずれも主要レビュー4.0未満であり、楽天トラベル系の高評価（4.39/1,273件）との差が大きく信頼性に欠ける。既に口コミ件数1,000件超の知名度ある施設であり、Hidden Gemとしての訴求力も弱いため、今回は選定対象から見送る。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベル系の評価（比較サイト経由、4.39・1,273件）は高いが、独立したフォートラベル（3.53・52件）、icotto（2021年投稿、3.5）はいずれも4.0未満で、『スタッフの対応や食事は平均的で料金相応』という言及がある。また『周辺に飲食店が少ない』『温泉街の中心からは離れ駅前に位置する』という指摘も複数確認した。安全性・衛生面での重大な指摘は確認できなかったが、評価サイト間の差が大きく、独立2情報源での4.0以上確認という基準を満たせなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "旅行のクチコミと比較サイト フォートラベル（下部ホテル 満足度3.53・52件）",
+          "url": "https://4travel.jp/dm_hotel-10036795"
+        },
+        {
+          "type": "review_site",
+          "title": "icotto 下部温泉郷 下部ホテル 口コミ",
+          "url": "https://icotto.jp/hotels/2772"
+        },
+        {
+          "type": "other",
+          "title": "【下部温泉の人気ホテル】「山梨県の温泉旅館 下部温泉郷 下部ホテル」は2種の源泉と和太鼓ショーが魅力 - All About",
+          "url": "https://news.allabout.co.jp/articles/o/129221/"
+        },
+        {
+          "type": "review_site",
+          "title": "楽天トラベル評価比較データ掲載ページ（下部ホテル 4.39・1,273件）",
+          "url": "https://travel.gpoint.co.jp/daredoko/15b01a-e000-d0bc/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要な独立レビューサイト2件（フォートラベル3.53/52件、icotto3.5）がいずれも主要レビュー4.0未満であり、原則6の『75点未満・主要レビュー4.0未満は独立2情報源必須で原則不採用』に該当する。楽天トラベル系の評価（4.39・1,273件）は高いものの、評価サイト間の差が大きく信頼性に欠ける。また既に1,000件超の口コミを持つ知名度の高い施設であり、Hidden Gemとしての『まだ知られていない良さ』という観点での訴求力も弱く、差別化できる創業者・運営者のストーリーも本セッションでは確認できなかった。スコアも55点で75点基準に届かないため不採用とする。"
+    }
+  ]
+}
