@@ -1,0 +1,223 @@
+{
+  "cycle_date": "2026-10-21",
+  "theme": "沖縄県島尻郡久米島町の離島リゾート（再調査）",
+  "season_rationale": "依頼により離島リゾートカテゴリ・沖縄県久米島を対象に調査した。直近の離島リゾート投稿は五島列島（2026-10-18・候補のみで選定なし）、2026-10-19は伊良部島・種子島を候補調査したが選定なし、隠岐諸島（2026-10-20・候補のみで選定なし）であり、これらとは重複しない。ただし本調査にあたり data/candidates 全件を確認したところ、2026-10-17サイクルで『沖縄県久米島』を対象に離島リゾート候補が既に調査済みであることが判明した（EN RESORT Kumejima EEF Beach Hotel・サイプレスリゾート久米島・ウォーターマークホテル沖縄 久米アイランドの3件、いずれも75点未満で不採用、selected候補なし・captionも未作成）。重大な事実変化（リニューアル・休業・大きな評価変動等）が無い限り同一施設の再評価は結論が変わらないと考えられるため、本サイクルでは（1）4日前の3件について現時点での状況変化の有無を再確認し、（2）4日前には調査していない久米島内の別施設2件（ラ・ティーダ久米島テラス、球美の宿 月桃）を新規に調査することで、重複調査を避けつつ久米島内でのBEST候補の有無を最終確認した。10/17時点で『離島リゾートが連続する可能性があるが全候補不採用のため実質連続しない』と整理されていたのと同じ構造が今回も当てはまる。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-20-sado-oki-resort(候補のみ・選定なし)", "region": "島根県隠岐諸島", "category": "離島リゾート" },
+    { "post_id": "2026-10-19-irabu-island-resort(候補のみ・選定なし)", "region": "沖縄県宮古島市伊良部島", "category": "離島リゾート" },
+    { "post_id": "2026-10-19-tanegashima-resort(候補のみ・選定なし)", "region": "鹿児島県種子島", "category": "離島リゾート" },
+    { "post_id": "2026-10-18-goto-retreat-ray", "region": "長崎県五島列島", "category": "離島リゾート" },
+    { "post_id": "2026-10-17-kumejima-resort(候補のみ・選定なし)", "region": "沖縄県島尻郡久米島町", "category": "離島リゾート" },
+    { "post_id": "2026-10-17-ana-intercontinental-ishigaki", "region": "沖縄県石垣市", "category": "離島リゾート" }
+  ],
+  "duplication_note": "data/candidates 全件（1ヶ月以上前を含む）をgrepで確認した結果、久米島関連の過去候補は2026-10-17サイクルの3件のみで、いずれも『rejected』でキャプション（captions/）・投稿（posts/）は作成されていない。したがって『既公開コンテンツとの重複』は発生していないが、同一島を4日前に調査済みという事実は正直に記録する。本サイクルでは当該3件を再確認すると同時に、未調査だった2施設を新規に調査した。captions/・posts/ のいずれにも久米島の施設は一度も登場していない。",
+  "candidates": [
+    {
+      "id": "2026-10-21-en-resort-kumejima-eef-beach",
+      "name": "EN RESORT Kumejima EEF Beach Hotel（旧 イーフビーチホテル）",
+      "region": "沖縄県島尻郡久米島町謝名堂（イーフビーチ）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 4.03, "scale": 5, "review_count": 163, "checked_date": "2026-10-21", "url": "https://4travel.jp/dm_hotel-10039001" },
+        { "source": "スカイチケット（沖縄離島エリア一覧ページ経由）", "score": 4.2, "scale": 5, "review_count": 586, "checked_date": "2026-10-21", "url": "https://skyticket.jp/hotel/okinawa/bl_470019/" },
+        { "source": "楽天トラベル", "score": 4.5, "scale": 5, "review_count": 422, "checked_date": "2026-10-21", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/29731" }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベルで最安目安4,900円〜（税込）という表示があったが、1名あたりか1室あたりかがページ上で明確でなく、2名1泊の具体的料金はこのセッションのWebSearchでは確定できなかった。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "久米島で唯一のオン・ザ・ビーチホテルとされ、イーフビーチに直接面する。久米島名産の海洋深層水を使った『海洋深層水展望風呂』（ビーチを望む大浴場）が特徴で、屋外プールも備える（例年4〜9月頃が営業期間とみられ、10月は季節営業プールが休止している可能性がある）。2023年4月に旧イーフビーチホテルからリブランドし、客室・展望風呂を改装した。",
+      "renewal_or_news": "2023年4月のリブランドオープン（約3年前）。本サイクルの再調査でも2026年10月時点の新たなリニューアル・休業情報は確認できなかった。",
+      "target_audience": ["家族", "カップル", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 13,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 7,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 70,
+      "recommendation_reason": "フォートラベル4.03（163件）・スカイチケット経由4.2（586件）・楽天トラベル4.5（422件）という3つの独立した情報源でいずれも4.0以上を確認でき、2026-10-17調査時より評価の信頼性はやや強化された。久米島唯一のオン・ザ・ビーチという立地と海洋深層水展望風呂に独自性があるが、建物の老朽化・防音・大浴場の混雑といった指摘が複数年の口コミで継続して見られ、2026年10月時点でも新規性・SNS話題性に乏しいため、総合スコアは70点にとどまり採用ラインには届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "複数年（2014〜2022年）の口コミで、建物の古さ、カーテンの遮光性・防音性の低さ、大浴場（海洋深層水展望風呂）の混雑が継続して指摘されている。一方で部屋の清潔さやオーシャンビュー・朝日の美しさを評価する声も多い。衛生・安全上の重大な問題として複数情報源で一致して確認されたわけではないため、disqualifying issueとまでは判断しなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "EN RESORT 久米島イーフビーチホテル - フォートラベル", "url": "https://4travel.jp/dm_hotel-10039001" },
+        { "type": "review_site", "title": "沖縄離島エリア ホテル一覧 - スカイチケット", "url": "https://skyticket.jp/hotel/okinawa/bl_470019/" },
+        { "type": "booking_site", "title": "EN RESORT 久米島イーフビーチホテル - 楽天トラベル（プラン一覧）", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/29731" },
+        { "type": "booking_site", "title": "EN RESORT 久米島イーフビーチホテル - じゃらんnet", "url": "https://www.jalan.net/yad312912/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "2026-10-17サイクルで一度『rejected（68点）』と判定済みの候補。本サイクルで楽天トラベルの第3の独立評価（4.5／422件）を追加確認した結果、信頼性スコアがやや上がり70点となったが、老朽化・防音・混雑に関する継続的な指摘と新規性・SNS話題性の乏しさから、依然採用ライン75点には届かない。"
+    },
+    {
+      "id": "2026-10-21-cypress-resort-kumejima",
+      "name": "サイプレスリゾート久米島",
+      "region": "沖縄県島尻郡久米島町宇根（イーフビーチ周辺）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "スカイチケット", "score": 4.2, "scale": 5, "review_count": 502, "checked_date": "2026-10-21", "url": "https://skyticket.jp/hotel/detail/property_9790/" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは2名1泊あたりの具体的な料金を確認できなかった。一部の旅行サイトでは高級ホテルとして紹介されている。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "久米島空港から車で約5分という立地、大浴場完備、和洋バイキングの朝食、プール・ハンモックが好評との言及がある。全室オーシャンビューという紹介もある一方、際立った独自体験としての裏付けはこのセッションのWebSearchでは確認できなかった。",
+      "target_audience": ["カップル", "記念日", "家族"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 8,
+        "unique_experience_score": 11,
+        "photogenic": 9,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 59,
+      "recommendation_reason": "スカイチケット4.2（502件）は確認できたが、独立した2件目の数値評価情報源（件数つき）はこのセッションのWebSearchでは再確認できず、原則7が求める水準に届かない。2026年4月の口コミにフロント接客への厳しい指摘があったことも踏まえ、総合スコアは59点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2026年4月投稿の口コミで、フロントスタッフの対応が無愛想だった旨の指摘があった。一方、過去の口コミではスタッフのホスピタリティを高く評価しつつ、設備（客室の絨毯等）の古さを指摘する声もあった。接客に関する評価は時期・担当者によって振れがあり、複数情報源で一致した重大な問題とまでは確認できないため、disqualifying issueとは判断しなかったが、スコアには反映した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "サイプレス リゾート久米島 - スカイチケット", "url": "https://skyticket.jp/hotel/detail/property_9790/" },
+        { "type": "review_site", "title": "サイプレスリゾート久米島 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10218370" },
+        { "type": "review_site", "title": "サイプレスリゾート久米島 - クチコミ（gpoint daredoko）", "url": "https://travel.gpoint.co.jp/daredoko/h14834/" },
+        { "type": "review_site", "title": "サイプレス リゾート久米島 - Relux（口コミ）", "url": "https://rlx.jp/21448/review/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "2026-10-17サイクルで一度『rejected（59点）』と判定済みの候補。本サイクルの再確認でも状況に変化はなく、独立2件目の数値評価情報源を確定できないこと・接客に関する複数年の指摘から、採用ライン75点には届かない。"
+    },
+    {
+      "id": "2026-10-21-watermark-kumejima-island",
+      "name": "ウォーターマークホテル沖縄 久米アイランド（旧 リゾートホテル久米アイランド）",
+      "region": "沖縄県島尻郡久米島町謝名堂（イーフビーチ徒歩1分）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "スカイチケット（施設一覧ページ経由）", "score": 4.3, "scale": 5, "review_count": 577, "checked_date": "2026-10-21", "url": "https://skyticket.jp/hotel/okinawa/bl_470019/" },
+        { "source": "フォートラベル", "score": 3.04, "scale": 5, "review_count": 1, "checked_date": "2026-10-21", "url": "https://4travel.jp/dm_hotel-11997080" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは2名1泊あたりの具体的な料金を確認できなかった。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2025年6月に『リゾートホテル久米アイランド』から『ウォーターマークホテル沖縄 久米アイランド』へ名称を改めリブランドオープン。全142室は2024年に全室フルリノベーションを完了しており、イーフビーチへ徒歩1分の立地。一休.comには客室からプールが見える・空調や照明に問題なしという好意的な口コミがあるが、総合評価の数値は確認できなかった。",
+      "renewal_or_news": "2025年6月のリブランドオープンと、2024年の全室フルリノベーションという直近の動き。",
+      "target_audience": ["家族", "カップル", "友人"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 5,
+        "unique_experience_score": 12,
+        "photogenic": 9,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 54,
+      "recommendation_reason": "2025年6月のリブランド・2024年の全室フルリノベーションという新しさはあるが、口コミ評価がサイトによって大きく異なり（一覧ページ経由では4.3/577件、フォートラベルでは3.04/1件のみ）、このセッションのWebSearchでは信頼できる独立した評価を確定できなかった。フォートラベルのクチコミ件数も1件のみで判断材料として不十分なため、総合スコアは54点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "改名前の『リゾートホテル久米アイランド』時代の口コミでは、水回りの古さや海が見えない部屋があるという指摘があった一方、リニューアル後の客室を評価する声もある。現在の名称での数値付き口コミはフォートラベルで1件のみと少なく、リノベーション後の実態を複数情報源で確認できていない。衛生・安全上の重大な問題は確認されていないため、disqualifying issueとは判断しなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ウォーターマークホテル沖縄 久米アイランド - フォートラベル", "url": "https://4travel.jp/dm_hotel-11997080" },
+        { "type": "other", "title": "ウォーターマークホテル沖縄 久米アイランド", "url": "https://www.gltjp.com/ja/directory/item/18510/" },
+        { "type": "review_site", "title": "ウォーターマークホテル沖縄久米アイランド (Watermark Hotel Okinawa Kume Island) - るるぶ", "url": "https://www.rurubu.travel/hotel/japan/kumejima/watermark-hotel-okinawa-kume-island" },
+        { "type": "review_site", "title": "ウォーターマークホテル沖縄 久米アイランド - 一休.com", "url": "https://www.ikyu.com/00031142/?top=map" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "2026-10-17サイクルで一度『rejected（54点）』と判定済みの候補。本サイクルの再確認でも状況に変化はなく、サイトによって評価数値が大きく異なり信頼できる独立した評価を確定できないため、採用ライン75点には届かない。"
+    },
+    {
+      "id": "2026-10-21-la-tida-kumejima-terrace",
+      "name": "ラ・ティーダ久米島テラス（旧 ホテルマリンテラス久米島）",
+      "region": "沖縄県島尻郡久米島町謝名堂（イーフビーチ周辺）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.28, "scale": 5, "review_count": 18, "checked_date": "2026-10-21", "url": "https://4travel.jp/dm_hotel-10053506" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは2名1泊あたりの具体的な料金を確認できなかった。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "旧『ホテルマリンテラス久米島』からリニューアル。ダイビングショップ併設、ランドリーコーナーあり長期滞在向け。コストパフォーマンス項目評価は4.05と比較的高いが、総合満足度は3.28（久米島22件中3位）と低く、口コミの多くは2017〜2019年の投稿で最新性にも乏しい。",
+      "target_audience": ["一人旅", "友人"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 5,
+        "unique_experience_score": 6,
+        "photogenic": 5,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 35,
+      "recommendation_reason": "フォートラベル総合満足度3.28（18件）は原則6が定める最低ライン（主要レビュー4.0以上）に届かず即不採用の水準。コストパフォーマンス項目のみ高評価だが、風呂（3.39）・食事（3.40）は低く、口コミ自体も2017〜2019年中心で最新性に乏しいため、総合スコアは35点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミでは台風時の緊急宿泊先として部屋の広さを評価する声があったが、全体的な満足度・風呂・食事の評価は低い。衛生・安全上の重大な問題は確認されなかったが、評価水準自体が採用ラインに届かない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ラ ティーダ久米島テラス - フォートラベル", "url": "https://4travel.jp/dm_hotel-10053506" },
+        { "type": "other", "title": "ラ ティーダ久米島テラス - icotto", "url": "https://icotto.jp/hotels/3228" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイト評価が3.28（4.0未満）のため原則6により即不採用。"
+    },
+    {
+      "id": "2026-10-21-gettou-kumejima-villa",
+      "name": "球美の宿 月桃（表記により「琉美の宿 月桃」とも）",
+      "region": "沖縄県島尻郡久米島町",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "cocolocala", "score": 5.0, "scale": 5, "review_count": 3, "checked_date": "2026-10-21", "url": "https://www.cocolocala.jp/hotels/228947" }
+      ],
+      "price_range_jpy": {
+        "note": "久米島最大規模（約300㎡）とされる一棟貸し施設で、最大10名まで利用可能。専用庭でのBBQが可能。1泊あたりの具体的料金はこのセッションのWebSearchでは確定できなかった。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "久米島で最も大きいとされる一棟貸しの宿で、広い畳スペースと専用庭でのBBQが特徴。フロントデスクがなく、1階はドミトリー、2階は和室という素朴な構成で、ラグジュアリーホテルというよりは長期滞在・グループ向けの一棟貸し古民家タイプの施設。",
+      "target_audience": ["友人", "家族"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 4,
+        "unique_experience_score": 10,
+        "photogenic": 5,
+        "value_for_price": 6,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 45,
+      "recommendation_reason": "Hidden Gemルール（原則8）の観点で検討したが、口コミは確認できた範囲で3件程度と極めて少なく『複数情報源で裏取りできる強い独自性』の立証が不十分。またフロントデスクなし・ドミトリー併設という素朴な一棟貸し古民家スタイルで、本アカウントのテーマ『ちょっと贅沢な旅』との適合性も低いため、総合スコアは45点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できた口コミはいずれも好意的（清潔さ・対応の良さ・料金の安さを評価）だったが、件数が少なく、ネガティブレビューを含めた傾向分析ができるだけのサンプルが確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "球美の宿 月桃 - cocolocala", "url": "https://www.cocolocala.jp/hotels/228947" },
+        { "type": "booking_site", "title": "琉美の宿 月桃 - 楽天トラベル（プラン）", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/190468" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数が極めて少なく原則7・8（Hidden Gem）の信頼性要件を満たせないこと、またラグジュアリー性よりも素朴な一棟貸し古民家としての性格が強く本アカウントのテーマに合わないため、採用ライン75点には届かない。"
+    }
+  ],
+  "cycle_conclusion": "沖縄県久米島を対象に、2026-10-17サイクルで調査済みの3施設の再確認と、未調査だった2施設（ラ・ティーダ久米島テラス、球美の宿 月桃）の新規調査を合わせて計5件を評価したが、いずれも採用ライン（75点）に届かず、selected候補なし。captions/ の新規作成は行わない。"
+}

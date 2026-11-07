@@ -1,0 +1,152 @@
+{
+  "cycle_date": "2026-10-27",
+  "theme": "熊本県熊本市の『その他』カテゴリ（期間限定イベント・アフタヌーンティー等、ホテル宿泊・温泉・グランピング等の既存カテゴリに当たらない少し贅沢な体験、リサーチ＋キャプションのみ・画像構成なし）",
+  "season_rationale": "10月下旬〜11月末はハロウィンから秋の味覚企画への切り替わり時期で、『期間限定』『今だけ』の訴求力が高い季節（原則30）。本日（2026年10月27日）の北海道函館市調査（data/candidates/2026-10-27-hakodate-bayarea-gentei.json）がWebSearch予算の制約等により正式採用なしで終わったため、依頼に基づき別地域『熊本県熊本市』・カテゴリ『その他』で再調査サイクルを実施した。なお2026年熊本地震（令和8年熊本地震、2026年7月28日発生）により熊本市内の観光・宿泊施設には被害が出ているため、本サイクルでは選定候補の現在の営業状況（地震後の再開・継続営業）も個別に確認した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-24-sapporo-gentei-event", "region": "北海道札幌市", "category": "その他" },
+    { "post_id": "2026-10-25-naha-gentei-event", "region": "沖縄県那覇市", "category": "その他" },
+    { "post_id": "2026-10-26-kyoto-afternoontea-gentei", "region": "京都府京都市", "category": "その他" },
+    { "post_id": "2026-10-27-hakodate-bayarea-gentei", "region": "北海道函館市（函館ベイエリア）", "category": "その他" },
+    { "post_id": "2026-10-24-aso-glamping", "region": "熊本県阿蘇市・阿蘇郡南阿蘇村", "category": "グランピング" }
+  ],
+  "duplication_note": "data/candidates・captions配下の全履歴（2026-09-14〜2026-10-27、約190件・約140件）を『熊本』『kumamoto』『熊本市』で全文検索した。熊本県を扱った既存候補はdata/candidates/2026-10-24-aso-glamping.json（熊本県阿蘇市・南阿蘇村、カテゴリ『グランピング』）とcaptions/2026-10-24-kosugi-resort-glandome-aso.jsonの1組のみで、いずれも阿蘇エリア・グランピングカテゴリであり、region欄に『熊本市』を含む既存候補・キャプションは0件だった。よって『熊本県熊本市×その他カテゴリ』の組み合わせで既存候補・キャプションとの重複は確認されなかった。",
+  "candidates": [
+    {
+      "id": "2026-10-27-nikko-kumamoto-halloween-afternoontea",
+      "name": "ホテル日航熊本 ティー&カクテルラウンジ「ファウンテン」 アフタヌーンティー〜Halloween Tea Party〜",
+      "region": "熊本県熊本市中央区上通町",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet（ホテル日航熊本・施設全体）", "score": 4.8, "scale": 5, "review_count": 1324, "checked_date": "2026-10-27", "url": "https://www.jalan.net/yad372264/" },
+        { "source": "楽天トラベル（まっぷるトラベルガイド掲載データ経由）", "score": 4.62, "scale": 5, "review_count": 2997, "checked_date": "2026-10-27", "url": "https://www.mapple.net/region/a0703060100/hotel/" },
+        { "source": "skyticket（ホテル日航熊本・宿泊口コミ）", "score": 4.5, "scale": 5, "review_count": 1316, "checked_date": "2026-10-27", "url": "https://skyticket.jp/hotel/kumamoto/bl_430014/" }
+      ],
+      "price_range_jpy": {
+        "note": "プレスリリースの表示では、アフタヌーンティー〜Halloween Tea Party〜は1名4,200円（消費税・サービス料込）。提供は12:00／14:00の2部制、各90分。前日14:00までの事前予約制（TEL 096-211-1603、受付10:30〜18:00）。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "熊本市中央区上通町、ホテル日航熊本1階のティー&カクテルラウンジ「ファウンテン」にて、2026年10月1日(木)〜31日(土)の期間限定で提供されるハロウィンテーマのアフタヌーンティー。目玉や蜘蛛の巣をモチーフにしたスイーツに、紫芋・かぼちゃなど秋の味覚を使ったセイボリーを組み合わせ、カフェインフリーを含む11種類の紅茶とともに楽しめる。繁華街・下通／上通アーケードや熊本城にも徒歩圏という中心市街地の立地で、ホテル直結の駐車場もあり、宿泊を伴わない『ちょっと贅沢なお出かけ』需要にも応えやすい。",
+      "renewal_or_news": "2026年のハロウィン企画として2026年10月1日(木)〜31日(土)の期間限定で新規に告知された企画（ニッコー・ホテルズ・インターナショナルの公式プレスリリースより）。同ホテルは2022年に全客室フロアのリニューアルを完了している。",
+      "target_audience": ["カップル", "記念日", "女子旅", "友人", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 14,
+        "unique_experience_score": 14,
+        "photogenic": 11,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 5
+      },
+      "score": 80,
+      "recommendation_reason": "じゃらんnet（施設全体・1,324件・4.8）、楽天トラベル（まっぷる掲載データ経由・2,997件・4.62）、skyticket（1,316件・4.5）という3つの独立情報源すべてで件数を伴う推奨ライン4.0以上を確認できた（原則6・7）。熊本市中心部（上通町）という繁華街・熊本城から徒歩圏のアクセスの良さ、2026年10月1日〜31日という『今だけ』のハロウィン限定企画という鮮度、紅茶11種類・2部制・前日予約制という運用の明確さも確認できた。一方で本企画自体（ラウンジ単体）の口コミはまだ蓄積されておらず、食べログ掲載のラウンジ単体評価は3.14と施設全体評価よりは控えめだった点、紫芋・かぼちゃ等の秋限定セイボリーはあるがアフタヌーンティー自体のコンセプトとしては他都市ホテルの同種企画と比べ独自性は中位である点を踏まえ、総合スコアは80点とした。2026年7月28日発生の令和8年熊本地震後も同ホテルは通常営業を継続しており（2026年12月21日開催予定のディナーショー予約受付開始など先々までの営業・催事情報を確認）、インバウンド客比率の低下という影響は報じられているが施設自体の休業情報は確認されなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "宿泊者の口コミでは、料金に対して客室・眺望・設備がやや物足りなかったという指摘があった一方、朝食（からし蓮根・太平燕・高菜めしなど熊本の地物を使ったメニュー）は高評価だった。食べログ掲載のラウンジ「ファウンテン」単体の評価は3.14で、施設全体評価（じゃらん4.8等）よりは控えめな水準だった。2026年熊本地震に関する報道では、同ホテルの外国人宿泊比率が前年同期比で低下したという言及はあったが、施設の休業・安全上の重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "【ホテル日航熊本】「アフタヌーンティー 〜 Halloween Tea Party 〜」を10月1日から提供 - san-tatsu.jp（ニッコー・ホテルズ・インターナショナル発プレスリリース転載）", "url": "https://san-tatsu.jp/pressrelease/552191/" },
+        { "type": "press", "title": "【ホテル日航熊本】「アフタヌーンティー 〜 Halloween Tea Party 〜」を10月1日から提供 - oricon.co.jp（プレスリリース転載）", "url": "https://www.oricon.co.jp/pressrelease/2992348/" },
+        { "type": "official", "title": "ティー&カクテルラウンジ「ファウンテン」メニュー案内 - ホテル日航熊本 公式サイト（nikko-kumamoto.co.jp）", "url": "https://nikko-kumamoto.co.jp/restaurant/fountain/menu/29/" },
+        { "type": "booking_site", "title": "宿・ホテル > 熊本県 > 熊本 > 熊本 > ホテル日航熊本 - じゃらんnet（クチコミ総合4.8・1,324件）", "url": "https://www.jalan.net/yad372264/" },
+        { "type": "other", "title": "熊本市のホテル一覧（楽天トラベル評価掲載） - まっぷるトラベルガイド", "url": "https://www.mapple.net/region/a0703060100/hotel/" },
+        { "type": "booking_site", "title": "ホテル日航熊本 宿泊口コミ - skyticket", "url": "https://skyticket.jp/hotel/kumamoto/bl_430014/" },
+        { "type": "review_site", "title": "ティー&カクテルラウンジ ファウンテン - 食べログ（評価3.14）", "url": "https://icotto.jp/restaurants/56817" },
+        { "type": "press", "title": "<2026年熊本地震>インバウンド減、観光に打撃 熊本市のホテルや飲食店 - 熊本日日新聞", "url": "https://kumanichi.com/articles/2024990" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-27-kaguyahime-hikaru-niwa-sakuramachi",
+      "name": "かぐや姫の光る庭 第四章「雲海と光の回廊」（サクラマチ クマモト屋上庭園）",
+      "region": "熊本県熊本市中央区桜町3-10（サクラマチ クマモト）",
+      "category": "その他",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "じゃらんnet（サクラマチ クマモト・施設全体）", "score": 4.3, "scale": 5, "review_count": 8, "checked_date": "2026-10-27", "url": "https://www.jalan.net/kankou/sta_019606/g2_W4/" },
+        { "source": "GLT（ガイドブック系サイト、サクラマチ クマモト施設紹介）", "score": 4.07, "scale": 5, "review_count": 2, "checked_date": "2026-10-27", "url": "https://www.gltjp.com/ja/directory/item/14252/" }
+      ],
+      "price_range_jpy": {
+        "note": "入場券は大人1,500円、高校生750円、中学生以下は保護者同伴で無料（公式サイト sakuramachi-kumamoto.jp/event/kaguya4 掲載）。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "熊本市中央区のサクラマチ クマモト屋上庭園で2026年9月5日(土)〜2027年5月30日(日)（年末年始休園の可能性あり）開催される光のインスタレーション『かぐや姫の光る庭 第四章〜雲海と光の回廊〜』。池一面に広がる『スモーク雲海』、約400個の竹ランタン・150個の竹球体を含む約20点の大型作品、16,000個以上の照明による青・緑・紫と変化する演出、雲の上を歩くような『水上回廊』が見どころ。熊本のアートコレクティブCHIKAKENが手がけ、土曜夜には19時からミニライブも開催される。開催時間は18:00〜21:00（最終入場20:45）。",
+      "renewal_or_news": "シリーズ第四章として2026年9月5日に新規開幕した現行シーズンの企画（第三章は2026年2月28日〜5月31日で終了済み）。",
+      "target_audience": ["カップル", "記念日", "女子旅", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 5,
+        "unique_experience_score": 16,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 5
+      },
+      "score": 69,
+      "recommendation_reason": "熊本城ホール・大型商業施設に隣接するサクラマチ クマモト屋上庭園という中心市街地の立地で、16,000個以上の照明・竹ランタン・水上回廊による幻想的な光のインスタレーションという独自性・映える要素は高い。ただしイベント単体の口コミはほぼ見つからず、代わりに参照した施設全体（サクラマチ クマモト）の評価はじゃらんnet4.3点（8件）・GLT4.07点（2件）といずれも件数が極端に少なく、原則7が求める『信頼できる口コミサイトの明確な集計評価を2件以上の独立情報源で、件数を伴って』という基準を十分に満たせない。総合スコアも69点で採用ライン（75点）に届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "イベント単体の低評価・苦情は確認できなかった。施設全体（サクラマチ クマモト）に関するいこーよの口コミでは、ベビーカー利用者からエレベーターが混まず快適だったという声や、授乳室の場所が分かりにくいという指摘があったが、いずれも数年前の投稿が中心で安全・衛生上の重大な指摘ではない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "かぐや姫の光る庭 〜第四章〜 イベント情報 - 熊本日日新聞（kumanichi.com/event）", "url": "https://kumanichi.com/event/2028629" },
+        { "type": "other", "title": "Princess Kaguya's Shining Garden（第三章・参考情報） - Japan Travel", "url": "https://en.japantravel.com/kumamoto/princess-kaguyas-shining-garden/72432" },
+        { "type": "booking_site", "title": "サクラマチ クマモト 施設情報・クチコミ - じゃらんnet", "url": "https://www.jalan.net/kankou/sta_019606/g2_W4/" },
+        { "type": "other", "title": "サクラマチ クマモト 施設紹介・評価 - GLT (Go Local Travel)", "url": "https://www.gltjp.com/ja/directory/item/14252/" },
+        { "type": "review_site", "title": "SAKURA MACHI Kumamoto（サクラマチクマモト）口コミ - いこーよ", "url": "https://iko-yo.net/experiences/73228" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "光のインスタレーションとしての独自性・映える要素は高いが、イベント単体の集計評価が確認できず、代替として参照した施設全体の評価（じゃらんnet4.3点/8件、GLT4.07点/2件）はいずれも件数が極端に少なく、原則7が求める信頼性の基準を満たせない。総合スコア69点で採用ライン（75点）未満のため今回は不採用。口コミが蓄積された段階での再調査候補として記録する。"
+    },
+    {
+      "id": "2026-10-27-omo5-kumamoto-local-rhythm-night",
+      "name": "OMO5熊本 by 星野リゾート「鼓響く城下マチの宴（ローカルリズムナイト）」",
+      "region": "熊本県熊本市中央区手取本町",
+      "category": "その他",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "じゃらんnet（OMO5熊本 by 星野リゾート・施設全体）", "score": 4.4, "scale": 5, "review_count": 128, "checked_date": "2026-10-27", "url": "https://www.jalan.net/yad302395/" },
+        { "source": "icotto（個人口コミ・1件のみ参考情報）", "score": 3.5, "scale": 5, "review_count": 1, "checked_date": "2026-10-27", "url": "https://icotto.jp/hotels-11387/" }
+      ],
+      "price_range_jpy": {
+        "note": "イベント自体は宿泊者向けに無料で開催されるが、球磨焼酎のペアリングは別料金（具体的な金額はこのセッションのWebSearchでは確認できなかった）。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "熊本パルコ跡地（熊本市中央区手取本町）の星野リゾート都市型ホテル『OMO5熊本』にて、2025年10月15日から通年開催されている夜のイベント『鼓響く城下マチの宴』。熊本城にちなんだのれん・石灯りの意匠に包まれた空間で、地元の若手演奏家による和太鼓演奏（毎晩20:15頃・21:15頃の2回、開催時間20:00〜22:30）とともに、球磨焼酎（初心者向けペアリングあり）を楽しめる宿泊客向けの無料ナイトイベント。",
+      "renewal_or_news": "2025年10月15日開始の通年企画で新規性は乏しいが、2024年度グッドデザイン賞受賞ホテルの看板イベントとして継続提供されている。",
+      "target_audience": ["友人", "一人旅", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 6,
+        "unique_experience_score": 17,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 67,
+      "recommendation_reason": "熊本城の意匠・地元の若手演奏家による和太鼓・球磨焼酎という『熊本らしさ』を前面に出した独自性の高い無料ナイトイベントで、ホテル自体の評価（じゃらんnet4.4点・128件）も良好。ただしこのイベント単体の口コミは確認できず、二次的な独立情報源として見つかったicottoの評価3.5はサンプル数1件の個人口コミに過ぎず、原則7が求める『独立2情報源で件数を伴う評価』を満たせない。球磨焼酎ペアリングの料金も不明で、2025年10月開始の通年企画であり『今だけ』の訴求力も弱いため、総合スコア67点で採用ライン（75点）未満とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "イベント単体への苦情は確認できなかった。ホテル全体の口コミでは清潔感・部屋・接客・朝食・風呂が高評価という言及があり、安全・衛生上の重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "売りは「熊本らしさ」、鍵は球磨焼酎 星野リゾート運営の都市型ホテル「OMO5熊本」 宿泊客向けに城下町の夜楽しむイベント - 熊本日日新聞", "url": "https://www.kumanichi.com/articles/1925770" },
+        { "type": "official", "title": "ローカルリズムナイト「鼓響く城下マチの宴」 - OMO5熊本 by 星野リゾート 公式サイト", "url": "https://hoshinoresorts.com/ja/hotels/omo5kumamoto/sp/localrhythmnight/" },
+        { "type": "press", "title": "「さしより一杯!」飲みなっせ 0次会で城下町楽しんで 熊本市の「OMO5熊本」 - 熊本日日新聞", "url": "https://kumanichi.com/articles/2009675" },
+        { "type": "booking_site", "title": "宿・ホテル > 熊本県 > 熊本 > 熊本 > OMO5熊本 by 星野リゾート - じゃらんnet（クチコミ総合4.4・128件）", "url": "https://www.jalan.net/yad302395/" },
+        { "type": "review_site", "title": "OMO5熊本 by 星野リゾート 口コミ - icotto", "url": "https://icotto.jp/hotels-11387/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "イベント自体の独自性は高いが、口コミ評価の独立2情報源・十分な件数という基準を満たせず（icottoの3.5点はサンプル1件）、通年開催のため『期間限定』としての訴求力も弱い。総合スコア67点で採用ライン（75点）未満のため今回は不採用。"
+    }
+  ],
+  "selected": "2026-10-27-nikko-kumamoto-halloween-afternoontea",
+  "cycle_result_note": "今回のサイクルでは熊本県熊本市・カテゴリ『その他』で3件を調査した。『ホテル日航熊本 Halloween Tea Party』は、じゃらんnet（1,324件・4.8）、楽天トラベル（まっぷる経由・2,997件・4.62）、skyticket（1,316件・4.5）という3つの独立情報源すべてで推奨ライン4.0以上・十分な件数を確認でき、2026年10月1日〜31日という『今だけ』の鮮度、熊本市中心部という立地の良さも確認できたため、総合スコア80点でselectedとした。『かぐや姫の光る庭 第四章』（サクラマチ クマモト屋上庭園の光のインスタレーション）と『OMO5熊本 鼓響く城下マチの宴』（和太鼓・球磨焼酎の夜イベント）はいずれも独自性・映える要素は高いものの、イベント単体の口コミ評価が確認できず、代替で参照した施設全体の評価も件数が少なすぎる（8件・2件）か参考情報（1件のみ）に留まり、原則7の信頼性基準を満たせなかったため不採用とした。なお2026年7月28日発生の令和8年熊本地震（熊本城の一部被災・施設被害約352億円等）について各候補の現在の営業状況を個別に確認し、いずれも地震後も通常営業を継続していることを確認した上で選定を行った。"
+}

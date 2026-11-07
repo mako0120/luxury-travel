@@ -1,0 +1,139 @@
+{
+  "cycle_date": "2026-10-23",
+  "theme": "アクティビティカテゴリ（富山県立山黒部アルペンルート）",
+  "season_rationale": "立山黒部アルペンルートは公式情報で室堂の紅葉見頃が9月中旬〜10月上旬、大観峰〜黒部平が10月上旬〜中旬とされており、10/23時点では標高の高いエリアは紅葉がすでに終盤〜落葉に向かう時期。一方、称名滝・美女平など標高の低いエリアは10月下旬〜11月上旬が見頃とされ、ちょうど今がそのタイミングに入る。さらに公式サイトが2026年10月20日付で、新雪シーズンを楽しむ新企画『2026 立山黒部・ゆきたび』を11月1日から初開催すると発表しており、紅葉の終わりと初雪シーズンの始まりが重なる『高低差で2つの季節を一度に楽しめる』時期として訴求できる（原則4・原則30）。",
+  "prior_posts_checked": [
+    { "caption_id": "2026-10-22-takachihokyou-boat", "region": "宮崎県西臼杵郡高千穂町（高千穂峡）", "category": "アクティビティ" },
+    { "caption_id": "2026-10-21-shinhotaka-ropeway", "region": "岐阜県高山市奥飛騨温泉郷新穂高（北アルプス山麓）", "category": "アクティビティ" },
+    { "caption_id": "2026-10-20-fuji-panoramic-ropeway", "region": "山梨県南都留郡富士河口湖町（河口湖畔・天上山公園）", "category": "アクティビティ" },
+    { "candidate_id": "2026-10-18-kurobe-gorge-torokko", "region": "富山県黒部市（宇奈月駅発、黒部峡谷）", "category": "アクティビティ", "note": "名称に『黒部』を含むが、黒部峡谷鉄道（関西電力系・宇奈月温泉発のトロッコ電車、標高の低い峡谷を走る）と、今回の立山黒部アルペンルート（立山黒部貫光運営、立山駅〜扇沢駅を6つの乗り物でつなぐ山岳横断ルート、標高2,450mの室堂まで上がる）は運営会社・路線・体験内容がいずれも異なる別施設であり、重複ではないと判断した。" },
+    { "candidate_id": "2026-09-14-hotel-togen", "region": "富山県黒部市（宇奈月温泉）", "category": "絶景ホテル", "note": "2026-09-14サイクルで、宇奈月温泉の宿『ＴＯＧＥＮ 黒部・宇奈月温泉 桃源』のunique_experience欄で『立山黒部アルペンルート観光の拠点』という表現を使っているが、これは宿の立地説明としての言及であり、立山黒部アルペンルート自体を制作対象の候補として調査・選定したものではない。" }
+  ],
+  "duplication_note": "data/candidates全件・captions全件（2026-09-14〜2026-10-22、約1ヶ月以上前の分も含む）をgrepで横断確認し、『立山』『黒部』『アルペン』『Tateyama』『Kurobe』『Alpine』を含むファイルをすべて洗い出した。該当したのは（1）宇奈月温泉発の黒部峡谷鉄道トロッコ電車（2026-10-18選定、別運営・別路線の体験）、（2）黒部峡谷鉄道を重複確認のためだけに言及した候補ファイル数件、（3）宇奈月温泉の宿の立地説明として『立山黒部アルペンルート観光の拠点』と触れた2026-09-14の絶景ホテル候補、の3パターンのみで、いずれも立山黒部アルペンルート自体を主役候補として扱った例は無かった。直近3投稿（高千穂峡10/22・新穂高ロープウェイ10/21・河口湖パノラマロープウェイ10/20）とも地域重複なし。カテゴリ『アクティビティ』は直近3サイクル中これで3回連続の使用になるが、今回はユーザーから地域・カテゴリとも明示指定されているため、その指定に従って調査した。",
+  "research_constraints": "このセッションのWebSearchツールは、会話全体で共有される実行回数上限に途中で到達し、本サイクルの途中から新規検索ができなくなった。そのため、じゃらんnet・4travel・トリップアドバイザーで『立山黒部アルペンルート』全体を対象とした口コミ集計（スコア・件数のセット）を直接確認することができなかった。確認できたのは、GLTJP・VELTRA（ツアー商品レビュー）・Klook（ツアー商品レビュー、LIVE JAPAN経由）の3つの独立した評価データと、ルートの一部区間である立山ケーブルカー単体の4travel評価（3.48・102件）であり、ルート全体のjalan/4travel本体評価は未確認のまま残っている。2026年時点の正式な往復乗車券の料金（立山駅〜扇沢駅）もこのセッションでは確認できず、2022〜2023年頃の古い料金情報（片道9,140円・往復16,480円との記載）しか見つからなかったため、価格は『未確認・変動あり』として扱った。",
+  "candidates": [
+    {
+      "id": "2026-10-23-tateyama-kurobe-alpine-route",
+      "name": "立山黒部アルペンルート",
+      "region": "富山県中新川郡立山町（立山駅）〜長野県大町市（扇沢駅）、標高2,450mの室堂ターミナルを含む山岳横断ルート",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "GLTJP（観光情報ディレクトリ）", "score": 4.62, "scale": 5, "review_count": 13, "checked_date": "2026-10-23", "url": "https://www.gltjp.com/ja/directory/item/12691/" },
+        { "source": "VELTRA（立山・黒部 紅葉特集2025 参加者レビュー）", "score": 4.58, "scale": 5, "review_count": 12, "checked_date": "2026-10-23", "url": "https://www.veltra.com/jp/japan/ishikawa/ctg/202081:koyo_tateyama_kurobe/reviews/" },
+        { "source": "Klook（立山黒部アルペンルート大自然満喫の旅、LIVE JAPAN掲載）", "score": 4.6, "scale": 5, "review_count": 34, "checked_date": "2026-10-23", "url": "https://livejapan.com/ja/in-tokyo/in-pref-nagano/in-nagano-suburbs/activity-sightseeing/ac0195526/" }
+      ],
+      "price_range_jpy": {
+        "note": "2026年時点の正式な立山駅〜扇沢駅の通し乗車券料金は、このセッションのWebSearch予算内では確認できなかった。参考として見つかった古い情報では、立山駅〜黒部湖間の片道9,140円・往復16,480円（2022〜2023年頃のデータ）という記載があったが、現在の正式料金ではないため掲載を見送り、予約前に公式サイト（立山黒部貫光）での確認が必須。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "富山県の立山駅と長野県の扇沢駅を、ケーブルカー・高原バス・トロリーバス・ロープウェイ（立山ロープウェイ）・バスなど6種類の乗り物で乗り継ぎながら、総延長37.2km・最大高低差1,975mを横断する日本最高所クラスの山岳観光ルート。標高2,450mの室堂ターミナルは日本最高所の駅で、眼下に広がる室堂平や『北アルプスで最も美しい火山湖』と称されるみくりが池など、他では得難いスケールの山岳景観が楽しめる。春〜初夏限定の『雪の大谷』が有名だが、営業期間は4月中旬〜11月末までと長く、季節ごとに全く異なる表情を見せるのが特徴。",
+      "renewal_or_news": "公式サイトが2026年10月20日付で、新雪シーズンの訪問者向けに『2026 立山黒部・ゆきたび』を11月1日から初開催すると発表した（公式お知らせ）。10月下旬は、標高の低い称名滝・美女平周辺で紅葉が見頃（10月下旬〜11月上旬）に入りつつ、室堂・大観峰〜黒部平など標高の高いエリアは紅葉終盤〜初雪シーズンへ向かうタイミングで、1日のうちに紅葉と初冬の山岳景観の両方を楽しめる可能性がある。なお黒部ダムの観光放水は2026年は6月26日〜10月15日で終了済みのため、今の時期の訪問では観覧できない点は注意点として明記する。",
+      "target_audience": ["カップル", "家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 9,
+        "unique_experience_score": 19,
+        "photogenic": 14,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 80,
+      "recommendation_reason": "GLTJP（4.62・13件）、VELTRA紅葉特集ツアーレビュー（4.58・12件）、Klookツアー商品レビュー（4.6・34件、LIVE JAPAN経由）という3つの独立した情報源を確認し、いずれも採用ライン4.0以上（5点満点換算）を十分に満たした（原則6・7）。ただし3件ともツアー商品・ディレクトリサイトの評価で、jalan/4travel本体のルート全体ページの集計評価は本セッションのWebSearch予算の制約により確認できておらず、件数も13〜34件と中規模のため、信頼性スコアは中位（9/15）とした。『日本最高所2,450mのターミナル』『6種類の乗り物を乗り継ぐ37.2kmの山岳横断』という独自性は、同カテゴリの他のロープウェイ系候補（新穂高10/21・河口湖10/20）と比べても規模・知名度で際立つ。10月下旬は紅葉終盤と初雪シーズンの始まり（11/1開始の『ゆきたび』）が重なる珍しい時期で、季節訴求の鮮度もある。弱みとして、2026年の正式な往復料金が確認できず『価格に対する体験価値』の評価が下げにくい点、黒部ダム観光放水が10/15で終了済みのため今は見られない点がある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ルート内の一部区間である立山ケーブルカーの4travel評価は3.48（102件）とやや低く、項目別では『人混みの少なさ』2.64・『コストパフォーマンス』3.28という低めの評価が確認できた。口コミでも混雑への言及や、称名滝方面はシャトルバスが渋滞・天候により運休する場合があるとの注意喚起が見られた。一方で、GLTJP・VELTRA・Klookいずれのレビューでも景観そのものへの満足度は高く、安全面・清潔感に関する重大な指摘は確認されなかった。黒部ダムの観光放水は2026年10月15日で終了済みのため、今の時期には見られない点も確認済みだが、これは施設の欠陥ではなく季節性の注意点として扱う。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "立山黒部アルペンルート 紅葉特集（見頃情報）", "url": "https://www.alpen-route.com/autumn-leaves/" },
+        { "type": "official", "title": "立山黒部アルペンルート公式サイト お知らせ一覧（『2026 立山黒部・ゆきたび』11月1日初開催の発表を含む）", "url": "https://www.alpen-route.com/_wp/information_ctgr/news" },
+        { "type": "review_site", "title": "立山黒部アルペンルート - GLTJP", "url": "https://www.gltjp.com/ja/directory/item/12691/" },
+        { "type": "review_site", "title": "（参加者のレビュー一覧）立山・黒部（紅葉特集2025） - VELTRA", "url": "https://www.veltra.com/jp/japan/ishikawa/ctg/202081:koyo_tateyama_kurobe/reviews/" },
+        { "type": "booking_site", "title": "立山黒部アルペンルート大自然満喫の旅（Klook） - LIVE JAPAN", "url": "https://livejapan.com/ja/in-tokyo/in-pref-nagano/in-nagano-suburbs/activity-sightseeing/ac0195526/" },
+        { "type": "review_site", "title": "立山ケーブルカー クチコミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_shisetsu/11288977" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-23-shomyo-falls",
+      "name": "称名滝（美女平・立山山麓エリア）",
+      "region": "富山県中新川郡立山町芦峅寺（立山駅・美女平エリア、立山黒部アルペンルートの起点付近）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "滝見学自体は無料だが、駐車場からのシャトルバス利用料など詳細な料金はこのセッションでは確認できなかった。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "落差350m、4段に分かれて落ちる日本一の落差を誇る滝。上流にある称名滝とハンノキ滝が雪解け期にV字を描く景観でも知られ、紅葉の見頃は10月下旬〜11月上旬とちょうど今の時期にあたる。駐車場から滝までは川沿いの遊歩道を徒歩約20〜30分。",
+      "target_audience": ["カップル", "家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 12,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 33,
+      "recommendation_reason": "日本一の落差（350m）という独自性と、10月下旬〜11月上旬という『まさに今』の紅葉見頃は魅力的だが、じゃらんnet・4travel等での確度ある数値評価（score・scale・review_countのセット）をこのセッションのWebSearch予算内で確認できなかった。4travelの口コミ個別評価は3.5〜5.0と幅があることのみ確認できたが、施設全体の平均点・総件数としては採用できず、原則6・7が求める根拠を満たせないため見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "駐車場からのシャトルバスが渋滞・天候により運休する場合があるとの指摘があり、車での直接進入はできない点も注意点として挙げられていた。滝の迫力自体への評価は高いという口コミが複数確認された。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "紅葉も見事! 落差日本一の名瀑! 称名滝 - 旅行作家 村田らむ", "url": "https://tabi-mag.jp/syoumyoufall/" },
+        { "type": "review_site", "title": "称名滝 クチコミ・アクセス・周辺情報 - フォートラベル", "url": "https://4travel.jp/dm_shisetsu/10012459" },
+        { "type": "other", "title": "称名滝（紅葉情報） - ウェザーニュース", "url": "https://weathernews.jp/koyo/spot/25504/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "施設全体の数値評価（score・scale・review_count）をこのセッションのWebSearch予算内で確認できず、原則6・7の基準を満たす根拠が不足するため見送った。次サイクル以降、じゃらん・4travel等での確度ある口コミ数値を確認できれば再評価の価値がある。"
+    },
+    {
+      "id": "2026-10-23-tateyama-caldera-sabo-museum",
+      "name": "立山カルデラ砂防博物館・砂防工事専用軌道トロバス体験",
+      "region": "富山県中新川郡立山町芦峅寺（立山駅周辺、立山カルデラ）",
+      "category": "アクティビティ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "いこーよ", "score": 5.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-23", "url": "https://iko-yo.net/facilities/12253" }
+      ],
+      "price_range_jpy": {
+        "note": "一般向けのトロバス体験乗車は完全予約制・実施回数限定で、具体的な料金体系をこのセッションでは確認できなかった。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "今も崩れ続ける立山カルデラの現場を、砂防工事専用軌道のトロッコとバスを乗り継いで見学できる珍しい体験。国土交通省立山砂防事務所が主催する学習会・防災教室が中心で、博物館見学・トロッコ乗車体験・土石流体感3Dシアターなどがセットになっている。",
+      "target_audience": ["家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 5,
+        "review_reliability": 2,
+        "unique_experience_score": 14,
+        "photogenic": 8,
+        "value_for_price": 4,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 37,
+      "recommendation_reason": "『今も崩れ続ける現場をトロッコで見学する』という体験自体の独自性は非常に高く、Hidden Gemの条件（公式情報が確認できる・現在営業している・独自性がある）は満たす。しかし一般向けの実施は小学校の防災教室や事前申込制の学習会・ユースプログラムが中心で、一般観光客が自由に申し込める定期ツアーとしての体制が確認できず、口コミもいこーよで1件（5.0点）のみと信頼できる評価件数に達していない。今回の立山黒部アルペンルートと比べて一般向けアクセスの再現性が低いと判断し、今サイクルでは見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一般向け口コミがほぼ存在せず、満足度・不満点を十分に確認できなかった。参加条件（小学3年生以上、事前予約制、先着順など）が厳しく、思いつきでの訪問ができない点が実質的な弱みとなる。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "立山カルデラ砂防博物館 - いこーよ", "url": "https://iko-yo.net/facilities/12253" },
+        { "type": "official", "title": "子供防災教室（博物館見学・トロッコ体験乗車）- 国土交通省北陸地方整備局立山砂防事務所", "url": "https://www.hrr.mlit.go.jp/tateyama/topics/2025/251008.pdf" },
+        { "type": "other", "title": "立山砂防体験学習会の記録 - 土木学会誌", "url": "https://www.jsce.or.jp/journal/thismonth/200308/museum.pdf" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "一般観光客が自由に参加できる体制が確認できず、口コミもいこーよ1件（5.0点）のみで信頼できる評価件数に達していないため、原則6・7の基準を満たす根拠が不足すると判断し見送った。"
+    }
+  ]
+}

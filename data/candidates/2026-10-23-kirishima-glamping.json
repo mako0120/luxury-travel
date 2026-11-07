@@ -1,0 +1,144 @@
+{
+  "cycle_date": "2026-10-23",
+  "theme": "鹿児島県霧島高原エリアのグランピング施設",
+  "season_rationale": "10月下旬の霧島高原は朝晩の気温が下がり始め、源泉かけ流しの露天風呂やテントサウナが心地よく感じられる時期。紅葉が高原部から徐々に進み、霧島連山を望む景観も秋らしくなる。夏の繁忙期を過ぎてグランピング各施設の秋プラン・期間限定キャンペーンが動き出すタイミングでもある。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-22-minakami-glamping", "region": "群馬県利根郡みなかみ町", "category": "グランピング" },
+    { "post_id": "2026-10-21-onomichi-setouchi-glamping", "region": "広島県尾道市（しまなみ海道）", "category": "グランピング" },
+    { "post_id": "2026-10-20-yamanakako-itoshima-glamping", "region": "山梨県山中湖村／福岡県糸島市", "category": "グランピング" },
+    { "post_id": "2026-10-20-nasu-awaji-glamping", "region": "栃木県那須高原／兵庫県淡路島", "category": "グランピング" },
+    { "post_id": "2026-10-19-takashima-glamping", "region": "滋賀県高島市", "category": "グランピング" },
+    { "post_id": "2026-10-19-iseshima-glamping", "region": "三重県伊勢志摩", "category": "グランピング" }
+  ],
+  "duplication_note": "直近2サイクル（2026-10-21広島県尾道市、2026-10-20山梨県山中湖村）はいずれも地域が異なり重複なし。加えて、ユーザー指示に基づき直近数日だけでなく data/candidates/ 配下の全ファイル（2026-09-14〜2026-10-22、約95件）および captions/ 配下の全ファイル（約80件）を『霧島』『鹿児島』で全文検索した。鹿児島県を含む既存候補・投稿は複数あった（奄美・屋久島・石垣・久米島・伊良部島・種子島・指宿・対馬・奄美オールインクルーシブ等）が、いずれも離島リゾート・絶景ホテル・アクティビティ等の別カテゴリ・別地域であり、『霧島高原×グランピング』の組み合わせで既存登録された候補・キャプションは1件も存在しないことを確認した。よって重複はない。",
+  "candidates": [
+    {
+      "id": "2026-10-23-koshikano-onsen-kirishima",
+      "name": "全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉",
+      "region": "鹿児島県霧島市隼人町松永2625",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.6, "scale": 5, "review_count": 657, "checked_date": "2026-10-23", "url": "https://www.jalan.net/yad307156/" },
+        { "source": "Relux", "score": 3.9, "scale": 5, "review_count": 15, "checked_date": "2026-10-23", "url": "https://rlx.jp/24040/review/" },
+        { "source": "フォートラベル", "score": 3.24, "scale": 5, "review_count": 6, "checked_date": "2026-10-23", "url": "https://4travel.jp/dm_hotel-11758343" }
+      ],
+      "price_range_jpy": {
+        "note": "旅館タイプ客室は1人8,800円〜（2名利用時、るるぶ掲載）。露天風呂付きグランピングは1人27,500円〜（2名利用時、るるぶ掲載）。別記事（ANA Travel & Life）では2食付き2名1室で1人1泊22,000円〜の掲載もあり、プラン・部屋タイプ・時期により変動する。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全室（旅館タイプ／旅館×グランピングのハイブリッド／ドーム型グランピングの3タイプから選択）に、ナトリウム-炭酸水素塩泉（通称『美肌の湯』）の源泉かけ流し温泉を完備。グランピング棟は露天風呂・内風呂・テントサウナ・焚き火・BBQスペースを備え、一部棟は愛犬同伴も可能。霧島連山に囲まれた立地で、鹿児島空港から車で約15分とアクセスも良い。",
+      "renewal_or_news": "公式サイトのお知らせによると、2026年6月30日に『じゃらんアワード2025 売れた宿大賞』（11〜50室部門）第3位を受賞。2026年9月8日には観光庁の通知（8/28）を受け、2026年10月1日以降の宿泊を対象とした『九州復興割』参画予定を告知しており、2026年に入ってからも継続的に情報が更新されていることを確認できる。",
+      "target_audience": ["カップル", "記念日", "夫婦", "家族"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 12,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 5
+      },
+      "score": 79,
+      "recommendation_reason": "じゃらんnet（657件・4.6）とRelux（15件・3.9）、フォートラベル（6件・3.24）という独立3サイトで数値評価を確認でき、最大評価（じゃらん4.6／5）は件数657件という十分な母数に支えられており、採用ライン（主要レビュー4.0以上を独立2情報源で裏付け）を満たす。『全室源泉かけ流し＋旅館／ハイブリッド／グランピングの3タイプから選べる』という構成は霧島エリアでも独自性が高く、2026年に入ってからの受賞発表・キャンペーン告知で情報の新しさも確認できた。一方でRelux・フォートラベルでは接客・食事評価にばらつきがあり、満点評価ではない点を踏まえてスコアは79点とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icotto掲載の2024年12月の口コミ（3.0点）では、大浴場が営業しておらず客室の内風呂・露天風呂のみだったこと、冬場は露天風呂の湯温が下がりやすく長湯しづらかったことが指摘されていた。Reluxの口コミ（15件）でも接客評価が2点〜5点まで分かれており、4travel（3.24／6件）では食事3.33・コストパフォーマンス3.33と、Yahoo!トラベル掲載の項目別評価（食事4.58など）より低めの評価も見られた。一部客室で手狭さ・湿気を指摘する声もあったが、衛生・安全上の重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "美肌の湯 こしかの温泉 公式サイト（お知らせ：じゃらんアワード2025受賞・九州復興割参画予定）", "url": "https://koshikano-onsen.com/" },
+        { "type": "review_site", "title": "全室源泉かけ流し温泉 グランピング＆旅館 美肌の湯 こしかの温泉 - じゃらんnet", "url": "https://www.jalan.net/yad307156/" },
+        { "type": "review_site", "title": "美肌の湯 こしかの温泉 口コミ（15件・3.9） - Relux", "url": "https://rlx.jp/24040/review/" },
+        { "type": "review_site", "title": "美肌の湯 こしかの温泉 口コミ（6件・3.24） - フォートラベル", "url": "https://4travel.jp/dm_hotel-11758343" },
+        { "type": "booking_site", "title": "美肌の湯 こしかの温泉 施設ページ（項目別評価） - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00905499" },
+        { "type": "other", "title": "全室源泉かけ流し温泉付き旅館＆グランピング 美肌の湯 こしかの温泉 - るるぶ&more", "url": "https://www.rurubu.travel/hotel/japan/kirishima/koshikano-onsen" },
+        { "type": "other", "title": "鹿児島・霧島の絶景温泉グランピング施設紹介記事 - ANA Travel & Life", "url": "https://www.ana.co.jp/travelandlife/article/001833/3/" },
+        { "type": "other", "title": "美肌の湯 こしかの温泉 口コミ（1件・3.0） - icotto", "url": "https://icotto.jp/hotels/7823" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-23-saezuri-no-mori-aira",
+      "name": "さえずりの森",
+      "region": "鹿児島県姶良市加治木町（なっぷでは『鹿児島・霧島』エリア区分で掲載されているが、実際の所在地は加治木IC付近の姶良市で霧島高原エリアとは異なる）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "なっぷ(nap-camp)", "score": 4.5, "scale": 5, "review_count": 6, "checked_date": "2026-10-23", "url": "https://www.nap-camp.com/gramping/kagoshima/kirishima/list" }
+      ],
+      "price_range_jpy": {
+        "note": "ロッジA 16,500円〜、ロッジB 15,400円〜、コテージ（定員11名）も掲載あり（なっぷ一覧ページ表示）。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "ロッジA・ロッジB・コテージを備えたキャンプ場（定員10〜11名）。なっぷ上では『鹿児島・霧島』エリア区分で掲載されているが、紹介記事では加治木IC（姶良市）から車で約5分と案内されており、実際の所在地は今回のテーマである霧島高原エリアとは異なる可能性が高い。",
+      "target_audience": ["家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 8,
+        "review_reliability": 3,
+        "unique_experience_score": 6,
+        "photogenic": 6,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 32,
+      "recommendation_reason": "評価自体はなっぷで4.5（6件）と高めだが、口コミ件数が少なく独立した第二の数値評価サイトを確認できなかった。加えて所在地が霧島高原エリアと異なる可能性が高く、今回のテーマには適合しないと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "具体的な口コミ本文は検索範囲で確認できず、件数も6件のみ。否定的な内容の有無を判断できる情報が不足している。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "さえずりの森（鹿児島・霧島エリア区分・4.5／6件） - なっぷ グランピング施設一覧", "url": "https://www.nap-camp.com/gramping/kagoshima/kirishima/list" },
+        { "type": "other", "title": "鹿児島・霧島のキャンプ場おすすめ9選（さえずりの森の所在地・アクセスに関する記事） - なっぷマガジン", "url": "https://www.nap-camp.com/mag/37361" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "所在地が姶良市加治木町である可能性が高く、今回のテーマ地域（霧島高原エリア）と一致しない。加えて口コミが6件のみで独立した第二の数値評価サイトを確認できず、原則7（独立2情報源での評価の裏付け）を満たせないため不採用。"
+    },
+    {
+      "id": "2026-10-23-kirishima-kogen-kokuminkyuyouchi",
+      "name": "霧島高原国民休養地",
+      "region": "鹿児島県霧島市牧園町",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "なっぷ(nap-camp)", "score": 4.1, "scale": 5, "review_count": 10, "checked_date": "2026-10-23", "url": "https://www.nap-camp.com/grassy_plain/kagoshima/kirishima/list" }
+      ],
+      "price_range_jpy": {
+        "note": "コテージ基本料金（5名までの宿泊料金）17,630円〜、6名以上の場合1人追加ごとに2,680円〜（いこーよ掲載、ウォーカープラスは2025年時点のデータ）。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "テニスコート・プールを備えた霧島高原のアウトドア総合レジャー施設で、音楽家の生家をモチーフにしたコテージが特徴として紹介されている。ただしテント泊主体のグランピングではなくコテージ中心の施設で、今回のテーマ（グランピング）との合致度は低い。",
+      "target_audience": ["家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 8,
+        "review_reliability": 3,
+        "unique_experience_score": 7,
+        "photogenic": 6,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 34,
+      "recommendation_reason": "所在地は霧島市牧園町で地域としては合致するが、テント泊中心のグランピングではなくコテージ・スポーツ施設中心の総合レジャー施設であり、カテゴリの合致度が低い。口コミも10件と少なく、料金情報も2025年時点の第三者サイト掲載が中心で2026年時点の最新性を確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "具体的な口コミ本文は検索範囲では確認できず、件数も10件のみで傾向判断に十分な情報ではなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "霧島高原国民休養地 施設紹介（コテージ料金・利用時間） - いこーよ", "url": "https://iko-yo.net/facilities/8198" },
+        { "type": "other", "title": "霧島高原国民休養地 施設詳細（2025年データ） - ウォーカープラス", "url": "https://summer.walkerplus.com/odekake/detail/ar1046s12776/" },
+        { "type": "other", "title": "霧島高原国民休養地（鹿児島・霧島エリア・4.1／10件） - なっぷ", "url": "https://www.nap-camp.com/grassy_plain/kagoshima/kirishima/list" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "グランピングというより、コテージ・テニスコート・プールを備えた総合アウトドアレジャー施設に近く、今回のテーマ（グランピング）との合致度が低い。口コミ件数も10件と少なく、独立した信頼できる数値評価の裏付けも弱いため不採用。"
+    }
+  ],
+  "selected": null,
+  "cycle_result_note": "今回のサイクルでは鹿児島県霧島高原エリアのグランピング系施設3件を調査した。『美肌の湯 こしかの温泉』は、じゃらんnet（657件・4.6）を含む独立3サイトの数値評価・じゃらんアワード2025受賞・2026年に入ってからの継続的な情報更新が確認でき、総合スコア79点で採用ライン（75点以上）を満たしたため selected とした。他2件（さえずりの森＝所在地が霧島高原エリアと異なる可能性が高い、霧島高原国民休養地＝グランピングというよりコテージ型総合レジャー施設でカテゴリ合致度が低い上に口コミも少ない）はいずれもスコア75点未満のため不採用とした。"
+}

@@ -1,0 +1,187 @@
+{
+  "cycle_date": "2026-10-21",
+  "theme": "沖縄県波照間島・東京都小笠原諸島（父島・母島）の離島リゾート",
+  "season_rationale": "離島リゾートカテゴリは2026-10-17サイクルで沖縄県久米島を調査（3件とも75点未満で不採用）、2026-10-21の再調査サイクルでも久米島を再確認・追加調査（計5件、いずれも不採用）しており、依頼によりこれが久米島に関する再調査の上限（標準ルール上の最後の1回）だったため、本サイクルでは久米島とは別の離島として沖縄県波照間島・東京都小笠原諸島（父島・母島）を対象に新規調査した。data/candidates・captions・posts を全件grepした結果、波照間島・小笠原諸島（父島・母島）を対象にした候補・キャプション・投稿はこれまで一度も存在しないことを確認済み（重複なし）。10月下旬は台風ピークを過ぎ海況が安定し始める時期だが、波照間島・小笠原諸島はいずれも船便中心（波照間島は石垣島からの高速船が海況により欠航しやすい、小笠原は東京・竹芝からおがさわら丸で約24時間）で、絶景好きのダイビング・星空観賞需要が一定ある時期にあたる。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-21-toba-all-inclusive", "region": "三重県鳥羽市", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-21-yuda-onsen-kokian", "region": "山口県山口市湯田温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-21-sounkyo-hotel-taisetsu", "region": "北海道上川郡上川町層雲峡温泉", "category": "サウナ" },
+    { "post_id": "2026-10-21-kumejima-resort-recheck(候補のみ・選定なし)", "region": "沖縄県島尻郡久米島町", "category": "離島リゾート" },
+    { "post_id": "2026-10-20-sado-oki-resort(候補のみ・選定なし)", "region": "島根県隠岐諸島", "category": "離島リゾート" },
+    { "post_id": "2026-10-19-irabu-island-resort(候補のみ・選定なし)", "region": "沖縄県宮古島市伊良部島", "category": "離島リゾート" },
+    { "post_id": "2026-10-19-tanegashima-resort(候補のみ・選定なし)", "region": "鹿児島県種子島", "category": "離島リゾート" },
+    { "post_id": "2026-10-18-goto-retreat-ray", "region": "長崎県五島市上崎山町（福江島）", "category": "離島リゾート" },
+    { "post_id": "2026-10-17-ana-intercontinental-ishigaki", "region": "沖縄県石垣市真栄里（マエサトビーチ）", "category": "離島リゾート" },
+    { "post_id": "2026-10-17-kumejima-resort(候補のみ・選定なし)", "region": "沖縄県島尻郡久米島町", "category": "離島リゾート" }
+  ],
+  "duplication_note": "data/candidates・captions・posts の全件を `grep -ril \"波照間|小笠原|父島|母島\"` で確認したところ、波照間島・小笠原諸島（父島・母島）に関する候補・キャプション・投稿は過去に一件も存在しなかった。久米島（2026-10-17・2026-10-21）、石垣島・宮古島・奄美大島・屋久島・種子島・五島列島・伊良部島・隠岐諸島など、これまで調査済みの離島とは明確に異なる島を対象とした。",
+  "candidates": [
+    {
+      "id": "2026-10-21-teruchima-sou-hateruma",
+      "name": "民宿 照島荘",
+      "region": "沖縄県八重山郡竹富町波照間島",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 4.0, "scale": 5, "review_count": 3, "checked_date": "2026-10-21", "url": "https://4travel.jp/dm_hotel-11323269" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは1泊あたりの具体的料金は確認できなかった（楽天トラベル・じゃらん等の該当ページはEGRESS_BLOCKEDで直接確認できず）。島内では一般的に1泊2食付き民宿料金帯とみられる。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "日本最南端の有人島・波照間島にある家庭的な民宿。家庭料理と昔ながらの和室が魅力とされ、朝食のボリュームを評価する口コミがある。島には大型ホテルが存在せず、民宿が宿泊の中心という土地柄そのものに『最南端の島で暮らすように泊まる』という独自性はあるが、施設単体としての際立った体験要素（展望風呂・プール等）は確認できなかった。",
+      "target_audience": ["一人旅", "友人"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 3,
+        "unique_experience_score": 7,
+        "photogenic": 4,
+        "value_for_price": 5,
+        "sns_buzz": 1,
+        "access_and_freshness": 2
+      },
+      "score": 42,
+      "recommendation_reason": "フォートラベルで4.0（5点満点）という数値自体は最低ライン（原則6）を満たすが、口コミはわずか3件のみで信頼性が極めて低く（原則6が重視する『件数とセットでの信頼度判断』に照らすと4.9点／8件のような水準にも届かない）、独立した2件目の数値評価情報源もこのセッションのWebSearchでは確認できなかった（原則7未達）。プライバシーが守られにくいという指摘もあり、総合スコアは42点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "昔ながらの和式民家で『プライベートは守られません』という指摘がある。一方で家庭料理や朝食のボリュームを評価する声もあった。衛生・安全上の重大な問題は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "民宿 照島荘 - フォートラベル", "url": "https://4travel.jp/dm_hotel-11323269" },
+        { "type": "other", "title": "波照間島 ホテル一覧 - Mapple", "url": "https://www.mapple.net/region/a0705020500/hotel/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数が3件と極めて少なく信頼性を欠くこと（原則6）、独立2情報源の数値評価を確認できないこと（原則7）、ここでしかできない体験・写真映え・SNS話題性のいずれも弱いことから、採用ライン75点に届かない。"
+    },
+    {
+      "id": "2026-10-21-sunshine-ogasawara",
+      "name": "サンシャイン小笠原",
+      "region": "東京都小笠原村父島",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.23, "scale": 5, "review_count": 9, "checked_date": "2026-10-21", "url": "https://4travel.jp/dm_hotel-10041252" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは1泊あたりの具体的料金は確認できなかった（楽天トラベル・じゃらん等の該当ページはEGRESS_BLOCKEDで直接確認できず）。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "父島のメインストリート沿いに位置し、港・商店・ビーチへのアクセスが良い旅館。フォートラベルの父島宿泊施設33件中3位（口コミ9件）という相対的な位置づけがあり、アクセス評価は4.42と高い。一方で客室2.92・バリアフリー2.00と低く、際立った独自体験（露天風呂・特別な食事体験等）は確認できなかった。",
+      "target_audience": ["一人旅", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 6,
+        "unique_experience_score": 9,
+        "photogenic": 5,
+        "value_for_price": 6,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 47,
+      "recommendation_reason": "総合満足度3.23（9件）は原則6の最低ライン4.0に届かない。父島の宿泊施設の中では相対的に評価が高い部類とみられるが、絶対評価としては低く、独立2情報源の数値評価もこのセッションのWebSearchでは確認できなかった（原則7未達）。立地の良さは評価できるが、独自体験・写真映え・SNS話題性が弱く総合スコアは47点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "客室（2.92）・バリアフリー（2.00）の評価が低く、食事の一部メニューが冷めていたという指摘がある。建物の古さを指摘する声もある一方、清掃は行き届いているという評価もあった。衛生・安全上の重大な問題として複数情報源で一致したものは確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "サンシャイン小笠原 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10041252" },
+        { "type": "other", "title": "小笠原諸島の宿・ホテル比較 - my-best", "url": "https://my-best.com/19137" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合満足度3.23（4.0未満）のため原則6の最低ラインに届かず、独立2情報源の数値評価も確認できないため採用ライン75点には遠く及ばない。"
+    },
+    {
+      "id": "2026-10-21-kutsurogi-no-yado-tetsuya",
+      "name": "くつろぎの宿 てつ家",
+      "region": "東京都小笠原村父島",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.21, "scale": 5, "review_count": 3, "checked_date": "2026-10-21", "url": "https://4travel.jp/dm_hotel-10059036" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは1泊あたりの具体的料金は確認できなかった。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "父島のペンション。食事評価が4.83と非常に高く、コストパフォーマンスも4.00と評価されている点が特徴。一方で総合満足度は3.21・口コミ3件と少なく、防犯面を指摘する口コミもある。",
+      "target_audience": ["一人旅", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 3,
+        "unique_experience_score": 7,
+        "photogenic": 4,
+        "value_for_price": 6,
+        "sns_buzz": 1,
+        "access_and_freshness": 2
+      },
+      "score": 39,
+      "recommendation_reason": "食事評価4.83は魅力的だが、総合満足度3.21・口コミ3件と件数・総合評価ともに原則6の最低ラインに届かない。独立2情報源の数値評価もこのセッションのWebSearchでは確認できず（原則7未達）、防犯面の指摘もあることから総合スコアは39点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "防犯面（施錠等）を指摘する口コミがある。一方で食事・コストパフォーマンスは高く評価されている。衛生・安全上の重大な問題として複数情報源で一致したものは確認されなかったが、件数が少なく判断材料として不十分。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "くつろぎの宿 てつ家 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10059036" },
+        { "type": "other", "title": "小笠原諸島の宿・ホテル比較 - my-best", "url": "https://my-best.com/19137" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合満足度3.21（4.0未満）・口コミ3件という低い件数で原則6を満たさず、独立2情報源の数値評価も確認できないため採用ライン75点には届かない。"
+    },
+    {
+      "id": "2026-10-21-minshuku-nampu-hahajima",
+      "name": "民宿ナンプー",
+      "region": "東京都小笠原村母島",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.25, "scale": 5, "review_count": 6, "checked_date": "2026-10-21", "url": "https://4travel.jp/dm_hotel-10061792" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは1泊あたりの具体的料金は確認できなかった。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "個人宅を改築した母島の民宿。スタッフの対応・客室・風呂・食事を評価する口コミがあるが、入口がわかりにくいという指摘もある。母島は父島からさらに船で約2時間というアクセスの希少性はあるが、施設としての独自体験の裏付けは乏しい。",
+      "target_audience": ["一人旅", "友人"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 4,
+        "unique_experience_score": 7,
+        "photogenic": 4,
+        "value_for_price": 5,
+        "sns_buzz": 1,
+        "access_and_freshness": 2
+      },
+      "score": 39,
+      "recommendation_reason": "総合満足度3.25（6件）は原則6の最低ライン4.0に届かない。独立2情報源の数値評価もこのセッションのWebSearchでは確認できなかった（原則7未達）。個人宅改築の民宿という性格が強く、本アカウントのテーマ『ちょっと贅沢な旅』との適合性も低いため、総合スコアは39点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "入口がわかりにくい、個人宅を改築した建物という指摘がある。一方でスタッフの対応・客室・風呂・食事を評価する声もあった。衛生・安全上の重大な問題は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "民宿ナンプー - フォートラベル", "url": "https://4travel.jp/dm_hotel-10061792" },
+        { "type": "official", "title": "母島の宿泊施設一覧（衛生関連資料） - 東京都福祉保健局", "url": "https://www.hokeniryo.metro.tokyo.lg.jp/documents/d/hokeniryo/13_R6hahajima" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合満足度3.25（4.0未満）で原則6を満たさず、独立2情報源の数値評価も確認できないため採用ライン75点には届かない。"
+    }
+  ],
+  "excluded_insufficient_data": [
+    {
+      "name": "うるま家（波照間島）",
+      "reason": "フォートラベルで複数の口コミ（2018年・2021年等）が確認できたが、総口コミ件数をこのセッションのWebSearchでは確定できなかったため、review_scores に必要な review_count（整数）を誠実に記載できず、正式な候補としては記載しなかった。個別の口コミからは評価3.5相当という言及があったが、件数不明のまま採用判断には使用していない。"
+    },
+    {
+      "name": "いしの荘（波照間島）",
+      "reason": "立地の良さを評価する口コミは確認できたが、総合評価の平均点をこのセッションのWebSearchでは確定できなかったため、正式な候補としては記載しなかった。"
+    }
+  ],
+  "cycle_conclusion": "沖縄県波照間島・東京都小笠原諸島（父島・母島）を対象に合計4件（照島荘・サンシャイン小笠原・てつ家・民宿ナンプー）を評価したが、いずれも主要レビューサイト評価が3.2〜4.0の範囲で原則6の最低ライン（4.0以上、かつ十分な件数）を実質的に満たせず、総合スコアも39〜47点で採用ライン75点には遠く及ばなかった。両地域とも大型の高級リゾートホテルが存在せず、小規模な民宿・ペンションが宿泊の中心という構造的な理由（口コミ件数が3〜9件と少なく信頼性が低い、独立2情報源の数値評価が確認できない、SNS話題性・写真映え・独自体験の裏付けが乏しい）により、本カテゴリ・本サイクルでは selected 候補なし。captions/ の新規作成は行わない。基準を下げての無理な採用は行わない。"
+}

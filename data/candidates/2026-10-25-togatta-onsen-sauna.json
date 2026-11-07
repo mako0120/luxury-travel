@@ -1,0 +1,323 @@
+{
+  "cycle_date": "2026-10-25",
+  "theme": "サウナ（宮城県遠刈田温泉）",
+  "season_rationale": "10月下旬は蔵王連峰の紅葉が進み、朝晩の気温が下がる時期で、サウナで発汗した後に森の中で浴びる外気浴が一年の中でも心地よいタイミング。本日分として先に調査した山梨県石和温泉（既出地域のため新規selectedなし）に続く再調査として、既存data/candidates・captions全件（鬼怒川・群馬・軽井沢・十勝・いわき湯本・月岡・石和・十勝川温泉・伊豆・層雲峡・別府・熱海・那須・鳥取三朝・富山立山ほか）を横断的に確認し、サウナカテゴリで未出の地域として宮城県刈田郡蔵王町・遠刈田温泉を新たに選定した。",
+  "prior_posts_checked": [
+    {
+      "post_id": "2026-10-25-isawa-onsen-sauna-recheck",
+      "region": "山梨県笛吹市石和温泉",
+      "category": "サウナ（既出地域のため新規selectedなし）"
+    },
+    {
+      "post_id": "2026-10-24-toyama-tateyama-sauna",
+      "region": "富山県富山市・黒部市（立山・宇奈月）",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-24-misasa-onsen-sauna",
+      "region": "鳥取県東伯郡三朝町",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-23-atami-nasu-sauna-recheck2",
+      "region": "静岡県熱海温泉・栃木県那須温泉",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-23-beppu-sauna",
+      "region": "大分県別府市（別府温泉）",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-22-tokachigawa-onsen-sauna",
+      "region": "北海道河東郡音更町十勝川温泉",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-21-sounkyo-sauna",
+      "region": "北海道上川郡上川町層雲峡温泉",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-20-izu-ochiairo-sauna",
+      "region": "静岡県伊豆市湯ケ島",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-19-jozankei-sauna",
+      "region": "北海道札幌市南区定山渓温泉",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-18-isawa-onsen-sauna",
+      "region": "山梨県笛吹市石和温泉",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-17-tsukioka-sauna",
+      "region": "新潟県新発田市月岡温泉",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-17-iwaki-yumoto-sauna",
+      "region": "福島県いわき市いわき湯本温泉",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-10-17-kinugawa-onsen",
+      "region": "栃木県日光市鬼怒川温泉",
+      "category": "絶景ホテル/温泉旅館"
+    },
+    {
+      "post_id": "2026-09-22-tokachi-sauna",
+      "region": "北海道河東郡音更町十勝川温泉",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-09-20-akiu-onsen",
+      "region": "宮城県仙台市太白区秋保温泉",
+      "category": "温泉旅館"
+    },
+    {
+      "post_id": "2026-09-18-gunma-sauna",
+      "region": "群馬県吾妻郡中之条町（四万温泉）ほか",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-09-18-karuizawa-sauna",
+      "region": "長野県北佐久郡軽井沢町・茅野市",
+      "category": "サウナ"
+    },
+    {
+      "post_id": "2026-09-14-sauna",
+      "region": "山梨県南都留郡山中湖村",
+      "category": "サウナ"
+    }
+  ],
+  "duplication_note": "既存のdata/candidates・captions全件（1ヶ月以上前のものを含む）を横断的に確認した。『遠刈田』『とがった』『togatta』を含む候補・制作物はこれまで存在しない。宮城県内では2026-09-20に仙台市太白区・秋保温泉（温泉旅館カテゴリ）が候補化済みだが、遠刈田温泉は刈田郡蔵王町の別の温泉地であり、エリア・カテゴリともに異なるため重複にはあたらない（三朝温泉／大山の例と同様、同一県内の近接事例としてここに明記する）。サウナカテゴリとしては直近で石和温泉（10-18, 10-25再調査）・富山立山（10-24）・三朝（10-24）・熱海那須（10-23再調査）・別府（10-23）・十勝川温泉（10-22, 09-22）・層雲峡（10-21）・伊豆（10-20）・定山渓（10-19）・月岡（10-17）・いわき湯本（10-17）・軽井沢/蓼科（09-18）・群馬四万/水上（09-18）・山中湖（09-14）を調査済みだが、いずれも遠刈田とは異なる地域であり重複はない。",
+  "candidates": [
+    {
+      "id": "2026-10-25-yutomori-club-togatta",
+      "name": "ゆと森倶楽部（「蔵王の森」がつくる美と健康の温泉宿）",
+      "region": "宮城県刈田郡蔵王町遠刈田温泉字上の原128（遠刈田温泉）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらんnet（宿泊口コミ総合評価）",
+          "score": 4.7,
+          "scale": 5,
+          "review_count": 849,
+          "checked_date": "2026-10-25",
+          "url": "https://www.jalan.net/yad313826/"
+        },
+        {
+          "source": "じゃらんnet（お風呂に関する項目別評価）",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 849,
+          "checked_date": "2026-10-25",
+          "url": "https://www.jalan.net/yad313826/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "1名あたりの参考価格として37,600円〜という掲載記事がある一方、別の掲載では60,000円〜（税込）という表記もあり、プラン・時期・部屋タイプにより幅が大きい。予約サイトでは2名1室（ツイン）利用で70,260円〜という表示も確認した。食事・ドリンク・ジェラート・おやつ・アクティビティ（森ヨガ等）が含まれる20時間滞在のオールインクルーシブ料金。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "蔵王の森の中にある、20時間滞在型のオールインクルーシブ森林温泉リゾート。食事・ドリンク・ジェラート・おやつに加え、森ヨガなどのアクティビティも宿泊料金に含まれる。大浴場・露天風呂・貸切風呂に加えてサウナと岩盤浴を備え、かけ流しの渓流露天風呂『川の湯』で蔵王の森と川音を感じながら温浴できる点が独自性。サウナ情報サイトの利用者記録では男性サウナ約96℃・女性約90℃という高温設定が確認できる。入浴は宿泊者限定（日帰り入浴不可）で、刺青のある場合は大浴場は利用不可（貸切露天風呂を利用）という利用条件がある。",
+      "target_audience": [
+        "夫婦",
+        "記念日",
+        "カップル",
+        "温泉好き",
+        "女子旅"
+      ],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 3
+      },
+      "score": 82,
+      "recommendation_reason": "じゃらんnetで849件という十分な母数のもと総合4.7・お風呂4.4という高評価を確認でき、これまでサウナカテゴリで未出だった宮城県遠刈田温泉・蔵王エリアの候補として独自性が高い。食事・ドリンク・アクティビティまで含む20時間滞在のオールインクルーシブ形式に加え、サウナ・岩盤浴・貸切露天風呂を備え、渓流沿いの『川の湯』という森林浴とセットになったサウナ体験は他の付帯設備的なホテルサウナと一線を画す。同じ遠刈田温泉で比較調査したメルキュール宮城蔵王リゾート&スパ（フォートラベル3.72・ニフティ温泉3.2で主要レビューが4.0未満のため不採用）、バーデン家壮鳳（独立した総合評価を特定できず、低評価口コミの複数確認もあり不採用）と比べても、独立した評価の一貫性・独自体験・写真映えの面で優位と判断し、100点満点中82点でselectedとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "予約サイト経由の口コミ（2020〜2021年頃の投稿が中心）では、スキー場が近いにもかかわらずスキー板を乾かす専用の場所がなく案内に食い違いがあったという指摘、客室の空調が動作音でうるさく夜間使用しづらいという指摘、食事提供のタイミングが分かりにくい、夜のバーの品揃えが少ない・コスパがいまいちという意見が見られた。一方で風呂・食事自体を高く評価する声も多く、衛生・安全上の重大な指摘やサウナ自体への否定的言及は本セッションの検索範囲では見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "ゆと森倶楽部 公式サイト（蔵王の森の温泉宿・オールインクルーシブ案内）",
+          "url": "https://www.ichinobo.com/yutomori/"
+        },
+        {
+          "type": "booking_site",
+          "title": "ゆと森倶楽部‐宮城蔵王の森林温泉リゾート 宿泊口コミ（総合4.7・849件） - じゃらんnet",
+          "url": "https://www.jalan.net/yad313826/"
+        },
+        {
+          "type": "other",
+          "title": "ゆと森倶楽部 施設情報（サウナ・岩盤浴・貸切風呂の設備案内） - icotto",
+          "url": "https://icotto.jp/hotels/2753"
+        },
+        {
+          "type": "press",
+          "title": "『蔵王の森』がつくる美と健康の温泉宿 ゆと森倶楽部はオールインクルーシブの贅沢な癒やしが魅力 - All About",
+          "url": "https://news.allabout.co.jp/articles/o/120962/"
+        },
+        {
+          "type": "review_site",
+          "title": "『蔵王の森』がつくる美と健康の温泉宿 ゆと森倶楽部 温泉情報・口コミ - ニフティ温泉",
+          "url": "https://onsen.nifty.com/miyagizaou-onsen/onsen000551/"
+        }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-25-mercure-miyagi-zao-togatta",
+      "name": "メルキュール宮城蔵王リゾート&スパ（旧:アクティブリゾーツ 宮城蔵王）",
+      "region": "宮城県刈田郡蔵王町遠刈田温泉",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル（みんなの満足度）",
+          "score": 3.72,
+          "scale": 5,
+          "review_count": 85,
+          "checked_date": "2026-10-25",
+          "url": "https://4travel.jp/dm_hotel-10055752"
+        },
+        {
+          "source": "ニフティ温泉（口コミ評価、2024年のリブランド前の古い口コミが中心）",
+          "score": 3.2,
+          "scale": 5,
+          "review_count": 9,
+          "checked_date": "2026-10-25",
+          "url": "https://onsen.nifty.com/miyagizaou-onsen/onsen000526/kuchikomi/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "オールインクルーシブ（バイキング等）のリゾートホテルとして複数予約サイトに掲載されているが、本セッションでは公式の具体的な宿泊料金は特定できなかった。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2024年4月に『アクティブリゾーツ 宮城蔵王』からメルキュール宮城蔵王リゾート&スパへリブランドしたオールインクルーシブリゾート。大浴場に露天風呂・サウナを併設し、サ活サイトの利用者記録では男性サウナ87℃・女性86℃、外気浴あり・ロウリュなしという設定が確認できる。サウナは宿泊者限定で日帰り入浴は受け付けていない。",
+      "target_audience": [
+        "家族",
+        "カップル",
+        "温泉好き"
+      ],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 8,
+        "unique_experience_score": 10,
+        "photogenic": 6,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 47,
+      "recommendation_reason": "2024年のリブランドでじゃらんアワード受賞歴もあるが、サウナ自体は大浴場付帯の一般的な設備であり、他エリアの系列チェーンリゾートと比較した独自性は強くない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミ平均3.72（85件）、ニフティ温泉3.2（9件、2019年投稿・リブランド前のため参考程度）と、いずれも主要レビューが採用基準の4.0を下回る。衛生・安全上の重大な指摘は本セッションの検索範囲では見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "メルキュール宮城蔵王リゾート&スパ みんなの満足度3.72・クチコミ85件 - フォートラベル",
+          "url": "https://4travel.jp/dm_hotel-10055752"
+        },
+        {
+          "type": "review_site",
+          "title": "メルキュール宮城蔵王リゾート&スパ 温泉情報・口コミ3.2点/9件 - ニフティ温泉",
+          "url": "https://onsen.nifty.com/miyagizaou-onsen/onsen000526/kuchikomi/"
+        },
+        {
+          "type": "booking_site",
+          "title": "メルキュール宮城蔵王リゾート&スパ（旧:アクティブリゾーツ 宮城蔵王）のご紹介",
+          "url": "https://yado.knt.co.jp/st/S040068/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "原則（主要レビュー4.0未満は原則不採用）に基づき、フォートラベル3.72・ニフティ温泉3.2のいずれも採用基準を満たさないため不採用とした。"
+    },
+    {
+      "id": "2026-10-25-baden-ya-souhou-togatta",
+      "name": "遠刈田温泉 バーデン家 壮鳳",
+      "region": "宮城県刈田郡蔵王町遠刈田温泉",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Yahoo!トラベル（項目別評価：温泉・お風呂4.6／施設・設備4.4。施設全体の総合満足度スコアは本セッションでは特定できなかった）",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-25",
+          "url": "https://travel.yahoo.co.jp/00908572"
+        },
+        {
+          "source": "cocolocala（口コミ。2026年6月・5月投稿の低評価レビューを含む）",
+          "score": 1.0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-25",
+          "url": "https://www.cocolocala.jp/hotels/2558"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "参考料金としてスタンダードシングル1泊10,800円〜という掲載があったが、宿泊プラン（大浴場『涓涓の湯』利用等）の最新の正式料金は本セッションでは特定できなかった。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "大浴場『涓涓（けんけん）の湯』にサウナを備える老舗旅館。サ活サイトの個人利用記録ではサウナ温度85℃前後・水風呂17〜20℃・外気浴ありという記録が確認できるが、公式の設定値かは不明。仙台駅東口からの予約制シャトルバス（月・水・金運行）がある。",
+      "target_audience": [
+        "温泉好き",
+        "一人旅"
+      ],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 5,
+        "unique_experience_score": 10,
+        "photogenic": 6,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 41,
+      "recommendation_reason": "サウナ自体の設備情報は確認できるが、施設全体の総合評価を独立2情報源で一貫した形で特定できず、かつ低評価の口コミ（客室対応に関する苦情）を複数確認したため不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "cocolocalaに2026年6月投稿の1.0点の口コミがあり、予約した客室と異なる部屋に無断で変更され、調理できない設備の部屋に通されたという苦情を確認した。同様に2026年5月投稿の1.0点のレビュー（本文なし）も確認した。サウナそのものへの否定的な言及は本セッションの検索範囲では見当たらなかったが、宿泊対応面での重大な苦情が複数見られたため、原則7（ネガティブレビュー確認）に基づき不採用とする。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "バーデン家壮鳳（遠刈田温泉）口コミ・項目別評価 - Yahoo!トラベル",
+          "url": "https://travel.yahoo.co.jp/00908572"
+        },
+        {
+          "type": "review_site",
+          "title": "バーデン家壮鳳 口コミ（低評価投稿を含む） - cocolocala",
+          "url": "https://www.cocolocala.jp/hotels/2558"
+        },
+        {
+          "type": "booking_site",
+          "title": "バーデン家 壮鳳 - じゃらんnet 施設ページ",
+          "url": "https://www.jalan.net/yad320753"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立2情報源での一貫した総合評価を特定できず、cocolocalaに複数の低評価口コミ（客室無断変更の苦情）を確認したため、原則7に基づき不採用とした。"
+    }
+  ]
+}

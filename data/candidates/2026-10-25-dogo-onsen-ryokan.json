@@ -1,0 +1,192 @@
+{
+  "cycle_date": "2026-10-25",
+  "theme": "温泉旅館（愛媛県道後温泉）",
+  "season_rationale": "道後温泉は11月に入ると紅葉と松山城周辺の観光が組み合わせやすくなる一方、年末年始・冬休みの予約が本格化する前の比較的落ち着いた時期にあたる。四国内の他候補（伊予灘ものがたり等）とは異なる温泉旅館カテゴリとして、本店所在地そのものを初めて深掘りする意図で選定した（原則4：最新性の確認）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-21-iyonada-monogatari", "region": "愛媛県（伊予灘ものがたり／観光列車）", "category": "列車・船", "note": "愛媛県の候補だが観光列車であり、道後温泉・温泉旅館カテゴリとは重複しない" },
+    { "post_id": "2026-10-17-iwaki-yumoto-sauna", "region": "福島県いわき湯本温泉（サウナ）", "category": "サウナ", "note": "本文中で『道後・有馬と並ぶ日本三古泉』として道後に言及しているのみで、道後温泉自体の施設候補ではない" },
+    { "post_id": "2026-10-24-toyama-tateyama-sauna", "region": "富山県立山（サウナ）", "category": "サウナ", "note": "地域・カテゴリとも無関係" },
+    { "post_id": "2026-10-24-arima-goen", "region": "兵庫県有馬温泉", "category": "温泉旅館", "note": "直近サイクルの温泉旅館カテゴリ。地域は有馬温泉で道後温泉とは異なる" }
+  ],
+  "duplication_note": "依頼時点の指定は『カテゴリ：温泉旅館／地域：愛媛県道後温泉』。重複回避のため captions/・data/candidates/ の全履歴（2026-09-14〜2026-10-24、1ヶ月以上前の分も含む）を『道後』『dogo』『愛媛』で全件grepした結果、道後温泉所在の温泉旅館が候補・採用のいずれにもこれまで一度も登場していないことを確認した（伊予灘ものがたりは愛媛県だが観光列車カテゴリで無関係、いわき湯本温泉の記事は道後を比較表現として言及したのみ）。地域・カテゴリとも完全に新規。",
+  "candidates": [
+    {
+      "id": "2026-10-25-dogo-yamatoya-honten",
+      "name": "道後温泉 大和屋本店",
+      "region": "愛媛県松山市道後湯之町（道後温泉本館のすぐ隣）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらん クチコミ集計",
+          "score": 4.7,
+          "scale": 5,
+          "review_count": 1327,
+          "checked_date": "2026-10-25",
+          "url": "https://www.jalan.net/yad354082/"
+        },
+        {
+          "source": "skyticket クチコミ集計",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 2120,
+          "checked_date": "2026-10-25",
+          "url": "https://skyticket.jp/hotel/ehime/st_380115/"
+        },
+        {
+          "source": "フォートラベル みんなの満足度",
+          "score": 3.99,
+          "scale": 5,
+          "review_count": 116,
+          "checked_date": "2026-10-25",
+          "url": "https://4travel.jp/dm_hotel-10051985"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "素泊まり大人1名18,150円〜（近畿日本ツーリスト系列掲載の目安額）。夕朝食付きの会席プランは別途・時期・部屋タイプにより変動するため、予約時に公式/予約サイトで最新金額を要確認。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "道後温泉のシンボル『道後温泉本館』のすぐ隣という稀有な立地に建つ、慶応4年(1868)創業・1996年再建の老舗旅館。大浴場・客室風呂すべてに道後温泉本館と同じ湯を引いている。客室は茶室様式を取り入れた数寄屋造りの和室とモダン洋室の2タイプ。館内には日本酒BAR・駄菓子BAR、能舞台を使った撮影スポットがあり、鯛めしを含む会席料理も評判。2024年10月、パチンコ大手マルハンの北日本カンパニーが運営会社の株式を100%取得し、観光事業強化の一環として運営を引き継いだ。",
+      "renewal_or_news": "2024年10月2日付プレスリリースで、マルハン北日本カンパニーが大和屋本店・大和屋別荘の運営会社株式を100%取得したことを確認。じゃらんの施設ページでは『じゃらんOF THE YEAR 2025 売れた宿大賞（都道府県部門）』の受賞表示があり、2025年時点でも人気・話題性が継続していることを確認した。",
+      "target_audience": ["カップル", "記念日", "夫婦", "ホテル好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 14,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 8,
+        "access_and_freshness": 5
+      },
+      "score": 88,
+      "recommendation_reason": "じゃらん（4.7点・1,327件）、skyticket（4.4点・2,120件）、フォートラベル（3.99点・116件）という3つの独立した情報源のうち主要2サイトで採用ライン（4.0以上）を大きく上回り、件数規模も大きく評価が安定している。道後温泉本館に隣接する立地の稀少性、日本酒BAR・駄菓子BAR・能舞台といったSNSで話題になりやすい館内設備、2024年のマルハン傘下入りという運営面の最新ニュース、2025年じゃらんOF THE YEAR受賞という話題性の鮮度が揃っており、『知られていないが今まさに動きがある老舗』として伝えやすい。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの個別口コミで、全館空調がベースのため客室ごとの温度調整に限界があり、8月の宿泊でも冷房を切ると寒く感じたという指摘が確認された。フォートラベル116件中『悪い』は2件、『とても悪い』は0件で、項目別ではバリアフリー評価（3.81）が他項目よりやや低い程度。衛生・安全上の重大な問題や予約対応トラブルの多発は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "道後温泉 大和屋本店 - じゃらんnet（クチコミ4.7・1,327件）", "url": "https://www.jalan.net/yad354082/" },
+        { "type": "other", "title": "大和屋本店（愛媛県道後）クチコミ4.4・2,120件 - skyticket", "url": "https://skyticket.jp/hotel/ehime/st_380115/" },
+        { "type": "press", "title": "慶応4年創業の老舗旅館 道後温泉「大和屋本店」の株式を取得 - マルハン北日本カンパニー プレスリリース（2024年10月2日）", "url": "https://digitalpr.jp/r/96081" },
+        { "type": "press", "title": "【楽天トラベル売れ筋1位】「道後温泉 大和屋本店」は創業150年以上の歴史を誇る老舗旅館 - All About NEWS", "url": "https://news.allabout.co.jp/articles/o/104112/" },
+        { "type": "review_site", "title": "道後温泉 大和屋本店 クチコミ（満足度3.99・116件） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10051985" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-25-dogokan",
+      "name": "道後舘",
+      "region": "愛媛県松山市道後多幸町（道後温泉街の高台）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらん クチコミ集計（検索結果要約値）",
+          "score": 4.7,
+          "scale": 5,
+          "review_count": 2715,
+          "checked_date": "2026-10-25",
+          "url": "https://www.jalan.net/380000/STA_007978/"
+        },
+        {
+          "source": "skyticket 道後温泉エリアまとめページ掲載値",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 1042,
+          "checked_date": "2026-10-25",
+          "url": "https://skyticket.jp/hotel/japan/onsen/dogo_onsen/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な1泊2食料金は今回のWeb調査では公式一次情報を確認できなかった（JTB掲載の『お客様アンケート評価90点』は確認できたが金額表示は未確認）。推測はせず、予約時に公式サイト・予約サイトでの確認が必要。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "建築家・黒川紀章氏が設計した和風旅館で、道後温泉街を見下ろす高台に立地し、西側の窓からは松山城を望める。近代的な外観に対し、館内は江戸時代の本陣・旅籠をイメージした純和風の造り。大浴場は道後温泉からの引き湯100%で、檜造りの寝湯・露天風呂・打たせ湯・サウナなどを備える。じゃらんの施設ページでは受賞歴の表示があり、長年にわたり道後を代表する高評価旅館として位置づけられている。",
+      "renewal_or_news": "直近1〜2年での大規模リニューアルを示す一次情報は今回のWebSearchでは確認できなかった。2016年投稿の口コミで部屋の狭さ・立地の分かりにくさを指摘する声があり、建物自体の新しさという観点では大和屋本店ほどの『今』の鮮度はない。",
+      "target_audience": ["夫婦", "記念日", "カップル", "ホテル好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 14,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 84,
+      "recommendation_reason": "じゃらん（4.7点・2,715件）、skyticket（4.6点・1,042件）という2つの独立した情報源でいずれも採用ラインを大きく上回り、件数規模も十分で評価が安定している。黒川紀章設計という建築面の独自性、松山城を望む高台の景観、江戸期の本陣・旅籠を模した純和風の館内という『伝えやすい絵』が揃っており、写真映えの観点で強い候補。一方で直近の改装・話題性を示す新しい情報が確認できなかった点で、大和屋本店に次ぐ評価とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2016年8月投稿の口コミで『場所がわかりにくく、道が狭い』『部屋は非常に狭くて使いにくい』という指摘があったが、同じ投稿はスタッフ対応・朝食を高く評価し『ハードのマイナス面を理解した上で利用すれば不満はほとんどでない』と結論づけていた。2013年の別投稿では『マイナスポイントのない総合的にいいお宿』との評価もあり、重大な衛生・安全上の問題や予約対応トラブルの多発は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "愛媛県道後温泉 宿一覧（道後舘掲載） - じゃらんnet", "url": "https://www.jalan.net/380000/STA_007978/" },
+        { "type": "other", "title": "道後温泉エリア 口コミ評価の高いホテル一覧（道後舘 4.6・1,042件） - skyticket", "url": "https://skyticket.jp/hotel/japan/onsen/dogo_onsen/" },
+        { "type": "booking_site", "title": "道後舘 施設情報・お客様アンケート評価90点 - JTB", "url": "https://www.jtb.co.jp/kokunai_hotel/htl/7461014/" },
+        { "type": "other", "title": "道後舘 紹介記事 - aumo", "url": "https://aumo.jp/articles/77824" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-25-dogo-funaya",
+      "name": "道後温泉 ふなや",
+      "region": "愛媛県松山市道後湯之町（道後温泉駅から徒歩数分）",
+      "category": "温泉旅館",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "楽天トラベル クチコミ（第三者まとめサイト travel.gpoint.co.jp 経由掲載値）",
+          "score": 4.76,
+          "scale": 5,
+          "review_count": 1954,
+          "checked_date": "2026-10-25",
+          "url": "https://travel.gpoint.co.jp/daredoko/t1041/"
+        },
+        {
+          "source": "skyticket 道後温泉エリアまとめページ掲載値",
+          "score": 4.8,
+          "scale": 5,
+          "review_count": 1303,
+          "checked_date": "2026-10-25",
+          "url": "https://skyticket.jp/hotel/japan/onsen/dogo_onsen/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "JTB掲載で大人1名(2名1室)税込16,500円〜106,700円、Travelist掲載で朝食付き1泊1名27,300円〜・2食付き会席65,700円〜。幅が大きく、プラン・時期により大きく変動する。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "江戸時代の寛永4年(1627)創業、390余年の歴史を持つ老舗。日本庭園には自然の小川が流れ、ホタルが見られる季節もあるとされ、皇族の定宿としての歴史も紹介される。客室数58室、大浴場・露天風呂を備える。道後温泉駅から徒歩数分という利便性の高さも特徴。",
+      "renewal_or_news": "直近の改装・新プラン等の最新ニュースは今回のWebSearchでは確認できなかった。",
+      "target_audience": ["夫婦", "記念日", "一人旅", "ホテル好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 9,
+        "unique_experience_score": 19,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 74,
+      "recommendation_reason": "1627年創業・390余年の歴史、ホタルの見られる日本庭園、皇族ゆかりという物語性は道後温泉の中でも際立った『知られていない良さ』を持つ。楽天トラベル（4.76点・1,954件）・skyticket（4.8点・1,303件）の数値自体は高いが、いずれも一次ページ（jalan.net・travel.rakuten.co.jp本体）を直接確認できず、第三者まとめサイト経由の値に留まった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベル（93件）の個別口コミ中に、夕食の質への不満を述べる1.5点の低評価投稿が確認された。同サイトの他の投稿は4.0〜5.0点中心で評価が割れており、一次ソースで件数・平均点を直接確認できなかったことと合わせて、価格帯の高さ（最大106,700円）に対する体験価値の裏付けが弱いと判断した。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "other", "title": "道後温泉 ふなや 施設ページ - じゃらんnet", "url": "https://www.jalan.net/yad356524/" },
+        { "type": "review_site", "title": "道後温泉 ふなや クチコミ（93件、1.5点の低評価投稿を含む） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10051983" },
+        { "type": "other", "title": "道後温泉 ふなや 口コミまとめ（楽天トラベル値 4.76・1,954件） - travel.gpoint.co.jp", "url": "https://travel.gpoint.co.jp/daredoko/t1041/" },
+        { "type": "other", "title": "道後温泉エリア 口コミ評価の高いホテル一覧（ふなや 4.8・1,303件） - skyticket", "url": "https://skyticket.jp/hotel/japan/onsen/dogo_onsen/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "歴史・庭園・皇族ゆかりという独自のストーリー性は高く評価できるが、主要な口コミ評価（楽天トラベル4.76点・skyticket4.8点）がいずれも一次ページを直接確認できず第三者まとめサイト経由の値に留まり、原則6・7が求める独立した一次情報源での裏付けが今回は取れなかった。加えてフォートラベルに夕食の質に関する1.5点の低評価投稿が確認され、価格帯の高さ（最大106,700円）との対比で体験価値への懸念が残る。次サイクル以降、jalan.net・travel.rakuten.co.jpの一次ページを直接確認できれば再評価の余地がある。"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "cycle_date": "2026-10-28",
+  "theme": "徳島県三好市（大歩危・小歩危エリア）の吉野川ラフティング等リバーアクティビティ",
+  "season_rationale": "大歩危・小歩危を含む吉野川のラフティングは、紹介記事では例年春から秋にかけて運行されると案内されており、10月下旬は多くの事業者にとって営業期間の終盤に近いタイミングにあたる。渓谷の紅葉が見頃を迎える時期と重なるため、紅葉を眺めながら急流を下れる『今シーズン終盤』の訴求ができる一方、事業者によっては既に営業を終了・縮小している可能性があるため、制作直前に各事業者の最新営業状況の確認が必須。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-27-iya-ochiai-bunka-taiken", "region": "徳島県三好市東祖谷落合（落合集落）", "category": "文化体験" },
+    { "post_id": "2026-10-26-kinugawa-rafting-activity", "region": "栃木県日光市鬼怒川温泉エリア", "category": "アクティビティ" },
+    { "post_id": "2026-10-27-sakurajima-volcano-guide-ferry", "region": "鹿児島県鹿児島市・桜島エリア", "category": "アクティビティ" },
+    { "post_id": "2026-10-25-shimanto-river-cruise", "region": "高知県四万十市（四万十川）", "category": "アクティビティ" },
+    { "post_id": "2026-10-17-minakami-activity", "region": "群馬県利根郡みなかみ町", "category": "アクティビティ" }
+  ],
+  "duplication_note": "data/candidates・captions 全体を確認した結果、徳島県三好市そのものは2026-10-27（祖谷・落合集落の文化体験、カテゴリ『文化体験』、対象は三好市東祖谷落合・菅生の茅葺き集落・かずら橋）で一度登場しているが、今回のテーマ『大歩危・小歩危エリアの吉野川ラフティング』（カテゴリ『アクティビティ』、対象は三好市山城町の大歩危・小歩危の渓谷リバーアクティビティ事業者）は、具体的な地区（東祖谷 vs 山城町）・カテゴリ・体験内容のいずれも重複しておらず新規の切り口と判断した。カテゴリ『アクティビティ』自体は2026-10-26の鬼怒川ラフティング（栃木県）、2026-10-27の桜島火山ガイド（鹿児島県）が直近で選定されているが、地域はいずれも全く異なる。鬼怒川ラフティング候補（2026-10-26-kinugawa-rafting-activity.json）とは『渓谷でのラフティング・キャニオニング』という体験の型は似ているが、河川・事業者・地域が異なるため対象の重複はないと判断した。群馬県みなかみ町のアクティビティ候補（2026-10-17-minakami-activity.json）とも河川・事業者・地域が異なる。",
+  "candidates": [
+    {
+      "id": "2026-10-28-newyard-rafting-oboke",
+      "name": "大歩危・小歩危ニューヤードラフティング（New Yard Rafting）",
+      "region": "徳島県三好市山城町下名370-3（大歩危エリア、吉野川）",
+      "category": "アクティビティ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "アソビュー!掲載プラン内の事業者自己申告（『口コミ計4サイト合計』との表記、個別サイト名の提示なし）",
+          "score": 4.92,
+          "scale": 5,
+          "review_count": 377,
+          "checked_date": "2026-10-28",
+          "url": "https://www.asoview.com/item/activity/pln3000037455/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "予約サイト掲載では半日プラン6,400円程度〜（対象5歳以上のファミリー向けプランあり）。料金はプラン・対象年齢・時期により変動する。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2022年に大歩危・小歩危エリアで設立された比較的新しいラフティング事業者。『チームビルディング』を明確なコンセプトに据え、目的の共有・役割分担・コミュニケーション・仲間同士の支え合いをツアーに組み込んでいる点が、鬼怒川など他地域の一般的なラフティング事業者と比べて独自性がある。女性が快適に過ごせる施設（更衣室・設備面）を整えている点も掲載文で強調されている。集合場所は三好市山城町下名で、吉野川本流の大歩危コースを下る。",
+      "renewal_or_news": "2022年設立という新しい事業者で、2023年は前年比2倍超の来場者数だったと事業者が発表している。事業者側は『2026年5月にじゃらんの全国ラフティング施設ランキングで1位を獲得した』としているが、この順位・集計方法の詳細は今回のWebSearchの範囲では公式のじゃらんランキング発表ページそのものを直接確認できておらず、事業者側の自己申告として扱う。",
+      "target_audience": ["友人", "家族", "カップル", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 8,
+        "unique_experience_score": 16,
+        "photogenic": 11,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 67,
+      "recommendation_reason": "設立2022年という新しい事業者で、知名度は大手ほど高くないが、『チームビルディング』という明確なコンセプトと女性向け設備への配慮という独自性があり、Hidden Gem（原則6）の要件（公式情報が確認できる・現在営業中・独自性がある）を満たすと判断した。アソビュー!の掲載プラン情報、じゃらんの観光ガイドページ、NTA（日本旅行業協会）系の掲載情報という複数の予約・観光情報サイトで事業の存在・内容は確認できたが、口コミ評価『4サイト平均4.92（377件）』および『じゃらん全国1位』はいずれも事業者自身の自己申告であり、個別の口コミサイト（Googleマップ・じゃらん単体ページ等）の実際の星評価・口コミ本文をこのセッションのWebFetch（asoview・jalan・googleともにドメイン名解決エラーでアクセス不可）およびWebSearch呼び出し上限到達により直接確認できなかった。原則7（確認できない数字は推測しない）に基づき、score_breakdownのreview_rating・review_reliabilityは自己申告のみである点を踏まえて保守的に採点し、スコア合計は67点で75点基準に達していないため、今回は『selected』ではなく『shortlisted』として記録し、次回以降のサイクルでGoogleマップ・じゃらん単体ページ等の独立した数値を直接確認できた場合に再評価する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "『ニューヤードラフティング 評価 悪い トラブル』等のキーワードで専用検索を行ったが、具体的な否定的コメントは確認できなかった。ただし今回のセッションではWebFetchによるasoview・じゃらん・Googleマップの直接取得がネットワーク制限で行えず、WebSearchの呼び出し上限にも到達したため、個別の低評価レビュー本文までは確認できておらず、確認範囲は限定的である。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "大歩危・小歩危ニューヤードラフティング 掲載プラン - アソビュー!",
+          "url": "https://www.asoview.com/item/activity/pln3000037455/"
+        },
+        {
+          "type": "booking_site",
+          "title": "大歩危ツアー（大歩危・小歩危ニューヤードラフティング） - アソビュー!",
+          "url": "https://www.asoview.com/item/activity/pln3000037454/"
+        },
+        {
+          "type": "other",
+          "title": "大歩危・小歩危エリアのラフティング施設一覧 - じゃらん観光ガイド",
+          "url": "https://www.jalan.net/kankou/sta_008214"
+        },
+        {
+          "type": "other",
+          "title": "吉野川ラフティング紹介記事（大歩危・小歩危エリアの事業者比較） - nap-camp.com",
+          "url": "https://www.nap-camp.com/mag/110634"
+        }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-28-gogo-adventure-oboke",
+      "name": "ゴーゴーアドベンチャー",
+      "region": "徳島県三好市山城町信正（大歩危・小歩危エリア、吉野川）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "アソビュー!・NTA（日本旅行業協会アクティビティ掲載ページ）双方に掲載された事業者自己申告（『グーグルレビュー800件以上評価4.9の実績』とのプラン名表記）",
+          "score": 4.9,
+          "scale": 5,
+          "review_count": 800,
+          "checked_date": "2026-10-28",
+          "url": "https://www.asoview.com/item/activity/pln3000000838/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "プランにより4,000円程度〜9,000円程度と幅がある。午前の半日ラフティング（対象10歳以上、所要約3時間30分）は7,000円程度との掲載もある。フォレストアドベンチャー祖谷とのコンボプランなど複数プラン制。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "吉野川での半日ラフティングに加えて、近隣のアスレチック施設『フォレストアドベンチャー祖谷』と組み合わせたコンボプランを提供している点が独自。アソビュー!上の口コミ件数は189件で、エリア内の他事業者と比べて件数が多い。",
+      "target_audience": ["友人", "家族"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 7,
+        "unique_experience_score": 13,
+        "photogenic": 10,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 61,
+      "recommendation_reason": "アソビュー!の口コミ件数189件という実績、フォレストアドベンチャー祖谷とのコンボプランという独自性は確認できた。一方、『グーグルレビュー800件以上評価4.9』という評価数値はアソビュー!・NTAの双方に掲載されているものの、いずれも事業者自身が記載したプラン名・紹介文に基づくもので、Googleマップ上の実際の評価ページをこのセッションのWebFetch（googleドメインへの接続不可）で直接確認できなかった。さらに検索結果上で同一の『グーグルレビュー800件以上評価4.9』という文言が別事業者（大歩危・小歩危ニューヤードラフティング）の検索結果にも紛れて出てきた経緯があり、どちらの事業者の実績なのか一次情報で確証が取れていない。原則7（確認できない数字は推測しない）に基づき、この数値を信頼できる根拠として扱うことはできないと判断し、スコアも75点基準に届かないため不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ゴーゴーアドベンチャーを名指しした低評価レビュー・トラブルの専用検索を行ったが、具体的な否定的コメントは確認できなかった。ただし個別の口コミ本文（Googleマップ・じゃらん等）はWebFetch制限・WebSearch呼び出し上限により直接確認できておらず、確認範囲は限定的である。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "ゴーゴーアドベンチャー 吉野川半日ラフティング 掲載プラン - アソビュー!",
+          "url": "https://www.asoview.com/item/activity/pln3000000838/"
+        },
+        {
+          "type": "booking_site",
+          "title": "ゴーゴーアドベンチャー 掲載プラン（口コミ189件） - アソビュー!",
+          "url": "https://www.asoview.com/item/activity/pln3000000836/"
+        },
+        {
+          "type": "other",
+          "title": "ゴーゴーアドベンチャー ファミリー向けプラン掲載 - NTA（日本旅行業協会）アクティビティ",
+          "url": "https://www.nta.co.jp/activity/river/rafting/shikoku/tokushima/301/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "原則7（確認できない数字は推測しない）に基づき、唯一確認できた評価数値『グーグルレビュー800件以上評価4.9』が事業者自己申告かつ他事業者の検索結果とも紛れて出てくる不確実な情報であり、独立した一次情報（Googleマップ・じゃらん単体ページ等）で裏付けられなかったため不採用とした。"
+    },
+    {
+      "id": "2026-10-28-goodrac-adventure-oboke",
+      "name": "goodRAC adventure（大歩危コース）",
+      "region": "ツアー開催場所：徳島県三好市山城町西宇1259-1（大歩危温泉サンリバー大歩危集合）。運営会社の所在地は大阪府枚方市村野高見台10-5。",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "確定料金はこのセッションのWeb検索の範囲では確認できなかった。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "大歩危温泉サンリバー大歩危を集合場所とする吉野川ラフティング事業者。アソビュー!上の口コミ件数は40件。",
+      "target_audience": ["友人", "家族"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 3,
+        "unique_experience_score": 10,
+        "photogenic": 8,
+        "value_for_price": 4,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 31,
+      "recommendation_reason": "大歩危温泉サンリバー大歩危を集合場所とする点は確認できたが、平均評価点（星の数）をWebSearchのスニペット経由では一度も確認できず、口コミ件数も40件と他事業者と比べて少ない。また運営会社自体の所在地は大阪府枚方市であり、三好市を拠点とする事業者ではない点も踏まえ、原則7・8（数字を推測しない／複数の独立情報源での裏付け）を満たせないため選定を見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "低評価レビューを狙った専用検索を行ったが、具体的な否定的コメント・肯定的コメントのいずれも個別本文としては確認できず、評価傾向を判断できる材料が不足している。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "goodRAC adventure 大歩危コース 掲載プラン（口コミ40件） - アソビュー!",
+          "url": "https://www.asoview.com/item/activity/pln0000000041/"
+        },
+        {
+          "type": "other",
+          "title": "goodRAC adventure 事業所情報 - アソビュー!",
+          "url": "https://www.asoview.com/base/63/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "原則7（確認できない数字は推測しない）・原則8（複数の独立情報源での裏付け）に基づき、平均評価点を確認できず、口コミ件数も少なく、かつ三好市を拠点とする事業者ではないため不採用とした。"
+    }
+  ]
+}

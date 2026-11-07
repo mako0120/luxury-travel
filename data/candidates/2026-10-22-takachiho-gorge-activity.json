@@ -1,0 +1,148 @@
+{
+  "cycle_date": "2026-10-22",
+  "theme": "アクティビティカテゴリ（宮崎県高千穂峡エリアの体験型観光）",
+  "season_rationale": "10月下旬〜11月は高千穂盆地で放射冷却が発生しやすく、国見ヶ丘など周辺の雲海シーズンのピークにあたる（原則30）。高千穂峡自体は通年の名所だが、紅葉が進み始めるこの時期は渓谷の緑・柱状節理と色づき始めた木々のコントラストが楽しめ、朝晩の気温差で川面に霧が立つ『今のうちに行きたい』季節的訴求がしやすい。",
+  "prior_posts_checked": [
+    { "caption_id": "2026-10-21-zao-kokusai-hotel", "region": "山形県山形市蔵王温泉", "category": "温泉旅館" },
+    { "caption_id": "2026-10-21-yuda-onsen-kokian", "region": "山口県山口市湯田温泉", "category": "グルメ旅館" },
+    { "caption_id": "2026-10-21-toba-ocean-resort", "region": "三重県鳥羽市安楽島町", "category": "オールインクルーシブ" },
+    { "caption_id": "2026-10-21-sounkyo-hotel-taisetsu", "region": "北海道上川郡上川町層雲峡温泉", "category": "サウナ" },
+    { "caption_id": "2026-10-21-shinhotaka-ropeway", "region": "岐阜県高山市奥飛騨温泉郷新穂高", "category": "アクティビティ" },
+    { "caption_id": "2026-10-21-lemon-farm-glamping-shimanami", "region": "広島県尾道市瀬戸田町（しまなみ海道）", "category": "グランピング" },
+    { "caption_id": "2026-10-21-lavista-furano-hills", "region": "北海道富良野市", "category": "絶景ホテル" },
+    { "caption_id": "2026-10-21-iyonada-monogatari", "region": "愛媛県松山市〜大洲市・八幡浜市（伊予灘沿い）", "category": "列車・船" },
+    { "caption_id": "2026-10-21-hotel-fukinomori", "region": "長野県木曽郡南木曽町（妻籠宿近郊）", "category": "文化体験" },
+    { "caption_id": "2026-10-21-rihga-royal-hiroshima-aquarium-afternoontea", "region": "広島県広島市中区", "category": "その他" },
+    { "caption_id": "2026-10-20-fuji-panoramic-ropeway", "region": "山梨県南都留郡富士河口湖町（河口湖畔・天上山公園）", "category": "アクティビティ" },
+    { "candidate_id": "2026-09-14-scenic-activity（高千穂峡貸しボート）", "region": "宮崎県西臼杵郡高千穂町", "category": "アクティビティ", "note": "約1ヶ月以上前（2026-09-14）のサイクルで同じ高千穂峡貸しボートを候補検討済みだが、当時は口コミ件数の少なさ（Trip.com 4.8・11件のみ）を主因に72点で不採用（rejected）となっており、captions/・posts/への掲載は一度もない。今回は改めてWeb調査を行い、じゃらんnet等で評価の件数的な根拠を再確認した。" }
+  ],
+  "duplication_note": "地域: data/candidates・captions・posts を横断的に全件確認した結果、宮崎県・高千穂峡エリアを扱った実際の投稿（captions/posts）は過去に一件も存在しない。2026-09-14サイクルで候補として検討されたことはあるが、その時は不採用（score 72）で終わっており重複にはあたらない。直近10件（10/20〜10/21）とも地域重複なし。カテゴリ: 『アクティビティ』は2026-10-20（河口湖・天上山パノラマロープウェイ）、2026-10-21（新穂高ロープウェイ）と直近2サイクル連続で使用しており、今回で3サイクル連続になる点は原則29の観点から本来避けたい状況である。しかし今回は地域・カテゴリとも依頼者から明示指定されているため、指定に従い調査を実施した。高千穂峡は『柱状節理の峡谷×手漕ぎボート×真名井の滝』という、直近2件のロープウェイ系とは全く異なる体験種別であり、地域（九州・宮崎）も直近の岐阜・山梨とは離れているため、視覚的・体験的なバリエーションは確保できていると判断する。次サイクル以降は温泉旅館・グルメ旅館・離島リゾート等、アクティビティ以外のカテゴリを優先したい。",
+  "research_constraints": "CLAUDE.mdの制約どおり、jalan.net・takachiho-kanko.info等の主要旅行・観光ドメインへの直接WebFetchはいずれもEGRESS_BLOCKED相当（DNS解決不可）となったため、すべてWebSearchのスニペット経由で得られる情報を情報源とした。じゃらんnetの『高千穂峡貸しボート 評価4.2・471件』という数値はWebSearchの検索結果要約内で得られたものであり、該当ページを直接閲覧して再確認することはできなかった点を明記する。",
+  "candidates": [
+    {
+      "id": "2026-10-22-takachihokyou-boat",
+      "name": "高千穂峡 貸しボート",
+      "region": "宮崎県西臼杵郡高千穂町（高千穂峡）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.2, "scale": 5, "review_count": 471, "checked_date": "2026-10-22", "url": "https://www.jalan.net/kankou/spt_guide000000175025/kuchikomi/" },
+        { "source": "Klook（高千穂峡とトロッコ列車日帰りツアー・ボート体験付き）", "score": 4.8, "scale": 5, "review_count": 191, "checked_date": "2026-10-22", "url": "https://www.klook.com/ja/" },
+        { "source": "KKday（福岡発 阿蘇・高千穂峡日帰りツアー・ボートオプション付き）", "score": 4.9, "scale": 5, "review_count": 547, "checked_date": "2026-10-22", "url": "https://www.kkday.com/ja/" }
+      ],
+      "price_range_jpy": {
+        "note": "貸しボート30分4,100円〜5,100円程度／1艇（定員3名、未就学児を含む場合のみ最大4名）。営業時間は通常8:30〜17:00（最終受付16:30）だが、河川増水時は運休。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "柱状節理の峡谷と落差17mの『真名井の滝』を間近に望みながら手漕ぎボートで進む、国指定名勝・天然記念物の景勝地。日本の観光地としては全国区の知名度を持ちながら、実際にボートで滝のすぐ近くまで接近できる体験は国内でも珍しく、ボート上では鯉や鴨にエサをあげることもできる。",
+      "renewal_or_news": "このセッションのWeb検索範囲では2026年の具体的なリニューアル情報は確認できなかった。10月下旬〜11月は渓谷の紅葉が進み始め、朝晩の気温差で川霧が立ちやすい時期で、夏の混雑期とは異なる落ち着いた景観が狙える。",
+      "target_audience": ["カップル", "家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 13,
+        "unique_experience_score": 18,
+        "photogenic": 14,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 81,
+      "recommendation_reason": "じゃらんnet（471件・4.2）という大きな母数の評価に加え、ボート体験を含むツアーを扱うKlook（191件・4.8）、KKday（547件・4.9）という独立した3つの情報源すべてで採用ライン（4.0以上）を大きく上回る評価を確認できた（原則6・7）。2026-09-14サイクル時点ではTrip.comの11件評価のみで信頼性不足のため不採用（72点）だったが、今回じゃらんnet等で件数の多い評価を確認できたため、信頼度（review_reliability）の評価を引き上げた。柱状節理×滝という唯一無二の景観で、カルーセル1枚目に使える『行きたくなる』絵になるスポット。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ことりっぷ等の個人旅行記で『ネットで見た写真に惹かれて来たけど、実際の景色はそこまで綺麗じゃなかった（雨後で川がエメラルドグリーンに見えなかった）』という写真とのギャップを指摘する声、繁忙期（夏休み等）は『ボートは3時間待ちで諦めた』『午前中に行っても乗れるか分からない』という混雑・待ち時間の声が複数の情報源（co-trip、旅行ブログ）で確認された。また増水時は安全上運休となる運用リスクがある。いずれも渓谷観光地特有の季節・時間帯依存の問題であり、清潔感・接客・安全面での重大な欠陥は確認されなかったため、不採用基準（原則10）には該当しないと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "高千穂峡貸しボートのクチコミ一覧 - じゃらんnet", "url": "https://www.jalan.net/kankou/spt_guide000000175025/kuchikomi/" },
+        { "type": "official", "title": "高千穂峡貸しボート｜高千穂町観光協会【公式】", "url": "https://takachiho-kanko.info/boat/detail.php" },
+        { "type": "other", "title": "高千穂峡貸しボート／高千穂町", "url": "https://www.town-takachiho.jp/top/soshiki/kikakukanko/2/4/316.html" },
+        { "type": "booking_site", "title": "高千穂峡とトロッコ列車日帰りツアー（ボート体験付き）- Klook", "url": "https://www.klook.com/ja/" },
+        { "type": "booking_site", "title": "福岡発 阿蘇・高千穂峡日帰りツアー（ボートオプション付き）- KKday", "url": "https://www.kkday.com/ja/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-22-takachiho-amaterasu-supercart",
+      "name": "高千穂あまてらす鉄道 スーパーカート",
+      "region": "宮崎県西臼杵郡高千穂町（高千穂駅〜高千穂鉄橋）",
+      "category": "アクティビティ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "GLTJP", "score": 4.07, "scale": 5, "review_count": 2, "checked_date": "2026-10-22", "url": "https://www.gltjp.com/ja/directory/item/12845/" }
+      ],
+      "price_range_jpy": {
+        "note": "乗車料金2,000円程度（鉄橋を渡れない場合は一部返金のケースあり）。高千穂駅から高千穂鉄橋まで往復約5.1km・約30分。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "台風被害で廃線となった旧高千穂鉄道の軌道を再利用し、高さ105mの高千穂鉄橋を含む廃線跡をトロッコ型カートで走る『アトラクション廃線』。2017年導入の大型車両は床の一部に強化ガラスを使用し、空中散歩のスリルと渓谷の絶景を同時に楽しめる、国内でも珍しい体験。",
+      "target_audience": ["カップル", "家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 3,
+        "unique_experience_score": 19,
+        "photogenic": 14,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 72,
+      "recommendation_reason": "廃線跡の鉄橋を走るという体験の独自性は非常に高く、写真映えも良い。ただしWeb検索で確認できた数値評価はGLTJP掲載の4.07点・口コミ2件のみで、原則6・7が求める『件数とセットの信頼度』を単独では満たせない。Hidden Gemルール（原則8）の適用も検討したが、公式サイト一次情報・自治体観光協会情報は確認できるものの、独立した複数の数値評価が確保できていない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "週末・休日は満席になることがあり早めの来訪が推奨されている。雨天・悪天候時は運休となるため訪問計画への影響がある。媒体間で廃線の経緯（台風14号による橋梁流出の時期等）の記載に食い違いがあり、情報の鮮度・正確性にやや不安がある。安全面・接客面での重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "高千穂あまてらす鉄道 スーパーカート - GLTJP", "url": "https://www.gltjp.com/ja/directory/item/12845/" },
+        { "type": "other", "title": "これぞ「アトラクション廃線」 スーパーカートで高さ105mの空中散歩 高千穂あまてらす鉄道", "url": "https://trafficnews.jp/post/108173" },
+        { "type": "other", "title": "天孫降臨の地！絶景を走るスーパーカートや神話の舞台となった神社へドライブ 宮崎県高千穂町", "url": "https://gazoo.com/drive/mura/25/01/17/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア72点で採用ライン（75点）をわずかに下回った。主因は数値評価の件数不足（口コミ2件のみ）による信頼性不足。体験自体の独自性・季節性は高く、次サイクル以降、件数の多いレビューソース（じゃらん・フォートラベル等）を確認できれば再候補とする。"
+    },
+    {
+      "id": "2026-10-22-takachiho-shrine-yokagura",
+      "name": "高千穂神社 夜神楽（高千穂神楽）",
+      "region": "宮崎県西臼杵郡高千穂町三田井（高千穂神社）",
+      "category": "文化体験",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "GLTJP（高千穂神社）", "score": 4.07, "scale": 5, "review_count": 2, "checked_date": "2026-10-22", "url": "https://www.gltjp.com/ja/directory/item/14677/" },
+        { "source": "GLTJP（高千穂神楽・神楽殿）", "score": 4.18, "scale": 5, "review_count": 3, "checked_date": "2026-10-22", "url": "https://www.gltjp.com/ja/directory/item/14676/" }
+      ],
+      "price_range_jpy": {
+        "note": "拝観料500円程度（宿泊施設からの送迎バスがセットになっているケースもある）。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "国指定重要無形民俗文化財の高千穂神楽のうち、代表的な4つの舞を毎晩神楽殿で鑑賞できる。神話の里・高千穂を象徴する夜の文化体験で、宿泊施設から送迎バスが出るケースもある。",
+      "target_audience": ["カップル", "夫婦", "友人", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 2,
+        "unique_experience_score": 17,
+        "photogenic": 9,
+        "value_for_price": 8,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 62,
+      "recommendation_reason": "重要無形民俗文化財という希少性と、毎晩開催・拝観料500円という手頃さは魅力的だが、Web検索で確認できた数値評価はGLTJP掲載の2件・3件のみで、原則6・7が求める件数的な信頼性を大きく下回る。夜間の神楽殿内での鑑賞のため写真・動画映え（カルーセル向き）もアクティビティ系候補に比べて弱い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "宿泊施設の口コミ（フォートラベル）に夜神楽への送迎時間の案内が複数見られたが、神楽そのものへの不満点は検索範囲では確認できなかった。ただし評価件数自体が少ないため、ネガティブ要素の網羅的な確認ができているとは言い切れない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "高千穂神社 - GLTJP", "url": "https://www.gltjp.com/ja/directory/item/14677/" },
+        { "type": "other", "title": "高千穂神楽（高千穂神社 神楽殿） - GLTJP", "url": "https://www.gltjp.com/ja/directory/item/14676/" },
+        { "type": "review_site", "title": "高千穂神社周辺の宿泊施設クチコミ（夜神楽送迎の言及あり） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10038906" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア62点で採用ライン（75点）を大きく下回った。主因は数値評価の件数不足（2〜3件のみ）による信頼性不足と、夜間・屋内体験ゆえの写真・動画映えの弱さ。文化的価値は高いため、件数の多い評価ソースを確認できれば今後の文化体験カテゴリで再候補としたい。"
+    }
+  ]
+}

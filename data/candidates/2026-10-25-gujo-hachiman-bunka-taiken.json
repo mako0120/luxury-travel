@@ -1,0 +1,113 @@
+{
+  "cycle_date": "2026-10-25",
+  "theme": "文化体験：岐阜県郡上市郡上八幡（城下町・水の町）",
+  "season_rationale": "郡上八幡は日本最古の木造再建城・郡上八幡城と、宗祇水に代表される『水の町』の町並みが残る城下町。夏の郡上おどりの熱狂が落ち着いた10月下旬〜11月は観光客が少なく、紅葉と城下町散策をゆったり楽しめる狙い目の時期。積雪期（12月以降）になるとアクセス・送迎条件が変わりやすくなる前に、今のタイミングで紹介する価値がある。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-10-24-tono-bunka-taiken", "region": "岩手県遠野市", "category": "文化体験", "note": "地域・施設とも異なるため重複なし。" },
+    { "caption_id": "2026-10-24-takamuro-suikouen", "region": "岩手県遠野市", "category": "文化体験", "note": "同上の理由で重複なし。" },
+    { "candidate_id": "2026-10-24-arima-onsen-ryokan", "region": "兵庫県神戸市（有馬温泉）", "category": "温泉旅館", "note": "地域・カテゴリとも異なるため重複なし。" },
+    { "caption_id": "2026-10-22-mitsui-kyoto", "region": "京都府京都市中京区（二条城前）", "category": "文化体験", "note": "地域・施設とも異なるため重複なし。" },
+    { "candidate_id": "2026-10-19-omihachiman-culture", "region": "滋賀県近江八幡市", "category": "文化体験", "note": "滋賀県の『近江八幡』であり岐阜県『郡上八幡』とは別の地域・施設。名称が似ているため特に重点的に確認したが重複なし。" },
+    { "candidate_id": "2026-09-22-hida-takayama-culture", "region": "岐阜県高山市（飛騨高山）", "category": "文化体験", "note": "同じ岐阜県だが高山市の飛騨高山であり、郡上市郡上八幡とは地域が異なるため重複なし。1か月以上前のサイクルだが地域が異なるため参考情報として記録。" }
+  ],
+  "duplication_note": "`data/candidates/` `captions/` を全件、ファイル名・本文（grep -i）で『郡上』『gujo』『岐阜』『gifu』の文字列を1か月以上前まで遡って確認した。『郡上』『gujo』に一致する既存ファイルは0件。『岐阜』『gifu』に一致したのは（1）飛騨高山・文化体験（2026-09-22、高山市で郡上市と別地域）、（2）遠野・キーワード検索のノイズとしてURL文字列に『gifu.lg.jp』を含む一関市の猊鼻渓関連ファイル（内容は無関係）のみで、いずれも郡上市郡上八幡の候補とは地域・施設とも重複しないと判断した。滋賀県『近江八幡市』は名称が似ているため個別に確認したが、岐阜県『郡上八幡』とは全く別の自治体・施設である。",
+  "other_candidates_considered": [
+    {
+      "name": "さんぷる工房（レトロアート館ほか／食品サンプル作り体験）",
+      "category": "文化体験（日帰り体験工房）",
+      "note": "郡上八幡は日本の食品サンプル発祥の地として知られ、築150年の町家を改装した工房などで食品サンプル作りを体験できる。文化的な独自性は高いが、Web検索の範囲ではGoogleマップ等の評価点・口コミ件数など数値のある口コミ情報を確認できず、原則7（独立2情報源での裏取り）を満たせないため、スコアリング前の段階で候補から除外し参考情報とした。"
+    },
+    {
+      "name": "料理旅館 金松館（鮎料理）",
+      "category": "文化体験（郷土料理旅館）",
+      "note": "天然郡上鮎を使った鮎づくし会席が名物の旅館。2017年頃の体験記事では料理を評価する声があったが、じゃらん等の具体的な総合評点・口コミ件数は本調査の検索範囲では取得できず、情報源が古い・不十分なため今サイクルは候補外（参考情報）とした。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-25-sekisuien-gujo-hachiman",
+      "name": "郡上八幡ホテル積翠園",
+      "region": "岐阜県郡上市八幡町（八幡山中腹、郡上八幡城まで徒歩約15分・城下町まで徒歩約10分。長良川鉄道 郡上八幡駅からシャトルバス（予約制）またはタクシーで約10分）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル（mapple.net集計）", "score": 4.08, "scale": 5, "review_count": 333, "checked_date": "2026-10-25", "url": "https://www.mapple.net/pref/21219/hotel/" },
+        { "source": "じゃらん", "score": 4.3, "scale": 5, "review_count": 7, "checked_date": "2026-10-25", "url": "https://www.jalan.net/yad397983" },
+        { "source": "Trip.com", "score": 8.3, "scale": 10, "review_count": 17, "checked_date": "2026-10-25", "url": "https://jp.trip.com/hotels/landmark/jp/gujo-hachiman.html" },
+        { "source": "icotto", "score": 3.3, "scale": 5, "review_count": 15, "checked_date": "2026-10-25", "url": "https://icotto.jp/hotels/9279" }
+      ],
+      "price_range_jpy": {
+        "note": "検索範囲で確認できた目安は1泊1名12,100円前後〜（会席料理2食付、部屋タイプ・時期により変動）。郡上八幡城を望む露天風呂付デラックスルームなど部屋タイプにより料金差が大きい。公式サイトの明確な料金表は本調査では確認できず、正確な料金は予約サイト・公式電話（0575-65-3101）で要確認。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "日本最古の木造再建城・郡上八幡城を望む八幡山の高台に建つ旅館。郡上八幡城ビュー付きの露天風呂付デラックスルームや、飛騨牛鉄板焼き・鮎の塩焼きなど地元食材を使った和食会席料理が特徴。『暮らすように旅する』をコンセプトに、郡上おどり・宗祇水・水舟のある古い町並みなど郡上八幡の文化的景観を一望・散策する拠点となる点が独自性。",
+      "renewal_or_news": "直近の大規模リニューアル等のニュースはWeb検索の範囲では確認できなかったが、2026年10月時点で複数の予約サイト（じゃらん・楽天トラベル・Trip.com・icotto）に掲載が継続しており、通常営業中であることを確認。",
+      "target_audience": ["夫婦", "カップル", "家族", "温泉好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 13,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 77,
+      "recommendation_reason": "楽天トラベル4.08（333件）・じゃらん4.3（7件）・Trip.com8.3/10=4.15換算（17件）という3つの独立した情報源で推奨ライン4.0（5点換算）を上回る評価を確認した（原則6・7）。楽天トラベルは333件という十分な母数があり信頼性も高い。日本最古の木造再建城として知られる郡上八幡城を望む高台の立地、露天風呂付客室、飛騨牛・鮎の郷土会席料理という組み合わせは、城下町・水の町という郡上八幡の文化的魅力を一体で伝えられる構成。一方でicottoの評価（3.3／15件）は他サイトより低く、送迎が事前予約制でアクセスに多少の不便があるため、スコアはやや抑えて77点とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icottoの口コミでは『城下町プラザからは急坂の上にあり、土産物店や飲食店のあるエリアへ行くには不便』『送迎は定時運行ではなく事前予約制で、連絡しないと迎えに来てもらえない』という指摘が確認された。icottoの総合評価（3.3／15件）は楽天トラベル・じゃらん・Trip.comより低く、参照サイト間でばらつきがある。ただし衛生面・接客・料理の質に関わる重大な指摘は検索範囲では確認できず、立地・送迎予約の不便さは事前案内で解消可能な性質のものと判断した。disqualifying_issues_foundはfalseとした。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "郡上八幡ホテル積翠園 - ぎふ旅ネット（岐阜県観光連盟公式サイト）施設紹介", "url": "https://www.kankou-gifu.jp/reserve/detail_44.html" },
+        { "type": "booking_site", "title": "郡上八幡 ホテル積翠園 - じゃらんnet", "url": "https://www.jalan.net/yad397983" },
+        { "type": "review_site", "title": "岐阜県郡上市のホテル・旅館 楽天トラベルクチコミ評価集計 - mapple.net", "url": "https://www.mapple.net/pref/21219/hotel/" },
+        { "type": "review_site", "title": "郡上八幡 ホテル積翠園(岐阜県 旅館) クチコミ・評価 - icotto", "url": "https://icotto.jp/hotels/9279" },
+        { "type": "booking_site", "title": "Gujo Hachiman エリアのホテル一覧（積翠園掲載） - Trip.com", "url": "https://jp.trip.com/hotels/landmark/jp/gujo-hachiman.html" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-25-jinichi-gujo-hachiman",
+      "name": "甚一（一棟貸しの宿）",
+      "region": "岐阜県郡上市八幡町（郡上八幡博覧館から徒歩数分、岐阜バス高速八幡線 郡上八幡博覧館バス停下車徒歩5分）",
+      "category": "文化体験",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "Hotels.com", "score": 9.6, "scale": 10, "review_count": 2, "checked_date": "2026-10-25", "url": "https://jp.hotels.com/ho687666912/shen-yi-jun-shang-ri-ben" }
+      ],
+      "price_range_jpy": {
+        "note": "本調査の検索範囲では具体的な1泊料金を確認できなかった。公式・各予約サイトで要確認。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "町中を清流（水舟・用水）が流れる郡上八幡の町家・古民家を改修した一棟貸しの宿。IHコンロ・冷凍冷蔵庫・調理器具一式を備えたキッチンがあり、水路の音が聞こえる静かな環境で『暮らすように泊まる』体験ができる。郡上八幡博覧館から徒歩数分という城下町の中心部に近い立地も独自性。",
+      "target_audience": ["友人", "一人旅", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 3,
+        "unique_experience_score": 15,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 55,
+      "recommendation_reason": "Hotels.comでは9.6/10という高評価が確認できたが、表示されている口コミはごく少数（2件程度）に留まり、原則7が求める『独立2情報源以上での数値的な裏取り』を満たせない。cocolocalaにも評価の表示があったが、その1.0点はネット通販対応への不満であり宿泊体験自体の評価ではないため、有効な第二の数値情報源として扱えなかった。町家一棟貸し・水路のある環境という独自性は高く評価できるが、エビデンス不足のため今サイクルは不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "cocolocalaに掲載された評価のうち、1.0点の投稿は宿泊そのものではなく特産品のネット通販対応に関する不満であり、宿泊施設としての重大な問題を示すものではないと判断した。Hotels.comの少数の口コミはいずれも好意的だが、母数が少なく評価の安定性を判断できる段階にはない。衛生・接客・安全性に関する重大な指摘は検索範囲では確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "甚一（岐阜県郡上市）一棟貸しの宿 - Hotels.com", "url": "https://jp.hotels.com/ho687666912/shen-yi-jun-shang-ri-ben" },
+        { "type": "review_site", "title": "甚一 クチコミ・評価 - cocolocala", "url": "https://www.cocolocala.jp/hotels/508488" },
+        { "type": "other", "title": "甚一（郡上八幡の一棟貸し町家宿）紹介記事 - icotto", "url": "https://icotto.jp/presses/18448" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値のある口コミが実質Hotels.comの1件（9.6/10、件数はごく少数）のみで、原則7が求める独立2情報源以上の数値的エビデンスを満たせない。cocolocala上の1.0点はネット通販対応への評価で宿泊評価ではないため、第二の有効な情報源として使えなかった。一棟貸しの古民家・水路という独自性は高いが、エビデンス不足のため不採用とした。"
+    }
+  ]
+}

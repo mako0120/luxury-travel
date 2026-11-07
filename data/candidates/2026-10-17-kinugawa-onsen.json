@@ -1,0 +1,136 @@
+{
+  "cycle_date": "2026-10-17",
+  "theme": "栃木県日光市鬼怒川温泉の露天風呂付き客室がある温泉旅館",
+  "season_rationale": "鬼怒川温泉は10月中旬〜11月中旬に渓谷沿いの紅葉が見頃を迎えるエリアで、紅葉を眺めながらの露天風呂体験の需要が高まる時期にあたる。関東圏から日帰り圏の『少し贅沢な温泉旅』として、紅葉本番前の予約検討タイミングに合致する。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-ana-intercontinental-ishigaki", "region": "沖縄県石垣市真栄里（マエサトビーチ）", "category": "離島リゾート" },
+    { "post_id": "2026-10-16-kai-sengokuhara", "region": "神奈川県足柄下郡箱根町仙石原", "category": "絶景ホテル" },
+    { "post_id": "2026-09-22-guntu", "region": "広島県尾道市（瀬戸内海）", "category": "列車・船" },
+    { "post_id": "2026-09-22-gero-suihouen", "region": "岐阜県下呂市（下呂温泉）", "category": "温泉旅館" }
+  ],
+  "duplication_note": "栃木県鬼怒川温泉は data/candidates・captions に一度も登場していない新規地域。カテゴリ『温泉旅館』は直近では2026-09-22の下呂温泉（岐阜県）が最後で、約1ヶ月間このカテゴリは投稿していない。直近2回（箱根=絶景ホテル、石垣島=離島リゾート）とも地域・カテゴリとも異なり、原則29の『連続回避』にも抵触しない。",
+  "candidates": [
+    {
+      "id": "2026-10-17-shichijuyae",
+      "name": "鬼怒川温泉 静寂とまごころの宿 七重八重",
+      "region": "栃木県日光市鬼怒川温泉大原",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.8, "scale": 5, "review_count": 2260, "checked_date": "2026-10-17", "url": "https://www.jalan.net/yad312119/kuchikomi/" },
+        { "source": "Yahoo!トラベル", "score": 4.5, "scale": 5, "review_count": 511, "checked_date": "2026-10-17", "url": "https://travel.yahoo.co.jp/00030092" },
+        { "source": "Relux", "score": 4.6, "scale": 5, "review_count": 46, "checked_date": "2026-10-17", "url": "https://rlx.jp/21107/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "大人1名あたり参考価格で23,100円〜25,300円程度（掲載記事により差あり、1泊2食・部屋タイプ・プランにより変動）。露天風呂付客室のみの価格は未確認。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "鬼怒川温泉駅から徒歩約5分という好アクセスながら、全29室の落ち着いた規模で『静寂』を前面に出す宿。鬼怒川の渓谷を眺めながら入る露天風呂付客室、山並みを一望できる温泉内風呂付の和洋室があり、料理は川魚の姿造り・岩魚など地元食材中心の懐石。Yahoo!トラベルの項目別評価では温泉・お風呂4.87、接客・サービス4.85と特に高い。",
+      "renewal_or_news": "複数の旅行メディア記事（All About等）で『鬼怒川温泉の人気ホテル』として継続的に取り上げられており、じゃらんのクチコミ件数も直近で2,260件まで積み上がっている（旧スナップショットでは511〜554件程度だった時期もあり、着実に支持を広げていることがうかがえる）。",
+      "target_audience": ["夫婦", "記念日", "カップル", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 8,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 84,
+      "recommendation_reason": "じゃらんnet4.8（2,260件）・Yahoo!トラベル4.5（511件）・Relux4.6（46件）と、性質の異なる3つの独立した情報源すべてで推奨ライン4.0を大きく上回る評価を確認できた（原則6・7）。鬼怒川温泉駅から徒歩5分という好アクセスと、渓谷を望む露天風呂付客室・地元食材の懐石料理という『少し贅沢な旅』のコンセプトに合致する独自性があり、Web検索の範囲では重大な低評価の指摘も見つからなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "『七重八重 鬼怒川 悪い口コミ』『残念』『古い』『混雑』『高い』等のキーワードで複数回検索したが、清潔感・接客・設備老朽化・予約トラブルなど重大な指摘は見つからなかった。好意的な紹介記事・ランキング記事が中心で、個別の低評価レビュー本文はこのセッションのWebSearchの範囲では確認できておらず、その点は留保事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "静寂とまごころの宿 七重八重 - じゃらんnet（クチコミ）", "url": "https://www.jalan.net/yad312119/kuchikomi/" },
+        { "type": "review_site", "title": "静寂とまごころの宿 七重八重 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00030092" },
+        { "type": "booking_site", "title": "静寂とまごころの宿 七重八重 - Relux クチコミ", "url": "https://rlx.jp/21107/review/" },
+        { "type": "press", "title": "【鬼怒川温泉の人気ホテル】「鬼怒川温泉 静寂とまごころの宿 七重八重」が選ばれる理由 - All About", "url": "https://news.allabout.co.jp/articles/o/120430/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-17-kinugawa-fudotaki",
+      "name": "きぬ川 不動瀧",
+      "region": "栃木県日光市鬼怒川温泉大原",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.8, "scale": 5, "review_count": 2232, "checked_date": "2026-10-17", "url": "https://www.jalan.net/yad335885" },
+        { "source": "Yahoo!トラベル", "score": 4.4, "scale": 5, "review_count": 154, "checked_date": "2026-10-17", "url": "https://travel.yahoo.co.jp/" }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付き24,200円〜という過去の掲載情報を確認（時期・プランにより変動）。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全10室のハイクラス宿で、3室に温泉露天風呂付き。栃木和牛など地元食材にこだわった懐石料理が評判で、じゃらんの『売れた宿大賞』を4年連続で受賞している。",
+      "target_audience": ["夫婦", "記念日", "グルメ旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 15,
+        "photogenic": 10,
+        "value_for_price": 8,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 78,
+      "recommendation_reason": "じゃらんnet4.8（2,232件）・Yahoo!トラベル4.4（154件）の2つの独立情報源で推奨ラインを超えており、『売れた宿大賞』4年連続受賞という継続的な支持も確認できた。一方で全10室中3室のみが露天風呂付きで、七重八重と比べて『ここでしかできない体験』『写真・映え』の独自性で一歩譲ると判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "このセッションのWebSearchでは低評価レビューを狙った絞り込み検索を実施したが、具体的な否定的コメントは見つからなかった。公式サイト・一休.com・Googleマップ等の口コミ本文には到達できておらず、確認範囲は限定的だった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "きぬ川 不動瀧 - じゃらんnet", "url": "https://www.jalan.net/yad335885" },
+        { "type": "review_site", "title": "鬼怒川温泉 旅館ランキング（Yahoo!トラベル口コミ集計） - ITmedia", "url": "https://nlab.itmedia.co.jp/research/articles/3107169/" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-17-kai-kinugawa",
+      "name": "星野リゾート 界 鬼怒川",
+      "region": "栃木県日光市鬼怒川温泉滝",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Yahoo!トラベル", "score": 4.3, "scale": 5, "review_count": 767, "checked_date": "2026-10-17", "url": "https://nlab.itmedia.co.jp/research/articles/3107169/" },
+        { "source": "スカイチケット", "score": 4.4, "scale": 5, "review_count": 410, "checked_date": "2026-10-17", "url": "https://skyticket.jp/hotel/tochigi/" }
+      ],
+      "price_range_jpy": {
+        "note": "星野リゾート『界』ブランドの標準プラン帯だが、具体的な料金はこのセッションのWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "星野リゾートの温泉旅館ブランド『界』の鬼怒川エリア施設。庭園を借景にした大浴場と、ブランド共通の『ご当地部屋』『ご当地楽』といった地域文化体験が特徴。知名度の高いブランドでSNS話題性は強い。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 15,
+        "unique_experience_score": 15,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 8,
+        "access_and_freshness": 4
+      },
+      "score": 82,
+      "recommendation_reason": "Yahoo!トラベル4.3（767件）・スカイチケット4.4（410件）と件数・情報源は十分だが、個別口コミ（icotto掲載、2024年2月宿泊）で大浴場が『加水加温』で『普通』（風呂3.0）という指摘があり、『ここでしかできない体験』としての独自性では七重八重の渓谷ビュー露天風呂付客室に一歩譲ると判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icottoに掲載された個別の宿泊者口コミ（2024年2月）で、大浴場が加水加温で『普通』という評価（風呂3.0／接客4.0／食事4.0）、またチェックアウト時に駐車場とのケーブル移動が重なり待たされる場合があるという指摘があった。ただし単発の個人口コミであり、Yahoo!トラベル767件・スカイチケット410件の集計評価はいずれも4.3以上と高く、全体傾向と矛盾する重大な一致指摘ではないため除外基準には該当しないと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "鬼怒川温泉 旅館ランキング（Yahoo!トラベル口コミ集計） - ITmedia", "url": "https://nlab.itmedia.co.jp/research/articles/3107169/" },
+        { "type": "booking_site", "title": "星野リゾート 界 鬼怒川 - スカイチケット", "url": "https://skyticket.jp/hotel/tochigi/" },
+        { "type": "other", "title": "界 鬼怒川 宿泊者口コミ - icotto", "url": "https://icotto.jp/hotels/2679" }
+      ],
+      "decision": "shortlisted"
+    }
+  ]
+}

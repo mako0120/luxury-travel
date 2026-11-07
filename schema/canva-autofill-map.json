@@ -1,0 +1,94 @@
+{
+  "version": "2026-10-22",
+  "source_design_id": "DAHVoXJDBFw",
+  "title": "みんなの旅ログ｜MASTER TEMPLATE",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350
+  },
+  "page_count": 5,
+  "strategy": "autofill_then_visual_qa",
+  "pages": {
+    "1": {
+      "purpose": "cover",
+      "image_slots": 1,
+      "fields": [
+        "cover_line1_max10",
+        "cover_line2_max10",
+        "cover_line3_max7",
+        "cover_vertical_max14",
+        "cover_kicker",
+        "cover_title",
+        "cover_side_note",
+        "area",
+        "facility_name"
+      ]
+    },
+    "2": {
+      "purpose": "what_is_this_place",
+      "image_slots": 2,
+      "fields": [
+        "room_title",
+        "room_body",
+        "room_image_1",
+        "room_image_2"
+      ]
+    },
+    "3": {
+      "purpose": "signature_value_1",
+      "image_slots": 2,
+      "fields": [
+        "feature1_title",
+        "feature1_body",
+        "feature1_image_1",
+        "feature1_image_2"
+      ]
+    },
+    "4": {
+      "purpose": "signature_value_2",
+      "image_slots": 2,
+      "fields": [
+        "feature2_title",
+        "feature2_body",
+        "feature2_image_1",
+        "feature2_image_2"
+      ]
+    },
+    "5": {
+      "purpose": "practical_info",
+      "image_slots": 2,
+      "fields": [
+        "price_title",
+        "price_body",
+        "price_image_1",
+        "price_image_2"
+      ]
+    }
+  },
+  "extra_fields": {
+    "point1": [
+      "point1_title",
+      "point1_body",
+      "point1_image_1",
+      "point1_image_2"
+    ],
+    "point2": [
+      "point2_title",
+      "point2_body",
+      "point2_image_1",
+      "point2_image_2"
+    ],
+    "point3": [
+      "point3_title",
+      "point3_body",
+      "point3_image_1",
+      "point3_image_2"
+    ]
+  },
+  "rules": {
+    "overwrite_master": false,
+    "ai_generated_real_place_images": false,
+    "verify_dataset_before_each_run": true,
+    "visual_qa_required": true
+  }
+}

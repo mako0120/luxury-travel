@@ -1,0 +1,144 @@
+{
+  "cycle_date": "2026-10-30",
+  "theme": "オールインクルーシブ（沖縄県座間味村・慶良間諸島：座間味島・阿嘉島・渡嘉敷島エリア）再調査",
+  "season_rationale": "本日すでに同カテゴリ『オールインクルーシブ』で沖縄県うるま市・海中道路エリア（2026-10-30-all-inclusive-uruma-kaichudoro.json）を調査したが該当なしだったため、同カテゴリの別地域として慶良間諸島（座間味村・渡嘉敷村）を再調査枠として調査した。慶良間諸島は『ケラマブルー』と呼ばれる高い透明度の海で知られ、台風シーズンが落ち着く10月下旬〜11月は夏の混雑・料金ピークを過ぎても泳げる『狙い目』シーズンにあたる。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-09-21-kerama-activity (ファイル: 2026-09-21-kerama-activity.json)", "region": "沖縄県島尻郡座間味村・渡嘉敷村（慶良間諸島）", "category": "アクティビティ（選定済み: ケラマテラス／caption: 2026-09-21-kerama-terrace.json）" },
+    { "candidate_id": "2026-10-30-all-inclusive-uruma-kaichudoro", "region": "沖縄県うるま市・海中道路エリア", "category": "オールインクルーシブ（本日調査・該当なし）" },
+    { "candidate_id": "2026-10-17-all-inclusive-nago", "region": "沖縄県名護市", "category": "オールインクルーシブ（該当なし）" },
+    { "candidate_id": "2026-10-17-all-inclusive-onna", "region": "沖縄県国頭郡恩納村", "category": "オールインクルーシブ（選定済）" },
+    { "candidate_id": "2026-10-18-all-inclusive-yomitan-zanpa", "region": "沖縄県中頭郡読谷村", "category": "オールインクルーシブ（選定済）" },
+    { "candidate_id": "2026-10-19-all-inclusive-motobu-htb", "region": "沖縄県国頭郡本部町", "category": "オールインクルーシブ" },
+    { "candidate_id": "2026-10-19-irabu-island-resort", "region": "沖縄県宮古島市伊良部島", "category": "オールインクルーシブ" },
+    { "candidate_id": "2026-10-20-all-inclusive-miyako", "region": "沖縄県宮古島市", "category": "オールインクルーシブ（選定済）" },
+    { "candidate_id": "2026-10-22-amami-all-inclusive / 2026-10-29-amami-all-inclusive-recheck", "region": "鹿児島県奄美市", "category": "オールインクルーシブ" }
+  ],
+  "duplication_note": "慶良間諸島（座間味村・渡嘉敷村）は2026-09-21サイクルで『アクティビティ』カテゴリとして調査済みで、ケラマテラス（渡嘉敷島）が選定・caption化（2026-09-21-kerama-terrace.json）されている。ただし『オールインクルーシブ』カテゴリとしては既存のdata/candidates・captionsに該当するファイルがない（grepで『慶良間』『座間味』『阿嘉』『渡嘉敷』を含む全既存ファイルを確認したが、オールインクルーシブ候補としての既出はゼロ）ことを確認したため、本サイクルは重複にあたらない。なお本サイクルで再確認したケラマテラスは、既存のアクティビティ向けcaptionとは別に、今回『オールインクルーシブ』の適格性という異なる観点で再評価しており、同一施設の二重投稿を避けるため選定は行わない方針とした。",
+  "research_note": "WebSearchで『座間味島 阿嘉島 渡嘉敷島 オールインクルーシブ』『慶良間諸島 オールインクルーシブ プラン 飲み放題』『AKA LODGE 阿嘉島 オールインクルーシブ』『とかしくマリンビレッジ オールインクルーシブ』『HOTEL KANALOA オールインクルーシブ』など複数の表現で調査したが、慶良間諸島内の施設で、食事・ドリンク・アクティビティが宿泊料金に包括的に含まれる『オールインクルーシブ』と明記されたプランを持つ施設は確認できなかった。調査対象は（1）AKA LODGE by THE TERRACE HOTELS（阿嘉島、2026年6月開業の新ブランド）、（2）ケラマテラス（渡嘉敷島、既出だが本カテゴリでは未評価）、（3）とかしくマリンビレッジ（渡嘉敷島）、（4）HOTEL KANALOA（渡嘉敷島、2024年4月新築開業）の4施設。いずれも1泊2食付き・朝食付きなど通常の食事プランが中心で、飲み放題や館内アクティビティ込みのオールインクルーシブ型プランの明記は見つからなかった。AKA LODGEは開業から約4.5ヶ月と新しく、楽天トラベル等の主要予約サイトでも口コミ件数・評価点が確認できなかったため（数値の捏造を避けるため）、正式なcandidateエントリとはせず本文での言及のみとした。なお、このセッションのネットワーク環境ではterrace.co.jp、ryukyushimpo.jp、prtimes.jp、travel.rakuten.co.jp、jalan.netなどへの直接アクセス（WebFetch）がDNS解決エラーとなり不可能だったため、すべてWebSearchの検索結果サマリーを情報源とし、可能な限り独立した複数ソースでの裏付けを確認した。結論として、本サイクルは該当候補なし（selectedなし）。",
+  "candidates": [
+    {
+      "id": "2026-10-30-kerama-terrace-ai-recheck",
+      "name": "ケラマテラス",
+      "region": "沖縄県島尻郡渡嘉敷村（渡嘉敷島）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.80, "scale": 5, "review_count": 49, "checked_date": "2026-09-21", "url": "https://travel.rakuten.co.jp/HOTEL/130626/review.html" },
+        { "source": "トラベルコ", "score": 4.8, "scale": 5, "review_count": 10, "checked_date": "2026-09-21", "url": "https://www.tour.ne.jp/j_hotel/14648/" }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付きが基本で、トラベルコ最安表示39,100円〜（2026-09-21時点）。『オールインクルーシブ』（食事・ドリンク・アクティビティ込み）と明記されたプランは、今回のWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "慶良間諸島・渡嘉敷島にある全7室の大人向けプライベートリゾート。2017年改装、透明度の高い『ケラマブルー』の海でのダイビング・シュノーケリングの拠点として知られる。2026-09-21サイクルで『アクティビティ』カテゴリの候補として既に選定・caption化済み（2026-09-21-kerama-terrace.json）。",
+      "renewal_or_news": "2017年改装。評価自体は高いが、公式サイト・予約サイトの説明は『1泊2食付き』が基本で、飲み放題や館内アクティビティ込みを示す『オールインクルーシブ』表記は確認できなかった。",
+      "target_audience": ["カップル", "記念日", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 11,
+        "unique_experience_score": 10,
+        "photogenic": 11,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 66,
+      "recommendation_reason": "口コミ評価自体は楽天トラベル4.80（49件）・トラベルコ4.8（10件）と非常に高く、全7室の少人数制リゾートという独自性もある。しかし今回のカテゴリ条件『オールインクルーシブ』に合致する食事・ドリンク・アクティビティ包括プランの存在を複数の検索表現で確認できなかったため、unique_experience_scoreをオールインクルーシブ適合度の観点で減点した。また同施設は既にアクティビティカテゴリで選定・caption化済みであり、同一施設の重複投稿を避ける観点からも本カテゴリでの選定は見送る。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2026-09-21サイクルの調査では、スタッフの対応・清潔感・食事について好意的な口コミが中心で、重大な指摘は見当たらなかった（HIS旅プロの3.36という外れ値的評価のみ確認）。今回の再調査でも新たな重大な指摘は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "慶良間諸島「渡嘉敷島」の隠れ家ホテル「ケラマテラス」", "url": "https://www.keramaterrace.jp/" },
+        { "type": "review_site", "title": "ケラマテラス ＜渡嘉敷島＞ に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/130626/review.html" },
+        { "type": "booking_site", "title": "ケラマテラス ＜渡嘉敷島＞の宿泊予約｜トラベルコ", "url": "https://www.tour.ne.jp/j_hotel/14648/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "評価・独自性は高いが、今回のカテゴリ条件『オールインクルーシブ』に合致するプランの存在を確認できなかったこと、および既にアクティビティカテゴリで選定・caption化済みであり重複投稿を避けるべきことから、本カテゴリでは不採用とした。"
+    },
+    {
+      "id": "2026-10-30-tokashiku-marine-village",
+      "name": "とかしくマリンビレッジ",
+      "region": "沖縄県島尻郡渡嘉敷村渡嘉敷（渡嘉敷島・とかしくビーチ）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.8, "scale": 5, "review_count": 165, "checked_date": "2026-10-30", "url": "https://www.jalan.net/yad367515/" }
+      ],
+      "price_range_jpy": {
+        "note": "朝夕2食付きビュッフェが基本プラン。オールインクルーシブ（飲食・アクティビティ込み）と明記されたプランは確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "白砂のとかしくビーチの目の前に建つホテルで、湾内にウミガメが生息し、シュノーケリングで遭遇できることが特徴。渡嘉敷島で最大級のホテルの一つ。",
+      "target_audience": ["家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 10,
+        "unique_experience_score": 12,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 64,
+      "recommendation_reason": "じゃらんnetで4.8（165件）という高い評価を得ており、ビーチ直結・ウミガメに遭遇できる立地は写真映えする独自性がある。るるぶトラベルの項目別評価（ロケーション4.7・サービス4.1・食事4.0・客室の快適さ3.3）でも立地評価は高いが客室評価は低め。フォートラベルの個別口コミでは『部屋や設備は民宿並み』『ビーチグッズが有料』といった、ビーチリゾートとしての上質感に欠ける指摘が複数あり、またオールインクルーシブと呼べる食事・ドリンク包括プランの存在も確認できなかったため、今回のカテゴリ条件には適合しないと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミで、建物・設備の古さ、客室が民宿レベルであること、ビーチ用品のレンタルが有料（割引なし）であることへの指摘が複数見られた。安全性・清潔感に関わる重大な指摘ではないが、『少し贅沢な旅』というブランドコンセプトとの適合度は低いと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "とかしくマリンビレッジ - じゃらんnet", "url": "https://www.jalan.net/yad367515/" },
+        { "type": "other", "title": "とかしくマリンビレッジ (Tokashiku Marine Village) - るるぶトラベル", "url": "https://www.rurubu.travel/hotel/japan/tokashiki/tokashiku-marine-village" },
+        { "type": "review_site", "title": "とかしくマリンビレッジ クチコミ・感想 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10053517" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価は高いが、オールインクルーシブプランの存在を確認できず、また客室・設備の古さを指摘する口コミが複数あり『少し贅沢な旅』というブランドコンセプトとの適合度が低いため不採用。"
+    },
+    {
+      "id": "2026-10-30-hotel-kanaloa-tokashiki",
+      "name": "HOTEL KANALOA＜渡嘉敷島＞",
+      "region": "沖縄県島尻郡渡嘉敷村（渡嘉敷島・渡嘉敷港周辺）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "るるぶトラベル", "score": 3.9, "scale": 5, "review_count": 29, "checked_date": "2026-10-30", "url": "https://www.rurubu.travel/area/japan/tokashiki" },
+        { "source": "トラベルコ", "score": 4.4, "scale": 5, "review_count": 7, "checked_date": "2026-10-30", "url": "https://www.tour.ne.jp/j_hotel/67289/" }
+      ],
+      "price_range_jpy": {
+        "note": "トラベルコ掲載で、食事なしツインルーム1室2名合計20,246円〜、朝食付き23,000円〜（税込目安）。オールインクルーシブと明記されたプランは確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2024年4月23日新築オープン、全28室。渡嘉敷港から徒歩約5分で、阿波連ビーチ・渡嘉志久ビーチへの無料送迎（条件あり）がある。ダイビング・シュノーケリング・釣りなどマリンアクティビティの拠点として、渡嘉敷島で最も新しく清潔なホテルの一つとされる。",
+      "renewal_or_news": "2024年4月新築オープンのため施設の新しさが強み。",
+      "target_audience": ["カップル", "友人", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 9,
+        "unique_experience_score": 10,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 64,
+      "recommendation_reason": "るるぶトラベル3.9（29件）・トラベルコ4.4（7件）と2つの独立した情報源を確認できたが、いずれも4.0以上の採用ラインを安定して満たすとは言えず（るるぶは3.9）、件数も少ない。2024年開業の新しさ・清潔感・マリンアクティビティへのアクセスは評価できるが、朝食は有料提供で、オールインクルーシブと呼べる食事・ドリンク包括プランの存在は確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミで『新しく綺麗で快適』という好意的な評価と共に、エレベーターがなく重い荷物の移動が大変という指摘があった。安全性・清潔感に関わる重大な指摘ではない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "HOTEL KANALOA＜渡嘉敷島＞ - トラベルコ", "url": "https://www.tour.ne.jp/j_hotel/67289/" },
+        { "type": "booking_site", "title": "宿・ホテル > 沖縄県 > 離島 > 慶良間諸島 > HOTEL KANALOA - じゃらんnet", "url": "https://www.jalan.net/yad343287/" },
+        { "type": "review_site", "title": "HOTEL KANALOA＜渡嘉敷島＞ - フォートラベル", "url": "https://4travel.jp/dm_hotel-11371490" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "新しさ・清潔感は評価できるが、主要レビューサイトの評価が採用ライン（4.0以上・信頼できる2情報源）を安定して満たさず、かつオールインクルーシブプランの存在も確認できなかったため不採用。"
+    }
+  ]
+}

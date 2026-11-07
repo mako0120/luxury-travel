@@ -1,0 +1,138 @@
+{
+  "cycle_date": "2026-09-14",
+  "theme": "第5サイクル：絶景ホテル／夜景／絶景レストラン（景色そのものが主役の宿・食）",
+  "season_rationale": "秋は空気が澄み、日没時刻も早まって夕景〜夜景のコントラストが強く出る季節。瀬戸内海のような『昼は海、夜は灯り』という眺望型の体験は、夏の強い日差しより秋の澄んだ空気の方が写真映えしやすいと判断した（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-14-kinmedai-kokorone", "region": "静岡県伊東市（宇佐美温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-20-mizu-no-oto", "region": "神奈川県箱根町（小涌谷）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-cycl-yamanakako", "region": "山梨県山中湖村", "category": "サウナ" }
+  ],
+  "duplication_note": "直近の captions/・posts/ はグルメ旅館・温泉旅館×2・サウナで、いずれも景色そのものが体験の中心ではない。地域も静岡・島根・神奈川・山梨に偏っており、四国（愛媛）・北海道はまだ未登場。本サイクルでは指示カテゴリ『絶景ホテル／夜景／絶景レストラン』に沿って、温泉が主目的ではなく眺望・建築・アートが体験の中心となる候補を愛媛県松山で選定した。あわせて北海道（雲海テラス）・静岡県御殿場（夜景＋温泉）も調査したが、いずれも見送った（理由は各候補のrejection_reason参照）。",
+  "candidates": [
+    {
+      "id": "2026-09-14-setouchi-retreat-aonagi",
+      "name": "瀬戸内リトリート青凪 by 温故知新",
+      "region": "愛媛県松山市（柳谷町）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Relux", "score": 4.8, "scale": 5, "review_count": 84, "checked_date": "2026-09-15", "url": "https://rlx.jp/22476/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "JTB掲載プランで、2名1室利用時1名あたり1泊2食付き68,000円〜190,200円（税込）の幅を確認。別のプラン表示では1名あたり56,700円〜という記載も見つかっており、時期・部屋タイプ（半露天温泉スイート等）・食事内容によって大きく変動する。全7室のオールスイートで、いずれのプランも比較的高価格帯。",
+        "as_of_search_date": "2026-09-15",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "建築家・安藤忠雄氏が既存の美術館を改修・設計した全7室のオールスイートホテル。瀬戸内海と一体化するように見える全長30mのインフィニティプール（例年7月上旬〜9月中旬の期間限定遊泳）、貸切サウナ、瀬戸内の食材を使うコース料理、館内各所のアート作品が特徴。『Minimal Luxury』をコンセプトに、景色・建築・静けさそのものを体験させる設計になっている。",
+      "renewal_or_news": "ミシュランガイドのホテルセレクション『ミシュランキー』で2024年・2025年と2年連続で『1ミシュランキー』を獲得（2025年選出は2025年10月8日発表、公式プレスリリースで確認）。2025年12月20日に開業10周年を迎え、ブランドロゴ刷新や地域共創プロジェクトなど記念企画を展開中。",
+      "target_audience": ["夫婦", "記念日", "カップル", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 11,
+        "unique_experience_score": 19,
+        "photogenic": 14,
+        "value_for_price": 6,
+        "sns_buzz": 8,
+        "access_and_freshness": 4
+      },
+      "score": 85,
+      "recommendation_reason": "Relux上で4.8／84件（部屋4.9・風呂4.6・朝食4.7・夕食4.8・接客4.8・施設4.8の全項目が高水準）という、小規模ラグジュアリーホテルとしては非常に高く安定した評価。さらにYahoo!トラベル（地図クチコミ）でも20件中多くが5.0評価と独立した情報源で裏取りができ、ミシュランキー2年連続選出という第三者評価の裏付けもある。安藤忠雄建築×瀬戸内海の眺望×インフィニティプールという『ここでしかできない』体験と、単独インスタグラムアカウント（21K人フォロー）を持つほどのSNS上の知名度も強み。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "過去に台風による停電・断水で滞在中のゲストに大きな不便が生じた事例があり、施設側も非常時対応・情報提供のあり方を見直すとコメントしている（天候起因の単発的な運営上のトラブルであり、清潔感・接客・料理そのものへの継続的な低評価ではない）。Relux上の評価内訳は5点が83%・4点が15%・3点が1%と否定的な評価はごく少数。清潔感・接客・料理面での重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "瀬戸内リトリート青凪 by 温故知新 公式サイト", "url": "https://setouchi.by-onko-chishin.com/" },
+        { "type": "press", "title": "ミシュランガイドのホテルセレクション「ミシュランキー2025」において、瀬戸内リトリート青凪が「1ミシュランキー」掲載", "url": "https://setouchi.by-onko-chishin.com/16897/" },
+        { "type": "review_site", "title": "瀬戸内リトリート青凪の口コミ（レビュー） - Relux", "url": "https://rlx.jp/22476/review/" },
+        { "type": "review_site", "title": "瀬戸内リトリート 青凪 by 温故知新 - クチコミ・評判 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00002197/review/yahoomap/" },
+        { "type": "booking_site", "title": "瀬戸内リトリート青凪 ｂｙ温故知新 に実際に泊まった方のクチコミ・レビュー - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/151481/review.html" },
+        { "type": "sns", "title": "瀬戸内リトリート青凪 by 温故知新 公式Instagram（@okcs_setouchi_aonagi）", "url": "https://www.instagram.com/okcs_setouchi_aonagi/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-14-tomamu-unkai",
+      "name": "星野リゾート トマム（トマム ザ・タワー／雲海テラス）",
+      "region": "北海道勇払郡占冠村（トマム）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル（トマム ザ・タワー）", "score": 3.83, "scale": 5, "review_count": 141, "checked_date": "2026-09-15", "url": "https://travel.rakuten.co.jp/HOTEL/30110/review.html" }
+      ],
+      "price_range_jpy": {
+        "note": "検索結果からは今回のセッションで具体的な1泊料金を取得できなかった。日帰りで雲海テラスを利用する場合は大人2,500円、宿泊者は無料という情報は確認できた。",
+        "as_of_search_date": "2026-09-15",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "標高1,088mの雲海ゴンドラ山頂駅にある『雲海テラス』から、条件が揃えば眼下に広がる雲海を一望できる。2026年シーズンは5月13日〜10月13日（予定）の営業で、2026年シーズンより事前予約制を導入。ただし遭遇率は約40%とされ、天候次第で見られないことも多い、天候依存度の高い体験。",
+      "renewal_or_news": "2026年シーズンより雲海ゴンドラ乗車時間の事前予約制を導入（公式サイトで告知）。",
+      "target_audience": ["家族", "カップル", "絶景好き", "友人"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 6,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 3
+      },
+      "score": 67,
+      "recommendation_reason": "雲海テラスという体験自体の独自性・映え度は非常に高い。ただし同一リゾート内の建物間で評価点が3.83（トマム ザ・タワー、141件）〜4.27（リゾナーレトマム、件数未確認）とばらつきがあり、原則6・7が求める『信頼できる数値評価』の一貫性に欠ける。加えてトリップアドバイザーには『二度と行きたくない』『残念ですが星野リゾートとは思えない』等、接客・チェックイン対応・朝食会場の清潔感に関する具体的な低評価が複数の独立したレビューで見つかり、複数の旅行系ブログでも『最悪と言われる理由』を扱う記事が存在するなど、単発ではないパターンとして確認できた。さらに主役であるはずの雲海自体の遭遇率が約40%と、体験の再現性が低い点もリスク。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "トリップアドバイザー上に、スタッフ対応（チェックイン時の待ち時間・言葉遣い）、朝食会場の食器の汚れ、雲海がそもそも見えなかったという複数の独立したマイナス評価を確認。複数の旅行系ブログ・まとめ記事でも接客対応への不満が繰り返し言及されており、単発の事例ではないと判断した。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "official", "title": "星野リゾート トマム 雲海テラス 公式ページ（2026年営業期間・予約方法）", "url": "https://www.snowtomamu.jp/summer/" },
+        { "type": "booking_site", "title": "トマム ザ・タワー ｂｙ 星野リゾート に実際に泊まった方のクチコミ・レビュー - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/30110/review.html" },
+        { "type": "review_site", "title": "星野リゾート トマム ザ・タワー の口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g1120868-d1187154-r631415341-Hoshino_Resorts_Tomamu_The_Tower-Shimukappu_mura_Yufutsu_gun_Hokkaido.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア67点で採用ライン（75点）を下回る。評価点の情報源間でのばらつき（原則6・7の信頼性基準を満たしにくい）、複数の独立したレビュー・ブログ記事で確認された接客対応への具体的な不満（原則10）、および主役である雲海自体の遭遇率が約40%と体験の再現性が低い点を総合し、今サイクルでは見送った。"
+    },
+    {
+      "id": "2026-09-14-hotel-clad-gotemba",
+      "name": "HOTEL CLAD（ホテルクラッド）",
+      "region": "静岡県御殿場市",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Relux", "score": 4.3, "scale": 5, "review_count": 89, "checked_date": "2026-09-15", "url": "https://rlx.jp/24317/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "今回のセッションでは具体的な宿泊料金の数値を取得できなかった。御殿場プレミアム・アウトレット直結の立地。",
+        "as_of_search_date": "2026-09-15",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "富士山と御殿場の夜景を望む客室・天然温泉大浴場を備え、御殿場プレミアム・アウトレットに直結するアクセスの良さが特徴。るるぶトラベルの項目別評価では立地4.6・温泉4.6が最高評価で、景色よりも温泉・立地（ショッピング利便性）が評価の中心になっている様子がうかがえる。",
+      "target_audience": ["夫婦", "家族", "友人", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 9,
+        "unique_experience_score": 11,
+        "photogenic": 9,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 65,
+      "recommendation_reason": "Relux 4.3／89件、楽天トラベル4.28、るるぶ4.4と複数情報源で4.0超の安定した評価があり、単独候補としては悪くない。ただし項目別評価では『温泉』『立地（アウトレット直結）』が最高スコアで、富士山・夜景ビューはその次に位置づく体験であり、今回の依頼が求める『景色そのものが主役』という条件には弱い。また神奈川県箱根町（直近投稿の水の音）に近接する富士山麓・温泉地エリアで、地域イメージが重複するリスクもある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "検索範囲では重大な清潔感・安全上の指摘は見つからず、部屋・温泉への高評価が中心だった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "HOTEL CLADの口コミ（レビュー） - Relux", "url": "https://rlx.jp/24317/review/" },
+        { "type": "review_site", "title": "HOTEL CLAD - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00002675/review/" },
+        { "type": "booking_site", "title": "HOTEL CLAD に実際に泊まった方のクチコミ・レビュー - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/176577/review.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア65点で採用ライン（75点）を下回る。評価自体は4.0超で悪くないが、項目別評価を見ると『温泉』『立地（アウトレット直結）』が中心で『景色が主役』という今回のカテゴリ条件との一致度が低く、独自体験スコアを高く付けられなかった。加えて直近投稿（箱根・水の音）と地域イメージが近接する点も見送り理由に加えた。"
+    }
+  ]
+}

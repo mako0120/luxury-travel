@@ -1,0 +1,170 @@
+{
+  "cycle_date": "2026-11-01",
+  "theme": "文化体験（奈良県橿原市・今井町〈重要伝統的建造物群保存地区〉）",
+  "season_rationale": "今井町は平成5年（1993年）12月8日に国の重要伝統的建造物群保存地区に選定されており、2026年11月1日時点で選定から約33年。紅葉シーズンの奈良観光の中でも、寺内町の町並みを静かに歩ける文化体験として需要がある時期。特別なライトアップ等のイベント期日は今サイクルの調査では確認できなかったため、通年で体験できる町並み・公開施設を基準に調査した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-18-nara-hotel", "region": "奈良県奈良市高畑町（奈良公園に隣接する高台）", "category": "文化体験" },
+    { "post_id": "2026-10-18-kaze-no-naramachi", "region": "奈良県奈良市ならまち（豊澤酒造旧邸宅）", "category": "文化体験" },
+    { "post_id": "2026-09-18-edosan-nara", "region": "奈良県奈良市高畑町（奈良公園内・春日大社一の鳥居脇）", "category": "文化体験" },
+    { "post_id": "2026-10-29-tenkawa-dorogawa-glamping", "region": "奈良県吉野郡天川村・洞川温泉エリア", "category": "グランピング" },
+    { "post_id": "2026-10-31-yoshinoyama-ropeway", "region": "奈良県吉野郡吉野町・吉野山", "category": "アクティビティ" },
+    { "post_id": "2026-10-30-takehara-bunka-taiken", "region": "広島県竹原市（町並み保存地区・安芸の小京都エリア）", "category": "文化体験" },
+    { "post_id": "2026-10-29-inuyama-jokamachi-bunka-taiken", "region": "愛知県犬山市（犬山城下町エリア）", "category": "文化体験" },
+    { "post_id": "2026-10-22-kyoto-bunka-taiken", "region": "京都府京都市", "category": "文化体験" },
+    { "post_id": "2026-10-21-tsumago-magome-culture", "region": "長野県中山道妻籠宿・馬籠宿エリア", "category": "文化体験" },
+    { "post_id": "2026-10-20-kurashiki-bikanchiku-culture", "region": "岡山県倉敷市・倉敷美観地区", "category": "文化体験" },
+    { "post_id": "2026-10-19-omihachiman-culture", "region": "滋賀県近江八幡市（八幡堀・近江商人のまち）", "category": "文化体験" },
+    { "post_id": "2026-11-01-soranoniwa-dake-onsen", "region": "福島県二本松市・岳温泉", "category": "温泉旅館" },
+    { "post_id": "2026-11-01-miyajima-hatsukaichi-glamping", "region": "広島県廿日市市・宮島エリア", "category": "グランピング" },
+    { "post_id": "2026-11-01-aogashima-remote-island-resort", "region": "東京都青ヶ島村・青ヶ島", "category": "離島リゾート" }
+  ],
+  "duplication_note": "依頼時点の指定は『カテゴリ：文化体験／地域：奈良県橿原市・今井町（重要伝統的建造物群保存地区）』。data/candidates/・captions/の全履歴を『橿原』『今井町』『kashihara』『imaicho』『imai-cho』でgrep確認した結果（1ヶ月以上前の分も含む）、該当する候補・キャプションは過去に一度も存在せず、新規の地域である。\n\n奈良県自体は文化体験カテゴリで過去に奈良市（高畑町・ならまち）を2回取り上げているが、いずれも奈良市内で、橿原市今井町とは別の地域。また文化体験カテゴリは直近では2026-10-30（広島県竹原市）に続く指定だが、地域・カテゴリの指定自体が依頼で明示されているため、今回もその指定に従って調査した。",
+  "candidates": [
+    {
+      "id": "2026-11-01-imaicho-machinami-hozonchiku",
+      "name": "今井町（重要伝統的建造物群保存地区）",
+      "region": "奈良県橿原市今井町一帯",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "4travel（「今井町並み散歩」スポットページ集計評価）",
+          "score": 3.32,
+          "scale": 5,
+          "review_count": 13,
+          "checked_date": "2026-11-01",
+          "url": "https://4travel.jp/dm_shisetsu/11378314"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "町並みそのものの散策は無料。地区内の公開施設は個別に入館料が必要で、今西家住宅500円、今井まちや館は無料、河合家住宅（造り酒屋）は1階のみ100円（パンフレット付）という掲載情報を確認した。",
+        "as_of_search_date": "2026-11-01",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "戦国時代末期に一向宗称念寺を中心に成立した寺内町で、江戸中期までに南大和地方の商業の中心地として栄えた。環濠に囲まれた旧町域には江戸期以来の伝統的な町家が今も500棟前後残るとされ（資料により棟数表記に差がある）、国指定重要文化財の町家を含む複数の歴史的建物を無料〜数百円で見学しながら町並みそのものを歩いて体験できる。近鉄八木西口駅から徒歩5〜10分という奈良市街地からもアクセスしやすい立地にもかかわらず、観光客は比較的少なく静かに歩けるという口コミもある。",
+      "renewal_or_news": "平成5年（1993年）12月8日の重要伝統的建造物群保存地区選定から2026年で約33年となるが、2026年時点での大規模リニューアルや新規公開施設に関する公式発表はこのサイクルのWeb検索範囲では確認できなかった。地区の中核施設である称念寺本堂（重要文化財）は2013年頃に大規模な解体修理が行われ、2018年前後の口コミでも『訪問時に本堂が修復中で外観を十分見られなかった』とする投稿があるが、2026年11月時点の現況（修理完了の有無）は本調査では確認できなかった。",
+      "target_audience": ["一人旅", "夫婦", "友人", "家族"],
+      "score_breakdown": {
+        "review_rating": 17,
+        "review_reliability": 6,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 9,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 71,
+      "recommendation_reason": "江戸期以来の町家が集積し、国の重要伝統的建造物群保存地区として33年前から保存されている独自性の高い町並みで、散策自体が無料、個々の見学施設も安価という価格対価値は良好。一方で、確認できた数値評価は4travel『今井町並み散歩』の3.32/5（13件）のみで、4.0以上を満たす情報源を独立2件以上確認することができなかった（Googleマップ・Yahoo!マップ等の評価件数はネットワーク制約により本調査では取得できず、観光ガイド系サイトに3.18/5・3.77/5という2つの異なる数値の掲載が見られたが、いずれもクチコミ件数が明示されておらずscore_breakdownの根拠としては採用しなかった）。総合スコアは71点で採用ライン（75点）にも届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "4travelの個別投稿では『静かで観光客も少なく、奈良県内の穴場観光スポットと言える』という好意的な声があったが、集計評価自体は3.32（13件）とやや低い。別の口コミでは『見どころが少ない』という指摘や、地区の中核施設である称念寺本堂が修復工事中で外観を十分見られなかったという投稿（2018年頃）もあった。町並み自体の営業継続性・安全性に関わる重大な懸念は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "今井町並み散歩 クチコミ（全13件、評価3.32/5） - 4travel", "url": "https://4travel.jp/dm_shisetsu/11378314" },
+        { "type": "other", "title": "重要伝統的建造物群保存地区：奈良県橿原市今井町 概要資料 - 文化庁", "url": "https://www.bunka.go.jp/seisaku/bunkazai/shokai/hozonchiku/pdf/94428201_73.pdf" },
+        { "type": "official", "title": "今井町なら町並み案内図（公開施設一覧） - 橿原市公式サイト", "url": "https://www.city.kashihara.nara.jp/material/files/group/22/imaityouyagityouannaizu2.pdf" },
+        { "type": "other", "title": "奈良 今井町 ご案内（アクセス・見どころ） - ANA Japan Travel Planner", "url": "https://www.ana.co.jp/ja/jp/japan-travel-planner/nara/0000005.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア71点で採用ライン（75点）に届かず、確認できた唯一の数値評価（4travel 3.32/5・13件）も4.0未満だったため見送った。独立した2つ目の数値評価（Googleマップ・Yahoo!マップ等）は本調査のネットワーク制約により確認できなかった。国指定の保存地区として知名度・資料の豊富さは十分にあり『知られていないから弱い』わけではないため、穴場（Hidden Gem）救済規定の適用対象とは判断しなかった。"
+    },
+    {
+      "id": "2026-11-01-imanishike-jutaku",
+      "name": "重要文化財 今西家住宅",
+      "region": "奈良県橿原市今井町3丁目（今井町保存地区内）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "4travel（施設ページ集計評価）",
+          "score": 3.4,
+          "scale": 5,
+          "review_count": 39,
+          "checked_date": "2026-11-01",
+          "url": "https://4travel.jp/dm_shisetsu/10006981"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "見学料 大人500円・中学生以下250円・団体（10名以上）400円。見学時間は午前10時〜正午、午後1時〜午後5時（最終入館16時30分）、前日までの事前予約が必要で月曜休館（祝日の場合は翌平日）という公式サイト掲載情報を確認した。",
+        "as_of_search_date": "2026-11-01",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "慶安3年（1650年）に再建された、今井町の自治を担った名家・今西家の邸宅。『八ツ棟造り』と呼ばれる城郭のような重厚な外観を持ち、邸内には自治機能を担った名残である白洲（取り調べ・裁定の場）やいぶし牢まで残る、全国的にも珍しい町家建築。事前予約制で内部まで見学できる点が独自性として高い。",
+      "renewal_or_news": "公益財団法人十市県主今西家保存会が保存・公開活用を行っているが、2026年時点での改修・新規公開情報はこのサイクルの検索範囲では確認できなかった。",
+      "target_audience": ["一人旅", "夫婦", "友人", "家族"],
+      "score_breakdown": {
+        "review_rating": 17,
+        "review_reliability": 8,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 68,
+      "recommendation_reason": "慶安3年再建という歴史的な建築年代の明確さ、白洲・いぶし牢を備えた城郭のような八ツ棟造りという独自性の高い建築的価値が強み。事前予約制で内部まで見学できる点もユニーク。しかし確認できた数値評価は4travelの3.4/5（39件）のみで、原則が求める独立2情報源での4.0以上を満たせず、総合スコアも68点にとどまった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "4travelの口コミでは城郭のような外観や白洲・いぶし牢といった珍しい内部設備を評価する声が中心で、明確な低評価・苦情は確認されなかった。ただし評価の根拠は単一の情報源（4travel、39件）にとどまり、Googleマップ等の独立した2つ目の評価件数は本調査のネットワーク制約により確認できなかったため、信頼性は保守的に採点した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "今西家住宅 クチコミ・アクセス・周辺情報（全39件、評価3.4/5） - 4travel", "url": "https://4travel.jp/dm_shisetsu/10006981" },
+        { "type": "official", "title": "今西家 アクセス・見学案内・料金 - 公益財団法人十市県主今西家保存会公式サイト", "url": "https://www.imanishike.or.jp/アクセス-access-見学days-of-openi액세스-관광지도-견학-요금ng-交通方式-旅游地图-旅游费用/" },
+        { "type": "other", "title": "今西家住宅に関する調査報告資料 - 奈良文化財研究所（全国遺跡報告総覧）", "url": "https://sitereports.nabunken.go.jp/ja/article/9010/pdf_page" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア68点で採用ライン（75点）に届かず、唯一確認できた数値評価（4travel 3.4/5・39件）も4.0未満だったため見送った。建築的・歴史的価値は高く、次サイクル以降にGoogleマップ等での追加評価確認ができれば再検討の余地がある。"
+    },
+    {
+      "id": "2026-11-01-imai-machiyakan",
+      "name": "今井まちや館",
+      "region": "奈良県橿原市今井町（今井町保存地区内）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "4travel（施設ページ集計評価）",
+          "score": 3.34,
+          "scale": 5,
+          "review_count": 21,
+          "checked_date": "2026-11-01",
+          "url": "https://4travel.jp/dm_shisetsu/10015135"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "入館無料。",
+        "as_of_search_date": "2026-11-01",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "18世紀初頭の町家を復元・公開している無料施設で、町並み散策の入口として、室内に実際に上がって土間や町家ならではの生活の工夫を見学できる。橿原市の資料では空き家活用の事例としても紹介されている。",
+      "renewal_or_news": "2026年時点での改修・リニューアル情報はこのサイクルの検索範囲では確認できなかった。",
+      "target_audience": ["一人旅", "家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 17,
+        "review_reliability": 6,
+        "unique_experience_score": 13,
+        "photogenic": 10,
+        "value_for_price": 9,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 61,
+      "recommendation_reason": "無料で町家の内部に実際に上がって見学できる点は価格対価値が高く、町並み散策の導入として使いやすい。一方で独自体験としての規模は小さく、確認できた数値評価（4travel 3.34/5・21件）も4.0未満で、総合スコアは61点と他の候補よりも低かった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できた4travelの個別口コミ（2016〜2017年頃の投稿）では『無料で町家内部に上がれる』『スタッフの対応が良い』といった4.0〜4.5相当の好意的な内容が中心だったが、投稿時期が古く、集計評価自体は3.34（21件）とやや低い。重大な懸念は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "今井まちや館 クチコミ・アクセス・周辺情報（全21件、評価3.34/5） - 4travel", "url": "https://4travel.jp/dm_shisetsu/10015135" },
+        { "type": "other", "title": "橿原市今井町地区における空き家活用事例（今井まちや館ほか） - 国土交通省", "url": "https://www.mlit.go.jp/crd/city/mint/pdf/108kashihara.pdf" },
+        { "type": "official", "title": "今井町なら町並み案内図（今井まちや館含む公開施設一覧） - 橿原市公式サイト", "url": "https://www.city.kashihara.nara.jp/material/files/group/22/imaityouyagityouannaizu2.pdf" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア61点で採用ライン（75点）に届かず、数値評価（4travel 3.34/5・21件）も4.0未満だったため見送った。"
+    }
+  ],
+  "cycle_result": "該当なし。奈良県橿原市今井町（重要伝統的建造物群保存地区）の文化体験カテゴリでは、採用ライン（75点・主要レビュー4.0以上・独立2情報源）を満たす候補が見つからなかった。構造化データとして記録した今井町（町並み全体、71点）・今西家住宅（68点）・今井まちや館（61点）はいずれも総合スコアが75点未満で、かつ確認できた数値評価（いずれも4travelの単一情報源、3.32〜3.4/5）も採用ライン（4.0以上）を満たさなかった。\n\nGoogleマップ・Yahoo!マップ等での独立した2つ目の数値評価は、本調査のWebSearch経由の確認範囲（4travel.jp・gltjp.com等へのWebFetchがこのセッションのネットワーク制約で接続不能だったため、検索結果スニペット経由の確認に限られた）では取得できなかった。観光ガイド系サイト（gltjp.com）には今井町そのものについて3.18/5・3.77/5という2つの異なる数値の掲載が見られたが、いずれもクチコミ件数が明示されておらず、推測で件数を補うことは避け、正式なreview_scoresには採用しなかった。\n\n今井町は国指定の重要伝統的建造物群保存地区として知名度・資料の豊富さが十分にあり、原則6のHidden Gem救済規定（知られていないことを前提とした規定）の適用対象とは判断しなかった。いずれの候補も選定（selected）に至らなかったため、creator_story（設計者・運営者の思い）の調査は本サイクルでは実施していない。\n\n次サイクル以降、Googleマップ・Yahoo!マップ等への直接アクセスが可能な環境、または橿原市観光協会・今西家保存会への直接確認ができれば、独立2情報源での4.0以上の評価が確認でき、再評価の余地がある。また称念寺本堂（重要文化財）の現在の公開・修復状況、河合家住宅（造り酒屋）の見学可否についても、次サイクルでの追加確認を推奨する。"
+}

@@ -1,0 +1,121 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Candidate",
+  "description": "投稿候補として調査した施設・体験1件分のデータ構造（docs/operating-principles.md 5〜10章準拠）",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "region",
+    "category",
+    "review_scores",
+    "price_range_jpy",
+    "unique_experience",
+    "target_audience",
+    "score",
+    "score_breakdown",
+    "recommendation_reason",
+    "sources",
+    "negative_review_check",
+    "decision"
+  ],
+  "properties": {
+    "id": { "type": "string", "description": "例: 2026-09-14-hotel-gyokusen" },
+    "name": { "type": "string" },
+    "region": { "type": "string", "description": "都道府県・エリア" },
+    "category": {
+      "type": "string",
+      "enum": [
+        "温泉旅館", "絶景ホテル", "グルメ旅館", "離島リゾート", "グランピング",
+        "オールインクルーシブ", "列車・船", "サウナ", "文化体験", "アクティビティ", "その他"
+      ]
+    },
+    "is_hidden_gem": { "type": "boolean", "default": false },
+    "review_scores": {
+      "type": "array",
+      "description": "情報源ごとの評価点・件数（原則7: 最低2件以上の独立情報源）",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["source", "score", "review_count", "checked_date"],
+        "properties": {
+          "source": { "type": "string" },
+          "score": { "type": "number" },
+          "scale": { "type": "number", "default": 5 },
+          "review_count": { "type": "integer" },
+          "checked_date": { "type": "string", "format": "date" },
+          "url": { "type": "string" }
+        }
+      }
+    },
+    "price_range_jpy": {
+      "type": "object",
+      "properties": {
+        "note": { "type": "string" },
+        "as_of_search_date": { "type": "string", "format": "date" },
+        "disclaimer": {
+          "type": "string",
+          "default": "価格は検索日・対象日・プランにより変動する"
+        }
+      }
+    },
+    "unique_experience": { "type": "string" },
+    "renewal_or_news": { "type": "string", "description": "原則4: 最新性の根拠（リニューアル・新プラン等）" },
+    "target_audience": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "カップル", "記念日", "夫婦", "女子旅", "家族", "友人", "一人旅",
+          "温泉好き", "ホテル好き", "グルメ旅", "絶景好き"
+        ]
+      }
+    },
+    "score_breakdown": {
+      "type": "object",
+      "required": [
+        "review_rating", "review_reliability", "unique_experience_score",
+        "photogenic", "value_for_price", "sns_buzz", "access_and_freshness"
+      ],
+      "properties": {
+        "review_rating": { "type": "number", "maximum": 25 },
+        "review_reliability": { "type": "number", "maximum": 15 },
+        "unique_experience_score": { "type": "number", "maximum": 20 },
+        "photogenic": { "type": "number", "maximum": 15 },
+        "value_for_price": { "type": "number", "maximum": 10 },
+        "sns_buzz": { "type": "number", "maximum": 10 },
+        "access_and_freshness": { "type": "number", "maximum": 5 }
+      }
+    },
+    "score": { "type": "number", "maximum": 100, "description": "score_breakdownの合計" },
+    "recommendation_reason": { "type": "string" },
+    "negative_review_check": {
+      "type": "object",
+      "required": ["checked", "findings", "disqualifying_issues_found"],
+      "properties": {
+        "checked": { "type": "boolean" },
+        "findings": { "type": "string" },
+        "disqualifying_issues_found": { "type": "boolean" }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 2,
+      "items": {
+        "type": "object",
+        "required": ["type", "title", "url"],
+        "properties": {
+          "type": {
+            "enum": ["official", "booking_site", "review_site", "sns", "press", "other"]
+          },
+          "title": { "type": "string" },
+          "url": { "type": "string" }
+        }
+      }
+    },
+    "decision": {
+      "type": "string",
+      "enum": ["selected", "shortlisted", "rejected"]
+    },
+    "rejection_reason": { "type": "string" }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "cycle_date": "2026-09-20",
+  "theme": "宮城県仙台市・秋保温泉エリアの温泉旅館",
+  "season_rationale": "仙台の奥座敷と呼ばれる秋保温泉は、10月中旬以降に紅葉が本格化するエリア。9月下旬は残暑が落ち着き始め、紅葉シーズン本番前の予約検討が始まるタイミングに適する（原則30）。東北地方はこのリポジトリで初めて扱う地域であり、地域の多様化にも資する。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-18-yufuin-onsen", "region": "大分県由布市（湯布院）", "category": "温泉旅館" },
+    { "post_id": "2026-09-18-gunma-sauna", "region": "群馬県吾妻郡中之条町（四万温泉）", "category": "サウナ" },
+    { "post_id": "2026-09-18-kinosaki-gourmet", "region": "兵庫県豊岡市城崎温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-09-18-shima-view-hotel", "region": "三重県志摩市（賢島）", "category": "絶景ホテル" },
+    { "post_id": "2026-09-18-miyakojima-island", "region": "沖縄県宮古島市", "category": "離島リゾート" },
+    { "post_id": "2026-09-18-fujinomiya-glamping", "region": "静岡県富士宮市", "category": "グランピング" },
+    { "post_id": "2026-09-18-all-inclusive-hokkaido", "region": "北海道勇払郡占冠村（トマム）", "category": "オールインクルーシブ" },
+    { "post_id": "2026-09-18-kyushu-train", "region": "福岡県福岡市〜大分県由布市・別府市", "category": "列車・船" },
+    { "post_id": "2026-09-18-karuizawa-sauna", "region": "長野県北佐久郡軽井沢町", "category": "サウナ" }
+  ],
+  "duplication_note": "宮城県・秋保温泉は既存のdata/candidates・captionsに一度も登場しておらず、東北地方自体が本サイクルで初出（原則29）。温泉旅館カテゴリは由布院（大分）で直近使用済みだが、地域が全く異なるため重複の懸念はない。",
+  "candidates": [
+    {
+      "id": "2026-09-20-akiu-rantei",
+      "name": "奥州秋保温泉 蘭亭",
+      "region": "宮城県仙台市太白区秋保町（秋保温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.12, "scale": 5, "review_count": 1574, "checked_date": "2026-09-20", "url": "https://travel.rakuten.co.jp/HOTEL/9295/review.html" },
+        { "source": "一休.com", "score": 4.03, "scale": 5, "review_count": 36, "checked_date": "2026-09-20", "url": "https://www.ikyu.com/00030186/review/" },
+        { "source": "Yahoo!トラベル", "score": 4.08, "scale": 5, "review_count": 34, "checked_date": "2026-09-20", "url": "https://travel.yahoo.co.jp/00030186/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "2名1室利用時、税込1名16,000円〜（プランにより1名13,600円〜の表示も確認）。夕食は仙台黒毛和牛・三陸の海の幸を使った全11品の会席料理「曲水膳」、朝食は「おだし」をテーマにした和洋中50種類以上のバイキング。",
+        "as_of_search_date": "2026-09-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "東北では珍しい畳敷きの大浴場を持ち、小さな子どもや高齢者の安全に配慮した造り。屋外の野天風呂には日差し避けの「笠」が配備されるなど細やかな心遣いが特徴。大浴場入口には無料の飲み物サーバー、脱衣所には充実したスキンケア用品を完備。フリーラウンジや「ほぐし処」も評価が高い。",
+      "target_audience": ["夫婦", "家族", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 14,
+        "unique_experience_score": 15,
+        "photogenic": 11,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 76,
+      "recommendation_reason": "楽天トラベル4.12（1,574件）・一休.com4.03（36件）・Yahoo!トラベル4.08（34件）と、性質の異なる3つの独立した情報源すべてで推奨ライン4.0以上を確認できた（原則6・7）。特に清潔感に関する評価が89点（ある集計サイトの内訳）と高く、東北では珍しい畳敷きの大浴場・野天風呂の笠など、細部への心遣いが独自性として際立つ。同エリアの佐勘と比較検討したが、佐勘には複数の独立したレビューで清潔感・臭気に関する具体的な指摘が一致して見られたため、本候補を優先した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "『朝食会場が非常に寒い』という温度管理への指摘が一部確認されたが、これは季節・空調運用の問題であり、清潔感・安全性に関わる重大な指摘ではない。それ以外には『悪い』『残念』『汚い』に該当する具体的なコメントは本セッションの検索範囲では見つからず、脱衣所の清潔さを評価する声が複数確認できた。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "秋保温泉 旅館 蘭亭【公式】", "url": "https://www.akiu-rantei.com/" },
+        { "type": "review_site", "title": "奥州秋保温泉 蘭亭 に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/9295/review.html" },
+        { "type": "review_site", "title": "奥州秋保温泉 蘭亭 - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00030186/review/" },
+        { "type": "review_site", "title": "奥州秋保温泉 蘭亭 - クチコミ・評判 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00030186/review/" },
+        { "type": "other", "title": "【秋保温泉の人気ホテル】「奥州秋保温泉 蘭亭」は充実のフリーラウンジと朝食バイキングが魅力 - All About ニュース", "url": "https://news.allabout.co.jp/articles/o/120975/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-20-akiu-sakan",
+      "name": "伝承千年の宿 佐勘",
+      "region": "宮城県仙台市太白区秋保町（秋保温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.47, "scale": 5, "review_count": 2011, "checked_date": "2026-09-20", "url": "https://travel.rakuten.co.jp/HOTEL/63615/review.html" },
+        { "source": "一休.com", "score": 4.27, "scale": 5, "review_count": 177, "checked_date": "2026-09-20", "url": "https://www.ikyu.com/00000598/review/" },
+        { "source": "ニフティ温泉", "score": 3.3, "scale": 5, "review_count": 32, "checked_date": "2026-09-20", "url": "https://onsen.nifty.com/akiu-onsen/onsen000523/kuchikomi/" }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な価格帯を確認できなかった。",
+        "as_of_search_date": "2026-09-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "創業1655年、仙台藩主・伊達家ゆかりの歴史を持つ老舗旅館。伝統を守りながら新しさも取り入れており、ハーフバイキング形式の夕食・アルコール飲み放題、複数の風呂・サウナが評価されている。",
+      "target_audience": ["夫婦", "記念日", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 13,
+        "unique_experience_score": 16,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 77,
+      "recommendation_reason": "楽天トラベル4.47（2,011件）・一休.com4.27（177件）という大規模かつ高評価な情報源があり、総合スコアは3候補中最も高い。しかし、ニフティ温泉（32件・3.3）で『随所に目立つ埃』という清潔感への具体的な指摘があり、別の情報源でも『強い下水臭』『貸切風呂の清掃』『部屋の匂い』という、性質の異なる複数の独立したレビューで清潔感・臭気に関する一致した指摘が確認された。原則10（ネガティブレビュー分析）に基づき、スコアが高くてもこの点を理由に不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "複数の独立したレビュー（ニフティ温泉、他の口コミサイト）で、『随所に目立つ埃』『強い下水臭』『貸切風呂の清掃』『部屋の匂い』といった、清潔感・衛生面に関する一致した指摘が確認された。また『チェックイン時の説明が間違っていた』『スタッフによって説明が異なる』という接客の一貫性への指摘、『旅館全体がやや古い』という設備老朽化への言及もあった。単発の感想ではなく複数情報源で同種の指摘が重なっている点を重く見て、disqualifying issueと判断した。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "official", "title": "仙台 秋保温泉 伝承千年の宿 佐勘【公式ホームページ】", "url": "https://www.hotel-sakan.com/" },
+        { "type": "review_site", "title": "伝承千年の宿 佐勘 に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/63615/review.html" },
+        { "type": "review_site", "title": "伝承千年の宿 佐勘 - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00000598/review/" },
+        { "type": "review_site", "title": "伝承千年の宿佐勘(秋保)の口コミ情報一覧 - ニフティ温泉", "url": "https://onsen.nifty.com/akiu-onsen/onsen000523/kuchikomi/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコアは3候補中最高だったが、複数の独立したレビューで清潔感・臭気に関する一致した指摘（埃・下水臭・貸切風呂の清掃・部屋の匂い）が確認されたため、原則10に基づき不採用とした。"
+    },
+    {
+      "id": "2026-09-20-taoya-akiu",
+      "name": "TAOYA秋保",
+      "region": "宮城県仙台市太白区秋保町（秋保温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "ゆこゆこ", "score": 4.44, "scale": 5, "review_count": 159, "checked_date": "2026-09-20", "url": "https://www.yukoyuko.net/2798/kuchikomi" }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な価格帯を確認できなかった。",
+        "as_of_search_date": "2026-09-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "大江戸温泉物語グループのプレミアムブランドで、食事・ドリンクを含むオールインクルーシブ型のプランを提供する温泉旅館。",
+      "target_audience": ["家族", "夫婦", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 6,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 65,
+      "recommendation_reason": "ゆこゆこ4.44（159件）は良好だが、このセッションでは性質の異なる2件目の独立した数値情報源（楽天トラベル・一休.com等）を確認できず、原則7の要件を満たせなかった（JTBの85点・るるぶ4.2は関連会社の集計である可能性が高く、独立情報源として扱うには根拠が弱いと判断し除外した）。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "独立した2件目の情報源を確認できなかったため、ネガティブレビューの深掘りは今回実施していない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "口コミ・評判 - TAOYA秋保 - ゆこゆこ", "url": "https://www.yukoyuko.net/2798/kuchikomi" },
+        { "type": "review_site", "title": "TAOYA秋保 口コミ・おすすめコメント＜秋保温泉＞ - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/2417021/review/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立した2件目の数値評価情報源を確認できず、原則7の採用基準を満たせないため除外した。"
+    }
+  ]
+}

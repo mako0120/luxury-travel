@@ -1,0 +1,139 @@
+{
+  "cycle_date": "2026-10-17",
+  "theme": "愛知県名古屋市のホテル期間限定アフタヌーンティー／クリスマスディナー・ブッフェ企画",
+  "season_rationale": "10月中旬〜12月はホテル各社が秋限定アフタヌーンティーからクリスマスディナー・ホリデーブッフェへ切り替わる時期で、『期間限定』の訴求力が最も高い季節（原則30）。カテゴリ『その他』（期間限定グルメ企画）は直近サイクルでは未使用（2026-10-16は絶景ホテル／箱根、2026-10-17は離島リゾート／石垣島）で、地域（愛知県名古屋市）もこれまでのサイクルで一度も登場しておらず、地域・カテゴリとも重複の懸念はない（原則29）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-ana-intercontinental-ishigaki", "region": "沖縄県石垣市真栄里（マエサトビーチ）", "category": "離島リゾート" },
+    { "post_id": "2026-10-16-kai-sengokuhara", "region": "神奈川県足柄下郡箱根町仙石原", "category": "絶景ホテル" },
+    { "post_id": "2026-09-22-mandarin-oriental-turner-tea", "region": "東京都中央区日本橋室町", "category": "その他" }
+  ],
+  "duplication_note": "カテゴリ『その他』（期間限定アフタヌーンティー等のグルメ企画）は2026-09-22のマンダリン オリエンタル東京『ターナー展アフタヌーンティー』以来で、直近2サイクル（箱根・石垣島）とはカテゴリが異なる。地域（愛知県名古屋市）はdata/candidates・captions・postsのいずれにも過去の登場実績がなく、重複なし。",
+  "candidates": [
+    {
+      "id": "2026-10-17-strings-hotel-nagoya-holiday-buffet",
+      "name": "ストリングスホテル名古屋「クリスマス＆いちごのホリデーブッフェ」（シェフズ ライブ キッチン）",
+      "region": "愛知県名古屋市中村区（名古屋駅エリア）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.2, "scale": 5, "review_count": 609, "checked_date": "2026-10-17", "url": "https://www.jalan.net/yad356955/" },
+        { "source": "jcation", "score": 4.4, "scale": 5, "review_count": 1000, "checked_date": "2026-10-17", "url": "https://jcation.com/hotel/detail-3873/" },
+        { "source": "フォートラベル", "score": 3.38, "scale": 5, "review_count": 37, "checked_date": "2026-10-17", "url": "https://4travel.jp/dm_hotel-11558171" }
+      ],
+      "price_range_jpy": {
+        "note": "本企画『クリスマス＆いちごのホリデーブッフェ』自体の正確な料金はこのセッションのWebSearchでは確認できなかった。参考として、同会場・同時期に並行開催される『いちごのスイーツブッフェ〜ホリデー・コレクション〜』（2026年12月3日〜2027年1月11日、木金土日祝限定）は大人平日4,300円〜／土日祝4,800円〜（特定日はさらに高め）とされている。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "名古屋駅エリアのストリングスホテル名古屋2階『シェフズ ライブ キッチン』にて、2026年12月1日(火)〜12月27日(日)の期間限定で『クリスマス＆いちごのホリデーブッフェ』を開催。ローストターキーやトリュフ香るチーズリゾットに加え、いちごを使ったスイーツが並ぶ。12月18日(金・ディナー)〜20日(日)・24日(木)・25日(金)の5日間はクリスマス限定スペシャルメニュー（トリュフ香る牛フィレ肉とフォアグラのポワレ等）が追加される。さらに同会場では12月3日〜翌1月11日（木金土日祝限定）に『いちごのスイーツブッフェ〜ホリデー・コレクション〜』も並行開催され、推しカラーなど好みで作れるミニパフェの体験コーナーが設けられる点が独自性として強い。",
+      "renewal_or_news": "ゼクシィ掲載情報に『2026年2月リニューアルオープン』との記述があったが、このセッションのWebSearchでは公式リリースで直接確認できなかったため参考情報として記載する。",
+      "target_audience": ["カップル", "記念日", "女子旅", "ホテル好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 13,
+        "unique_experience_score": 16,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 82,
+      "recommendation_reason": "じゃらんnet 4.2点（609件）、jcation 4.4点（1,000件）と、性質の異なる2つの独立した情報源でいずれも十分な件数のもと4.0以上の高評価を確認できた（原則6・7）。フォートラベルは3.38点（37件）とやや低いが件数が小さく、他2サイトと傾向が一致していない点は留意事項として記録する。ローストターキー・トリュフチーズリゾットなどクリスマスらしい本格メニューに加え、『推しカラーのミニパフェを自分で作る』体験コーナーという参加型の仕掛けがあり、写真映えと保存意欲の両方を狙える企画。名古屋駅エリアというアクセスの良さも強み。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミ（37件、満足度3.38）では『夜間チェックイン時のロビー対応がやや冷たく感じた』『客室がやや狭め』という指摘があった。『とても悪い』は1件、『悪い』は0件で、清潔感に関する具体的な不満は見当たらなかった。いずれも重大な欠陥とは言えず、じゃらんnet・jcationの大規模な口コミ（609件・1,000件）では高評価が安定している。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "ストリングスホテル名古屋「クリスマス＆いちごのホリデーブッフェ」開催 - san-tatsu.jp", "url": "https://san-tatsu.jp/pressrelease/560267/" },
+        { "type": "press", "title": "ストリングスホテル名古屋「いちごのスイーツブッフェ〜ホリデー・コレクション〜」 - san-tatsu.jp", "url": "https://san-tatsu.jp/pressrelease/560269/" },
+        { "type": "other", "title": "クリスマス＆いちごのホリデーブッフェ - いこレポ（report.iko-yo.net）", "url": "https://report.iko-yo.net/articles/34283" },
+        { "type": "other", "title": "いちごのスイーツブッフェ〜ホリデー・コレクション〜 - いこレポ（report.iko-yo.net）", "url": "https://report.iko-yo.net/articles/34284" },
+        { "type": "booking_site", "title": "ストリングスホテル名古屋 - じゃらんnet", "url": "https://www.jalan.net/yad356955/" },
+        { "type": "review_site", "title": "ストリングスホテル 名古屋 - jcation", "url": "https://jcation.com/hotel/detail-3873/" },
+        { "type": "review_site", "title": "ストリングスホテル 名古屋 - フォートラベル", "url": "https://4travel.jp/dm_hotel-11558171" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-17-mitsui-garden-nagoya-afternoontea",
+      "name": "三井ガーデンホテル名古屋プレミア「The Living Room with SKY BAR」秋限定アフタヌーンティー（栗×かぼちゃ×キャラメル）",
+      "region": "愛知県名古屋市中村区（JR名古屋駅直結）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.56, "scale": 5, "review_count": 62, "checked_date": "2026-10-17", "url": "https://4travel.jp/dm_hotel-11601956" }
+      ],
+      "price_range_jpy": {
+        "note": "平日4,700円／土日祝5,000円（税・サービス料込）。スイーツ10種・スコーン1種・セイボリー5種・ウェルカムドリンク付き。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "三井ガーデンホテル名古屋プレミア18階『The Living Room with SKY BAR』にて、栗・かぼちゃ・キャラメルを使った秋限定アフタヌーンティーを2026年9月1日(火)〜11月30日(月)の期間限定で提供（提供時間14:00〜16:30）。高層階からの眺望と組み合わせた秋の味覚企画。",
+      "target_audience": ["カップル", "女子旅", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 17,
+        "review_reliability": 9,
+        "unique_experience_score": 13,
+        "photogenic": 11,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 67,
+      "recommendation_reason": "JR名古屋駅直結で高層階からの眺望は魅力だが、レビュー評価はフォートラベル3.56点（62件）・るるぶ3.5点・JTBアンケート84点(100点満点)と軒並み4.0未満〜ボーダーラインで推移しており、Yahoo!トラベルの4.23点以外に4.0以上を確認できた独立ソースがなく、口コミ件数付きで裏取りできる4.0以上の情報源を確保できなかった（原則6・7）。メニュー内容自体も栗・かぼちゃ・キャラメルという一般的な秋アフタヌーンティーの範囲で、他施設との差別化がやや弱い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミではコストパフォーマンスへの指摘が複数見られ、項目別評価でもコストパフォーマンスが他項目より低い（3.51前後）。外国人観光客の多さに触れた口コミも1件あった。重大な欠陥ではないが、評価全体を押し下げる要因になっている。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "名古屋「The Living Room with SKY BAR」秋の恵み【栗×かぼちゃ×キャラメル】のアフタヌーンティー - zaikei.co.jp", "url": "https://zaikei.co.jp/releases/3556374/" },
+        { "type": "review_site", "title": "三井ガーデンホテル名古屋プレミア - フォートラベル", "url": "https://4travel.jp/dm_hotel-11601956" },
+        { "type": "booking_site", "title": "三井ガーデンホテル名古屋プレミア - じゃらんnet", "url": "https://www.jalan.net/yad328255/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数付きで裏取りできる独立ソースが4.0以上に届かず（原則6・7）、総合スコアも67点で75点の採用ラインに届かないため見送った。"
+    },
+    {
+      "id": "2026-10-17-nagoya-prince-skytower-xmas",
+      "name": "名古屋プリンスホテル スカイタワー「Sky Noël」クリスマスディナーブッフェ＆アフタヌーンティー",
+      "region": "愛知県名古屋市中村区（名古屋駅エリア）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.47, "scale": 5, "review_count": 54, "checked_date": "2026-10-17", "url": "https://4travel.jp/dm_hotel-11676971" }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では『クリスマスディナーブッフェ ～Sky Noël～』およびクリスマスアフタヌーンティーの正確な料金を確認できなかった。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "地上32〜36階に全客室を構える名古屋プリンスホテル スカイタワー31階『Sky Dining 天空』にて、『クリスマスディナーブッフェ ～Sky Noël～』（2026年11月6日(金)〜12月27日(日)、メインディッシュ4種から選択・提供は12月11日〜27日）と、同期間のクリスマスアフタヌーンティーを提供。高層階からの名古屋の夜景を活かした企画。",
+      "target_audience": ["カップル", "記念日", "家族"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 8,
+        "unique_experience_score": 14,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 65,
+      "recommendation_reason": "32〜36階という高層階からの夜景は独自の強みだが、フォートラベル3.47点（54件）・るるぶ総合3.6点と、確認できたレビューサイトはいずれも4.0未満で、原則6（主要レビューサイト評価4.0以上）を満たす独立ソースを確保できなかった。Agoda・Trip.com等の海外OTA集計では9点台（10点満点）の高評価も見られたが、集計方法・レビュー層が異なる海外OTAのみでは『主要レビューサイト』の裏取りとして不十分と判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミで『築年数のわりに部屋の傷みがある』（評価3.0）、客室トイレの清掃状態への不満、食事のコストパフォーマンスへの不満、線路の分岐点に近く高層階でも電車の音が聞こえるとの指摘があった。複数の異なる観点（設備老朽化・清潔感・価格）で指摘が重なっており、原則10の確認対象として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "名古屋プリンスホテル スカイタワー クリスマスディナーブッフェ ～Sky Noël～ - princehotels.co.jp", "url": "https://www.princehotels.co.jp/press/260902_04" },
+        { "type": "review_site", "title": "名古屋プリンスホテル スカイタワー - フォートラベル", "url": "https://4travel.jp/dm_hotel-11676971" },
+        { "type": "booking_site", "title": "名古屋プリンスホテル スカイタワー - じゃらんnet", "url": "https://www.jalan.net/yad329551/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "確認できた主要レビューサイトがいずれも4.0未満で原則6を満たせず、総合スコアも65点で採用ライン（75点）に届かないため見送った。"
+    }
+  ]
+}

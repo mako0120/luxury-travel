@@ -1,0 +1,230 @@
+{
+  "cycle_date": "2026-10-17",
+  "theme": "新潟県新発田市月岡温泉のサウナ施設",
+  "season_rationale": "10月中旬の新潟・月岡温泉は朝晩の気温が下がり始め、ロウリュ・外気浴で『ととのう』のに適した季節に入る（原則30: 秋は紅葉・温泉）。カテゴリ『サウナ』は同日に別地域（福島県いわき湯本温泉）で先に調査したが該当なしとなったため、同カテゴリのまま地域を新潟県新発田市月岡温泉に変更して再調査した。月岡温泉自体はこれまでの候補・投稿データに一度も登場していない新規エリアであり、直近の実際の選定投稿（長崎・軍艦島クルーズ＝列車・船、松江・宍道湖畔＝文化体験）とは地域・カテゴリとも重複しない（原則29）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-gunkanjima-cruise", "region": "長崎県長崎市（長崎港発、端島＝軍艦島）", "category": "列車・船" },
+    { "post_id": "2026-10-17-minamikan", "region": "島根県松江市末次本町（宍道湖畔）", "category": "文化体験" },
+    { "post_id": "2026-10-17-iwaki-yumoto-sauna（同日・同カテゴリの先行調査、該当なし）", "region": "福島県いわき市常磐湯本町（いわき湯本温泉）", "category": "サウナ" },
+    { "post_id": "2026-09-22-daiichi-hotel-tokachigawa", "region": "北海道河東郡音更町十勝川温泉南", "category": "サウナ" }
+  ],
+  "duplication_note": "直近の実選定投稿（軍艦島クルーズ・松江）とは地域・カテゴリとも重複しない。カテゴリ『サウナ』は同日に福島県いわき湯本温泉で先行調査済みだが該当候補なしだったため、地域を変えて新潟県新発田市月岡温泉で再調査した。月岡温泉は過去の候補・投稿データに一度も登場していない新規地域（原則29）。",
+  "candidates": [
+    {
+      "id": "2026-10-17-kahou-tsukioka",
+      "name": "月岡温泉 白玉の湯 華鳳",
+      "region": "新潟県新発田市月岡温泉（丘の上に立つ全109室の大型旅館。2025年7月25日からJR新潟駅との直行バスも運行）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル（ねとらぼ/ITmedia「人気温泉宿ランキング」記事経由）",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 2058,
+          "checked_date": "2026-10-17",
+          "url": "https://nlab.itmedia.co.jp/research/articles/3194844/"
+        },
+        {
+          "source": "Skyticket",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 734,
+          "checked_date": "2026-10-17",
+          "url": "https://skyticket.jp/hotel/detail/property_14724/"
+        },
+        {
+          "source": "フォートラベル",
+          "score": 3.47,
+          "scale": 5,
+          "review_count": 45,
+          "checked_date": "2026-10-17",
+          "url": "https://4travel.jp/dm_hotel-10055030"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では部屋タイプ別の正確な1泊2食価格帯は確定できなかった。離れ露天風呂・サウナ水風呂付の和洋室など複数の部屋タイプがあり、プラン・時期により価格帯に幅がある。参考として、同系列の別邸『越の里』は宿泊サイト上で1泊1名あたり約48,100円という表示が確認できた（本館とは別施設のため参考情報）。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "大浴場には男性100℃・女性110℃のドライサウナ（6〜8名収容、約5分毎のオートロウリュ、チラー付き水風呂11〜13℃・水深40〜60cm、屋外休憩スペースあり）を備える。さらに9階には客室内に専用サウナ・露天風呂が付いた部屋タイプがあり、宿泊者のサ活記録では『人の目を気にせず部屋とサウナを気軽に行き来できる』『チェックインからチェックアウトまで何度もサウナに入った』と紹介されている。回遊式の露天風呂群、エメラルドグリーンに澄む自家源泉の硫黄泉、6000坪の庭園も特徴。",
+      "renewal_or_news": "2025年7月25日よりJR新潟駅からの直行バスが新設され、首都圏からのアクセスが向上した。",
+      "target_audience": ["温泉好き", "ホテル好き", "夫婦", "記念日", "カップル"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 13,
+        "unique_experience_score": 19,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 84,
+      "recommendation_reason": "大浴場の本格サウナ（オートロウリュ・チラー付き水風呂・外気浴）と、9階の客室専用サウナという2段構えのサウナ体験を持つのが最大の独自性。楽天トラベル4.5（2,058件）・Skyticket4.6（734件）という大規模サンプルでいずれも高評価であり、サウナ専門サイトでもイキタイ103・サ活202件と一定の話題性が確認できた。エメラルドグリーンの自家源泉と6000坪庭園という『少し贅沢な旅』らしい舞台設定も揃っている。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルでは45件中満足度3.47（風呂4.56・部屋4.50・接客4.30は高いが、アクセス評価が3.47と伸びず全体を押し下げている）と、楽天トラベル4.5（2,058件）・Skyticket4.6（734件）という大規模サンプルより低めの声もあった。Yahoo!トラベルのカテゴリ別評価でも食事が4.47と他カテゴリ（4.69〜4.82）よりやや低い。いずれも清潔感・安全面に関わる重大な指摘ではないと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "白玉の湯 華鳳のご紹介（近畿日本ツーリスト）", "url": "https://yado.knt.co.jp/st/S150010/" },
+        { "type": "review_site", "title": "白玉の湯 華鳳 の口コミ・評判 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10055030" },
+        { "type": "review_site", "title": "白玉の湯 華鳳 - Skyticket ホテル詳細", "url": "https://skyticket.jp/hotel/detail/property_14724/" },
+        { "type": "other", "title": "楽天トラベルクチコミに基づく人気温泉宿ランキング - ねとらぼ(ITmedia)", "url": "https://nlab.itmedia.co.jp/research/articles/3194844/" },
+        { "type": "other", "title": "白玉の湯 華鳳 - サウナイキタイ（施設詳細・温度・水風呂情報）", "url": "https://sauna-ikitai.com/saunas/718" },
+        { "type": "other", "title": "【新潟県の人気ホテル】「月岡温泉 白玉の湯 華鳳」はエメラルドグリーンの名湯と広大な庭園が自慢の贅沢宿 - All About", "url": "https://news.allabout.co.jp/articles/o/113952/" },
+        { "type": "review_site", "title": "白玉の湯 華鳳 宿泊者口コミ（9階サウナ付き客室の体験談含む） - cocolocala", "url": "https://www.cocolocala.jp/hotels/8848" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-17-senkei-tsukioka",
+      "name": "月岡温泉 白玉の湯 泉慶",
+      "region": "新潟県新発田市月岡温泉（客室104室）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル（まっぷる経由）",
+          "score": 4.74,
+          "scale": 5,
+          "review_count": 1777,
+          "checked_date": "2026-10-17",
+          "url": "https://www.mapple.net/pref/15206/hotel/"
+        },
+        {
+          "source": "Skyticket",
+          "score": 4.8,
+          "scale": 5,
+          "review_count": 1156,
+          "checked_date": "2026-10-17",
+          "url": "https://skyticket.jp/hotel/detail/property_12050/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では部屋タイプ別の正確な1泊2食価格帯は確定できなかった。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "日本海側随一の広さを誇る大浴場と、エメラルドグリーンに澄む自家源泉の露天風呂があり、客室の一部には露天風呂付きの部屋もある。設備一覧には『サウナ』の記載があるが、今回のWeb検索ではサウナ室の温度・ロウリュの有無・水風呂といった具体的な仕様を確認できなかった。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "ホテル好き", "カップル"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 14,
+        "unique_experience_score": 10,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 74,
+      "recommendation_reason": "楽天トラベル4.74（1,777件）・Skyticket4.8（1,156件）という大規模サンプルでいずれも極めて高い評価を得ており、宿自体の満足度は非常に高い。ただしカテゴリ『サウナ』として押すための温度・ロウリュ・水風呂といった具体的なサウナ仕様を今回のWeb検索では確認できず、『ここでしかできない体験』としての訴求力が姉妹館の華鳳に比べて弱いと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ニフティ温泉では4.0（5件）と評価が割れているが件数が少なく参考程度。icottoの個別口コミではバリアフリー2.5・コスパ3.0という低めの項目評価もあったが、清潔感・安全面の重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "月岡温泉・新発田 宿一覧 - まっぷるトラベルガイド", "url": "https://www.mapple.net/pref/15206/hotel/" },
+        { "type": "review_site", "title": "白玉の湯 泉慶 - Skyticket ホテル詳細", "url": "https://skyticket.jp/hotel/detail/property_12050/" },
+        { "type": "review_site", "title": "白玉の湯 泉慶 の口コミ・評判 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10039431" },
+        { "type": "other", "title": "月岡温泉 白玉の湯 泉慶 宿泊口コミ - icotto", "url": "https://icotto.jp/hotels/3502" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア74点で採用ライン（75点）にわずかに届かず、サウナの具体的な仕様（温度・ロウリュ・水風呂）を確認できなかったため『サウナ』カテゴリでの独自体験訴求が弱いと判断し見送った。"
+    },
+    {
+      "id": "2026-10-17-furinya-tsukioka",
+      "name": "月岡温泉 風鈴屋",
+      "region": "新潟県新発田市月岡温泉",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Skyticket",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 257,
+          "checked_date": "2026-10-17",
+          "url": "https://skyticket.jp/hotel/detail/property_400202/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な1泊2食価格帯は確定できなかった。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "大浴場『三四郎の湯・乙美の湯』にサウナを備え、5時から24時まで利用可能。ただし大浴場の一つ『乳白の湯』は温泉ではなく入浴剤で白濁させたお湯である点が紹介ページに明記されている。",
+      "target_audience": ["夫婦", "温泉好き", "カップル"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 7,
+        "unique_experience_score": 8,
+        "photogenic": 8,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 50,
+      "recommendation_reason": "自家源泉の大浴場やサウナは評価されているが、口コミでは接客対応が3.0と低めで、浴槽の一つが入浴剤による白濁湯である点も独自性・信頼性の観点でマイナス。サウナ自体の温度やロウリュ等の詳細も確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icottoの宿泊口コミで接客対応3.0・食事3.0という低めの評価があった。また、大浴場の一つが温泉ではなく入浴剤使用である点は、温泉旅館として訴求する上で誤解を招きかねない。清潔感・安全面の重大な指摘は確認できなかったが、接客評価の低さと湯の性質の説明不足が選定を見送る材料となった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "月岡温泉 風鈴屋 - Skyticket ホテル詳細", "url": "https://skyticket.jp/hotel/detail/property_400202/" },
+        { "type": "other", "title": "月岡温泉 風鈴屋 宿泊口コミ - icotto", "url": "https://icotto.jp/hotels/7574" },
+        { "type": "booking_site", "title": "月岡温泉 風鈴屋のご紹介（近畿日本ツーリスト）", "url": "https://yado.knt.co.jp/st/S150013/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア50点で採用ライン（75点）を大きく下回り、主要レビュー評価も4.0（257件）とライン上ながら接客評価の低さ・湯の性質に関する説明不足が重なったため見送った。"
+    },
+    {
+      "id": "2026-10-17-akebono-tsukioka",
+      "name": "月岡温泉 湯あそび宿 曙",
+      "region": "新潟県新発田市月岡温泉",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "icotto（楽天トラベル系集計）",
+          "score": 3.2,
+          "scale": 5,
+          "review_count": 39,
+          "checked_date": "2026-10-17",
+          "url": "https://icotto.jp/hotels/3504"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な1泊2食価格帯は確定できなかった。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "露天風呂エリアにサウナ（70℃・92℃の2種）があり外気浴スペースもあるが、サウナ専門サイトのサ活記録・施設一覧いずれも水風呂は『なし』、セルフロウリュも禁止表示があるとの口コミがあり、サウナ体験としての完成度は低い。",
+      "target_audience": ["温泉好き", "一人旅", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 9,
+        "review_reliability": 4,
+        "unique_experience_score": 6,
+        "photogenic": 6,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 36,
+      "recommendation_reason": "2種類の温度のサウナ・外気浴スペースを備える点は候補になり得るが、水風呂が無い・セルフロウリュ禁止という口コミがあり、サウナ体験としての満足度に疑問が残る。評価も3.2（39件）と採用ライン4.0を大きく下回る。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミでは水風呂が無いこと、セルフロウリュ禁止の貼り紙があったことが指摘されている。評価自体も3.2（39件）と低く、サウナ体験・宿泊体験いずれも採用ラインに届かない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "月岡温泉 湯あそび宿 曙 宿泊口コミ - icotto", "url": "https://icotto.jp/hotels/3504" },
+        { "type": "other", "title": "月岡温泉 湯あそび宿 曙 - サウナイキタイ", "url": "https://sauna-ikitai.com/saunas/716" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア36点、主要レビュー評価3.2（39件）と採用ライン（75点・4.0以上）を大きく下回り、水風呂なし・セルフロウリュ禁止という口コミもあったため見送った。"
+    }
+  ]
+}

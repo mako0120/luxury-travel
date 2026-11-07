@@ -1,0 +1,217 @@
+{
+  "cycle_date": "2026-10-30",
+  "theme": "その他（静岡県静岡市）",
+  "season_rationale": "10月下旬の静岡市は夏の暑さが落ち着き、紅葉シーズンの入口にあたる時期。一方で、ホテルのアフタヌーンティー企画の多くは8〜9月のシャインマスカット企画がすでに終了し、冬のクリスマス企画や苺を使った冬季企画はまだ始まっていない『季節の谷間』にあたる。石垣いちご狩りは例年1月頃〜5月上旬が本番でこの時期は未開園、駿府城公園の秋のライトアップも例年11月開始で2026年の開催告知は本セッションの検索時点では確認できなかった。このため『今すぐ行ける』その他カテゴリ候補を数値評価付きで確定することが難しい時期であることが分かった。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-29-okayama-city-other", "region": "岡山県岡山市", "category": "その他" },
+    { "post_id": "2026-10-28-niigata-city-other", "region": "新潟県新潟市", "category": "その他" },
+    { "post_id": "2026-10-27-kumamoto-city-gentei-event", "region": "熊本県熊本市", "category": "その他" },
+    { "post_id": "2026-10-26-kyoto-afternoontea-gentei", "region": "京都府京都市東山区", "category": "その他" },
+    { "post_id": "2026-10-25-naha-gentei-event", "region": "沖縄県那覇市", "category": "その他" },
+    { "post_id": "2026-10-24-sapporo-gentei-event", "region": "北海道札幌市中央区", "category": "その他" },
+    { "post_id": "2026-10-23-kobe-afternoontea-gentei", "region": "兵庫県神戸市中央区", "category": "その他" },
+    { "post_id": "2026-10-22-osaka-afternoon-experience", "region": "大阪府大阪市", "category": "その他" },
+    { "post_id": "2026-10-21-hiroshima-afternoontea", "region": "広島県広島市中区・南区", "category": "その他" },
+    { "post_id": "2026-10-20-sendai-gentei-event", "region": "宮城県仙台市", "category": "その他" },
+    { "post_id": "2026-10-20-izu-ochiairo-sauna", "region": "静岡県伊豆市", "category": "サウナ" },
+    { "post_id": "2026-10-17-atami-view-hotel", "region": "静岡県熱海市", "category": "絶景ホテル" }
+  ],
+  "duplication_note": "data/candidates・captions配下の既存ファイル全件（1ヶ月以上前のものを含む）を『静岡』『shizuoka』『日本平』『駿府城』『アソシア静岡』『常吉いちご』『石垣いちご』で横断検索した結果、静岡県関連の既出候補は熱海市・伊豆市・富士宮市・伊東市など県内の他エリア（絶景ホテル・サウナ・グランピング等）に多数あるが、静岡県静岡市（市内）かつカテゴリ『その他』での既出候補は見つからず、重複にはあたらない。",
+  "research_limitation_note": "本セッションでは、(1) WebFetchツールがこの環境のネットワーク許可設定の範囲外のため www.ndhl.jp（日本平ホテル公式）・retty.me・san-tatsu.jp・icotto.jp・www.gltjp.com など複数サイトの本文を直接取得できず（getaddrinfo ENOTFOUNDエラー）、(2) WebSearchツールの呼び出し回数がセッション全体で共有される上限に調査の途中で到達したため、検索結果のスニペット情報のみで評価せざるを得なかった。この結果、各候補について独立2情報源かつ主要レビューサイトでの4.0以上（5点満点換算）の数値評価を確認すること、および期間限定企画の2026年11月以降の開催有無を確認することができなかった。推測で数値や開催日程を記載することは禁止されているため、本サイクルでは調査した4件すべてをrejectedとし、selected候補なし・captions/ファイルの作成なしとした。",
+  "candidates": [
+    {
+      "id": "2026-10-30-nihondaira-hotel-afternoontea",
+      "name": "日本平ホテル テラスラウンジ アフタヌーンティー",
+      "region": "静岡県静岡市清水区馬走",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "renewal_or_news": "テラスラウンジでは通年14:00〜17:00にアフタヌーンティーを提供しているほか、宿泊者以外も利用可能な『プレミアム和フタヌーンティー 日本晴』（事前予約制・1日5食限定・1名3,600円）、季節限定の『ストロベリーアフタヌーンティーセット』（2名分3,800円、2022年時点の訪問記事による）などの情報が見つかったが、いずれも出典の時期が古く、2026年10月時点で同内容が継続提供されているかは本セッションでは確認できなかった。",
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "確認できた価格情報は『日本晴』1名3,600円（事前予約・1日5食限定）、通常アフタヌーンティーが2名分3,800円（2022年の訪問者レポートによる）のみで、いずれも最新かどうか確認できていない。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "幅35m・高さ10mの吹き抜けと大きなパノラマ窓から富士山と駿河湾を一望できるラウンジで提供されるアフタヌーンティー。宿泊者以外も利用できる完全予約制・1日5食限定の和スイーツ『日本晴』という珍しい限定メニューがある点が独自性として挙げられる。",
+      "target_audience": ["カップル", "夫婦", "女子旅"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 14,
+        "photogenic": 12,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 38,
+      "recommendation_reason": "富士山・駿河湾を望む吹き抜けラウンジという独自性、宿泊者以外も使える1日5食限定メニューという話題性はあるが、このラウンジ・アフタヌーンティー自体に対するGoogleマップ・じゃらん・トリップアドバイザー等の主要口コミサイトの数値評価（独立2情報源）を本セッションでは確認できず、価格情報も2022年時点のものに留まり2026年現在の提供内容・料金を確認できなかったため不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Rettyの訪問者レポートでは、3連休中日に整理券を取って約90分待ったという混雑に関する記述があったが、重大な否定的指摘は本セッションの検索範囲では見当たらなかった。ただしWebFetchでの本文取得・WebSearch呼び出し回数の制約により、口コミの網羅的な確認はできていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "日本平ホテル テラスラウンジ 営業時間・アフタヌーンティー案内 - あなたの静岡新聞 at-s.com",
+          "url": "https://www.at-s.com/gourmet/article/125924"
+        },
+        {
+          "type": "review_site",
+          "title": "テラスラウンジ（日本平ホテル）訪問レポート・混雑状況 - Retty",
+          "url": "https://retty.me/restaurant/100001328294/"
+        },
+        {
+          "type": "other",
+          "title": "日本平ホテル『プレミアム和フタヌーンティー 日本晴』紹介 - icotto",
+          "url": "https://icotto.jp/presses/8349"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "ラウンジ・アフタヌーンティー体験そのものに対する主要口コミサイトの数値評価（独立2情報源・4.0以上）を本セッションでは確認できず、価格・提供内容も2022年時点の情報に留まり2026年時点の最新性を確認できなかったため、原則6・原則4を満たすと判断できず不採用とした。"
+    },
+    {
+      "id": "2026-10-30-associa-shizuoka-scenery-afternoontea",
+      "name": "ホテルアソシア静岡 ロビーラウンジ「シーナリー」 シャインマスカットアフタヌーンティー",
+      "region": "静岡県静岡市葵区黒金町（JR静岡駅北口直結）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "renewal_or_news": "2026年8月22日〜9月27日、『マスカットエレガンス』企画の一環としてシャインマスカットをテーマにしたアフタヌーンティーセット（土日祝限定で点心付きの中国料理風タイプもあり、13:30〜17:00・120分制）がロビーラウンジ『シーナリー』で提供されていたが、2026年10月30日時点ではこの企画期間はすでに終了している。2025年11月21日〜12月25日には『アソシアサンタ』登場のクリスマス企画（ブッフェ・アフタヌーンティー・ハンドベル演奏会）が実施された記録があるが、2026年分の同企画の告知は本セッションでは確認できなかった。",
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "シャインマスカットアフタヌーンティーの具体的な料金は本セッションの検索では確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "JR静岡駅北口直結という高いアクセス性を持つホテルのロビーラウンジで、季節替わりのフルーツ（苺・シャインマスカット等）をテーマにしたアフタヌーンティーを毎年複数回入れ替えで提供している。紅茶6種・コーヒー・ソフトドリンクが付き、土日祝には点心付きの中国料理風タイプも選べる構成。",
+      "target_audience": ["女子旅", "カップル", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 10,
+        "photogenic": 10,
+        "value_for_price": 0,
+        "sns_buzz": 4,
+        "access_and_freshness": 0
+      },
+      "score": 24,
+      "recommendation_reason": "駅直結のアクセス性、季節フルーツをテーマにした企画の継続性は独自性として評価できるが、調査対象であるシャインマスカット企画自体は研究日（2026年10月30日）時点で既に終了しており、11月以降の次期企画（クリスマス等）の2026年分の開催告知を本セッションでは確認できなかった。『現在営業・公開している』という原則6の条件を満たせないため不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "この特定企画自体に対する否定的な口コミは本セッションの検索では見当たらなかったが、企画の現在の提供状況（終了済み）自体が確認の中心的な問題であり、口コミの網羅的な確認には至っていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "press",
+          "title": "ホテルアソシア静岡『マスカットエレガンス』シャインマスカットアフタヌーンティー（2026年8月22日〜9月27日）紹介 - san-tatsu.jp",
+          "url": "https://san-tatsu.jp/pressrelease/541899/"
+        },
+        {
+          "type": "press",
+          "title": "ホテルアソシア静岡 2025年ホリデーシーズン『アソシアサンタ』ブッフェ・アフタヌーンティー紹介 - リセマム",
+          "url": "https://resemom.jp/release/prtimes/20251121/164004.html"
+        },
+        {
+          "type": "other",
+          "title": "ホテルアソシア静岡 ロビーラウンジ『シーナリー』予約ページ - TableCheck",
+          "url": "https://www.tablecheck.com/en/shops/associa-sth-scenery/reserve"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "調査対象の企画（シャインマスカットアフタヌーンティー）が研究日時点で既に終了しており、現在営業・提供中であることを確認できないため、原則6（現在営業・公開していること）を満たさず不採用とした。"
+    },
+    {
+      "id": "2026-10-30-tsunayoshi-ichigoen-ishigaki-ichigo",
+      "name": "常吉いちご園（久能山東照宮鳥居内） 石垣いちご狩り",
+      "region": "静岡県静岡市駿河区根古屋（久能山東照宮周辺）",
+      "category": "その他",
+      "is_hidden_gem": true,
+      "renewal_or_news": "石垣いちご狩りは例年1月頃〜5月上旬頃がシーズンとされ、2026年10月30日時点ではオフシーズンにあたる。常吉いちご園は久能山東照宮の鳥居内にあり、石垣いちご栽培の元祖とされる完全予約制の農園で、栽培品種は『かなみひめ』。",
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "本セッションの検索では料金情報を確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "石垣の上でいちごを育てる『石垣いちご』栽培発祥の地とされる久能山麓にあり、国宝・久能山東照宮の鳥居内という珍しい立地で、完全予約制・品種『かなみひめ』を狩れる点が独自性。石垣栽培のため、しゃがまず楽な姿勢で収穫できる点も特徴とされる。",
+      "target_audience": ["カップル", "家族", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 15,
+        "photogenic": 8,
+        "value_for_price": 0,
+        "sns_buzz": 3,
+        "access_and_freshness": 0
+      },
+      "score": 26,
+      "recommendation_reason": "久能山東照宮鳥居内という立地・石垣いちご発祥という独自性は魅力的だが、収穫シーズンは例年1月頃〜5月上旬で、研究日（2026年10月30日）時点では営業期間外にあたる。原則6の『現在営業・公開している』という条件を満たさないため、今シーズンの候補としては不採用とした（来シーズン開園後の再調査対象）。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "シーズン外のため最新の口コミを十分に確認できておらず、重大な懸念は本セッションの検索範囲では見当たらなかったが検証は不十分。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "press",
+          "title": "家康公を祀る国宝・久能山東照宮の宮司が伝えた『石垣いちご』のいちご狩りがスタート",
+          "url": "https://kyodonewsprwire.jp/release/202201246437"
+        },
+        {
+          "type": "other",
+          "title": "石垣いちごの歴史・常吉いちご園紹介",
+          "url": "https://tabi-mag.jp/ishigakiichigo/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "収穫体験の提供シーズン（例年1月頃〜5月上旬）が研究日時点で営業期間外にあたり、原則6（現在営業・公開していること）を満たさないため不採用とした。"
+    },
+    {
+      "id": "2026-10-30-sunpu-castle-park-autumn-illumination",
+      "name": "駿府城公園 東御門・巽櫓 秋のライトアップ（紅葉山庭園）",
+      "region": "静岡県静岡市葵区駿府城公園",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "renewal_or_news": "2025年は11月1日〜11月30日・19:00〜22:00点灯で、世界的照明デザイナー石井幹子氏が手がける秋の特別演出『錦秋の紅葉』が実施された記録があるが、2026年分の開催日程・実施有無は本セッションの検索では確認できなかった（紅葉情報サイトでは『来シーズンの情報は2026年9月に掲載予定』とされていたが、その更新内容は今回の検索結果には反映されていなかった）。",
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "紅葉山庭園の入園料は大人150円・小人50円という案内があったが、これは桜シーズンの掲載情報であり、秋季の料金として同額かは確認できていない。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "徳川家康ゆかりの駿府城公園の東御門・巽櫓を、世界的照明デザイナー石井幹子氏が手がける季節色のカラー照明でライトアップする秋の特別演出。隣接する紅葉山庭園の紅葉と合わせて鑑賞できる点が独自性。",
+      "target_audience": ["夫婦", "カップル", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 12,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 0
+      },
+      "score": 35,
+      "recommendation_reason": "徳川家康ゆかりの史跡と著名照明デザイナーによるライトアップという独自性・絵になる要素はあるが、2026年の開催日程・実施有無そのものを本セッションの検索では確認できず、推測で開催日程を記載することは禁止されているため、今回は候補として確定できず不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2026年の開催自体を確認できていないため、口コミ・ネガティブレビューの収集は実施していない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "駿府城公園 紅葉情報（2025年秋のライトアップ日程・点灯時間） - weathernews.jp",
+          "url": "https://weathernews.jp/koyo/spot/25043/"
+        },
+        {
+          "type": "other",
+          "title": "駿府城公園 紅葉山庭園 基本情報（入園料等） - ジョルダン",
+          "url": "https://sp.jorudan.co.jp/leaf/spot_104898.html"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "2026年の開催日程・実施有無を本セッションの検索では確認できず、推測で記載することは禁止されているため不採用とした（2026年の公式告知後に再調査対象）。"
+    }
+  ]
+}

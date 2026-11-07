@@ -1,0 +1,178 @@
+{
+  "cycle_date": "2026-10-19",
+  "theme": "鹿児島県指宿市の絶景ホテル・旅館（錦江湾・開聞岳ビュー）",
+  "season_rationale": "指宿は冬でも温暖な気候で、10月下旬は残暑が落ち着き空気が澄む時期。錦江湾と開聞岳を望む露天風呂を気持ちよく楽しめる季節であり、年末年始の記念日・温泉旅行の検討が始まるタイミングにも合う。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-18-yamanokami-yukaen", "region": "岩手県花巻市", "category": "温泉旅館" },
+    { "post_id": "2026-10-18-miyajima-seaside-hotel", "region": "広島県廿日市市宮島町", "category": "絶景ホテル" },
+    { "post_id": "2026-10-17-atami-sekaie", "region": "静岡県熱海市伊豆山", "category": "絶景ホテル" },
+    { "post_id": "2026-10-16-kai-sengokuhara", "region": "神奈川県足柄下郡箱根町仙石原", "category": "絶景ホテル" },
+    { "post_id": "2026-09-22-nonokaze-resort-toya", "region": "北海道虻田郡洞爺湖町", "category": "絶景ホテル" }
+  ],
+  "duplication_note": "鹿児島県指宿市は captions/・data/candidates のいずれにも過去登場のない新規地域。絶景ホテルカテゴリでは宮島（瀬戸内・離島）・熱海（伊豆・海岸リゾート）・箱根（山岳高原・大涌谷由来温泉）・洞爺湖（北海道・湖畔リゾート）が既出だが、指宿は薩摩半島南端・錦江湾と開聞岳を望む砂むし温泉文化という異なる地域・景観軸であり、原則29の重複には当たらないと判断した。",
+  "candidates": [
+    {
+      "id": "2026-10-19-ibusuki-ginsho",
+      "name": "指宿温泉 夫婦露天風呂の宿 吟松",
+      "region": "鹿児島県指宿市湯の浜5-26-29",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらん", "score": 4.6, "scale": 5, "review_count": 3612, "checked_date": "2026-10-19", "url": "https://www.jalan.net/yad356820/plan/" },
+        { "source": "楽天トラベル", "score": 4.7, "scale": 5, "review_count": 559, "checked_date": "2026-10-19", "url": "https://hotel.travel.rakuten.co.jp/hinfo/49347/" },
+        { "source": "Trip.com", "score": 9.6, "scale": 10, "review_count": 56, "checked_date": "2026-10-19", "url": "https://jp.trip.com/hotels/hot-spring/city/jp/ibusuki.html" }
+      ],
+      "price_range_jpy": {
+        "note": "公式予約システム（489ban）掲載の一人旅向けプラン『ひとり指宿ぶらり旅 1泊2食付』（夕食：基本会席、朝食：和食セット）を確認したが、このプランの具体的な金額はWebSearchのスニペットからは確認できなかった。9階『雲上貸切露天風呂』は1室4,000円（50分・滞在時予約制）という追加料金のみ具体的な数字を確認できている。1泊2食の正確な料金は予約サイトで日付・人数を指定して要確認。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "鹿児島県指宿市湯の浜、天然砂むし温泉会館「砂楽（さらく）」から徒歩約2分という立地。ほぼ全室がオーシャンビューで、9階（最上階）と2階に錦江湾を一望する露天風呂があり、2025年9月には新客室がリニューアルオープンした。9階には大人限定・滞在時予約制・有料（1室4,000円/50分）の『雲上貸切露天風呂』もあり、プライベートに絶景を楽しめる。",
+      "renewal_or_news": "楽天トラベル掲載情報によると2025年9月に新客室がリニューアルオープンしており、施設情報の鮮度は高い。",
+      "target_audience": ["夫婦", "カップル", "記念日", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 14,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 84,
+      "recommendation_reason": "じゃらん4.6（3,612件）・楽天トラベル4.7（559件）・Trip.com9.6/10（56件）と、性質の異なる3つの独立した情報源でいずれも推奨ライン4.2以上（5点満点換算）を上回る評価を確認できた（原則6・7）。ほぼ全室オーシャンビュー、9階の天空露天風呂、プライベート感のある貸切露天風呂という『絶景×温泉』の体験が指宿の他宿と比べても際立っており、2025年9月の新客室リニューアルという鮮度の高い話題もある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一部の口コミでは、車で到着しても出迎えがなくフロントでのチェックイン・機械でのチェックアウトという合理的な接客を『味気ない』と感じる声があった（投稿者自身は宿泊費の抑制につながっている可能性を評価）。また9階の天空露天風呂は時間帯により混雑し、日没後は風が強く寒かったという指摘も確認した。食事形態について掲載サイト間で記載が食い違う点（レストランなしとする情報源と部屋食形式を紹介する情報源が併存）もあったため、キャプションでは確定的な記述を避けた。いずれも清潔感・安全性に関わる重大な指摘ではなく、除外基準（原則10）に該当する問題は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "夫婦露天風呂の宿 吟松 プラン一覧 - じゃらん", "url": "https://www.jalan.net/yad356820/plan/" },
+        { "type": "booking_site", "title": "夫婦露天風呂の宿 吟松 - 楽天トラベル", "url": "https://hotel.travel.rakuten.co.jp/hinfo/49347/" },
+        { "type": "official", "title": "夫婦露天風呂の宿 吟松 公式予約（489ban） ひとり指宿ぶらり旅プラン", "url": "https://reserve.489ban.net/client/ginsyou/0/detail/1076432" },
+        { "type": "review_site", "title": "夫婦露天風呂の宿 吟松 クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel_tips/12698090" },
+        { "type": "other", "title": "夫婦露天風呂の宿 吟松（天空野天風呂・オーシャンビュー紹介） - icotto", "url": "https://icotto.jp/hotels/2760" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-19-ibusuki-hakusuikan",
+      "name": "鹿児島 砂むし温泉 指宿白水館",
+      "region": "鹿児島県指宿市東方",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.52, "scale": 5, "review_count": 2311, "checked_date": "2026-10-19", "url": "https://yado.knt.co.jp/st/S460032/" },
+        { "source": "フォートラベル", "score": 4.23, "scale": 5, "review_count": 220, "checked_date": "2026-10-19", "url": "https://4travel.jp/dm_hotel-10053237" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な1泊2食料金はWebSearchのスニペットからは確認できず、予約サイトで要確認。砂むし温泉は1回大人1,540円（税込）という掲載情報を確認した。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "錦江湾の青と松の緑を望む広大な敷地に、江戸時代の風呂を再現した『元禄風呂』、樽風呂・窯風呂などの個性的な浴場、天然砂むし温泉・岩盤浴を備える大規模温泉旅館。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 14,
+        "unique_experience_score": 15,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 79,
+      "recommendation_reason": "楽天トラベル4.52（2,311件）・フォートラベル4.23（220件）という大規模な口コミ件数を持つ2つの独立情報源でいずれも推奨ライン4.2前後の高評価を確認でき、元禄風呂・砂むし温泉という独自性も強い。ただし『絶景ホテル』カテゴリとしての軸（客室・露天風呂からのオーシャンビューの訴求）は吟松の方が明確なため、今回はshortlistとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Web検索の範囲では、清潔感・接客・安全性に関する重大な指摘は見つからなかった。露天風呂固有の錦江湾ビューに関する記述は限定的で、景観の訴求は施設全体の紹介文に依存している点は留意点として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "鹿児島 砂むし温泉 指宿白水館 - 近畿日本ツーリスト", "url": "https://yado.knt.co.jp/st/S460032/" },
+        { "type": "review_site", "title": "指宿白水館 クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-10053237" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-19-ibusuki-royal-hotel",
+      "name": "指宿ロイヤルホテル",
+      "region": "鹿児島県指宿市",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.80, "scale": 5, "review_count": 80, "checked_date": "2026-10-19", "url": "https://4travel.jp/dm_hotel-10053234" },
+        { "source": "iko-yo.net", "score": 4.2, "scale": 5, "review_count": 2, "checked_date": "2026-10-19", "url": "https://iko-yo.net/facilities/33797/news" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な料金はWebSearchのスニペットからは確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "錦江湾を望む露天風呂と海側客室、砂むし温泉への送迎サービスが特徴。",
+      "target_audience": ["夫婦", "絶景好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 6,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 58,
+      "recommendation_reason": "錦江湾ビューの露天風呂・砂むし送迎という『絶景ホテル』らしい要素はあるが、確認できた数値評価はフォートラベル3.80（80件、推奨ライン4.2未達）とiko-yo.net4.2（件数2件のみで信頼性が低い）にとどまり、原則6・7が求める水準を満たせない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "4.0の口コミで、海側の部屋でなかったこと・部屋自体が昔のホテルの雰囲気であること・天候のせいで露天風呂からの眺めが残念だったという指摘があった。重大な安全性・清潔感の問題ではないが、評価数値自体が基準未達のため選定しない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "指宿ロイヤルホテル クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-10053234" },
+        { "type": "other", "title": "指宿ロイヤルホテル - iko-yo.net", "url": "https://iko-yo.net/facilities/33797/news" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイト評価が推奨ライン4.2（原則6）に届かない、または件数が少なすぎて信頼性を確認できず、スコアも75点未満のため除外した。"
+    },
+    {
+      "id": "2026-10-19-ibusuki-amakudarunooka",
+      "name": "別邸 天降る丘",
+      "region": "鹿児島県指宿市",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.27, "scale": 5, "review_count": 10, "checked_date": "2026-10-19", "url": "https://4travel.jp/dm_hotel-10218977" },
+        { "source": "Trip.com", "score": 9.1, "scale": 10, "review_count": 8, "checked_date": "2026-10-19", "url": "https://jp.trip.com/hotels/hot-spring/city/jp/ibusuki.html" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な料金はWebSearchのスニペットからは確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全15室・全室露天風呂付きの高台の宿。フレンチレストランの大きな窓から指宿市街と鹿児島湾の夜景を眺められる。",
+      "target_audience": ["夫婦", "記念日", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 4,
+        "unique_experience_score": 15,
+        "photogenic": 11,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 51,
+      "recommendation_reason": "高台からの夜景・全室露天風呂という独自性は高いが、確認できた数値評価はフォートラベル3.27（原則6の4.0未満）、Trip.comは9.1と高いが件数8件と極端に少なく、2つの独立情報源での裏付けという原則7の水準を満たせない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ件数自体が少なく、低評価側の傾向を十分に確認できていない。確認できた範囲では重大な指摘はなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "別邸 天降る丘 クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-10218977" },
+        { "type": "booking_site", "title": "指宿のホテル一覧（別邸 天降る丘 掲載） - Trip.com", "url": "https://jp.trip.com/hotels/hot-spring/city/jp/ibusuki.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイト評価が4.0未満、かつ独立2情報源とも口コミ件数が極端に少なく信頼性を確認できないため除外した（原則6・7）。"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "cycle_date": "2026-10-22",
+  "theme": "群馬県利根郡みなかみ町エリアのグランピング施設",
+  "season_rationale": "10月下旬のみなかみ町は紅葉が谷川岳山麓まで降りてくる時期で、気温も下がり始め焚き火・バレルサウナ・夜の星空観賞が快適になる。りんご園併設の施設では収穫期と重なり季節性が高い。グリーンシーズンの屋外アクティビティが営業終盤に入る時期でもあり、今シーズン最後の滞在を訴求しやすい。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-21-lemon-farm-glamping-shimanami", "region": "広島県尾道市（しまなみ海道）", "category": "グランピング" },
+    { "post_id": "2026-10-20-vision-glamping-yamanakako", "region": "山梨県南都留郡山中湖村", "category": "グランピング" },
+    { "post_id": "2026-10-17-minakami-kogen-hotel200", "region": "群馬県利根郡みなかみ町（水上高原）", "category": "アクティビティ" },
+    { "post_id": "2026-09-18-shima-tsuruya", "region": "群馬県吾妻郡中之条町（四万温泉）", "category": "サウナ" },
+    { "post_id": "2026-09-22-north-glamper-furano", "region": "北海道空知郡上富良野町", "category": "グランピング" }
+  ],
+  "duplication_note": "直近のグランピング投稿は2026-10-21（広島県尾道市・しまなみ海道）と2026-10-20（山梨県山中湖村）で、地域はいずれもみなかみ町と異なる（原則29）。みなかみ町自体は2026-10-17に『アクティビティ』カテゴリ（水上高原ホテル200）で一度登場しているが、カテゴリが異なるため重複にはあたらない。また1ヶ月以上前の2026-09-18には群馬県内の別エリア（中之条町・四万温泉）が『サウナ』カテゴリで登場しているが、エリア・カテゴリともに今回（みなかみ町・グランピング）とは異なる。以上より『みなかみ町×グランピング』という地域×カテゴリの組み合わせでの投稿はこれまで存在せず、原則29上の問題はない。なお、水上高原ホテル200（2026-10-17で既に取り上げた施設）が運営する『水上高原グランピングフィールド』、および2026-10-17サイクルで一度不採用としたキャニオンズ系施設は、施設・運営会社の重複を避ける観点および現在の営業状況を裏付ける新しい情報が確認できなかった観点から、今回は中心候補として深追いしなかった（キャニオンズ系列の1件のみ裏取りのため候補に残した）。",
+  "candidates": [
+    {
+      "id": "2026-10-22-harasawa-glamping-minakami",
+      "name": "果樹園グランピングヴィラ HARASAWA",
+      "region": "群馬県利根郡みなかみ町布施（原沢りんご園内）",
+      "category": "グランピング",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "Expedia", "score": 10, "scale": 10, "review_count": 2, "checked_date": "2026-10-22", "url": "https://www.expedia.com/cn/Minakami-Holiday-Parks.d6053597-aaHolidayParks.Travel-Guide-Accommodation" }
+      ],
+      "price_range_jpy": {
+        "note": "1名あたり11,220円〜（ヴィラ「The Apple」、489ban予約システム掲載情報）。プラン・時期・棟（「The Apple」「Plum」）により変動。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "30,000㎡・50年続く原沢りんご園の敷地内に、全2棟限定（ロフト付きログハウス『The Apple』＝最大6名、愛犬同伴可のコテージ『Plum』＝最大4名）で展開する、国内でも珍しいりんご園併設型グランピング。谷川連峰を望む立地で、採れたてのりんごをその場で味わえるほか、りんご狩り・釣りも楽しめる。食事は上州牛やりんごを使った群馬食材の料理が中心（2025年には地元群馬県産豚を使った新プランも登場）。1日2組限定のプライベート感も強み。",
+      "renewal_or_news": "2023年4月開業。2025年に群馬県産豚とりんごを使ったしゃぶしゃぶの新プランが発表されており（zaikei.co.jp）、開業後も継続してプラン更新・営業が行われていることが確認できる。",
+      "target_audience": ["カップル", "記念日", "家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 4,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 64,
+      "recommendation_reason": "『りんご園の中のグランピング』という独自性は非常に強く、Hotels.com・Expediaではいずれも10/10評価、Expediaでは明確に2件分の口コミ本文（谷川岳の眺望・デッキでの朝食・採れたてりんごを評価する声。夜間の買い物が不便という指摘も1件）を確認できた。489ban予約システム・プレスリリース（travel watch／zaikei）・いこーよ記事など複数情報源で施設の実在・現役稼働を確認でき、原則8のHidden Gem4条件（公式情報の確認／最近の営業継続／複数情報源の存在／強い独自性）はいずれも満たすと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Expediaの口コミ（2件）では谷川岳の眺望・デッキでの朝のコーヒー・採れたてりんごが好評だった一方、夜間の買い物がやや不便という指摘が1件あった。母数が極めて少なく（Expedia2件、他サイトは件数自体が非公開）、重大な清潔感・接客・安全上の問題は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "日本初となるりんご園の中のグランピング施設「果樹園グランピングヴィラHARASAWA」オープン - Travel Watch", "url": "https://travel.watch.impress.co.jp/docs/news/1476256.html" },
+        { "type": "official", "title": "果樹園グランピングヴィラ HARASAWA 予約ページ（489ban）", "url": "https://reserve.489ban.net/client/glamping-harasawa/0/detail/681901" },
+        { "type": "review_site", "title": "Apple Farm Glamping Villa HARASAWA - Expedia", "url": "https://www.expedia.com/cn/Minakami-Holiday-Parks.d6053597-aaHolidayParks.Travel-Guide-Accommodation" },
+        { "type": "review_site", "title": "果樹園グランピングヴィラHARASAWA - Hotels.com", "url": "https://jp.hotels.com/ho3661319776/" },
+        { "type": "press", "title": "原沢りんご園、群馬県産豚とりんごのしゃぶしゃぶ新プラン発表", "url": "https://www.zaikei.co.jp/releases/2501412/" },
+        { "type": "other", "title": "みなかみ町のりんご園でグランピング 完熟りんご堪能＆愛犬もOK - いこーよ", "url": "https://report.iko-yo.net/articles/16551" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "穴場候補（原則8）の4条件は満たすと判断したが、口コミ自体が極めて少なく（確認できたのはExpediaの2件のみ）、信頼できる口コミ件数の多さを根拠にできないため、総合スコアはreview_rating・review_reliabilityを保守的に採点し64点となった。原則6の採用ライン（総合75点以上）に届かないため、今回は不採用とした。"
+    },
+    {
+      "id": "2026-10-22-tapa-asian-camp-minakami",
+      "name": "アジアンキャンプリゾート Tapa",
+      "region": "群馬県利根郡みなかみ町石倉",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 2.96, "scale": 5, "review_count": 1, "checked_date": "2026-10-22", "url": "https://4travel.jp/dm_hotel-10667022" }
+      ],
+      "price_range_jpy": {
+        "note": "ラフティング半日体験とバンガロー宿泊のセットプランなど、楽天トラベル掲載プランが中心。具体的な素泊まり料金は検索範囲では確認できなかった。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "水上IC・JR水上駅から約10分のアジアンリゾート風バンガロー10棟。ラフティング・キャニオニングとのセット利用が前提になっている構成で、冬季は素泊まりのみ対応。",
+      "target_audience": ["友人", "家族"],
+      "score_breakdown": {
+        "review_rating": 6,
+        "review_reliability": 3,
+        "unique_experience_score": 10,
+        "photogenic": 8,
+        "value_for_price": 6,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 39,
+      "recommendation_reason": "複数の第三者集計サイト（だれどこ等）で楽天トラベル総合4.25という評価が繰り返し掲載されているのは確認できたが、肝心の口コミ件数がいずれのページでも非公開で検証できなかった。件数まで確認できた唯一の数値はフォートラベルの2.96/5（2015年6月投稿の1件のみ）で、古く母数も極端に少ない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの唯一の口コミ（2015年・古い投稿）では、キャンプ場の清潔さや夕食時の火起こし対応は評価されたが『食材調達や火起こしを自分で全部やりたい人には向かない』という指摘があった。cocolocalaの比較的新しい投稿（2025〜2026年）でも、ノルン水上スキー場への近さは評価された一方、トイレが部屋になく不便な棟があるという指摘が複数あった。重大な衛生・安全上の問題ではないが、設備面の不便さの指摘が複数確認された。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "アジアンキャンプリゾートTapa 口コミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-10667022" },
+        { "type": "booking_site", "title": "アジアンキャンプリゾートTapa 宿泊プラン一覧 - 楽天トラベル", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/107669" },
+        { "type": "other", "title": "アジアンキャンプリゾートTapa 総合評価（楽天トラベル由来の集計） - だれどこ", "url": "https://travel.gpoint.co.jp/daredoko/00b006-dffz/" },
+        { "type": "other", "title": "アジアンキャンプリゾートTapa 利用者投稿 - cocolocala", "url": "https://www.cocolocala.jp/hotels/462870" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数を検証できる情報源が実質1件（フォートラベル、2.96/5・1件・2015年の古い投稿）のみで、採用ライン（主要レビュー4.0以上）を満たす数値を独立2情報源で裏付けられなかった（原則7未達）。総合スコアも39点と採用ラインに届かないため不採用。"
+    },
+    {
+      "id": "2026-10-22-canyons-riverside-oasis-minakami",
+      "name": "Minakami Glamping Canyons Riverside Oasis（キャニオンズ リバーサイドオアシス）",
+      "region": "群馬県利根郡みなかみ町湯檜曽",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "テントタイプにより1名あたり目安35,000円前後〜（運営会社公式ページ掲載のLamp Tent等の料金例）。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "ラフティング・キャニオニングの老舗オペレーター『キャニオンズ』が運営する、湯檜曽川沿いのリバーサイド・グランピング。バレルサウナを併設し、川のせせらぎと星空を楽しめる構成。",
+      "target_audience": ["カップル", "友人"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 12,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 33,
+      "recommendation_reason": "ラフティング大手『キャニオンズ』運営によるリバーサイド×バレルサウナの構成は独自性があるが、いこーよ掲載ページで『未評価・口コミ募集中』とされており、現時点で数値評価を一切確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "いこーよでは『未評価』『口コミ募集中』と表示されており、ポジティブ・ネガティブいずれの口コミ本文も検索範囲では確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "Minakami Glamping Canyons Riverside Oasis（未評価） - いこーよ", "url": "https://iko-yo.net/facilities/158365" },
+        { "type": "official", "title": "GLAMPING Lamp Tent - Canyons公式", "url": "https://canyons.jp/en/tour-product/minakami/glamping/lamp-tent-glamping" },
+        { "type": "booking_site", "title": "リバーサイドオアシスみなかみグランピングの宿泊予約", "url": "https://kyuzitsu-glampingbu.com/hotel/glamp59/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ自体が存在せず（いこーよ『未評価』）、原則6（主要レビュー4.0以上）・原則7（独立2情報源での数値評価の裏付け）をいずれも満たせないため不採用。なお同運営会社（キャニオンズ）のアクティビティ系施設は2026-10-17サイクルでも口コミ不足を理由に一度不採用にしており、今回も同様の課題（口コミ不足）で不採用となった。"
+    },
+    {
+      "id": "2026-10-22-doai-village-minakami",
+      "name": "DOAI VILLAGE（土合駅）",
+      "region": "群馬県利根郡みなかみ町（JR上越線 土合駅）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "2020年開業時のプレス情報以降、現在の料金・営業状況を検索範囲では確認できなかった。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "JR東日本が『モグラ駅』として知られる土合駅の駅施設を活用した体験型グランピング。インスタントハウス（簡易テント型住居）4棟と野外サウナ、旧駅務室を改装したカフェ『mogura』を備える、駅を丸ごと使う珍しい構成。",
+      "target_audience": ["友人", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 14,
+        "photogenic": 11,
+        "value_for_price": 4,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 35,
+      "recommendation_reason": "『駅を使ったグランピング』という企画性は高く映え・話題性のポテンシャルはあるが、検索で見つかったのは2020年開業時のプレス記事のみで、現在（2026年）も同様に営業しているかを示す新しい情報・口コミを確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "利用者口コミ自体を検索範囲で確認できず、2020年の開業時記事以降の更新情報もないため、肯定・否定いずれの評判も判断できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "土合駅改札内の扉から外へ出ると、白いインスタントハウスの並ぶ「DOAI VILLAGE」が広がる", "url": "https://tetsudo-ch.com/10897551.html" },
+        { "type": "other", "title": "JR東日本、上越線土合駅のグランピング施設「DOAI VILLAGE」公開記事", "url": "https://travel.watch.impress.co.jp/img/trw/docs/1288/774/html/03_o.jpg.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "2020年開業時のプレス記事以降、現在の営業状況・口コミを検索範囲で確認できず（原則4の情報の新しさを満たせない）、原則6・7（評価・複数情報源での数値的な裏付け）の根拠も確認できなかったため不採用。"
+    }
+  ],
+  "selected": null,
+  "cycle_result_note": "今回のサイクルでは、群馬県みなかみ町のグランピング施設4件を調査したが、いずれも総合スコア75点未満（最高はHARASAWAの64点）であり、主要レビューサイト評価4.0以上を独立2情報源の数値で裏付けられる候補も確認できなかったため、BEST候補の選定（selected）は行わずcaptions/配下のキャプションは作成しない。原則34に基づき、情報不足を理由に調査自体を止めることはせず、Web横断調査・採点・ネガティブレビュー確認までは原則通り完了させた。"
+}

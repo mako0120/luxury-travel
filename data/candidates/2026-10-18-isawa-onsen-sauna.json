@@ -1,0 +1,171 @@
+{
+  "cycle_date": "2026-10-18",
+  "theme": "山梨県笛吹市石和温泉のサウナ施設",
+  "season_rationale": "10月下旬は朝晩の気温が下がり始め、サウナでの発汗と外気浴による『ととのう』体験が心地よくなる季節（原則30: 秋は紅葉・温泉）。石和温泉は過去の候補・投稿データに一度も登場していない新規エリアであり、直近の実選定投稿（2026-10-18 五島リトリート ray＝離島リゾート、2026-10-17 月岡温泉 白玉の湯 華鳳＝サウナ・新潟県）とは地域が重複せず、カテゴリ『サウナ』も前回とは異なる都道府県での調査となる（原則29）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-18-goto-retreat-ray", "region": "長崎県五島市（福江島）", "category": "離島リゾート" },
+    { "post_id": "2026-10-17-kahou-tsukioka", "region": "新潟県新発田市月岡温泉", "category": "サウナ" },
+    { "post_id": "2026-10-17-aquasense-onna", "region": "沖縄県国頭郡恩納村", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-17-hoshino-iriomote-hotel", "region": "沖縄県八重山郡竹富町（西表島）", "category": "離島リゾート" }
+  ],
+  "duplication_note": "山梨県笛吹市石和温泉は過去の候補・投稿データに一度も登場していない新規地域。カテゴリ『サウナ』は直近2026-10-17に新潟県月岡温泉で選定済みだが、地域が全く異なるため連続とはみなさない（原則29）。",
+  "candidates": [
+    {
+      "id": "2026-10-18-qua-hotel-isawa-kenkoland",
+      "name": "クア・アンド・ホテル 石和健康ランド",
+      "region": "山梨県笛吹市石和町（石和温泉）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらん",
+          "score": 4.2,
+          "scale": 5,
+          "review_count": 1397,
+          "checked_date": "2026-10-18",
+          "url": "https://www.jalan.net/150000/spt_guide000000205471/"
+        },
+        {
+          "source": "Yahoo!トラベル",
+          "score": 4.35,
+          "scale": 5,
+          "review_count": 61,
+          "checked_date": "2026-10-18",
+          "url": "https://travel.yahoo.co.jp/00908782"
+        },
+        {
+          "source": "フォートラベル",
+          "score": 3.38,
+          "scale": 5,
+          "review_count": 31,
+          "checked_date": "2026-10-18",
+          "url": "https://4travel.jp/dm_hotel-10046451"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "日帰り入館は1,540円〜（24時間営業）。宿泊プランは1泊2食・大人2名合計11,440円〜（1名あたり5,720円〜）という表示がWeb検索で確認できたが、部屋タイプ・時期・プランにより変動する。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "24種の湯処と炭酸泉を持つ大型温泉施設で、サウナも複数種類を備える点が最大の独自性。20人収容のストーン式ドライサウナ（約92〜100℃・大型送風機2基）、水深110〜140cm・チラー完備の水風呂（10〜14℃）、よもぎミストの薬草サウナ、塩サウナ（約69℃・1時間毎のオートロウリュ）、外気浴スペースと、サウナ好きが『何周もしたくなる』構成を24時間楽しめる。日帰り利用も宿泊も可能。",
+      "renewal_or_news": "ニフティ温泉の『人気温泉宿ランキング』で2024年3月に1位を獲得するなど、継続的に話題となっている温浴施設であることをWeb検索で確認した。",
+      "target_audience": ["温泉好き", "ホテル好き", "一人旅", "友人"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 12,
+        "unique_experience_score": 18,
+        "photogenic": 10,
+        "value_for_price": 9,
+        "sns_buzz": 7,
+        "access_and_freshness": 3
+      },
+      "score": 79,
+      "recommendation_reason": "20人収容のドライサウナ・塩サウナ（オートロウリュ）・薬草サウナという複数サウナ構成に加え、チラー完備の水風呂、24種の湯処・炭酸泉まで揃う本格温浴施設である点が、『少し贅沢な旅』のサウナカテゴリとして独自性が高い。じゃらん4.2（1,397件）・Yahoo!トラベル4.35（61件）という2つの独立した予約サイトで採用ライン4.0（推奨4.2）以上を確認でき、1,540円からの日帰り利用という価格対体験価値も優れている。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルでは31件中満足度3.38と他サイトより低く、項目別では客室3.26・アクセス3.40が低め（風呂4.34・コスパ3.91は高評価）。Web検索の範囲では、建物や設備に古さを感じるという声があるものの清掃は行き届いているという評価や、日帰り利用客が多くフロントが混みやすい、施設周辺に店が少ないという指摘が見られた。いずれも清潔感・安全性に関わる重大な問題ではないと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "クア・アンド・ホテル 石和健康ランド クチコミ・評価（じゃらん情報経由）", "url": "https://www.jalan.net/150000/spt_guide000000205471/" },
+        { "type": "review_site", "title": "クア・アンド・ホテル 石和健康ランド - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00908782" },
+        { "type": "review_site", "title": "クア・アンド・ホテル石和健康ランドの口コミ・評判 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10046451" },
+        { "type": "other", "title": "石和健康ランド - サウナイキタイ（サウナ室・水風呂の詳細情報）", "url": "https://sauna-ikitai.com/saunas/1910" },
+        { "type": "other", "title": "人気温泉宿ランキング 2024年3月 - ニフティ温泉", "url": "https://onsen.nifty.com/ranking/stay/202403/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-18-spaland-hotel-naito",
+      "name": "スパランドホテル内藤",
+      "region": "山梨県笛吹市境川町（石和温泉からは別エリア・笛吹市内）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "ホテル予約サイト集計（サイト種別不明瞭）",
+          "score": 3.4,
+          "scale": 5,
+          "review_count": 544,
+          "checked_date": "2026-10-18",
+          "url": "https://sauna-ikitai.com/saunas/1969/posts"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な1泊2食価格帯は確定できなかった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "サウナ温度92〜98℃、水風呂15〜20℃、外気浴・ロウリュ（熱波）ありとサ活サイトで複数回記録されており、炭酸泉も充実。設備自体はサウナ好きに支持されているが、宿泊口コミでは夜間に酔客が多く騒がしいという指摘がある。",
+      "target_audience": ["温泉好き", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 10,
+        "unique_experience_score": 12,
+        "photogenic": 7,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 53,
+      "recommendation_reason": "ロウリュ（熱波）や外気浴を含む本格サウナ設備は評価できるが、総合満足度が3.4（544件）と採用ライン4.0に届かず、宿泊口コミでは夜間の騒がしさも指摘されている。また所在地は笛吹市内ではあるが石和温泉の中心エリアからは別の境川町であり、今回のテーマ地域とは厳密には異なる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "宿泊口コミで、大浴場・サウナ自体は評価されているものの、夜は酔客が多く騒がしいという指摘があった。清潔感に関わる重大な指摘は確認できなかったが、総合評価が採用ラインに届かないため見送った。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "スパランド ホテル内藤 - サウナイキタイ（サ活投稿一覧）", "url": "https://sauna-ikitai.com/saunas/1969/posts" },
+        { "type": "review_site", "title": "スパランド ホテル内藤 - icotto 宿泊口コミ", "url": "https://icotto.jp/hotels/3049" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合満足度3.4（544件）で採用ライン（4.0以上）に届かず、夜間の騒がしさを指摘する口コミもあったため見送った。所在地も石和温泉中心部とは別の境川町エリア。"
+    },
+    {
+      "id": "2026-10-18-meisekinoyado-kagetsu",
+      "name": "銘石の宿 かげつ",
+      "region": "山梨県笛吹市石和町（石和温泉）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "icotto（旅行サイト集計）",
+          "score": 3.6,
+          "scale": 5,
+          "review_count": 273,
+          "checked_date": "2026-10-18",
+          "url": "https://icotto.jp/hotels-759/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な1泊2食価格帯は確定できなかった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "敷地内一面に錦鯉が泳ぐ庭園と銘石を望む露天風呂が特徴で、施設情報には露天風呂エリアにサウナがあり24時間入浴可能と記載されている。ただしサウナの温度・ロウリュ有無・水風呂といった具体的な仕様や、サウナ自体への口コミはWeb検索では確認できなかった。",
+      "target_audience": ["夫婦", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 8,
+        "unique_experience_score": 8,
+        "photogenic": 9,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 48,
+      "recommendation_reason": "庭園と銘石の景観は魅力的だが、サウナカテゴリとして訴求するための温度・ロウリュ・水風呂等の具体的な仕様がWeb検索では確認できず、総合評価も3.6程度で採用ライン4.0に届かないため、今回のサウナテーマでの独自性訴求力が弱いと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "庭園・錦鯉への好意的な口コミは多い一方、サウナ自体への言及はWeb検索では見つからなかった。重大なネガティブ指摘は確認できなかったが、情報不足のため採用を見送った。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "銘石の宿 かげつのご紹介（近畿日本ツーリスト）", "url": "https://yado.knt.co.jp/st/S190019/" },
+        { "type": "review_site", "title": "石和温泉 銘石の宿 かげつ - icotto", "url": "https://icotto.jp/hotels-759/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "サウナの具体的な設備仕様・口コミがWeb検索で確認できず、総合評価も採用ライン（4.0以上）に届かないため見送った。"
+    }
+  ]
+}

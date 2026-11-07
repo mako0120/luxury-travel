@@ -1,0 +1,155 @@
+{
+  "cycle_date": "2026-11-06",
+  "theme": "文化体験カテゴリ（和歌山県伊都郡高野町・高野山エリア）",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-11-04-kumano-view-hotel-recheck", "region": "和歌山県（熊野エリア）", "category": "絶景ホテル", "note": "同じ和歌山県だが熊野エリア・絶景ホテルで、高野町・高野山・文化体験とは地域・カテゴリとも異なるため重複なし。" },
+    { "candidate_id": "2026-10-29-nachikatsuura-view-hotel", "region": "和歌山県那智勝浦町", "category": "絶景ホテル", "note": "同じ和歌山県だが那智勝浦町・絶景ホテルで重複なし。" },
+    { "candidate_id": "2026-10-26-nachikatsuura-glamping", "region": "和歌山県那智勝浦町", "category": "グランピング", "note": "同じ和歌山県だが那智勝浦町・グランピングで重複なし。" },
+    { "candidate_id": "2026-10-31-kishu-railway", "region": "和歌山県御坊市（紀州鉄道）", "category": "列車・船", "note": "同じ和歌山県だが御坊市・列車体験で重複なし。" },
+    { "candidate_id": "2026-10-28-nanki-shirahama-all-inclusive", "region": "和歌山県白浜町", "category": "オールインクルーシブ", "note": "同じ和歌山県だが白浜町・オールインクルーシブで重複なし。" },
+    { "candidate_id": "2026-10-17-shirahama-glamping", "region": "和歌山県白浜町", "category": "グランピング", "note": "同じ和歌山県だが白浜町・グランピングで重複なし。" },
+    { "candidate_id": "2026-11-05-dazaifu-tenmangu", "region": "福岡県太宰府市", "category": "文化体験", "note": "同じ文化体験カテゴリだが福岡県太宰府市で地域が異なるため重複なし。" },
+    { "candidate_id": "2026-11-05-dewasanzan-bunka-taiken", "region": "山形県鶴岡市・出羽三山エリア", "category": "文化体験", "note": "同じ文化体験カテゴリだが山形県鶴岡市で地域が異なるため重複なし。" }
+  ],
+  "duplication_note": "data/candidates/ と captions/ の全ファイルを、ファイル名・本文（grep）で『高野山』『高野町』『伊都郡』『金剛峯寺』『奥の院』『奥之院』『壇上伽藍』『宿坊』の文字列について、1か月以上前（2026年10月分を含む）まで遡って確認した。『宿坊』『高野槙』で一致した2件（2026-10-28-wajima-bunka-taiken.json＝石川県輪島、2026-10-27-shuzenji-gourmet-ryokan.json＝静岡県修善寺）はいずれも別地域での偶然の語句一致であり、本テーマ（和歌山県伊都郡高野町・高野山エリア）との重複ではないことを本文確認済み。また『和歌山』で検索した20件も、熊野・那智勝浦・白浜・御坊など高野町・高野山とは別エリア・別カテゴリであり重複なし。高野町・高野山エリアを対象にした既存candidate/captionファイルは0件。",
+  "research_constraints": "本セッションでは、ekoin.jp（恵光院公式サイト）およびjournal-one.net（海外メディア記事）へのWebFetchがいずれもDNS解決不可で失敗し、本文を直接確認できなかった。そのため該当ページの内容はWebSearchのAI要約スニペット経由での確認に限定されている。また、本サイクル後半でセッション全体で共有されるWebSearch回数の上限（ターンあたりの上限、他エージェントの使用分も含む）に到達し、追加の深堀り検索（特に恵光院・奥之院の低評価コメント本文の精査、金剛峯寺・壇上伽藍のTripAdvisor/Googleマップ直接確認）ができなくなった。確認できない数値・引用は推測せず、確認できなかった旨を各候補のrecommendation_reason・negative_review_check・creator_storyに明記した。",
+  "candidates": [
+    {
+      "id": "2026-11-06-koyasan-ekoin-shukubo",
+      "name": "高野山 宿坊 恵光院（Koyasan Shukubo Ekoin）",
+      "region": "和歌山県伊都郡高野町高野山497（奥之院参道・一の橋入口すぐ）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Expedia（宿泊者レビュー集計）", "score": 9.4, "scale": 10, "review_count": 271, "checked_date": "2026-11-06", "url": "https://www.expedia.com/go/hotel/info/13335358" },
+        { "source": "Booking.com（宿泊者レビュー集計、二次掲載ページ経由で確認）", "score": 9.3, "scale": 10, "review_count": 1621, "checked_date": "2026-11-06", "url": "https://www.booking.com/hotel/jp/shukubo-ekoin.html" },
+        { "source": "KAYAK（複数予約サイトを横断した認証済みゲストレビュー集計）", "score": 9.3, "scale": 10, "review_count": 2714, "checked_date": "2026-11-06", "url": "https://www.kayak.com/Koya-Hotels-Koyasan-Syukubo-Ekoin.644472.ksp" }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションでは、Expedia・Booking.com・KAYAK等の予約サイトで高評価であることは確認できたが、具体的な一泊あたりの円建て料金（部屋タイプ別・曜日別）は検索範囲内で確認できなかった。半露天風呂付きスイート『月輪』など複数の部屋タイプが存在する旨は紹介記事（るるぶ&more.等）で確認済み。推測での金額記載は行わない。",
+        "as_of_search_date": "2026-11-06",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "高野山・奥之院の参道入口（一の橋）すぐという立地にある宿坊寺院。朝の勤行・護摩祈祷見学、夕方の阿字観（瞑想）、夜の奥之院ナイトツアーなど、僧侶の案内で密教の修行・儀式に参加者として加われる点が特徴。精進料理はヴィーガン料理としても海外から注目されており、若い僧侶の多くが英語対応できるため、国内客より訪日外国人客の方が多いと感じたという宿泊者の声もある。単なる『寺院を見る』観光ではなく、『僧侶と同じ時間を過ごす』体験型の宿泊が核。",
+      "renewal_or_news": "特定の改修・新プラン等の『今だけ』のニュース性は本セッションでは確認できなかった。1990年代以降、海外の口コミで『稀有な日本の寺院宿』として評価が広がり、現在も安定して国内外から高い支持を得ている長期的な人気施設という位置づけ。",
+      "target_audience": ["一人旅", "夫婦", "カップル", "友人"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 14,
+        "unique_experience_score": 19,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 85,
+      "recommendation_reason": "Expedia（9.4/10・271件）、Booking.com（9.3/10・1,621件）、KAYAK（9.3/10・2,714件）という3つの独立した予約プラットフォームでいずれも5点満点換算4.65〜4.7と非常に高く安定した評価を得ている（原則6・7）。朝の勤行・護摩・瞑想・奥之院ナイトツアーなど僧侶同伴で密教の修行に参加できる体験は、単なる宿泊や寺院拝観と一線を画す独自性があり、1990年代から海外で評判が広がった『秘境の寺院宿』というストーリー性もある。カテゴリ別評価（ryokantravel.com掲載の内訳）では『価格に対する価値』が他項目（接客9.6・立地9.6）に比べて相対的に低い8.2という点のみ弱みとして確認できた。重大な安全・衛生上の指摘は検索範囲では見つからなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ryokantravel.com掲載のカテゴリ別内訳では、接客9.6・立地9.6に対し『価格に対する価値（value for money）』が8.2と相対的に最も低いカテゴリだった。具体的な低評価コメントの本文（例: 混雑時の対応、設備の古さ等）までは、本セッションのWebSearch予算の制約により個別に精査できていない。検索範囲では『営業停止』『詐欺』『重大な衛生・安全問題』等の決定的な欠格事項は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "恵光院は、弘法大師・空海の弟子である道昌僧都が約1,200年前に五重塔を建て毘沙門天・不動明王を祀ったことに始まると伝わる（複数の紹介記事で一致）。道昌僧都が多くの人々のために回向（供養）を行ったことから、当初は『廻向院』と呼ばれたとされる。1308年には京都・東寺から霊潮阿闍梨（りょうちょうあじゃり）がこの寺に移り、寺を再興したと伝わる。現在の『恵光院』という名称は、1704年、8代将軍・徳川吉宗の命により改められたという。近代以降については、1990年代頃から海外の旅行者の口コミで『稀有な日本の寺院宿』として評判が広がり、肉・魚を使わない精進料理がヴィーガン料理としても注目されるようになったこと、英語対応できる若い僧侶が多く、朝の勤行・護摩祈祷・瞑想・奥之院ナイトツアーといった体験を訪日外国人向けにも開いてきたことが、複数の紹介記事・取材記事から確認できた。ただし、現在の住職個人が改修方針や受け入れ方針についてどのような想いを語っているかを示す、一次性の高いインタビュー本文（本人の発言として確実に引用できる記事）は、本セッションのWeb検索（WebFetchがekoin.jp・journal-one.netともDNS解決不可で失敗し、WebSearchのスニペット経由の確認に限定された）では確認できなかった。住職の実名・肩書についても複数の表記（近藤説秀／Daigen Kondoなど）が検索結果に現れたが、本セッションでは一次資料での確証が取れておらず、断定や発言の創作は行わない。",
+        "sources": [
+          { "type": "other", "title": "恵光院の歴史・由来（道昌僧都による開山、1308年再興、1704年改名） - GLTJP", "url": "https://www.gltjp.com/ja/directory/item/14813/" },
+          { "type": "other", "title": "高野山 恵光院 宿坊 体験レポート（『廻向院』という旧称の由来等） - るるぶ&more.", "url": "https://rurubu.jp/andmore/article/17358" },
+          { "type": "other", "title": "精進料理・ヴィーガン料理の注目（恵光院の事例紹介） - careermap", "url": "https://www.careermap.jp/feeds/3774" },
+          { "type": "official", "title": "恵光院 公式サイト（英語版）", "url": "https://www.ekoin.jp/en/?p=494" }
+        ]
+      },
+      "sources": [
+        { "type": "official", "title": "恵光院 公式サイト（英語版）", "url": "https://www.ekoin.jp/en/" },
+        { "type": "booking_site", "title": "Koyasan Syukubo Ekoin - Booking.com", "url": "https://www.booking.com/hotel/jp/shukubo-ekoin.html" },
+        { "type": "booking_site", "title": "Koyasan Syukubo Ekoin - Expedia", "url": "https://www.expedia.com/go/hotel/info/13335358" },
+        { "type": "booking_site", "title": "Koyasan Syukubo Ekoin Temple - KAYAK", "url": "https://www.kayak.com/Koya-Hotels-Koyasan-Syukubo-Ekoin.644472.ksp" },
+        { "type": "other", "title": "恵光院の歴史・由来 - GLTJP", "url": "https://www.gltjp.com/ja/directory/item/14813/" },
+        { "type": "other", "title": "高野山 恵光院 宿坊 体験レポート - るるぶ&more.", "url": "https://rurubu.jp/andmore/article/17358" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-11-06-koyasan-okunoin",
+      "name": "高野山 奥之院（弘法大師御廟・一の橋〜御廟橋の参道）",
+      "region": "和歌山県伊都郡高野町高野山（南海高野山ケーブル「高野山駅」からバス約15分「奥の院口」下車）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "LiveJapan掲載のTripAdvisor口コミ集計（全言語）", "score": 4.7, "scale": 5, "review_count": 1310, "checked_date": "2026-11-06", "url": "https://livejapan.com/en/in-kansai/in-pref-wakayama/in-wakayama_koyasan/spot-lj0011186/reviews/" },
+        { "source": "Airial Travel（旅行アグリゲーターの集計評価）", "score": 4.8, "scale": 5, "review_count": 440, "checked_date": "2026-11-06", "url": "https://airial.travel/attractions/japan/koya/okunoin-cemetery-osaka-SOUtt_Vp" }
+      ],
+      "price_range_jpy": {
+        "note": "参拝は無料。宿泊や一部施設（燈籠堂地下の戒壇巡り等）は別途案内があるが、具体的な料金は本セッションでは確認していない。",
+        "as_of_search_date": "2026-11-06",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "20万基以上とされる墓石・慰霊碑・供養塔が杉木立の参道沿いに並び、弘法大師・空海が今も禅定を続けているとされる御廟まで続く、世界遺産『紀伊山地の霊場と参詣道』の中核スポット。苔むした石塔群と巨木が織りなす荘厳な空気感は唯一無二で、夜間ナイトツアーでは灯籠に照らされた幽玄な雰囲気を体験できる。拝観無料でアクセスしやすい一方、既に世界的に非常に知名度が高く、多数の旅行メディア・口コミサイトで繰り返し紹介されている定番スポットでもある。",
+      "renewal_or_news": "本セッションでは『今だけ』性を裏付ける具体的な改修・新企画等のニュースは確認できなかった。長年安定して高評価を得ている定番の世界遺産スポットという位置づけ。",
+      "target_audience": ["一人旅", "夫婦", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 8,
+        "unique_experience_score": 14,
+        "photogenic": 14,
+        "value_for_price": 9,
+        "sns_buzz": 8,
+        "access_and_freshness": 3
+      },
+      "score": 79,
+      "recommendation_reason": "LiveJapan経由のTripAdvisor集計（4.7/5・1,310件）、Airial Travel（4.8/5・440件）のいずれも高評価で、拝観無料という価値の高さもある。ただし両ソースともアグリゲーター経由の二次表示であり、同じ検索で件数表示が344件・440件・1,314件などページごとに揺れがあったため、独立した一次情報源（TripAdvisor本体・Googleマップ本体）での再確認ができておらず、review_reliabilityは厳しめに評価した。また本リポジトリのミッションである『まだ知られていない良い場所』という観点では、奥之院は既に世界的知名度が非常に高く、改めて紹介する新規性・鮮度のニュース性を本セッションでは見出せなかった。スコア自体は75点基準を上回るが、上記の信頼性・新規性の観点からselectedではなくshortlistedとした。次サイクル以降、TripAdvisor/Googleマップ本体での直接確認と、何らかの『今だけ』のニュース性（限定行事・新ツアー等）が見つかれば再評価を推奨する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "検索範囲では『営業停止』『詐欺』『重大な安全・衛生問題』等の決定的な欠格事項は見つからなかった。口コミの中には、バス停（奥の院口）から直接向かうより、東側の一の橋から歩いて参道を抜ける方が良いという助言が複数見られ、観光バス利用時の混雑・駆け足参拝への言及があった。本セッションのWebSearch予算の制約により、低評価コメントの個別本文までは精査できていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "観光庁多言語解説文データベース『高野山の歴史』", "url": "https://www.mlit.go.jp/tagengo-db/en/H30-00934.html" },
+        { "type": "official", "title": "和歌山県広報誌『和（なごみ）』高野山特集", "url": "https://www.pref.wakayama.lg.jp/prefg/000200/nagomi/p52/p04_05.pdf" },
+        { "type": "review_site", "title": "高野山 奥之院 口コミ（TripAdvisor集計表示） - LIVE JAPAN", "url": "https://livejapan.com/en/in-kansai/in-pref-wakayama/in-wakayama_koyasan/spot-lj0011186/reviews/" },
+        { "type": "review_site", "title": "Okunoin Cemetery 評価集計 - Airial Travel", "url": "https://airial.travel/attractions/japan/koya/okunoin-cemetery-osaka-SOUtt_Vp" },
+        { "type": "other", "title": "高野山 観光スポットランキング - 訪日ラボ(honichi.com)", "url": "https://honichi.com/ranking/touristattraction/kouyasan/" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-11-06-koyasan-kongobuji-danjo-garan",
+      "name": "金剛峯寺・壇上伽藍（根本大塔）",
+      "region": "和歌山県伊都郡高野町高野山152",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Jorudan（紅葉特集ページ内の口コミ集計表示）", "score": 3, "scale": 5, "review_count": 1, "checked_date": "2026-11-06", "url": "https://sp.jorudan.co.jp/leaf/spot_J0239.html" }
+      ],
+      "price_range_jpy": {
+        "note": "ある初詣情報ページで、山内共通券（金剛峯寺・根本大塔・徳川家霊台・大師教会本部・金堂）2,500円という記載を確認したが、掲載時期・現行プランとの一致は本セッションでは確認できなかった。根本大塔単独の拝観料として、別の子ども向け情報サイトでは大人200円という表示もあり、両者の関係（単独券か共通券か）も確証が取れていない。推測での確定記載は行わない。",
+        "as_of_search_date": "2026-11-06",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "高野山真言宗の総本山・金剛峯寺の中核にあたる壇上伽藍にある根本大塔は、高さ48.5mの多宝塔で、内部には色彩豊かな立体曼荼羅（本尊・大日如来を中心とした仏像群）を拝観できる、真言密教のシンボル的建造物。",
+      "target_audience": ["一人旅", "夫婦", "友人"],
+      "score_breakdown": {
+        "review_rating": 6,
+        "review_reliability": 3,
+        "unique_experience_score": 15,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 50,
+      "recommendation_reason": "立体曼荼羅・48.5mの多宝塔という建築的・宗教的価値は非常に高いが、本セッションで確認できた数値評価はJorudan経由の『★3・口コミ1件』のみで、原則6・7が求める独立2情報源・十分な件数での評価確認を満たせなかった。TripAdvisor・Googleマップへの直接アクセスでの再確認を試みる前に本セッションのWebSearch予算上限に到達したため、推測で数値を補わずrejectedとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できた唯一の数値（Jorudan経由★3・1件）は件数が極端に少なく信頼性が低い。具体的な低評価コメント本文、重大な欠格事由の有無は本セッションでは確認できていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "高野山 金剛峯寺の紅葉（口コミ★3・1件の表示） - Jorudan", "url": "https://sp.jorudan.co.jp/leaf/spot_J0239.html" },
+        { "type": "other", "title": "根本大塔 施設情報・料金 - いこーよ", "url": "https://iko-yo.net/facilities/32183/tickets" },
+        { "type": "other", "title": "高野山 壇上伽藍・根本大塔の紹介記事 - るるぶ", "url": "https://rurubu.jp/andmore/article/18938" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数が極端に少なく（確認できた数値はJorudan経由の★3・1件のみ）、独立した2つ以上の信頼できる数値評価源を本セッションでは確認できなかった（原則6・7）。Web検索予算の制約によりTripAdvisor・Googleマップ等への直接アクセスでの再確認もできなかった。数値の推測は行わず、次サイクル以降、検索環境が確保できた時点での再調査を推奨する。"
+    }
+  ]
+}

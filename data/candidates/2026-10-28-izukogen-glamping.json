@@ -1,0 +1,236 @@
+{
+  "cycle_date": "2026-10-28",
+  "theme": "グランピング（静岡県伊東市・伊豆高原エリア）",
+  "season_rationale": "10月下旬の伊豆高原は紅葉が進み始め、朝晩の気温が下がってドーム型テント泊・焚き火・BBQが心地よい季節に入る。真夏の暑さや台風シーズンを過ぎ、年末年始の予約混雑が始まる前に計画を立てやすいタイミングでもある。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-22-mori-premier-izu", "region": "静岡県伊東市吉田", "category": "オールインクルーシブ", "note": "同じ伊東市だが温泉露天風呂付きホテル（オールインクルーシブ）で、カテゴリ・施設形態ともにグランピングとは異なる" },
+    { "post_id": "2026-09-14-kinmedai-kokorone", "region": "静岡県伊東市（宇佐美温泉）", "category": "グルメ旅館", "note": "同じ伊東市だが宇佐美温泉エリアのグルメ旅館で、伊豆高原エリア・グランピングとはエリア・カテゴリとも異なる" }
+  ],
+  "duplication_note": "依頼時点の指定は『カテゴリ：グランピング／地域：静岡県伊東市（伊豆高原エリア）』。重複回避のため captions/・data/candidates/ の全履歴（2026-09-14〜2026-10-27、1ヶ月以上前の分も含む）を『伊豆高原』『伊東』『izu』『glamping』『グランピング』で全件grepした結果、伊東市自体は2026-09-14（金目鯛の宿こころね・グルメ旅館・宇佐美温泉）、2026-10-22（izu-ito-all-inclusive・mori-premier-izu・オールインクルーシブ・伊東市吉田）で登場済みだが、いずれもカテゴリ・エリアが異なり、『伊豆高原×グランピング』の組み合わせとしての実際の投稿（captions/）は過去に一度もない。なお、data/candidates/2026-09-14-glamping.json では『伊豆グランヴィレッジ グランピング』が候補として検討されたが、当時は（1）楽天トラベルの口コミ件数（80件）までは確認できたものの具体的な評価点数値をWeb検索の制約でファクトチェックしきれず、（2）既存キャプション『金目鯛の宿こころね』と同一地域（伊東市）であることを理由に、いわゆる『原則29』（地域・カテゴリの連続回避）に基づき候補から除外されていた。今回は（a）依頼により『静岡県伊東市・伊豆高原エリア』×『グランピング』が明示指定されていること、（b）今回のWeb調査でじゃらんnet・楽天トラベルの具体的な評価点数値（それぞれ4.2・14件／4.58・106件）を確認でき、かつ2026年7月に新設された愛犬同伴専用ルーム『Dog site』という鮮度の高いニュースも確認できたこと、（c）カテゴリ『グランピング×伊豆高原エリア』としての投稿は過去に一度も存在しないこと、を踏まえ、原則4（最新性の確認）を満たす新規情報として改めて調査対象とした。グランアイラ伊豆高原・K's CAMP伊豆高原グランピング・奏の森リゾート フォレストグランピングのいずれも、本リポジトリで候補・投稿として過去に一度も登場していない。",
+  "candidates": [
+    {
+      "id": "2026-10-28-izu-granvillage-glamping",
+      "name": "伊豆グランヴィレッジ グランピング",
+      "region": "静岡県伊東市富戸1089-4（伊豆高原エリア、伊豆ぐらんぱる公園前）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル クチコミ",
+          "score": 4.58,
+          "scale": 5,
+          "review_count": 106,
+          "checked_date": "2026-10-28",
+          "url": "https://travel.rakuten.co.jp/HOTEL/184404/review.html"
+        },
+        {
+          "source": "じゃらんnet クチコミ",
+          "score": 4.2,
+          "scale": 5,
+          "review_count": 14,
+          "checked_date": "2026-10-28",
+          "url": "https://www.jalan.net/yad320352/kuchikomi/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "キャンプ場専門サイト（なっぷ）経由の情報では料金目安32,040円〜と案内されているが、1泊2食付か・1棟あたりかなど内訳は今回のWeb調査では確認できなかった。確定額は公式サイト（id-village.jp/granvillage）または各予約サイトで要確認。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "伊豆シャボテン動物公園グループのオフィシャルホテルとして2022年7月10日に開業。壁面が2重構造で外気温に左右されにくい『スクエアテント』にフィンランド式サウナを併設し、プライベートデッキでのグリルBBQを楽しめる。伊豆ぐらんぱる公園の目の前という好立地で、グループのレジャー施設とあわせた滞在がしやすい。2026年7月18日には、運営会社・伊豆シャボテンリゾート株式会社の50周年記念事業の一環として、1日3部屋限定・プライベートドッグラン付きの愛犬同伴専用ルーム『Dog site』を新設し、狂犬病予防接種・混合ワクチン接種済みの愛犬と泊まれるという切り口を加えた。",
+      "renewal_or_news": "2026年7月18日、1日3部屋限定・プライベートドッグラン完備の愛犬同伴専用ルーム『Dog site』を新設（ウェルカムセット・愛犬用アメニティ付き）。伊豆シャボテン動物公園グループの公式X（旧Twitter）アカウントおよびPR TIMES配信のプレスリリースで、伊豆シャボテンリゾート株式会社50周年記念事業の一環として案内されている（原則4：最新性の確認）。",
+      "target_audience": ["カップル", "友人", "家族"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 12,
+        "unique_experience_score": 17,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 78,
+      "recommendation_reason": "じゃらんnet（総合4.2・14件）、楽天トラベル（総合4.58・106件）という2つの独立した情報源でともに採用ライン（4.0以上）を確認。フィンランド式サウナ付きスクエアテント、プライベートデッキでのBBQという独自体験に加え、2026年7月に1日3部屋限定・プライベートドッグラン付きの愛犬同伴専用ルーム『Dog site』を新設した鮮度の高いニュースがあり、伊豆シャボテン動物公園グループのオフィシャルホテルという運営面の安心材料もある。伊豆高原エリアのグランピングとしては類例の少ない『サウナ＋ドッグサイト』という2つの独自性を併せ持ち、初見の人にも特徴が伝わりやすい。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベルの口コミでは、フリードリンクを受け取るためフロントまで行く手間や、シャワーの水圧調整のしにくさを指摘する声があった。Yahoo!トラベルでは清掃の行き届かなさを理由に星4つ（満点中）とした投稿が見られた。じゃらんの口コミでも風呂の評価（3.7）が接客・サービス（4.3）より低めだった。いずれも重大な衛生・安全上の問題や予約対応トラブルの多発を示すものではなく、食事・テントの広さ・ロケーションを評価する声が多数を占めた。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "伊豆グランヴィレッジは、伊豆シャボテン動物公園グループを運営する伊豆シャボテンリゾート株式会社のオフィシャルホテルとして2022年7月10日にオープンした。公式サイトには『Have a blissful moment ～至福のひとときを～』というキャッチコピーが掲げられている。2026年7月18日には、同社の50周年記念事業の一環として、1日3部屋限定・プライベートドッグラン付きの愛犬同伴専用ルーム『Dog site』を新設した。ただし、このグランピング施設や『Dog site』の企画・設計にあたって、運営者・開発担当者が具体的にどのような思い・コンセプトを込めたかを直接語ったインタビューや声明は、今回のWeb調査では見つけられなかった。会社全体の経営理念として代表者挨拶文に『ご来園者の笑顔のために』という言葉が掲げられているが、これは伊豆グランヴィレッジ単体に向けた発言ではなく、グループ全体の方針として紹介されているものである。創業・開発に込められた具体的な『思い』については推測や発言の創作を行わず、確認できなかった旨を明記する。",
+        "sources": [
+          { "type": "press", "title": "「伊豆グランヴィレッジ グランピング」待望のワンちゃん専用ルーム 2026年7月18日ニューオープン（50周年記念事業） - PR TIMES", "url": "https://prtimes.jp/main/html/rd/p/000000275.000038159.html" },
+          { "type": "official", "title": "伊豆シャボテンリゾート株式会社 代表取締役社長挨拶", "url": "http://www.izu-sr.co.jp/company/company-greeting.php" },
+          { "type": "press", "title": "伊豆グランヴィレッジオープン「ラグジュアリーなスクエアテント＆フィンランド式サウナ登場！」（2022年7月開業リリース） - 共同通信PRワイヤー", "url": "https://kyodonewsprwire.jp/release/202207063501" }
+        ]
+      },
+      "sources": [
+        { "type": "official", "title": "IZU GRAN VILLAGE Glamping｜伊豆グランヴィレッジ 公式サイト", "url": "https://id-village.jp/granvillage/" },
+        { "type": "booking_site", "title": "伊豆グランヴィレッジ グランピング クチコミ（総合4.2・14件） - じゃらんnet", "url": "https://www.jalan.net/yad320352/kuchikomi/" },
+        { "type": "booking_site", "title": "伊豆グランヴィレッジ グランピング クチコミ（総合4.58・106件） - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/184404/review.html" },
+        { "type": "review_site", "title": "伊豆グランヴィレッジ グランピング 宿泊予約 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00914094/" },
+        { "type": "press", "title": "「伊豆グランヴィレッジ グランピング」待望のワンちゃん専用ルーム2026年7月18日ニューオープン - PR TIMES", "url": "https://prtimes.jp/main/html/rd/p/000000275.000038159.html" },
+        { "type": "sns", "title": "伊豆シャボテン動物公園グループ【公式】 Dog site新設告知ポスト - X", "url": "https://x.com/shabotengroup/status/2064969823176765916" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-28-glam-aira-izukogen",
+      "name": "グランアイラ伊豆高原（スモアの森）",
+      "region": "静岡県伊東市吉田（伊豆高原エリア）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Yahoo!マップ クチコミ",
+          "score": 3.13,
+          "scale": 5,
+          "review_count": 3,
+          "checked_date": "2026-10-28",
+          "url": "https://map.yahoo.co.jp/v3/place/5CQd9PtXukE/review"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "今回のWeb調査では具体的な1泊料金を確認できなかった。源泉かけ流し客室温泉付きという高付加価値設備のため中〜高価格帯と推測されるが、確定額ではないため予約時に公式サイト・予約サイトで要確認。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "静岡県初とされる、源泉かけ流しの客室温泉付きグランピング施設。全棟が太平洋を望むオーシャンビューで、外周をウッドフェンスで囲み周囲の視線を気にせず過ごせる『スイートガーデン』というプライベート性を重視した空間構成を特徴とする。アウトドアブランド『S'more』とのコラボレーションにより、5mベルテントと専用水回りテント（トイレ・洗面）を備えた新エリア『スモアの森』も展開している。",
+      "target_audience": ["カップル", "記念日", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 8,
+        "review_reliability": 4,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 55,
+      "recommendation_reason": "『静岡県初・源泉かけ流し客室温泉付き』『全棟オーシャンビュー』『S'moreとのコラボエリア』という独自性は非常に高く、unique_experience_scoreは高めに評価した。一方で数値評価として確認できた独立情報源はYahoo!マップのクチコミ（3.13・3件）のみで、件数が極端に少なく確証に乏しい。加えてトリップアドバイザーには『2度と行かない。』という表題の低評価レビューがあり、清掃・接客面の指摘が複数サイトにわたって見られたため、総合スコアは75点基準に届かず見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "トリップアドバイザー（2024年9月投稿）には『2度と行かない。』と題した星1のレビューがあり、トイレの汚れ・室内の埃・寝具周りの不潔さ、食事の物足りなさ、天候によって露天風呂の照明が暗く怖く感じたという指摘があった。Yahoo!マップのクチコミ（3件・平均3.13）でも、星1の投稿で受付対応が無愛想で長時間待たされたこと・清掃が不十分なことが指摘され、別の星2の投稿でも対応の悪さからリピートしないと書かれていた。好意的な声（食事の量・質を評価するブログ記事等）もあるが、清掃・接客に関する複数の独立した低評価投稿が確認されたため、negative_review_checkでは disqualifying_issues_found を true とした。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "official", "title": "Glam Aira Izu-kogen（スモアの森）公式サイト", "url": "https://en.glamping-izu.com/" },
+        { "type": "review_site", "title": "グランアイラ伊豆高原 クチコミ（平均3.13・3件） - Yahoo!マップ", "url": "https://map.yahoo.co.jp/v3/place/5CQd9PtXukE/review" },
+        { "type": "review_site", "title": "『2度と行かない。』グランアイラ伊豆高原の口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g298123-d28014953-r971774509-GLAMA_AIRA_Izukogen-Ito_Shizuoka_Prefecture_Tokai_Chubu.html" },
+        { "type": "other", "title": "グランアイラ伊豆高原 施設紹介（源泉かけ流し客室温泉・オーシャンビュー） - Walkerplus", "url": "https://www.walkerplus.com/spot/ar0622s493161/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価として確認できた独立情報源がYahoo!マップ（3.13・3件）の1件のみで、採用ライン（4.0以上・複数独立情報源）に届かなかった。加えてトリップアドバイザーに『2度と行かない。』という表題の清掃・接客面を指摘する低評価レビューがあり、Yahoo!マップ側の低評価投稿とも内容が重なるため、negative_review_checkでdisqualifying_issues_found=trueと判定し、原則10の観点から今回は見送った。施設コンセプト自体の独自性は高く、公式サイトでの料金・最新口コミ状況の確認を前提に将来的な再調査の余地を残す。"
+    },
+    {
+      "id": "2026-10-28-ks-camp-izukogen",
+      "name": "K's CAMP 伊豆高原グランピング",
+      "region": "静岡県伊東市富戸1074-1（伊豆高原エリア）",
+      "category": "グランピング",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "なっぷ（キャンプ場専門サイト）クチコミ",
+          "score": 4.78,
+          "scale": 5,
+          "review_count": 3,
+          "checked_date": "2026-10-28",
+          "url": "https://www.nap-camp.com/shizuoka/15688/reviews"
+        },
+        {
+          "source": "楽天トラベル クチコミ",
+          "score": 4.80,
+          "scale": 5,
+          "review_count": 8,
+          "checked_date": "2026-10-28",
+          "url": "https://travel.rakuten.co.jp/HOTEL/187506/review.html"
+        },
+        {
+          "source": "Booking.com クチコミ",
+          "score": 9.1,
+          "scale": 10,
+          "review_count": 70,
+          "checked_date": "2026-10-28",
+          "url": "https://www.booking.com/hotel/jp/scampyi-dou-gao-yuan-guranpingu.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "今回のWeb調査では具体的な1泊料金を確認できなかった。確定額は公式情報・各予約サイトで要確認。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "伊東市富戸の森の中にあり、冷暖房・ベッド・専用シャワー・トイレを備えたテントで『ホテルのような快適さ』を掲げ、グランピング初心者にも向くと紹介されている。地産地消の食材を使ったBBQが特徴で、JR伊東線「富戸」駅から徒歩約10分、送迎サービスもある（予約時に事前連絡が必要）。",
+      "target_audience": ["カップル", "友人"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 10,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 67,
+      "recommendation_reason": "なっぷ（4.78・3件）、楽天トラベル（4.80・8件）、Booking.com（9.1/10・70件、5点換算で約4.55）という3つの独立した情報源すべてで採用ライン（4.0以上）を満たし、Booking.comでは清潔さ9.3・施設9.2・スタッフ9.6と項目別評価も高い。ただし国内の主要予約サイト（なっぷ・楽天トラベル）での口コミ件数が3件・8件と少なく、母数の薄さから評価の安定性に確証を持てない。独自性・映え要素も『サウナ＋ドッグサイト』の伊豆グランヴィレッジや『源泉かけ流し客室温泉＋オーシャンビュー』のグランアイラと比べると相対的に控えめで、score_breakdown合計は67点に留まった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "今回の検索範囲では、重大な衛生・安全上の問題や予約対応トラブルを示す低評価投稿は確認できなかった。Booking.comの項目別評価（清潔さ9.3・施設9.2・スタッフ9.6・快適さ9.1）はいずれも高水準で、具体的な低評価コメントの本文は今回のWeb調査では確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "K's CAMP 伊豆高原グランピング クチコミ（4.78・3件） - なっぷ", "url": "https://www.nap-camp.com/shizuoka/15688/reviews" },
+        { "type": "booking_site", "title": "K's Camp 伊豆高原 クチコミ（4.80・8件） - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/187506/review.html" },
+        { "type": "review_site", "title": "K's Camp 伊豆高原 グランピング クチコミ（9.1/10・70件） - Booking.com", "url": "https://www.booking.com/hotel/jp/scampyi-dou-gao-yuan-guranpingu.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "評価点自体は3つの独立情報源すべてで4.0以上（Booking.com換算で約4.55）と良好だが、国内主要サイトでの口コミ件数が3件・8件と非常に少なく、確証を持てる母数とは言えない。独自性・映え要素も他候補と比べて控えめで、score_breakdown合計67点は75点基準に届かなかったため、今回は見送った。Hidden Gemとしての再調査価値は残る。"
+    },
+    {
+      "id": "2026-10-28-kanadenomori-forest-glamping",
+      "name": "奏の森リゾート フォレストグランピング",
+      "region": "静岡県伊東市（伊豆高原エリア、奏の森リゾート内）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "jcation クチコミ",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 17,
+          "checked_date": "2026-10-28",
+          "url": "https://jcation.com/hotel/detail-24834/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "今回のWeb調査では具体的な1泊料金を確認できなかった。確定額は公式サイト・予約サイトで要確認。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2023年秋開業の複合施設『奏の森リゾート』内にあるグランピングエリア。屋根付きBBQ、体験施設、ベーカリーカフェ、ブランコ・ジップラインなどの遊具が併設され、子ども連れ家族向けの要素が強い。2026年10月17日には開業3周年記念イベントが予定されている。",
+      "target_audience": ["家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 5,
+        "unique_experience_score": 13,
+        "photogenic": 9,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 51,
+      "recommendation_reason": "予約サイトjcationでは4.6（17件）と高評価だが、同じグランピングエリアについてキャンプ専門サイトのなっぷ・いこーよでは口コミ0件と表示されており、サイト間で情報の食い違いが大きい。なっぷ上では施設名が『伊東 奏の森キャンプ場（旧:奏の森リゾート フォレストグランピング）』に変わっているとの表示もあり、現在の名称・運営形態が過渡期にある可能性がある。独立した2情報源での数値確認ができなかったため、原則7の観点から確証不足と判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "jcationの口コミでは、3月に宿泊した家族がテント内・トイレ・シャワー棟の清潔さと暖かさを評価しつつ、朝食の選択肢の少なさ、焚き火用の薪が湿っていて火起こしに時間がかかったという指摘をしていた。重大な衛生・安全上の問題は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "奏の森リゾート フォレストグランピング クチコミ（4.6・17件） - jcation", "url": "https://jcation.com/hotel/detail-24834/" },
+        { "type": "other", "title": "フォレストグランピング（奏の森リゾート） - なっぷ", "url": "https://www.nap-camp.com/shizuoka/16198" },
+        { "type": "press", "title": "奏の森リゾート 開業3周年記念イベント（2026年10月17日）関連記事 - san-tatsu.jp", "url": "https://san-tatsu.jp/pressrelease/465428/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価として確認できた独立情報源がjcation（4.6・17件）の1件のみで、他サイト（なっぷ・いこーよ）では口コミ0件表示や施設名の過渡的な変化（『伊東 奏の森キャンプ場』への改称表示）も見られ、原則7（独立情報源の確認）の基準を満たせなかった。施設全体としても子ども連れ・BBQ複合施設としての性格が強く、本アカウントが重視する『独自の贅沢体験』という切り口ではグランピング単体としての訴求力が他候補より弱いと判断し、見送った。"
+    }
+  ]
+}

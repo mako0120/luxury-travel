@@ -1,0 +1,168 @@
+{
+  "cycle_date": "2026-09-22",
+  "theme": "東京都内ホテルで開催中・開催予定の期間限定アフタヌーンティー／グルメイベント（リサーチ＋キャプションのみ、画像構成なし）",
+  "season_rationale": "9月下旬〜11月は都内の主要ラグジュアリーホテルが『秋の味覚』や美術展・アート展とのコラボレーションを打ち出したアフタヌーンティーを一斉展開する時期にあたり、少し贅沢な秋の街歩き・記念日利用の切り口として投稿タイミングに適している（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-21-kerama-terrace", "region": "沖縄県島尻郡座間味村（慶良間諸島）", "category": "アクティビティ" },
+    { "post_id": "2026-09-20-akiu-rantei", "region": "宮城県仙台市（秋保温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-sheraton-yosweets", "region": "大阪府大阪市天王寺区（上本町）", "category": "その他（期間限定イベント）" },
+    { "post_id": "2026-09-18-yokohama-gentei-event", "region": "神奈川県横浜市（みなとみらい・山下公園）", "category": "その他（期間限定イベント／今回全候補が75点未満で不採用・キャプション未作成）" }
+  ],
+  "duplication_note": "captions/ の直近3件は沖縄（アクティビティ）・宮城（温泉旅館）・大阪（期間限定グルメイベント）で、東京都内の投稿は data/candidates・captions のいずれにも存在しない。同じ『その他（期間限定イベント）』カテゴリは大阪（2026-09-14）で使用済みだが、地域が東京都内で異なり、直近2投稿（アクティビティ・温泉旅館）とも連続しないためバランス上問題ない（原則29）。依頼指定どおり東京都内・期間限定アフタヌーンティー／グルメイベントを対象に調査した。",
+  "research_constraints_note": "前回（2026-09-18横浜サイクル）は施設単体の口コミ評価を確認できないままイベント詳細の調査を優先し、3候補ともreview_rating/review_reliabilityが検証不能で全滅した反省を踏まえ、本サイクルでは各候補についてTripadvisor等の施設全体の評価点・件数を先に確認してからイベント詳細を調査する順序に変更した。また本サイクル終盤でこのセッションのWebSearch回数上限（200回/セッション）に到達したため、一部候補（帝国ホテル東京・コンラッド東京）については楽天トラベル／一休.comの評価点は確認できたが、明確なクチコミ件数まではWebSearchのスニペットから確認できなかった。件数が確認できない評価点はreview_scoresに含めず、Tripadvisorなど件数まで確認できた情報源のみを構造化データとして記録している（捏造回避）。WebFetchは今回もtravel.rakuten.co.jp・ikyu.com・tripadvisor.comのいずれもEGRESS_BLOCKEDだった。",
+  "candidates": [
+    {
+      "id": "2026-09-22-mandarin-oriental-tokyo-turner-tea",
+      "name": "マンダリン オリエンタル 東京「テート美術館『ターナー展』アフタヌーンティー」（オリエンタルラウンジ）",
+      "region": "東京都中央区日本橋室町（日本橋三井タワー／三越前駅直結）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Tripadvisor（ホテル全体の評価）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 2921,
+          "checked_date": "2026-09-22",
+          "url": "https://www.tripadvisor.com/Hotel_Review-g1066444-d585204-Reviews-Mandarin_Oriental_Tokyo-Chuo_Tokyo_Tokyo_Prefecture_Kanto.html"
+        },
+        {
+          "source": "Trip.com（ホテル全体の評価）",
+          "score": 9.6,
+          "scale": 10,
+          "review_count": 137,
+          "checked_date": "2026-09-22",
+          "url": "https://us.trip.com/hotels/tokyo-hotel-detail-1503015/mandarin-oriental-tokyo/review.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "[月〜木] 8,580円／[金〜日] 10,340円（別途サービス料15%）。10月21日(水)〜31日(土)はハロウィン仕様のアフタヌーンティーも追加提供予定。完全予約制。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "日本橋三井タワー38階「オリエンタルラウンジ」で、国立西洋美術館で開催中の『テート美術館 ターナー展――崇高の絵画、現代美術との対話』とのコラボレーションにより提供されるアフタヌーンティー。“光の画家”ターナーの作品に着想を得て、英国ゆかりの伝統菓子や素材、作品の色彩・構図のエッセンスを取り入れたセイボリー・スイーツで構成。締めくくりには代表作《捕鯨船エレバス号に万歳！ もう一頭獲ったぞ！》をモチーフにしたスペシャルデザートをゲストの目の前で仕上げる演出があり、実在する美術展との連動という『ここでしかできない』希少性と高い映え要素を兼ね備える。",
+      "renewal_or_news": "2026年9月24日(木)〜11月15日(日)の期間限定で提供開始（fashion-press・favy・グルメプレス等の複数メディアで開催期間・内容を確認済み）。国立西洋美術館の『テート美術館 ターナー展』開催に合わせた企画で、調査時点（2026年9月22日）からわずか2日後に提供開始という高い時事性を持つ。",
+      "target_audience": ["カップル", "記念日", "夫婦", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 12,
+        "unique_experience_score": 19,
+        "photogenic": 14,
+        "value_for_price": 6,
+        "sns_buzz": 9,
+        "access_and_freshness": 5
+      },
+      "score": 86,
+      "recommendation_reason": "Tripadvisor 4.0点／2,921件、Trip.com 9.6点(10点満点)／137件と、独立2情報源でホテル全体の高評価・十分な件数を確認できた（原則7充足）。国立西洋美術館の実際の企画展『テート美術館 ターナー展』と連動した唯一無二のコラボ企画で、複数メディア（ファッションプレス・Precious.jp・favy・グルメプレス）で既に取り上げられておりSNS話題性も高い。提供開始が調査時点からわずか2日後（9/24〜）と時事性が極めて高く、『なぜ今なのか』を明確に語れる点が決め手。価格は土日祝10,340円+サービス料15%とやや高めだが、実在の美術展とのコラボという体験価値がそれを正当化する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Web検索の範囲では、朝食・眺望・客室・ホスピタリティ全般について高評価のコメントが中心だった。一方で『スタッフの対応が日本語での案内に不慣れ』『朝食時の案内不足』『一部予約特典（一休ダイヤモンド会員特典）が適用されなかった』といった個別の接客・運用面の不満も複数確認できた。ただし『清潔感』『安全性』『重大なクレーム』に類する致命的な指摘は見当たらず、大規模ラグジュアリーホテルとして許容範囲内と判断した。今回のセッションはWebSearch回数上限に到達しており、Googleマップの評価点・件数までは確認できていない点は留意事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "マンダリン オリエンタル 東京「ターナー展」アフタヌーンティー、“光の画家”の世界を英国伝統菓子で - ファッションプレス", "url": "https://www.fashion-press.net/news/149628" },
+        { "type": "press", "title": "「マンダリン オリエンタル 東京」で楽しむ芸術の秋！「テート美術館 ターナー展」とのコラボレーションアフタヌーンティー開催 - precious.jp", "url": "https://precious.jp/articles/-/62439" },
+        { "type": "press", "title": "三越前駅｜「ターナー展」着想のアフタヌーンティー！9/24〜期間限定登場『マンダリン オリエンタル 東京』 - favy", "url": "https://www.favy.jp/topics/38093" },
+        { "type": "press", "title": "マンダリン オリエンタル 東京、国立西洋美術館「ターナー展」に着想を得たアフタヌーンティーを期間限定で提供 - グルメプレス", "url": "https://gourmetpress.net/1468099/" },
+        { "type": "review_site", "title": "MANDARIN ORIENTAL TOKYO - Hotel Reviews - Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-g1066444-d585204-Reviews-Mandarin_Oriental_Tokyo-Chuo_Tokyo_Tokyo_Prefecture_Kanto.html" },
+        { "type": "review_site", "title": "マンダリン オリエンタル 東京の口コミ・レビュー・お客様の声137件 - Trip.com", "url": "https://us.trip.com/hotels/tokyo-hotel-detail-1503015/mandarin-oriental-tokyo/review.html" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-22-conrad-tokyo-art-autumn-tea",
+      "name": "コンラッド東京「アート・オブ・オータム・アフタヌーンティー」（バー&ラウンジ トゥエンティエイト）",
+      "region": "東京都港区東新橋（汐留・浜離宮側）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Tripadvisor（ホテル全体の評価）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 4420,
+          "checked_date": "2026-09-22",
+          "url": "https://www.tripadvisor.com/Hotel_Review-g1066451-d571809-Reviews-Conrad_Tokyo-Minato_Tokyo_Tokyo_Prefecture_Kanto.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "平日8,500円／土日祝9,200円。18:30〜はスパークリングワイン含むフリーフロードリンクとセイボリー・スイーツ各4種を楽しめる『アート・オブ・オータム・ナイトティー』も提供。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "汐留・浜離宮を望むコンラッド東京28階「バー&ラウンジ トゥエンティエイト」で提供される、芸術の秋をテーマにしたアフタヌーンティー。シャインマスカット・洋梨・紫芋・いちじくなど秋の味覚を、アンティークジュエリーやカメオ、封蝋から着想したスイーツ・セイボリーで表現し、『美術館を巡るような』世界観を演出する。",
+      "renewal_or_news": "2026年10月1日(木)〜11月30日(月)の期間限定で提供予定（ファッションプレス・るるぶ&more.・グルメプレス等の複数メディア、および公式サイトで開催期間を確認済み）。",
+      "target_audience": ["カップル", "記念日", "女子旅", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 13,
+        "unique_experience_score": 15,
+        "photogenic": 13,
+        "value_for_price": 8,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 81,
+      "recommendation_reason": "Tripadvisor 4.0点／4,420件（日本のホテル144軒中5位）と、3候補中もっとも大規模かつ安定した口コミ母数を持つ。ジュエリー・カメオをモチーフにした世界観は映え要素も高く、価格も3候補中もっとも手頃（平日8,500円）で『少し奮発すれば届く』トーンに合う。ただし一休.comの総合得点4.52点は確認できたもののクチコミ件数までは特定できず、独立2情報源（原則7）の件数付きデータとしてはTripadvisorの1件のみにとどまる。また提供開始が10月1日からとマンダリン案より時事性でやや劣り、テーマも実在の外部企画（美術展等）とは連動していない汎用的な『芸術の秋』モチーフである点から、次点候補として記録する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一休.comでは『客室・アメニティ』『施設・設備』『接客・サービス』が軒並み高評価だったが、『チェックイン時・エグゼクティブラウンジ利用時のコミュニケーション』『カクテルタイムの料理内容』『朝食』について改善要望も一部確認できた。楽天トラベルでは『エキストラベッドが小さい』という指摘があった一方、誕生日プレート等のサプライズ対応は好評だった。清潔感・安全性に関わる重大なクレームは確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "コンラッド東京「アンティークアート」着想秋アフタヌーンティー、“カメオ＆宝石箱風”紫芋ムースなど - ファッションプレス", "url": "https://www.fashion-press.net/news/149809" },
+        { "type": "press", "title": "コンラッド東京、10月1日（木）より「アート・オブ・オータム・アフタヌーンティー」を開催 - グルメプレス", "url": "https://gourmetpress.net/1469217/" },
+        { "type": "official", "title": "アート・オブ・オータム・アフタヌーンティー - コンラッド東京", "url": "https://conrad-tokyo.hiltonjapan.co.jp/plans/restaurants/afternoontea/twentyeight-autumn" },
+        { "type": "review_site", "title": "コンラッド東京【 2026年最新の料金比較・口コミ・宿泊予約 】- Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-g1066451-d571809-Reviews-Conrad_Tokyo-Minato_Tokyo_Tokyo_Prefecture_Kanto.html" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-09-22-imperial-hotel-tokyo-autumn-hunt",
+      "name": "帝国ホテル 東京「Autumn Hunt（オータムハント）」アフタヌーンティー（インペリアルラウンジ アクア）",
+      "region": "東京都千代田区内幸町（日比谷）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Tripadvisor（ホテル全体の評価）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 2825,
+          "checked_date": "2026-09-22",
+          "url": "https://www.tripadvisor.jp/Hotel_Review-g1066443-d302435-Reviews-Imperial_Hotel_Tokyo-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "平日9,400円／土日祝9,800円。11:30〜18:00(L.O.)、要予約。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "帝国ホテル 東京 本館17階「インペリアルラウンジ アクア」で提供される秋限定アフタヌーンティー『Autumn Hunt（オータムハント）』。ぶどう・いちじく・洋梨・りんご・きのこ・かぼちゃ・栗など秋の実りを使った11品のセイボリー・スイーツに加え、焼きりんごとラムレーズンアイスを合わせたスペシャルデザートが目玉。日比谷という都心一等地からの眺望も魅力。",
+      "renewal_or_news": "2026年9月1日(火)〜10月31日(土)の期間限定で提供中（家庭画報.com・複数メディアで開催期間を確認済み）。インペリアルラウンジ アクアの季節アフタヌーンティーは毎年展開される定番企画として定着している。",
+      "target_audience": ["カップル", "夫婦", "ホテル好き", "記念日"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 12,
+        "unique_experience_score": 14,
+        "photogenic": 11,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 5
+      },
+      "score": 76,
+      "recommendation_reason": "Tripadvisor 4.0点／2,825件（日本のホテル100軒中6位）と安定した口コミ母数を持ち、日比谷という都心一等地のアクセスの良さも魅力。ただし楽天トラベルの評価点（4.6点）は確認できたもののクチコミ件数は特定できず、件数付きの独立2情報源（原則7）としてはTripadvisorのみにとどまる。メニュー自体は季節の定番企画で、外部コラボや実在イベントとの連動があるマンダリン案・コンラッド案と比べると独自性・時事性の面でやや見劣りするため、次点候補として記録する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Web検索の範囲では、フレンチトーストなど朝食への高評価やロビーの美しさ、一流のホスピタリティを称賛するコメントが中心だった。一方で『チェックイン時のオーバーチャージ』『電球故障への対応の遅さ』『換気設備の音』『キャンセル時のスタッフ対応が事務的だった』といった個別の運用面の不満も複数確認できた。清潔感・安全性に関わる重大なクレームは確認できず、大規模ラグジュアリーホテルとして許容範囲内と判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "帝国ホテル 東京の秋を感じるアフタヌーンティー「Autumn Hunt（オータムハント）」で、実りの季節を召し上がれ - 家庭画報.com", "url": "https://www.kateigaho.com/closeup/182580" },
+        { "type": "official", "title": "【公式】帝国ホテル 東京｜アフタヌーンティー特集", "url": "https://www.imperialhotel.co.jp/tokyo/restaurant/scene/afternoon-tea" },
+        { "type": "review_site", "title": "帝国ホテル東京【 2026年最新の料金比較・口コミ・宿泊予約 】- Tripadvisor", "url": "https://www.tripadvisor.jp/Hotel_Review-g1066443-d302435-Reviews-Imperial_Hotel_Tokyo-Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html" }
+      ],
+      "decision": "shortlisted"
+    }
+  ]
+}

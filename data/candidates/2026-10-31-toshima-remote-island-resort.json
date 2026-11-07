@@ -1,0 +1,143 @@
+{
+  "cycle_date": "2026-10-31",
+  "theme": "離島リゾート（東京都利島村・利島）の新規調査",
+  "season_rationale": "離島リゾートカテゴリはこれまで佐渡・隠岐、宮古島・対馬、屋久島・甑島、壱岐、礁文島、八丈島、粟島・新島、伊平屋島、神津島、小値賀島など継続調査してきたが、伊豆諸島のうち利島（東京都利島村）は本リポジトリで一度も取り上げていない新規地域だった。利島は椿（約20万本・国内椿油生産量の約6割）とミナミハンドウイルカのドルフィンスイム（例年3〜11月）を軸にしたHidden Gem的な資源を持つ島であり、調査の優先度が高いと判断した。なお本サイクルでは、セッションの外部ネットワーク許可設定の範囲外にあるホスト（toshimamura.org、4travel.jp、tabelog.com、yamap.com、gotokyo.org、travelroad.co.jp等）へWebFetchで直接アクセスできず（DNS解決不可のエラー）、また会話全体で共有のWebSearch呼び出し上限に達したため、調査はWebSearchが返す統合要約と、そこに明示された引用元URLに基づいて行った。個々のページを直接閲覧して追加の細部（最新の正式料金表、口コミ本文全文など）を検証することはできなかった点を明記する。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-29-kozushima-remote-island-resort", "region": "東京都神津島村・神津島", "category": "離島リゾート", "note": "候補4件すべて不採用。伊豆諸島だが神津島村で、利島村とは別の自治体・別の島のため重複にはあたらない。" },
+    { "post_id": "2026-10-26-hachijojima-remote-island-resort", "region": "東京都八丈町・八丈島", "category": "離島リゾート", "note": "リードパークリゾート八丈島が77点でselected。伊豆諸島だが八丈町で、利島村とは無関係の別地域。" },
+    { "post_id": "2026-10-27-niijima-remote-island-resort", "region": "東京都新島村・新島", "category": "離島リゾート", "note": "新島村。ゲストハウスIKETAは新島の施設であることを本サイクルで確認した（利島の施設と誤認しないよう留意）。利島村とは別の自治体。" },
+    { "post_id": "2026-10-30-mikurajima-remote-island-resort", "region": "東京都御蔵島村・御蔵島", "category": "離島リゾート", "note": "伊豆諸島だが御蔵島村で、利島村とは無関係の別地域。" },
+    { "post_id": "2026-10-29-ojika-island-resort", "region": "長崎県北松浦郡小値賀町・小値賀島", "category": "離島リゾート", "note": "長崎県。利島村とは無関係の別地域。" },
+    { "post_id": "2026-10-23-koshikishima-remote-island-resort", "region": "鹿児島県甑島", "category": "離島リゾート", "note": "候補3件すべて不採用。利島と同様『大型リゾートホテルがなく家族経営の民宿のみ』というパターンが共通するが別地域。" },
+    { "post_id": "2026-10-28-iheya-remote-island-resort", "region": "沖縄県島尻郡伊平屋村・伊平屋島", "category": "離島リゾート", "note": "候補3件すべて不採用。利島とは無関係の別地域。" }
+  ],
+  "duplication_note": "data/candidates・captions配下の全件（1ヶ月以上前を含む既存ファイル全体）を『利島』『としま』『toshima』『寺田屋』『西山』『しんき』『かおり荘』『山中荘』『利島館』で検索・確認した結果、該当する候補・投稿は一件も存在せず、地域・施設とも完全に新規であることを確認した。なお『toshima』はヒットする場合でも豊島区（東京都豊島区）など同音異字の別地域の可能性があるため、該当候補が利島村に関するものでないことを個別に確認した上で重複なしと判断した。",
+  "candidates": [
+    {
+      "id": "2026-10-31-teradaya-toshima",
+      "name": "民宿寺田屋",
+      "region": "東京都利島村58番地（利島港周辺）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "フォートラベル（口コミ1件のみ。個別の点数表示はクチコミ本文内に限られ、検索結果の統合要約では満足度3.01〔5点満点換算〕という記載が得られたが、ページ本体を直接確認できていないため参考値扱い）", "score": 3.01, "scale": 5, "review_count": 1, "checked_date": "2026-10-31", "url": "https://4travel.jp/dm_hotel-11556768" }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらん・楽天トラベル等の主要予約サイトには掲載が確認できず、公開された料金表は見つからなかった。宿へ直接の電話確認が必要（利島村公式サイト掲載の電話番号: 04992-9-0251）。",
+        "as_of_search_date": "2026-10-31",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "利島港に近い高台に立つ家族経営の民宿で、遊漁船を兼業し、釣り客のリピーターが多いとされる。ミナミハンドウイルカのドルフィンスイム（例年3〜11月実施）の受付も行っており、島料理を提供する食堂で夕食（島焼酎などの注文も可）を取る形式。独立したメディア記事では、朝食に地元の伊勢海老を使った味噌汁が出た体験が紹介されている。",
+      "renewal_or_news": "利島村公式サイトの宿泊施設一覧（2026-10-31時点でWebSearchの統合要約により内容を確認）に現在も掲載されており、営業継続は確認できる。ただし参照できたクチコミ・紹介記事は2015年前後のものが中心で、直近の営業状況・評価の更新は確認できなかった。",
+      "target_audience": ["一人旅", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 2,
+        "unique_experience_score": 14,
+        "photogenic": 8,
+        "value_for_price": 3,
+        "sns_buzz": 2,
+        "access_and_freshness": 1
+      },
+      "score": 40,
+      "recommendation_reason": "ドルフィンスイムと遊漁船を兼業する島内でも独自性のある民宿だが、確認できた口コミはフォートラベル上の1件のみで、独立2情報源での評価検証（原則7）を満たせない。その1件の満足度も5点満点換算で3.01と主要レビュー4.0以上の基準（原則6）に届かない。総合スコア40点で採用ライン（75点）には遠く及ばず不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できた口コミはフォートラベル上の1件のみで、満足度は5点満点換算で3.01と低めだが、具体的な衛生・安全上の重大な指摘内容は検索結果の範囲では確認できなかった。評価基盤自体が極めて薄く、低評価レビューの有無を十分に検証できたとは言えない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "利島村ホームページ - 民宿・宿泊施設一覧（寺田屋含む6軒の住所・電話番号）", "url": "https://www.toshimamura.org/tourism/stay/guesthouse.html" },
+        { "type": "review_site", "title": "民宿 寺田屋 のクチコミ一覧 - フォートラベル", "url": "https://4travel.jp/dm_hotel-11556768" },
+        { "type": "review_site", "title": "利島村 旅館・民宿一覧 - 食べログ", "url": "https://tabelog.com/tokyo/C13362/rstLst/" },
+        { "type": "other", "title": "民宿寺田屋 - トラベルロード（伊豆諸島宿泊情報）", "url": "https://travelroad.co.jp/izu/toshima/accom/teradaya/" },
+        { "type": "official", "title": "利島 - GO TOKYO（東京都公式観光情報。椿・ドルフィンスイムの概要）", "url": "https://www.gotokyo.org/jp/destinations/izu-and-ogasawara-islands/toshima-island/index.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ・評価の独立2情報源での検証ができず（フォートラベル1件のみ、満足度3.01）、主要レビュー4.0以上の基準にも届かないため、総合スコア40点で不採用。"
+    },
+    {
+      "id": "2026-10-31-nishiyama-toshima",
+      "name": "民宿西山",
+      "region": "東京都利島村1566番地（利島港から少し登った市街地）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "主要な口コミ・予約サイト（じゃらん・楽天トラベル・フォートラベル・Googleマップ等）に民宿西山単独の総合評価点・口コミ件数の掲載は確認できなかった。確認できたのは個人の登山記録（YAMAP、2025年12月投稿）での好意的な感想のみで、数値評価は含まれない。", "score": 0, "scale": 5, "review_count": 0, "checked_date": "2026-10-31", "url": "https://yamap.com/activities/44926704/article" }
+      ],
+      "price_range_jpy": {
+        "note": "公開された料金表は確認できなかった。宿へ直接の電話確認が必要（利島村公式サイト掲載の電話番号: 04992-9-0229）。",
+        "as_of_search_date": "2026-10-31",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "利島港から少し登った市街地の高台に立つ家族経営の民宿。新鮮な海の幸を使った料理が特徴とされ、個人の登山記録では、港からの送迎、宮塚山登山後の夕食（地元食材・焼き魚）、ご主人の人柄の良さが好意的に紹介されている。",
+      "renewal_or_news": "利島村公式サイトの宿泊施設一覧に現在も掲載されており営業継続は確認できる。2025年12月の個人旅行記にも宿泊記録があり、直近まで営業していたことが確認できる。",
+      "target_audience": ["一人旅", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 13,
+        "photogenic": 9,
+        "value_for_price": 4,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 30,
+      "recommendation_reason": "登山客など一人旅のリピーターに支持される温かみのある民宿だが、じゃらん・楽天トラベル・フォートラベル・Googleマップなど主要口コミ・予約サイトのいずれにも単独の総合評価点・口コミ件数の掲載が確認できず、独立2情報源での評価検証（原則7）ができない。総合スコア30点で採用ラインに遠く及ばず不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "主要口コミサイトに民宿西山単独の掲載・評価点が確認できず、低評価レビューの有無自体を検証できなかった。確認できた唯一の個人旅行記は好意的な内容で、具体的なネガティブ指摘は見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "利島村ホームページ - 民宿・宿泊施設一覧（西山含む6軒の住所・電話番号）", "url": "https://www.toshimamura.org/tourism/stay/guesthouse.html" },
+        { "type": "other", "title": "利島 宮塚山登山・民宿西山宿泊記録 - YAMAP", "url": "https://yamap.com/activities/44926704/article" },
+        { "type": "official", "title": "利島 - GO TOKYO（東京都公式観光情報）", "url": "https://www.gotokyo.org/jp/destinations/izu-and-ogasawara-islands/toshima-island/index.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要口コミ・予約サイトに単独の評価点・口コミ件数が確認できず、独立2情報源での評価検証ができないため、総合スコア30点で不採用。"
+    },
+    {
+      "id": "2026-10-31-shinki-toshima",
+      "name": "民宿しんき",
+      "region": "東京都利島村51番地",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "主要な口コミ・予約サイト（じゃらん・楽天トラベル・フォートラベル・Googleマップ等）に民宿しんき単独の総合評価点・口コミ件数の掲載は確認できなかった。東京都の離島振興関連資料に村の視察ツアー宿泊先の一つとして名称が記載されているのみで、数値評価は含まれない。", "score": 0, "scale": 5, "review_count": 0, "checked_date": "2026-10-31", "url": "https://www.t-treasureislands.metro.tokyo.lg.jp/information/report_all5-toshima.pdf" }
+      ],
+      "price_range_jpy": {
+        "note": "公開された料金表は確認できなかった。宿へ直接の電話確認が必要（利島村公式サイト掲載の電話番号: 04992-9-0028）。",
+        "as_of_search_date": "2026-10-31",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "漁師を兼業するオーナーが自ら調達する新鮮な海の幸と自家製野菜が特徴とされる家族経営の民宿。東京都の離島振興関連資料では、村の暮らしを体験する視察ツアーの宿泊先の一つとして名前が挙げられている。",
+      "renewal_or_news": "利島村公式サイトの宿泊施設一覧に現在も掲載されており営業継続は確認できる。ただし、確認できた言及は東京都の2024年付近の資料に限られ、直近の評価・話題性の更新は確認できなかった。",
+      "target_audience": ["一人旅", "友人", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 12,
+        "photogenic": 8,
+        "value_for_price": 4,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 28,
+      "recommendation_reason": "漁師兼業オーナーによる新鮮な海の幸という独自性はあるが、主要口コミ・予約サイトのいずれにも単独の総合評価点・口コミ件数の掲載が確認できず、独立2情報源での評価検証（原則7）ができない。総合スコア28点で採用ラインに遠く及ばず不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "主要口コミサイトに民宿しんき単独の掲載・評価点が確認できず、低評価レビューの有無自体を検証できなかった。検索範囲では具体的なネガティブ指摘も見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "利島村ホームページ - 民宿・宿泊施設一覧（しんき含む6軒の住所・電話番号）", "url": "https://www.toshimamura.org/tourism/stay/guesthouse.html" },
+        { "type": "official", "title": "利島の魅力・宿泊に関する資料 - 東京宝島（東京都離島振興関連サイト）", "url": "https://www.t-treasureislands.metro.tokyo.lg.jp/information/report_all5-toshima.pdf" },
+        { "type": "official", "title": "利島 - GO TOKYO（東京都公式観光情報）", "url": "https://www.gotokyo.org/jp/destinations/izu-and-ogasawara-islands/toshima-island/index.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要口コミ・予約サイトに単独の評価点・口コミ件数が確認できず、独立2情報源での評価検証ができないため、総合スコア28点で不採用。"
+    }
+  ],
+  "cycle_conclusion": "東京都利島村・利島を対象に離島リゾートカテゴリで新規調査を行い、島内に6軒ある家族経営の民宿（利島館・民宿かおり荘・民宿しんき・民宿寺田屋・民宿西山・民宿山中荘）のうち、ドルフィンスイム・釣りで知られる『民宿寺田屋』（40点）、登山客に支持される『民宿西山』（30点）、漁師兼業の『民宿しんき』（28点）の3件を調査・採点した。椿（約20万本・国内椿油生産量の約6割）やミナミハンドウイルカのドルフィンスイムなど島全体の資源は独自性が高いものの、宿泊施設はいずれも主要口コミ・予約サイト（じゃらん・楽天トラベル・フォートラベル・Googleマップ等）に単独の総合評価点・十分な口コミ件数が掲載されておらず、独立2情報源での評価検証（原則7）を満たせなかった。寺田屋のみフォートラベルに口コミが1件あったが満足度は5点満点換算で3.01と主要レビュー4.0以上の基準にも届かない。3件すべて総合スコアが採用ライン（75点）に大きく届かないため、本サイクルはselected候補なし（該当なし）とする。なお、本サイクルは外部ネットワーク許可設定の都合でWebFetchによる個別ページの直接閲覧ができず、かつセッション共有のWebSearch呼び出し上限に達したため、確認できた範囲はWebSearchの統合要約と明示された引用元URLに限られる。利島は口コミ基盤自体が極めて薄いため、予約サイトへの掲載状況が変化した場合や、村役場・観光協会への直接確認ができる段階での再調査、または『アクティビティ』カテゴリ（ドルフィンスイム単体の体験）としての再調査を検討する価値がある。"
+}

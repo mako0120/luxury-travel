@@ -1,0 +1,183 @@
+{
+  "cycle_date": "2026-10-29",
+  "theme": "長野県茅野市（蓼科高原エリア）のグランピング施設【再調査サイクル】",
+  "season_rationale": "指示されたテーマ（カテゴリ「グランピング」×地域「長野県茅野市蓼科高原エリア」）に沿って調査を実施。10月末の蓼科高原（標高1,250m前後）は落葉がほぼ完了し朝晩は氷点近くまで冷え込む時期で、焚き火・バレルサウナ・満天の星空が映える一方、キャンプ場によっては営業期間終了（冬季クローズ）が重なる時期でもある（原則30・運用原則8章の季節性確認）。直近投稿（2026-10-28＝静岡県伊東市グランヴィレッジ伊豆のグランピング／和歌山県日南町のグランピング等）とは地域が重複しない。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-28-izukogen-glamping", "region": "静岡県伊東市", "category": "グランピング" },
+    { "post_id": "2026-10-28-nichinan-glamping", "region": "鳥取県日南町", "category": "グランピング" },
+    { "post_id": "2026-10-27-azumino-glamping", "region": "長野県安曇野市", "category": "グランピング" },
+    { "post_id": "2026-10-26-nachikatsuura-glamping", "region": "和歌山県那智勝浦町", "category": "グランピング" }
+  ],
+  "duplication_note": "data/candidates/2026-10-18-tateshina-glamping.json にて、同一テーマ（茅野市蓼科高原×グランピング）を既に1サイクル調査済みで、候補3件（グラマラスダイニング蓼科 THE CAMP／蓼科グリーンキャンプ／白樺リゾート キャンピングビレッジ）すべて不採用（該当なし）という結論だった。本サイクルは指示された同一テーマでの再調査であり、既存3候補の最新状況の再確認と、新規候補の追加探索（車山グランピングコテージ、キャンプ・アーボ女神湖、蓼科∞GRAND）を行った。既存投稿・キャプションには同地域×同カテゴリの採用例は現時点で存在しない。",
+  "research_note": "既存3候補を再確認した結果、2026-10-18時点からの実質的な変化は確認できなかった：(1) グラマラスダイニング蓼科 THE CAMPは日本旅行・楽天トラベルいずれでも依然として数値評価（口コミ点数）が確認できず、(2) 蓼科グリーンキャンプはなっぷの評価4.36（26件）のみで2件目の独立した数値情報源は今回も確認できず（サ活サイト『サウナイキタイ』に当施設バレルサウナの投稿があることは確認したが、本ターンのWebSearch利用上限に達したため、同サイト上の数値評価の有無までは確認できなかった＝未確認のまま保留）、(3) 白樺リゾート キャンピングビレッジはなっぷの評価4.2（39〜41件）のみで同様に2件目の数値情報源が確認できず、加えて今回新たに2026年営業期間が『4月18日〜10月11日』であることを確認でき、本サイクル時点（10月29日）では既に営業終了（冬季クローズ中）であることが判明した。新規候補として『車山グランピングコテージ -Kurumayama Sky Mountain Lodge-』（長野県茅野市北山3413-108、ツリーハウス・溶岩石焼BBQ・ピザ窯を備える一棟貸しコテージ）を発見したが、いこーよ掲載ページで『口コミ募集中・未評価』となっており、なっぷ・楽天トラベル等でも数値評価を確認できなかった。また『キャンプ・アーボ女神湖』は所在地が確認できた範囲では女神湖畔（北佐久郡立科町エリアに近接）である可能性が高く、指定地域（茅野市）との一致を確認できなかったため、候補として本格調査する前に対象外と判断した。『蓼科∞GRAND（蓼科インフィニティーグランド）』は一棟貸しプラン（定員8名、¥33,000〜）の情報は確認できたが、正確な所在地・運営者・口コミ評価のいずれも本セッションでは確認できなかったため、推測を避けて候補化を見送った。これらの探索の過程で本ターンのWebSearch利用上限に達したため、サウナイキタイでの蓼科グリーンキャンプの評価確認や、蓼科∞GRAND・キャンプ・アーボ女神湖の住所確定など、残る不明点のさらなる深掘りは次サイクル以降に持ち越す。以上の理由から、総合スコア75点以上かつ原則7（独立2情報源での数値評価の裏取り）を満たす候補は本サイクルでも確認できず、4件とも不採用（該当なし）とした。",
+  "other_candidates_considered": [
+    {
+      "name": "キャンプ・アーボ女神湖",
+      "category": "キャンプ場（グランピングプランの有無は未確認）",
+      "note": "なっぷの『蓼科・白樺湖・車山・女神湖・姫木平』エリア一覧には含まれるが、女神湖エリアは北佐久郡立科町に近接しており、指定地域（長野県茅野市）内であることを本セッションでは確認できなかったため、正式な候補調査の対象外とした。"
+    },
+    {
+      "name": "蓼科∞GRAND（蓼科インフィニティーグランド）",
+      "category": "グランピング（一棟貸し）",
+      "note": "一棟貸しプラン（定員8名、IN15:00-20:00/OUT-10:00、¥33,000〜）の情報は確認できたが、正確な所在地・運営者・口コミ評価が本セッションでは確認できず、推測による候補化を避けて見送った。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-29-glamorous-dining-tateshina-the-camp-recheck",
+      "name": "グラマラスダイニング蓼科 THE CAMP",
+      "region": "長野県茅野市（蓼科高原・東急リゾートタウン蓼科内）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "楽天トラベルのプランページ上では2026年4月18日〜10月31日のプラン掲載が確認できたが、具体的な料金・点数は本セッションでは確認できなかった。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "東急リゾートタウン蓼科内にある、日本初とされるシャワー・トイレ付きスロベニア製テントヴィラ（室内暖房完備・客室4室）を、焚火を囲むように4張配置した施設。電源・Wi-Fi完備。JR茅野駅から送迎車で約40分。",
+      "renewal_or_news": "2026-10-18時点の調査から変化なし。楽天トラベルのプラン掲載自体は存続しているが、口コミ点数は今回も確認できなかった。",
+      "target_audience": ["カップル", "記念日", "友人"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 16,
+        "photogenic": 11,
+        "value_for_price": 0,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 33,
+      "recommendation_reason": "『日本初のシャワー・トイレ付きスロベニア製テントヴィラ』という独自性は確認できるが、楽天トラベル・日本旅行いずれでも口コミ点数そのものが存在せず（日本旅行では『収集中』表示）、原則6（主要レビュー4.0以上）の判定material自体が今回も確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ件数・点数が確認できないため、ネガティブレビューの有無自体を確認できなかった（2026-10-18時点から変化なし）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "グラマラスダイニング蓼科 THE CAMP - 楽天トラベル プラン一覧", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/192098" },
+        { "type": "other", "title": "グラマラスダイニング蓼科 THE CAMP - 日本旅行（総合評価：収集中）", "url": "https://www.nta.co.jp/yado/shisetsu/4369-401.htm" },
+        { "type": "press", "title": "東急リゾートタウン蓼科 グラマラスダイニング蓼科 THE CAMP プレスリリース（東急リゾートサービス）", "url": "https://www.tokyu-rs.co.jp/wp/wp-content/uploads/2022/03/20220323tateshina.pdf" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価の数値データが依然として一切存在せず、原則6・7のいずれも判定不能なため不採用（前サイクルから状況変化なし）。"
+    },
+    {
+      "id": "2026-10-29-tateshina-green-camp-recheck",
+      "name": "蓼科グリーンキャンプ",
+      "region": "長野県茅野市北山（蓼科高原、標高約1,250m）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "なっぷ（キャンプ場専門口コミサイト）", "score": 4.36, "scale": 5, "review_count": 26, "checked_date": "2026-10-29", "url": "https://www.nap-camp.com/nagano/14399" }
+      ],
+      "price_range_jpy": {
+        "note": "バレルサウナは80分利用枠4,000円〜という価格は確認できたが、キャンプ・グランピング宿泊自体の正確な料金帯は本セッションでも確認できなかった。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "八ヶ岳中信国定公園内、標高約1,250mの隣接ホテル敷地内にあるキャンプ場。高原の屋外バレルサウナ（予約制、受付はホテルフロント）と、徒歩圏の『乙女滝』での水浴びができる点が特徴。ビーナスラインのドライブにも近い。",
+      "target_audience": ["友人", "家族", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 6,
+        "unique_experience_score": 13,
+        "photogenic": 11,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 66,
+      "recommendation_reason": "なっぷの口コミ4.36（26件）は採用ライン（4.2以上推奨）を上回るが、確認できた数値評価がなっぷ1サイトのみで、原則7が求める『最低2種類以上の独立した情報源』を満たす2件目の数値情報源を今回のセッションでも確認できなかった（サ活サイト『サウナイキタイ』に当施設バレルサウナの投稿は見つかったが、本ターンのWebSearch利用上限に達したため、同サイト上の数値評価有無までは確認できず、裏取り未完了のまま保留とした）。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "なっぷの口コミには『ホテル敷地内にあるキャンプ場のため、大自然の中のキャンプ場という雰囲気ではない』という声があり、2025年8月時点の投稿でも先着順のフリーサイト運用やトイレ・大浴場が隣接ホテル利用であることへの言及が確認できた。また2.17点という低評価の口コミ（本文は途中までしか確認できず詳細理由は不明）も確認できた。重大な安全・衛生上の問題の指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "蓼科グリーンキャンプ - なっぷ", "url": "https://www.nap-camp.com/nagano/14399" },
+        { "type": "other", "title": "蓼科・白樺湖・車山・女神湖・姫木平エリアのキャンプ場一覧 - なっぷ", "url": "https://www.nap-camp.com/garbage_dump/nagano/tatesina_shirakawako_kurumayama_megamiko_himekidaira/list" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価自体は高いが、独立した2件目の数値評価情報源を今回も確認できず原則7を満たせないこと、および総合スコアが66点で採用ライン75点に届かないため不採用（前サイクルから実質的な状況変化なし）。"
+    },
+    {
+      "id": "2026-10-29-shirakaba-resort-camping-village-recheck",
+      "name": "白樺リゾート キャンピングビレッジ",
+      "region": "長野県茅野市（蓼科高原・白樺湖畔、池の平ホテル新本館併設）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "なっぷ（キャンプ場専門口コミサイト）", "score": 4.2, "scale": 5, "review_count": 39, "checked_date": "2026-10-29", "url": "https://www.nap-camp.com/nagano/14049" }
+      ],
+      "price_range_jpy": {
+        "note": "サイト料金は区画タイプ（プレミアムサイト＝人工芝・ベーシックサイト等）により異なるが、具体的な金額は本セッションでも確認できなかった。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "白樺湖畔、2022年4月リニューアルオープンのキャンプ場。人工芝のプレミアムサイト12区画・ベーシックサイト12区画（一部ペット可）・芝サイト4張を備え、利用者全員が隣接する池の平ホテル新本館の温泉『湖天の湯』を無料で利用できる。",
+      "renewal_or_news": "2026年の営業期間が『4月18日〜10月11日』であることを公式系情報（ウォーカープラス）で確認できた。本サイクル時点（2026年10月29日）は営業期間を既に過ぎており、冬季クローズ中である可能性が高い。",
+      "target_audience": ["家族", "友人", "カップル"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 6,
+        "unique_experience_score": 13,
+        "photogenic": 12,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 2
+      },
+      "score": 64,
+      "recommendation_reason": "なっぷの口コミ4.2（約39件）は採用ラインを満たすが、2件目以降の独立した数値評価情報源を今回も確認できず原則7を満たせない。加えて2026年営業期間が4/18〜10/11と確認でき、本サイクル時点（10/29）では営業終了後（冬季クローズ中）である可能性が高いため、access_and_freshnessを前回よりさらに下げて評価した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "大きな否定的指摘は確認できなかったが、口コミ件数の表示がページごとに39〜41件とばらついており、データの最新性・一貫性に疑問が残る。グランピング専用の宿泊区分についての言及も確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "白樺リゾート キャンピングビレッジ - なっぷ", "url": "https://www.nap-camp.com/nagano/14049" },
+        { "type": "other", "title": "白樺リゾート キャンピングビレッジ - ウォーカープラス", "url": "https://www.walkerplus.com/spot/ar0420s16261/data.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価自体は採用ラインを満たすが、独立した2件目の数値評価情報源を確認できず原則7を満たせないこと、2026年営業期間（4/18〜10/11）が本サイクル時点で終了済みの可能性が高いこと、総合スコアが64点で採用ライン75点に届かないことから不採用。"
+    },
+    {
+      "id": "2026-10-29-kurumayama-sky-mountain-lodge",
+      "name": "車山グランピングコテージ -Kurumayama Sky Mountain Lodge-",
+      "region": "長野県茅野市北山3413-108（車山エリア、蓼科高原）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "料金は本セッションでは確認できなかった。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "姉妹施設『KURUMAYAMA CAMP SKY FIELD』に併設された一棟貸しコテージ。ツリーハウス、溶岩石焼BBQグリル＋ピザ窯、ボルダリングウォールを備え、室内にはオープンキッチン・シャワールーム・セミダブルベッド2台等が揃う。標高の高い車山エリアに位置し、3世代・グループ利用に適した設備とされる。",
+      "renewal_or_news": "本サイクルで新たに発見した候補。所在地（長野県茅野市北山3413-108）は指定地域（茅野市蓼科高原エリア）内であることを確認できた。",
+      "target_audience": ["家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 14,
+        "photogenic": 11,
+        "value_for_price": 0,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 31,
+      "recommendation_reason": "ツリーハウス・溶岩石焼BBQ・ピザ窯・ボルダリングという独自性のある設備は確認できるが、いこーよ掲載ページで『口コミ募集中・未評価』となっており、なっぷ・楽天トラベル・じゃらん・Tripadvisor等でも数値評価を一件も確認できなかった。原則6の判定material自体が存在しないため採用できない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ自体が存在しない（未評価）ため、ネガティブレビューの有無を確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "車山グランピングコテージ -Kurumayama Sky Mountain Lodge- - いこーよ（未評価・口コミ募集中）", "url": "https://iko-yo.net/facilities/178274" },
+        { "type": "other", "title": "蓼科・白樺湖・車山・女神湖・姫木平エリアのキャンプ場紹介記事 - なっぷ", "url": "https://camphack.nap-camp.com/8317/2" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価が一件も確認できず（未評価）、原則6・7のいずれも判定不能なため不採用。"
+    }
+  ]
+}

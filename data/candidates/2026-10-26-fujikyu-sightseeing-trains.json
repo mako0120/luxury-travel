@@ -1,0 +1,125 @@
+{
+  "cycle_date": "2026-10-26",
+  "theme": "列車・船カテゴリ（リサーチ＋キャプションのみ、画像構成なし）— 山梨県・富士急行線の観光列車（フジサン特急等）を指定調査",
+  "season_rationale": "10月下旬は富士五湖エリアの紅葉本番（例年10月下旬〜11月中旬が見頃）に向けて旅行検討が進む時期。富士急行線の観光列車は富士山と紅葉・河口湖を車窓から楽しめる構成で、紅葉シーズン前の情報提供価値が高いタイミング（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-20-fuji-panoramic-ropeway", "region": "山梨県南都留郡富士河口湖町（河口湖畔・天上山公園）", "category": "アクティビティ" },
+    { "post_id": "2026-10-18-kurobe-gorge-torokko", "region": "富山県黒部市（宇奈月〜欅平）", "category": "列車・船" },
+    { "post_id": "2026-10-19-hisatsu-orange-railway", "region": "熊本県八代市〜鹿児島県薩摩川内市", "category": "列車・船" },
+    { "post_id": "2026-10-20-kumagawa-railway", "region": "熊本県人吉市〜球磨郡", "category": "列車・船" },
+    { "post_id": "2026-10-20-oigawa-sl-train", "region": "静岡県島田市（大井川本線）", "category": "列車・船" },
+    { "post_id": "2026-10-21-iyonada-monogatari", "region": "愛媛県松山市〜大洲市・八幡浜市", "category": "列車・船" },
+    { "post_id": "2026-10-21-tango-kuromatsugo", "region": "京都府北部（京都丹後鉄道）", "category": "列車・船" },
+    { "post_id": "2026-10-22-kawasemi-yamasemi", "region": "熊本県（豊肥本線）", "category": "列車・船" },
+    { "post_id": "2026-10-23-hokkaido-kanko-ressha", "region": "北海道（函館本線・富良野線ほか）", "category": "列車・船" },
+    { "post_id": "2026-10-25-tokyo-bay-cruise", "region": "東京都（東京湾）", "category": "列車・船" }
+  ],
+  "duplication_note": "既存の『列車・船』カテゴリ候補（嵯峨野トロッコ・黒部峡谷鉄道・肥薩おれんじ鉄道・くま川鉄道・大井川鐵道SL・伊予灘ものがたり・丹後くろまつ号・かわせみやませみ・北海道の観光列車群・東京湾クルーズ等）には富士急行線の観光列車は未登場。河口湖・富士五湖エリア自体はcaptions/2026-10-20-fuji-panoramic-ropeway.json（富士山パノラマロープウェイ、カテゴリ『アクティビティ』）で一度登場しているが、ロープウェイであり鉄道ではないため重複ではない。本サイクルは依頼どおり山梨県・富士急行線のフジサン特急等の観光列車を新規調査した。",
+  "other_candidates_considered": [
+    {
+      "name": "富士登山電車（富士急行線 大月〜河口湖、水戸岡鋭治デザイン）",
+      "region": "山梨県大月市〜南都留郡富士河口湖町（富士急行線）",
+      "reason_not_screened": "水戸岡鋭治氏デザインの観光列車で、車内の意匠に関する紹介記事は確認できたが、このセッションのWeb検索は会話全体で共有される検索回数の上限に達し、じゃらん・フォートラベル・Tripadvisor等での独立した数値評価（原則6・7が求める2件以上の独立情報源・4.0以上の裏付け）を一件も確認する前に調査を終了せざるを得なかった。なお、『富士登山電車』という名称が実際には富士山五合目まで直通するわけではなく誤解を招く可能性があるという指摘記事が1件見つかっており、キャプション化する場合はアクセスの誤解を避ける説明が必要になる点のみメモしておく。数値評価の裏付けがないため今回は正式候補としてスコアリングせず、次サイクル以降に検索回数の余裕があるタイミングで再調査する。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-26-fujisan-tokkyu",
+      "name": "フジサン特急（富士急行線 8000系）",
+      "region": "山梨県大月市〜富士吉田市・南都留郡富士河口湖町（富士急行線 大月〜富士山〜河口湖）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Tripadvisor（アトラクション『Fuji Kyuko Railway』ページ）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 63,
+          "checked_date": "2026-10-26",
+          "url": "https://www.tripadvisor.com/Attraction_Review-g1021442-d8389221-Reviews-Fuji_Kyuko_Railway-Otsuki_Yamanashi_Prefecture_Koshinetsu_Chubu.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "大月〜河口湖間、乗車券に加えて特急料金（自由席300円程度・指定席はさらに追加料金）が必要という案内が複数の二次情報源にあるが、具体的な金額は記事により差異があり（例: 指定席1号車+900円とする記事もある）、2026年時点の正確な料金はこのセッションのWeb検索・WebFetchでは公式サイトから確認できなかった（WebFetchが本セッション中に接続不能のため富士急行公式サイトへアクセスできず）。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する。本候補は公式サイトでの一次情報確認ができていないため、制作前に必ず最新料金・運行日を公式サイトで再確認すること。"
+      },
+      "unique_experience": "富士急行線8000系を使用した観光特急。元は小田急20000形RSE（特急『あさぎり』）の車両で、2014年7月にフジサン特急として運行開始（2017年時点で2代目・8001編成）。車体には富士山モチーフの装飾が施され、大月〜富士山駅〜河口湖駅間の車窓から富士山を望める。先代の2000系（元JR東日本のジョイフルトレイン『パノラマエクスプレスアルプス』）は2016年2月に引退している。",
+      "renewal_or_news": "2017年に運行開始15周年記念キャンペーンが実施された記録はあるが、2026年時点での新しいリニューアル・周年イベントの発表はこのセッションのWeb検索では確認できなかった（検索回数上限により深掘り未了）。",
+      "target_audience": ["カップル", "家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 7,
+        "unique_experience_score": 13,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 59,
+      "recommendation_reason": "富士山モチーフの外装と、元小田急ロマンスカー車両という鉄道ファン向けの背景を持つ観光特急で、大月〜河口湖という富士急行線のメインルートを走るアクセスの良さも強み。一方で、確認できた唯一の数値評価がフジサン特急単体のページではなく『Fuji Kyuko Railway』という富士急行線全体（富士登山電車やトーマスランド号も混在して言及される）の汎用アトラクションページのTripadvisor評価4.0（63件）にとどまり、原則7が求める『フジサン特急に特化した独立2情報源』を満たせなかった。料金の一次情報（公式サイト）もこのセッションのWebFetch接続不能により確認できていない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "『Fuji Kyuko Railway』汎用ページの評価内訳（ある時点のスナップショットで15 Excellent・33 Very good・12 Average・0 Poor・2 Terrible）の中には、『豪華な車両ではない』『ドア付近の席は寒い』『混雑している』という趣旨のコメントが確認できた。ただしこれは富士急行線全体（フジサン特急・富士登山電車・トーマスランド号等）に対する混在した口コミであり、フジサン特急単体への言及に絞った独立2情報源は確認できなかった。安全性・衛生面の重大な指摘は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "Fuji Kyuko Railway - All You SHOULD Know Before Going (2026 Reviews) - Tripadvisor", "url": "https://www.tripadvisor.com/Attraction_Review-g1021442-d8389221-Reviews-Fuji_Kyuko_Railway-Otsuki_Yamanashi_Prefecture_Koshinetsu_Chubu.html" },
+        { "type": "press", "title": "フジサン特急運行開始15周年記念キャンペーン開催 - 富士急行プレスリリース（resemom.jp配信）", "url": "https://resemom.jp/release/prtimes/20170213/28199.html" },
+        { "type": "other", "title": "富士急行フジサン特急 3月から運転再開! もと小田急20000形RSEロマンスカー、2年の眠りから目覚め - 鉄道チャンネル", "url": "https://tetsudo-ch.com/12187245.html" },
+        { "type": "other", "title": "\"Fujisan Express\" Timetable, Fares, and How to Buy Tickets - ekitan", "url": "https://ekitan.com/en/article/fujisan-express" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア59点で採用ライン（75点）を大きく下回った。主因は、確認できた唯一のレビュー評価がフジサン特急単体ではなく富士急行線全体を指す汎用アトラクションページのものであり、原則7が求める『候補そのものに特化した独立2情報源』を満たせなかったこと（口コミ件数・信頼性を保守的に評価）。加えて、本セッションはWeb検索回数の上限に達し、かつWebFetchが接続不能だったため、公式サイトでの料金・運行日の一次情報確認（原則7）も完了できなかった。次サイクル以降、検索・WebFetchが利用可能な状態で、フジサン特急に特化したじゃらん・フォートラベル等の数値評価を確認できれば再候補とする。"
+    },
+    {
+      "id": "2026-10-26-fujisan-view-express",
+      "name": "富士山ビュー特急（富士急行線）",
+      "region": "山梨県大月市〜富士吉田市・南都留郡富士河口湖町（富士急行線 大月〜富士山〜河口湖）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Tripadvisor（『Fujisan View Express』専用ページ）",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 6,
+          "checked_date": "2026-10-26",
+          "url": "https://www.tripadvisor.com/Attraction_Review-g1021442-d14003982-Reviews-Fujisan_View_Express-Otsuki_Yamanashi_Prefecture_Koshinetsu_Chubu.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "大月〜河口湖間、乗車券に加えて特急料金・指定席料金（1号車は全席指定・座席数は約16席とごく少ない）が必要。具体的な金額は年・記事により差異があり、2026年時点の正確な料金はこのセッションのWeb検索・WebFetchでは公式サイトから確認できなかった（WebFetchが本セッション中に接続不能）。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する。本候補は公式サイトでの一次情報確認ができていないため、制作前に必ず最新料金・運行日・座席数を公式サイトで再確認すること。"
+      },
+      "unique_experience": "元JR東海371系（特急『あさぎり』）を、鉄道デザイナー水戸岡鋭治氏が赤を基調に改装した観光特急。2016年4月23日運行開始、大月〜富士山駅〜河口湖駅間を結ぶ。1号車は全席指定・少数席の特別車両で、木材を活かした内装とドリンクサービスが特徴。黄昏時に富士山麓の酒を楽しむ特別運行『ナイトビュー特急』（富士山駅〜三つ峠間）が実施された実績もあり、通常運行以外の体験バリエーションを持つ。",
+      "renewal_or_news": "2026年9月、運行開始から10周年を迎え、記念特別乗車・夜間撮影会などのイベントが企画されたとみられる報道が確認できた（鉄道コム等）。10周年という話題性の高いタイミングだが、このセッションの検索回数上限により、2026年秋以降の正式な公式プレスリリース・現行運行ダイヤの直接確認はできていない。",
+      "target_audience": ["カップル", "記念日", "夫婦", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 3,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 67,
+      "recommendation_reason": "日本を代表する鉄道デザイナー水戸岡鋭治氏による内装、元JR東海371系という車両の背景、2026年9月に迎えた運行10周年という話題性の高いタイミングが揃っており、『まだ知られていない良さをどう伝えるか』という観点では非常に魅力的な候補。Tripadvisorの専用ページでも評価4.5（Excellent3件・Very Good3件、Average以下0件）と好意的な口コミのみが確認できた。しかし母数がわずか6件と極めて少なく、原則7が求める『2件以上の独立情報源』も本セッションでは確認できなかった（検索回数上限により追加確認未了）。1号車は座席数が少なく予約が取りづらいという制約面の情報もあり、紹介する場合は正直に明記する必要がある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisor専用ページで確認できた6件のレビューはExcellent3件・Very Good3件で、Average以下・ネガティブな評価は確認されなかった。ただし母数が非常に少なく、評価の安定性には留保が必要。別途一般的な背景調査では、特別車両（1号車）の座席数が少なく、発売開始後すぐに予約が埋まりやすいという制約情報を確認した（レビューそのものの不満ではなく予約可否に関する情報）。安全性・衛生面の重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "Fujisan View Express - All You SHOULD Know Before Going 2026 (with Reviews) - Tripadvisor", "url": "https://www.tripadvisor.com/Attraction_Review-g1021442-d14003982-Reviews-Fujisan_View_Express-Otsuki_Yamanashi_Prefecture_Koshinetsu_Chubu.html" },
+        { "type": "press", "title": "富士山麓電気鉄道『富士山ビュー特急』運行5周年記念イベント開催（2021年） - resemom.jp配信プレスリリース", "url": "https://resemom.jp/release/prtimes/20210423/70916.html" },
+        { "type": "other", "title": "富士急行、『富士山ビュー特急』今春デビュー 元JR東海の電車使い - トラベルボイス（2016年運行開始時の報道）", "url": "https://www.travelvoice.jp/20160422-65608" },
+        { "type": "other", "title": "富士山駅5周年 黄昏の富士山とお酒楽しむ『ナイトビュー特急』運行へ - traffic news", "url": "https://trafficnews.jp/post/54061" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア67点で採用ライン（75点）を下回った。評価自体（4.5）は高いが、確認できたレビューが単一情報源（Tripadvisor専用ページ）かつわずか6件にとどまり、原則7が求める『2件以上の独立情報源』での裏付けが取れず、口コミ件数・信頼性の配点を保守的に評価した。加えて、本セッションはWeb検索回数の上限に達し、WebFetchも接続不能だったため、2026年9月の10周年報道の詳細確認や公式サイトでの最新料金・運行ダイヤの一次情報確認（原則7）が完了できなかった。10周年という話題性・デザイン性の高さから、次サイクル以降、検索・WebFetchが利用可能な状態でじゃらん・フォートラベル等の追加の独立レビュー評価を確認できれば再候補とする価値が高い。"
+    }
+  ]
+}

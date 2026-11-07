@@ -1,0 +1,189 @@
+{
+  "cycle_date": "2026-10-23",
+  "theme": "列車・船カテゴリ（リサーチ＋キャプションのみ、画像構成なし）— 依頼により『JR九州「36ぷらす3」（運休が終わっていれば）または瀬戸内海の観光船（せとうちSEA DUCE等）』を対象に再調査した。本カテゴリの再調査は今回が最後の1回。",
+  "season_rationale": "依頼の両候補について、本調査（WebSearch3件以上・採点）に進む前に『(1)現在定期運行していること』『(2)主要レビューサイトで数値評価が確認できること』の両方を見極める事前スクリーニングを実施した。結果、(1)JR九州「36ぷらす3」は2026年5月12日からの6号車リニューアル運休を経て2026年9月3日に再始動したこと自体はJR九州公式発表（6/4付リリース見出し）で確認できたが、Tripadvisor・じゃらん・Googleマップ・4travelのいずれにも数値評価（★点数・件数）が一件も見つからず、条件(2)を満たさなかった。(2)『せとうちSEA DUCE』という名称の船は複数の検索語・英語表記でも一件も実在が確認できず（瀬戸内海汽船の最新新造船は2026年5月就航の『AIVINT』であり、SEA DUCEという名称は存在しないか大幅な誤記と判断）、条件(1)の対象物自体が特定できなかった。そのため依頼にある『等』に従い瀬戸内海の他の観光船（SEA SPICA、さんふらわあ昼クルーズ、瀬戸内海島旅クルーズ、鞆の浦・平成いろは丸）にも事前スクリーニングを広げたが、いずれも「季節・期間限定運航で現在は非運航期間」「数値評価が確認できない」のいずれかに該当し、両条件を同時に満たす候補を見つけられなかった。依頼の事前見極め手順に従い、両条件を満たせない候補については本調査（深掘り採点）に進まず、スクリーニング結果を記録するにとどめた。",
+  "prior_posts_checked_note": "captions/ と data/candidates/ 配下の全期間（2026-09-14〜2026-10-23、1ヶ月以上前の2026-09-14サイクルを含む）を確認した。『列車・船』カテゴリの既存選定・不採用は以下の通り：2026-09-14 嵯峨野トロッコ（選定）・黒部峡谷鉄道（当時不採用）・西武52席の至福（不採用）／2026-09-18 ゆふいんの森（選定）・かわせみ やませみ（不採用）・或る列車（不採用）／2026-09-22 guntû瀬戸内クルーズ（選定）／2026-10-17 軍艦島クルーズ（選定）・ふたつ星4047（不採用）／2026-10-18 黒部峡谷トロッコ（選定）／2026-10-19 おれんじ食堂（不採用）・桜島フェリー（不採用）／2026-10-20 くま川鉄道（不採用）・保津川下り（不採用）・大井川鐵道SL（選定）／2026-10-21 伊予灘ものがたり（選定）・丹後くろまつ号（不採用）・WEST EXPRESS銀河（レビュー未確認のため候補外）／2026-10-22 かわせみ やませみ再調査（不採用）・四国まんなか千年ものがたり（不採用）・TWILIGHT EXPRESS瑞風（不採用）／2026-10-23（1回目）SLニセコ号・富良野美瑛ノロッコ号・くしろ湿原ノロッコ号・SL冬の湿原号・流氷物語号・洞爺湖汽船（いずれも不採用、北海道）。瀬戸内クルーズは2026-09-22にguntûが既に選定済みだが、本サイクルで調査したSEA SPICA・さんふらわあ昼クルーズ・瀬戸内海島旅クルーズ・平成いろは丸・36ぷらす3はいずれも過去の全サイクルで一度も候補として登場しておらず、完全新規の事業者・施設であることを確認した。",
+  "duplication_note": "本サイクルで事前スクリーニングした6候補（36ぷらす3／せとうちSEA DUCE＝名称不存在／SEA SPICA／さんふらわあ昼の瀬戸内海カジュアルクルーズ／瀬戸内海島旅クルーズ／平成いろは丸）は、重複チェックの結果、既存candidates・captionsのいずれにも登場していない新規の事業者・施設であることを確認した。",
+  "other_candidates_considered": [
+    { "name": "瀬戸内海汽船 新造高速船「AIVINT（アイヴィント）」", "note": "2026年5月就航の広島〜呉〜松山航路の高速船（スーパージェット後継）。定期航路の交通機関であり観光遊覧船ではなく、観光体験としての独自性が本カテゴリの趣旨と合わないため候補から除外した。" }
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-23-sanjyu-plus-3",
+      "name": "36ぷらす3（JR九州・観光列車）",
+      "region": "福岡県・熊本県・鹿児島県・宮崎県・大分県・佐賀県・長崎県（九州7県周遊、曜日ごとにルートが異なる）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "数値評価データなし（Tripadvisor・じゃらん・Googleマップ・4travelのいずれにも★点数・件数の記載を発見できず）", "score": 0, "scale": 5, "review_count": 0, "checked_date": "2026-10-23" }
+      ],
+      "price_range_jpy": {
+        "note": "再始動後（2026年9月3日以降）の最新料金は本調査では未確認。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "787系特急を改造したD&S（デザイン&ストーリー）列車。曜日ごとに博多〜熊本、鹿児島中央〜霧島神宮、宮崎、大分〜別府、博多〜佐賀と九州7県を一周するルートを走る。2026年5月12日から6号車（個室新設）を中心とした車両リニューアルのため運休し、JR九州公式発表（2026年6月4日付）により2026年9月3日に再始動予定とされていた。調査日（10/23）は再始動予定日から約7週間後であり、再始動そのものは一次情報（JR九州公式ニュース見出し）で確認できた。",
+      "renewal_or_news": "2026年9月3日再始動、6号車がより上質な空間・食へ進化（JR九州公式発表）。",
+      "target_audience": ["カップル", "記念日", "グルメ旅", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 0, "review_reliability": 0, "unique_experience_score": 0,
+        "photogenic": 0, "value_for_price": 0, "sns_buzz": 0, "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "依頼の確認要件のうち『現在定期運行していること』は2026年9月3日再始動のJR九州公式発表で確認できた。しかし『主要レビューサイトで数値評価が確認できること』の事前スクリーニングでTripadvisor・じゃらん・Googleマップ・4travelのいずれにも★点数や件数の記載を一件も発見できず、原則6・7が求める『独立2情報源以上の数値的裏付け』『主要レビュー4.0以上』の判定自体が成立しないため、依頼の事前見極め条件を満たさず本調査（深掘り採点）には進まなかった。実在しない数値を捏造しないためscoreを0（評価対象外）として記録した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "数値評価自体が存在しないため個別のネガティブ内容確認はできなかった。重大な指摘があるという情報も見つかっていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "\"36+3\" Timetable, Fares, and How to Buy Tickets - ekitan", "url": "https://ekitan.com/en/article/36-plus-3" },
+        { "type": "other", "title": "36 Plus 3 train booking Official Rail Guide 2026", "url": "https://japantrain.net/ja/guide/36-plus-3-2026" },
+        { "type": "official", "title": "JR九州 ニュースリリース一覧（「36ぷらす3」2026年9月3日再始動）", "url": "https://www.jrkyushu.co.jp/news/release/index.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "現在運行していること自体は確認できたが、主要レビューサイトで数値評価を一件も確認できず、依頼の事前スクリーニング条件（原則6・7）を満たさないため、本調査に進めず不採用とした。"
+    },
+    {
+      "id": "2026-10-23-setouchi-sea-duce",
+      "name": "せとうちSEA DUCE（依頼指定名称）",
+      "region": "瀬戸内海（広島・愛媛・香川周辺想定）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "対象船が特定できず評価対象外", "score": 0, "scale": 5, "review_count": 0, "checked_date": "2026-10-23" }
+      ],
+      "price_range_jpy": {
+        "note": "対象船が特定できないため価格情報なし。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "依頼で名称が挙げられた瀬戸内海の観光船。日本語・英語表記（SEA DUCE／Sea Duce）での複数回の検索でも、該当する船・事業者の存在を一件も確認できなかった。瀬戸内海汽船の最新新造船（2026年5月就航）は一般公募で『AIVINT（アイヴィント）』と命名されており、SEA DUCEという船名は見当たらない。『SEA SPICA（シースピカ）』など類似名称の船は存在するが、名称が異なり同一のものとは判断できない。",
+      "renewal_or_news": "該当なし（対象を特定できないため確認不能）。",
+      "target_audience": ["カップル", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 0, "review_reliability": 0, "unique_experience_score": 0,
+        "photogenic": 0, "value_for_price": 0, "sns_buzz": 0, "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "依頼で指定された『せとうちSEA DUCE』という名称の船・事業者が、日本語・英語の複数の検索語でも一件も実在を確認できなかった。『現在定期運行していること』の確認要件を対象特定ができないために満たせず、本調査に進めなかった。実在しない対象について数値を捏造しないためscoreを0とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "対象船を特定できないため確認不能。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "次世代の高速船リニアジェット 広島~松山に2026年就航! 新造高速船の名付け親を大募集（瀬戸内海汽船） - 鉄道チャンネル", "url": "https://tetsudo-ch.com/13005882.html" },
+        { "type": "other", "title": "広島と四国が“最速80分” 瀬戸内海の「新・高速船」ついに就航 - trafficnews.jp", "url": "https://trafficnews.jp/post/669893" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "依頼で指定された名称の船・事業者の実在を確認できず、現在運行していることの確認要件を満たさないため不採用。"
+    },
+    {
+      "id": "2026-10-23-sea-spica",
+      "name": "SEA SPICA（シースピカ）観光型高速クルーザー",
+      "region": "広島県（広島港・呉港・宮島発着）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "数値評価データなし（検索範囲ではTripadvisor・じゃらんの★点数を発見できず）", "score": 0, "scale": 5, "review_count": 0, "checked_date": "2026-10-23" }
+      ],
+      "price_range_jpy": {
+        "note": "宮島―呉ブルーライン 大人3,000円・小学生1,500円（2026年8月実施分）。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "JR西日本と瀬戸内海汽船が運航する観光型高速クルーザー。『夕涼み宮島海上参拝サンセットクルーズ』『宮島―呉ブルーライン』など夏季限定の企画クルーズとして運航。2026年度運航計画では2026年5月1日〜9月28日の金・土・日・祝日中心運航（6/22〜26・8月は除外日あり）で、広島港〜尾道港間の『うさぎコース』『しまなみコース』等を走る。",
+      "renewal_or_news": "2026年度運航計画発表（2026年2月4日付）。ただし調査日（10/23）時点では season（5〜9月）終了済み。",
+      "target_audience": ["カップル", "絶景好き", "家族"],
+      "score_breakdown": {
+        "review_rating": 0, "review_reliability": 0, "unique_experience_score": 0,
+        "photogenic": 0, "value_for_price": 0, "sns_buzz": 0, "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "運航期間が例年5〜9月中心の季節・曜日限定で、調査日（10/23）時点はシーズン終了後にあたり『現在定期運行していること』を確認できなかった。加えて主要レビューサイトで数値評価も発見できず、依頼の事前スクリーニング両条件をいずれも満たさないため本調査に進まなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "数値評価自体が存在しないため個別のネガティブ内容確認はできなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "観光型高速クルーザー「SEA SPICA」夕涼み宮島海上参拝サンセットクルーズ/宮島-呉ブルーラインの運航について", "url": "https://www.zaikei.co.jp/releases/3347279/" },
+        { "type": "other", "title": "SEA SPICAせとうち島たびクルーズ2026年度運航計画について（JR西日本）", "url": "https://www.nta.co.jp/akafu/west/setouchi/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "季節・曜日限定運航で調査日時点はオフシーズンかつ数値評価も確認できず、事前スクリーニング両条件を満たさないため不採用。"
+    },
+    {
+      "id": "2026-10-23-sunflower-hiru-cruise",
+      "name": "さんふらわあ「昼の瀬戸内海カジュアルクルーズ」（商船三井さんふらわあ）",
+      "region": "大阪〜瀬戸内海〜別府（夜行フェリーの昼間特別運航）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "数値評価データなし（検索範囲では当該クルーズ固有の★点数を発見できず）", "score": 0, "scale": 5, "review_count": 0, "checked_date": "2026-10-23" }
+      ],
+      "price_range_jpy": {
+        "note": "本調査では未確認（通常の夜行フェリーとは別料金設定の可能性）。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "通常は夜行で運航するさんふらわあフェリーを日中運航する特別企画。『瀬戸内海の超絶景』を楽しめる昼クルーズとして、生演奏や日本文化体験などの船内イベントも実施。2026年は大阪発5/17・6/21・9/13・10/4・10/25・11/15（いずれも日曜）、別府発7/25の計7日程のみ。",
+      "renewal_or_news": "2026年1月16日付で運航日程発表。",
+      "target_audience": ["家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 0, "review_reliability": 0, "unique_experience_score": 0,
+        "photogenic": 0, "value_for_price": 0, "sns_buzz": 0, "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "年間わずか数日（2026年は7日程）のみの特別運航であり『定期運行』とは言えない。調査日（10/23）時点で直近の運航日（10/4）は過ぎ、次回（11/15）はまだ先。数値評価も確認できず、依頼の事前スクリーニング両条件を満たさないため本調査に進まなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "数値評価自体が存在しないため個別のネガティブ内容確認はできなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "夜行フェリーを“昼間”に運航=「瀬戸内海の超絶景!」 さんふらわあ名物「昼クルーズ」2026年も運航へ - trafficnews.jp", "url": "https://trafficnews.jp/post/625748" },
+        { "type": "other", "title": "昼の瀬戸内海を豪華新造船で満喫する! 「昼の瀬戸内海カジュアルクルーズ」運航決定のお知らせ - kyodonewsprwire", "url": "https://kyodonewsprwire.jp/release/202304154920" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "年数日のみの特別運航で定期運行の要件を満たさず、数値評価も確認できないため不採用。"
+    },
+    {
+      "id": "2026-10-23-heisei-irohamaru",
+      "name": "平成いろは丸（鞆の浦〜仙酔島 渡船）",
+      "region": "広島県福山市鞆町（鞆の浦）",
+      "category": "列車・船",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "4travel（星3.5相当、口コミ件数不明・単一情報源のため原則7の独立2情報源を満たさない）", "score": 3.5, "scale": 5, "review_count": 0, "checked_date": "2026-10-23", "url": "https://4travel.jp/dm_shisetsu/10011314" }
+      ],
+      "price_range_jpy": {
+        "note": "本調査では未確認。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "鞆の浦の市営渡船場と仙酔島を結ぶ定期旅客船（1時間に約3便、所要約5分）。坂本龍馬の海援隊が乗った蒸気船『いろは丸』にちなむ船名。通年運航で『定期運行』要件は満たすが、片道約5分の渡し船であり、贅沢旅メディアが紹介する観光クルーズ体験としての独自性・体験価値は乏しい。",
+      "renewal_or_news": "特記すべき新規性なし。",
+      "target_audience": ["友人", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 0, "review_reliability": 0, "unique_experience_score": 0,
+        "photogenic": 0, "value_for_price": 0, "sns_buzz": 0, "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "通年運航で『現在定期運行していること』は満たすが、確認できた数値評価は4travelの星3.5相当1件のみで、依頼が求める『主要レビューサイトで数値評価が確認できること』（原則7の独立2情報源必須・主要レビュー4.0未満は原則不採用）をいずれも満たさない。さらに所要約5分の渡し船であり贅沢旅としての独自体験性も乏しいため、本調査（深掘り採点）には進まず不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "雨天時は視界不良で景観評価が下がるとの投稿があった。重大な指摘ではない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "鞆の浦・平成いろは丸 施設クチコミ - 4travel", "url": "https://4travel.jp/dm_shisetsu/10011314" },
+        { "type": "other", "title": "坂本龍馬ゆかりの鞆の浦 いろは丸エピソード - toretabi.jp", "url": "https://toretabi.jp/travel/ryoma_vol02/01.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価が単一情報源・星3.5のみで原則6・7の基準（独立2情報源・4.0以上）を満たさず、体験としても渡し船の範囲に留まるため不採用。"
+    }
+  ],
+  "conclusion": "該当なし。依頼の2候補について、本調査前の事前スクリーニング（現在定期運行していること／主要レビューサイトで数値評価が確認できることの両方）を実施した結果：(1)JR九州「36ぷらす3」は2026年9月3日再始動が公式発表で確認できたが、Tripadvisor・じゃらん・Googleマップ・4travelのいずれにも数値評価が一件もなく条件を満たさなかった。(2)『せとうちSEA DUCE』は日英複数の検索語でも船・事業者の実在自体を確認できなかった。依頼の『等』に従い対象を瀬戸内海の他の観光船（SEA SPICA／さんふらわあ昼クルーズ／平成いろは丸）に広げたが、季節・期間限定運航でオフシーズン、または数値評価が不十分（単一情報源・星3.5のみ）のいずれかに該当し、両条件を同時に満たす候補を見つけられなかった（WebSearch計11件実施）。実在しない数値を捏造しないため、いずれも本調査の深掘り採点には進まず、本サイクルでのselected候補は0件とした。captions/ への新規キャプション制作も見送り。『列車・船』カテゴリの再調査上限（今回が最後の1回）に達したため、これ以上の追加調査は行わない。"
+}

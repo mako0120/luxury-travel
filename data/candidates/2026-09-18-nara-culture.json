@@ -1,0 +1,71 @@
+{
+  "cycle_date": "2026-09-18",
+  "theme": "文化体験カテゴリ（奈良県／古都・寺社文化を体験できる宿）",
+  "season_rationale": "9月下旬から秋にかけては、奈良公園の鹿が最も活発になる季節（10月には『鹿の角きり』神事も行われる）で、奈良を代表する文化体験『若草鍋』も10月〜3月の冬季限定で提供が始まる。古都・奈良らしい寺社文化＋紅葉シーズンへの橋渡しとして、今のタイミングで紹介する価値がある。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-09-18-fufu-karuizawa-yokou", "region": "長野県北佐久郡軽井沢町（中軽井沢・星野温泉エリア）", "category": "サウナ" },
+    { "post_id": "2026-09-20-mizu-no-oto", "region": "神奈川県足柄下郡箱根町（小涌谷）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-cycl-yamanakako", "region": "山梨県南都留郡山中湖村", "category": "サウナ" },
+    { "caption_id": "2026-09-14-hoshinoya-kyoto", "region": "京都府京都市西京区（嵐山）", "category": "文化体験" }
+  ],
+  "duplication_note": "直近の投稿・キャプションはサウナ（軽井沢）→温泉旅館（箱根）→温泉旅館（松江）→サウナ（山中湖）の並びで、文化体験カテゴリは2026-09-14の京都・嵐山（星のや京都）以来。地域も京都・嵐山とは異なる奈良県で、地域・カテゴリの連続を避ける原則29に沿って選定した。",
+  "other_candidates_considered": [
+    {
+      "name": "風の ならまち（旧NIPPONIA HOTEL 奈良 ならまち）",
+      "category": "文化体験（明治創業の酒蔵旧邸宅を改修した全8室のオーベルジュ、奈良市ならまち）",
+      "note": "明治創業の蔵元『奈良豊澤酒造』の旧邸宅を改修した『SAKEHOTEL』コンセプトの宿で、奈良の酒造り文化・地産地消フュージョン料理を体験できる点は文化体験カテゴリとして非常に魅力的。Yahoo!トラベル・楽天トラベル・一休.com・Tripadvisor・Reluxいずれにも好意的な口コミが多数確認できたが、このセッションのWebSearch/WebFetch制限（EGRESS_BLOCKED多発・WebSearch利用上限到達）により、原則6・7が求める『主要レビューサイトの具体的な評価点＋件数』を数値として確認することができなかった。存在しない数値を記載することは避け、今サイクルはcandidatesの正式候補ではなく参考記録に留める。次サイクル以降、数値評価を確認できた時点で再検討する。"
+    },
+    {
+      "name": "菊水楼",
+      "category": "文化体験（国登録有形文化財の明治期料亭建築）",
+      "note": "興福寺興善院跡に明治24年創業、国の登録有形文化財に指定された建物を持つ由緒ある料亭建築で文化的価値は高い。しかし2015年のリニューアルで宿泊事業から撤退しており、現在は料亭・結婚式場としてのみ営業しているため、宿泊施設としての候補対象外（除外）とした。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-09-18-edosan-nara",
+      "name": "江戸三",
+      "region": "奈良県奈良市高畑町（奈良公園内・春日大社一の鳥居脇）",
+      "category": "文化体験",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "Tripadvisor（ホテル評価）", "score": 4.0, "scale": 5, "review_count": 55, "checked_date": "2026-09-18", "url": "https://www.tripadvisor.com/Hotel_Review-g298198-d6650606-Reviews-Edosan-Nara_Nara_Prefecture_Kinki.html" },
+        { "source": "Yahoo!マップ", "score": 4.63, "scale": 5, "review_count": 14, "checked_date": "2026-09-18", "url": "https://map.yahoo.co.jp/v3/place/JQGh80VwBf-/review" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのネットワーク環境では、このサイクルで試みた宿泊料金に関するWeb検索・関連サイトへのアクセスがすべて失敗した（WebSearch利用上限到達、WebFetchはじゃらん・JTB・JR東海観光サイト等でEGRESS_BLOCKED）ため、具体的な宿泊料金レンジをこのサイクルでは確認できなかった。存在しない金額を記載することは避け、次サイクル以降または予約サイトでの直接確認を推奨する。じゃらんnetの『奈良のハイクラス（高級宿）ランキング』に掲載される宿であることから、価格帯は高級旅館クラスと推定されるが未確認。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "明治40年（1907年）創業の料理旅館。春日大社の一の鳥居脇、奈良公園内の丘に数寄屋風の離れが点在し、客室として使えるのは全8室中5室のみ（2〜6名向け）という、日本で唯一とされるハイクラス門前旅館。画家・小出楢重や作家・志賀直哉、文芸評論家・小林秀雄ら文人墨客が定宿にしてきた歴史を持つ。名店神田川の懐石をルーツに持つ会席料理と、ほうれん草をふんだんに使った名物『若草鍋』（10月〜3月限定）が名物。部屋のすぐそばまで鹿が訪れる、奈良公園ならではの非日常感も強み。",
+      "renewal_or_news": "創業から100年以上続く老舗だが、直近の大規模リニューアル・新プランに関する公式発表はこのサイクルのWeb検索範囲では確認できなかった。",
+      "target_audience": ["夫婦", "記念日", "カップル", "友人", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 8,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 5,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 72,
+      "recommendation_reason": "Tripadvisor 4.0（55件・奈良市内38ホテル中12位）、Yahoo!マップ4.63（14件）と2つの独立した情報源で4.0以上の評価。全8室中5室のみという極小規模、春日大社脇・奈良公園内という立地、文人墨客に愛された100年超の歴史、部屋のすぐそばまで鹿が訪れる体験、名物『若草鍋』など、文化体験カテゴリとして独自性は非常に高い。ただし今サイクルでは宿泊料金を確認できず『価格に対する体験価値』を正しく評価できなかったこと、また口コミ総数が69件（Tripadvisor55件＋Yahoo!マップ14件）とやや少なく信頼性の面でも保守的に採点せざるを得なかったことから、合計72点と最低採用ライン（75点）にわずかに届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一休.comレストランの口コミでは、『料理の色合いが暗く、器と料理の組み合わせが合致していない』『接客が淡々としている』といった指摘が確認された。一方で、建物の雰囲気の良さ、若草鍋を中心とした料理のおいしさ、夜に鹿の鳴き声が聞こえる非日常感については多くの口コミで高く評価されており、清潔感・安全性に関わる重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "料理旅館 江戸三【2026年最新の料金比較・口コミ・宿泊予約】- Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-g298198-d6650606-Reviews-Edosan-Nara_Nara_Prefecture_Kinki.html" },
+        { "type": "review_site", "title": "クチコミ : 江戸三 - 奈良市高畑町/割烹旅館 | Yahoo!マップ", "url": "https://map.yahoo.co.jp/v3/place/JQGh80VwBf-/review" },
+        { "type": "review_site", "title": "クチコミ - 料理旅館 江戸三 (リョウリリョカン エドサン) - 近鉄奈良/旅館 [一休.comレストラン]", "url": "https://restaurant.ikyu.com/114615/reviews" },
+        { "type": "booking_site", "title": "江戸三（エドサン） - 奈良公園周辺【JTB】", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/6269027/" },
+        { "type": "other", "title": "江戸三 - いざいざ奈良【JR東海】", "url": "https://nara.jr-central.co.jp/kankou/article/0075/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価自体はTripadvisor 4.0・Yahoo!マップ4.63と2つの独立情報源で最低ライン（4.0以上）を満たしており、文化体験としての独自性・歴史的価値も高い有力候補だった。しかし今サイクルではネットワーク制約（WebSearch利用上限到達・主要宿泊予約サイトへのWebFetchがEGRESS_BLOCKED）により宿泊料金を一切確認できず、score_breakdownのvalue_for_priceを保守的に採点した結果、合計72点で原則6の最低採用ライン（75点）にわずかに届かなかった。存在しない数値を捏造して基準をクリアさせることはせず、今サイクルは不採用とする。次サイクルで料金情報を確認できれば再評価の余地が大きい。"
+    }
+  ]
+}

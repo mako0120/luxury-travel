@@ -1,0 +1,187 @@
+{
+  "cycle_date": "2026-10-30",
+  "theme": "離島リゾート（東京都御蔵島村・御蔵島）の新規調査",
+  "season_rationale": "離島リゾートカテゴリはこれまで佐渡・隠岐、宮古島・対馬、屋久島・甑島、壱岐、礁文島、八丈島、粟島・新島、伊平屋島、神津島、小値賀島と継続調査してきたが、伊豆諸島のほぼ中央に位置する御蔵島（東京都御蔵島村）は本リポジトリで一度も取り上げていない新規地域だった。御蔵島は周囲約16kmの小離島で、天然の良港がなく大型客船は1日1往復のみ・海況による欠航も多いという極めてアクセス制約の強い島だが、周辺海域に野生のミナミハンドウイルカが定着しており、ドルフィンスイム・ウォッチングの拠点として知名度が高まってきている。知名度の低さと独自資源（野生イルカ、原生林的な自然）の両立という観点からHidden Gem調査の優先度が高いと判断し、今回の調査対象とした。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-29-shimayado-goen-ojika", "region": "長崎県北松浦郡小値賀町・小値賀島", "category": "離島リゾート", "note": "島宿御縁が77点でselected。伊豆諸島の御蔵島とは無関係の別地域。" },
+    { "post_id": "2026-10-29-kozushima-remote-island-resort", "region": "東京都神津島村・神津島", "category": "離島リゾート", "note": "候補4件すべて不採用。同じ伊豆諸島だが神津島であり、御蔵島とは別の島・別の村。" },
+    { "post_id": "2026-10-26-hachijojima-remote-island-resort", "region": "東京都八丈町・八丈島", "category": "離島リゾート", "note": "リードパークリゾート八丈島が77点でselected。同じ伊豆諸島だが八丈島であり、御蔵島とは無関係の別地域。" },
+    { "post_id": "2026-10-27-niijima-remote-island-resort", "region": "東京都新島村・新島", "category": "離島リゾート", "note": "伊豆諸島だが新島であり、御蔵島とは無関係の別地域。" },
+    { "post_id": "2026-10-23-koshikishima-remote-island-resort", "region": "鹿児島県甑島", "category": "離島リゾート", "note": "候補3件すべて不採用。御蔵島と同様『大型リゾートホテルがなく主要OTAにも宿泊施設が掲載されていない超小規模離島』パターンだが別地域。" },
+    { "post_id": "2026-10-28-iheya-remote-island-resort", "region": "沖縄県島尻郡伊平屋村・伊平屋島", "category": "離島リゾート", "note": "候補3件すべて不採用。御蔵島とは無関係の別地域。" }
+  ],
+  "duplication_note": "data/candidates・captions配下の全件（1ヶ月以上前を含む既存ファイル全体）を『御蔵島』『みくらじま』『mikura』で検索した結果、該当する候補・投稿は一件も存在せず、地域・施設とも完全に新規であることを確認した。伊豆諸島の離島リゾートとしては神津島・八丈島・新島を既に調査済みだが、いずれも御蔵島村とは別の自治体・別の島であり重複にはあたらない。",
+  "research_limitation_note": "御蔵島は宿泊施設数が極めて少なく（観光協会情報では民宿8軒・村営バンガロー5〜6棟程度）、じゃらんnet・楽天トラベル等の主要OTAに宿泊施設の掲載が確認できなかった。口コミ・評価が確認できたのはフォートラベル（4travel）の『御蔵島・青ヶ島のホテルをクチコミで比較！ホテルランキング』ページのみで、同ページが示す評価点（御蔵荘3.27／民宿しげを工房3.05／鉄砲場3.04、いずれも5点満点）は再検索時に『評価なし』と表示される場合もあり、数値の再現性・安定性を確認できなかった。原則7（独立2情報源での評価検証）を満たす独立した2つ目の評価源が見つからなかったため、本サイクルでは3施設すべてを評価データ不足により不採用とした。",
+  "candidates": [
+    {
+      "id": "2026-10-30-mikurasou-mikurajima",
+      "name": "御蔵荘",
+      "region": "東京都御蔵島村・御蔵島",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "フォートラベル『御蔵島・青ヶ島のホテルをクチコミで比較！ホテルランキング』ページ上で御蔵荘として3.27（5点満点）という表示を一度確認したが、別の時点での再検索では同ページの項目別評価が『評価なし』と表示され、数値を安定して再現できなかった。正確な件数・最新値は確認できなかったため、score/review_countは不明として0とする。",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-30",
+          "url": "https://4travel.jp/dm_hotel_list-kuchoson-mikurajima.html"
+        },
+        {
+          "source": "じゃらんnet・楽天トラベル（いずれも『御蔵島』エリアでの宿泊施設掲載自体が検索範囲では確認できず、評価点を取得できなかった）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-30",
+          "url": "https://www.jalan.net/kankou/spt_guide000000182573/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "公式の料金ページを確認できず、具体的な宿泊料金は検索範囲では確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "御蔵島で唯一のホテル型宿泊施設とされ、島の周辺海域に定着する野生のミナミハンドウイルカとのドルフィンスイム・ウォッチングに便利な立地・造りだと紹介されている。口コミ（出典で確認できた範囲）には、予約にGoogleフォームへの入力による抽選制があるという記述があり、ドルフィンスイムが盛んな4〜11月シーズンは需要が非常に高いことがうかがえる。夕食や眺めの良い風呂についての具体的な評判は、今回の検索では十分に確認できなかった。",
+      "renewal_or_news": "予約が抽選制になっているという口コミが見られ、シーズン中の需要の高さは推測できるが、直近のリニューアル・新プラン等の具体的な最新ニュースは検索範囲では確認できなかった。",
+      "target_audience": ["一人旅", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 14,
+        "photogenic": 8,
+        "value_for_price": 3,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 31,
+      "recommendation_reason": "御蔵島唯一のホテル型宿泊施設としてドルフィンスイムの拠点になっており、独自性自体は一定ある。しかし主要OTA（じゃらん・楽天トラベル）に宿泊施設の掲載が確認できず、唯一確認できたフォートラベルの評価点（3.27）も再検索時には表示が『評価なし』に変わるなど数値が安定せず、原則7の独立2情報源での評価検証を満たせなかった。総合スコア31点で採用ライン（75点）に遠く届かず不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "具体的な衛生・安全・営業上の重大な指摘は検索範囲では見当たらなかった。一方で、評価点・口コミ件数そのものの表示が検索タイミングによって異なり（3.27 と表示される場合と『評価なし』と表示される場合がある）、低評価レビューの有無自体を信頼できる形で検証することができなかった。これを不採用の主因としている。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "御蔵島・青ヶ島のホテルをクチコミで比較！ホテルランキング - フォートラベル（御蔵荘3.27等の表示を確認したが再現性は不確か）", "url": "https://4travel.jp/dm_hotel_list-kuchoson-mikurajima.html" },
+        { "type": "review_site", "title": "御蔵荘のクチコミ情報 - フォートラベル（予約抽選制に関する口コミ）", "url": "https://4travel.jp/dm_hotel-11361154" },
+        { "type": "other", "title": "御蔵島観光協会 公式サイト 宿泊カテゴリ", "url": "https://mikura-isle.com/category/stay/" },
+        { "type": "other", "title": "御蔵島の概況・アクセス - 東京都教育委員会資料", "url": "https://www.kyoiku.metro.tokyo.lg.jp/documents/d/kyoiku/2025-07-28-092654-907" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "島唯一のホテル型宿泊施設としての独自性はあるが、主要OTAに掲載がなく、唯一確認できたフォートラベルの評価点も再検索時に『評価なし』表示となるなど安定して確認できなかったため、独立2情報源での評価検証（原則7）を満たせず、総合スコア31点で不採用。宿泊施設側で評価情報の公開・整備が進んだ段階での再調査が望ましい。"
+    },
+    {
+      "id": "2026-10-30-shigeokoubou-mikurajima",
+      "name": "民宿しげを工房",
+      "region": "東京都御蔵島村・御蔵島（御蔵島港から約0.8km）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "フォートラベル（御蔵島・青ヶ島のホテルをクチコミで比較！ホテルランキング内）で3.05（5点満点）という表示を確認したが、口コミ件数や最新の表示状況の安定性は確認できなかった。",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-30",
+          "url": "https://4travel.jp/dm_hotel-11368236"
+        },
+        {
+          "source": "じゃらんnet・楽天トラベル（『御蔵島』エリアでの宿泊施設掲載自体が検索範囲では確認できず、評価点を取得できなかった）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-30",
+          "url": "https://www.jalan.net/kankou/spt_guide000000182573/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "公式の料金ページを確認できず、具体的な宿泊料金は検索範囲では確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "御蔵島港から徒歩圏（約0.8km）にある家族経営の民宿。確認できた口コミは、友人4人で宿泊し、早朝着のフェリーに合わせて他の宿泊客と離れのカーペット敷きの大部屋を利用したという内容のみで、料理・温泉・体験プログラムなど具体的な独自性を示す出典は今回の検索では見つからなかった。",
+      "renewal_or_news": "具体的な最新ニュース・リニューアル情報は検索範囲では確認できなかった。",
+      "target_audience": ["友人", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 8,
+        "photogenic": 5,
+        "value_for_price": 3,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 20,
+      "recommendation_reason": "港から徒歩圏という便利さはあるが、独自の体験・魅力を示す出典が確認できず、評価点もフォートラベル1件のみで独立2情報源での検証ができない。総合スコア20点で不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できた唯一の口コミ内容（早朝着フェリーに合わせた大部屋利用）には重大な指摘は見当たらないが、口コミ自体が極めて少なく、低評価レビューの有無を十分に検証できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "民宿しげを工房 - フォートラベル（評価3.05の表示、港から0.8km）", "url": "https://4travel.jp/dm_hotel-11368236" },
+        { "type": "other", "title": "御蔵島観光協会 公式サイト 宿泊カテゴリ", "url": "https://mikura-isle.com/category/stay/" },
+        { "type": "other", "title": "御蔵島の概況・アクセス - 東京都教育委員会資料", "url": "https://www.kyoiku.metro.tokyo.lg.jp/documents/d/kyoiku/2025-07-28-092654-907" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独自の魅力・体験を示す出典が乏しく、評価点も独立2情報源で検証できないため、総合スコア20点で不採用。"
+    },
+    {
+      "id": "2026-10-30-teppoba-mikurajima",
+      "name": "民宿 鉄砲場（名称はフォートラベル掲載表記に基づく。正式名称・所在地の詳細は出典上確認できなかった）",
+      "region": "東京都御蔵島村・御蔵島",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "フォートラベル（御蔵島・青ヶ島のホテルをクチコミで比較！ホテルランキング内）で3.04（5点満点）という表示を確認したが、口コミ件数や最新の表示状況の安定性は確認できなかった。",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-30",
+          "url": "https://4travel.jp/dm_hotel_list-kuchoson-mikurajima.html"
+        },
+        {
+          "source": "じゃらんnet・楽天トラベル（『御蔵島』エリアでの宿泊施設掲載自体が検索範囲では確認できず、評価点を取得できなかった）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-30",
+          "url": "https://www.jalan.net/kankou/spt_guide000000182573/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "公式の料金ページを確認できず、具体的な宿泊料金は検索範囲では確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "確認できた口コミには、島の山に入るにはガイドの同行が必要という言及があり、宿泊者向けに山歩き・ガイド手配を行っている可能性があるが、詳細な体験内容や宿自体の設備・サービスは今回の検索では確認できなかった。",
+      "renewal_or_news": "具体的な最新ニュース・リニューアル情報は検索範囲では確認できなかった。",
+      "target_audience": ["一人旅", "友人"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 9,
+        "photogenic": 5,
+        "value_for_price": 3,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 21,
+      "recommendation_reason": "ガイド付き山歩きの手配など一定の独自性がうかがえるが、宿自体の情報・評価点が乏しく独立2情報源での検証ができない。総合スコア21点で不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "具体的な低評価レビューの内容は検索範囲では確認できず、口コミ自体が極めて少ないため検証が不十分。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "御蔵島・青ヶ島のホテルをクチコミで比較！ホテルランキング - フォートラベル（鉄砲場3.04等の表示）", "url": "https://4travel.jp/dm_hotel_list-kuchoson-mikurajima.html" },
+        { "type": "other", "title": "御蔵島観光協会 公式サイト 宿泊カテゴリ", "url": "https://mikura-isle.com/category/stay/" },
+        { "type": "other", "title": "御蔵島の概況・アクセス - 東京都教育委員会資料", "url": "https://www.kyoiku.metro.tokyo.lg.jp/documents/d/kyoiku/2025-07-28-092654-907" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "宿自体の情報・評価データが乏しく独立2情報源での検証ができないため、総合スコア21点で不採用。"
+    }
+  ],
+  "cycle_conclusion": "東京都御蔵島村・御蔵島を対象に離島リゾートカテゴリで3件（御蔵荘、民宿しげを工房、民宿鉄砲場）を調査した。御蔵島は野生のミナミハンドウイルカとのドルフィンスイム拠点として知名度が高まっているHidden Gem的な地域だが、宿泊施設数が極めて少なく、じゃらん・楽天トラベル等の主要OTAに掲載が確認できなかった。唯一評価点を確認できたフォートラベルの御蔵島・青ヶ島ホテルランキングページも、再検索時に項目別評価が『評価なし』と表示される場合があり、数値の安定性・再現性を確認できなかった。このため3件すべてで原則7（独立2情報源での評価検証）を満たせず、総合スコアも31点・20点・21点といずれも採用ライン（75点）に大きく届かず不採用とした。該当なし。御蔵島は独自資源（野生イルカ、原生林的な自然）の価値自体は高いため、宿泊施設側の口コミ・評価情報が主要サイトで整備された段階、または『アクティビティ』カテゴリ（ドルフィンスイムツアー単体）での再調査を検討する価値がある。"
+}

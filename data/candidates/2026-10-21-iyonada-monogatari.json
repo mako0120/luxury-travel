@@ -1,0 +1,95 @@
+{
+  "cycle_date": "2026-10-21",
+  "theme": "列車・船カテゴリ（リサーチ＋キャプションのみ、画像構成なし）— カテゴリ再調査の最終サイクル。依頼により愛媛県JR四国『伊予灘ものがたり』とJR西日本『WEST EXPRESS 銀河』の2候補のみを対象に調査した。",
+  "season_rationale": "投稿時点（2026-10-21）は秋。愛媛は伊予柑・みかん類の収穫期に入り、車内食事でも地元柑橘を使った小皿・デザートが登場する季節。また『道後編』は日没の早まる秋〜初冬にかけて、茜色に染まる伊予灘を見やすい時間帯に走る設定になりやすく、紅葉狙いの旅行需要とは別軸で『夕景狙い』の需要期に当たる。加えて、2026年は運行12周年（2026-07-17発表の記念企画）および『ダブルご乗車人数達成記念イベント』（2026-05-29発表、2代目車両が定期運行10万人、初代含む累計25万人達成を記念）の年にあたり、投稿時点でも話題の鮮度が残っている（原則4・30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-21-rihga-royal-hiroshima-aquarium-afternoontea", "region": "広島県広島市", "category": "その他" },
+    { "post_id": "2026-10-21-lemon-farm-glamping-shimanami", "region": "広島県尾道市（しまなみ海道）", "category": "グランピング" },
+    { "post_id": "2026-10-21-shinhotaka-ropeway", "region": "岐阜県高山市（新穂高ロープウェイ）", "category": "絶景ホテル" },
+    { "post_id": "2026-10-21-sounkyo-hotel-taisetsu", "region": "北海道上川郡（層雲峡温泉）", "category": "サウナ" },
+    { "post_id": "2026-10-21-toba-ocean-resort", "region": "三重県鳥羽市", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-21-yuda-onsen-kokian", "region": "山口県山口市（湯田温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-21-zao-kokusai-hotel", "region": "宮城県刈田郡（蔵王温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-10-21-hotel-fukinomori", "region": "京都府・鉱業体験ホテル／文化体験", "category": "文化体験" },
+    { "post_id": "2026-10-21-tango-kuromatsugo（不採用）", "region": "京都府北部（天橋立・西舞鶴）", "category": "列車・船" },
+    { "post_id": "2026-10-20-oigawa-sl-train", "region": "静岡県島田市（大井川鐵道）", "category": "列車・船" },
+    { "post_id": "2026-10-20-fuji-panoramic-ropeway", "region": "山梨県富士吉田市", "category": "絶景ホテル" },
+    { "post_id": "2026-10-20-ento-oki", "region": "島根県隠岐郡", "category": "離島リゾート" },
+    { "post_id": "2026-10-20-bettei-haruki-beppu", "region": "大分県別府市", "category": "グルメ旅館" },
+    { "post_id": "2026-10-20-vision-glamping-yamanakako", "region": "山梨県南都留郡", "category": "グランピング" },
+    { "post_id": "2026-10-19-hisatsu-orange-railway（不採用）", "region": "熊本〜鹿児島", "category": "列車・船" },
+    { "post_id": "2026-10-18-kurobe-gorge-torokko", "region": "富山県黒部市", "category": "列車・船" },
+    { "post_id": "2026-10-17-gunkanjima-cruise", "region": "長崎県長崎市", "category": "列車・船" },
+    { "post_id": "2026-09-18-yufuin-no-mori", "region": "福岡県〜大分県", "category": "列車・船" },
+    { "post_id": "2026-09-14-sagano-torokko", "region": "京都府京都市〜亀岡市", "category": "列車・船" }
+  ],
+  "duplication_note": "依頼により『列車・船』カテゴリの再調査（今回が上限の最終1回）として、愛媛県JR四国『伊予灘ものがたり』とJR西日本『WEST EXPRESS 銀河』の2候補を指定調査した。captions/・data/candidates/・posts/の全履歴（2026-09-14以降の全期間）を確認した結果、愛媛県・JR四国エリアはこれまで一度も登場しておらず、地域としては完全に新規。カテゴリ『列車・船』自体は2026-09-14（嵯峨野トロッコ・選定）、2026-09-18（ゆふいんの森・選定）、2026-10-17（軍艦島クルーズ・選定）、2026-10-18（黒部峡谷トロッコ・選定）、2026-10-19（肥薩おれんじ鉄道・不採用）、2026-10-20（大井川鐵道SL・選定）、2026-10-21（丹後くろまつ号・不採用）で既に高頻度だが、今回は依頼で明示された地域・列車（伊予灘ものがたり／WEST EXPRESS銀河）を具体的に精査した。嵯峨野トロッコ・黒部峡谷トロッコ・大井川鐵道SL・ゆふいんの森・軍艦島クルーズ・丹後くろまつ号のいずれとも地域（愛媛県）・鉄道事業者（JR四国）・体験内容（瀬戸内海沿いの車窓＋郷土食事×アテンダント演出）が重複しない。",
+  "other_candidates_considered": [
+    {
+      "name": "WEST EXPRESS 銀河（JR西日本・京阪神〜山陰／紀南方面の夜行・昼行周遊列車）",
+      "region": "京都府・大阪府を起点に山陽本線・伯備線・山陰本線・紀勢本線等（運行コースは季節により紀南コース・山陽コース・下関延伸等に変動）",
+      "reason_not_screened": "117系改造の個室・簡易寝台・フリースペース主体のコンセプト列車としてグッドデザイン賞受賞・高倍率抽選等の話題性は確認できたが、今回のWebSearchでもTripadvisor・じゃらん・4travel等の独立したレビューサイトページ自体を発見できず（検索結果は公式・旅行代理店・鉄道専門メディアの紹介記事ばかりで、乗客の数値評価や口コミ本文に到達できなかった）、原則6・7が求める『主要レビューサイト評価4.0以上を2件以上の独立情報源で確認する』という最低条件を満たせなかった。前回サイクル（2026-10-21・丹後くろまつ号調査時）でも同じ理由で対象外にしており、今回が指定された再調査の最終回だが、結果は変わらず正式候補としてスコアリングしなかった。チケットがほぼ旅行会社の企画商品経由でのみ販売される特殊な販売形態も、一般的なレビュー蓄積が少ない一因と考えられる。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-21-iyonada-monogatari",
+      "name": "伊予灘ものがたり（JR四国 観光列車）",
+      "region": "愛媛県松山市〜大洲市・八幡浜市（予讃線 海回り、下灘駅ほか伊予灘沿いの車窓）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Tripadvisor『観光列車 伊予灘ものがたり（Iyonada Monogatari）』",
+          "score": 4.7,
+          "scale": 5,
+          "review_count": 41,
+          "checked_date": "2026-10-21",
+          "url": "https://www.tripadvisor.com/Attraction_Review-g298230-d7649281-Reviews-Iyonada_Monogatari-Matsuyama_Ehime_Prefecture_Shikoku.html"
+        },
+        {
+          "source": "じゃらんnet『JR下灘駅』口コミ（伊予灘ものがたりが撮影停車する名物駅。列車単体の評価ではなく参考情報として併記）",
+          "score": 4.3,
+          "scale": 5,
+          "review_count": 221,
+          "checked_date": "2026-10-21",
+          "url": "https://www.jalan.net/kankou/spt_38210aj2202076274/kuchikomi/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "乗車にはJR四国の乗車券に加え、普通列車用グリーン券相当の指定席料金が別途必要。2014年の運行開始時点（初代キハ47系改造車）は松山〜伊予大洲間1,930円・松山〜八幡浜間2,260円だったが、2022年春に2代目車両（キハ185系改造、個室『Fiore Suite』新設）へ一新された際に料金が旧型比でおおむね1.8倍程度に上昇したとの乗車記（WebSearchスニペット経由）があり、現行の正確な金額は確認できていない。食事は『大洲編』『双海編』『八幡浜編』『道後編』の各コースごとに異なる食事予約券（事前購入制・乗車4日前まで販売）を別途購入する仕組みで、食事なしでも車内限定ドリンク等の注文は可能。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "瀬戸内海（伊予灘）沿いを走る、2014年開業・JR四国初の観光列車。『大洲編』『双海編』『八幡浜編』『道後編』の4コースで時間帯と車窓表情が異なり、『日本一海に近い駅』として知られる下灘駅では撮影のための停車時間が設けられる。沿線の住民が旗を振って列車を迎える光景や、アテンダントによる細やかなもてなし、愛媛県産食材・砥部焼の器を使った予約制の食事（郷土色の強いコース）が組み合わさり、『乗車そのものが目的化する』観光列車としての完成度が高い。2022年に2代目車両（キハ185系改造、個室スイートつき3両編成）へフルリニューアルしている。",
+      "renewal_or_news": "2026年7月17日付で運行12周年記念企画（プレゼント配布等）が発表され、2026年5月29日付では2代目車両の定期運行乗車人数10万人達成・初代含む累計乗車人数25万人達成を祝う『ダブルご乗車人数達成記念イベント』（2026年6月の土日に実施）がJR四国から発表されている。投稿時点（2026-10-21）はこれらの節目イベントから間もない時期で、2014年開業から12年以上、平均乗車率80〜90%台を保ち続けている人気の持続性も複数の鉄道専門媒体の記事で確認できた。",
+      "target_audience": ["カップル", "記念日", "夫婦", "絶景好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 10,
+        "unique_experience_score": 19,
+        "photogenic": 14,
+        "value_for_price": 7,
+        "sns_buzz": 8,
+        "access_and_freshness": 4
+      },
+      "score": 85,
+      "recommendation_reason": "Tripadvisor4.7（41件）という高評価に加え、12年連続で平均乗車率80〜90%台を維持しているという独立した鉄道専門媒体（東洋経済オンライン・trafficnews.jp）の裏付けがあり、原則6の最低ライン（4.0以上）を十分に満たす。『日本一海に近い駅』下灘駅での撮影停車、沿線住民が旗を振るおもてなし、コースごとに異なる車窓と食事という『ここでしかできない』体験の独自性が高く（unique_experience_score 19/20）、夕景が人気の『道後編』は写真・動画映えも強い。2026年の運行12周年・乗車人数節目イベントという情報の新しさ（原則4・30）もあり、地域（愛媛県・JR四国）・鉄道事業者としてもこのリポジトリで初登場のため重複防止（原則29）の観点でも適切。一方で、列車単体の数値評価はTripadvisor1件のみで件数も41件とやや少なく（原則7の『2種類以上の独立情報源』を厳密な数値評価としては完全には満たせていない）、この点は保守的にreview_reliabilityを抑えて評価に反映した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "指摘として確認できた主な点は、(1) 人気の高さゆえに座席予約の競争率が高く『予約に苦労する』『チケットは争奪戦』という口コミが複数のTripadvisor投稿で一致して見られたこと（体験の質そのものへの不満ではなく人気の裏返し）、(2) 食事予約券の販売が乗車4日前までに限られ、直前に座席券だけ取れても食事を追加できない仕組みへの指摘、(3) 2022年の2代目車両導入後に料金が旧型比でおおむね1.8倍程度に上昇したと感じた乗車記があったこと、(4) 車窓の満足度が天候・時間帯（曇天時は『双海編』の景色が期待より劣るという感想）に左右されること。関連する下灘駅側のじゃらん口コミにも『がっかり』という表題のものが1件確認できたが、内容は無人駅で施設がほぼないことや訪問時間帯によって夕景の印象が得られない点を指摘するもので、列車の運行品質・接客・清潔感に関する重大な指摘ではなかった。清潔感・接客トラブル・設備老朽化・重大な安全上の懸念については、このセッションで確認できた範囲では見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "Iyonada Monogatari - All You SHOULD Know Before Going 2026 (with Reviews) - Tripadvisor", "url": "https://www.tripadvisor.com/Attraction_Review-g298230-d7649281-Reviews-Iyonada_Monogatari-Matsuyama_Ehime_Prefecture_Shikoku.html" },
+        { "type": "review_site", "title": "JR下灘駅のクチコミ一覧 - じゃらんnet", "url": "https://www.jalan.net/kankou/spt_38210aj2202076274/kuchikomi/" },
+        { "type": "press", "title": "車内で泣いちゃう人がいる?「すごすぎて…」 人気列車の10年を支えた“尋常じゃないおもてなし” 背景にあった危機 - trafficnews.jp", "url": "https://trafficnews.jp/post/134029" },
+        { "type": "press", "title": "伊予灘ものがたり 関連記事（乗車率・利用実績） - 東洋経済オンライン", "url": "https://toyokeizai.net/articles/-/670201?display=b" },
+        { "type": "other", "title": "\"IYONADA MONOGATARI\" Timetable, Fares, and How to Buy Tickets - ekitan.com（2026年7月時点更新の案内）", "url": "https://ekitan.com/en/article/iyonada-monogatari" },
+        { "type": "press", "title": "JR四国ニュース一覧（運行12周年記念等の告知） - トレたび", "url": "https://www.toretabi.jp/news/jr/page/11/?cat=2" }
+      ],
+      "decision": "selected",
+      "rejection_reason": ""
+    }
+  ]
+}

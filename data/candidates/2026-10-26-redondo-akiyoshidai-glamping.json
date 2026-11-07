@@ -1,0 +1,106 @@
+{
+  "cycle_date": "2026-10-26",
+  "theme": "山口県美祢市（秋吉台国定公園・秋芳洞エリア）のグランピング施設",
+  "season_rationale": "10月下旬の秋吉台は、夏の草原とは違う色合いに変わり始め、夜間は気温が下がって焚き火・ドームテント内の暖房が快適に機能し始める時期にあたる。候補の『レドンド秋吉台』は森をライトアップする夜間演出『ひかりと森の宴』が目玉のため、日没が早まり夜が長くなる10月下旬〜は、昼間の秋芳洞・秋吉台観光と夜のライトアップ体験を同じ滞在で両方楽しみやすいタイミングになる。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-26-nachikatsuura-glamping", "region": "和歌山県東牟婁郡那智勝浦町・太地町", "category": "グランピング（グランオーシャンリュクス海熊野 shortlisted・selectedなし）" },
+    { "post_id": "2026-10-25-shiretoko-glamping", "region": "北海道斜里郡斜里町（知床）", "category": "グランピング（知床VILLA HOTEL FREEZE selected）" },
+    { "post_id": "2026-10-24-aso-glamping", "region": "熊本県阿蘇", "category": "グランピング" },
+    { "post_id": "2026-10-22-minakami-glamping", "region": "群馬県利根郡みなかみ町", "category": "グランピング（全4件rejected）" },
+    { "post_id": "2026-10-21-onomichi-setouchi-glamping", "region": "広島県尾道市・愛媛県今治市（しまなみ海道）", "category": "グランピング" },
+    { "post_id": "2026-10-20-nasu-awaji-glamping", "region": "栃木県那須高原／兵庫県淡路島", "category": "グランピング" },
+    { "post_id": "2026-10-20-yamanakako-itoshima-glamping", "region": "山梨県山中湖村／福岡県糸島市", "category": "グランピング" },
+    { "post_id": "2026-10-19-iseshima-glamping", "region": "三重県伊勢志摩", "category": "グランピング" },
+    { "post_id": "2026-10-19-takashima-glamping", "region": "滋賀県高島市", "category": "グランピング" },
+    { "post_id": "2026-10-18-tateshina-glamping", "region": "長野県茅野市（蓼科）", "category": "グランピング" },
+    { "post_id": "2026-10-18-fujikawaguchiko-glamping", "region": "山梨県河口湖", "category": "グランピング" },
+    { "post_id": "2026-10-17-shirahama-glamping", "region": "和歌山県西牟婁郡白浜町", "category": "グランピング" },
+    { "post_id": "2026-09-22-hokkaido-glamping", "region": "北海道空知郡上富良野町（富良野）", "category": "グランピング" },
+    { "post_id": "2026-09-14-glamping", "region": "栃木県佐野市／千葉県大多喜町／三重県志摩市", "category": "グランピング" }
+  ],
+  "duplication_note": "data/candidates/ と captions/ の全件を『山口』『美祢』『秋吉』『レドンド』『Akiyoshi』『Yamaguchi』で全文検索した。『山口』は2026-10-26-hagi-jokamachi-bunka-taiken（萩市・文化体験カテゴリ、萩城下町）など複数ファイルでヒットしたが、いずれも萩市・下関市など美祢市・秋吉台とは別エリア、かつカテゴリも『グランピング』ではなく『文化体験』『グルメ旅館』等のため重複にはあたらない。『美祢』『秋吉』『レドンド』『Akiyoshi』を含む候補・キャプションファイルはこれまで一件も存在せず、カテゴリ『グランピング』における山口県（美祢市・秋吉台エリア）の調査は本サイクルが初回。既存のグランピング候補（富士宮・富良野・白浜・河口湖・蓼科・伊勢志摩・高島・那須/淡路・山中湖/糸島・尾道/しまなみ・水上・霧島・阿蘇・知床・那智勝浦/太地）とは地域・施設ともに完全に異なる。",
+  "research_constraints": "本セッションではWebFetchが travel.rakuten.co.jp / hamoni.jp / glampicks.jp / redondo.jp / 4travel.jp / newt.net 等の多数のドメインに対してDNS解決エラー（getaddrinfo ENOTFOUND）で失敗し、個別ページを直接開けなかった。そのため本候補の情報はすべてWebSearchが返すスニペット要約経由であり、各予約サイトの口コミ本文・正式な集計件数（楽天トラベルのクチコミ件数は検索結果のスナップショットにより7件/8件/11件と表記が揺れていた）を直接確認できていない。また公式サイト（redondo.jp）自体も直接取得できず、電話番号・公式サイトURLはYahoo!トラベル等の掲載情報経由の間接確認にとどまる。",
+  "other_candidates_considered": [],
+  "candidates": [
+    {
+      "id": "2026-10-26-redondo-akiyoshidai",
+      "name": "レドンド秋吉台",
+      "region": "山口県美祢市秋芳町秋吉3186番地（秋吉台国定公園・秋芳洞エリア）",
+      "category": "グランピング",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "楽天トラベル",
+          "score": 4.86,
+          "scale": 5,
+          "review_count": 7,
+          "checked_date": "2026-10-26",
+          "url": "https://travel.rakuten.co.jp/HOTEL/187435/review.html"
+        },
+        {
+          "source": "トリップアドバイザー",
+          "score": 5.0,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-26",
+          "url": "https://www.tripadvisor.jp/ShowUserReviews-g1023686-d32714508-r1004250530-Redondo_Akiyoshidai-Mine_Yamaguchi_Prefecture_Chugoku.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらん掲載では1泊大人2名合計(税込)34,000円〜（1名17,000円〜）。489ban予約ページでは2026年9月5日限定の花火大会特別プラン（1泊2食付き）が確認できたほか、楽天トラベルでは2026年7月1日〜9月30日向けの『夏旅応援20%OFF』プランが確認できた。いずれも検索時点の掲載内容で、テントタイプ・時期・人数により料金は変動する。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "秋芳洞・秋吉台（日本最大級のカルスト台地）のすぐそばという立地を活かし、限定6棟のドーム型テント（ヒルビュー／フォレストビュー）で構成されるグランピング施設。目玉は『ひかりと森の宴』と呼ばれる夜間演出で、直径約100mの森が光のアートでライトアップされ、フォレストビュータイプのテントは室内からその様子を鑑賞できる。各テントにシャワー・トイレ・洗面台を完備し、夕食は山口県産和牛『燦』や長州どりを使ったウッドデッキBBQが中心。日中は秋芳洞・秋吉台観光、夜は森の光のアートと星空という組み合わせが、秋吉台エリアの他の宿泊施設（キャンプ場・旅館）とは異なる独自性になっている。",
+      "renewal_or_news": "2022年夏に秋芳洞近くに開業。press配信（newscast.jp経由のプレスリリース）では、開業1年間で宮城県から鹿児島県まで全国2,025名が宿泊したと発表されており、山口県内に限らず広域から集客している様子がうかがえる。2026年に入っても楽天トラベルで夏季（7〜9月）の割引プラン、489ban予約ページで2026年9月5日限定の花火大会特別プランが確認でき、2026年時点でも営業が継続していることが確認できた。",
+      "target_audience": ["カップル", "記念日", "夫婦", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 6,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 72,
+      "recommendation_reason": "楽天トラベル4.86（7件）・トリップアドバイザー5.0（1件）という独立した2つの情報源でいずれも推奨ライン4.0以上を確認できた（原則6・7）。秋吉台国定公園・秋芳洞という知名度の高い観光地のすぐそばで、森全体を光のアートでライトアップする『ひかりと森の宴』という他の山口県内グランピング施設には見られない独自の夜間体験があり、開業1年で全国2,025名が宿泊したというプレスリリース上の実績もある。一方で、確認できた口コミの総数は両サイト合計でも1桁〜10件程度と極端に少なく、評価自体は高いもののサンプル数の少なさから信頼性（review_reliability）は保守的に採点した。じゃらん・公式サイト（redondo.jp）の口コミ本文は本セッションのWebFetch不可により直接確認できなかった。総合72点で、原則の75点ラインにわずかに届かないため、今回はselectedとせずshortlisted（次回以降の口コミ件数再確認を条件とした保留）とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベルの口コミ項目別評価では、部屋・朝食・夕食が4.86前後と高評価な一方、『温泉・お風呂』の項目が3.83と全項目中最も低く、シャワー室が2人で使うには狭いという指摘があった（施設はテント内シャワーのみで大浴場・温泉は備えていない）。『あいにくの雨でロケーションを十分楽しめなかった』という天候依存の感想や、『夜間に別の宿泊客の声が気になり眠りづらかった（施設側に落ち度はないとされる）』という指摘も見つかった。立地についても、最寄りの秋芳洞周辺からは徒歩では距離があり車移動が前提との指摘があった。衛生・安全性・接客・予約詐欺・休業等の重大な指摘は本セッションのWebSearchで取得できたスニペットの範囲では見つからなかった。ただし口コミ本文を直接WebFetchできておらず母数も少ないため、低評価レビューが実際にゼロと断定はできない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "レドンド秋吉台 に実際に泊まった方のクチコミ・レビュー（4.86・7件） - 楽天トラベル",
+          "url": "https://travel.rakuten.co.jp/HOTEL/187435/review.html"
+        },
+        {
+          "type": "review_site",
+          "title": "光のアートを楽しめるグランピング - レドンド秋吉台の口コミ（5.0・1件） - トリップアドバイザー",
+          "url": "https://www.tripadvisor.jp/ShowUserReviews-g1023686-d32714508-r1004250530-Redondo_Akiyoshidai-Mine_Yamaguchi_Prefecture_Chugoku.html"
+        },
+        {
+          "type": "booking_site",
+          "title": "レドンド秋吉台（光のアート型グランピング施設・料金目安34,000円〜） - じゃらんnet",
+          "url": "https://www.jalan.net/350000/spt_guide000000208942/"
+        },
+        {
+          "type": "other",
+          "title": "レドンド秋吉台（公式サイトredondo.jp・予約先TEL:0837-55-4022） - Yahoo!トラベル",
+          "url": "https://travel.yahoo.co.jp/00914646"
+        },
+        {
+          "type": "press",
+          "title": "レドンド秋吉台 開業1年で全国2,025名が宿泊（プレスリリース） - newscast.jp",
+          "url": "https://newscast.jp/smart/news/4418163"
+        }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "秋吉台・秋芳洞という著名観光地のそばで森全体をライトアップする独自の夜間体験があり、独立2情報源（楽天トラベル4.86・トリップアドバイザー5.0）で4.0以上の評価も確認できたが、両サイト合計でも口コミ件数が1桁〜10件程度と極端に少なく信頼性に欠けるため、score_breakdownの合計が72点となり原則の75点採用ラインにわずかに届かなかった。じゃらん・公式サイトの口コミ本文を直接確認できる状態になれば、次回以降に再評価する価値がある。"
+    }
+  ],
+  "selected": null,
+  "cycle_result_note": "既存候補で未出だった山口県美祢市・秋吉台エリアのグランピングを調査し、『レドンド秋吉台』（秋吉台・秋芳洞近接、森を光のアートでライトアップする『ひかりと森の宴』、限定6棟のドーム型テント）を候補とした。楽天トラベル4.86（7件）・トリップアドバイザー5.0（1件）の独立2情報源でいずれも4.0以上を確認し、2026年の営業継続（夏季割引プラン・9月5日花火特別プラン）も確認できたが、口コミ総数が極端に少ないため信頼性を保守的に採点し、スコア72点で75点の採用ラインに届かなかった。基準を下げて無理にselectedとすることはせず、shortlisted・selectedなしで確定する。これにより『グランピング』カテゴリの再調査は本サイクルで上限（1回）に達したため終了とする。"
+}

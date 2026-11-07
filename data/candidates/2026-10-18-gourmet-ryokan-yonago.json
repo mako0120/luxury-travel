@@ -1,0 +1,232 @@
+{
+  "cycle_date": "2026-10-18",
+  "theme": "鳥取県米子市皆生温泉のグルメ旅館",
+  "season_rationale": "10月中旬〜下旬は山陰の秋の味覚（鳥取和牛・日本海の魚介）が充実し始める時期で、11月上旬の松葉ガニ漁解禁を控えて『少し贅沢な旅』としての食の訴求がしやすい季節（原則30）。皆生温泉は海沿いの温泉地で、これまでの候補・投稿データには一度も登場していない新規エリア。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-kahou-tsukioka", "region": "新潟県新発田市月岡温泉", "category": "サウナ" },
+    { "post_id": "2026-10-17-aquasense-onna", "region": "沖縄県国頭郡恩納村字冨着", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-17-hoshino-iriomote-hotel", "region": "沖縄県八重山郡竹富町上原（西表島）", "category": "離島リゾート" },
+    { "post_id": "2026-10-17-ureshino-taishoya", "region": "佐賀県嬉野市嬉野町（嬉野温泉）", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "直近の実選定投稿（月岡温泉＝サウナ、恩納村＝オールインクルーシブ、西表島＝離島リゾート）とは地域・カテゴリとも重複しない。カテゴリ『グルメ旅館』は直近では2026-10-17に佐賀県嬉野温泉で選定済みだが、間に3カテゴリを挟んでおり連続はしていない（原則29）。地域の鳥取県米子市皆生温泉は過去の候補・投稿データに一度も登場していない新規エリア。",
+  "candidates": [
+    {
+      "id": "2026-10-18-kaike-shogetsu",
+      "name": "皆生松月",
+      "region": "鳥取県米子市皆生温泉（皆生温泉海遊ビーチに面した全19室の小規模旅館）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル",
+          "score": 4.73,
+          "scale": 5,
+          "review_count": 3932,
+          "checked_date": "2026-10-18",
+          "url": "https://travel.rakuten.co.jp/HOTEL/5666/review.html"
+        },
+        {
+          "source": "るるぶトラベル（食事カテゴリ）",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-18",
+          "url": "https://www.rurubu.travel/hotel/japan/yonago/kaike-shogetsu"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "海遊ビーチへ直結する『カバナルーム』（洋室60㎡・定員2〜4名）は、予約サイト上で1名24,750円〜（2名1室利用時、夕朝食付想定）という表示が確認できたが、別の掲載では1名25,850円〜、夕朝食付2名税込48,134円〜という表示もあり、適用条件（部屋タイプ・プラン・時期）がWeb検索だけでは確定できなかった。多くの予約枠は『お電話でお問い合わせください』扱いになっており、正確な料金は公式サイト・電話（0859-31-1100）での確認が必要。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "1927年(昭和2年)創業、全19室という小規模旅館ながら、最上階の大浴場から日本海を一望できる。名物の『カバナルーム』は専用庭を通って皆生温泉海遊ビーチへ直結する造りで、部屋・露天風呂・海が一続きになっている点が皆生温泉の他の大型ホテルにはない独自性。夕食は料理長自慢の会席料理で、山陰の海の幸・鳥取和牛を使う。2024年4月にリニューアルを実施している。",
+      "renewal_or_news": "2024年4月にリニューアルを実施。",
+      "target_audience": ["夫婦", "記念日", "グルメ旅", "温泉好き", "カップル"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 14,
+        "unique_experience_score": 18,
+        "photogenic": 14,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 86,
+      "recommendation_reason": "楽天トラベル4.73（3,932件）という大規模サンプルで極めて高い評価を得ており、るるぶトラベルでもサービス4.7・ロケーション4.5・風呂4.5・食事4.5と全項目で高水準。JTBのお客様アンケート評価も89点。全19室という小規模旅館でありながら、専用庭からビーチへ直結する『カバナルーム』という皆生温泉でも珍しい造りを持ち、料理長自慢の会席料理（山陰の海の幸・鳥取和牛）がグルメ旅館としての独自性を補強している。2024年4月リニューアルで施設の新しさも確認できた。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Relux（2023年投稿）に『人手不足のためサービスがやや寂しい』『和室の布団が硬く感じた』という声が1件あったが、同じ投稿者は食事・風呂は高く評価している。清潔感・接客・料理・混雑・予約トラブル・設備老朽化に関わる重大な指摘は、楽天トラベル3,932件・るるぶ・JTBなど他の情報源では確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "皆生松月 口コミ・評価（楽天トラベル／総合4.73・3,932件）", "url": "https://travel.rakuten.co.jp/HOTEL/5666/review.html" },
+        { "type": "review_site", "title": "皆生松月 (Kaike Shogetsu) - るるぶトラベル（サービス4.7・ロケーション4.5・風呂4.5・食事4.5）", "url": "https://www.rurubu.travel/hotel/japan/yonago/kaike-shogetsu" },
+        { "type": "booking_site", "title": "皆生松月 - JTB（お客様アンケート評価89点）", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/7316020/" },
+        { "type": "review_site", "title": "皆生松月 宿泊口コミ・カバナルーム紹介 - icotto", "url": "https://icotto.jp/hotels/5095" },
+        { "type": "review_site", "title": "皆生松月 口コミ（2023年投稿、接客・布団に関する声） - Relux", "url": "https://rlx.jp/23554/review/" },
+        { "type": "other", "title": "皆生松月 カバナルーム 宿泊プラン詳細（489ban予約システム）", "url": "https://reserve.489ban.net/client/kaike-shogetsu/0/detail/240405" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-18-kaike-seaside-hotel",
+      "name": "皆生シーサイドホテル海の四季",
+      "region": "鳥取県米子市皆生温泉",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル",
+          "score": 3.77,
+          "scale": 5,
+          "review_count": 71,
+          "checked_date": "2026-10-18",
+          "url": "https://4travel.jp/dm_hotel-10050681"
+        },
+        {
+          "source": "Googleクチコミ（All About記事経由、500件以上の下限値として記載）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 500,
+          "checked_date": "2026-10-18",
+          "url": "https://news.allabout.co.jp/articles/o/129634/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらん上の表示では1泊大人2名合計(税込)12,100円〜（1名6,050円〜）、最安値表示では大人1名6,600円〜という掲載も見られたが、会席プランなど上位プランの正確な料金はWeb検索の範囲では確定できなかった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2024年に大規模リニューアルを実施し、楽天トラベルでは売れ筋1位として紹介されている。夕食にかに会席プランがあり、山陰の海の幸・大山の地野菜を使った料理長お任せ会席が人気プラン。",
+      "renewal_or_news": "2024年大規模リニューアル。",
+      "target_audience": ["夫婦", "記念日", "グルメ旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 10,
+        "unique_experience_score": 14,
+        "photogenic": 11,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 5
+      },
+      "score": 69,
+      "recommendation_reason": "2024年大規模リニューアルと楽天トラベル売れ筋1位という話題性はあるが、フォートラベルの満足度は3.77（71件）とグルメ旅館として推すにはやや物足りず、西館からの移動やツインルームの狭さ・騒音、温泉の塩分が強いといった声も複数確認された。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルでバリアフリー3.06・アクセス3.60と低め。西館に泊まる場合は道路を渡って庭を通る必要があり、足が悪い人には負担になるという指摘、ツインルームが狭くビジネスホテルのようで音が気になったという指摘、夕食なしプランで夜遅く到着し周辺に食事できる店がなかったという指摘、温泉の塩分が強く長く入っていられないという指摘があった。清潔感・安全面に関わる重大な指摘ではないと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "皆生シーサイドホテル海の四季 クチコミ（フォートラベル／満足度3.77・71件）", "url": "https://4travel.jp/dm_hotel-10050681" },
+        { "type": "booking_site", "title": "皆生シーサイドホテル海の四季※2024年大規模リニューアル - じゃらん", "url": "https://www.jalan.net/yad303360/" },
+        { "type": "other", "title": "【楽天トラベル売れ筋1位】鳥取県「皆生温泉 皆生シーサイドホテル 海の四季」が選ばれる理由 - All About", "url": "https://news.allabout.co.jp/articles/o/129634/" },
+        { "type": "review_site", "title": "皆生シーサイドホテル海の四季 クチコミ一覧 - ニフティ温泉", "url": "https://onsen.nifty.com/yonago-onsen/onsen003568/kuchikomi/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア69点で採用ライン（75点）に届かず、フォートラベルの満足度も3.77（71件）とグルメ旅館として押すには一貫性が弱いため見送った。同カテゴリで調査した皆生松月（86点）の方が評価の一貫性・独自性（カバナルーム）の両面で優れていた。"
+    },
+    {
+      "id": "2026-10-18-kaike-grand-hotel-tensui",
+      "name": "皆生グランドホテル天水",
+      "region": "鳥取県米子市皆生温泉",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらん",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 842,
+          "checked_date": "2026-10-18",
+          "url": "https://www.jalan.net/yad340698"
+        },
+        {
+          "source": "Relux",
+          "score": 3.9,
+          "scale": 5,
+          "review_count": 9,
+          "checked_date": "2026-10-18",
+          "url": "https://rlx.jp/22718/review/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では部屋タイプ別の正確な1泊2食価格帯は確定できなかった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "海沿いのレストラン『渚亭』が2026年7月18日にリニューアルオープンし、新鮮な握り寿司を実演調理するなど鳥取和牛・山陰の海の幸を使った料理を出す。",
+      "renewal_or_news": "2026年7月18日レストラン『渚亭』リニューアルオープン。",
+      "target_audience": ["グルメ旅", "家族", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 11,
+        "unique_experience_score": 12,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 66,
+      "recommendation_reason": "じゃらん総合4.0（842件）という大きなサンプルでの評価自体は採用ラインを満たすが、2026年6月時点の口コミでは改装直前の夕食バイキングの質低下を『大変失望した』と星1で厳しく指摘する投稿があり、グルメ旅館として料理品質を安定して推せるか懸念が残る。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2026年6月の口コミで、前年の夕食バイキングは良かったが今回は料理の質が大きく低下し大変失望した（食事会場も工事中で別会場だった）という星1の投稿があった。一方2026年7月のレストラン改装初日の投稿では綺麗で料理も美味しいと高評価。Reluxの9件のレビューでも夕食3.7/5の中に1点をつけた投稿が含まれる。料理品質にばらつきがあり、重大な衛生・安全上の指摘ではないが、グルメ旅館として推す上での懸念材料と判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "皆生グランドホテル天水 - じゃらん（クチコミ総合4.0・842件）", "url": "https://www.jalan.net/yad340698" },
+        { "type": "review_site", "title": "皆生グランドホテル天水 クチコミ（Relux・9件）", "url": "https://rlx.jp/22718/review/" },
+        { "type": "review_site", "title": "皆生グランドホテル天水 宿泊口コミ（夕食バイキング品質に関する投稿） - cocolocala", "url": "https://www.cocolocala.jp/hotels/20911" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア66点で採用ライン（75点）に届かず、2026年6月時点の口コミで夕食バイキングの質低下を強く指摘する星1の投稿があり、グルメ旅館として料理品質の安定性に懸念が残るため見送った。"
+    },
+    {
+      "id": "2026-10-18-toukouen",
+      "name": "東光園",
+      "region": "鳥取県米子市皆生温泉",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル",
+          "score": 3.32,
+          "scale": 5,
+          "review_count": 43,
+          "checked_date": "2026-10-18",
+          "url": "https://4travel.jp/dm_hotel-10050678"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な1泊2食価格帯は確定できなかった。日帰り湯めぐり(大浴場+露天風呂)は大人1名1,000円という情報があった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "和の庭園と露天風呂を持ち、皆生温泉では珍しいアルカリ泉という口コミがある。懐石風の夕食も好評との声があった。",
+      "target_audience": ["温泉好き", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 6,
+        "unique_experience_score": 11,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 45,
+      "recommendation_reason": "和の庭園・珍しいアルカリ泉という独自性はあるが、フォートラベルの満足度3.32（43件）など主要レビューが採用ライン（4.0以上）を下回り、スタッフの大きな入れ替わりを指摘する口コミもあったため見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルでは総合満足度3.32（43件）、バリアフリー3.03と低め。cocolocalaではスタッフが大きく入れ替わったという指摘、icottoでは風呂の評価が2.5と低い投稿があった。清潔感・安全面の重大な指摘は確認できなかったが、評価が全体的に3点台に留まり採用ラインに届かない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "東光園 クチコミ（フォートラベル／満足度3.32・43件）", "url": "https://4travel.jp/dm_hotel-10050678" },
+        { "type": "review_site", "title": "東光園 宿泊口コミ（スタッフ入れ替えの指摘） - cocolocala", "url": "https://www.cocolocala.jp/hotels/20907" },
+        { "type": "review_site", "title": "東光園 宿泊口コミ（和の庭園・懐石夕食、風呂2.5） - icotto", "url": "https://icotto.jp/hotels/5088" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア45点、主要レビュー評価も3点台中心（フォートラベル3.32・43件）で採用ライン（75点・4.0以上）を大きく下回ったため見送った。"
+    }
+  ]
+}

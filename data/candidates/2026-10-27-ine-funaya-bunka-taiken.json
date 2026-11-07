@@ -1,0 +1,220 @@
+{
+  "cycle_date": "2026-10-27",
+  "theme": "文化体験：京都府与謝郡伊根町（伊根の舟屋）",
+  "season_rationale": "伊根湾は夏の猛暑・真冬の積雪のピークを外れた10月下旬〜11月が、舟屋群の町並みをサイクリング・遊覧で巡るのに気候的に適した時期。特に伊根町観光協会主催の『舟屋群一周e-rideツアー』は例年12月1日〜2月末が冬季休業となるため、今サイクルで検討を始めないと次に動けるのは春以降になる。また紅葉シーズンは京都市内に注目が集中しやすく、同じ京都府内でも海辺の伝統的建造物群保存地区という『まだ知られていない良さ』を今の時期に紹介する価値が高いと判断した。",
+  "prior_posts_checked": [],
+  "duplication_note": "`data/candidates/` `captions/` 配下の全ファイルをファイル名・本文（grep）で『伊根』『舟屋』『Ine』『funaya』『Funaya』の文字列について、作成日に関わらず（1か月以上前のファイルも含め）全件確認した。該当する候補・キャプションは1件も見つからず、本サイクルの『京都府与謝郡伊根町（伊根の舟屋）』は本リポジトリにおける新規調査地域であることを確認した。",
+  "other_candidates_considered": [
+    {
+      "name": "伊根湾めぐり遊覧船（丹後海陸交通、日出桟橋発）",
+      "category": "列車・船（参考）",
+      "note": "舟屋群を海側から約30分で周遊する定番の遊覧船。カモメの餌やりが名物。おでかけ情報サイトiko-yoでは評価4.0・口コミ2件のみで、独立2情報源の数値レビューを満たせず、またカテゴリも本サイクルで指定された『文化体験』ではなく『列車・船』に相当するため、今回は候補化せず参考情報とした。"
+    },
+    {
+      "name": "舟屋の宿 まるいち／舟屋の宿 ながはま",
+      "category": "文化体験（参考）",
+      "note": "京都府北部地域振興局の資料（maruiti_2023_2.pdf／nagahama_2023.pdf）で、舟屋を改装した1棟貸し・もんどり漁体験付きの宿として料金・設備が確認できたが、Web検索の範囲ではじゃらん・楽天トラベル・フォートラベル等での数値レビューが見つからず、本スキーマが要求する独立2情報源のreview_scoresを満たせないため参考情報とした。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-27-ine-funaya-miyabi",
+      "name": "伊根の舟屋 雅（いねのふなや みやび）",
+      "region": "京都府与謝郡伊根町字平田552（奥伊根温泉エリア／天橋立駅からバスで約50分）",
+      "category": "文化体験",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "じゃらんnet",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 48,
+          "checked_date": "2026-10-27",
+          "url": "https://www.jalan.net/yad300344/"
+        },
+        {
+          "source": "icotto（フォートラベル提供データを引用）",
+          "score": 3.2,
+          "scale": 5,
+          "review_count": 57,
+          "checked_date": "2026-10-27",
+          "url": "https://icotto.jp/hotels/10612"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "京都府北部地域振興局の資料では、平日5名様利用の場合13,310円（税込、食事なし・手配可）〜と紹介されている。一方、icotto・るるぶ経由の情報では、1室2名利用時の1名料金で舟屋『風雅』28,600円〜・主屋『香雅』14,300円〜（入湯税別途150円）となっており、館・人数条件が異なるため単純比較はできない。正確な現行料金・空室状況は予約前に公式窓口（0772-32-0280、京都府資料記載）での確認が必要。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "伊根浦舟屋群で唯一、温泉（伊根湾一望の露天風呂）を備える宿。1階が船の格納・作業場、2階が居室という舟屋本来の構造を活かした『主屋 香雅』『風雅』ほか複数棟からなり、全室禁煙・泊食分離という独自運営。オプションで海上タクシー・魚買い体験・もんどり漁体験（各1,000円）が用意されており、宿泊だけでなく伊根浦の漁師町としての暮らし・文化に直接触れられる点が最大の独自性。2023年3月には系列『伊根の舟屋 雅 別邸』も開業している。",
+      "renewal_or_news": "2023年3月、系列施設『伊根の舟屋 雅 別邸』が新規オープン（本体『雅』とは別掲載）。本体『雅』自体の直近の大規模リニューアル情報は本調査では確認できなかったが、京都府資料・じゃらん・icottoいずれも2026年10月時点で掲載・営業中であることが確認できた。",
+      "target_audience": ["夫婦", "記念日", "カップル", "温泉好き", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 9,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 75,
+      "recommendation_reason": "国の重要伝統的建造物群保存地区である伊根浦舟屋群の中で唯一、温泉付きという独自性を持つ『伊根の舟屋 雅』を調査した。じゃらんnet（4.6/5・48件、部屋4.6・風呂4.4・清潔感4.8）という国内主要OTAで高評価が一貫している一方、icotto（フォートラベル提供データ・3.2/5・57件）ではアクセス（2.83）とコストパフォーマンス（3.17）が弱点として指摘されており、評価の分散があることを明示した上で判断した。弱点はいずれも立地・価格感に関するもので、衛生・接客上の重大な指摘は確認されていない（原則10）。海上タクシー・もんどり漁体験といった、実際の漁師町の暮らしに触れるオプションがあり、観光地化されすぎていない伊根浦の文化を伝えやすい。score_breakdownの合計は75点で採用ライン（原則6）を満たすため、decisionはselectedとした。ただし料金は館・条件により表記に幅があるため、制作前に公式窓口での最新料金・空室確認を必須とする。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icotto（フォートラベル提供データ）ではアクセス2.83・コストパフォーマンス3.17という相対的に低い項目評価があり、天橋立駅からバスで約50分という立地の不便さと、価格に対する満足度のばらつきが示唆される。じゃらんnetでも接客・サービスが3.8と他項目（風呂4.4・清潔感4.8）よりやや低い。ただし衛生面・安全面・予約トラブル等の重大な指摘は両情報源で確認されなかった。伊根エリア全体として『商店が早く閉まり外食できる場所が少ない』という地域共通の注意点も確認した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "京都府北部地域振興局 丹後地域づくり資料（伊根の舟屋 雅／みやびII 掲載ページ）",
+          "url": "https://www.pref.kyoto.jp/tango/chiiki/documents/miyabii.pdf"
+        },
+        {
+          "type": "booking_site",
+          "title": "伊根の舟屋 雅 宿泊口コミ（総合4.6・48件） - じゃらんnet",
+          "url": "https://www.jalan.net/yad300344/"
+        },
+        {
+          "type": "review_site",
+          "title": "伊根の舟屋 雅 クチコミ（総合3.2・57件、フォートラベル提供データ） - icotto",
+          "url": "https://icotto.jp/hotels/10612"
+        },
+        {
+          "type": "other",
+          "title": "伊根の舟屋を紹介する特集記事（雅の3棟構成・風雅の露天風呂に関する記載） - るるぶ&more",
+          "url": "https://rurubu.jp/andmore/article/17266"
+        }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-27-ine-funayagun-eride-tour",
+      "name": "舟屋群一周 e-rideツアー（伊根町観光協会主催）",
+      "region": "京都府与謝郡伊根町（伊根町観光協会集合、伊根湾沿い舟屋群エリア）",
+      "category": "文化体験",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "GLTJP（Go Local Travel Japan）",
+          "score": 4.58,
+          "scale": 5,
+          "review_count": 9,
+          "checked_date": "2026-10-27",
+          "url": "https://www.gltjp.com/ja/directory/item/10926/"
+        },
+        {
+          "source": "travel-buddies.com（海外ツアー掲載サイト）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 2,
+          "checked_date": "2026-10-27",
+          "url": "https://travel-buddies.com/ine-funaya-e-bike-cycling-tour/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "海外掲載サイト（travel-buddies.com）では1人あたり約$81.04〜という表示があったが、海外OTA経由の手数料込み価格である可能性が高く、国内正規料金として採用できない。伊根町観光協会の公式な日本語料金表は本調査環境（ine-kankou.jpへの接続不可）では確認できず、正確な料金は不明。制作前に伊根町観光協会（電話090-6787-6526、集合場所は伊根町観光協会）への直接確認が必須。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "伊根町観光協会主催、地元ガイド同行の電動アシスト自転車（e-BIKE）ツアー。舟屋群一周コース（8km・約2時間）では舟屋の内部見学やもんどり等の地元漁具の見学、向井酒造への立ち寄りができ、終了後は1日自由にe-BIKEに乗れる。筒川地区の農村を巡り古民家食堂『伊根之空GOHAN』で食事をするコース（14km・約3時間）や、海岸線の絶景を楽しむコース（12km・約3時間）もある。口コミでは『観光地として開発されすぎていない』『漁村の実際の暮らしを垣間見られる』『地元の人と交流できる』といった、ガイドツアーならではの一次体験的な評価が目立つ。",
+      "renewal_or_news": "大規模リニューアル等のニュースは本調査では確認できなかった。営業は毎日10:00・13:00発の2回で、12月1日〜2月末は冬季休業という変動情報を確認した（情報源により表記の詳細に差があるため訪問前に要再確認）。",
+      "target_audience": ["友人", "一人旅", "夫婦", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 4,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 66,
+      "recommendation_reason": "伊根浦舟屋群を地元ガイド同行のe-BIKEで巡る『舟屋群一周e-rideツアー』を調査した。舟屋の内部に実際に入れる、もんどり漁具や酒蔵を見学できるなど、観光地化されていない漁師町の暮らしに触れられる独自性は高く、GLTJP（4.58/5・9件）・travel-buddies.com（4.0/5・2件）という独立2情報源でいずれも4.0以上の評価を確認した（原則6・7）。ただしレビュー件数が合計11件と非常に少なく評価の安定性は限定的で、かつ公式の料金表を本調査環境から確認できなかった（ine-kankou.jpに接続不可）という事実確認不足がある。score_breakdownの合計は66点で採用ライン75点に届かないため、decisionはshortlisted（次点）とした。次サイクルで伊根町観光協会に電話または公式サイトで料金・最新の催行状況を確認できれば再評価したい。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "両情報源とも否定的な口コミは確認されなかったが、レビュー件数自体が合計11件と少なく、サンプルとしての信頼性は限定的である。雨天時の参加者からも『気にならず良い時間を過ごせた』という声があり、重大なマイナス要素は見つかっていない。冬季休業期間（12月〜2月末）があるため、季節外の訪問計画には注意が必要。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "GLTJP（Go Local Travel Japan）舟屋群環遊e-ride体験 紹介・口コミページ",
+          "url": "https://www.gltjp.com/ja/directory/item/10926/"
+        },
+        {
+          "type": "other",
+          "title": "GLTJP 伊根町記事（コース詳細・営業時間・連絡先の記載）",
+          "url": "https://www.gltjp.com/ja/article/item/20059/"
+        },
+        {
+          "type": "other",
+          "title": "Ine Funaya E-Bike Cycling Tour（海外ツアー掲載・口コミ） - travel-buddies.com",
+          "url": "https://travel-buddies.com/ine-funaya-e-bike-cycling-tour/"
+        }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-27-ine-funaya-aura",
+      "name": "舟屋の宿あうら（伊根舟屋の宿あうら／FUNAYA Aura）",
+      "region": "京都府与謝郡伊根町字平田56（舟屋群中心部／天橋立駅からバス約50分、「平田」バス停下車徒歩2分）",
+      "category": "文化体験",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "Booking.com（海外OTA。スナップショットにより9.4/18件・9.5/21件と表記に差があり、同一サイトのため独立情報源としては1件分に留まる）",
+          "score": 9.4,
+          "scale": 10,
+          "review_count": 18,
+          "checked_date": "2026-10-27",
+          "url": "https://www.booking.com/city/jp/ine.en-gb.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "予約サイトの表示では、4月〜10月末は素泊まり15,400円〜（1名）・朝食付き17,600円〜（1名）、11月〜3月は1泊2食26,400円〜（1名）とされている。公式な料金確定情報・2026年時点の最新営業状況は本調査環境からは確認できなかった。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "伊根浦舟屋群の中心部に位置する、1日1組限定の1棟貸し舟屋宿。1階にダイニング・海側スペース、2階に客室・浴室を配置し、舟屋本来の構造を活かした宿泊体験ができる。バス停・観光協会・飲食店まで徒歩圏内というアクセスの良さも特徴。",
+      "renewal_or_news": "大規模リニューアル等のニュースは本調査では確認できなかった。",
+      "target_audience": ["カップル", "夫婦", "友人", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 4,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 3,
+        "access_and_freshness": 4
+      },
+      "score": 68,
+      "recommendation_reason": "舟屋群中心部に立地する1棟貸し宿『舟屋の宿あうら』を調査した。Booking.comでは9.4〜9.5/10（18〜21件）と非常に高い評価が付いているが、確認できた日本語口コミサイト（フォートラベル）では当該施設の口コミが0件で、Booking.com以外の独立した数値レビュー情報源を本調査では見つけられなかった。原則7が求める『独立2情報源』の数値的な裏付けを満たせないため、評価自体の高さにかかわらずscore68点・decisionはrejectedとした。じゃらん・楽天トラベル等で日本語の数値レビューが蓄積すれば、次サイクル以降に再調査する価値がある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できた口コミ（Booking.com）はいずれも景色やスタッフ対応を褒める内容で、否定的な口コミは見つからなかった。ただしレビュー基盤が薄く（実質1サイトのみ）、サンプルとしての信頼性を評価できる段階にない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "伊根舟屋の宿あうら-FUNAYA Aura- ゲスト評価（9.4/10・18件表記） - Booking.com",
+          "url": "https://www.booking.com/city/jp/ine.en-gb.html"
+        },
+        {
+          "type": "other",
+          "title": "舟屋の宿あうら 公式予約ページ（設備・立地・料金プラン） - RESERVA",
+          "url": "https://reserva.be/ine_funaya_aura"
+        },
+        {
+          "type": "review_site",
+          "title": "舟屋の宿あうら 掲載ページ（口コミ0件・施設情報は要確認の注記あり） - フォートラベル",
+          "url": "https://4travel.jp/dm_hotel-11998349"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立した数値レビュー情報源が実質1件（Booking.comのみ。フォートラベルは口コミ0件）で、原則7が求める独立2情報源の数値的な裏付けを満たせないため今サイクルは見送り。評価自体は高いため、日本語の数値レビューが蓄積すれば再評価したい。"
+    }
+  ]
+}

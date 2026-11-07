@@ -1,0 +1,286 @@
+{
+  "cycle_date": "2026-10-23",
+  "theme": "離島リゾート（鹿児島県屋久島）の再調査第2回（本カテゴリの再調査上限最終回）",
+  "season_rationale": "10月下旬〜11月上旬の屋久島は夏の繁忙期・台風シーズンが落ち着き、縄文杉トレッキングや温泉・スパを快適に楽しめる狙い目の時期（原則30）。本サイクルは『離島リゾート』カテゴリの再調査（1回目は本日2026-10-23の鹿児島県甑島列島＝該当なし）の2回目・最終回として、依頼指定の地域のうち鹿児島県屋久島（sankara hotel & spa屋久島以外の施設）を対象に、既出施設を避けて新規に調査した。",
+  "prior_posts_checked": [
+    {
+      "post_id": "2026-10-23-koshikishima-remote-island-resort",
+      "region": "鹿児島県薩摩川内市・甑島列島",
+      "category": "離島リゾート",
+      "note": "本カテゴリ再調査の1回目（本日実施）。該当なし（主要3施設いずれも採用ラインに届かず）。"
+    },
+    {
+      "post_id": "2026-09-22-yakushima-activity（caption: 2026-09-22-sankara-yakushima）",
+      "region": "鹿児島県熊毛郡屋久島町麦生",
+      "category": "アクティビティ扱いでsankara hotel & spa屋久島を選定・投稿済み",
+      "note": "依頼により本サイクルの調査対象から除外（sankara hotel & spa屋久島以外の施設を調査）。"
+    },
+    {
+      "post_id": "2026-10-20-yakushima-shodoshima-resort",
+      "region": "鹿児島県屋久島／香川県小豆島",
+      "category": "離島リゾート",
+      "note": "sankara hotel & spa屋久島（score88・重複のため不採用）、屋久島いわさきホテル（score60・採用ラインに届かず不採用）、ベイリゾートホテル小豆島（score58・不採用）を調査済み。本サイクルでは同一施設の重複調査を避け、屋久島いわさきホテルは対象から外し、未調査の新規施設を調査した。"
+    },
+    {
+      "post_id": "2026-09-21-kerama-activity（caption: 2026-09-21-kerama-terrace）",
+      "region": "沖縄県島尻郡渡嘉敷村・座間味村（慶良間諸島）",
+      "category": "アクティビティ扱いでケラマテラスを選定・投稿済み",
+      "note": "慶良間諸島はケラマテラス（選定済み）・Kerama Blue Resort（score58・不採用）・ペンションシーサー阿嘉島店（不採用）の主要3施設をすでに2026-09-21に調査済みで、島内の宿泊施設の選択肢が極めて少なく新規候補を見出しにくいと判断。依頼で選択可能な2地域のうち、より新規候補を発見できる見込みが高い屋久島を本サイクルの調査対象として選んだ。"
+    },
+    {
+      "post_id": "2026-10-21-hateruma-ogasawara-resort",
+      "region": "沖縄県波照間島／東京都小笠原諸島",
+      "category": "離島リゾート（候補のみ・選定なし）"
+    },
+    {
+      "post_id": "2026-10-22-tsushima-remote-island-resort",
+      "region": "長崎県対馬市",
+      "category": "離島リゾート（候補のみ・選定なし）"
+    },
+    {
+      "post_id": "2026-10-22-miyakojima-remote-island-resort-recheck2",
+      "region": "沖縄県宮古島市",
+      "category": "離島リゾート",
+      "note": "シギラミラージュが採用済み（captions/2026-10-22-shigira-mirage-miyako.json）。"
+    }
+  ],
+  "duplication_note": "data/candidates・captions配下の全件（2026-09-14〜2026-10-23、1ヶ月以上前を含む）を『屋久島』『yakushima』『sankara』『いわさき』『samana』で全件grep確認した。屋久島関連では(1) sankara hotel & spa屋久島＝2026-09-22に選定・投稿済み（依頼により本サイクルの対象外）、(2) 屋久島いわさきホテル＝2026-10-20に調査済みでscore60・不採用（本サイクルでは重複調査を避けて対象から除外）、の2施設が既出。本サイクルで調査した samana hotel Yakushima・THE HOTEL YAKUSHIMA OCEAN & FOREST・屋久島グリーンホテルの3施設はいずれも初調査であり、重複はない。",
+  "pre_check": "本調査（独立採点）に進む前に、sankara hotel & spa屋久島・屋久島いわさきホテルを除いた屋久島内の宿泊施設に『ちょっと贅沢な旅』基準（一休.com/Reluxクラスの高級宿、または源泉かけ流し温泉・オーシャンビュー等の明確な独自性を備えた施設）を満たす施設が実在するかを一次調査で確認した。結果、sankara姉妹ブランドとして2024年にリニューアル開業した『samana hotel Yakushima』（旧ホテル屋久島、Relux4.8／ikyu4.89相当の高評価、源泉かけ流し天然温泉・フレンチシェフ監修レストラン）が一休・Reluxクラスの条件を満たす施設として実在することを確認できたため、本調査（3施設の独立採点）に進んだ。",
+  "candidates": [
+    {
+      "id": "2026-10-23-samana-hotel-yakushima",
+      "name": "samana hotel Yakushima（旧・ホテル屋久島）",
+      "region": "鹿児島県熊毛郡屋久島町尾之間（屋久島空港から車・バスで約30〜40分、安房港から約20分）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "Relux",
+          "score": 4.8,
+          "scale": 5,
+          "review_count": 8,
+          "checked_date": "2026-10-23",
+          "url": "https://rlx.jp/24342/review/"
+        },
+        {
+          "source": "にふ温泉（nifty温泉）",
+          "score": 4.2,
+          "scale": 5,
+          "review_count": 4,
+          "checked_date": "2026-10-23",
+          "url": "https://onsen.nifty.com/yakushima-onsen/onsen007755/kuchikomi/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "予約サイト表示で1名19,975円〜（2名1室利用時・山側スタンダードツイン）、海側スタンダードツインは23,800円〜、おまかせ客室（部屋タイプ指定不可）は18,975円〜（税込）。全43室。料金は2026年7月以降の宿泊分の表示に基づく。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "sankara hotel & spa屋久島の姉妹ブランドとして2024年4月26日に『ホテル屋久島』から改称・リニューアルオープンした全43室のホテル。地下800mから湧出する源泉かけ流し天然温泉『屋久島温泉』を大浴場・露天風呂・貸切風呂で楽しめ、レストラン『THE VIEW』ではフレンチの名シェフ監修のビュッフェを提供。客室は山側スタンダードツインと海側ツインがあり、東シナ海から太平洋へと続く大海原、または屋久島の山並みを望む。",
+      "renewal_or_news": "2024年4月26日、『ホテル屋久島』から『samana hotel Yakushima』へブランド名称変更・リニューアルオープン（sankara hotel & spa屋久島の姉妹ブランド）。2026年7月時点の口コミ投稿も確認でき、情報の鮮度は高い。",
+      "target_audience": [
+        "夫婦",
+        "カップル",
+        "記念日",
+        "温泉好き",
+        "絶景好き"
+      ],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 9,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 77,
+      "recommendation_reason": "Relux4.8（8件）・nifty温泉4.2（4件）という独立した2つの情報源でいずれも採用ライン（4.0）を上回る高評価を確認できた（原則6・7）。これに加え、ikyu（一休.com系列ページ）でも総合満足度4.89〜4.93相当、JTBのお客様アンケートでも総合評価100点（部屋96・夕食97・大浴場91）という非常に高い評価が複数の第三者情報源で裏付けられている。sankara hotel & spa屋久島と同じ運営会社による姉妹ブランドでありながら、同じ屋久島で2026-09-22にすでに選定済みのsankaraより知名度が低く、源泉かけ流し天然温泉・フレンチシェフ監修レストラン・海と山の両方の絶景という独自性を備えたHidden Gemとして扱うのが適切と判断した。一方で各サイトの口コミ件数自体は4〜8件程度と少なく、口コミ件数・信頼性のスコアはその点を反映して抑えた。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "検索範囲で確認できた具体的な不満は、土産物の品揃えが少ない（一休の韓国語版レビュー）、子供向けにはコース料理がやや本格的すぎる、宿泊客が個人的に依頼したテラスでのヨガ指導の声が聞こえて気になった（宿公式のサービスではないと明記）、といった軽微な指摘のみ。清潔感・接客・予約トラブル・安全性に関わる重大な指摘は見つからなかった。2024年4月のリブランド以前（旧ホテル屋久島時代）の循環式温泉への不満を述べる古い投稿（nifty温泉2011年）もあったが、現在は源泉かけ流しに変更されており現状とは異なる。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "samana hotel Yakushima 公式予約システム（489ban.net）",
+          "url": "https://reserve.489ban.net/client/samanahotel/0/detail/1079289"
+        },
+        {
+          "type": "review_site",
+          "title": "samana hotel Yakushima レビュー・口コミ（総合点4.8・8件） - Relux",
+          "url": "https://rlx.jp/24342/review/"
+        },
+        {
+          "type": "review_site",
+          "title": "屋久島温泉（samana hotel Yakushima）口コミ（4.2点・4件） - にふ温泉",
+          "url": "https://onsen.nifty.com/yakushima-onsen/onsen007755/kuchikomi/"
+        },
+        {
+          "type": "review_site",
+          "title": "Samana Hotel Yakushima (formerly Hotel Yakushima) レビュー - 一休.com（韓国語版ページ、総合満足度4.89〜4.93相当）",
+          "url": "https://www.ikyu.com/ko-kr/00001649/review/"
+        },
+        {
+          "type": "booking_site",
+          "title": "samana hotel Yakushima 施設情報 - じゃらん",
+          "url": "https://www.jalan.net/yad358603"
+        },
+        {
+          "type": "other",
+          "title": "samana hotel Yakushima（旧・ホテル屋久島） リブランディング紹介 - NEWT",
+          "url": "https://newt.net/hotel/jpn/ph41"
+        }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-23-hotel-yakushima-ocean-forest",
+      "name": "THE HOTEL YAKUSHIMA OCEAN & FOREST（旧：シーサイドホテル屋久島）",
+      "region": "鹿児島県熊毛郡屋久島町宮之浦（宮之浦港から徒歩約5分）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Relux",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 15,
+          "checked_date": "2026-10-23",
+          "url": "https://rlx.jp/23429/review/"
+        },
+        {
+          "source": "icotto（家族利用の口コミ）",
+          "score": 3.5,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-23",
+          "url": "https://icotto.jp/hotels/1134"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付きで16,500円〜／1泊朝食付きで13,200円〜という掲載が確認できたが、日付が古く変動の可能性がある。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "屋久島の海の玄関口・宮之浦港から徒歩約5分という島内観光の拠点に優れた立地。屋久島の軟水を使った大浴場（サウナ付き）を備え、オーシャンビューのバルコニー付き客室がある。2018年9月に『波音日和』としてオープンし、現在の名称に改称。",
+      "target_audience": [
+        "家族",
+        "一人旅",
+        "絶景好き"
+      ],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 9,
+        "unique_experience_score": 10,
+        "photogenic": 9,
+        "value_for_price": 7,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 59,
+      "recommendation_reason": "Relux4.6（15件）は採用ラインを上回るが、icottoの家族利用レビューは3.5、Trip.comの評価も8.6/10（約4.3相当）と、サイトによって評価が割れている。Wanderlogの英語レビュー要約では施設・客室の古さやサービスの物足りなさを指摘する声も確認され、改装済みの新館以外の客室では満足度が下がる傾向がうかがえた。立地の良さ・大浴場は評価できるが、sankara・samanaのような温泉の質や明確な高級感の差別化要素に欠け、総合スコア59点で採用ライン（75点）に届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Wanderlog（英語レビュー要約）で施設・客室の老朽化、サービスの物足りなさを指摘する声が確認された。Trip.comの投稿では施設の老朽化と価格に対する割安感の低さを指摘する低評価投稿もあった。一方で新館の改装済み客室やオーシャンビュー、スタッフの対応、大浴場を評価する声も多く、安全性・衛生面での重大な指摘は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "THE HOTEL YAKUSHIMA OCEAN & FOREST レビュー（総合4.6・15件） - Relux",
+          "url": "https://rlx.jp/23429/review/"
+        },
+        {
+          "type": "review_site",
+          "title": "THE HOTEL YAKUSHIMA OCEAN&FOREST(旧:シーサイドホテル屋久島) 口コミ - icotto",
+          "url": "https://icotto.jp/hotels/1134"
+        },
+        {
+          "type": "booking_site",
+          "title": "THE HOTEL YAKUSHIMA OCEAN & FOREST 施設情報 - じゃらん",
+          "url": "https://www.jalan.net/yad320451/"
+        },
+        {
+          "type": "review_site",
+          "title": "The Hotel Yakushima Ocean & Forest レビュー - Trip.com",
+          "url": "https://id.trip.com/hotels/yakushima-hotel-detail-1498981/seaside-hotel-yakushima/review.html"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア59点で採用ライン（75点）に届かず、icottoの家族利用レビュー（3.5）など複数サイトで評価が割れ、施設・客室の老朽化を指摘する声も確認されたため不採用（原則6）。"
+    },
+    {
+      "id": "2026-10-23-yakushima-green-hotel",
+      "name": "屋久島グリーンホテル",
+      "region": "鹿児島県熊毛郡屋久島町安房（安房港・縄文杉登山口に近い）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル",
+          "score": 3.47,
+          "scale": 5,
+          "review_count": 53,
+          "checked_date": "2026-10-23",
+          "url": "https://4travel.jp/dm_hotel-10038938"
+        },
+        {
+          "source": "jcation",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 184,
+          "checked_date": "2026-10-23",
+          "url": "https://jcation.com/hotel/detail-8148/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な1泊料金はセッション内のWeb検索では数値を確認できなかった。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "縄文杉登山口に近い安房地区に立つホテルで、無料駐車場を備え登山拠点として便利。地元のトビウオや鹿肉を使った会席料理を提供するが、大浴場は温泉ではなくシンプルな浴槽。",
+      "target_audience": [
+        "家族",
+        "友人",
+        "一人旅"
+      ],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 11,
+        "unique_experience_score": 8,
+        "photogenic": 6,
+        "value_for_price": 6,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 52,
+      "recommendation_reason": "フォートラベル3.47（53件）とjcation4.4（184件）で評価が大きく割れ、主要レビューサイトの一つ（フォートラベル）が採用ライン4.0を明確に下回る。接客評価は両サイトで高いものの、食事の質低下や客室・廊下の音の指摘があり、温泉ではなくシンプルな浴槽である点も含め、sankara・samana・THE HOTEL YAKUSHIMA OCEAN & FORESTと比べて『ちょっと贅沢な旅』としての独自性・高級感に乏しいため、原則6の基準（主要レビュー4.0未満は原則不採用）により不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "食事のレベルが物価高の影響か下がってきたように感じるという口コミ、廊下や隣室の音が響きやすいという指摘、シングルルームにはオーシャンビューがないという口コミが確認された。安全性・衛生面での重大な指摘は見つからなかったが、評価のばらつきが大きい。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "屋久島グリーンホテル 満足度3.47（口コミ53件） - フォートラベル",
+          "url": "https://4travel.jp/dm_hotel-10038938"
+        },
+        {
+          "type": "review_site",
+          "title": "屋久島グリーンホテル クチコミ（総合4.4・184件） - jcation",
+          "url": "https://jcation.com/hotel/detail-8148/"
+        },
+        {
+          "type": "other",
+          "title": "屋久島グリーンホテル 口コミ・詳細 - gpoint（だれどこ）",
+          "url": "https://travel.gpoint.co.jp/daredoko/h22336/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイトの一つ（フォートラベル3.47）が採用ライン4.0を下回り、総合スコア52点で採用ライン（75点）にも届かないため不採用（原則6）。"
+    }
+  ]
+}
