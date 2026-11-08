@@ -1,0 +1,207 @@
+{
+  "cycle_date": "2026-11-08",
+  "theme": "離島リゾート（鹿児島県出水郡長島町・獅子島）の新規調査",
+  "season_rationale": "離島リゾートカテゴリではこれまで伊豆諸島・トカラ列島・沖縄離島・奄美群島・五島列島・隠岐・壱岐・甑島など多数の離島を調査してきたが、鹿児島県最北端に位置する長島町（黒之瀬戸大橋で九州本土と接続）および長島町に属する離島・獅子島はまだ一度も対象としていなかった。長島は『長島大陸』として鯛・ブリ養殖や花き栽培で知られ、獅子島はアンモナイト等の化石産地・人口約650人の秘境性が高い島であり、本リポジトリの空白地域として調査優先度が高いと判断した。",
+  "prior_posts_checked": [],
+  "duplication_note": "data/candidates・captions配下の全件を『長島』『獅子島』『Nagashima』『Shishijima』『出水』のキーワードで検索した（1ヶ月以上前の2026-09〜10月分も含む）。唯一ヒットしたのは2026-11-06-kawanehonmachi-sumatakyo-activity.jsonだが、これは静岡県川根本町の『長島ダム』（大井川鐄道井川線沿いのダム湖）に関する記載であり、鹿児島県出水郡長島町とは無関係の同名異地であることを確認した。鹿児島県長島町・獅子島を対象とした候補・投稿は本サイクル以前には一件も存在しない。地域・施設とも完全に新規である。",
+  "research_limitation_note": "本サイクルはWebSearchの統合要約のみに依拠した。じゃらんnet・楽天トラベル（hotel.travel.rakuten.co.jp）等への直接WebFetchは本セッションの外部ネットワーク許可設定の範囲外でDNS解決不可であり、ページ本体を直接閲覧して検証することはできなかった。長島町・獅子島は人口が少なく宿泊施設自体が非常に限られており、JTB等大手予約サイトでは長島町の宿泊施設掲載が0件と表示される場面もあった。調査した候補はいずれも、件数を伴う信頼できる口コミ集計データを独立2情報源で確認できず、情報源間で所在地番地・営業時間・施設内容（露天風呂の有無等）に食い違いも見られたため、推測を避け『確認できなかった』点を明記した。また本サイクル後半でWebSearchの利用上限に達したため、追加の深掘り調査（公式サイト直接確認、創業者・設計者取材記事の探索等）はこれ以上実施できなかった。",
+  "candidates": [
+    {
+      "id": "2026-11-08-taiyonosato-tosenbo-nagashima",
+      "name": "レジャーランド太陽の里（太陽の里温泉センター「東泉望」・貸別荘）",
+      "region": "鹿児島県出水郡長島町鷹巣（333番地付近。地図系サイトにより333-12/333-19/333-32と番地表記が揺れる）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "ニフティ温泉／NAVITIME経由で確認できた口コミ言及（評価4.0点・2件との要約があったが、個別口コミ本文・投稿日は未確認で、信頼できる集計値として扱うには件数が極めて少ない）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 2,
+          "checked_date": "2026-11-08",
+          "url": "https://onsen.nifty.com/ft-sauna/kagoshima/ct-izumigunnagashimacho/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "温泉センター入浴料は大人350円〜（家族風呂50分1000円の情報もあり）という記載があるが、貸別荘・ホテル棟の宿泊料金は本サイクルのWeb検索では確認できなかった。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "長島町鷹巣の高台にあるレジャーランド施設内の温泉センターで、洋風・和風（岩風呂）2タイプの大浴場から眼下に伊唐大橋や八代海の島々を一望できるとされる。貸別荘・ホテル棟や人工芝スキー場、テニスコート等も併設しているとの記載があり、長島の高台から海を見渡す滞在という方向性自体には独自性がある。",
+      "renewal_or_news": "確認できなかった。複数の情報源で営業時間（13:00〜21:00 vs 6:30〜22:00）や所在地番地の記載が食い違っており、現在の運営状況・リニューアル有無を裏付ける一次情報には到達できなかった。",
+      "target_audience": [
+        "カップル",
+        "家族",
+        "絶景好き",
+        "温泉好き"
+      ],
+      "score_breakdown": {
+        "review_rating": 6,
+        "review_reliability": 2,
+        "unique_experience_score": 11,
+        "photogenic": 7,
+        "value_for_price": 3,
+        "sns_buzz": 1,
+        "access_and_freshness": 1
+      },
+      "score": 31,
+      "recommendation_reason": "海と島々を見渡す高台の温泉というコンセプト自体は長島ならではの魅力があるが、件数を伴う信頼できる口コミ集計を独立2情報源で確認できず（口コミは実質2件のみ）、営業時間・所在地番地・設備（露天風呂の有無）が情報源間で食い違っており情報の鮮度・正確性に疑義が残る。貸別荘・ホテル棟の具体的な料金・現在の営業状況も未確認。原則7（独立2情報源）・原則4（最新情報の確認）を満たせず、総合31点で不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "明確な低評価レビューや営業上のトラブルは確認できなかったが、そもそも検証可能な口コミ自体が極めて少なく（2件のみ）、ネガティブレビューの有無を十分に確認できたとは言えない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "鹿児島県 すいすいnavi（水産景観課関連ページ）太陽の里温泉センター東泉望",
+          "url": "https://www.pref.kagoshima.jp/suisuinavi/18185.html"
+        },
+        {
+          "type": "other",
+          "title": "るるぶ&more 太陽の里温泉センター東泉望 スポット情報",
+          "url": "https://rurubu.jp/andmore/spot/80042176"
+        },
+        {
+          "type": "other",
+          "title": "NAVITIME 鹿児島県出水郡長島町 ジャンル検索結果",
+          "url": "https://www.navitime.co.jp/category/06/46404/"
+        },
+        {
+          "type": "review_site",
+          "title": "ニフティ温泉 出水郡長島町エリア（サウナ・温泉口コミ一覧）",
+          "url": "https://onsen.nifty.com/ft-sauna/kagoshima/ct-izumigunnagashimacho/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数が実質2件と極めて少なく独立2情報源での件数付き評価を確認できない（原則7）。営業時間・所在地・設備に関する情報源間の食い違いがあり最新性・正確性を確認できない（原則4）。総合スコア31点で不採用。"
+    },
+    {
+      "id": "2026-11-08-seaside830-kuranomoto",
+      "name": "SEASIDE 830",
+      "region": "鹿児島県出水郡長島町蔵之元830番地",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "本サイクルのWeb検索では件数を伴う集計評価（星評価・口コミ件数）は確認できなかった",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-11-08",
+          "url": "https://travel.yahoo.co.jp/00922613/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Yahoo!トラベル掲載情報では2名利用・食事なしで11,340円（一棟貸し、116㎡、1〜6名）という記載があった。別の予約サイト（楽天トラベル）の同名プランページでは『築約50年をリノベーションした5室の一棟貸し』という異なる説明があり、どちらが現行のSEASIDE 830を指すか本サイクルでは確定できなかった。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "長島町蔵之元にある一棟貸しのヴィラ型宿泊施設。長島小浜海水浴場・長島青年旅行村に近く、キッチン完備・最大6名まで泊まれるとされる。一棟貸しで海沿いの長島をプライベートに楽しめる点は離島リゾートとして一定の独自性がある。",
+      "renewal_or_news": "確認できなかった。",
+      "target_audience": [
+        "家族",
+        "友人",
+        "一人旅"
+      ],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 7,
+        "photogenic": 3,
+        "value_for_price": 4,
+        "sns_buzz": 0,
+        "access_and_freshness": 1
+      },
+      "score": 15,
+      "recommendation_reason": "一棟貸しヴィラという形態自体には魅力があるが、件数を伴う口コミ評価が本サイクルでは一件も確認できず、原則7（独立2情報源での口コミ検証）を全く満たせない。さらに予約サイト間で施設説明（築年数・部屋数・面積）に明確な食い違いがあり、現在の実態を正確に把握できなかった。総合スコア15点で不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ自体が確認できなかったため、ネガティブレビューの有無も確認できなかった（『確認できなかった』ことをそのまま記録する）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "Yahoo!トラベル SEASIDE 830 施設情報（住所・設備・料金）",
+          "url": "https://travel.yahoo.co.jp/00922613/"
+        },
+        {
+          "type": "booking_site",
+          "title": "楽天トラベル SEASIDE 830 プランページ（施設説明に相違あり）",
+          "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/195775"
+        },
+        {
+          "type": "other",
+          "title": "チケットぴあ旅行 SEASIDE 830 施設詳細ページ",
+          "url": "https://tour.l-tike.com/hotels/domestic/hotel/89140394/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "件数付き口コミ評価が一件も確認できず原則7を満たせない。予約サイト間で施設説明に明確な食い違いがあり実態を正確に把握できなかった。総合スコア15点で不採用。"
+    },
+    {
+      "id": "2026-11-08-shirahamaso-shishijima",
+      "name": "民宿白浜荘",
+      "region": "鹿児島県出水郡長島町獅子島（幣串港周辺。島内の具体的な字名は本サイクルでは確認できなかった）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "本サイクルのWeb検索では件数を伴う集計評価（じゃらん・楽天トラベル等の星評価）は確認できなかった。個人の旅行記（YAMAP活動日記）での好意的な言及が1件あったのみ。",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-11-08",
+          "url": "https://yamap.com/activities/24709016/article"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "料金情報は本サイクルでは確認できなかった。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "鹿児島県最北端の離島・獅子島（水俣港から獅子島汽船で約30分、人口約650人）にある民宿。アンモナイト等の化石採集スポットとして知られる島を電動自転車で一周できるとの旅行記があり、宿泊客同士で旅の話が弾んだという個人の記録もある。本リポジトリでまだ扱っていない『本土から定期航路でのみ到達できる小さな有人島』としての秘境性・独自性は高い。",
+      "renewal_or_news": "確認できなかった。",
+      "target_audience": [
+        "一人旅",
+        "友人"
+      ],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 9,
+        "photogenic": 2,
+        "value_for_price": 0,
+        "sns_buzz": 0,
+        "access_and_freshness": 0
+      },
+      "score": 11,
+      "recommendation_reason": "獅子島という島自体の秘境性・独自性は高く評価できるが、民宿白浜荘については個人の旅行記1件以外に確認できる情報源がなく、営業状況・料金・設備のいずれも裏付けが取れなかった。原則7（独立2情報源）・原則4（最新一次情報の確認）のいずれも満たせず、総合スコア11点で不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ネガティブな言及は見つからなかったが、そもそも検証可能な口コミ・情報源自体が1件の個人旅行記のみであり、十分な確認とは言えない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "YAMAP活動日記（獅子島一周・民宿白浜荘での宿泊体験記）",
+          "url": "https://yamap.com/activities/24709016/article"
+        },
+        {
+          "type": "official",
+          "title": "鹿児島県 獅子島フェリー・水俣港アクセスに関する資料（出水市・長島町周辺航路案内）",
+          "url": "https://www.pref.kagoshima.jp/ac07/documents/33648_20230523104400-1.pdf"
+        },
+        {
+          "type": "official",
+          "title": "長島町公式『長島大陸GUIDEBOOK』（獅子島含む観光・アクセス情報）",
+          "url": "https://www.town.nagashima.lg.jp/wp-content/uploads/2025/08/長島大陸GUIDEBOOK.pdf"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "営業状況・料金・設備を裏付ける情報源が個人の旅行記1件のみで、原則7の独立2情報源要件を満たせない。総合スコア11点で不採用。"
+    }
+  ]
+}
