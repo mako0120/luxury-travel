@@ -1,0 +1,111 @@
+{
+  "cycle_date": "2026-11-09",
+  "theme": "長崎県平戸市エリアの絶景ホテル",
+  "season_rationale": "11月の平戸エリアは夏場の暑さと台風シーズンが落ち着き、空気が澄んで平戸瀬戸・平戸城方面や平戸大橋の眺望が鮮明になりやすい時期とされる。紅葉の時期にも近く、海沿いの展望露天風呂や客室から望む夕景を観光のピーク期ほど混雑せずに楽しめるタイミングでもある。",
+  "prior_posts_checked": [
+    { "post_id": "2026-11-07-kanoya-takasu-view-hotel", "region": "鹿児島県鹿屋市", "category": "絶景ホテル" },
+    { "post_id": "2026-11-06-nishiizu-dogashima-view-hotel", "region": "静岡県西伊豆町（堂ヶ島）", "category": "絶景ホテル" },
+    { "post_id": "2026-11-05-notocho-view-hotel", "region": "石川県能登町", "category": "絶景ホテル" },
+    { "post_id": "2026-11-04-sadamisaki-view-hotel", "region": "愛媛県伊方町（佐田岬）", "category": "絶景ホテル" },
+    { "post_id": "2026-11-01-shikotsuko-view-hotel", "region": "北海道千歳市（支笏湖）", "category": "絶景ホテル" },
+    { "post_id": "2026-10-31-hamanako-view-hotel", "region": "静岡県浜松市（浜名湖）", "category": "絶景ホテル" },
+    { "post_id": "2026-10-30-mikatagoko-view-hotel", "region": "福井県美浜町（三方五湖）", "category": "絶景ホテル" },
+    { "post_id": "2026-10-28-tsunoshima-ohashi-view-hotel", "region": "山口県下関市（角島大橋）", "category": "絶景ホテル" },
+    { "post_id": "2026-10-27-niseko-yotei-view-hotel", "region": "北海道ニセコ町・倶知安町", "category": "絶景ホテル" },
+    { "post_id": "2026-10-17-gunkanjima-cruise", "region": "長崎県長崎市（軍艦島）", "category": "列車・船" },
+    { "post_id": "2026-10-23-koshikishima-remote-island-resort", "region": "鹿児島県甑島（長崎近隣の離島として調査経緯あり）", "category": "離島リゾート" },
+    { "post_id": "2026-10-24-iki-island-resort", "region": "長崎県壱岐市", "category": "離島リゾート" },
+    { "post_id": "2026-11-04-sasebo-kujukushima-all-inclusive-recheck", "region": "長崎県佐世保市（九十九島）", "category": "オールインクルーシブ" }
+  ],
+  "duplication_note": "data/candidates・captions両ディレクトリの全履歴（2026-09-14〜2026-11-08、ファイル名・本文中の地域名『平戸』『長崎』で確認）を検索した結果、『長崎県平戸市』エリアを対象とした候補・投稿は本サイクルが初回。長崎県関連では軍艦島クルーズ（2026-10-17）、壱岐島（2026-10-24）、佐世保・九十九島（2026-11-04）、甑島（2026-10-23、鹿児島県だが近隣離島として言及）等の調査履歴はあるが、平戸市・平戸島エリアは未調査だった。カテゴリ『絶景ホテル』はリクエストで明示的に指定されたため、そのまま調査した。",
+  "research_notes": "本サイクルでは長崎県平戸市エリアの宿泊施設をWebSearchで調査した。正式なcandidateエントリ（candidates配列）としたのは『平戸たびら温泉 サムソンホテル』と『平戸海上ホテル』の2件で、いずれも口コミ件数が大きい（数百〜2千件規模）独立2情報源の数値評価をURL付きで確認できたため正式候補として記録した。\n\n他に以下2件を調査したが、正式candidateには含めず調査経緯のみ記録する。\n\n1. 『旅館 田の浦温泉』（平戸市田平町、大正13年創業・小さな入江に面した一軒宿）: 楽天トラベルのクチコミ評価4.17（120件、mapple等の二次掲載経由で確認）という数値は得られたが、じゃらん等もう一つの独立サイトの数値評価は、本セッションのWebSearch結果の範囲、かつ本ターンでWebSearch呼び出し回数の上限に達したため確認できなかった。独立2情報源の数値確認（原則7）が取れていないため、正式candidateとしては見送った。朝どれ地魚の磯料理・弘法大師空海の開湯伝説といった独自性は確認できており、次回サイクルでの再調査を推奨する。\n2. 『洋風民宿 グラスハウス』（平戸市田平町）: 楽天トラベルのクチコミ評価4.63（54件）という高評価の数値は得られたが、同様に2つ目の独立サイトの数値評価をWebSearch呼び出し上限により確認できなかった。フォートラベルの口コミでは客室の広さが評価される一方、客室内にトイレがない点、通路が喫煙可だった点を残念に思う声もあった。件数が54件と比較的少なく『穴場』的な位置づけになり得るため、独立2情報源が確認できた段階での再評価を推奨する。\n\nなお本セッションはWebSearch呼び出し回数のターン内上限に達したため、上記2件の追加調査および候補の追加発見は次回サイクル以降に持ち越した。",
+  "candidates": [
+    {
+      "id": "2026-11-09-samson-hotel-hirado",
+      "name": "平戸たびら温泉 サムソンホテル",
+      "region": "長崎県平戸市田平町（たびら平戸口駅から車で約5分）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "icotto（楽天トラベル掲載口コミ集計）", "score": 3.33, "scale": 5, "review_count": 321, "checked_date": "2026-11-09", "url": "https://icotto.jp/hotels/6394" },
+        { "source": "ニフティ温泉", "score": 3.8, "scale": 5, "review_count": 4, "checked_date": "2026-11-09", "url": "https://onsen.nifty.com/hirado-onsen/onsen010147/" }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションのWebSearchの範囲では具体的な一泊料金の数値は確認できなかった。夕食は海鮮バイキング（飲み放題付き）が中心というプラン内容のみ確認。正確な料金は公式サイト・予約サイトで要確認。",
+        "as_of_search_date": "2026-11-09",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "平戸市田平町の高台に建つ全室オーシャンビューのリゾートホテル。自家源泉の天然温泉（含鉄ナトリウム炭酸水素塩泉、通称「美人の湯」）を持ち、大浴場「なごみの湯」には平戸瀬戸を望む展望露天風呂が併設されている。食事は新鮮な魚介を中心とした海鮮バイキング（飲み放題付き）で、九州最大級と紹介される無料のキッズガーデンを備え、ファミリー層にも対応する。",
+      "renewal_or_news": "2026年4月、アナウンサー兼小説家の村山仁志氏が代表取締役社長に就任したとPR TIMES等で報じられている。ただし就任の経緯や就任に伴う具体的な改修方針・コンセプトの変更点については、本セッションのWebSearchの範囲では確認できなかった。2026年8月には熊本地震被災者向けの宿泊無料支援プランも発表されている。",
+      "target_audience": ["家族", "カップル", "絶景好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 11,
+        "unique_experience_score": 14,
+        "photogenic": 11,
+        "value_for_price": 7,
+        "sns_buzz": 3,
+        "access_and_freshness": 4
+      },
+      "score": 70,
+      "recommendation_reason": "検索結果の要約情報の中には高評価（4.2・1,928件程度）とする記述もあったが、本セッションで実際にURLを確認できた独立2情報源（icotto総合3.33・321件、ニフティ温泉3.8・4件）はいずれも5点満点換算で4.0未満であり、原則6の基準に抵触する。フォートラベルの口コミでも施設の古さ・大浴場の機械音への不満が指摘されている。全室オーシャンビュー・自家源泉・展望露天風呂・九州最大級のキッズガーデンなど『絶景ホテル』として伝える要素自体は確認できるため、score（70）は75点に届かないものの、評価が蓄積・確認できた段階での再調査候補として記録する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミ（2022年11月投稿、評価3.5）では、景色や食事は良いとしつつ施設の古さを指摘し、大浴場の機械音が夜遅くまで響き眠れなかったという不満が書かれている。別の口コミ（icotto掲載）では露天風呂に設置された緑色のネットが景観を損ねているという指摘、料理がいまいちだったという声もあった。一方でYahoo!トラベルの項目別評価（接客・サービス4.49、客室・アメニティ4.41等）は高めで、衛生・安全面に関わる重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "平戸たびら温泉 サムソンホテル 口コミ・評価（icotto、総合3.33・321件）", "url": "https://icotto.jp/hotels/6394" },
+        { "type": "review_site", "title": "平戸たびら温泉 サムソンホテルの温泉情報・口コミ（ニフティ温泉）", "url": "https://onsen.nifty.com/hirado-onsen/onsen010147/" },
+        { "type": "booking_site", "title": "平戸たびら温泉サムソンホテル 施設情報・項目別評価（Yahoo!トラベル）", "url": "https://travel.yahoo.co.jp/00901330/" },
+        { "type": "review_site", "title": "フォートラベル 口コミ投稿（2022年11月、評価3.5、施設の古さ・大浴場の機械音への指摘）", "url": "https://4travel.jp/dm_hotel_tips/11753963" },
+        { "type": "press", "title": "アナウンサー兼小説家 村山仁志氏が長崎・平戸のサムソンホテル代表取締役社長に就任（2026年4月）", "url": "https://zaikei.co.jp/press/company/283262/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "本セッションで直接URLを確認できた独立2情報源（icotto 3.33、ニフティ温泉3.8）がいずれも5点満点換算で4.0未満であり、原則6「主要レビューサイト評価4.0未満は原則不採用」に抵触する。score（70）も選定基準の75点に届かないため、本サイクルでは選定を見送った。"
+    },
+    {
+      "id": "2026-11-09-hirado-kaijo-hotel",
+      "name": "平戸海上ホテル",
+      "region": "長崎県平戸市（平戸大橋付近、佐世保から西肥バスで約1時間20分）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらん", "score": 3.7, "scale": 5, "review_count": 1977, "checked_date": "2026-11-09", "url": "https://www.jalan.net/yad318804" },
+        { "source": "icotto（楽天トラベル掲載口コミ集計）", "score": 3.4, "scale": 5, "review_count": 137, "checked_date": "2026-11-09", "url": "https://icotto.jp/hotels/5040" }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションのWebSearchの範囲では具体的な一泊料金の数値は確認できなかった。正確な料金は公式サイト・予約サイトで要確認。",
+        "as_of_search_date": "2026-11-09",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "平戸大橋のすぐ近く、海に面した高台に建つリゾートホテル。全室オーシャンビューで、ホテルの庭からは平戸城と平戸大橋を望めるとされる。大浴場には熱帯魚を泳がせた『水族館風呂』があり、海を目の前にした露天風呂からの眺望も口コミで評価されている。昭和レトロな雰囲気の建物も特徴とされる。",
+      "renewal_or_news": "改修・リニューアルに関する最新情報は本セッションのWebSearchの範囲では確認できなかった。",
+      "target_audience": ["家族", "カップル", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 13,
+        "review_reliability": 10,
+        "unique_experience_score": 13,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 55,
+      "recommendation_reason": "じゃらん（総合3.7・1,977件）、icotto（総合3.4・137件）いずれも5点満点換算で4.0未満であり、原則6の基準に抵触する。口コミには客室の防音性の低さ（窓が薄い等）、露天風呂エリアでの貴重品管理に関する注意書きへの言及、水族館風呂の魚種の少なさといった指摘があり、佐世保からの路線バスで約1時間20分というアクセスの不便さも複数サイトで共通して言及されている。水族館風呂や平戸城・平戸大橋を望む立地自体はユニークだが、score（55）は選定基準に届かず本サイクルでは選定を見送る。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "じゃらん・icottoいずれも評価は4.0未満で、口コミには客室の防音性の低さ、露天風呂エリアでの貴重品管理に関する注意書きへの言及、水族館風呂の魚の種類が少ないという指摘がある。一方で海側の眺望・夕食・露天風呂そのものへの評価は概ね高い。重大な安全・衛生上の指摘は確認できなかったが、設備の古さ・防音性・アクセスへの不満が複数サイトで共通して見られる。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "平戸海上ホテル 施設情報・口コミ（じゃらん、総合3.7・1,977件）", "url": "https://www.jalan.net/yad318804" },
+        { "type": "review_site", "title": "平戸海上ホテル 口コミ・評価（icotto、総合3.4・137件）", "url": "https://icotto.jp/hotels/5040" },
+        { "type": "review_site", "title": "平戸海上ホテル 口コミ（楽天トラベル、水族館風呂・露天風呂に関する言及）", "url": "https://travel.rakuten.co.jp/HOTEL/16720/review.html" },
+        { "type": "other", "title": "平戸海上ホテル 口コミ（JTB、2018年投稿4.0及び施設からの返信）", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/8202003/review/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "じゃらん（3.7）、icotto（3.4）いずれも5点満点換算で4.0未満であり、原則6に抵触する。score（55）も選定基準の75点に大きく届かないため、本サイクルでは選定を見送った。"
+    }
+  ]
+}
