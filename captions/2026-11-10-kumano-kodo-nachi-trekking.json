@@ -1,0 +1,49 @@
+{
+  "id": "2026-11-10-kumano-kodo-nachi-trekking",
+  "candidate_id": "2026-11-10-kumano-kodo-nachi-trekking",
+  "region": "和歌山県東牟婁郡那智勝浦町（大門坂〜那智山・那智の滝周辺）",
+  "category": "アクティビティ",
+  "facility_overview": "世界遺産・熊野古道中辺路の大門坂から、杉並木と267段の石段を登り、熊野那智大社・青岸渡寺を参拝し、落差133m（日本一）の那智の滝まで歩く約3kmの半日トレッキング。地元『語り部』ガイドの案内付きで、田辺市熊野ツーリズムビューローが運営する着地型旅行会社『熊野トラベル』が催行している。",
+  "recommendation_reasons": [
+    "VELTRA商品ページで4.90（10件）、同カテゴリ集計で4.71（35件）と、いずれも高評価。",
+    "個人で歩くだけでは得られない、歴史・伝承を踏まえた語り部ガイドの解説が独自の価値になっている。",
+    "上高地のような季節閉鎖がなく、通年で紹介できる熊野古道の代表区間。",
+    "官民協働の観光地域づくり法人が運営しており、受け入れ体制・解説内容の信頼性が高い。"
+  ],
+  "evaluation_basis": "Discoveryレーン評価で85点（review_rating23/25・review_reliability10/15・unique_experience_score18/20・photogenic14/15・value_for_price8/10・sns_buzz7/10・access_and_freshness5/5）。レビューは評価4.0以上基準を満たすが、VELTRAとトラベルコの数値が同一予約基盤を参照している可能性が高く完全な独立2情報源とは言えない点を踏まえてreview_reliabilityを抑えて採点した。",
+  "target_audience": ["カップル", "夫婦", "一人旅", "絶景好き", "記念日"],
+  "why_now": "大門坂〜那智山〜那智の滝のルートは通年で歩行・参拝が可能なため季節限定の訴求はできないが、確認できたレビューが2026年5月時点まで継続していたことから、11月時点でも安定して案内できると考えられる（公式サイトでの最新催行カレンダーの再確認はProduction工程推奨）。",
+  "price_note": "ツアー自体は大人・子供共通1人あたり¥4,300〜（2026-11-10検索時点の掲載情報。公式サイトでの最新確認推奨）。申込単位1〜6名、飲み物・雨具は各自持参、熊野古道スタンプ帳が特典として付くとの掲載あり。",
+  "access_note": "集合場所は大門坂駐車場（24時間利用可の公衆トイレあり）。JR紀伊勝浦駅からバス等でアクセス。帰路は那智の滝付近からバスで大門坂駐車場へ戻ることも可能とされる。",
+  "captions": {
+    "instagram": "熊野古道、まだ知らない歩き方。\n\n杉並木に囲まれた大門坂の石段を登り、熊野那智大社・青岸渡寺を参拝して、日本一の落差133mを誇る那智の滝へ。\n\nただ歩くだけじゃなく、地元の『語り部』ガイドが歴史や伝承を話しながら案内してくれるから、初めて訪れる人でもこの土地の『物語』まで感じられる約3kmの半日トレッキング。\n\n石段は267段、ちょっと体力は使うけど、ガイドさんのおしゃべりが励みになるという声も多数。\n\n季節を問わず歩ける熊野古道だからこそ、紅葉シーズンが終わってもまだ楽しめるルートです。\n\n※料金・催行日は公式サイトで最新情報をご確認ください。",
+    "tiktok": "世界遺産を『語り部』と一緒に歩く熊野古道✨\n大門坂の石段267段→熊野那智大社→日本一の落差133m那智の滝へ🌲\n一人旅でも友達とでもハマる半日トレッキング\n#熊野古道 #那智の滝 #和歌山 #世界遺産 #那智勝浦"
+  },
+  "hashtags": ["#熊野古道", "#那智の滝", "#大門坂", "#那智勝浦", "#和歌山旅行", "#世界遺産", "#中辺路", "#語り部ガイド"],
+  "sources": [
+    { "type": "booking_site", "title": "世界遺産熊野古道日帰りトレッキング 中辺路 大門坂~那智の滝~那智山3kmコース<語り部ガイド付き/大門坂集合> by 熊野トラベル - VELTRA", "url": "https://www.veltra.com/jp/japan/wakayama/a/168427" },
+    { "type": "review_site", "title": "那智の滝 参加者レビュー一覧 - VELTRA(ベルトラ)", "url": "https://www.veltra.com/jp/japan/wakayama/ctg/162583:Nachi_Fall/reviews/" },
+    { "type": "booking_site", "title": "熊野古道 大門坂〜那智の滝〜那智山 ガイドツアー - 旅行比較サイト トラベルコ", "url": "https://www.tour.ne.jp/j_optional/896811/" },
+    { "type": "official", "title": "大門坂・那智の滝 多言語解説資料 - 国土交通省観光庁", "url": "https://www.mlit.go.jp/tagengo-db/common/001541448.docx" },
+    { "type": "press", "title": "インバウンド事例：田辺市熊野ツーリズムビューロー（前編） - やまとごころ.jp", "url": "https://yamatogokoro.jp/inbound_case/28820/" }
+  ],
+  "created_date": "2026-11-10",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
+}
