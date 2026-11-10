@@ -1,0 +1,296 @@
+{
+  "cycle_date": "2026-11-10",
+  "theme": "その他（石川県金沢市・宿泊以外の文化施設・体験）",
+  "season_rationale": "11月上旬の金沢は紅葉が進み、屋外の町歩きと屋内の文化施設見学の両方が快適にできる時期。金沢21世紀美術館は2027年5月〜2028年3月に大規模修繕のため長期休館することが報じられており、現在開催中〜2027年4月18日までの特別展「今日から明日へ 作品を継承すること」は長期休館前最後の特別展と位置づけられている。長期休館前に訪れておきたいタイミングという点で、今回の訴求に季節性以上の『今だからこそ』の理由がある。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-14-soki-kanazawa / 2026-09-14-machiya-kanazawa", "region": "石川県金沢市（ひがし茶屋街周辺の町家ラグジュアリーホテル）", "category": "文化体験" },
+    { "post_id": "2026-10-19-kaga-onsenkyo-gourmet-ryokan", "region": "石川県加賀温泉郷（山代温泉・山中温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-19-wajima-gourmet-ryokan / 2026-10-28-wajima-bunka-taiken", "region": "石川県輪島市", "category": "グルメ旅館 / 文化体験" },
+    { "post_id": "2026-10-22-wakura-onsen-notoraku", "region": "石川県七尾市和倉温泉", "category": "絶景ホテル" },
+    { "post_id": "2026-10-24-yamanaka-onsen-gourmet-ryokan / 2026-11-09-awazu-onsen-gourmet-ryokan", "region": "石川県加賀市（山中温泉・粟津温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-29-hakusan-geopark-activity", "region": "石川県白山市", "category": "アクティビティ" },
+    { "post_id": "2026-11-05-notocho-view-hotel", "region": "石川県鳳珠郡能登町", "category": "絶景ホテル" },
+    { "post_id": "2026-11-05-matsumoto-city-other / 2026-11-01-kitakyushu-other / 2026-11-08-tsuruga-other / 2026-11-09-murakami-other", "region": "長野県松本市 / 福岡県北九州市 / 福井県敦賀市 / 新潟県村上市", "category": "その他（カテゴリ内の既出テーマ確認用）" }
+  ],
+  "duplication_note": "data/candidates・captions配下の既存ファイル全件（1ヶ月以上前のものを含む）を『金沢』『石川』で横断検索した結果、金沢市を扱った既出ファイルは2026-09-14-machiya-kanazawa.json（カテゴリ『文化体験』、候補：SOKI KANAZAWA[selected]・謡町 UTAIMACHI[shortlisted]・町家レジデンスイン金沢[rejected]）と、そのキャプション2026-09-14-soki-kanazawa.jsonのみだった。いずれも宿泊施設（町家ホテル）であり、カテゴリ『その他』としての金沢候補、および本サイクルで調査した金沢21世紀美術館・鈴木大拙館・懐華樓・町家レジデンスイン東山かげろひ（一棟貸し）はいずれも既出ファイルに含まれていなかった。カテゴリ『その他』については石川県・金沢市関連の候補はこれまで0件だった。よって本サイクルの調査は重複にあたらない。",
+  "research_limitation_note": "本セッションはWebSearch呼び出し回数の上限（セッション全体で共有される制限）に調査の途中で到達し、懐華樓の見学料の再確認など追加の検索ができなくなった。またWebFetchはこの環境のネットワーク制約により金沢21世紀美術館公式サイト（kanazawa21.jp）等への直接アクセスができず、WebSearchのスニペット経由の情報が中心になっている。このほか、以下の3件も調査対象としたが、Googleマップ・じゃらん・トリップアドバイザー等の数値評価（点数・件数）を本セッションの検索範囲では確認できなかったため、推測で数値を記載することを避け、候補データ化を見送った：(1)金箔貼り体験（かなざわカタニ／箔一本店 箔巧館＝いこーよ上では口コミ0件・未評価と表示）、(2)期間限定アフタヌーンティー（ANAクラウンプラザホテル金沢「聖夜の贈り物」2026年11月1日〜12月17日、ホテル金沢「金鼓」秋のアフタヌーンティー付き宿泊プラン2026年9月1日〜11月30日＝いずれも施設紹介のみで数値評価は見つからず）、(3)金沢蓄音器館（ガイド記事での評価は高いが、まとまった口コミ件数・点数は確認できず）。次回以降、WebSearch回数制約がない状態での再調査対象とする。",
+  "candidates": [
+    {
+      "id": "2026-11-10-kanazawa21-museum",
+      "name": "金沢21世紀美術館",
+      "region": "石川県金沢市広坂1-2-1（JR金沢駅から徒歩約15分、または北鉄バス18番系統・城下まち金沢周遊バスで「広坂・21世紀美術館（石浦神社前）」下車すぐ。兼六園・金沢城公園のすぐそば）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "エキテン（施設口コミページ）",
+          "score": 4.18,
+          "scale": 5,
+          "review_count": 37,
+          "checked_date": "2026-11-10",
+          "url": "https://www.ekiten.jp/shop_3489820/review/"
+        },
+        {
+          "source": "いこーよ（施設口コミページ）",
+          "score": 4.2,
+          "scale": 5,
+          "review_count": 13,
+          "checked_date": "2026-11-10",
+          "url": "https://iko-yo.net/experiences/83262"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "建物内の「交流ゾーン」（レアンドロ・エルリッヒ《スイミング・プール》を上から見る部分を含む）は無料で観覧できる。展覧会ゾーンの観覧料は展覧会ごとに異なり、2026年10月31日〜2027年4月18日開催の特別展「今日から明日へ 作品を継承すること」では一般1,200円（団体1,000円）・大学生800円（団体600円）・小中高生400円（団体300円）とされる（団体料金の適用条件は本セッションでは未確認）。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "設計は妹島和世・西沢立衛によるSANAA（ヴェネツィア・ビエンナーレ国際建築展金獅子賞受賞）。どの方向からも正面となる裏表のない円形の建物に4つの入口を設け、建物のボリュームを分割して周辺の街並みのスケール感に合わせるなど、『まちに開かれた公園のような美術館』という建築コンセプトで知られる。館の代表作、レアンドロ・エルリッヒ《スイミング・プール》（2004年）は実物大のプールの底がガラス張りになっており、地上からは水面下を歩く人々が見え、無料の交流ゾーン側からもガラスの下の空間を覗けるという、通称『レアンドロのプール』として知られる体験型インスタレーション。有料の展覧会ゾーンと無料の交流ゾーンが分かれているため、美術館に慣れていない人でも気軽に立ち寄れる構成になっている。",
+      "renewal_or_news": "2026年11月時点では通常開館中だが、大規模修繕のため2027年5月〜2028年3月の間、長期休館することが報じられている。現在開催中〜2027年4月18日までの特別展「今日から明日へ 作品を継承すること」は長期休館前最後の特別展と位置づけられており、長期休館前に訪れておきたいタイミングという訴求が可能。最新の休館スケジュール・観覧料・開館時間は公式サイト（kanazawa21.jp）での再確認が必須。",
+      "target_audience": ["カップル", "夫婦", "家族", "友人", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 11,
+        "unique_experience_score": 19,
+        "photogenic": 14,
+        "value_for_price": 8,
+        "sns_buzz": 9,
+        "access_and_freshness": 4
+      },
+      "score": 87,
+      "recommendation_reason": "エキテン4.18（口コミ37件）・いこーよ4.2（口コミ13件）という独立2情報源がいずれも5点満点換算で4.0を上回り、原則6・7の採用基準を満たした。SANAAによる金獅子賞受賞建築、無料で楽しめる交流ゾーン、レアンドロ・エルリッヒ《スイミング・プール》という強いフォトジェニックな代表作が揃い、金沢観光の中心（兼六園・金沢城公園）からも徒歩圏という抜群のアクセスを持つ。2027年5月からの長期休館というニュース性があり、『休館前に訪れておきたい』という今だからこその訴求軸も作れる。有名スポットではあるが、スイミング・プールの当日予約制の運用など、Production移行時に公式サイトで再確認すべき実務的な注意点も明記した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "海外からの利用者レビューで、《スイミング・プール》の鑑賞が当日9時からの予約制になっており、繁忙期は数分で予約が埋まってしまう、予約制の運用が公式サイトの説明と現場で食い違ったという指摘があった。また企画展の内容によっては小さな子ども向けに『怖い／面白い』の差が大きいという声もあった。混雑は時間帯による差が大きく、午前中は比較的空いているが繁忙期は混み合うとの声がある一方、夜間は人が少なく静かに鑑賞できたという好意的な声もあった。安全性・衛生面・接客対応に関する重大な指摘は本セッションの検索範囲では見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "金沢21世紀美術館は2004年10月の開設にあたり、『新しい文化の創造』と『新たなまちの賑わいの創出』をミッションステートメントとして掲げたとされる。設計を手がけたSANAA（妹島和世・西沢立衛）は、敷地がどの方向からもアクセスできる条件を活かし、どこから見ても正面となる裏表のない円形の建物とし、4つの入口を設けたと説明されている。また大きな施設の規模を小さなボリュームに分割することで敷地の街並みを乱さず、周辺のスケール感を取り入れる計画だったとされ、中央のガラス部分がエントランス・ホワイエとして敷地と建物をつなぐ役割を持つという。これらの建築コンセプトは『まちに開かれた公園のような美術館』という言葉で複数の第三者サイト・美術専門メディアに共通して紹介されている。ただし、これらはいずれも美術館側の公式情報を引用・紹介する第三者記事経由の記述であり、妹島和世氏・西沢立衛氏本人が直接語った発言記録（インタビュー本文や公式サイトの沿革ページ本文そのもの）を本セッションで一次確認することはできなかった。公式サイト（kanazawa21.jp）には建築コンセプトの詳細ページがあると見られるが、この環境のWebFetchのネットワーク制約、および本セッションのWebSearch呼び出し回数の上限により、本文全体への直接アクセス・追加調査はできなかった。したがって、設計者本人の『思い』を直接語った言葉については確認できなかったものとして記録し、推測や発言の創作は行わない。",
+        "sources": [
+          {
+            "type": "other",
+            "title": "金沢21世紀美術館 - ARTWIKI（美術手帖。設計者・ミッションステートメント・建築コンセプトの解説）",
+            "url": "https://bijutsutecho.com/artwiki/23"
+          },
+          {
+            "type": "other",
+            "title": "金沢21世紀美術館の楽しみ方 見どころやチケット予約 混雑情報（crexgroup.com。『まちに開かれた公園のような美術館』『新しい文化の創造』等の記述）",
+            "url": "https://crexgroup.com/ja/travel/travel/kanazawa-21st-century-museum-guide/"
+          },
+          {
+            "type": "other",
+            "title": "金沢21世紀美術館 施設ディレクトリ（gltjp.com。円形建築・4つのエントランス等の解説）",
+            "url": "https://www.gltjp.com/ja/directory/item/12567/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "金沢21世紀美術館 公式サイト（存在は確認したが、本セッションではWebFetchのネットワーク制約により本文全体の直接確認には至らなかった）",
+          "url": "https://www.kanazawa21.jp/"
+        },
+        {
+          "type": "review_site",
+          "title": "金沢21世紀美術館 口コミ・評価4.18（37件） - エキテン",
+          "url": "https://www.ekiten.jp/shop_3489820/review/"
+        },
+        {
+          "type": "review_site",
+          "title": "金沢21世紀美術館 口コミ・評価4.2（13件） - いこーよ",
+          "url": "https://iko-yo.net/experiences/83262"
+        },
+        {
+          "type": "other",
+          "title": "金沢21世紀美術館 施設ディレクトリ（評価3.77） - gltjp.com",
+          "url": "https://www.gltjp.com/ja/directory/item/12567/"
+        },
+        {
+          "type": "press",
+          "title": "金沢21世紀美術館 長期休館前最後の特別展（大規模修繕のため2027年5月〜2028年3月休館） - 全国美術館・博物館ガイド(museum.or.jp)",
+          "url": "https://www.museum.or.jp/event/127383"
+        },
+        {
+          "type": "other",
+          "title": "金沢21世紀美術館 - ARTWIKI（美術手帖）",
+          "url": "https://bijutsutecho.com/artwiki/23"
+        }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-11-10-suzuki-daisetsu-museum",
+      "name": "鈴木大拙館",
+      "region": "石川県金沢市本多町3-4-20（本多の森公園内。金沢21世紀美術館・石川県立美術館から徒歩圏）",
+      "category": "その他",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "gltjp.com（施設ディレクトリページ）",
+          "score": 4.07,
+          "scale": 5,
+          "review_count": 2,
+          "checked_date": "2026-11-10",
+          "url": "https://www.gltjp.com/ja/directory/item/13654/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "一般310円、高校生以下無料。月曜休館（月曜が祝日の場合はその直後の平日）。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "世界的な仏教哲学者・鈴木大拙の思想を伝える思索空間。設計は谷口吉生氏で、建物と水面に空や建物が映る『水鏡の庭』が一体となった、静寂を重視した構成が特徴。展示物には文字による解説がほとんどなく、来館者が自ら感じ取ることを重視する方針とされる。",
+      "renewal_or_news": "本セッションの検索範囲では、大規模リニューアルや特別な最新ニュースは確認できなかった。",
+      "target_audience": ["一人旅", "カップル", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 3,
+        "unique_experience_score": 16,
+        "photogenic": 10,
+        "value_for_price": 9,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 65,
+      "recommendation_reason": "谷口吉生設計の『水鏡の庭』と静寂な思索空間という独自性は高く、入館料310円という価格対体験価値も優れている。しかし確認できた数値評価はgltjp.comの4.07のみで、口コミ件数はわずか2件と極端に少なく、原則7の『独立2情報源』の要件を満たせなかった。Googleマップ・じゃらん等の集計評価には本セッションではアクセスできず、WebSearch呼び出し回数の上限にも到達したため追加確認もできなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "展示物に解説文がほとんどなく、事前知識がないと物足りなく感じる人がいるという指摘があった。これは館の『自ら感じ取る』方針によるもので、安全性・衛生面・接客対応に関する重大な指摘は見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "鈴木大拙館 施設ディレクトリ（評価4.07・口コミ2件） - gltjp.com",
+          "url": "https://www.gltjp.com/ja/directory/item/13654/"
+        },
+        {
+          "type": "other",
+          "title": "全国美術館・博物館ガイド 鈴木大拙館 - museum.or.jp",
+          "url": "https://www.museum.or.jp/museum/17080"
+        },
+        {
+          "type": "press",
+          "title": "【4K動画】仏教哲学者の精神に触発される：金沢・鈴木大拙館 - nippon.com",
+          "url": "https://www.nippon.com/ja/japan-video/ct171000043/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価が得られた情報源が1件（gltjp.com、口コミ2件のみ）に限られ、原則7の『独立2情報源』を満たせなかった。スコアも65点で原則6の採用ライン（75点）に届かない。独自性・価格対体験価値は高く、他の口コミサイトの集計評価が確認できれば再評価の余地がある。次回以降、WebSearch回数制約がない状態での再調査対象とする。"
+    },
+    {
+      "id": "2026-11-10-kaikaro",
+      "name": "懐華樓",
+      "region": "石川県金沢市東山1-14-8（ひがし茶屋街内）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "gltjp.com（施設ディレクトリページ）",
+          "score": 4.18,
+          "scale": 5,
+          "review_count": 3,
+          "checked_date": "2026-11-10",
+          "url": "https://www.gltjp.com/ja/directory/item/13538/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションの検索範囲では、見学料・体験料の現行の正確な金額を示す一次情報に到達できなかった。Production移行時に公式情報での確認が必須。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "ひがし茶屋街にある金沢市指定保存建造物、築約200年のお茶屋建築。朱塗りの階段、金箔を使った『黄金の茶室』、格子窓の欄間など建築細部が見どころで、今もお座敷遊びが行われているとされる。4travel.jpの投稿では、カフェで黄金のくずきりを楽しみながら見学できる点が紹介されている。",
+      "renewal_or_news": "本セッションの検索範囲では、大規模リニューアルや特別な最新ニュースは確認できなかった。",
+      "target_audience": ["カップル", "夫婦", "女子旅", "友人"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 3,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 3
+      },
+      "score": 70,
+      "recommendation_reason": "築約200年のお茶屋建築と『黄金の茶室』という強いフォトジェニックな独自性があり、ことりっぷの投稿にも『観ているだけでため息が出るほど美しい空間』という好意的な感想がある。しかし数値評価が得られたのはgltjp.comの4.18（口コミ3件）のみで、じゃらん・トリップアドバイザー等の集計評価には本セッションではアクセスできず、原則7の『独立2情報源』を満たせなかった。スコアも70点で原則6の採用ライン（75点）にわずかに届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "4travel.jpの投稿に、古い建物のためバリアフリー度はどうしても低くなるという指摘があった。安全性・衛生面・接客対応に関する重大な指摘は見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "金沢ひがし茶屋街 懐華樓 施設ディレクトリ（評価4.18・口コミ3件） - gltjp.com",
+          "url": "https://www.gltjp.com/ja/directory/item/13538/"
+        },
+        {
+          "type": "other",
+          "title": "懐華樓 訪問記（黄金のくずきり・バリアフリー度に関する言及） - 4travel.jp",
+          "url": "https://4travel.jp/dm_shisetsu/11039762"
+        },
+        {
+          "type": "other",
+          "title": "懐華樓 スポット紹介（いいね294件） - ことりっぷ(co-trip.jp)",
+          "url": "https://co-trip.jp/spot/30559?tab=1"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価が得られた情報源が1件（gltjp.com、口コミ3件のみ）に限られ、原則7の『独立2情報源』を満たせなかった。スコアも70点で原則6の採用ライン（75点）に届かない。じゃらん・トリップアドバイザー等の集計評価が確認できれば再評価の余地がある。次回以降、WebSearch回数制約がない状態での再調査対象とする。"
+    },
+    {
+      "id": "2026-11-10-higashiyama-kageroi",
+      "name": "町家レジデンスイン 東山かげろひ",
+      "region": "石川県金沢市東山（ひがし茶屋街から徒歩約6分）",
+      "category": "その他",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "icotto.jp（施設口コミページ）",
+          "score": 3.5,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-11-10",
+          "url": "https://icotto.jp/hotels/3384"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションの検索範囲では、現行の宿泊料金を示す一次情報に到達できなかった。1日1組限定の一棟貸し町家であることのみ確認できた。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "ひがし茶屋街から徒歩約6分、庭園のある一棟貸しの町家。1日1組限定で、大人数での利用に向くとされる。",
+      "renewal_or_news": "本セッションの検索範囲では、大規模リニューアルや特別な最新ニュースは確認できなかった。確認できた口コミ（2023年6月投稿）は本セッション時点で2年以上前のものであり、最新の状態は要確認。",
+      "target_audience": ["友人", "家族", "女子旅"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 1,
+        "unique_experience_score": 15,
+        "photogenic": 10,
+        "value_for_price": 4,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 45,
+      "recommendation_reason": "ひがし茶屋街徒歩圏の庭園付き一棟貸し町家という独自性はあるが、確認できた口コミはicotto.jpの3.5点（口コミ1件、2023年6月投稿）のみで、件数・新しさの両面で信頼性が極めて低い。原則6の採用ライン（主要レビュー4.0以上）にも届いておらず、原則7の独立2情報源も満たせなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミが1件のみで、具体的なネガティブ内容の記載は確認できなかった。コメントは『大人数での宿泊に向く』という程度の内容で、安全性・衛生面・接客対応に関する言及は見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "町家レジデンスイン 東山かげろひ（口コミ3.5・1件） - icotto.jp",
+          "url": "https://icotto.jp/hotels/3384"
+        },
+        {
+          "type": "other",
+          "title": "町家レジデンスイン 東山かげろひ 施設情報 - cocolocala.jp",
+          "url": "https://www.cocolocala.jp/hotels/10132"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミが1件（3.5点、2023年6月投稿）のみで、原則6の採用ライン（4.0以上）・原則7の独立2情報源のいずれも満たせなかった。情報の新しさも不十分なため、本サイクルでは不採用とした。"
+    }
+  ]
+}
