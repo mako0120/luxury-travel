@@ -1,0 +1,135 @@
+{
+  "cycle_date": "2026-11-10",
+  "theme": "沖縄県島尻郡久米島町の離島リゾート（再調査・小規模宿対象）",
+  "season_rationale": "離島リゾートカテゴリは本日すでに東京都小笠原村父島を調査したが該当なしだった（2026-11-10-ogasawara-chichijima-resort.json）ため、依頼により異なる地域として沖縄県久米島町を対象に1回限りの再調査を行う。久米島は本カテゴリで2026-10-17・2026-10-21の2回調査済みで、イーフビーチ周辺の主要リゾートホテル5施設（EN RESORT Kumejima EEF Beach Hotel・サイプレスリゾート久米島・ウォーターマークホテル沖縄 久米アイランド・ラ・ティーダ久米島テラス・球美の宿 月桃）はいずれも70点以下で不採用済み。本サイクルではこれらとは異なる、未評価の小規模宿泊施設（ゲストハウス・コンドミニアム・民宿）を対象に新規調査した。11月は久米島でもハイビスカスロードの開花が進み、ダイビング・シュノーケリングの好条件期にあたる。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-10-17-kumejima-resort.json", "region": "沖縄県島尻郡久米島町", "category": "離島リゾート" },
+    { "candidate_id": "2026-10-21-kumejima-resort-recheck.json", "region": "沖縄県島尻郡久米島町", "category": "離島リゾート" },
+    { "candidate_id": "2026-11-01-all-inclusive-kumejima.json", "region": "沖縄県島尻郡久米島町", "category": "オールインクルーシブ" },
+    { "post_id": "2026-11-10-ogasawara-chichijima-resort", "region": "東京都小笠原村父島", "category": "離島リゾート" }
+  ],
+  "duplication_note": "data/candidates・captions 配下の全件（1ヶ月以上前を含む）を『久米島|kumejima|イーフビーチ|eef|ジュゴン|Rimi|ベアーズ』等のキーワードでファイル名・本文の両方で横断確認した。久米島関連は2026-10-17-kumejima-resort.json、2026-10-21-kumejima-resort-recheck.json（離島リゾート、EN RESORT Kumejima EEF Beach Hotel・サイプレスリゾート久米島・ウォーターマークホテル沖縄 久米アイランド・ラ・ティーダ久米島テラス・球美の宿 月桃の5件、いずれもrejected）、および2026-11-01-all-inclusive-kumejima.json（オールインクルーシブ、上記3施設＋ホテル ガーデンヒルズの4件、いずれもrejected）の計3ファイルが既存。本サイクルではこれらと重複しない、これまで一度も候補化されていない3施設（Tom and Rimi's、ベアーズステイ久米島イーフビーチ、民宿シーサイドハウスジュゴン）を新規調査した。",
+  "candidates": [
+    {
+      "id": "2026-11-10-tom-and-rimis-kumejima",
+      "name": "Tom and Rimi's",
+      "region": "沖縄県島尻郡久米島町西銘",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "jcation", "score": 5.0, "scale": 5, "review_count": 2, "checked_date": "2026-11-10", "url": "https://jcation.com/hotel/detail-14412/" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは1泊あたりの具体的料金は確認できなかった（楽天トラベル・じゃらん等の該当ページはEGRESS_BLOCKEDで直接確認できず、検索結果の要約情報のみで判断）。全2室の小規模ゲストハウスで、シャワー・トイレは共用。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "久米島西銘にある全2室のゲストハウス（ロッジ）。オーナー夫妻（トムさん・リミさん）が親戚の家のような居心地を提供するとの口コミが複数あり、地元食材をできるだけ多く使った朝食が高く評価されている。一方でシャワー・トイレは他の宿泊客と共用であり、客室数・設備の規模としては本アカウントが志向する『ちょっと贅沢な旅』のリゾート体験とは距離がある。",
+      "target_audience": ["一人旅", "友人"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 3,
+        "unique_experience_score": 12,
+        "photogenic": 5,
+        "value_for_price": 7,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 49,
+      "recommendation_reason": "jcationの口コミは平均5.0だが件数はわずか2件（lastminute.co.nz等の海外OTAミラーでも2件中2件と同数）で、原則7が求める独立2情報源での十分な件数の確認はできなかった。オーナー夫妻の人柄と地元食材を使った朝食は『知られていない良さ』として確かにあるが、全2室・共用シャワーという規模はリゾート体験としての写真映え・独自体験のスケールに欠け、総合スコアは49点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "共用シャワー・トイレであることは複数の口コミ投稿者が明記しているが、『毎日掃除されていて綺麗だった』など清掃状況を評価する声が複数あり、衛生面での重大な指摘はこのセッションのWebSearchでは確認できなかった。口コミ件数自体が2〜4件（サイトにより差）と極めて少なく、判断材料として不十分。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "Tom and Rimi's - jcation（口コミ2件、平均5.0）", "url": "https://jcation.com/hotel/detail-14412/" },
+        { "type": "other", "title": "Tom and Rimi's - cocolocala（個別クチコミ、オーナー夫妻の人柄・朝食への好評が複数）", "url": "https://www.cocolocala.jp/hotels/190139" },
+        { "type": "booking_site", "title": "Tom and Rimi's - lastminute.co.nz（2 out of 2 reviews）", "url": "https://www.lastminute.co.nz/Kumejima-Hotels-Tom-And-Rimis.h39684409.Hotel-Information" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数が2〜4件と極めて少なく独立2情報源での十分な評価確認ができず（原則7未達）、全2室・共用シャワーという規模も本アカウントのリゾート体験の訴求とは適合性が低い。総合スコア49点は採用ライン75点に遠く及ばない。"
+    },
+    {
+      "id": "2026-11-10-bears-stay-kumejima-eefbeach",
+      "name": "ベアーズステイ久米島イーフビーチ",
+      "region": "沖縄県島尻郡久米島町字謝名堂582",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル（個別クチコミ1件、2025年11月投稿）", "score": 4, "scale": 5, "review_count": 1, "checked_date": "2026-11-10", "url": "https://travel.rakuten.co.jp/HOTEL/182031/review.html" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは1泊あたりの具体的料金は確認できなかった（楽天トラベル・じゃらん等の該当ページはEGRESS_BLOCKEDで直接確認できず）。全12室、キッチン・家電完備のコンドミニアムタイプ。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2021年3月開業とされる、久米島では珍しい全室コンドミニアムタイプ（キッチン・家電完備）の宿で、イーフビーチへ徒歩3〜6分（情報源により表記差あり）。フロントデスクを持たず、タブレット端末またはQRコードによるセルフチェックイン方式。ダイビング用スーツ・器材を洗える設備があり、マリンアクティビティ目的の長期滞在者には実用的な独自性がある一方、客室は実用重視で、リゾートホテルとしての写真映え・非日常感は確認した範囲では限定的。",
+      "target_audience": ["友人", "家族", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 3,
+        "unique_experience_score": 10,
+        "photogenic": 6,
+        "value_for_price": 6,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 45,
+      "recommendation_reason": "フォートラベルでは『みんなの満足度：評価なし』で、確認できた数値評価は楽天トラベルの個別クチコミ1件（総合4/5、2025年11月投稿）のみにとどまり、原則7が求める独立2情報源での十分な件数の確認ができなかった。コンドミニアム＋セルフチェックインという業態自体はダイバー・自炊派には実用的だが、写真で見せる『贅沢さ』の訴求材料に乏しく、総合スコアは45点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "セルフチェックイン方式そのものに対する明確な不満の口コミはこのセッションのWebSearchでは見つからなかった。ただしチェックイン可能時刻の表記がサイトによって15:00〜15:30とばらつきがあり、事前確認が必要。衛生・安全上の重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ベアーズステイ久米島イーフビーチ - フォートラベル（みんなの満足度：評価なし、久米島のホテル22件中に掲載）", "url": "https://4travel.jp/dm_hotel-11852510" },
+        { "type": "booking_site", "title": "ベアーズステイ久米島イーフビーチ - 楽天トラベル クチコミ", "url": "https://travel.rakuten.co.jp/HOTEL/182031/review.html" },
+        { "type": "booking_site", "title": "ベアーズステイ久米島イーフビーチ - じゃらん（施設基本情報・客室数12室）", "url": "https://www.jalan.net/yad344388/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価が確認できたのは楽天トラベルの個別クチコミ1件のみで、フォートラベルは評価なしであり、原則7の独立2情報源・十分な件数の確認を満たさない。写真・独自体験面での訴求材料も限定的で、総合スコア45点は採用ライン75点に遠く及ばない。"
+    },
+    {
+      "id": "2026-11-10-jugon-seaside-house-kumejima",
+      "name": "民宿シーサイドハウス ジュゴン",
+      "region": "沖縄県島尻郡久米島町（イーフビーチ入口付近）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "icotto", "score": 3.2, "scale": 5, "review_count": 28, "checked_date": "2026-11-10", "url": "https://icotto.jp/hotels/11675" }
+      ],
+      "price_range_jpy": {
+        "note": "複数予約サイトの要約で1名4,620円〜6,050円（2名1室利用時）という言及があったが、このセッションのWebSearchでは一次ページを直接確認できず（EGRESS_BLOCKED）、確度は限定的。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "イーフビーチ入口に最も近いとされる民宿で、コンビニ・飲食店が徒歩圏内にある便利な立地。ダイビング利用者の口コミでは水回りの新しさを評価する声もあるが、部屋によってリフォームの有無に差があり、風呂（icottoで2.9）やバリアフリー（1.0）の評価は低い。民宿としての手頃さ・便利さが中心で、リゾート体験としての独自性・写真映えは確認した範囲では弱い。",
+      "target_audience": ["一人旅", "友人"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 8,
+        "unique_experience_score": 7,
+        "photogenic": 5,
+        "value_for_price": 7,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 45,
+      "recommendation_reason": "icotto（口コミ28件）の総合評価3.2は原則6の最低ライン4.0に届かない。楽天トラベルでは4.36、newt.netでは3.9という異なる数値も確認できたが、件数が確認できたのはicottoのみで、情報源間の評価差が大きく信頼性に欠ける（原則7）。風呂・バリアフリーの項目別評価も低く、2025年7月頃とみられる低評価口コミではレンタカー対応への不満も指摘されており、総合スコアは45点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icottoの項目別評価では風呂2.9・バリアフリー1.0と低い項目があった。2025年7月投稿とみられる1つ星の口コミでは、レンタカー関連の対応について電話がつながらず1時間待たされたという接客対応上の不満が指摘されている。食中毒・設備の重大な故障等、安全上の重大な指摘は確認されなかったが、接客対応面の懸念材料として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "民宿シーサイドハウス ジュゴン - icotto（総合3.2・口コミ28件、風呂2.9/バリアフリー1.0等項目別評価）", "url": "https://icotto.jp/hotels/11675" },
+        { "type": "booking_site", "title": "民宿シーサイドハウス ジュゴン - 楽天トラベル（総合4.36、件数は確認できず）", "url": "https://travel.rakuten.co.jp/HOTEL/130064/130064.html" },
+        { "type": "other", "title": "民宿シーサイドハウス ジュゴン - newt.net（総合3.9/5、件数は確認できず）", "url": "https://newt.net/hotel/jpn/e601167" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "最も件数の確認できたicottoの総合評価3.2が原則6の最低ライン4.0に届かず、情報源間で評価が3.2〜4.36と大きく食い違い信頼性に欠ける（原則7）。レンタカー対応への不満も指摘されており、総合スコア45点は採用ライン75点に遠く及ばない。"
+    }
+  ],
+  "cycle_conclusion": "沖縄県久米島町を対象に、過去2サイクル（2026-10-17・2026-10-21）で未評価だった小規模宿泊施設3件（Tom and Rimi's、ベアーズステイ久米島イーフビーチ、民宿シーサイドハウス ジュゴン）を新規調査した。いずれも主要レビューサイトの総合評価が3.2〜5.0（件数は1〜28件とばらつきが大きく、特にベアーズステイは実質1件のみ）で、原則6の最低ライン4.0または十分な件数・独立2情報源での確認（原則7）のいずれかを満たさず、総合スコアも45〜49点と採用ライン75点に遠く及ばなかった。久米島イーフビーチ周辺の主要リゾートホテル5施設（既存3サイクル分）と合わせ、計8施設を調査したが本カテゴリでの久米島内selected候補はまだ見つかっていない。基準を下げての無理な採用は行わず、captions/ の新規作成も行わない。"
+}
