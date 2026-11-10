@@ -1,0 +1,141 @@
+{
+  "cycle_date": "2026-11-10",
+  "theme": "東京都小笠原村（父島）の離島リゾート",
+  "season_rationale": "離島リゾートカテゴリは2026-10-21サイクルで波照間島・小笠原諸島（父島・母島）を調査済み（照島荘・サンシャイン小笠原・てつ家・民宿ナンプーの4件、いずれも75点未満で不採用）。本サイクルは依頼により父島に対象を絞り、前サイクルで未調査だった施設を新規に3件以上調査する再調査サイクルである。data/candidates・captions を `父島|小笠原|母島|ogasawara` でgrepし、前サイクルで既に評価済みの「サンシャイン小笠原」「くつろぎの宿 てつ家」とは別の施設を対象とした。11月は台風シーズンがほぼ終わり、おがさわら丸の運航が安定し始める時期で、ホエールウォッチング前哨期・星空観賞需要がある時期にあたる。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-21-hateruma-ogasawara-resort(候補のみ・選定なし)", "region": "沖縄県波照間島・東京都小笠原村父島/母島", "category": "離島リゾート" },
+    { "post_id": "2026-10-23-koshikishima-remote-island-resort", "region": "鹿児島県甑島列島", "category": "離島リゾート" },
+    { "post_id": "2026-10-22-tsushima-remote-island-resort", "region": "長崎県対馬", "category": "離島リゾート" }
+  ],
+  "duplication_note": "data/candidates・captions 全件を `grep -il \"ogasawara|小笠原|父島|母島\"` で確認したところ、父島関連の候補は 2026-10-21-hateruma-ogasawara-resort.json のみで、そこでは「サンシャイン小笠原」「くつろぎの宿 てつ家」の2施設（いずれもrejected）が既に評価済みだった。本サイクルではこの2施設とは異なる父島内の宿泊施設（民宿トロピカルインパパヤ、Pension & Diving Service FISH EYE、民宿いしぴー）を新規に調査し、重複を回避した。",
+  "candidates": [
+    {
+      "id": "2026-11-10-tropical-in-papaya-chichijima",
+      "name": "民宿トロピカルインパパヤ",
+      "region": "東京都小笠原村父島字西町",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.11, "scale": 5, "review_count": 3, "checked_date": "2026-11-10", "url": "https://4travel.jp/dm_hotel-10041251" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは1泊あたりの具体的料金は確認できなかった（4travel・楽天トラベル等の該当ページはEGRESS_BLOCKEDで直接確認できず、検索結果の要約情報のみで判断）。相部屋（男女別ドミトリー）プランとキッチン付きで自炊できるプランがある旨の言及があり、比較的安価な価格帯とみられる。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "父島ドルフィンスイムの発祥とされる宿で、島内でも足の速いクルーザーを保有し、遠方の嫁島（ケータ諸島）方面までのツアーを扱うという言及がある。おがさわら丸発着港から徒歩約5分、男女別相部屋とキッチン付きの自炊プランがあり、一人旅やダイバー・ドルフィンスイム目的の旅行者には実質的な価値がある一方、大型ホテルのような客室・施設面での際立った体験は確認できなかった。",
+      "target_audience": ["一人旅", "友人"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 3,
+        "unique_experience_score": 8,
+        "photogenic": 4,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 40,
+      "recommendation_reason": "フォートラベルの総合満足度3.11（口コミ3件、父島33施設中14位）は原則6の最低ライン4.0に届かない。独立した2件目の数値評価情報源もこのセッションのWebSearchでは確認できなかった（原則7未達）。父島ドルフィンスイム発祥という独自性のある逸話はあるが、相部屋中心の民宿業態であり、本アカウントが志向する『ちょっと贅沢な旅』との適合性は低く、総合スコアは40点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミでは男女別の相部屋（ドミトリー）形式であることが明確に書かれており、プライベート性は高くない。一方でキッチン付きで自炊できる点、宿泊費を抑えられる点を評価する声があった。衛生・安全上の重大な問題として複数情報源で一致したものは確認されなかったが、口コミ自体が3件と少なく判断材料として不十分。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "民宿トロピカルインパパヤ - フォートラベル（総合満足度3.11・口コミ3件・父島33施設中14位）", "url": "https://4travel.jp/dm_hotel-10041251" },
+        { "type": "other", "title": "小笠原諸島の宿・ホテル比較 - my-best", "url": "https://my-best.com/19137" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合満足度3.11（4.0未満）・口コミ3件という低い件数で原則6を満たさず、独立2情報源の数値評価も確認できないため採用ライン75点には届かない。相部屋中心の業態も本アカウントのテーマとの適合性が低い。"
+    },
+    {
+      "id": "2026-11-10-fisheye-pension-chichijima",
+      "name": "Pension & Diving Service FISH EYE",
+      "region": "東京都小笠原村父島",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.05, "scale": 5, "review_count": 1, "checked_date": "2026-11-10", "url": "https://4travel.jp/dm_hotel-11369850" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは1泊あたりの具体的料金は確認できなかった（該当予約ページはEGRESS_BLOCKEDで直接確認できず）。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "名称が示すとおり元々はダイビングサービス併設のペンションだったが、2023年5月頃にダイビングショップ部分は閉業し、現在は宿泊のみの営業になったという口コミ上の言及がある（このセッションのWebSearchでは公式な営業状況の最新確認は取れていない）。2022年の口コミでは朝食が好評だったという記述がある。ダイビング併設という当初の独自性が失われている可能性があり、現時点での独自体験としての強さは確認できない。",
+      "target_audience": ["一人旅"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 1,
+        "unique_experience_score": 5,
+        "photogenic": 4,
+        "value_for_price": 5,
+        "sns_buzz": 1,
+        "access_and_freshness": 2
+      },
+      "score": 33,
+      "recommendation_reason": "フォートラベルの総合満足度3.05（口コミ1件、父島33施設中16位）は原則6の最低ラインに届かず、口コミ件数も1件のみで信頼性が極めて低い（原則7未達）。ダイビングサービスが閉業したという未確認情報もあり、当初の独自性が薄れている可能性がある。総合スコアは33点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ件数が1件のみで判断材料として不十分。2023年頃にダイビングショップ部分が閉業したという言及があり、名称の由来である独自性（ダイビング併設）が現在も維持されているか確認できない。衛生・安全上の重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "Pension & Diving Service FISH EYE - フォートラベル（総合満足度3.05・口コミ1件・父島33施設中16位）", "url": "https://4travel.jp/dm_hotel-11369850" },
+        { "type": "other", "title": "小笠原諸島の宿・ホテル比較 - my-best", "url": "https://my-best.com/19137" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合満足度3.05（4.0未満）・口コミ1件のみで原則6・原則7のいずれも満たさず、ダイビング併設という独自性も現在維持されているか未確認のため採用ライン75点には遠く及ばない。"
+    },
+    {
+      "id": "2026-11-10-ishipi-minshuku-chichijima",
+      "name": "民宿いしぴー",
+      "region": "東京都小笠原村父島",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.01, "scale": 5, "review_count": 1, "checked_date": "2026-11-10", "url": "https://4travel.jp/dm_hotel-11365300" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは1泊あたりの具体的料金は確認できなかった（該当予約ページはEGRESS_BLOCKEDで直接確認できず）。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "港から車で数分の坂の上に位置する民宿で、ダイビング利用者による口コミが確認できる。それ以外の設備・サービス面での際立った独自体験や、公式サイト上の情報はこのセッションのWebSearchでは確認できなかった。",
+      "target_audience": ["一人旅"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 1,
+        "unique_experience_score": 4,
+        "photogenic": 3,
+        "value_for_price": 5,
+        "sns_buzz": 1,
+        "access_and_freshness": 2
+      },
+      "score": 31,
+      "recommendation_reason": "フォートラベルの総合満足度3.01（口コミ1件、父島33施設中20位）は原則6の最低ラインに届かない。口コミ件数が1件のみで信頼性が極めて低く、独立2情報源の数値評価も確認できなかった（原則7未達）。独自体験・写真映え・SNS話題性のいずれも裏付けに乏しく、総合スコアは31点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ件数が1件のみで、ポジティブ・ネガティブいずれの傾向も判断できるだけの材料がない。衛生・安全上の重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "民宿いしぴー - フォートラベル（総合満足度3.01・口コミ1件・父島33施設中20位）", "url": "https://4travel.jp/dm_hotel-11365300" },
+        { "type": "other", "title": "小笠原諸島の宿・ホテル比較 - my-best", "url": "https://my-best.com/19137" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合満足度3.01（4.0未満）・口コミ1件のみで原則6・原則7のいずれも満たさず、独自体験の裏付けも乏しいため採用ライン75点には遠く及ばない。"
+    }
+  ],
+  "excluded_insufficient_data": [
+    {
+      "name": "OGASAWARA Resort ハートロックヴィレッジ",
+      "reason": "父島で比較的『リゾートホテル』に近い位置づけの施設だが、口コミサイトごとの数値が大きく食い違い（icotto経由で総合満足度3.2程度という言及があったが口コミ件数の表記は不明瞭、楽天トラベル経由では5.00という言及、travelist経由では4.9という言及があり、いずれも件数や算出根拠をこのセッションのWebSearchでは確定できなかった）、4travel.jp・icotto.jp・travel.rakuten.co.jp はこのセッションからEGRESS_BLOCKEDで直接確認できなかった。確度の低い数値をreview_scoresに記載して採点することは誠実でないため、正式な候補としては記載しなかった。確認できた事実は、父島東町・二見港からごく近い立地、全8室、ガジュマルに囲まれた外来種駆除材を使ったチェーンソーアート作品の設置、島の外来種を活用した自然再生の資金作り（関連ギフトショップ）という独自性のみ。設計者・経営者の開業への思いを直接語った一次情報もこのセッションのWebSearchでは見つけられなかった。"
+    },
+    {
+      "name": "大洋荘（父島・東町、1972年創業と言及される民宿）",
+      "reason": "1972年創業・父島最古の民宿という言及が口コミにあったが、現在の施設名・総合満足度・口コミ件数をこのセッションのWebSearchでは確定できなかった（複数の4travelページ番号を検索したが該当施設の数値ページを特定できず）。正式な候補としては記載しなかった。"
+    }
+  ],
+  "cycle_conclusion": "東京都小笠原村父島を対象に新規3件（民宿トロピカルインパパヤ・Pension & Diving Service FISH EYE・民宿いしぴー）を評価したが、いずれもフォートラベルの総合満足度が3.01〜3.11と原則6の最低ライン4.0に遠く届かず、口コミ件数も1〜3件と極めて少なく信頼性を欠いた（原則7の独立2情報源も確認できず）。総合スコアも31〜40点で採用ライン75点には遠く及ばない。前サイクル（2026-10-21）で評価済みのサンシャイン小笠原（47点）・てつ家（39点）も同様の傾向であり、父島内で確認できた主要な宿泊施設（計5件、フォートラベル掲載33施設中上位20位以内）はいずれも小規模な民宿・ペンション中心で、大型の高級リゾートホテルが存在しないという構造的な理由により、本カテゴリ・本サイクルでも selected 候補なし。より評価が高い可能性のあるOGASAWARA Resortハートロックヴィレッジは口コミ数値の信頼できる確定ができず、誠実性を優先して候補化を見送った（excluded_insufficient_data参照）。基準を下げての無理な採用は行わない。captions/ の新規作成は行わない。"
+}
