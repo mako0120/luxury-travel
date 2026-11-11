@@ -1,0 +1,155 @@
+{
+  "cycle_date": "2026-11-11",
+  "theme": "サウナ（福岡県糸島市）",
+  "season_rationale": "11月中旬は朝晩の気温が下がり、外気浴での冷え込みと発汗後の『ととのう』体感のコントラストが際立つ季節。糸島は海沿いの立地が多く、夕焼け・星空を眺めながらの外気浴という地域ならではの体験価値が高まる時期でもある。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-27-all-inclusive-itoshima", "region": "福岡県糸島市", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-20-yamanakako-itoshima-glamping", "region": "山梨県山中湖村／福岡県糸島市", "category": "グランピング" },
+    { "post_id": "2026-11-10-beppu-sauna", "region": "大分県別府市（別府温泉）", "category": "サウナ" },
+    { "post_id": "2026-11-09-matsumoto-shirahone-sauna", "region": "長野県松本市（白骨温泉）", "category": "サウナ" }
+  ],
+  "duplication_note": "data/candidates・captions配下を『糸島』で横断検索した結果、糸島を扱った既存ファイルは data/candidates/2026-10-27-all-inclusive-itoshima.json（カテゴリ『オールインクルーシブ』、グローカルホテル糸島／地球ミライ／ubusuna空火海の3件がいずれもrejected）のみで、『サウナ』カテゴリでの糸島調査は本サイクルが初回。captions配下に糸島関連のファイルは存在しない。本サイクルで調査した3件（Aroma Olive、糸島ガーデンサウナ湯庵、愛犬と貸切サウナヴィラ糸島 ALL LIFE resort）は上記いずれとも施設・運営者が異なり、重複はない。",
+  "candidates": [
+    {
+      "id": "2026-11-11-aroma-olive-itoshima",
+      "name": "Sauna & Glamping Resort Aroma Olive（アロマオリーブ）",
+      "region": "福岡県糸島市（福吉駅から車で約5分、海を望む高台の森）",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "数値評価データなし（サウナ専門サイト『サウナイキタイ』上の『イキタイ』登録数91件・『サ活』投稿6件という反応指標は確認できたが、5点満点等の数値レビュー評価・件数は本セッションのWeb検索では確認できなかった）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-11-11",
+          "url": "https://sauna-ikitai.com/saunas/79313"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "日帰りサウナプランは3時間制（12:00〜15:00限定）で1人7,500円という表示を予約サイトで確認した。宿泊（グランピング）プランは基本料金15,400円〜という表示をサウナ情報サイトで確認したが、人数・季節による変動は未確認。アロマキューゲル等の香りオプションは別料金。",
+          "as_of_search_date": "2026-11-11",
+          "disclaimer": "価格は検索日・対象日・プランにより変動する"
+        },
+      "unique_experience": "1日1組限定のプライベートサウナ＆グランピング施設（2023年7月7日グランドオープン）。糸島の海を見下ろす高台の森の中にフィンランド製バレルサウナを設置し、昼は水風呂に浮かびながら晴天の空を眺め、夜は満天の星空の下で外気浴できるロケーションが特徴。サウナ室は約85℃（セルフロウリュで体感90℃程度）、水風呂は13℃。夕食には年間出荷数わずか700頭という希少な『糸島黒毛和牛』のコースが用意され、館内では自社開発のアロマオイルを使った香りの演出も行われている。ドームテント脇には悪天候時用の食事スペース・シャワー・トイレも完備。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 5,
+        "review_reliability": 4,
+        "unique_experience_score": 19,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 55,
+      "recommendation_reason": "1日1組限定・海を望む高台でのバレルサウナ＋星空外気浴＋糸島黒毛和牛コース＋自社開発アロマオイルという組み合わせは、糸島のサウナ施設の中でも独自性が高い。2023年開業で比較的新しく、季節感（夕焼け・星空）を強く打ち出せる点もPR向き。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本セッションのWeb検索では、サウナ・施設運営に対する明確な低評価・批判的な口コミ本文は確認できなかった。確認できた利用者の投稿（サウナイキタイ上の『サ活』、2025年3月分）は『水風呂に浮かびながら空を見てととのった』『夜は満天の星空の下でととのった』という好意的な内容のみ。ただし口コミ・サ活の投稿数自体が少なく（イキタイ91、サ活6件程度）、評価の信頼性を十分に裏付ける量ではない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "【2023年7月7日GRAND OPEN】“幸せ”をテーマとした1日1組限定プライベートサウナ&グランピング<Sauna & Glamping Resort ~Aroma Olive~アロマオリーブ> - 財経新聞（プレスリリース配信）", "url": "https://www.zaikei.co.jp/releases/2106718/" },
+        { "type": "other", "title": "Aroma Olive（アロマオリーブ）施設情報（設備・温度・イキタイ数） - サウナイキタイ", "url": "https://sauna-ikitai.com/saunas/79313" },
+        { "type": "booking_site", "title": "Aroma Olive -アロマオリーブ- 日帰りサウナプラン詳細（料金・利用時間） - 489ban.net予約ページ", "url": "https://reserve.489ban.net/client/aroma-olive/0/detail/1133323" },
+        { "type": "booking_site", "title": "Aroma Olive 宿泊プラン詳細 - 489ban.net予約ページ", "url": "https://reserve.489ban.net/client/aroma-olive/4/detail/779568" }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "コンセプト・独自性は高く評価できるが、本セッションのWebSearchでは信頼できる数値口コミ評価（じゃらん・楽天トラベル・Googleマップ等）を一件も確認できず、原則7（独立した評価の裏取り）および75点の制作ラインを満たせなかった。review_rating・review_reliabilityの評価が低く、score合計55点のため今サイクルでは不採用。口コミ数値データとGoogleマップ等の評価が確認できた段階で再評価する。"
+    },
+    {
+      "id": "2026-11-11-itoshima-garden-sauna-yuan",
+      "name": "糸島ガーデンサウナ 湯庵",
+      "region": "福岡県糸島市",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "数値評価データなし（サウナイキタイ上の『イキタイ』登録数62件・『サ活』投稿9件という反応指標は確認できたが、5点満点等の数値レビュー評価・件数は本セッションのWeb検索では確認できなかった）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-11-11",
+          "url": "https://sauna-ikitai.com/fukuoka/%E7%B3%B8%E5%B3%B6%E5%B8%82"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "事前予約制のプライベートサウナで、料金は10,000円〜という表示をサウナ情報サイトで確認した。営業時間・定休日の表示はページによって10:00〜20:00/火曜定休と差異があり、本セッションでは確定できなかった。",
+        "as_of_search_date": "2026-11-11",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "事前予約制のプライベート（貸切）ガーデンサウナ。サウナ温度約90℃・水風呂約15℃・外気浴スペースありという設備情報を確認したが、ロウリュの提供はないとされる。庭を活かした貸切サウナという立地の特徴はあるものの、海や絶景などの地域性を活かした演出、食事体験、運営者のコンセプトを示す一次情報は本セッションでは確認できなかった。",
+      "target_audience": ["カップル", "友人", "一人旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 6,
+        "review_reliability": 4,
+        "unique_experience_score": 10,
+        "photogenic": 7,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 40,
+      "recommendation_reason": "貸切制のプライベートガーデンサウナとして一定の需要（イキタイ62件）はあるが、糸島らしい海・絶景を活かした演出や食事体験など、他の糸島内サウナ施設（Aroma Olive等）と比較して独自性の掘り下げ要素が少ない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本セッションのWeb検索では、明確な低評価や批判的な口コミ本文そのものを見つけることができなかった。営業時間・定休日の表示がページ間で一致しない点があり、最新の営業状況は本セッションでは確定できていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "糸島ガーデンサウナ 湯庵 施設情報（設備・料金・イキタイ数） - サウナイキタイ（糸島市一覧ページ内掲載）", "url": "https://sauna-ikitai.com/fukuoka/%E7%B3%B8%E5%B3%B6%E5%B8%82" },
+        { "type": "other", "title": "糸島ガーデンサウナ 湯庵 掲載情報（糸島市サウナ一覧 2ページ目） - サウナイキタイ", "url": "https://sauna-ikitai.com/fukuoka/%E7%B3%B8%E5%B3%B6%E5%B8%82?page=1" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値口コミ評価を独立した2情報源で確認できず、また営業時間・定休日の表示に不一致があり最新の営業状況を確定できなかった。糸島ならではの体験としての独自性の掘り下げ情報も不足しているため、本サイクルでは不採用。"
+    },
+    {
+      "id": "2026-11-11-alllife-resort-itoshima-sauna-villa",
+      "name": "愛犬と貸切サウナヴィラ糸島 ALL LIFE resort",
+      "region": "福岡県糸島市志摩野北",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "数値評価データなし（一休.com・楽天トラベル等の予約サイトへの掲載は確認できたが、本セッションのWeb検索では口コミ件数・評価点そのものを確認できなかった）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-11-11",
+          "url": "https://www.ikyu.com/00052382/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションでは具体的な1泊あたりの料金数値を確定できなかった。",
+        "as_of_search_date": "2026-11-11",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "海を望む糸島の一棟貸切ヴィラで、完全貸切スタイルのプライベートサウナと、愛犬がリードを外して走れる人工芝（coolturf）のドッグランを備える。キッチン・BBQグリルも完備し、ペットと泊まれる宿泊施設は糸島エリアでも多くないため、『サウナ×愛犬同伴』という組み合わせ自体が独自性を持つ。予約サイト経由で予約受付が開始されたという案内（プレスリリース）を確認したが、運営会社名・代表者・改修や開業への思いを語った一次情報は本セッションのWeb検索では見つけられなかった。",
+      "target_audience": ["カップル", "夫婦", "家族", "記念日"],
+      "score_breakdown": {
+        "review_rating": 3,
+        "review_reliability": 2,
+        "unique_experience_score": 15,
+        "photogenic": 11,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 44,
+      "recommendation_reason": "『サウナ×愛犬同伴の一棟貸切』という組み合わせの独自性は高く、オーシャンビューという写真映えする立地もある。ただし料金・口コミ評価・運営者情報のいずれも本セッションでは確認できず、裏取りが不十分。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本セッションのWeb検索では口コミ本文自体を見つけられず、低評価・高評価いずれの具体的な声も確認できなかった。評価の存否を確認できないため、ネガティブ要素の有無も判断できない状態にある。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "愛犬と貸切サウナヴィラ糸島 ALL LIFE resort 施設詳細 - 一休.com", "url": "https://www.ikyu.com/00052382/" },
+        { "type": "press", "title": "福岡県糸島市の『愛犬と貸切サウナヴィラ糸島』予約受付開始のお知らせ - PR TIMES（株式会社ブッキングリゾート）", "url": "https://prtimes.jp/main/html/rd/p/000000685.000052784.html" },
+        { "type": "other", "title": "愛犬と貸切サウナヴィラ糸島 ALL LIFE resort 施設紹介（英語） - LIVE JAPAN", "url": "https://livejapan.com/en/in-tokyo/in-pref-other/in-pref-fukuoka/spot-lj0135508" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独自性は認められるものの、料金・口コミ評価・運営者情報のいずれも本セッションでは確認できず、原則7（一次情報・独立した評価の裏取り）を満たせなかったため不採用。情報が確認できた段階で再評価する。"
+    }
+  ]
+}
