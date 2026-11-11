@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-11-hotel-futari-komorebi",
+  "candidate_id": "2026-11-11-hotel-futari-komorebi",
+  "region": "静岡県伊東市宇佐美（相模灘を望む高台・JR伊東線網代駅より無料送迎約5分）",
+  "category": "オールインクルーシブ",
+  "facility_overview": "相模灘を望む伊東市宇佐美の高台に建つ、大人限定・全10室のみのオールスイートリゾート『ホテルふたり木もれ陽』。全室オーシャンビューで、源泉かけ流しの温泉展望風呂または半露天風呂付き客室を備え、滞在中のお酒・料理・おつまみ・夜食が宿泊料金に含まれるオールインクルーシブ形式。2016年開業で2026年に開業10周年を迎え、リピーター比率5割超・年20泊以上の常連客もいるという定着ぶりが特徴。",
+  "recommendation_reasons": [
+    "一休.com（4.86・335件）とskyticket（5.0・361件）という2つの独立した情報源でいずれも高評価が一致している",
+    "大人限定・全10室のみという規模の小ささと、オーシャンビュー×源泉かけ流し客室風呂×オールインクルーシブの組み合わせが『誰にも邪魔されない非日常』を生んでいる",
+    "開業10周年・リピーター比率5割超という『長く愛されている隠れ家』というストーリー性があり、伊東市で既に選定済みの別施設（MORI Premier）とは異なる魅力軸を提示できる"
+  ],
+  "evaluation_basis": "Discoveryレーン採点（100点満点）で84点。一休.com（4.86・335件）・skyticket（5.0・361件）の2独立情報源が採用ライン（4.0以上・5点満点換算）を上回り、ネガティブレビュー確認（原則10）でも致命的な指摘は確認されなかった。詳細はdata/candidates/2026-11-11-all-inclusive-ito.jsonを参照。",
+  "target_audience": ["カップル", "記念日", "夫婦", "温泉好き"],
+  "why_now": "11月中旬は海水浴シーズンが落ち着き紅葉・金目鯛など冬の魚介が旬を迎え始める時期で、東京から約2時間というアクセスの良さもあり『静かな海辺で何もしないための贅沢』を求める層に向けて紹介価値が高いタイミング。加えて2026年は開業10周年にあたり、オリジナルトートバッグ等の記念品付き特別プランが用意されているという直近の話題性もある。",
+  "price_note": "2026年の開業10周年記念プランは1名49,800円〜（大人2名1室1泊・税・サービス料込み・オールインクルーシブ）。これは期間限定プランであり、通常時の料金帯は未確認のため、制作時に公式サイトで再確認が必要。",
+  "access_note": "JR伊東線「網代駅」より無料送迎（要予約）で約5分。駐車場の詳細は本調査では未確認のため、制作時に公式サイトで再確認が必要。",
+  "captions": {
+    "instagram": "伊東の高台に、大人だけの隠れ家。\n全10室、すべてオーシャンビュー。源泉かけ流しの温泉を部屋で独り占めしながら、お酒もおつまみも夜食も、全部込み。\n\n2016年開業、2026年で10年目。常連さんの多くがリピーターという、知る人が静かに通い続けてきた宿。\n\n『何もしないため』に泊まる、という贅沢を。\n\n※写真・価格・プラン内容は公式情報で要確認（当サイトは未訪問のため実体験ではありません）。",
+    "tiktok": "伊東にある、全10室だけの大人専用オールインクルーシブ宿🌊\n温泉付きオーシャンビューの部屋で、お酒もおつまみも夜食も全部込み。\n2026年で開業10年、リピーター率5割超えって知ってた？\n#伊東 #伊豆旅行 #オールインクルーシブ"
+  },
+  "hashtags": ["#伊東", "#伊豆旅行", "#オールインクルーシブ", "#大人旅", "#記念日旅行", "#温泉旅館", "#隠れ家ホテル"],
+  "sources": [
+    { "type": "review_site", "title": "ホテルふたり木もれ陽 クチコミ（総合4.86・335件） - 一休.com", "url": "https://www.ikyu.com/00002295/review/" },
+    { "type": "booking_site", "title": "ホテル ふたり木もれ陽 クチコミ・詳細（総合5.0・361件） - skyticket", "url": "https://skyticket.jp/hotel/detail/property_959379/" },
+    { "type": "press", "title": "Hotel Futari Komorebi in the Atami/Izu Area Marks 10 Years with a Special All-Inclusive Anniversary Plan", "url": "https://haveagood-holiday.com/en/articles/hotel-futari-komorebi-10th-anniversary-atami" },
+    { "type": "other", "title": "ホテルふたり木もれ陽 施設情報（住所・客室数） - cocolocala", "url": "https://www.cocolocala.jp/hotels/333746" }
+  ],
+  "created_date": "2026-11-11",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
+}
