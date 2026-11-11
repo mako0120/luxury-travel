@@ -1,0 +1,140 @@
+{
+  "id": "2026-09-14-cycl-yamanakako",
+  "candidate_id": "2026-09-14-cycl-yamanakako",
+  "region": "山梨県南都留郡山中湖村",
+  "category": "サウナ",
+  "status": "NEEDS_ASSET_APPROVAL",
+  "status_history": [
+    { "status": "RESEARCHING", "date": "2026-09-14", "note": "ユーザーが出典不明のカルーセル画像（CYCLの紹介と思われる）を提示。画像自体は転載元不明のため投稿素材には使えないと判断し、Web検索で独立にファクトチェックを開始（原則12）。" },
+    { "status": "DRAFT", "date": "2026-09-14", "note": "CYCL（サイクル）を候補として調査・採点（score 76点）。地図サービスの評価は3.7/7件と少数だが、サウナシュラン2024選出・イキタイ数県内2位という強いシグナルがあり、原則8（Hidden Gemルール）の4条件（公式情報確認／最近営業／複数情報源／強い独自性）を満たすため穴場候補として選定。" },
+    { "status": "FACT_CHECKED", "date": "2026-09-14", "note": "公式サイト（cycl.co.jp）、サウナイキタイ、Yahoo!マップ、SAUNA BROS.WEB（プレス記事）、びゅうたび、サウナ出張中の計6情報源で施設概要・料金・特徴・開業時期・受賞歴を裏取り。料金は4,290円（税込）と3,960円という2つの表記が見つかり時期による変動の可能性ありと記録。低評価レビューは検索範囲では見つからなかったが、評価母数が少ない点は留意事項として明記。" },
+    { "status": "NEEDS_ASSET_APPROVAL", "date": "2026-09-14", "note": "ユーザー提示のスクリーンショットは著作権者・転載条件が不明なため使用せず、公式サイト・プレス記事等からの画像調達が別途必要。本セッションのネットワーク環境では該当サイトへの直接アクセスが遮断されており、個別画像の転載権限を確認できなかった。原則12に従いREADYに進めない。" }
+  ],
+  "facility_overview": "山梨県山中湖村にある絶景湖畔サウナ『CYCL（サイクル）』。2024年4月開業、建築家・百枝優氏設計のガラス張りの建物で、富士山と山中湖の360度パノラマを望む。水着着用で男女一緒に入れる会話可能なフィンランド式サウナと、毎分90L湧出する富士山系天然地下水を掛け流した『飲める水風呂』（深さ約120cm）が特徴。2024年『サウナシュラン』選出、サウナイキタイの山梨県内イキタイ数2位（2025年8月時点）。",
+  "recommendation_reasons": [
+    "富士山×山中湖の360度絶景を望みながら、水着着用で男女一緒に入れるサウナという、他に類を見ない組み合わせ。",
+    "飲用可能な富士山系天然地下水を掛け流した水風呂という、水質そのものが差別化ポイントになる体験。",
+    "2024年『サウナシュラン』選出という専門家キュレーションの裏付けがあり、地図サービスの評価件数の少なさを補う信頼材料になる。",
+    "都心から車・バスで約90分というアクセスの良さで、日帰りの『非日常』体験としてハードルが低い。"
+  ],
+  "evaluation_basis": "100点満点中76点（口コミ評価15/25・口コミ信頼性4/15・独自体験20/20・映え15/15・価格対体験価値8/10・SNS話題性9/10・アクセス/鮮度5/5）。地図サービス上の評価は3.7/5（7件）と件数が少なく単独では原則6の基準（4.0以上）を満たさないが、サウナシュラン2024選出・イキタイ数県内2位という専門家・利用者双方からの強いシグナル、2024年開業で継続営業中という最新性、複数の独立メディアでの言及、他に類を見ない独自体験の4条件がそろうため、原則8（Hidden Gemルール）の穴場候補として採用した。",
+  "target_audience": ["カップル", "友人", "絶景好き", "サウナ好き", "一人旅"],
+  "why_now": "秋は空気が澄み、外気浴から見える富士山の視認性が特に高まる季節。2024年開業とまだ新しく、サウナシュラン受賞という話題性のピークを過ぎていない今のタイミングで紹介する価値が高い。",
+  "image_candidates": [
+    {
+      "order": 1,
+      "description": "CYCLの建物外観＋富士山（1枚目＝最重要。ガラス張りの美術館のような建築と富士山を同時に見せる）",
+      "source_priority": "official_press",
+      "url_or_location": "施設公式サイト（cycl.co.jp）のフォト／プレスページを想定。本セッションのネットワーク制限により未確認。ユーザーが提示したスクリーンショットは著作権者不明のため使用しない。",
+      "copyright_holder": "CYCL運営会社（未確認）",
+      "credit_required": true,
+      "usage_rights_confirmed": false,
+      "checked_date": "2026-09-14",
+      "rights_status": "unconfirmed_needs_approval"
+    },
+    {
+      "order": 2,
+      "description": "外気浴スペース（展望ラウンジ）から富士山を望むカット",
+      "source_priority": "official_press",
+      "url_or_location": "公式サイトまたはプレスリリース掲載写真を想定。未確認。",
+      "copyright_holder": "CYCL運営会社（未確認）",
+      "credit_required": true,
+      "usage_rights_confirmed": false,
+      "checked_date": "2026-09-14",
+      "rights_status": "unconfirmed_needs_approval"
+    },
+    {
+      "order": 3,
+      "description": "サウナ室内（セルフロウリュ、木造の内装）",
+      "source_priority": "official_press",
+      "url_or_location": "公式サイトを想定。未確認。",
+      "copyright_holder": "CYCL運営会社（未確認）",
+      "credit_required": true,
+      "usage_rights_confirmed": false,
+      "checked_date": "2026-09-14",
+      "rights_status": "unconfirmed_needs_approval"
+    },
+    {
+      "order": 4,
+      "description": "天然地下水の水風呂（飲める水風呂であることが伝わるカット）",
+      "source_priority": "official_press",
+      "url_or_location": "公式サイトを想定。未確認。",
+      "copyright_holder": "CYCL運営会社（未確認）",
+      "credit_required": true,
+      "usage_rights_confirmed": false,
+      "checked_date": "2026-09-14",
+      "rights_status": "unconfirmed_needs_approval"
+    },
+    {
+      "order": 5,
+      "description": "館内の休憩スペース・フリードリンク／スイーツ",
+      "source_priority": "official_press",
+      "url_or_location": "公式サイトを想定。未確認。",
+      "copyright_holder": "CYCL運営会社（未確認）",
+      "credit_required": true,
+      "usage_rights_confirmed": false,
+      "checked_date": "2026-09-14",
+      "rights_status": "unconfirmed_needs_approval"
+    },
+    {
+      "order": 6,
+      "description": "夕景・朝景の富士山と建物のシルエット",
+      "source_priority": "tourism_board",
+      "url_or_location": "山中湖観光協会等の公式素材を想定。未確認。",
+      "copyright_holder": "山中湖観光協会またはCYCL運営会社（未確認）",
+      "credit_required": true,
+      "usage_rights_confirmed": false,
+      "checked_date": "2026-09-14",
+      "rights_status": "unconfirmed_needs_approval"
+    },
+    {
+      "order": 7,
+      "description": "タイトル背景・装飾用（価格/アクセススライド用の非実写イメージ）",
+      "source_priority": "ai_generated_decorative",
+      "url_or_location": "実在の施設・サウナ室・水風呂を誤認させない、抽象的な湯気・波紋・山影シルエット等の装飾背景としてAI生成する想定（原則13）。",
+      "copyright_holder": "N/A（AI生成・装飾用途限定）",
+      "credit_required": false,
+      "usage_rights_confirmed": true,
+      "checked_date": "2026-09-14",
+      "rights_status": "ai_generated_decorative_only"
+    }
+  ],
+  "carousel": [
+    { "slide": 1, "role": "最も強い写真＋強いタイトル", "image_ref": 1, "copy": "一生に一度は行きたい、富士山を纏うサウナ。" },
+    { "slide": 2, "role": "ここ何がすごいの？", "image_ref": 1, "copy": "サウナシュラン2024選出。建築家設計の、美術館のようなデザインサウナ。" },
+    { "slide": 3, "role": "一番魅力的な体験", "image_ref": 2, "copy": "富士山と山中湖、360度のパノラマを見ながらの外気浴。" },
+    { "slide": 4, "role": "ここでしかできないポイント", "image_ref": 4, "copy": "毎分90L湧く富士山の天然地下水。飲める水風呂という贅沢。" },
+    { "slide": 5, "role": "客室・館内", "image_ref": 3, "copy": "水着着用で男女一緒に。会話しながらととのう時間。" },
+    { "slide": 6, "role": "おすすめ利用シーン", "image_ref": 5, "copy": "カップルや友人との週末旅、一人でととのいたい日にも。" },
+    { "slide": 7, "role": "価格・アクセスなど", "image_ref": 7, "copy": "都心から約90分。150分4,290円〜（税込、タオル・ドリンク・スイーツ込み）。" },
+    { "slide": 8, "role": "保存CTA", "image_ref": 6, "copy": "秋の澄んだ空気の日に。保存して、次の休みの候補に。" }
+  ],
+  "cover_copy_ab_test": {
+    "variant_a": "一生に一度は行きたい、富士山を纏うサウナ。",
+    "variant_b": "サウナシュラン受賞。富士山を独り占めする、山中湖の絶景サウナ。"
+  },
+  "captions": {
+    "instagram": "富士山を眺めながらととのう、そんな贅沢な時間があります。\n\n📍山梨県山中湖村「CYCL（サイクル）」\n\n2024年4月開業、建築家・百枝優さん設計のガラス張りサウナ施設。富士山と山中湖の360度パノラマを望む展望ラウンジ、水着着用で男女一緒に入れる会話OKのサウナ、そして毎分90L湧く富士山系天然地下水を掛け流した『飲める水風呂』が特徴です。\n\n2024年『サウナシュラン』選出。サウナイキタイでは山梨県内イキタイ数2位（2025年8月時点）という人気ぶりです。\n\n✔️おすすめの人：カップル／友人と／一人旅／サウナ好き／絶景好き\n✔️目安：150分 4,290円〜（税込・記事により3,960円という表記も。タオル・サウナマット・ワンドリンク・ミニスイーツ込み、延長30分700円）\n✔️アクセス：都心から車・バスで約90分\n✔️予約：事前予約制。人気施設のため早めの予約がおすすめ\n\n※価格・プラン内容は変動するため、予約時に公式サイトで最新情報をご確認ください。\n※本投稿は実際の来店レポートではなく、口コミ・公式情報をもとに構成した旅行メディア型の紹介です。\n\n秋の澄んだ空気の日に。保存しておいて。",
+    "tiktok": "富士山を独り占めできるサウナ、知ってる？🗻\n山中湖の『CYCL』、2024年サウナシュラン選出のデザインサウナ。\n水着着用で男女一緒に、会話しながらととのえる。\n毎分90L湧く天然地下水は飲める水風呂に。\n都心から車で約90分。秋の休日、保存しておこう。"
+  },
+  "hashtags": [
+    "#山中湖", "#CYCL", "#山梨旅行", "#富士山", "#サウナ",
+    "#サウナシュラン", "#絶景サウナ", "#ととのう", "#日帰り旅行", "#秋旅行",
+    "#国内旅行", "#贅沢旅", "#サウナ好きな人と繋がりたい"
+  ],
+  "schedule": {
+    "planned_date": "2026-09-24",
+    "planned_time": "12:00",
+    "platform": ["Instagram", "TikTok"],
+    "rationale": "1件目（9/17 平日夜）・2件目（9/20 週末朝）に続き、3回目は平日昼（休憩時間帯の閲覧を狙う）に設定し、A/Bデータの時間帯パターンを1つ増やす（原則25・27・28）。"
+  },
+  "sources": [
+    { "type": "official", "title": "富士山と山中湖を一望する絶景湖畔サウナ CYCL（サイクル） 公式サイト", "url": "https://cycl.co.jp/" },
+    { "type": "review_site", "title": "CYCL(山梨県南都留郡山中湖村) - サウナイキタイ", "url": "https://sauna-ikitai.com/saunas/80715" },
+    { "type": "review_site", "title": "CYCL - Yahoo!マップ クチコミ", "url": "https://map.yahoo.co.jp/v3/place/7oX6ojyJcuc" },
+    { "type": "press", "title": "サウナ＆ラウンジから富士山を望む「CYCL」が山中湖畔に誕生 - SAUNA BROS.WEB", "url": "https://saunabrosweb.jp/news_cycl/2024/02/20/" },
+    { "type": "other", "title": "CYCL（サイクル）山中湖畔の絶景サウナへの旅 - びゅうたび", "url": "https://www.viewtabi.jp/articles/25052901" },
+    { "type": "other", "title": "【CYCL山中湖】絶景サウナの口コミを正直レビュー｜サウナ出張中", "url": "https://otsuka-seiya.com/cycl/" }
+  ],
+  "created_date": "2026-09-14"
+}

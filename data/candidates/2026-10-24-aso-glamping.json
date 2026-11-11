@@ -1,0 +1,106 @@
+{
+  "cycle_date": "2026-10-24",
+  "theme": "熊本県阿蘇エリアのグランピング施設",
+  "season_rationale": "10月下旬の阿蘇は朝晩の冷え込みが強まり、ドーム型グランピングの空調・薪ストーブが快適に使える時期。日中は紅葉が高原部から徐々に進み、夜は空気が澄んで星空観賞にも向く。夏の繁忙期を過ぎて秋プラン・平日割引が動き出すタイミングでもあり、年末年始の旅行検討が始まる前の狙い目シーズンにあたる。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-23-kirishima-glamping", "region": "鹿児島県霧島高原エリア", "category": "グランピング" },
+    { "post_id": "2026-10-22-minakami-glamping", "region": "群馬県利根郡みなかみ町", "category": "グランピング" },
+    { "post_id": "2026-10-21-onomichi-setouchi-glamping", "region": "広島県尾道市（しまなみ海道）", "category": "グランピング" },
+    { "post_id": "2026-10-20-yamanakako-itoshima-glamping", "region": "山梨県山中湖村／福岡県糸島市", "category": "グランピング" },
+    { "post_id": "2026-10-20-nasu-awaji-glamping", "region": "栃木県那須高原／兵庫県淡路島", "category": "グランピング" },
+    { "post_id": "2026-10-20-aso-view-hotel", "region": "熊本県阿蘇地域", "category": "絶景ホテル" },
+    { "post_id": "2026-10-19-takashima-glamping", "region": "滋賀県高島市", "category": "グランピング" },
+    { "post_id": "2026-10-19-iseshima-glamping", "region": "三重県伊勢志摩", "category": "グランピング" }
+  ],
+  "duplication_note": "ユーザー指示に基づき、直近数サイクルだけでなく data/candidates/ 配下の全ファイル（2026-09-14〜2026-10-23、約130件）および captions/ 配下の全ファイル（約180件）を『阿蘇』『熊本』『kumamoto』『aso』で全文検索した。熊本・阿蘇地域を扱った既存データは data/candidates/2026-10-20-aso-view-hotel.json と captions/2026-10-20-aso-canyon-terrace-lodge.json の1組のみで、いずれもカテゴリは『絶景ホテル'（阿蘇CANYON TERRACE&LODGE、黒川温泉 瀬の本高原ホテル等）であり、『グランピング』カテゴリでの阿蘇地域の登録は存在しない。カテゴリ『グランピング』は直近サイクル（2026-10-23霧島＝鹿児島県）で使用済みだが地域が異なるため重複はない。よって『熊本県阿蘇×グランピング』の組み合わせで既存候補・キャプションとの重複は確認されなかった。",
+  "candidates": [
+    {
+      "id": "2026-10-24-kosugi-resort-glandome-aso",
+      "name": "KOSUGI RESORT（コスギリゾート）／Glandome（グランドーム）",
+      "region": "熊本県阿蘇市乙姫2043-3",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet（KOSUGI RESORT本体・施設全体）", "score": 4.1, "scale": 5, "review_count": 93, "checked_date": "2026-10-24", "url": "https://www.jalan.net/yad386600/" },
+        { "source": "Trip.com（Kosugi Resort Lodge）", "score": 8.5, "scale": 10, "review_count": 66, "checked_date": "2026-10-24", "url": "https://ph.trip.com/hotels/aso-hotel-detail-129930752/kosugi-resort-lodge" },
+        { "source": "tour.ne.jp（参考・件数少）", "score": 4.5, "scale": 5, "review_count": 1, "checked_date": "2026-10-24", "url": "https://www.tour.ne.jp/j_hotel/57889/" }
+      ],
+      "price_range_jpy": {
+        "note": "489ban予約ページの表示では、ドーム型グランピング『Glandome』が1名21,380円〜（2名1室利用時、Siriusタイプ）〜23,360円〜（グランドーム上位タイプ）。トレーラーハウスは朝食付き2名利用で15,400円〜（ポイント割引適用時13,552円〜）、カップル向けプランは17,400円〜（割引適用15,312円〜）。2024年3月新設の一棟貸しコテージ（57平米・薪ストーブ付）は別料金。いずれもプラン・時期・部屋タイプにより変動し、検索時点で多くの日程が『売り切れ』表示だった。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "阿蘇市乙姫、ゴルフコースに隣接する敷地に、ドーム型テント『Glandome（グランドーム）』・アメリカ製のトレーラーハウス・2024年3月新設の一棟貸しコテージ（薪ストーブ・展望デッキ付）という3タイプの宿泊棟を揃えたグランピングリゾート。ドームテントは雨天・冬季でも快適な空調完備で、各棟が独立しているため他の宿泊客と接することなく過ごせる。夕食では地元野菜のバーニャカウダやあか牛のBBQ、高菜飯などが用意され、犬同伴専用の別棟『with Dogs』も備える。温泉はなくシャワーのみだが、阿蘇の山並みを望む開放的なロケーションが特徴。",
+      "renewal_or_news": "2024年3月に一棟貸しコテージと犬同伴専用棟『with Dogs』が新設されたという情報を複数の予約サイト（489ban）で確認した。2025年には春季プランの予約案内も出ており、継続的に運営・更新されていることが確認できる。",
+      "target_audience": ["カップル", "記念日", "夫婦", "友人", "家族"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 12,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 76,
+      "recommendation_reason": "じゃらんnet（施設全体・93件・4.1）とTrip.com（66件・8.5/10＝5点満点換算4.25）という性質の異なる独立2サイトでいずれも推奨ライン4.0以上を確認できた（原則6・7）。ドーム型テント・トレーラーハウス・一棟貸しコテージという3タイプから選べる構成は阿蘇エリアでも独自性が高く、2024年3月のコテージ・犬同伴棟新設という情報の鮮度もある。一方で温泉がなくシャワーのみである点、接客・設備面で細かな不満も見られる点を踏まえ、スコアは76点（採用ライン75点をやや上回る水準）とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "同運営・同敷地内のじゃらん『コスギリゾート・ロッジ』の口コミ（2025年12月宿泊）では、夜間に隣室のドアの開閉音が響いて気になったという指摘、食器が用意されず紙皿・紙コップ・割り箸のみだったという指摘、受付がゴルフ場敷地内にあり分かりにくく道に迷ったという指摘（評価3点）があった。公式案内でも温泉利用不可（シャワーのみ）、ペット同伴は『with Dogs』棟限定でGlandome本体は不可と明記されている。衛生・安全上の重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "KOSUGI RESORT 公式サイト（489ban予約ページ上の案内より確認。www.kosugiresort.com）", "url": "https://www.kosugiresort.com/" },
+        { "type": "booking_site", "title": "宿・ホテル > 熊本県 > 阿蘇 > 阿蘇・内牧 > KOSUGI RESORT(コスギリゾート) - じゃらんnet", "url": "https://www.jalan.net/yad386600/" },
+        { "type": "booking_site", "title": "Kosugi Resort Lodge - Trip.com（口コミ8.5/10・66件）", "url": "https://ph.trip.com/hotels/aso-hotel-detail-129930752/kosugi-resort-lodge" },
+        { "type": "review_site", "title": "コスギリゾート・ロッジ クチコミ・評価（同運営・同敷地内の別棟、接客/設備に関する口コミ） - じゃらんnet", "url": "https://www.jalan.net/yad377464/kuchikomi/" },
+        { "type": "other", "title": "KOSUGI RESORT(コスギリゾート) 施設・料金情報 - tour.ne.jp", "url": "https://www.tour.ne.jp/j_hotel/57889/" },
+        { "type": "other", "title": "KOSUGI RESORT 489ban予約詳細ページ（グランドーム/トレーラー/コテージの部屋タイプ・料金）", "url": "https://reserve.489ban.net/client/kosugiresort/0/detail/748763" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-24-aso-farmland-kenkou-no-mori",
+      "name": "阿蘇ファームランド 大自然阿蘇健康の森（ドーム型宿泊棟）",
+      "region": "熊本県阿蘇郡南阿蘇村",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.52, "scale": 5, "review_count": 78, "checked_date": "2026-10-24", "url": "https://4travel.jp/dm_hotel-10038623" }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベル経由の掲載で最安1部屋1泊13,500円〜と確認。ただし施設利用（温泉・体験施設等）は別料金が必要な場合がある。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "健康増進をテーマにした複合レジャー施設『阿蘇ファームランド』内にあるドーム型宿泊棟。運動施設・動物ふれあい・手作り体験・温泉など1日中遊べるコンテンツが充実している。宿泊プランは1泊から、本格的に取り組む場合は3泊4日の長期プランもある。",
+      "target_audience": ["家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 11,
+        "review_reliability": 8,
+        "unique_experience_score": 13,
+        "photogenic": 9,
+        "value_for_price": 4,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 52,
+      "recommendation_reason": "ドーム型宿泊棟に温泉・運動施設・動物ふれあいが揃う複合性はあるが、主要レビューサイト（フォートラベル3.52／78件）が推奨ライン4.0未満であり、原則6の採用ラインを満たさない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "いこーよ掲載の口コミ（2025年8月・2026年2月投稿）では、宿泊料金に体験アクティビティが含まれると思っていたら別料金だったという指摘や、雨で動物ふれあいを諦めた、改装中の施設があったという声があった。フォートラベルの項目別評価でもバリアフリーが2.87と低く、Yahoo!トラベルの項目別評価は客室4.15〜温泉4.77まで幅があり評価が一定しない。安全・衛生上の重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "阿蘇ファームランド（大自然阿蘇健康の森） 口コミ（みんなの満足度3.52・78件） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10038623" },
+        { "type": "booking_site", "title": "宿・ホテル > 熊本県 > 阿蘇 > 南阿蘇 > 大自然阿蘇健康の森/阿蘇ファームランド - じゃらんnet", "url": "https://www.jalan.net/yad318675/" },
+        { "type": "booking_site", "title": "阿蘇ファームランド 施設ページ（項目別評価） - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00900786" },
+        { "type": "other", "title": "阿蘇ファームランド 口コミ・体験施設情報 - いこーよ", "url": "https://iko-yo.net/facilities/2286/experiences" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイト（フォートラベル3.52／78件）が推奨ライン4.0未満（原則6）。アクティビティ利用に別料金が必要という価格体系の分かりにくさもあり、グランピングというより健康増進・複合レジャー施設としての側面が強く、独自のドーム型グランピング体験を前面に出せるKOSUGI RESORTと比べて今回のテーマへの適合度・評価の確からしさが劣るため不採用とした。"
+    }
+  ],
+  "selected": "2026-10-24-kosugi-resort-glandome-aso",
+  "cycle_result_note": "今回のサイクルでは熊本県阿蘇エリアのグランピング系施設を3件調査した。『KOSUGI RESORT（コスギリゾート）／Glandome』は、じゃらんnet（施設全体93件・4.1）とTrip.com（66件・8.5/10＝4.25換算）という独立2サイトで推奨ライン4.0以上を確認でき、ドーム型テント・トレーラーハウス・一棟貸しコテージという3タイプの宿泊構成という独自性、2024年3月のコテージ・犬同伴棟新設という鮮度も確認できたため、総合スコア76点でselectedとした。『阿蘇ファームランド 大自然阿蘇健康の森』はフォートラベル評価3.52（78件）で推奨ライン4.0未満のため不採用。加えて『グランピングリゾートASO』（ホテルグリーンピア南阿蘇内）についてもWebSearchで調査したが、(1) 熊日新聞の見出しで同ホテルの改装・リブランド（『ラビスタ』への改装）に関する報道が見つかり現在の名称・営業形態を確定できなかったこと、(2) フォートラベル側のクチコミは『とても良い26／良い35／普通11／悪い0』という段階別件数の表示のみで、施設側が公表する単一の総合点数を確認できなかったこと、の2点から、推測で数値を作らず（捏造禁止）、今回は正式な候補データとして記録せず除外した。次回以降、ホテル名・営業形態が確定した時点で再調査する。"
+}

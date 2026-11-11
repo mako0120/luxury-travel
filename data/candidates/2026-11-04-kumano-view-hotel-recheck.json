@@ -1,0 +1,159 @@
+{
+  "cycle_date": "2026-11-04",
+  "theme": "カテゴリ『絶景ホテル』×地域『三重県熊野市（七里御浜・鬼ヶ城エリア）』再調査サイクル（本日2回目・絶景ホテルカテゴリ最終）",
+  "season_rationale": "七里御浜（世界遺産・日本の渚百選、熊野市〜御浜町〜紀宝町にまたがる約22kmの砂礫海岸）と鬼ヶ城（日本百景・国指定名勝天然記念物・世界遺産）は、台風シーズンが落ち着く11月は波・海況が比較的安定し、海岸沿いの遊歩道や展望地点を歩きやすい時期にあたる。熊野古道・花の窟神社・獅子岩など周辺の世界遺産スポットとも組み合わせやすく、南紀の中でも那智勝浦・白浜ほど知られていない熊野市エリアの絶景拠点を発掘する狙いで調査した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-11-04-sadamisaki-view-hotel", "region": "愛媛県西宇和郡伊方町・佐田岬エリア", "category": "絶景ホテル", "note": "本日1回目の絶景ホテルサイクル。地域が異なるため重複しない。" },
+    { "post_id": "2026-11-01-shikotsuko-view-hotel", "region": "北海道千歳市・支笏湖エリア", "category": "絶景ホテル" },
+    { "post_id": "2026-10-31-hamanako-view-hotel", "region": "静岡県浜松市（浜名湖）", "category": "絶景ホテル" },
+    { "post_id": "2026-10-30-mikatagoko-view-hotel", "region": "福井県三方郡美浜町（三方五湖）", "category": "絶景ホテル" },
+    { "post_id": "2026-10-29-nachikatsuura-view-hotel", "region": "和歌山県東牟婁郡那智勝浦町（勝浦温泉エリア）", "category": "絶景ホテル", "note": "地理的に熊野灘を挟んで近接するエリアだが、行政区・地域指定（那智勝浦町）が異なり、カテゴリ内で重複する候補は含まれない。" },
+    { "post_id": "2026-10-28-tsunoshima-ohashi-view-hotel", "region": "山口県下関市（角島大橋）", "category": "絶景ホテル" },
+    { "post_id": "2026-10-27-niseko-yotei-view-hotel", "region": "北海道虻田郡ニセコ町・倶知安町", "category": "絶景ホテル" },
+    { "post_id": "2026-10-25-chuzenjiko-view-hotel", "region": "栃木県日光市（中禅寺湖）", "category": "絶景ホテル" },
+    { "post_id": "2026-10-23-suwako-view-hotel", "region": "長野県諏訪市・岡谷市（諸湖）", "category": "絶景ホテル" }
+  ],
+  "duplication_note": "data/candidates・captions配下の既存全件（2026-09-14〜2026-11-04、1ヶ月以上前を含む）を『熊野市』『七里御浜』『鬼ヶ城』『kumano』『onigajo』『shichiri』で全文検索した。ファイル名・本文に『熊野』を含むものはあったが、いずれも（1）和歌山県那智勝浦町『碧き島の宿 熊野別邸 中の島』（2026-10-29-nachikatsuura-view-hotel.json内、施設名に『熊野』を含むのみで所在地は那智勝浦町）、（2）三重県鳥羽市・志摩市の伊勢志摩グランピング/オールインクルーシブ候補、（3）無関係な『三重』の部分一致、のいずれかで、三重県熊野市（七里御浜・鬼ヶ城エリア）を対象地域とした『絶景ホテル』調査はこれまで存在せず、本サイクルが初回調査となる。",
+  "research_note": "WebSearchで『熊野市 七里御浜 鬼ヶ城 絶景ホテル 口コミ』『熊野市 ホテル 絶景 オーシャンビュー』『熊野市 ホテル 太平洋 一望 露天風呂 高台』など多数のクエリで調査した。熊野市内で絶景性・評価の確認が取れた施設として（1）里創人 熊野倶楽部（高台のオールスイートリゾート）、（2）ホテルなみ（鬼ヶ城近くのオーシャンビュー・ビジネスホテル）を、また隣接する御浜町（七里御浜沿い・熊野市のすぐ南）の（3）フェアフィールド・バイ・マリオット・三重熊野古道みはまを比較対象として調査・採点した。このほか、ビジネスホテル七里ヶ浜（熊野市有馬町、口コミ1件・2013年投稿のみ）、ビジネス旅館 潮音（熊野市有馬町、楽天トラベル評価3.5）、ICOTTO（御浜町、口コミ件数を確認できず）も検索したが、件数不足・評価の裏付け不足のため正式candidateには含めず本文に記録のみとする。里創人 熊野倶楽部は楽天トラベル（4.54・1,058件、たびねす/G-point掲載の集計経由で確認）とskyticket（複数予約サイト集計・4.6・906件）という独立2情報源でいずれも4.0超・件数も十分であり、高台のみかん畑に囲まれた全42室オールスイート・美食オールインクルーシブという独自性もあるため選定した。ホテルなみは楽天トラベル4.48（632件）・じゃらん4.4（48件）とも良好だが、鬼ヶ城直近・オーシャンビューという強みはあるものの、客室が狭くビジネスホテル的という口コミが多く『絶景ホテル』として打ち出す上での独自性・写真映えが里創人 熊野倶楽部に比べて見劣りするため不採用。フェアフィールド・バイ・マリオット・三重熊野古道みはまはじゃらん4.8（90件）と評価自体は高いが、所在地が三重県南牟婁郡御浜町であり熊野市ではないこと、室内から七里御浜を望める保証がある『絶景』訴求ではなく道の駅隣接の実用的なセレクト型ホテルであることから、本サイクルの対象地域（熊野市）外として不採用とした。なお本セッションはWebFetchによるtravel.rakuten.co.jp・news.allabout.co.jp・www.mapple.net等への直接アクセスがネットワーク制限により行えず、本サイクルの事実確認はすべてWebSearchの検索結果（スニペット・要約）に基づく。制作工程に進む場合は各予約サイト・公式サイトで最新の口コミ件数・料金・営業状況を直接再確認することを推奨する。",
+  "candidates": [
+    {
+      "id": "2026-11-04-resort-kumano-club",
+      "name": "里創人 熊野倶楽部（Resort Kumano Club）",
+      "region": "三重県熊野市久生屋町1430",
+      "category": "絶景ホテル",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.54, "scale": 5, "review_count": 1058, "checked_date": "2026-11-04", "url": "https://travel.rakuten.co.jp/HOTEL/79395/review.html" },
+        { "source": "skyticket（複数予約サイト口コミ集計）", "score": 4.6, "scale": 5, "review_count": 906, "checked_date": "2026-11-04", "url": "https://skyticket.jp/hotel/detail/property_12920/" },
+        { "source": "るるぶトラベル", "score": 4.1, "scale": 5, "review_count": 32, "checked_date": "2026-11-04", "url": "https://www.rurubu.travel/hotel/japan/kumano/resort-kumano-club" }
+      ],
+      "price_range_jpy": {
+        "note": "近畿日本ツーリスト（KNT）掲載では大人1名あたり26,300円〜105,900円、JTB掲載では2名1室1泊で1名あたり61,500円〜143,300円（松阪牛ステーキ付きプラン等）という参考価格を確認した。美食オールインクルーシブ（ドリンク・夜食含む）のためプラン・部屋タイプ・時期により大きく変動する。",
+        "as_of_search_date": "2026-11-04",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "伊勢から熊野へ向かう道沿い、みかん畑が広がる高台に建つ、客室全42室がオールスイートのリゾート。露天風呂付き客室やキッチン付きの部屋、離れタイプの部屋があり、各室にバルコニーを備える。大浴場『湯処 湯あみぼっこ』は新湯ノ口温泉から引いた湯を使い、内風呂・露天風呂とも全面畳敷きという趣向が特徴（露天風呂は屋根なし・男女別、入浴可能時間6:00〜9:30・14:00〜23:00）。食事は『美食オールインクルーシブ』をテーマに、松阪牛ステーキ付きプランなどを含む半バイキング形式で、ドリンク・湯上りの牛乳やサイダー等のサービスも含まれる。周辺には産田神社（約2.7km）・花の窟神社（約3.6km）・獅子岩（約4.3km）・鬼ヶ城（約6.1km）が集まり、世界遺産・絶景スポット巡りの拠点として機能する。",
+      "renewal_or_news": "開業年・直近の改修歴を示す公式発表はWebSearchの範囲では確認できなかった。一方、2026年7月23日〜10月31日設定の季節限定プラン（松阪牛ステーキ付き）が継続的に展開されており、2026年6月・2026年3月時点の新しい口コミ投稿も複数確認できることから、現在も通常営業を継続していると判断した。休業・閉館を示す情報は確認できなかった。",
+      "target_audience": ["カップル", "記念日", "夫婦", "絶景好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 15,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 78,
+      "recommendation_reason": "楽天トラベル（4.54・1,058件）とskyticket集計（4.6・906件）という件数の多い独立2情報源でいずれも4.0超を確認でき、原則6・7の基準を満たす。全42室オールスイート・露天風呂付き客室・畳敷きの大浴場露天風呂・美食オールインクルーシブという独自性が高く、花の窟神社・獅子岩・鬼ヶ城など熊野市の世界遺産・名勝が車で15分圏内に集まる立地も、絶景観光の拠点として訴求しやすい。眺望の中心は高台のみかん畑・熊野の山々で、室内から太平洋そのものを望めるという直接の記述は確認できなかった点は留意事項として記載したが、独立した好意的な口コミでは『お部屋からの眺めが絶景でした』という投稿もあり、総合的に絶景ホテルカテゴリの候補として選定した。那智勝浦・白浜など周辺の有名温泉地に比べて全国的な知名度は高くない、知られていない良さを伝える価値のある施設と判断し、is_hidden_gemをtrueとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "検索結果の中心となった楽天トラベル・skyticket・るるぶトラベルでは低評価・衛生面・安全面に関わる重大な指摘は確認できなかった。件数の少ない個別サイト（jcation、口コミ4件・平均4.3）には2018年投稿の評価3.0（『普通』）という投稿が1件あったが、具体的な不満内容の記載はなく、件数が極端に少ないため全体評価への影響は限定的と判断した。また、施設の大浴場について『温泉ではない』と記載する情報源と、『新湯ノ口温泉の湯を引いている』と記載する情報源が混在しており、この点は運営方針の変更か情報源間の表記の違いの可能性があり、制作時には最新の公式表記を直接確認する必要がある。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "観光三重（三重県観光連盟公式サイト）掲載の紹介文では、里創人 熊野倶楽部は『「食事」「宿泊」「体験」を通じて人と自然に出会い、熊野をもっと感じていただく為のリゾート施設です』と位置づけられている。客室は全室スイートとし、自然を感じられるように設計された露天風呂付きの部屋や離れタイプの部屋を含むと各予約サイトで紹介されている。大浴場『湯処 湯あみぼっこ』は新湯ノ口温泉の湯を引き、内風呂・露天風呂とも全面畳敷きという趣向を取り入れているとニフティ温泉の施設ページに記載がある。食事は『美食オールインクルーシブ』をコンセプトに、ドリンクや夜食まで含めた自由度の高い滞在スタイルを打ち出していると近畿日本ツーリスト（KNT）の紹介文にある。一方で、開業年、建築・インテリアの設計者名、運営会社の正式名称、創業者・代表者本人が開業やリゾートのコンセプトについて直接語った一次インタビュー記事や改修の経緯は、今回のWebSearchの範囲では公式プレスリリースを含めて確認できなかった。推測や発言の創作は行っていない。",
+        "sources": [
+          { "type": "other", "title": "東紀州(熊野市・紀北町)のおすすめホテル・旅館・宿特集! 熊野古道伊勢路を歩こう♪ - 観光三重（三重県観光連盟公式サイト）", "url": "https://www.kankomie.or.jp/season/article/87" },
+          { "type": "booking_site", "title": "里創人 熊野倶楽部のご紹介 - 近畿日本ツーリスト", "url": "https://yado.knt.co.jp/st/S240119/" },
+          { "type": "other", "title": "里創人 熊野倶楽部 湯処 湯あみぼっこの温泉情報・口コミ情報 - 温泉タウン（ニフティ温泉）", "url": "https://onsen.nifty.com/kumano-onsen/onsen009896/" }
+        ]
+      },
+      "sources": [
+        { "type": "booking_site", "title": "里創人 熊野倶楽部のご紹介 - 近畿日本ツーリスト", "url": "https://yado.knt.co.jp/st/S240119/" },
+        { "type": "review_site", "title": "里創人 熊野倶楽部 クチコミ・レビュー（総合4.54・1,058件） - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/79395/review.html" },
+        { "type": "other", "title": "里創人 熊野倶楽部 施設詳細・クチコミ集計（総合4.6・906件） - skyticket", "url": "https://skyticket.jp/hotel/detail/property_12920/" },
+        { "type": "other", "title": "里創人 熊野倶楽部 (Resort Kumano Club) - るるぶトラベル", "url": "https://www.rurubu.travel/hotel/japan/kumano/resort-kumano-club" },
+        { "type": "other", "title": "里創人 熊野倶楽部 湯処 湯あみぼっこの温泉情報、お得なクーポン、口コミ情報 - 温泉タウン（ニフティ温泉）", "url": "https://onsen.nifty.com/kumano-onsen/onsen009896/" },
+        { "type": "other", "title": "東紀州(熊野市・紀北町)のおすすめホテル・旅館・宿特集! 熊野古道伊勢路を歩こう♪ - 観光三重（三重県観光連盟公式サイト）", "url": "https://www.kankomie.or.jp/season/article/87" }
+      ],
+      "decision": "selected",
+      "rejection_reason": ""
+    },
+    {
+      "id": "2026-11-04-hotel-nami-kumano",
+      "name": "ホテルなみ",
+      "region": "三重県熊野市大泊町（鬼ヶ城より約600m）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.48, "scale": 5, "review_count": 632, "checked_date": "2026-11-04", "url": "https://travel.rakuten.co.jp/ranking/sales/mie/kumano_0007_0_0_0_0.html" },
+        { "source": "じゃらん", "score": 4.4, "scale": 5, "review_count": 48, "checked_date": "2026-11-04", "url": "https://www.jalan.net/ranking/hotel/SML_242005.html" }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらん掲載の最安料金は税込4,950円〜（大人2名利用時の1名あたり想定）。朝食付きプラン・素泊まりプランなど複数あり、具体的な条件は変動する。",
+        "as_of_search_date": "2026-11-04",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "熊野市大泊町、鬼ヶ城から約600mの国道42号沿いに建つ、海面より高い位置にあるため眺望が良いとされるオーシャンビューホテル。客室の一部はシービュー指定が可能で、熊野灘を望めるとされる。展望風呂（温泉ではない）を備えるが、大浴場は夕方以降のみの利用で朝は入浴できないとの口コミがある。価格が手頃で、鬼ヶ城観光の前泊・後泊に使いやすい立地が評価されている。",
+      "renewal_or_news": "改修・リニューアルに関する最新情報はWebSearchの範囲では確認できなかった。",
+      "target_audience": ["一人旅", "家族", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 12,
+        "unique_experience_score": 10,
+        "photogenic": 8,
+        "value_for_price": 9,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 66,
+      "recommendation_reason": "楽天トラベル（4.48・632件）、じゃらん（4.4・48件）という独立2情報源でいずれも4.0超を確認でき、鬼ヶ城直近・オーシャンビューという立地の強みと価格の手頃さは評価できる。一方で、口コミでは『部屋が狭い』『ビジネスホテル的』という指摘が多く、温泉ではない展望風呂の利用時間も限られるなど、絶景ホテルカテゴリとして写真映え・独自の滞在体験を打ち出す上での訴求力が里創人 熊野倶楽部に比べて弱く、score（66点）も採用基準の75点に届かないため今回は不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベル等の個別口コミでは、海側の眺望は良いという声が多い一方、部屋が狭い・ビジネスホテル的という指摘、大浴場は夕方からのみで朝は利用できなかったという指摘があった（いずれも2018年・2022年投稿が中心で、最新の運用は未確認）。衛生面・安全面に関わる重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "ホテル なみ (Hotel Nami) - るるぶトラベル", "url": "https://www.rurubu.travel/hotel/japan/kumano/hotel-nami" },
+        { "type": "review_site", "title": "ホテルなみ クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-10221100" },
+        { "type": "other", "title": "三重県熊野・尾鷲・紀北 ビジネスホテルランキング（じゃらん）", "url": "https://www.jalan.net/ranking/business/SML_242005.html" },
+        { "type": "booking_site", "title": "ホテルなみのご紹介 - 近畿日本ツーリスト", "url": "https://yado.knt.co.jp/st/S240370/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score（66）が選定基準の75点に届かず、客室の狭さ・設備の簡素さを指摘する口コミも複数あるため、絶景ホテルカテゴリとしての体験価値が里創人 熊野倶楽部に比べて見劣りすると判断し不採用とした。"
+    },
+    {
+      "id": "2026-11-04-fairfield-marriott-mie-mihama",
+      "name": "フェアフィールド・バイ・マリオット・三重熊野古道みはま",
+      "region": "三重県南牟婁郡御浜町阿田和（熊野市に隣接、七里御浜沿い）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらん", "score": 4.8, "scale": 5, "review_count": 90, "checked_date": "2026-11-04", "url": "https://www.jalan.net/yad342536/" },
+        { "source": "icotto", "score": 3.5, "scale": 5, "review_count": 1, "checked_date": "2026-11-04", "url": "https://icotto.jp/hotels-12026/" }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらん掲載では大人2名1泊合計11,798円〜（1名あたり5,899円〜）、travelistでは大人1名1泊16,800円〜、cocolocalaでは16,174円〜という掲載を確認した。無料朝食は提供されない（公式FAQより）。",
+        "as_of_search_date": "2026-11-04",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "JR阿田和駅から徒歩約2分、道の駅に隣接する2024年前後開業とみられるマリオット系セレクトホテル。客室は約25㎡でレインシャワー付きバスルームを備え、七里御浜海岸への観光アクセスが良い立地が特徴。ただし客室から七里御浜・熊野灘を直接望めるオーシャンビューという記述は確認できず、設備は『コンパクトながら機能的』という実用性重視の紹介が中心。",
+      "renewal_or_news": "開業時期を示す公式な一次情報はWebSearchの範囲では確認できなかったが、ホテルコード（NGOFM）や口コミの投稿時期（2024年5月以降）から、比較的新しい施設であると推測される。",
+      "target_audience": ["一人旅", "家族", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 10,
+        "unique_experience_score": 8,
+        "photogenic": 7,
+        "value_for_price": 7,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 62,
+      "recommendation_reason": "じゃらん（4.8・90件）の評価は高く、マリオットブランドの安心感・七里御浜への近さは強みだが、所在地が三重県南牟婁郡御浜町であり、本サイクルの対象地域である熊野市ではない。また客室からの海の眺望を保証する記述が確認できず、『絶景』よりも実用的なセレクトホテルとしての性格が強い。score（62）も採用基準に届かないため、対象地域・独自性の両面から今回は不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "無料朝食が付かない点を公式FAQで確認したが、具体的な不満を書いた個別口コミは今回のWebSearchでは見つからなかった。icottoの口コミ（1件、評価3.5）は本文を確認できなかった。衛生面・安全面に関わる重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "フェアフィールド・バイ・マリオット・三重熊野古道みはま - じゃらん", "url": "https://www.jalan.net/yad342536/" },
+        { "type": "official", "title": "Fairfield by Marriott Mie Kumano Kodo Mihama - Marriott公式サイト", "url": "https://www.marriott.com/ja/hotels/ngofm-fairfield-mie-kumano-kodo-mihama/rooms/" },
+        { "type": "other", "title": "- オーシャンビュー - icotto", "url": "https://icotto.jp/hotels-12026/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "所在地が熊野市ではなく隣接する御浜町であり、本サイクルの対象地域（三重県熊野市）外。score（62）も採用基準の75点に届かず、客室からの絶景を保証する記述も確認できないため不採用とした。"
+    }
+  ]
+}

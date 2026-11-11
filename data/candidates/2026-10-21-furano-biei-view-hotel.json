@@ -1,0 +1,102 @@
+{
+  "cycle_date": "2026-10-21",
+  "theme": "北海道富良野・美瑛エリアの絶景ホテル（十勝岳連峰ビュー）",
+  "season_rationale": "10月下旬の富良野・美瑛エリアは紅葉が見頃の時期にあたり（例年10月上旬〜下旬が目安）、十勝岳連峰の麓の紅葉も鮮やかになる。朝晩の冷え込みで空気が澄み、山頂に初雪がかかる年もあるため、麓の紅葉と山頂の冠雪のコントラストが一年で最も映えるタイミングの一つであり、年末年始に向けた旅行検討が始まる時期にも合う。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-20-aso-canyon-terrace-lodge", "region": "熊本県阿蘇郡南阿蘇村", "category": "絶景ホテル" },
+    { "post_id": "2026-10-19-ibusuki-ginsho", "region": "鹿児島県指宿市", "category": "絶景ホテル" },
+    { "post_id": "2026-10-18-miyajima-seaside-hotel", "region": "広島県廿日市市宮島町", "category": "絶景ホテル" },
+    { "post_id": "2026-10-17-atami-sekaie", "region": "静岡県熱海市伊豆山", "category": "絶景ホテル" },
+    { "post_id": "2026-10-16-kai-sengokuhara", "region": "神奈川県足柄下郡箱根町仙石原", "category": "絶景ホテル" }
+  ],
+  "duplication_note": "依頼時に指定された地域『北海道富良野・美瑛エリア』は、captions/・data/candidates双方の全履歴（2026-09-14〜2026-10-20）を確認した限り、同エリアの絶景ホテル・view hotel系の投稿は過去に存在しない（北海道関連では占冠村トマムの雲海テラス・クラブメッド、十勝・札幌・知床・定山渓・豊平峡・上富良野のグランピング『NORTH GLAMPER 富良野』（2026-09-22、カテゴリ：グランピング）等があるのみで、施設・地域ともに重複なし）。一方でカテゴリ『絶景ホテル』は直近5サイクル（10/16箱根・10/17熱海・10/18宮島・10/19指宿・10/20阿蘇）で連続して選定カテゴリとなっており、原則29（地域・カテゴリの連続回避）の観点では累積的な留意事項にあたる。本サイクルも依頼時に『絶景ホテル』カテゴリが明示的に指定されたためこのまま調査したが、地域側は本州・離島・火山高原とは全く異なる北海道内陸の盆地×山岳景観を選ぶことで地域側の重複は避けた。次回サイクルでは温泉旅館・グルメ旅館・グランピング・列車/船・文化体験等、カテゴリの切り替えを強く推奨する。",
+  "research_notes": "本サイクルでは『新富良野プリンスホテル』（楽天トラベル総合4.29、JTBアンケート総合81点）と『森の旅亭びえい』（じゃらん掲載で高評価との言及あり）もWebSearchで調査対象としたが、いずれも検索結果のスニペットからは信頼できる口コミ件数（review_count）を確認できず、またホテル個別ページの直接URLも確定できなかった（EGRESS_BLOCKEDによりWebFetchでの直接確認も不可）。数値のない評価情報を候補として記録することは実体のない数値の記載につながるため、本サイクルの正式な候補エントリ（candidates配列）には含めず、ここに調査経緯のみ記録する。",
+  "candidates": [
+    {
+      "id": "2026-10-21-lavista-furano-hills",
+      "name": "天然温泉 紫雲の湯 ラビスタ富良野ヒルズ（ドーミーインチェーン）",
+      "region": "北海道富良野市（JR富良野駅から徒歩約3分）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらん", "score": 4.5, "scale": 5, "review_count": 909, "checked_date": "2026-10-21", "url": "https://www.jalan.net/yad304250/" },
+        { "source": "skyticket", "score": 4.5, "scale": 5, "review_count": 3500, "checked_date": "2026-10-21", "url": "https://skyticket.jp/hotel/hokkaido/st_10110/" },
+        { "source": "フォートラベル", "score": 4.0, "scale": 5, "review_count": 37, "checked_date": "2026-10-21", "url": "https://4travel.jp/dm_hotel_tips/14922936" }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらん掲載（2026年8月4日更新）の最安料金目安は大人2名利用時1名あたり5,750円〜（税込、素泊まり想定）。別の旅行サイトでは禁煙クイーンルーム9,900円〜、朝食付きプラン13,300円〜、スーペリアツイン12,700円〜（1名1室1泊の参考料金）という表示も確認した。夕食付きプランの具体的な金額はWebSearchのスニペットからは確認できず、正確な金額は日付・人数を指定して予約サイトで要確認。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "JR富良野駅から徒歩約3分という市街地アクセスの良さを持ちながら、最上階の天然温泉大浴場『紫雲の湯』の露天風呂から富良野の街並みと十勝岳連峰を一望できるのが最大の特徴。大浴場にはサウナ・水風呂（12〜13度）があり、貸切風呂も複数利用可能。ドーミーインチェーン（共立メンテナンス運営）らしく、毎晩22時からの無料『夜鳴きそば』や、イクラなど道産海鮮を含む朝食ブッフェも魅力。",
+      "renewal_or_news": "2019年12月開業。大規模改修等の最新ニュースはWebSearchでは確認できなかったが、休業・閉鎖等のネガティブ情報も見当たらず、営業状況は安定していると判断できる。",
+      "target_audience": ["カップル", "夫婦", "友人", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 13,
+        "unique_experience_score": 16,
+        "photogenic": 13,
+        "value_for_price": 8,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 82,
+      "recommendation_reason": "じゃらん4.5（909件）・skyticket4.5（3,500件）・フォートラベル4.0（37件）と、規模の異なる3つの独立した情報源でいずれも推奨ライン4.0以上を確認できた（原則6・7）。JR富良野駅から徒歩約3分という市街地アクセスの良さと、最上階の天然温泉露天風呂から富良野盆地・十勝岳連峰を一望できる『街なか立地×絶景』の組み合わせが富良野・美瑛エリアの他宿と比べても独自性が高い。貸切風呂・サウナ・夜鳴きそば・海鮮入り朝食ブッフェと体験の厚みもあり、開業から時間が経っても休業・閉鎖等のネガティブ情報が見当たらない点も安心材料。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミでは、朝食の郷土料理（海鮮丼・スープカレー・ザンギ等）は美味しかったが旬のアスパラガスがなかった点を残念とする声があった。また紹介記事では、施設最寄りの第一駐車場は9台分と少なく夕方には埋まりやすいため、徒歩30秒の第二駐車場（53台）の利用が案内されている。清潔感・接客・安全性に関わる重大な指摘は確認できず、除外基準（原則10）に該当する問題は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "天然温泉 紫雲の湯 ラビスタ富良野ヒルズ(ドーミーインチェーン) - じゃらん", "url": "https://www.jalan.net/yad304250/" },
+        { "type": "booking_site", "title": "天然温泉 紫雲の湯 ラビスタ富良野ヒルズ - skyticket", "url": "https://skyticket.jp/hotel/hokkaido/st_10110/" },
+        { "type": "review_site", "title": "天然温泉 紫雲の湯 ラビスタ富良野ヒルズ クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel_tips/14922936" },
+        { "type": "other", "title": "天然温泉 紫雲の湯 ラビスタ富良野ヒルズ - cocolocala", "url": "https://www.cocolocala.jp/hotels/27239" },
+        { "type": "other", "title": "富良野市の宿泊施設一覧 - jcation", "url": "https://jcation.com/hotel/prefecture-hokkaido/city-furano/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-21-furano-hotei-ryu",
+      "name": "フラノ寶亭留",
+      "region": "北海道富良野市学田",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "skyticket", "score": 4.4, "scale": 5, "review_count": 107, "checked_date": "2026-10-21", "url": "https://skyticket.jp/hotel/detail/property_17366/" }
+      ],
+      "price_range_jpy": {
+        "note": "営業状況に疑義があるため（下記参照）、本サイクルでは料金情報の確認・掲載を見送った。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "敷地内に広大なラベンダー畑を持つ富良野市学田のリゾートホテルで、フレンチレストランを併設。フォートラベルの口コミ内訳（57件：とても良い34・良い21・普通1・悪い0・とても悪い0）やskyticketの4.4（107件）など、運営されていた時期の評価自体は高かった。",
+      "renewal_or_news": "フォートラベルの施設ページには『※フラノ寶亭留は閉鎖しました』という表示があり、閉鎖の時期・経緯は確認できなかった。一方でLiveJapan等の別サイトは営業中を前提とした記載のままであり、どちらが現状を反映しているかWebSearchのスニペットからは確定できなかった（原則4：情報の新しさの確認に失敗）。",
+      "target_audience": ["カップル", "記念日", "夫婦", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 10,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 4,
+        "sns_buzz": 6,
+        "access_and_freshness": 1
+      },
+      "score": 73,
+      "recommendation_reason": "skyticketで107件・4.4という高評価や敷地内のラベンダー畑という独自性があり候補として調査したが、フォートラベルに『閉鎖しました』という表示があり、2026年10月時点の営業状況をWebSearchでは確認できなかったため不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベルの口コミ（2024年12月投稿）では内容・価格には満足する声があった一方、バルコニーに虫の死骸が多く清掃面を残念とする指摘があった。加えてフォートラベルに施設が閉鎖した可能性を示す表示があり、営業状況自体の信頼性に疑問が残る。現時点で実在・営業を確認できない施設を推奨することはできないと判断した。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "review_site", "title": "フラノ寶亭留 クチコミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10060009" },
+        { "type": "booking_site", "title": "フラノ寶亭留 - skyticket", "url": "https://skyticket.jp/hotel/detail/property_17366/" },
+        { "type": "other", "title": "Furano Hotei-ryu - LiveJapan", "url": "https://livejapan.com/en/in-hokkaido/in-pref-hokkaido/in-furano_biei_sounkyo/spot-lj0008317" },
+        { "type": "other", "title": "フラノ寶亭留 宿泊プラン - travelist", "url": "https://travelist.jp/hotel/detail/5004825" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "フォートラベルに『※フラノ寶亭留は閉鎖しました』という表示があり、他サイトの記載が古い可能性を踏まえても2026年10月時点の営業状況を確定できなかった。評価点自体（skyticket4.4／107件）は高いが、実在・営業が確認できない施設を推奨することはできないため不採用とした（原則4）。"
+    }
+  ]
+}

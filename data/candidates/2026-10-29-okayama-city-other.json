@@ -1,0 +1,220 @@
+{
+  "cycle_date": "2026-10-29",
+  "theme": "その他（岡山県岡山市）",
+  "season_rationale": "10月下旬の岡山市は気候が落ち着き、屋外施設でも過ごしやすい季節。池田動物園は夏季の猛暑期を過ぎ、動物たちの活動時間帯も見やすくなるタイミングにあたり、11月以降は冬季営業時間（9:30〜16:30）に切り替わる直前の、日中を長く使える時期でもある。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-28-niigata-city-other", "region": "新潟県新潟市", "category": "その他" },
+    { "post_id": "2026-10-27-kumamoto-city-gentei-event", "region": "熊本県熊本市", "category": "その他" },
+    { "post_id": "2026-10-26-kyoto-afternoontea-gentei", "region": "京都府京都市東山区", "category": "その他" },
+    { "post_id": "2026-10-25-naha-gentei-event", "region": "沖縄県那覇市", "category": "その他" },
+    { "post_id": "2026-10-24-sapporo-gentei-event", "region": "北海道札幌市中央区", "category": "その他" },
+    { "post_id": "2026-10-23-kobe-afternoontea-gentei", "region": "兵庫県神戸市中央区", "category": "その他" },
+    { "post_id": "2026-10-21-hiroshima-afternoontea", "region": "広島県広島市中区・南区", "category": "その他" },
+    { "post_id": "2026-10-20-sendai-gentei-event", "region": "宮城県仙台市", "category": "その他" },
+    { "post_id": "2026-10-20-kurashiki-bikanchiku-culture", "region": "岡山県倉敷市", "category": "文化体験" }
+  ],
+  "duplication_note": "data/candidates・captions配下の既存ファイル全件（1ヶ月以上前のものを含む）を『岡山』『okayama』で横断検索した結果、岡山県関連の既出候補は倉敷市（美観地区の文化体験）のみで、岡山市かつカテゴリ『その他』での既出候補は存在しないため重複にはあたらない。",
+  "candidates": [
+    {
+      "id": "2026-10-29-ikeda-zoo-okayama",
+      "name": "池田動物園",
+      "region": "岡山県岡山市北区京山2-5-1",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "renewal_or_news": "2026年で開園73周年。『池田動物園73th開園記念祭』『世界カワウソの日2026』『モルモットとひなまつり』など、2026年の年間イベントが岡山県観光連盟サイトに継続的に掲載されており、現時点（2026年10月）でも通常営業していることが複数の時期の掲載情報から確認できる。",
+      "review_scores": [
+        {
+          "source": "いこーよ（施設ページ掲載の評価・口コミ件数）",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 20,
+          "checked_date": "2026-10-29",
+          "url": "https://iko-yo.net/facilities/4366/experiences"
+        },
+        {
+          "source": "tenki.jp（レジャー施設ページ掲載の評価・口コミ件数）",
+          "score": 4.3,
+          "scale": 5,
+          "review_count": 18,
+          "checked_date": "2026-10-29",
+          "url": "https://tenki.jp/leisure/7/36/232/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "入園料は大人（高校生以上）1,500円、小・中学生800円、幼児（3歳以上）400円、70歳以上750円という案内が複数サイトで確認できたが、岡山県観光連盟サイトでは大人1,300円との表記もあり、出典間でわずかな差がある。駐車場は普通車500円・大型車1,000円。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "1953年、旧岡山藩池田家16代当主・池田隆政氏と昭和天皇の第四女・厚子内親王の結婚を機に開園した、日本初の民間経営動物園とされる歴史ある動物園（この『日本初』という表現は複数の報道・観光メディアによるもので、公式資料での明言は本調査では確認できていない）。カピバラ・レッサーパンダ・コツメカワウソとのふれあいや、フラミンゴとの園内散歩など、動物との距離の近さを活かした体験プログラムが充実している。旧岡山藩主家の系譜という背景を持つ、岡山市ならではのストーリー性のある施設。",
+      "target_audience": ["家族", "カップル", "友人"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 10,
+        "unique_experience_score": 17,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 75,
+      "recommendation_reason": "いこーよ4.4（口コミ20件）、tenki.jp 4.3（口コミ18件）という独立した2つの口コミサイトでいずれも採用ライン4.0以上を満たしている。1953年開園・旧岡山藩池田家と皇室のつながりという歴史的ストーリー、カピバラ・コツメカワウソ等とのふれあい体験や2026年の年間イベント（73周年記念祭、世界カワウソの日など）という最新性も確認できた。一方で施設の古さを指摘する声や料金への不満といった口コミも一部に見られ、価格・SNS話題性のスコアは抑えめにした上で、100点満点中75点でselectedとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "いこーよの口コミには『檻が古くて使えない所もある』という指摘があり、4travel.jp掲載の2020年の口コミ（評価2.5）でも『古さが非常に目立ち、園内も荒れているように感じた』という記述が見られた。入園料に対するコストパフォーマンスを疑問視する声や、人気のふれあい体験の整理券が午前中になくなるという混雑に関する口コミもあった。2017年には来園者減少・累積赤字（岡山市長公式サイトによれば約2.49億円）を背景に岡山市への市営化要望が報じられているが、現在も民間運営のまま営業を継続しており、2026年の年間イベント情報も確認できている。本調査では動物福祉上の問題・虐待等の指摘、または営業継続に関わる重大な懸念は確認できなかった。ただし施設の古さに関する指摘は実際に訪問して確認すべき点として留意する。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "池田動物園は1953年、旧岡山藩池田家16代当主・池田隆政氏と昭和天皇の第四女・厚子内親王の結婚を機に、『池田産業動物園』として開園した。岡山県の公式ページでは、旧岡山藩主家の嫡男である隆政氏が『子どもたちの笑顔のために造った動物園』と紹介されている。報道（KSB瀬戸内海放送）によれば、前身は岡山市内山下にあった池田家の牧場で、結婚を機に現在の京山の地へ移り、動物園として整備されたとされる。隆政氏は2012年に逝去し、以降は厚子氏が園長を務めていると報じられている。『動物とのふれあいコーナーを日本で初めて設置した動物園』『日本初の民間経営動物園』という紹介は旅行メディア・報道記事に複数見られるが、池田動物園自体の公式サイトでこの『日本初』という表現を直接確認することは本調査ではできなかった。そのため、開園の経緯と『子どもたちのために』という創設者の思いについては岡山県公式ページ・報道の記述として記録し、『日本初』を巡る表現は出典が報道・メディアに限られる旨を明記する。改修方針や現経営陣の運営理念を直接述べた一次資料（公式サイトのメッセージ等）は本調査では確認できなかった。",
+        "sources": [
+          {
+            "type": "official",
+            "title": "岡山県公式ページ（池田隆政氏が『子どもたちの笑顔のために造った動物園』として紹介）",
+            "url": "https://www.pref.okayama.jp/site/art/889034.html"
+          },
+          {
+            "type": "press",
+            "title": "池田動物園の歴史・池田隆政氏・厚子氏に関する報道記事 - KSB瀬戸内海放送",
+            "url": "https://news.ksb.co.jp/article/15160821"
+          },
+          {
+            "type": "other",
+            "title": "池田動物園の前身（内山下の池田牧場）と移転経緯に関する紹介記事 - dime.jp",
+            "url": "https://dime.jp/genre/1205967/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "池田動物園 評価4.4・口コミ20件 - いこーよ",
+          "url": "https://iko-yo.net/facilities/4366/experiences"
+        },
+        {
+          "type": "review_site",
+          "title": "池田動物園 評価4.3・口コミ18件 - tenki.jp",
+          "url": "https://tenki.jp/leisure/7/36/232/"
+        },
+        {
+          "type": "other",
+          "title": "池田動物園 2026年開園記念祭・年間イベント情報 - 岡山県観光連盟",
+          "url": "https://www.okayama-kanko.jp/event/detail_100683.html"
+        },
+        {
+          "type": "other",
+          "title": "池田動物園 基本情報（料金・アクセス） - ジョルダン",
+          "url": "https://sp.jorudan.co.jp/zoo_aqua/spot_2969.html"
+        },
+        {
+          "type": "press",
+          "title": "池田動物園の歴史・経営に関する報道記事 - KSB瀬戸内海放送",
+          "url": "https://news.ksb.co.jp/article/15160821"
+        },
+        {
+          "type": "other",
+          "title": "池田動物園 口コミ（施設の古さに関する指摘） - 4travel.jp",
+          "url": "https://4travel.jp/dm_shisetsu/10000137"
+        }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-29-okayama-orient-museum",
+      "name": "岡山市立オリエント美術館",
+      "region": "岡山県岡山市北区天神町",
+      "category": "その他",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "Guide la Trip（施設ページ掲載の評価・評価件数）",
+          "score": 3.95,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-29",
+          "url": "https://www.gltjp.com/ja/directory/item/18433/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "一般310円（団体250円）、高校・大学生210円（160円）、小中生100円（80円）。休館日は月曜（祝日の場合翌日）と年末年始。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "古代メソポタミア文明からイスラム時代までのオリエント地域を専門に扱う、東アジアで唯一の公立専門美術館。アッシリア・レリーフ『有翼鷲頭精霊像浮彫』（イラク・ニムルド出土、紀元前9世紀）など約5,000点を収蔵。2階にはカフェも併設されている。",
+      "target_audience": ["一人旅", "夫婦", "友人"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 14,
+        "photogenic": 7,
+        "value_for_price": 8,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 35,
+      "recommendation_reason": "東アジア唯一のオリエント専門公立美術館という独自性、紀元前9世紀のアッシリア・レリーフを含む収蔵品は魅力的だが、Googleマップ・じゃらん・トリップアドバイザー等の主要口コミサイトでの評価・件数を本セッションのWeb検索では確認できず、唯一見つかったGuide la Tripの評価（3.95）も評価件数が1件のみで信頼性の判断材料として不十分。独立2情報源必須という原則を満たせないため不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "主要口コミサイトでの評価件数が確認できず、否定的な口コミの有無も含めて十分な確認ができなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "岡山市立オリエント美術館 評価3.95（評価1件） - Guide la Trip",
+          "url": "https://www.gltjp.com/ja/directory/item/18433/"
+        },
+        {
+          "type": "other",
+          "title": "岡山市立オリエント美術館 基本情報（収蔵品・料金・休館日） - 日本博物館協会",
+          "url": "https://www.museum.or.jp/museum/6149"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要口コミサイトでの評価件数・評価値を独立2情報源以上で確認できず（確認できた唯一の評価は件数1件のみ）、原則7（ファクトチェック）・原則6（独立2情報源必須）を満たさないため不採用とした。"
+    },
+    {
+      "id": "2026-10-29-handayama-botanical-garden",
+      "name": "半田山植物園",
+      "region": "岡山県岡山市北区",
+      "category": "その他",
+      "is_hidden_gem": true,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "入園料は大人310円、小人125円。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "岡山市街を見渡せる丘陵地に約3,200種・15万本の植物を管理育成する総合植物園。桜の名所として知られ、夜桜ライトアップも実施。初夏のアジサイも見どころとされる。",
+      "target_audience": ["夫婦", "友人", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 10,
+        "photogenic": 10,
+        "value_for_price": 8,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 34,
+      "recommendation_reason": "岡山市街を見渡す丘陵地の約3,200種・15万本という規模、桜・アジサイの季節的な見どころは魅力的だが、本セッションのWeb検索ではトリップアドバイザー等の口コミサイトへのリンクは見つかったものの、実際の評価点・口コミ件数という数値データには到達できず、独立2情報源必須という原則を満たせないため不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "数値での口コミ評価に到達できず、否定的な口コミの有無も確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "半田山植物園 基本情報（規模・料金・桜まつり） - 岡山県観光連盟",
+          "url": "https://www.okayama-kanko.jp/okatabi/257/page"
+        },
+        {
+          "type": "other",
+          "title": "半田山植物園 基本情報 - 日本博物館協会",
+          "url": "https://www.museum.or.jp/museum/6150"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要口コミサイトでの数値評価（評価点・口コミ件数）を本セッションのWeb検索では確認できず、原則6（独立2情報源必須・主要レビュー4.0以上）を満たすと判断できる一次データが不足するため不採用とした。"
+    }
+  ]
+}

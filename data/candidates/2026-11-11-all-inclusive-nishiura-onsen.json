@@ -1,0 +1,141 @@
+{
+  "cycle_date": "2026-11-11",
+  "theme": "オールインクルーシブカテゴリ：愛知県蒲郡市 西浦温泉エリア",
+  "season_rationale": "11月中旬は紅葉シーズンの本番に向かう時期で、三河湾を望む西浦温泉は海が最も穏やかで夕景が美しく見える晩秋にあたる。また西浦・形原漁港は秋から冬にかけてアカザエビやアサリなど三河湾の海の幸が旬を迎える時期でもあり、海鮮を主役にした宿泊体験の訴求力が高まるタイミングと考えられる。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-10-28-gamagori-mikawa-bay-cruise", "region": "愛知県蒲郡市（三河湾遊覧船エリア）", "category": "列車・船" },
+    { "candidate_id": "2026-10-29-inuyama-jokamachi-bunka-taiken", "region": "愛知県犬山市（犬山城下町エリア）", "category": "文化体験" },
+    { "candidate_id": "2026-10-28-imabari-kurushima-choryu", "region": "愛媛県今治市（来島海峡）", "category": "列車・船" },
+    { "candidate_id": "2026-11-10-mikawa-chita-ferry", "region": "愛知県知多半島（日間賀島・篠島航路）", "category": "列車・船" },
+    { "candidate_id": "2026-11-10-all-inclusive-miyazaki-seagaia", "region": "宮崎県宮崎市", "category": "オールインクルーシブ" },
+    { "candidate_id": "2026-11-09-all-inclusive-karatsu / 2026-11-09-all-inclusive-nichinan", "region": "佐賀県唐津市・宮崎県日南市", "category": "オールインクルーシブ" },
+    { "candidate_id": "2026-11-08-all-inclusive-tomigusuku-toyosaki / 2026-11-08-all-inclusive-yaese", "region": "沖縄県豊見城市・八重瀬町", "category": "オールインクルーシブ" }
+  ],
+  "duplication_note": "data/candidates・captions配下を『蒲郡』『西浦』『nishiura』『gamagori』のキーワードでファイル名・本文の両方で横断検索した（1ヶ月以上前の実績も含め全件確認）。愛知県蒲郡市に関する既存候補は2026-10-28-gamagori-mikawa-bay-cruise.json（三河湾遊覧船・列車・船カテゴリ、竹島ふ頭・ラグーナテンボス敷地内が対象でselected候補ゼロ件）のみで、西浦温泉エリア・オールインクルーシブカテゴリの組み合わせでの調査はこれまで一度も存在しないことを確認した。カテゴリ『オールインクルーシブ』自体は直近複数サイクルで連続採用されているが（宮崎・唐津・日南・豊見城・八重瀬等）、地域はいずれも沖縄・九州でこれまで愛知県は含まれておらず、依頼どおり西浦温泉エリアを調査した。",
+  "research_constraints": "このセッションのネットワーク環境では、じゃらん（jalan.net）・楽天トラベル（travel.rakuten.co.jp）への直接WebFetchがDNS解決不可（EGRESS_BLOCKED相当）であり、CLAUDE.mdの制約と同様、すべてWebSearchのスニペット経由で得られる情報のみを情報源とした。また本サイクル後半でエージェント全体で共有されるWebSearch回数の上限に到達し、以降の追加検索が実行できなくなったため、既に取得済みの検索結果のみで本ファイルをまとめている。\n\n最も重要な発見：西浦温泉エリア（愛知県蒲郡市西浦町）の宿泊施設を複数の検索語（『西浦温泉 オールインクルーシブ』『蒲郡 ホテル オールインクルーシブ』『site:jalan.net 西浦温泉 オールインクルーシブ』等）で横断的に調査した結果、西浦温泉エリアで『オールインクルーシブ』を明示的に名乗る施設・プランは本調査では一件も確認できなかった。西浦温泉は1泊2食付きの伝統的な旅館形式（会席料理・バイキング）が主流で、ドリンク・館内施設利用等を宿泊料に一括で含める『オールインクルーシブ』型へのリブランドの動きは確認できず、三重県鳥羽市（鳥羽オーシャンリゾート、2026-10-21選定済み）のような事例は見つからなかった。この点は依頼されたカテゴリ・地域の組み合わせ自体に該当施設が存在しない可能性を示しており、正直に記録する。\n\nそのため本サイクルでは、西浦温泉エリアの主要宿（全室オーシャンビューを掲げる3施設）を『オールインクルーシブ的な体験価値（食事・温泉・館内施設が一体となった宿泊体験）』の観点で調査対象とし、口コミ評価・ネガティブレビューを確認した上で、原則6・7の採用基準を満たすかを判定した。結果はいずれも不採用。",
+  "candidates": [
+    {
+      "id": "2026-11-11-ginpasou-nishiura",
+      "name": "旬景浪漫 銀波荘",
+      "region": "愛知県蒲郡市西浦町大山25（西浦温泉）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Relux", "score": 4.5, "scale": 5, "review_count": 51, "checked_date": "2026-11-11", "url": "https://rlx.jp/24266/review/" },
+        { "source": "フォートラベル（icotto集計転載分）", "score": 3.52, "scale": 5, "review_count": 249, "checked_date": "2026-11-11", "url": "https://icotto.jp/hotels/639" }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付きの会席料理中心の旅館で、具体的な料金帯はWebSearchのスニペットでは確認できなかった。ドリンク・館内施設利用等を一括で含める『オールインクルーシブ』型プランの存在は確認できていない。",
+        "as_of_search_date": "2026-11-11",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "西浦半島の高台に位置し、全客室・大浴場（光彩乃湯・風澄乃湯）・貸切露天風呂から三河湾を一望できる。最上階に宿泊者専用ラウンジがあり、将棋の宿としても知られる。地元の魚介・野菜を使った会席料理が特徴。",
+      "renewal_or_news": "2026年時点でのリニューアル・新プラン等のニュースは本調査では確認できなかった。",
+      "target_audience": ["カップル", "夫婦", "記念日", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 10,
+        "unique_experience_score": 10,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 54,
+      "recommendation_reason": "全室三河湾オーシャンビュー・最上階ラウンジ・貸切露天風呂という景観面の強みはあるが、口コミ件数が最も多い独立情報源（フォートラベル系、249件）では総合満足度3.52と原則6の最低ライン（4.0以上）を明確に下回り、Reluxの4.5（51件）とは評価が大きく割れている。原則6（主要レビュー4.0未満は原則不採用）に抵触するため採用ラインに届かない。また『オールインクルーシブ』を名乗るプラン・リブランドの事実も確認できず、依頼カテゴリとの整合性も弱い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベル系の口コミ転載では、バリアフリー評価が3.07と低く、食事の量が多すぎるという指摘があった。重大な衛生・安全面の指摘は確認できなかったが、249件という大規模サンプルで総合3.52という評価は、Reluxの少数サンプル（51件）での4.5評価と比べて実態をより反映している可能性がある。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "旬景浪漫 銀波荘 レビュー（総合4.5・51件） - Relux", "url": "https://rlx.jp/24266/review/" },
+        { "type": "review_site", "title": "西浦温泉 旬景浪漫 銀波荘（フォートラベル口コミ集計転載・総合満足度3.52・249件） - icotto", "url": "https://icotto.jp/hotels/639" },
+        { "type": "booking_site", "title": "旬景浪漫 銀波荘◆絶景温泉に癒され三河の美味を五感で楽しむ宿 - じゃらんnet", "url": "https://www.jalan.net/yad305469/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数が多い独立情報源（フォートラベル系249件）で総合3.52と原則6の最低ライン（4.0以上）を下回り、評価が情報源間で大きく割れている。『オールインクルーシブ』を名乗るプランの存在も確認できず、カテゴリ適合性も弱いため見送った。"
+    },
+    {
+      "id": "2026-11-11-suehiro-nishiura",
+      "name": "天空海遊の宿 末広",
+      "region": "愛知県蒲郡市西浦町大山17（西浦温泉）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "ゆこゆこネット", "score": 89, "scale": 100, "review_count": 24, "checked_date": "2026-11-11", "url": "https://www.yukoyuko.net/2315" }
+      ],
+      "price_range_jpy": {
+        "note": "西浦・形原漁港直送のアカザエビなど三河湾の海の幸を使った会席料理を中心とした1泊2食プランが主で、具体的な料金帯・オールインクルーシブ対象プランの有無はWebSearchの範囲では確認できなかった。",
+        "as_of_search_date": "2026-11-11",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "西浦温泉・三河湾国定公園に近い立地で、天空露天風呂と全室オーシャンビューの客室が特徴。西浦・形原漁港で水揚げされる高級食材アカザエビを含む海の幸を使った料理が売り。",
+      "renewal_or_news": "確認できなかった。",
+      "target_audience": ["カップル", "夫婦", "家族"],
+      "score_breakdown": {
+        "review_rating": 11,
+        "review_reliability": 5,
+        "unique_experience_score": 11,
+        "photogenic": 9,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 1
+      },
+      "score": 44,
+      "recommendation_reason": "ゆこゆこネットでは総合89点（100点満点・24件）と悪くない数字だが、件数が少なく独立した2つ目の信頼できる数値評価を本調査では確認できなかった（原則7の『最低2件以上の独立情報源』を満たせない）。じゃらんの口コミページでは会計処理ミス・電話対応への不満が宿側の謝罪コメント付きで掲載されており、cocolocala掲載の口コミは1.0点（料理の量・質への強い不満）と5.0点（立地評価）に大きく分かれていた。『オールインクルーシブ』プランの存在も確認できていない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "じゃらんの口コミに会計でのミスと電話対応への不満が記載され、宿側が謝罪の返信をしていた。cocolocala掲載の口コミでは1.0点の投稿があり、料理の量・質への強い不満が書かれていた。重大な衛生・安全上の指摘ではないが、サービス面の評価が割れている。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "西浦温泉 天空海遊の宿 末広（口コミ総合評価89・24件） - ゆこゆこネット", "url": "https://www.yukoyuko.net/2315" },
+        { "type": "booking_site", "title": "天空海遊の宿 末広 クチコミ・評価 - じゃらんnet", "url": "https://www.jalan.net/yad316232/kuchikomi/" },
+        { "type": "review_site", "title": "西浦温泉 天空海遊の宿 末広のクチコミ&詳細", "url": "https://travel.gpoint.co.jp/daredoko/h7402/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価が確認できた独立情報源が実質1件（ゆこゆこネット89点・24件）のみで原則7（最低2件以上の独立情報源）を満たせない。会計処理・電話対応・料理の量に関する複数の不満も確認されたため、本サイクルでは選定を見送った。"
+    },
+    {
+      "id": "2026-11-11-tokaien-nishiura",
+      "name": "西浦温泉 ホテル東海園",
+      "region": "愛知県蒲郡市西浦町（西浦温泉）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル（icotto集計転載分）", "score": 3.2, "scale": 5, "review_count": 215, "checked_date": "2026-11-11", "url": "https://icotto.jp/hotels/2489" }
+      ],
+      "price_range_jpy": {
+        "note": "西浦漁港直送の魚介類を使ったバイキング・会席プランが中心とされ、具体的な料金帯はWebSearchの範囲では確認できなかった。",
+        "as_of_search_date": "2026-11-11",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "西浦温泉の一番高台に位置し、10階パノラマスカイラウンジから360度三河湾を一望できる。西浦漁港直送の新鮮な魚介類を使ったバイキングや会席料理が特徴で、第45回『日本のホテル・旅館100選』総合部門93位に選出された実績がある。",
+      "renewal_or_news": "確認できなかった。",
+      "target_audience": ["家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 9,
+        "review_reliability": 8,
+        "unique_experience_score": 10,
+        "photogenic": 9,
+        "value_for_price": 4,
+        "sns_buzz": 2,
+        "access_and_freshness": 1
+      },
+      "score": 43,
+      "recommendation_reason": "360度の三河湾パノラマという景観面の強みと『日本のホテル・旅館100選』選出実績はあるが、確認できた数値評価はフォートラベル系（icotto集計転載）の3.2（215件）のみで、原則6の最低ライン（4.0以上）を明確に下回る。独立した2つ目の数値評価も本調査では確認できなかった（原則7）。2024年2月投稿の口コミでは館内の古さ・清掃の甘さ・Wi-Fi未設置が指摘されている。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2024年2月投稿の口コミ（3.0点）では館内の古さ、清掃の甘さ、客室・館内ともにWi-Fiがない点が指摘されていた。一方で三河湾の眺めは評価されていた。重大な衛生・安全面の指摘ではないが、施設の老朽化を示す複数の言及があった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "三河湾を一望 天下の絶景 西浦温泉 ホテル東海園（フォートラベル口コミ集計転載・総合3.2・215件） - icotto", "url": "https://icotto.jp/hotels/2489" },
+        { "type": "booking_site", "title": "三河湾一望 天下の絶景 西浦温泉 ホテル東海園 - じゃらんnet", "url": "https://www.jalan.net/yad321772/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "確認できた数値評価（フォートラベル系3.2・215件）が原則6の最低ライン（4.0以上）を明確に下回り、独立した2つ目の数値評価も確認できなかった（原則7）。館内の老朽化を指摘する口コミも複数あり、総合点43点で採用ライン（75点）を大きく下回るため不採用。"
+    }
+  ]
+}

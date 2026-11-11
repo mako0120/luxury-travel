@@ -1,0 +1,146 @@
+{
+  "cycle_date": "2026-10-22",
+  "theme": "鳥取県大山エリアの絶景ホテル（大山×日本海ビュー）",
+  "season_rationale": "10月20日〜11月5日は『大山秋色週間』にあたり、大山の紅葉が見頃を迎える時期。全体の見頃は10月下旬〜11月上旬とされ、標高500〜800m付近では10月下旬〜11月上旬、麓の観光地では11月上旬〜中旬まで紅葉が楽しめるとされる（標高による違いあり）。本サイクルの実施日（2026-10-22）は見頃のピークに近いタイミングで、紅葉と大山の眺望を組み合わせた『絶景ホテル』企画に適している。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-21-lavista-furano-hills", "region": "北海道富良野市", "category": "絶景ホテル" },
+    { "post_id": "2026-10-20-aso-canyon-terrace-lodge", "region": "熊本県阿蘇郡南阿蘇村", "category": "絶景ホテル" },
+    { "post_id": "2026-10-19-ibusuki-ginsho", "region": "鹿児島県指宿市", "category": "絶景ホテル" },
+    { "post_id": "2026-10-18-miyajima-seaside-hotel", "region": "広島県廿日市市宮島町", "category": "絶景ホテル" },
+    { "post_id": "2026-10-17-atami-sekaie", "region": "静岡県熱海市伊豆山", "category": "絶景ホテル" },
+    { "post_id": "2026-10-18-kaike-shogetsu", "region": "鳥取県米子市皆生温泉", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "依頼時に指定された地域『鳥取県大山エリア』・カテゴリ『絶景ホテル』について、captions/・data/candidates/・posts/の全履歴（2026-09-14〜2026-10-21、直近数日だけでなく1ヶ月以上前のエントリも含めて全件）を確認した。鳥取県に関する唯一の既存エントリは2026-10-18の『皆生松月』（鳥取県米子市皆生温泉、カテゴリ：グルメ旅館）のみで、これは大山山麓ではなく米子市内の海沿い温泉街にある別エリア・別カテゴリの施設であり、地域・カテゴリとも重複しない（間に絶景ホテル3回・その他カテゴリを挟んでおり原則29の『連続』には当たらない）。『大山』という語自体は2026-10-20の候補データ内に『大山隠岐国立公園』（隠岐諸島のジオパークホテルの説明文中）としても登場するが、これは国立公園名の一部であり鳥取県大山エリアの施設とは無関係。したがって鳥取県大山エリアの絶景ホテルは過去に候補・投稿として選定された例がない新規エリアと判断した。一方で、カテゴリ『絶景ホテル』は依頼時点で10/19指宿・10/20阿蘇・10/21富良野と3サイクル連続で選定されており、本サイクルも含めると4サイクル連続になる。これは依頼者から地域・カテゴリとも明示的に指定されたため調査を実施したが、原則29（カテゴリの連続回避）の観点では累積的な留意事項であり、次回サイクルでは温泉旅館・グルメ旅館・グランピング・列車/船・文化体験・サウナ・離島リゾート等、カテゴリの切り替えを強く推奨する。",
+  "candidates": [
+    {
+      "id": "2026-10-22-mercure-tottori-daisen",
+      "name": "メルキュール鳥取大山リゾート&スパ（旧:ロイヤルホテル大山）",
+      "region": "鳥取県西伯郡伯耆町丸山1647-13（大山山麓、JR米子駅から車・タクシーで約30〜40分）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらん", "score": 4.2, "scale": 5, "review_count": 2592, "checked_date": "2026-10-22", "url": "https://www.jalan.net/yad311901" },
+        { "source": "楽天トラベル", "score": 4.17, "scale": 5, "review_count": 2207, "checked_date": "2026-10-22", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/9219" },
+        { "source": "フォートラベル", "score": 3.89, "scale": 5, "review_count": 106, "checked_date": "2026-10-22", "url": "https://4travel.jp/dm_hotel-10050783" }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベル掲載の最安料金は1名4,910円〜（税込5,400円〜、プラン・時期により変動、素泊まり想定）。大山登山・ハイキング向けには夕朝食付オールインクルーシブ＋登山口シャトル送迎プラン（2026年6月7日〜11月30日実施）、夏季には子ども向けアクティビティ付きのオールインクルーシブプランもある。近畿日本ツーリスト掲載ではプラン・時期により大人1名あたり4,500〜422,300円と非常に幅があり、食事・温泉・ラウンジを含むプランは別途料金が必要。正確な金額は公式サイト・予約サイトで日程・人数を指定して要確認。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "中国地方最高峰・伯耆富士こと大山の山麓に立ち、客室・ラウンジから大山と日本海の両方を望める山陰エリアでも珍しい立地。2024年4月に旧『ロイヤルホテル大山』からAccorの国際ブランド『メルキュール』としてリブランドし、山陰エリアでは数少ない国際チェーン系リゾートとなった。温泉露天風呂・サウナ付きの大浴場、ラウンジでの食後酒や甘酒サービス、秋のビュッフェでは新米おにぎり・鳥取ハーブ鶏と梨料理・梨の甘酒スムージーなど地元食材を使ったメニューを提供。JR米子駅・大山登山口・スキー場を結ぶ無料シャトルバスもあり、登山者向けプランも整備されている。",
+      "renewal_or_news": "2024年4月に旧『ロイヤルホテル大山』からAccorの国際ブランド『メルキュール』としてリブランド。JR米子駅・大山登山口・スキー場を結ぶ無料シャトルバスの運行等、アクセス面の整備も進んでいる。",
+      "target_audience": ["カップル", "夫婦", "友人", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 14,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 83,
+      "recommendation_reason": "じゃらん4.2（2,592件）・楽天トラベル4.17（2,207件）・フォートラベル3.89（106件）と、大規模サンプルを含む3つの独立した情報源でいずれも高水準の評価を確認できた（原則6・7）。大山と日本海の両方を望める立地は山陰エリアでも珍しく、2024年のAccor『メルキュール』ブランドへのリブランドという最新性のあるニュースもある。温泉・サウナ・ラウンジ・地元食材のビュッフェと体験の厚みがあり、登山口シャトル付きのオールインクルーシブプランなど大山観光との相性もよい。ちょうど10月20日〜11月5日の『大山秋色週間』と重なり、紅葉と大山の眺望を同時に楽しめる季節性の訴求力も高い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベル106件中「悪い」6件・「とても悪い」1件で、項目別評価ではアクセス3.07が最も低く（JR米子駅からタクシーで約30〜40分かかる立地のため）、接客対応も3.60とやや低めだった。別の口コミでは、建物が旧ロイヤルホテル大山のままで館内一括空調のため部屋ごとの温度調整ができず寝つきにくかったという指摘や、リブランド後に大浴場が宿泊者専用になり日帰り入浴ができなくなったという声もあった。一方で「とても良い」28件・「良い」53件が大半を占め、清潔感・接客・料理・混雑・予約トラブルに関わる重大な指摘は複数の情報源で確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "メルキュール鳥取大山リゾート&スパ - じゃらん", "url": "https://www.jalan.net/yad311901" },
+        { "type": "booking_site", "title": "メルキュール鳥取大山リゾート&スパ 宿泊プラン - 楽天トラベル", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/9219" },
+        { "type": "review_site", "title": "メルキュール鳥取大山リゾート&スパ クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-10050783" },
+        { "type": "other", "title": "メルキュール鳥取大山リゾート&スパ (Mercure Tottori Daisen Resort & Spa) - るるぶトラベル", "url": "https://www.rurubu.travel/hotel/japan/hoki/mercure-tottori-daisen-resort-and-spa" },
+        { "type": "other", "title": "メルキュール鳥取大山リゾート&スパ - cocolocala", "url": "https://www.cocolocala.jp/hotels/20896" },
+        { "type": "other", "title": "メルキュール鳥取大山リゾート&スパ(旧:ロイヤルホテル大山)のご紹介 - 近畿日本ツーリスト", "url": "https://yado.knt.co.jp/st/S310033/" },
+        { "type": "press", "title": "「メルキュール鳥取大山リゾート&スパ」が今だけ特別価格に - All About NEWS", "url": "https://news.allabout.co.jp/articles/o/104146/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-22-hotel-shunka-daisen",
+      "name": "ホテル旬香 鳥取大山リゾート",
+      "region": "鳥取県西伯郡伯耆町（大山山麓、全8室の小規模リゾート）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "tour.l-tike.com（旅行情報サイト集計）", "score": 4.8, "scale": 5, "review_count": 1, "checked_date": "2026-10-22", "url": "https://tour.l-tike.com/hotels/domestic/hotel/1198229/" }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらん掲載では1泊大人2名利用時38,720円〜（税込）という表示があった。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "大山の岩を組み檜の櫓で造られた『大山展望露天風呂』が特徴の全8室の小規模リゾート。愛犬と泊まれる宿としてドッグランも完備しており、夜空が見える露天風呂が口コミで好評だった。",
+      "renewal_or_news": "WebSearchでは最新のリニューアル・休業等のニュースは確認できなかった。",
+      "target_audience": ["カップル", "記念日", "夫婦", "絶景好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 9,
+        "review_reliability": 3,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 48,
+      "recommendation_reason": "大山の岩と檜櫓で造られた『大山展望露天風呂』、愛犬と泊まれるドッグラン付き全8室という独自性は魅力的だが、口コミ件数が極端に少なく客観的な評価判断ができないため、採点上は不利になった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルで確認できた口コミ1件では、部屋の清潔さ・夜空の見える露天風呂・料理・スタッフ対応が高く評価されていたが、料理の量については物足りなかったという指摘があった。口コミ件数が主要サイトで合計1件程度と極端に少なく、重大な問題の有無を含め全体傾向を判断できるだけのデータが不足している。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "ホテル旬香 鳥取大山リゾート - じゃらん", "url": "https://www.jalan.net/yad360666/" },
+        { "type": "review_site", "title": "ホテル旬香 鳥取大山リゾート クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-11359887" },
+        { "type": "other", "title": "ホテル旬香 鳥取大山リゾート - tour.l-tike.com", "url": "https://tour.l-tike.com/hotels/domestic/hotel/1198229/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数が主要サイトで合計1件程度と極端に少なく、原則6（評価は件数とセットで判断）・原則7（最低2種類以上の独立情報源）を満たすだけの裏付けが得られなかった。独自性（大山展望露天風呂・ドッグラン）自体は魅力的だが、Hidden Gemルール（原則8）が求める『複数情報源』の要件も満たせないため、現時点では信頼性の高い推薦ができないと判断し不採用とした。"
+    },
+    {
+      "id": "2026-10-22-kyukamura-okudaisen",
+      "name": "休暇村奥大山（旧:大山鏡ヶ成）",
+      "region": "鳥取県日野郡江府町（大山南麓・烏ヶ山麓、蒜山大山スカイライン沿いの高原リゾート）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "icotto（楽天トラベル口コミ集計）", "score": 3.36, "scale": 5, "review_count": 21, "checked_date": "2026-10-22", "url": "https://icotto.jp/hotels/3729" },
+        { "source": "ニフティ温泉", "score": 4.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-22", "url": "https://onsen.nifty.com/daisen-onsen/onsen012372/" }
+      ],
+      "price_range_jpy": {
+        "note": "旅行比較サイトGpointの掲載では最安値14,000円/1室1泊という表示があったが、人数・プランの条件が確認できなかった。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "大山の南側、烏ヶ山（からすがせん）の麓に広がる高原リゾートで、四季で異なる大山の表情を楽しめるのがコンセプト。冬季には『ダイヤモンド大山』と呼ばれる絶景を料理で表現したプランも紹介されている。",
+      "renewal_or_news": "旧称『大山鏡ヶ成』。冬期は蒜山大山スカイラインが通行止めとなり国道482号線の利用が必要という情報があった。",
+      "target_audience": ["家族", "友人", "一人旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 4,
+        "unique_experience_score": 12,
+        "photogenic": 9,
+        "value_for_price": 7,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 47,
+      "recommendation_reason": "大山・烏ヶ山麓の高原リゾートという立地と四季の企画自体は魅力的だが、評価サイトごとに点数が大きく割れ、件数も少ないため信頼度の高い推薦ができないと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "食べログ3.07（件数非公開）・icotto経由の楽天トラベル集計3.36（21件）・ニフティ温泉4.0（1件）とサイトごとに評価が大きく割れた。口コミでは夕食会場が別々で配膳のために往復が必要だったという声や、秋の観光シーズンは満室だったという体験談があった。清潔感・接客に関する重大な指摘は見当たらないが、評価・件数ともに少なく全体傾向を安定して判断できない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "休暇村 奥大山(旧:大山鏡ヶ成) - icotto", "url": "https://icotto.jp/hotels/3729" },
+        { "type": "review_site", "title": "休暇村奥大山 - ニフティ温泉", "url": "https://onsen.nifty.com/daisen-onsen/onsen012372/" },
+        { "type": "press", "title": "休暇村 奥大山 プレスリリース - 休暇村協会", "url": "https://www.qkamura.or.jp/qkamura/data/press_data/pdf/press_pdf_1_20240408_152308.pdf" },
+        { "type": "other", "title": "休暇村 奥大山 - icotto（記事）", "url": "https://icotto.jp/presses/20237" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "評価サイトごとに点数が大きく割れ（食べログ3.07／icotto経由の楽天集計3.36・21件／ニフティ温泉4.0・1件）、いずれも原則6の推奨ライン（主要レビュー4.0以上）を安定して満たすとは言えず、件数も少ないため信頼度（原則7）の面で不十分と判断し不採用とした。"
+    }
+  ]
+}

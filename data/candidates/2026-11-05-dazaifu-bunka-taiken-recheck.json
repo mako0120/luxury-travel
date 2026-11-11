@@ -1,0 +1,312 @@
+{
+  "cycle_date": "2026-11-05",
+  "theme": "文化体験カテゴリ（福岡県太宰府市・太宰府天満宮周辺）",
+  "season_rationale": "本日の文化体験カテゴリの2回目かつ最終サイクル。1回目は山形県鶴岡市・出羽三山エリアを調査したが、独立2情報源での数値評価確認ができず、採用候補はshortlisted止まりだった（`data/candidates/2026-11-05-dewasanzan-bunka-taiken.json`）。本サイクルでは地域を福岡県太宰府市・太宰府天満宮周辺に変更して再調査した。太宰府天満宮は2026年5月、124年ぶりとなる御本殿の大改修を終え重要文化財の御本殿が報道公開されたばかりであり、『改修を終えたばかりの本殿を見られる』という鮮度の高いタイミングにある。また紅葉期（11月）は梅の名所として知られる境内を比較的落ち着いた人出で歩きやすい時期でもある。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-11-05-kyukamura-shonai-haguro", "region": "山形県鶴岡市羽黒町（出羽三山エリア）", "category": "文化体験", "note": "本日1本目のサイクル。地域・施設とも異なるため重複なし。" },
+    { "candidate_id": "2026-11-01-yanagawa-kudari-activity", "region": "福岡県柳川市（川下り）", "category": "アクティビティ", "note": "同じ福岡県だが柳川市の川下りであり、太宰府市・太宰府天満宮周辺とは市区・カテゴリとも異なるため重複なし（ユーザー指定の確認事項）。" },
+    { "candidate_id": "2026-10-18-fukuoka-gentei-event", "region": "福岡市（期間限定イベント）", "category": "その他（期間限定イベント）", "note": "同じ福岡県だが福岡市・期間限定イベントカテゴリで、太宰府市・文化体験とは地域・カテゴリとも異なるため重複なし。" },
+    { "candidate_id": "2026-11-01-kitakyushu-other", "region": "北九州市", "category": "その他", "note": "同じ福岡県だが北九州市・その他カテゴリで重複なし。" },
+    { "candidate_id": "2026-10-27-all-inclusive-itoshima", "region": "福岡県糸島市（オールインクルーシブ）", "category": "オールインクルーシブ", "note": "同じ福岡県だが糸島市・オールインクルーシブカテゴリで重複なし。" },
+    { "candidate_id": "2026-10-22-kyoto-bunka-taiken", "region": "京都府京都市", "category": "文化体験", "note": "同じ文化体験カテゴリだが京都市であり地域が異なるため重複なし。" },
+    { "candidate_id": "2026-10-29-inuyama-jokamachi-bunka-taiken", "region": "愛知県犬山市", "category": "文化体験", "note": "城下町という構図は類似するが地域が異なるため重複なし。" }
+  ],
+  "duplication_note": "`data/candidates/` `captions/` 配下の全ファイルをファイル名・本文（grep -i）で『太宰府』『だざいふ』『Dazaifu』『dazaifu』の文字列について、作成日に関わらず（1か月以上前・2026-09-14サイクル分含め）全件確認した。一致したのは `data/candidates/2026-11-01-yanagawa-kudari-activity.json` と `captions/2026-11-01-yanagawa-donkobune-kawakudari.json` の2件のみで、いずれも福岡県柳川市の川下り（どんこ舟）候補であり、本サイクルの対象である太宰府市・太宰府天満宮周辺とは市区町村・施設・カテゴリ（アクティビティ）のいずれも異なる別候補であることを確認した。そのため『福岡県太宰府市・太宰府天満宮周辺』の文化体験候補は本リポジトリにおける新規調査地域である。",
+  "research_constraint_note": "本サイクルもjalan.net・4travel.jp・tripadvisor.com・wanderlog.com・airial.travelへの直接アクセス（WebFetch）はこの環境のネットワーク制限によりDNS解決不可でブロックされ、WebSearchのスニペット経由でのみ情報を確認できた。このため数値評価は、各サイトのトップページを直接確認した場合と比べて表示タイミングのずれが生じている可能性がある。特に竈門神社・光明禅寺については、独立した2つの信頼できる数値評価源（件数・集計方法が明確なもの）を十分に確認できなかったため、該当候補はrejectedとした。",
+  "other_candidates_considered": [],
+  "candidates": [
+    {
+      "id": "2026-11-05-dazaifu-tenmangu",
+      "name": "太宰府天満宮",
+      "region": "福岡県太宰府市宰府4-7-1（西鉄太宰府線 太宰府駅から徒歩約5分／九州自動車道 太宰府ICから車で約15分）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "DocentPro（Dazaifu Tenmangu 施設ページ集計）",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 32799,
+          "checked_date": "2026-11-05",
+          "url": "https://docentpro.com/places/dazaifu-tenmangu太宰府天満宮_NDA2ODU"
+        },
+        {
+          "source": "Booked.ai（Visit Dazaifu Tenmangu Shrine 施設ページ集計）",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 38900,
+          "checked_date": "2026-11-05",
+          "url": "https://www.booked.ai/attractions/visit-dazaifu-tenmangu-shrine"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "境内参拝は無料（開門6:30〜19:00、季節により6:00〜18:30など変動。年末年始は特別時間で正月三ヶ日は24時間開門）。宝物殿・菅公歴史館の見学は有料（宝物殿: 一般500円・大学生高校生200円・中小学生100円、9:00〜16:30・月曜休館）。駐車場は境内周辺に約1,000台・500円/日程度の有料駐車場がある。これらはいずれも観光情報サイト経由で確認した目安であり、2026年11月時点の正式な料金・時間は太宰府天満宮公式サイト（dazaifutenmangu.or.jp）・電話（092-922-8225）での再確認が必要。",
+        "as_of_search_date": "2026-11-05",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "学問の神・菅原道真公を祀る、全国に1万社前後あるとされる天満宮の総本宮。道真公が太宰府で没した延喜3年（903年）の2年後、919年に現在地に社殿が建立されたとされ、1100年以上の歴史を持つ。現在の御本殿（国指定重要文化財、天正19年＝1591年再建）は、菅原道真公の没後1125年にあたる2027年の『式年大祭』に向け、2023年5月から約3年をかけて124年ぶりとなる大規模改修（檜皮屋根の全面葺き替え、建物全体の漆・彩色の塗り直し）が行われ、2026年5月18日に報道公開された。改修期間中、祭神は建築家・藤本壮介氏が設計した特設の仮殿に祀られていた（仮殿は2023年5月〜2026年5月16日ごろまで使用されたとみられる）。仮殿は『道真公を慕う梅が一夜で太宰府まで飛んだ』という飛梅伝説に着想を得て、周辺の豊かな自然が本殿前に舞い上がるような佇まいをコンセプトに設計され、屋根には天満宮の花守が育てた梅を含む植物が配されていた。境内には約200種・6,000本の梅が植えられ、御帳・几帳のデザインをファッションブランドMame Kurogouchiが手がけるなど、伝統と現代的なデザインが共存する点も特徴。隣接する九州国立博物館とは『虹のトンネル』と呼ばれる動く歩道でつながり、参拝と合わせて周遊しやすい。",
+      "renewal_or_news": "2026年5月18日、124年ぶりの大規模改修を終えた国指定重要文化財『御本殿』が共同通信の報道で公開されたことを確認した（檜皮屋根全面葺き替え・漆・彩色塗り直し）。改修は2027年の式年大祭（菅原道真没後1125年）に向けたもの。改修期間中の仮殿（藤本壮介建築設計事務所設計）は2026年5月16日ごろに使用終了したとみられるが、現時点で解体済みか境内に一部が残っているかは本セッションの検索範囲では確認できなかった。参拝自体は通常通り可能であることを複数の観光情報サイトで確認した。",
+      "target_audience": ["家族", "友人", "一人旅", "夫婦", "カップル"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 13,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 8,
+        "sns_buzz": 9,
+        "access_and_freshness": 5
+      },
+      "score": 88,
+      "recommendation_reason": "DocentPro（4.4/5・32,799件）とBooked.ai（4.4/5・約38,900件）という、件数・集計元の異なる独立2情報源がいずれも4.0を上回り、かつ件数も非常に多く信頼性が高い（原則6・7を満たす）。1100年以上の歴史を持つ学問の神の総本宮という文化的価値に加え、2026年5月に124年ぶりの御本殿大改修が完了・報道公開されたばかりという極めて鮮度の高いタイミングであること、改修期間中に使われた藤本壮介氏設計の仮殿という建築的なストーリーも紹介価値が高い。境内約6,000本の梅、隣接する九州国立博物館との周遊性も含め、初見の人に『なぜ今、太宰府天満宮なのか』を伝えやすい候補と判断し、score_breakdownの合計88点で採用ライン（原則6・75点）を大きく上回るため、decisionはselectedとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "観光ブログ・口コミでは、ゴールデンウィークや梅の見頃、年末年始は仮殿前の参拝待ちが30〜60分に及ぶことがあると紹介されており、10:30〜15:30が最も混雑する時間帯とされる。年末年始は周辺道路も渋滞するため電車利用が勧められている。海外からの観光客も多く平日でも賑わうという指摘もあった。一方で、衛生・安全・スタッフ対応に関する重大な指摘は本セッションの検索範囲では確認できなかった（原則10）。混雑への対策（平日午前・夕方遅めの参拝、ピーク時間帯を避ける等）はcaption・production時の注意点として残す。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "太宰府天満宮 公式サイト",
+          "url": "http://www.dazaifutenmangu.or.jp/"
+        },
+        {
+          "type": "press",
+          "title": "太宰府天満宮、重文の御本殿公開 124年ぶり大改修終え - 共同通信（熊本日日新聞配信）",
+          "url": "https://kumanichi.com/articles/1992292"
+        },
+        {
+          "type": "review_site",
+          "title": "Dazaifu Tenmangu（太宰府天満宮）施設評価 4.4/5・32,799件 - DocentPro",
+          "url": "https://docentpro.com/places/dazaifu-tenmangu太宰府天満宮_NDA2ODU"
+        },
+        {
+          "type": "review_site",
+          "title": "Visit Dazaifu Tenmangu Shrine 評価 4.4/5・約38,900件（Excellent） - Booked.ai",
+          "url": "https://www.booked.ai/attractions/visit-dazaifu-tenmangu-shrine"
+        },
+        {
+          "type": "other",
+          "title": "太宰府天満宮仮殿（藤本壮介建築設計事務所設計・コンセプト解説） - architecturephoto.net",
+          "url": "https://architecturephoto.net/165183"
+        },
+        {
+          "type": "official",
+          "title": "Restoration of the Main Sanctuary（御本殿大改修解説） - 国土交通省多言語解説データベース",
+          "url": "https://www.mlit.go.jp/tagengo-db/en/R5-00333.html"
+        }
+      ],
+      "decision": "selected",
+      "creator_story": {
+        "text": "太宰府天満宮そのものは、平安時代に左遷され太宰府で没した菅原道真公（903年没）を慕う人々によって919年に社殿が建立されたと伝わる、1100年以上の歴史を持つ神社である。特定の個人が『創業者』として意思を語った一次資料（創建当時の発願者本人の発言記録等）は、今回のWeb調査（WebSearchのスニペット経由のみ。公式サイトdazaifutenmangu.or.jp本文、jalan.net・4travel.jp等へのWebFetchはこの環境のネットワーク制限によりDNS解決不可で直接確認できなかった）では見つけられなかった。一方、2026年に124年ぶりの大改修を終えた国指定重要文化財『御本殿』そのものの改修方針・担当者の思いを直接語った一次資料（太宰府天満宮宮司等のインタビュー・声明）も、本調査では確認できなかった。確認できたのは、改修期間中（2023年5月〜2026年5月ごろ）祭神を祀った特設の『仮殿』に関する建築家・藤本壮介氏（藤本壮介建築設計事務所）の設計コンセプトである。architecturephoto.netの記事によれば、仮殿は『道真公を慕う梅が一夜のうちに太宰府まで飛んだ』とされる飛梅伝説に着想を得て、太宰府天満宮周辺に広がる豊かな自然が御本殿前に飛翔するような佇まいをつくることをコンセプトに設計された。屋根には梅をはじめとする周辺の植物が配され、季節や天候によって姿を変える表現が意図されており、屋根上の梅には天満宮の花守が境内で育てたものも含まれるとされる。内部の天井は御本殿の伝統的な垂木の形式を踏まえた曲面のルーバーとし、1100年以上続く伝統と現代的な建築表現を両立させることが意識されたという。デザイン検討はコロナ禍中に始まり、球体・キューブ状・大屋根・フレーム状など多数の案が試行錯誤されたと紹介されている。仮殿の使用終了（2026年5月16日ごろとみられる）後、仮殿を飾っていた木々や緑は境内の森へ移植される予定とされるが、実際の解体・移植が完了したかどうかは本調査では確認できなかった。なお御帳・几帳のデザインはファッションブランドMame Kurogouchiが担当したことも確認できた。これらはいずれも設計者側（藤本壮介建築設計事務所）の意図についての報道・建築メディアによる記述であり、太宰府天満宮側（宮司・関係者本人）が改修全体にどのような思いで取り組んだかを直接語った発言記録ではないため、その点については確認できなかった旨を明記し、推測や発言の創作は行わない。",
+        "sources": [
+          {
+            "type": "other",
+            "title": "太宰府天満宮仮殿（設計コンセプト・飛梅伝説・屋根の植物・デザイン検討過程の解説） - architecturephoto.net",
+            "url": "https://architecturephoto.net/165183"
+          },
+          {
+            "type": "press",
+            "title": "太宰府天満宮、重文の御本殿公開 124年ぶり大改修終え - 共同通信（熊本日日新聞配信）",
+            "url": "https://kumanichi.com/articles/1992292"
+          },
+          {
+            "type": "official",
+            "title": "Restoration of the Main Sanctuary（改修の経緯・式年大祭との関係） - 国土交通省多言語解説データベース",
+            "url": "https://www.mlit.go.jp/tagengo-db/en/R5-00333.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-05-kyushu-national-museum",
+      "name": "九州国立博物館",
+      "region": "福岡県太宰府市石坂4-7-2（太宰府天満宮境内に隣接。西鉄太宰府駅から徒歩約10分、太宰府天満宮から動く歩道『虹のトンネル』で接続）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Trip.com（Kyushu National Museum 旅行ガイドページ集計）",
+          "score": 4.7,
+          "scale": 5,
+          "review_count": 107,
+          "checked_date": "2026-11-05",
+          "url": "https://au.trip.com/travel-guide/dazaifu/kyushu-national-museum-100014/"
+        },
+        {
+          "source": "TripToJapan（Kyushu National Museum 施設ページ集計）",
+          "score": 4.3,
+          "scale": 5,
+          "review_count": 9874,
+          "checked_date": "2026-11-05",
+          "url": "https://triptojapan.com/places/kyushu-national-museum/Eik5HSnFQDiysTpZNNVtkg"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "4階文化交流展示室（常設展）の観覧料は一般700円・大学生350円。高校生以下・18歳未満および満70歳以上は無料（学生証・年齢確認書類等が必要な場合あり）。特別展は別料金。開館時間は9:30〜17:00、月曜休館（祝日の場合は翌平日）。いずれも観光情報サイト経由で確認した目安で、2026年11月時点の正式な料金・休館日は九州国立博物館公式サイト（kyuhaku.jp）での再確認が必要。",
+        "as_of_search_date": "2026-11-05",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2004年開館、東京・京都・奈良に続く日本で4番目の国立博物館で、『日本文化の形成をアジア史的観点から捉える』という他の国立博物館とは異なるコンセプトを持つ。建築家・菊竹清訓（東京都江戸東京博物館なども手がけた）が設計し、チタンを用いた青みを帯びた曲面の屋根が特徴的な外観となっている。常設展示（文化交流展）は順路が決められておらず自由に見て回れる構成で、展示物も定期的に入れ替えられるためリピーターにも対応する。太宰府天満宮とは『虹のトンネル』という動く歩道付きのトンネルで直結しており、参拝と合わせて同日に周遊しやすい。",
+      "renewal_or_news": "本セッションでは2026年時点での大規模リニューアル・新規特別展以外の大きな体制変更は確認できなかった。2026年1〜2月の新春ツアー、2026年1月20日〜3月15日の特別展『平戸モノ語り』等の企画が行われていたことを確認したが、2026年11月時点での開催中企画については本調査では確認できていない。",
+      "target_audience": ["家族", "友人", "一人旅", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 11,
+        "unique_experience_score": 15,
+        "photogenic": 10,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 73,
+      "recommendation_reason": "Trip.com（4.7/5・107件）とTripToJapan（4.3/5・9,874件）という独立2情報源がいずれも4.0以上で、原則7の独立2情報源は満たす。建築家・菊竹清訓によるチタン屋根の特徴的な建築、アジア史的観点からの文化交流という他館にない展示コンセプト、太宰府天満宮と直結した周遊性など独自性も高い。一方で、本セッションでは2026年時点の具体的な新規企画・リニューアル情報を十分に確認できず、access_and_freshnessの根拠がやや弱い点、及び太宰府天満宮と同一エリア・同一カテゴリでの紹介となるため、本サイクルでは太宰府天満宮をメインのselected候補とし、本候補は次サイクル以降に単独で深掘り調査する価値が高い候補としてshortlistedとした。score_breakdownの合計は73点で採用ライン（75点）にわずかに届いていない点も踏まえている。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "検索範囲では、展示解説が専門的でやや難しいという声や、特別展開催時の混雑を指摘する観光記事があった。安全性・衛生面・スタッフ対応に関する重大な指摘は確認できなかった（原則10）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "Kyushu National Museum 旅行ガイド（4.7/5・107件） - Trip.com",
+          "url": "https://au.trip.com/travel-guide/dazaifu/kyushu-national-museum-100014/"
+        },
+        {
+          "type": "review_site",
+          "title": "Kyushu National Museum（4.3/5・9,874件） - TripToJapan",
+          "url": "https://triptojapan.com/places/kyushu-national-museum/Eik5HSnFQDiysTpZNNVtkg"
+        },
+        {
+          "type": "other",
+          "title": "建築家・菊竹清訓の代表作としての九州国立博物館（2004年）の紹介",
+          "url": "https://www.shimane-art-museum.jp/upload/kikutake_san%27in.pdf"
+        }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-11-05-komyozenji",
+      "name": "光明禅寺",
+      "region": "福岡県太宰府市宰府2-16-1（西鉄太宰府駅から徒歩約5分、太宰府天満宮参道のすぐ近く）",
+      "category": "文化体験",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "Airial（Komyozenji Temple 施設ページ集計）",
+          "score": 4.1,
+          "scale": 5,
+          "review_count": 343,
+          "checked_date": "2026-11-05",
+          "url": "https://airial.travel/attractions/japan/dazaifu/komyozenji-temple-hMPCqnxv"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "複数の観光情報サイトでは拝観料200円、営業時間8:00〜16:30（季節変動）または9:30〜16:30という記載があるが、別の旅行ガイド記事では『現在は寺院内部・庭園への立ち入りを受け付けておらず、外観・門前からの見学が中心』とする案内もあり、情報源間で食い違いがある。",
+        "as_of_search_date": "2026-11-05",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "太宰府天満宮のすぐ近くにありながら、臨済宗の禅寺として枯山水庭園と苔の美しさで知られ『苔寺』の通称を持つ、九州で唯一枯山水形式の日本庭園を持つ禅寺とされる。庭園は1957年に作庭家・重森三玲が手がけ、2014年に福岡県指定名勝に指定された。天満宮参道の賑わいからわずか数百メートルで静かな空間に切り替わる点が、知る人ぞ知る穴場として紹介されている。",
+      "renewal_or_news": "本セッションの検索では、閉鎖・工事に関する正式な公式発表は確認できなかったが、複数の旅行ガイド記事が『現在は寺院内部・庭園への立ち入りを受け付けていない（目前不接受寺院内部参观／暫停對外開放）』という趣旨を案内しており、別の記事は従来通りの拝観料・営業時間を掲載するなど情報が一致していない。この営業状況の食い違いは本調査では解消できなかった。",
+      "target_audience": ["一人旅", "夫婦", "カップル"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 5,
+        "unique_experience_score": 16,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 52,
+      "recommendation_reason": "重森三玲作庭・福岡県指定名勝という独自性の高い枯山水庭園を持ち、天満宮周辺の『穴場』としての紹介価値はあるが、本セッションで確認できた数値評価はAirial経由の1情報源（4.1/5・343件）のみで、原則7が求める独立2情報源を満たせなかった。さらに複数の旅行ガイドが『現在、寺院内部・庭園への立ち入りを受け付けていない可能性がある』と案内しており、営業状況（拝観可否）そのものに食い違いが生じている。写真や体験を見せる候補として紹介するには営業状況の再確認が不可欠であり、現時点では採用を見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "具体的な低評価コメントの本文は、airial.travel以外の口コミサイト（4travel.jp等）への直接アクセスが本セッションでは不可（DNS解決不可）だったため十分に確認できなかった。確認できた範囲では、閉門時間の早さ・御朱印帳への対応がないことへの指摘があった。安全性・衛生面での重大な指摘は確認できなかったが、拝観可否自体の情報不一致はrejectionの主要な理由とした。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "Komyozenji Temple（4.1/5・343件） - Airial",
+          "url": "https://airial.travel/attractions/japan/dazaifu/komyozenji-temple-hMPCqnxv"
+        },
+        {
+          "type": "other",
+          "title": "光明禅寺（枯山水庭園・重森三玲作庭・拝観情報） - minnacamera.com",
+          "url": "https://www.minnacamera.com/spots/2771"
+        },
+        {
+          "type": "other",
+          "title": "光明禅寺の現在の公開状況に関する複数の旅行ガイド記事（拝観停止の可能性を含む）",
+          "url": "https://www.jeepe.jp/ja/articles/komyoji-dazaifu-guide-1593"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立2情報源での数値評価確認ができず（確認できたのはAirial経由の1情報源のみ）、原則7を満たせなかった。加えて、現在の拝観可否（寺院内部・庭園への立ち入り）について情報源間で食い違いがあり、営業状況を確信を持って確認できなかったため、本サイクルでは採用を見送った。"
+    },
+    {
+      "id": "2026-11-05-kamado-shrine",
+      "name": "宝満宮竈門神社",
+      "region": "福岡県太宰府市内山883（宝満山の麓。西鉄太宰府駅からバスで約10分＋徒歩、太宰府天満宮からも車・バスでアクセス可能）",
+      "category": "文化体験",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "じゃらんnet掲載の過去イベントページ内評価（2014年大護摩供イベントページ内表示）",
+          "score": 4.2,
+          "scale": 5,
+          "review_count": 450,
+          "checked_date": "2026-11-05",
+          "url": "https://www.jalan.net/event/evt_117432/spot/"
+        },
+        {
+          "source": "GLTJP（宝満宮竈門神社 施設ページ集計）",
+          "score": 4.03,
+          "scale": 5,
+          "review_count": 4,
+          "checked_date": "2026-11-05",
+          "url": "https://www.gltjp.com/ja/directory/item/11049/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "参拝は無料、年中無休と案内されているサイトがあるが、最新情報かどうかは確認できていない。",
+        "as_of_search_date": "2026-11-05",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "縁結び・恋愛の神である玉依姫命を祀る、宝満山の麓に鎮座する神社。太宰府天満宮から離れた静かな立地と、展望舞台からの太宰府の眺め、紫陽花が彩る参道、洗練されたデザインの社務所（セレクトショップのような雰囲気という紹介もある）が特徴。人気アニメ『鬼滅の刃』の聖地として話題になったことでも知られる。紅葉・桜の名所として福岡県内の紅葉スポットランキングでも上位に紹介されている。",
+      "renewal_or_news": "2025年に初めて節分の豆まき神事を実施したという記述をブログ記事で確認したが、2026年時点の最新の年間行事・リニューアル情報は本セッションでは確認できなかった。",
+      "target_audience": ["女子旅", "カップル", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 4,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 8,
+        "access_and_freshness": 3
+      },
+      "score": 64,
+      "recommendation_reason": "『鬼滅の刃』聖地としての話題性、洗練された社務所デザイン、宝満山麓の静かな立地という独自性は高いが、本セッションで確認できた数値評価は、じゃらんnetの2014年イベントページ内に表示された評価（最新の施設ページではなく古いイベントページ経由のため鮮度に疑義あり）と、GLTJP（4.03/5・口コミわずか4件）に限られた。前者は出典の信頼性（鮮度）、後者は件数の少なさの点で、原則7が求める『信頼できる独立2情報源』を十分な確度で満たせたとは言えないと判断した。Trip.comでも口コミ1件のみの表示しか確認できず、Wanderlog経由の数値（4.3・3,751件等）は集計元・スコープが検索結果からは特定できなかったため採用しなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "参道・登山的な石段が多く、低山ながら体力を要するという指摘が複数の観光ブログで見られた。安全性・衛生面・スタッフ対応に関する重大な指摘は本セッションの検索範囲では確認できなかった（原則10）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "宝満宮竈門神社 関連イベントページ内評価（4.2/5・450件、2014年） - じゃらんnet",
+          "url": "https://www.jalan.net/event/evt_117432/spot/"
+        },
+        {
+          "type": "review_site",
+          "title": "宝満宮竈門神社（4.03/5・4件） - GLTJP",
+          "url": "https://www.gltjp.com/ja/directory/item/11049/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "確認できた数値評価が、鮮度に疑義のある2014年イベントページ経由の表示（jalan）と口コミ件数が極めて少ない情報源（GLTJP・4件）に限られ、CLAUDE.mdが求める『主要レビュー4.0未満・75点未満は独立2情報源必須』の基準を信頼できる形で満たせなかった。総合スコアも64点で採用ライン（75点）に届いていない。独自性・話題性は高いため、jalan.net・4travel.jp等への直接アクセスが可能な環境で再調査することを次サイクル以降に推奨する。"
+    }
+  ],
+  "cycle_result": "福岡県太宰府市・太宰府天満宮周辺の文化体験カテゴリで調査し、太宰府天満宮（88点、DocentPro 4.4/5・32,799件、Booked.ai 4.4/5・約38,900件という独立2情報源がいずれも4.0以上）を正式に選定（selected）した。2026年5月に124年ぶりの御本殿大改修が完了・報道公開されたばかりという鮮度の高いタイミングと、改修期間中に使われた建築家・藤本壮介氏設計の仮殿という建築的なストーリーも確認できた。隣接する九州国立博物館（73点、Trip.com 4.7/5・107件、TripToJapan 4.3/5・9,874件）も独立2情報源はいずれも4.0以上だったが、2026年時点の鮮度情報が薄く、同一エリア・同一カテゴリでの重複を避けるためshortlistedとした。光明禅寺（52点、独立2情報源を満たせず、かつ現在の拝観可否に情報の食い違いあり）と宝満宮竈門神社（64点、信頼できる独立2情報源を満たせず）は原則7の採用基準を満たせず見送った。本サイクルもjalan.net・4travel.jp・tripadvisor.com等への直接アクセス（WebFetch）がこの環境のネットワーク制限によりブロックされ、WebSearchのスニペット経由の情報確認にとどまった。太宰府天満宮についてはcaptions/2026-11-05-dazaifu-tenmangu.jsonを作成した。"
+}

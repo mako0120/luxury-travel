@@ -1,0 +1,218 @@
+{
+  "cycle_date": "2026-10-24",
+  "theme": "サウナ（鳥取県三朝温泉）",
+  "season_rationale": "10月下旬は朝晩の気温が下がり、サウナ後の外気浴・川沿いの冷気の中で『ととのう』体感が増す季節。三朝温泉は世界有数のラドン含有量を誇る高温湧出の放射能泉として知られ、温泉で温まった後に本格的なドライサウナ・水風呂で仕上げるという組み合わせが成立するか、また既存のサウナカテゴリ（伊豆・層雲峡・十勝川温泉・別府・熱海・那須）とは異なる地域として鳥取県三朝温泉を今回新たに調査した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-20-izu-ochiairo-sauna", "region": "静岡県伊豆市湯ケ島", "category": "サウナ" },
+    { "post_id": "2026-10-21-sounkyo-hotel-taisetsu-sauna", "region": "北海道上川郡上川町層雲峡温泉", "category": "サウナ" },
+    { "post_id": "2026-10-22-kangetsuen-tokachigawa", "region": "北海道河東郡音更町十勝川温泉", "category": "サウナ" },
+    { "post_id": "2026-10-23-beppu-sauna (3件とも不採用)", "region": "大分県別府市（別府温泉）", "category": "サウナ" },
+    { "post_id": "2026-10-23-atami-nasu-sauna-recheck2 (4件とも不採用)", "region": "静岡県熱海温泉・栃木県那須温泉", "category": "サウナ" },
+    { "post_id": "2026-10-22-daisen-view-hotel", "region": "鳥取県大山（絶景ホテル）", "category": "絶景ホテル" },
+    { "post_id": "2026-10-22-mercure-tottori-daisen", "region": "鳥取県大山（絶景ホテル）", "category": "絶景ホテル" },
+    { "post_id": "2026-10-18-gourmet-ryokan-yonago / kaike-shogetsu", "region": "鳥取県米子市皆生温泉", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "既存の全data/candidates・captionsファイルを横断的に確認した。『三朝』『misasa』を含むファイルは本サイクル以前には存在せず、三朝温泉そのものを扱った候補・制作物はこれまでない。サウナカテゴリでは直近で伊豆(10-20)・層雲峡(10-21)・十勝川温泉(10-22)・別府(10-23)・熱海・那須(10-23再調査)を調査済みだが、いずれも三朝とは異なる地域であり重複はない。地域『鳥取県』としては、絶景ホテルカテゴリで大山・米子市皆生温泉エリア（西部）が2026-10-18・10-22に登場しているが、三朝温泉は鳥取県中部・東伯郡三朝町であり、エリア・カテゴリともに異なるため重複にはあたらない（別府の例と同様、同一県内の近接事例として本ノートに明記する）。",
+  "candidates": [
+    {
+      "id": "2026-10-24-keisenkaku-misasa",
+      "name": "三朝温泉 渓泉閣",
+      "region": "鳥取県東伯郡三朝町大字山田180",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "じゃらんnet（クチコミ総合）",
+          "score": 4.3,
+          "scale": 5,
+          "review_count": 297,
+          "checked_date": "2026-10-24",
+          "url": "https://www.jalan.net/yad387832/"
+        },
+        {
+          "source": "フォートラベル（施設一覧スニペット上の総合評価。個別口コミ本文・正確な件数は本セッションのWeb検索では特定できなかったためreview_countは0として記録）",
+          "score": 3.19,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-24"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "1泊1名8,900円〜という参考価格の掲載が確認できたが、掲載時期が古いスナップショットの可能性があり、プラン・時期により変動する。日帰り入浴についてはサウナ情報サイトで900円という掲載があったが、渓泉閣自身の最新料金として確定はできなかった。公共の宿（三朝町関連の公共性の高い宿）としてリーズナブルな料金帯とする紹介記事が複数あった。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する。本セッションでは公式サイトを特定できず、予約サイト経由の参考価格のみを確認した。"
+      },
+      "unique_experience": "世界有数のラドン含有量を誇る高温湧出の放射能泉（三朝温泉）の大浴場・露天風呂・気泡風呂に加え、男性サウナ94℃・女性サウナ90℃、水風呂20℃、外気浴ありという、ホテル付帯のミストサウナ等とは異なる本格的なドライサウナ構成を備える。2023年12月に全室リニューアルされたとする情報もあり、公共の宿ならではの手頃な価格で『ラドン泉で温まる→高温サウナ→水風呂→三朝川沿いで外気浴』という一連の体験ができる点が独自性といえる。",
+      "renewal_or_news": "2023年12月に全室リニューアルされたとする紹介記事（nap-camp.com）を確認したが、公式サイトでの直接確認はできておらず、1年以上前の情報のため最新性の根拠としては弱い。",
+      "target_audience": ["温泉好き", "一人旅", "夫婦", "友人"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 8,
+        "unique_experience_score": 17,
+        "photogenic": 7,
+        "value_for_price": 8,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 66,
+      "recommendation_reason": "じゃらんnetで297件・4.3という十分な母数の高評価が確認でき、男女とも90℃超の本格ドライサウナ+20℃水風呂+外気浴という、観光ホテルの付帯設備止まりではないサウナ体験を備える点は『サウナ』カテゴリとして独自性が高い。世界的に珍しい高温ラドン泉という地域性とも組み合わせられる。ただしフォートラベル側のスニペット評価は3.19とじゃらんより大きく下回り、楽天トラベル系アグリゲータの断片的な数値（4.49/4.41等、推薦者数が少数）も一致せず、独立2情報源での評価の一貫性にはばらつきがある。公式サイトを本セッションでは特定できず、現在の正確な料金・営業時間・サウナ利用条件も確認できていないため、今サイクルでは『shortlisted』とし、次回公式情報・追加の独立レビューを確認した上で再評価する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの断片的な口コミでは『団体向けでやや古い印象』『見学できる場所は限られ、若い世代には物足りないかもしれない』という指摘があった。また川沿いの露天風呂は道路から見える位置にあり、利用にはやや勇気がいるという指摘も確認した。衛生・安全上の重大な指摘は本セッションの検索範囲では見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "三朝温泉 渓泉閣 施設ページ（クチコミ総合4.3・297件） - じゃらんnet", "url": "https://www.jalan.net/yad387832/" },
+        { "type": "other", "title": "三朝温泉 渓泉閣 施設情報（2023年12月全室リニューアル等の紹介） - nap-camp.com", "url": "https://www.nap-camp.com/mag/6915" },
+        { "type": "other", "title": "三朝町のサウナ施設情報（渓泉閣 サウナ94/90℃・水風呂20℃・外気浴の記載） - サウナイキタイ", "url": "https://sauna-ikitai.com/tottori/%E4%B8%89%E6%9C%9D%E7%94%BA" }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "じゃらんの評価・件数は良好で本格サウナという独自性も確認できたが、独立2情報源間での評価の一貫性（じゃらん4.3 vs フォートラベル3.19・他アグリゲータの不一致）、公式サイト未特定、最新料金・営業時間未確認という複数のギャップが残るため、100点満点で66点・shortlisted扱いとした。次サイクルで公式情報と追加の独立レビューを確認できれば選定候補になり得る。"
+    },
+    {
+      "id": "2026-10-24-saiki-bekkan-ooedo-misasa",
+      "name": "大江戸温泉物語Premium 斉木別館",
+      "region": "鳥取県東伯郡三朝町",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Yahoo!トラベル（満足度）",
+          "score": 4.46,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-24",
+          "url": "https://travel.yahoo.co.jp/00900691"
+        },
+        {
+          "source": "JTBお客様アンケート（100点満点・サービス82/部屋76/夕食74/朝食80/大浴場82の内訳あり。件数は本セッションでは未確認のため0として記録）",
+          "score": 77,
+          "scale": 100,
+          "review_count": 0,
+          "checked_date": "2026-10-24"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "サウナ利用自体は日帰り700円からという掲載があり、大浴場は24時間営業とされる。宿泊プランの一人あたり料金は本セッションでは具体的に確認できなかった。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "高濃度のラドンを含む放射能泉の大浴場にサウナ・水風呂・外気浴を備え、24時間利用可能・日帰り入浴700円からという利便性がある。ただし『大江戸温泉物語』は全国展開するバイキング中心の価値訴求型温泉旅館チェーンであり、サウナ自体も大浴場付帯の一般的な設備であって、他エリアの系列施設と比べた際の三朝ならではの独自性は強くは確認できなかった。",
+      "target_audience": ["温泉好き", "家族", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 8,
+        "unique_experience_score": 10,
+        "photogenic": 8,
+        "value_for_price": 7,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 60,
+      "recommendation_reason": "Yahoo!トラベル満足度4.46、JTBアンケート77/100と数値自体は悪くなく、24時間・700円からというアクセスの良さもある。しかし(1)全国チェーンで『知られていない良さ』という本プロジェクトの軸からは外れること、(2)フォートラベル51件の個別評価は3.0〜4.0とばらつきがあり、icottoでは2.5という低評価の実レビューも確認されたこと、(3)サウナ自体が大浴場の一般的な付帯設備でチェーン共通のものであり三朝固有の独自性に乏しいこと、から今サイクルでは不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icottoに掲載の2024年4月宿泊カップルの口コミは評価2.5で、具体的な指摘内容は本セッションでは特定できなかった。フォートラベルの口コミ(51件)も3.0〜4.0と評価にばらつきがあり、重大な衛生・安全上の指摘は確認されなかったが、満足度が均一に高いとは言えない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "大江戸温泉物語 Premium 斉木別館 口コミ（満足度4.46） - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00900691" },
+        { "type": "review_site", "title": "大江戸温泉物語 Premium 斉木別館 クチコミ一覧（51件） - フォートラベル", "url": "https://4travel.jp/dm_hotel_tips/12960940" },
+        { "type": "review_site", "title": "大江戸温泉物語 Premium 斉木別館 口コミ（評価2.5） - icotto", "url": "https://icotto.jp/hotels/243" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価自体は及第点だが、チェーン共通の一般的なサウナ設備で三朝固有の独自性が薄く、口コミにもばらつき（2.5の実レビューを含む）があるため、本プロジェクトが重視する『まだ知られていない良さ』の軸からは今サイクルでは採用に至らなかった。"
+    },
+    {
+      "id": "2026-10-24-ryokan-ohashi-misasa",
+      "name": "三朝温泉 旅館大橋",
+      "region": "鳥取県東伯郡三朝町（三朝川沿い）",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "icotto掲載の個別口コミ（1件、件数が少なく信頼性は低い）",
+          "score": 2.5,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-24",
+          "url": "https://icotto.jp/hotels/5275"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションでは具体的な宿泊料金・日帰り入浴料金を確認できなかった。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "昭和7年（1932年）創業、登録有形文化財に指定された老舗旅館で、三朝川沿いに巌窟の湯（自然湧出のラジウム泉・トリウム泉）を持つ。サウナは『湯処せせらぎ』内のホルミシスミストサウナで、一般的な高温ドライサウナとは異なる低温の蒸気浴に近い体験。",
+      "target_audience": ["温泉好き", "夫婦", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 6,
+        "review_reliability": 3,
+        "unique_experience_score": 12,
+        "photogenic": 8,
+        "value_for_price": 3,
+        "sns_buzz": 2,
+        "access_and_freshness": 1
+      },
+      "score": 35,
+      "recommendation_reason": "登録有形文化財の老舗旅館という歴史的独自性、自然湧出の巌窟の湯という文化的魅力はあるが、(1)サウナが高温ドライ式ではなくホルミシスミストサウナであり『サウナ』カテゴリの想定からは外れる可能性が高いこと、(2)独立2情報源での数値評価を本セッションでは確認できず、唯一確認できたicottoの評価も件数1件・2.5と低いこと、から採用基準を満たさなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icottoの口コミ（1件・評価2.5）の具体的な指摘内容は本セッションでは特定できなかった。件数が1件のみのため、施設全体の評価として扱うには母数が不足している。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "三朝温泉 旅館 大橋 口コミ（評価2.5・1件） - icotto", "url": "https://icotto.jp/hotels/5275" },
+        { "type": "other", "title": "三朝温泉 旅館大橋 施設情報（湯処せせらぎ・ホルミシスミストサウナの記載） - 宿泊予約サイト掲載ページ", "url": "https://yado.knt.co.jp/st/S310076/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "歴史的価値は高いが、サウナが『サウナ』カテゴリの想定する高温ドライサウナではなく低温のミストサウナであること、独立2情報源での数値評価（原則7）を十分に確認できなかったことから、今サイクルでは不採用。カテゴリ『温泉旅館』や『文化体験』での再検討候補として記録する。"
+    },
+    {
+      "id": "2026-10-24-misasa-royal-hotel",
+      "name": "三朝ロイヤルホテル",
+      "region": "鳥取県東伯郡三朝町",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "数値評価データなし（サウナ情報サイトにサウナ室温度45℃・外気浴ありの記載はあったが、水風呂なし・宿泊者限定という設備上の制約が大きく、口コミサイトでの数値評価・件数は本セッションのWeb検索では確認できなかった）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-24"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションでは具体的な料金を確認できなかった。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "サウナ室45℃・外気浴可能という記載があるが、水風呂はなく、サウナ利用は宿泊者限定とされる。『サウナ』カテゴリとして独自性を打ち出せる要素は本セッションの調査範囲では確認できなかった。",
+      "target_audience": ["温泉好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 5,
+        "photogenic": 3,
+        "value_for_price": 2,
+        "sns_buzz": 1,
+        "access_and_freshness": 1
+      },
+      "score": 12,
+      "recommendation_reason": "水風呂がなくサウナも45℃と比較的低温、宿泊者限定という制約が大きく、公式情報・口コミ評価のいずれも本セッションでは十分に確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ自体が見つからず、低評価レビューの有無を確認できなかった。情報不足のため予防的にdisqualifying_issues_foundをtrueとして扱う。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "other", "title": "三朝温泉のサウナ付き宿一覧（三朝ロイヤルホテル サウナ45℃・外気浴の記載） - 旅行会社系宿泊予約サイト", "url": "https://yado.knt.co.jp/st/S310009/" },
+        { "type": "other", "title": "鳥取県のサウナ施設一覧（三朝町） - サウナイキタイ", "url": "https://sauna-ikitai.com/tottori/%E4%B8%89%E6%9C%9D%E7%94%BA?page=1" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "水風呂なし・宿泊者限定という設備上の制約が大きく、口コミ・公式情報も確認できなかったため、現在の営業状況や体験価値を裏取りできず不採用とした。"
+    }
+  ]
+}

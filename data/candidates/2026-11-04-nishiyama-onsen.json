@@ -1,0 +1,212 @@
+{
+  "candidates": [
+    {
+      "id": "2026-11-04-nishiyama-onsen-keiunkan",
+      "name": "西山温泉 慶雲館",
+      "region": "山梨県南巨摩郡早川町湯島",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル（甲信越・山梨県 高級ホテル・旅館ランキング集計）",
+          "score": 4.75,
+          "scale": 5,
+          "review_count": 725,
+          "checked_date": "2026-11-04",
+          "url": "https://travel.rakuten.co.jp/ranking/premium/yamanashi/minobu_0007_0_0_0_0.html"
+        },
+        {
+          "source": "Skyticket（口コミ集計）",
+          "score": 4.7,
+          "scale": 5,
+          "review_count": 494,
+          "checked_date": "2026-11-04",
+          "url": "https://skyticket.jp/hotel/detail/property_1025739/"
+        },
+        {
+          "source": "Relux（ルクス）",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 30,
+          "checked_date": "2026-11-04",
+          "url": "https://rlx.jp/22961/review/"
+        },
+        {
+          "source": "フォートラベル",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-11-04",
+          "url": "https://4travel.jp/dm_hotel_tips/10251764"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベルのランキング掲載では2026年3月リニューアル後の料金として25,000円〜（税込27,500円〜）という表示を確認。一方、別の予約サイト（じゃらん系列）では和室10畳・2食付き1名1泊73,900円〜、数寄屋造り和室12畳80,800円〜という表示もあり、部屋タイプ・プラン・時期により幅が大きい。このセッションのネットワーク環境では慶雲館の公式サイト（ドメイン未確認）やじゃらん個別ページへの直接WebFetchができず、2026年11月時点の最新プラン料金までは確定できなかった。",
+        "as_of_search_date": "2026-11-04",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "慶雲2年（705年）開湯の伝承を持ち、2011年にギネス世界記録「世界で最も歴史ある旅館」として認定された一軒宿。藤原鎌足の息子・真人が狩猟の途中で岩間から湧く湯を見つけたという言い伝えがあり、武田信玄・徳川家康も訪れたと伝わる。毎分1,630〜1,635L・湯温52℃・自噴圧力17気圧という豊富な自家源泉を加温加水なしで全館（客室風呂を含む）かけ流しにしている点が最大の特徴。2026年3月に大規模リニューアルを実施し、開湯から現代までの1,300年の歴史と武田信玄・徳川家康ゆかりを紹介する歴史資料展示室「慶雲の歩路」を新設した。JR身延線身延駅から路線バスで約90分という深い山中に位置し、知名度（ギネス認定）に反して実際に訪れる人は限られる「静かな一軒宿」である。",
+      "renewal_or_news": "楽天トラベルの施設名表記に「2026年3月リニューアル」と明記されており、新設の歴史資料展示室「慶雲の歩路」の存在も確認できた。2026年5〜6月更新のランキングページにも口コミが反映されており、リニューアル後も通常営業を継続していることが確認できる。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 19,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 85,
+      "recommendation_reason": "楽天トラベル4.75（725件）・Skyticket集計4.7（494件）・Relux4.4（30件）と、複数の独立した主要サイトで安定して4.0（5点満点換算）を上回る評価が確認できた。2011年ギネス世界記録「世界で最も歴史ある旅館」認定、慶雲2年（705年）開湯、毎分1,630L超・52℃の自家源泉を加温加水なしで全館かけ流しという、数字と由緒の両面で裏付けられる独自性がある。2026年3月のリニューアルで歴史資料展示室「慶雲の歩路」を新設したという直近の動きがあり、今紹介する意義（鮮度）も確認できる。身延駅から路線バス約90分という深い山中の立地のため、ギネス認定という知名度の高さに反して実際の訪問者数・SNS露出は限られており、『知られていない良さをどう伝えるか』という原則6のHidden Gem的意義にも合致する。負の口コミ（設備の古さを指摘する声、2010年の古いサンプル1件）は重大な欠格事由とは判断しなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Reluxの口コミに『設備が古いのは仕方ないですが』という言及があるが、山深い立地と歴史的建築を踏まえた許容的なコメントで、同論調の重大な不満の集中は確認できなかった。フォートラベルの2010年投稿（評価4.0）はサンプルが1件のみと古いが内容は好意的。2026年の新しい口コミ（cocolocala等）も源泉の質・自然環境を称賛する内容が中心で、営業停止・衛生・接客トラブル等の決定的な低評価情報は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "慶雲館の現当主は川野健治郎氏で、tabi-mag.jpの記事（ギネス世界記録認定にまつわる取材）によれば53代にわたり宿を営んできた一族の当主であり、創業伝承（藤原真人が狩猟中に湧出する湯を見つけたという言い伝え）について本人が『ある程度、ロマンと考えています』と語ったことが確認できる。また、2018年に旅館事業を新会社「西山温泉慶雲館」へ譲渡した際の報道（TravelVoice／東京商工リサーチ関連記事）では、当時の当主（53代目）が『先代の意向を引き継ぎ、次の継承まで歴史を守っていきたい』という趣旨の発言をしたと伝えられている。一方で、2026年3月に実施されたとされるリニューアル（歴史資料展示室『慶雲の歩路』の新設を含む）について、設計者・改修方針・この改修に当主がどのような思いを込めたかを直接語ったインタビュー記事は、このセッションのWebSearchの範囲では見つけられなかった。したがって『1300年の歴史を次代へ守り継ぐ』という当主の基本姿勢は出典付きで確認できたが、2026年3月リニューアルそのものの設計意図・当主個人の最新の言葉については『確認できなかった』ことをここに明記する。推測やインタビュー発言の創作は行っていない。制作レーンに引き継ぐ際は、公式サイト（ドメイン未確認、WebFetch不可）やプレスリリース配信サイトでの再調査を推奨する。",
+        "sources": [
+          {
+            "type": "other",
+            "title": "世界最古のホテル「慶雲館」53代当主・川野健治郎さんのコメントを含む記事 - tabi-mag.jp",
+            "url": "https://tabi-mag.jp/oldest-hotel/"
+          },
+          {
+            "type": "press",
+            "title": "世界最古の温泉宿「慶雲館」の元経営会社が解散、運営は継続 ―東京商工リサーチ（TravelVoice）",
+            "url": "https://www.travelvoice.jp/20180730-115324"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "楽天トラベル 甲信越・山梨県 高級ホテル・旅館ランキング（慶雲館 総合4.75・725件）",
+          "url": "https://travel.rakuten.co.jp/ranking/premium/yamanashi/minobu_0007_0_0_0_0.html"
+        },
+        {
+          "type": "review_site",
+          "title": "Skyticket 西山温泉 慶雲館 クチコミまとめ（総合4.7・494件）",
+          "url": "https://skyticket.jp/hotel/detail/property_1025739/"
+        },
+        {
+          "type": "review_site",
+          "title": "Relux（ルクス）慶雲館 クチコミ（4.4/5・30件）",
+          "url": "https://rlx.jp/22961/review/"
+        },
+        {
+          "type": "other",
+          "title": "山梨県観光公式サイト いちおしの宿「慶雲館」紹介ページ",
+          "url": "https://www.yamanashi-kankou.jp/special/ichioshiyado/keiunkan.html"
+        },
+        {
+          "type": "press",
+          "title": "世界最古の温泉宿「慶雲館」の元経営会社が解散、運営は継続 ―東京商工リサーチ（TravelVoice）",
+          "url": "https://www.travelvoice.jp/20180730-115324"
+        },
+        {
+          "type": "other",
+          "title": "世界最古のホテル「慶雲館」ギネス世界記録・当主コメント紹介記事 - tabi-mag.jp",
+          "url": "https://tabi-mag.jp/oldest-hotel/"
+        }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-11-04-nishiyama-onsen-horaikan",
+      "name": "西山温泉 元湯 蓬莱館",
+      "region": "山梨県南巨摩郡早川町湯島",
+      "category": "温泉旅館",
+      "is_hidden_gem": true,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは、じゃらん・楽天トラベル・一休等の主要予約サイトにおける蓬莱館個別ページ、入浴料・宿泊料金の具体的な数値を確認できなかった。日帰り入浴は1,000円前後、営業時間11:00〜15:00頃という旅ブログの記述があったが、宿泊プラン料金は未確認。",
+        "as_of_search_date": "2026-11-04",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "慶雲館と早川を挟んで向かい合う、数百年続くとされる小さな家族経営の老舗宿。全国でも珍しい黄金色の湯の花が舞う湯として知られ、江戸時代には貧しい農民が毎日浸かると豊作になり『お金持ちになれる温泉』と噂された伝承が残る。五葉松の浴槽を三つに仕切り、42℃前後の源泉をそのままと加温した湯に交互に浸かれる構成で、pH8.0前後の単純温泉とされる。",
+      "target_audience": ["温泉好き", "一人旅", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 15,
+        "photogenic": 8,
+        "value_for_price": 0,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 27,
+      "recommendation_reason": "黄金色の湯の花や『お金持ちになれる温泉』の伝承など独自性は高く、穴場（is_hidden_gem）として原則8の対象になり得る。しかし、じゃらん・楽天トラベル・Google等の主要サイトで宿泊者による数値評価（口コミ件数）を本セッションのWebSearchでは一件も確認できず、原則6・7の判定material自体が存在しないため、現時点では不採用とする。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ニフティ温泉の口コミでは『日本でも、もっとも個性的な湯の一つではないかしら』という好意的な評価とともに、駐車場の場所が分かりにくいという指摘があった。重大な欠格事由となる低評価・トラブル情報は確認できなかったが、そもそも宿泊者レビューの絶対数が極めて少なく、判断材料が不足している。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "黄金色の湯の花が舞う山梨県「元湯 蓬莱館」はアットホームな秘湯 - 旅色（travel.co.jp）",
+          "url": "https://www.travel.co.jp/guide/article/19768/"
+        },
+        {
+          "type": "review_site",
+          "title": "西山温泉（山梨）口コミ一覧 - ニフティ温泉",
+          "url": "https://onsen.nifty.com/nishiyama-yamanashi-onsen/"
+        },
+        {
+          "type": "other",
+          "title": "山梨県観光公式サイト 西山温泉エリア紹介（早川にかかる橋、右が蓬莱館・左が慶雲館の記載）",
+          "url": "https://www.yamanashi-kankou.jp/fc/location/24/24007.html"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独自性・穴場性は高いが、宿泊者による数値評価・口コミ件数を主要サイトで一件も確認できず、原則6・7の判定基準を満たすデータが存在しないため、今回のサイクルでは不採用。将来、じゃらん・楽天トラベル・Googleマップ等で数値口コミが確認できれば再評価の対象とする。"
+    },
+    {
+      "id": "2026-11-04-nishiyama-onsen-yushimanoyu",
+      "name": "西山温泉 湯島の湯",
+      "region": "山梨県南巨摩郡早川町湯島",
+      "category": "温泉旅館",
+      "is_hidden_gem": true,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "料金は確認できず、電話問い合わせ先（0556-48-2468）のみ確認できた。山梨県観光サイトの掲載情報は2024年9月18日時点のものと注記されており、最新の営業・料金情報ではない可能性がある。",
+        "as_of_search_date": "2026-11-04",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "石造りの露天風呂があり、硫黄の匂いのするpH9.8の高アルカリ性源泉100%の湯を1名から日帰り利用できる。宿泊はコテージタイプで調理道具が一通り揃った素泊まり形式とされ、旅館として食事提供・接客サービスを伴う通常の『温泉旅館』とは運営形態が異なる。営業は9〜6月10:00〜18:00、7〜8月10:00〜19:00、木曜定休（別サイト情報、要最新確認）。",
+      "target_audience": ["一人旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 10,
+        "photogenic": 7,
+        "value_for_price": 0,
+        "sns_buzz": 1,
+        "access_and_freshness": 2
+      },
+      "score": 20,
+      "recommendation_reason": "高アルカリ性源泉100%の石造り露天という泉質面の独自性はあるが、コテージ型の素泊まり・自炊施設であり、旅館としての食事・接客を伴う『温泉旅館』カテゴリーの体験価値としては弱い。宿泊者による数値口コミも確認できず、公式サイトも見つからなかったため不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "主要レビューサイトに宿泊者口コミそのものが見つからず、ネガティブ情報の有無を判断する材料がなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "山梨県観光公式サイト 西山温泉 湯島の湯 紹介ページ",
+          "url": "https://www.yamanashi-kankou.jp/kankou/stay/p5_5047.html"
+        },
+        {
+          "type": "other",
+          "title": "JAPAN 47 GO 西山温泉 湯島の湯 施設情報（営業時間・チェックイン表記）",
+          "url": "https://www.japan47go.travel/en/detail/6c1f3cbd-a01f-4c4f-a437-438831b2a884"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "旅館としての食事・接客サービスを伴わないコテージ型素泊まり施設であり、カテゴリー『温泉旅館』として紹介する体験価値が薄い。数値口コミも確認できず不採用。"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "cycle_date": "2026-10-23",
+  "theme": "列車・船カテゴリ（リサーチ＋キャプションのみ、画像構成なし）— 依頼により『北海道「SLニセコ号」またはJR北海道の観光列車』を対象に調査した。",
+  "season_rationale": "依頼の起点である『SLニセコ号』は2014年秋の運転を最後に終了しており、現存しない。そのため調査対象を『JR北海道の観光列車（またはそれに準じる北海道の船）』に広げ、2026年秋〜冬にかけて北海道で話題になっている観光列車・遊覧船を横断的に確認した。ちょうど2026年9〜10月は『富良野・美瑛ノロッコ号』（9/23ラストラン）と『くしろ湿原ノロッコ号』（10/10ラストラン）という道内の代表的な観光列車2系統が相次いで定期運行を終了したタイミングであり、後継の『赤い星』『青い星』は2027年2月・6月開始予定でまだ運行していない。この『観光列車の過渡期』という北海道特有の事情を踏まえ、依頼にある『必ず現在も定期運行していることを確認した上で調査する』という条件を厳密に適用した。",
+  "prior_posts_checked_note": "captions/ と data/candidates/ 配下の全期間（2026-09-14〜2026-10-22、1ヶ月以上前の2026-09-14サイクルを含む）を確認した。『列車・船』カテゴリはこれまでに以下が存在する：2026-09-14 嵯峨野トロッコ（選定）・黒部峡谷鉄道（当時不採用）・西武52席の至福（不採用）／2026-09-18 ゆふいんの森（選定）・かわせみ やませみ（不採用）・或る列車（不採用）／2026-09-22 guntû瀬戸内クルーズ（選定）／2026-10-17 軍艦島クルーズ（選定）・ふたつ星4047（不採用）／2026-10-18 黒部峡谷トロッコ（選定）／2026-10-19 おれんじ食堂（不採用）・桜島フェリー（不採用）／2026-10-20 くま川鉄道（不採用）・保津川下り（不採用）・大井川鐵道SL（選定）／2026-10-21 伊予灘ものがたり（選定）・丹後くろまつ号（不採用）・WEST EXPRESS銀河（レビュー未確認のため候補外）／2026-10-22 かわせみ やませみ再調査（不採用）・四国まんなか千年ものがたり（不採用）・TWILIGHT EXPRESS瑞風（不採用）。これらのいずれにも北海道の列車・船は一件も含まれておらず、地域としては今回が完全に新規。",
+  "duplication_note": "本サイクルで調査した6候補（SLニセコ号／富良野・美瑛ノロッコ号／くしろ湿原ノロッコ号／SL冬の湿原号／流氷物語号／洞爺湖汽船）は、上記の重複チェックの結果、過去の全サイクルで一度も候補として登場していない完全新規の事業者・施設であることを確認した。",
+  "other_candidates_considered": [
+    { "name": "特急ニセコ号（JR北海道 季節限定ディーゼル特急／札幌・ニセコ・函館）", "note": "2026年は9/5〜9/27の16日間のみの季節運行で、調査日（10/23）時点では既に運行終了（次回は例年秋）。現在運行中ではないため本採点の対象外とした。" },
+    { "name": "THE ROYAL EXPRESS 北海道クルーズ", "note": "現行車両による北海道運行は2026年夏（8〜9月に計8回）で終了し、2027年以降は後継の『赤い星』に切り替わる予定。定期運行ではなく少数回のチャータークルーズのため対象外とした。" }
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-23-sl-niseko",
+      "name": "SLニセコ号（JR北海道・蒸気機関車）",
+      "region": "北海道（札幌〜小樽〜蘭越、函館本線）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "運行終了のため評価対象外（Tripadvisor・じゃらんnet・Googleマップ等での現行評価は非存在）", "score": 0, "scale": 5, "review_count": 0, "checked_date": "2026-10-23" }
+      ],
+      "price_range_jpy": {
+        "note": "現在運行していないため価格情報なし。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "依頼の起点となった蒸気機関車牽引の観光列車。2014年秋の札幌〜蘭越間での運転を最後に運行終了し、2015年度以降の運行打ち切りが固まっている。後継の季節限定ディーゼル特急『ニセコ号』（2026年は9/5〜9/27のみ）はSLではなく、調査日時点では既に運行終了している。",
+      "renewal_or_news": "該当なし（2014年に運行終了）。",
+      "target_audience": ["絶景好き", "家族"],
+      "score_breakdown": {
+        "review_rating": 0, "review_reliability": 0, "unique_experience_score": 0,
+        "photogenic": 0, "value_for_price": 0, "sns_buzz": 0, "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "依頼で名前の挙がった『SLニセコ号』そのものは2014年に運行終了しており現存しない。後継の『特急ニセコ号』も年1回・16日間程度の季節限定運行で、調査日（10/23）時点では既に終了済み。『現在も定期運行していること』の確認要件を満たさないため、実在しない数値を作らずscoreを0（評価対象外）として記録した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "運行自体が終了しているため口コミの新規確認対象にならない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "SL雄姿、最後の季節 ニセコ号運行開始 - 北海道新聞", "url": "https://www.hokkaido-np.co.jp/movies/detail/5293420079001/" },
+        { "type": "other", "title": "SLニセコ号 運行終了の経緯 - tabiris.com", "url": "https://tabiris.com/archives/slniseko/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "2014年を最後に運行終了しており、現在定期運行していないため不採用（依頼の確認要件を満たさない）。"
+    },
+    {
+      "id": "2026-10-23-furano-biei-norokko",
+      "name": "富良野・美瑛ノロッコ号（JR北海道 観光トロッコ列車）",
+      "region": "北海道（旭川〜富良野、美瑛〜富良野、富良野線）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "運行終了のため評価対象外", "score": 0, "scale": 5, "review_count": 0, "checked_date": "2026-10-23" }
+      ],
+      "price_range_jpy": {
+        "note": "終了済みのため最新価格の確認は不要と判断。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "1998年開業、旭川〜富良野・美瑛〜富良野を走る全車指定席の観光トロッコ。車両老朽化のため2026年9月23日にラストランを迎え、28年の歴史に幕を閉じた。後継観光列車（通称『赤い星』『青い星』）は運用開始が遅れ、富良野・美瑛エリアの『青い星』は2027年6月開始予定でまだ運行していない。",
+      "renewal_or_news": "2026年9月23日ラストラン（公式発表）。",
+      "target_audience": ["家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 0, "review_reliability": 0, "unique_experience_score": 0,
+        "photogenic": 0, "value_for_price": 0, "sns_buzz": 0, "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "2026年9月23日のラストランをもって定期運行を終了しており、後継列車（『青い星』2027年6月開始予定）はまだ運行していない。『現在も定期運行していること』の確認要件を満たさないため不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "運行終了済みのため新規のネガティブ内容確認は対象外。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "富良野・美瑛まんきつノロッコ号 特別運転のお知らせ - JR北海道", "url": "https://www.jrhokkaido.co.jp/CM/Info/press/pdf/20260807_AS_HP_mankitsunorokko.pdf" },
+        { "type": "other", "title": "富良野・美瑛ノロッコ号 2026年ラストラン - tabi-mag.jp", "url": "https://tabi-mag.jp/norokko2026/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "2026年9月23日に運行終了（28年の歴史に幕）しており、現在定期運行していないため不採用。"
+    },
+    {
+      "id": "2026-10-23-kushiro-shitsugen-norokko",
+      "name": "くしろ湿原ノロッコ号（JR北海道 観光トロッコ列車）",
+      "region": "北海道（釧路〜塘路、釧網本線）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "運行終了のため評価対象外", "score": 0, "scale": 5, "review_count": 0, "checked_date": "2026-10-23" }
+      ],
+      "price_range_jpy": {
+        "note": "終了済みのため最新価格の確認は不要と判断。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "釧路湿原を眺めながら走る観光トロッコ列車（2代目車両）。2026年4月25日〜10月4日の定期運行141日間に加え、10月9日・10日に追加のラストランを実施し、10月10日（調査日の13日前）に37年間の運行を終えた。JR北海道によれば2027年度以降の運行計画は未定。",
+      "renewal_or_news": "2026年10月10日ラストラン（37年の歴史に幕）。2027年度以降は未定。",
+      "target_audience": ["家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 0, "review_reliability": 0, "unique_experience_score": 0,
+        "photogenic": 0, "value_for_price": 0, "sns_buzz": 0, "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "調査日のわずか13日前（2026年10月10日）に37年間の定期運行を終了しており、2027年度以降の運行計画も未定（共同通信報道）。現在は定期運行していないため不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "運行終了済みのため新規のネガティブ内容確認は対象外。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "くしろ湿原ノロッコ号 ラストラン・取り組みのお知らせ - JR北海道", "url": "https://www.jrhokkaido.co.jp/CM/Info/press/pdf/20260930_KU_Lastrun_torikumi.pdf" },
+        { "type": "press", "title": "『くしろ湿原ノロッコ号』最後の運行 JR釧網線 - 北海道新聞", "url": "https://www.hokkaido-np.co.jp/movies/detail/6406588754112" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "2026年10月10日に運行終了（37年の歴史に幕）しており、現在定期運行していないため不採用。"
+    },
+    {
+      "id": "2026-10-23-sl-fuyu-no-shitsugen",
+      "name": "SL冬の湿原号（JR北海道 蒸気機関車・釧網本線）",
+      "region": "北海道（釧路〜標茶、釧網本線）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "来季（2027年冬）の運行未確認のため評価保留", "score": 0, "scale": 5, "review_count": 0, "checked_date": "2026-10-23" }
+      ],
+      "price_range_jpy": {
+        "note": "2026年シーズンの実績のみ確認。2027年シーズンの料金は未発表。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2000年から続く冬季限定の蒸気機関車（C11形）による観光列車。釧路〜標茶間を走り、全席指定。2026年シーズンは1月17日〜3月15日の金・土・日・祝日中心に運行（25周年を迎えた2025年シーズンは特別装飾あり）。2026年2月には機関車の不具合で一時ディーゼル機関車代走となった。",
+      "renewal_or_news": "廃止発表はなく、25年以上続く冬の恒例列車。ただし調査日（10/23）時点で2027年シーズン（来季1〜3月）の運行発表はまだ確認できなかった。",
+      "target_audience": ["絶景好き", "家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 0, "review_reliability": 0, "unique_experience_score": 0,
+        "photogenic": 0, "value_for_price": 0, "sns_buzz": 0, "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "25年以上続く恒例の冬季観光列車で廃止発表はないが、運行は毎年1〜3月の冬季限定であり、調査日（10/23）時点はオフシーズンかつ2027年シーズンの運行発表をまだ確認できなかった。『現在も定期運行していることを確認した上で調査する』という要件を本サイクルでは満たせないため、確証が取れるまで保留（不採用）とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "機関車故障による一時ディーゼル代走（2026年2月）があったが、運休には至らず重大な指摘は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "JR北海道「SL冬の湿原号」牽引機関車を変更 - 鉄道チャンネル", "url": "https://tetsudo-ch.com/13022291.html" },
+        { "type": "other", "title": "「SL冬の湿原号」2026年1月17日運転開始 - tabi-mag.jp", "url": "https://tabi-mag.jp/c11-kushiro/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "冬季限定運行で調査日時点はオフシーズン。来季（2027年1〜3月）の運行発表を本サイクルでは確認できず、現在運行中であることの確証が取れないため不採用（再調査候補として保留）。"
+    },
+    {
+      "id": "2026-10-23-ryuhyo-monogatari",
+      "name": "流氷物語号（JR北海道 観光列車・釧網本線）",
+      "region": "北海道（網走〜知床斜里、釧網本線）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "数値評価データなし（Tripadvisor・じゃらんnet・4travel・Googleマップのいずれも評価ページを発見できず）", "score": 0, "scale": 5, "review_count": 0, "checked_date": "2026-10-23" }
+      ],
+      "price_range_jpy": {
+        "note": "2024年報道ベースで片道970円程度（最新運賃は未確認）。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "流氷ノロッコ号の後継として登場した冬季限定の観光列車。網走〜知床斜里間37.3kmをディーゼルカー2両で運行し、オホーツク海側の一部座席は指定席。2026年シーズンは1月31日〜3月1日と3月7・8日に運行。車窓から流氷（接岸状況により見え方は変動）を眺められる。",
+      "renewal_or_news": "廃止発表はなく毎年運行されている冬の季節列車だが、2027年シーズンの運行発表は調査日時点で未確認。",
+      "target_audience": ["絶景好き", "家族"],
+      "score_breakdown": {
+        "review_rating": 0, "review_reliability": 0, "unique_experience_score": 0,
+        "photogenic": 0, "value_for_price": 0, "sns_buzz": 0, "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "冬季限定（例年1月下旬〜3月上旬）で調査日時点はオフシーズンであり、2027年シーズンの運行発表も本サイクルでは確認できなかった。加えてTripadvisor・じゃらんnet・4travel・Googleマップのいずれでも列車自体の数値評価（★点数・件数）を一件も発見できず、原則6・7が求める『独立2情報源以上の数値的裏付け』が成立しないため、実在しない数値を作らずscoreを0（評価対象外）として記録し不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "数値評価自体が存在しないため個別のネガティブ内容確認はできなかった。『流氷が接岸せず見えなかった年もある』という報道があり、季節性由来の体験差は事前説明が必要。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "冬こそ北海道! 車窓から流氷を見学する「流氷物語号」運転 - tabi-mag.jp", "url": "https://tabi-mag.jp/ryuhyou-train/" },
+        { "type": "press", "title": "流氷物語号 今季初運行 - 北海道新聞", "url": "https://www.hokkaido-np.co.jp/article/811786/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "冬季限定運行で調査日時点はオフシーズンかつ来季の運行発表未確認。さらに主要レビューサイトで数値評価を一件も確認できず、原則6・7の判定自体が成立しないため不採用。"
+    },
+    {
+      "id": "2026-10-23-toyako-kisen",
+      "name": "洞爺湖汽船（双胴船「エスポアール」遊覧クルーズ）",
+      "region": "北海道虻田郡洞爺湖町（洞爺湖温泉発、洞爺湖一周クルーズ）",
+      "category": "列車・船",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "数値評価データなし（Tripadvisor・じゃらんnet・4travel・Googleマップのいずれも評価ページを発見できず）", "score": 0, "scale": 5, "review_count": 0, "checked_date": "2026-10-23" }
+      ],
+      "price_range_jpy": {
+        "note": "遊覧船 大人1,500円・小人750円（夏季料金ベース、要最新確認）。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "洞爺湖は結氷しない湖のため、双胴船『エスポアール』による遊覧クルーズは通年運航（夏季8:30〜16:30・30分毎、冬季9:00〜16:00・60分毎、約50分の周遊）。湖に浮かぶ中島や、羊蹄山・有珠山を望む車窓ならぬ『船窓』が特徴。揺れが少なく安定した乗り心地という紹介あり。",
+      "renewal_or_news": "特記すべき新規性はないが、通年運航のため『現在も定期運行していること』は確実に確認できる。",
+      "target_audience": ["家族", "カップル", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 0, "review_reliability": 0, "unique_experience_score": 0,
+        "photogenic": 0, "value_for_price": 0, "sns_buzz": 0, "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "北海道の列車・船候補の中で唯一、季節に関係なく通年運航しており『現在も定期運行していること』を最も確実に確認できた候補。ただしTripadvisor・じゃらんnet・4travel・Googleマップのいずれにおいても遊覧船自体の数値評価（★点数・件数）を記載したページを一件も発見できず、原則6・7が求める『主要レビューサイト評価4.0以上を独立2情報源以上の数値的裏付けで確認する』という条件を満たせなかった。実在しない数値を作らずscoreを0（評価対象外）として記録し、今回は不採用とした。穴場（is_hidden_gem）として今後、数値評価が確認できれば再調査の価値がある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "数値評価自体が存在しないため個別のネガティブ内容確認はできなかった。重大な指摘があるという情報も見つかっていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "洞爺湖温泉 観光情報（遊覧船の営業時間・料金） - まっぷるトラベルガイド", "url": "https://www.mapple.net/region/a0102030101/spot/" },
+        { "type": "other", "title": "洞爺湖 遊覧船・水中観光船 一覧 - まっぷるトラベルガイド", "url": "https://www.mapple.net/region/a0100000000_g04030703_s-situation=female/spot/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "通年運航で現在も定期運行していることは確認できたが、主要レビューサイトで数値評価を一件も確認できず、原則6・7の判定自体が成立しないため不採用。"
+    }
+  ],
+  "conclusion": "該当なし。依頼の起点『SLニセコ号』は2014年に運行終了し現存しないことを確認した。調査を『JR北海道の観光列車（および北海道の船）』に広げ、富良野・美瑛ノロッコ号／くしろ湿原ノロッコ号／SL冬の湿原号／流氷物語号／洞爺湖汽船の5候補を追加調査した（計6候補、WebSearch9件実施）。結果、(1)富良野・美瑛ノロッコ号とくしろ湿原ノロッコ号はこの秋（9/23・10/10）に相次いで定期運行を終了済み、(2)SL冬の湿原号と流氷物語号は冬季限定で調査日時点はオフシーズンかつ来季（2027年）運行の確証が取れず、(3)洞爺湖汽船は通年運航で運行中であることは確認できたものの、数値化された口コミ評価（★点数）をTripadvisor・じゃらんnet・4travel・Googleマップのいずれでも一件も発見できなかった。いずれも依頼の確認要件（現在も定期運行していること）または原則6・7（主要レビュー4.0以上・独立2情報源の数値的裏付け）を満たせず、実在しない数値を捏造しないため、本サイクルでのselected候補は0件とした。captions/ への新規キャプション制作も見送り。次回以降、JR北海道の後継観光列車『赤い星』（2027年2月〜）『青い星』（2027年6月〜）の運行開始後、または洞爺湖汽船等の数値評価が確認できる情報源が見つかった際に再調査する価値がある。"
+}

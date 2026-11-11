@@ -1,0 +1,138 @@
+{
+  "cycle_date": "2026-10-18",
+  "theme": "広島県廿日市市 宮島・宮島口エリアの絶景ホテル",
+  "season_rationale": "10月後半は宮島周辺の残暑が落ち着き、瀬戸内海を眺めながらのテラス・露天風呂体験が快適になる季節。紅葉本番（11月中旬〜）の前のこの時期は、宮島中心部（厳島神社・表参道商店街）の混雑が本格化する前のタイミングでもあり、島内でも人の少ない静かな立地にあるホテルを紹介する動機づけになる。なお、星野リゾート『界 宮島』が2026年7月23日に宮島口温泉で開業しているが、今回のWebSearchでは利用者口コミの数値評価を一件も確認できず（予約サイト側も『口コミの取得に失敗しました』と表示）、原則6・7の評価基準を満たす材料がないため、候補としては正式スコアリングせず参考情報としてのみ記録する（捏造回避）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-kahou-tsukioka", "region": "新潟県胎内市月岡温泉", "category": "サウナ" },
+    { "post_id": "2026-10-17-aquasense-onna", "region": "沖縄県国頭郡恩納村", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-17-hoshino-iriomote-hotel", "region": "沖縄県八重山郡竹富町西表島", "category": "離島リゾート" },
+    { "post_id": "2026-10-17-atami-sekaie", "region": "静岡県熱海市伊豆山", "category": "絶景ホテル" },
+    { "post_id": "2026-10-16-kai-sengokuhara", "region": "神奈川県足柄下郡箱根町仙石原", "category": "絶景ホテル" },
+    { "post_id": "2026-09-22-nonokaze-resort-toya", "region": "北海道虻田郡洞爺湖町", "category": "絶景ホテル" }
+  ],
+  "duplication_note": "広島県（宮島・宮島口エリア）はdata/candidates・captionsに一度も登場していない新規地域。カテゴリ『絶景ホテル』は熱海（2026-10-17）・箱根（2026-10-16）・洞爺湖（2026-09-22）で既出だが、いずれも地域・景観の切り口が異なり、かつ直近の投稿はサウナ→オールインクルーシブ→離島リゾートと間に3サイクル挟んでいるため、原則29の連続重複には抵触しないと判断した。",
+  "candidates": [
+    {
+      "id": "2026-10-18-miyajima-seaside-hotel",
+      "name": "宮島シーサイドホテル",
+      "region": "広島県廿日市市宮島町（宮島島内・厳島神社から少し離れた静かな立地）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル（クチコミ）", "score": 4.74, "scale": 5, "review_count": 579, "checked_date": "2026-10-18" },
+        { "source": "Skyticket（クチコミ）", "score": 4.5, "scale": 5, "review_count": 1001, "checked_date": "2026-10-18", "url": "https://skyticket.jp/hotel/hiroshima/bl_340004/" }
+      ],
+      "price_range_jpy": {
+        "note": "JTB掲載プランでは大人1名（2名1室利用時、1泊2食）14,850円〜31,900円（税込）という表示を確認。KNT（近畿日本ツーリスト）掲載プランでも時期により17,600円〜28,600円／人、15,400円〜22,000円／人などの表示があった。いずれも参考値で、正確な料金・プラン内容は公式・各予約サイトで要確認。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "厳島神社・表参道の喧騒から少し離れた、宮島島内でも人の少ない静かな立地にあるホテルで、公式系の掲載情報では『全客室より海が望めます』とされている。屋外にテントサウナとハンモックを備え、サウナで温まった後に瀬戸内の海を眺めながらハンモックで休むという、宮島の宿では珍しい『絶景×サウナ』の過ごし方ができる。宮島港からは無料送迎バス（8:00-10:00／15:00-18:00）が出ている。",
+      "target_audience": ["カップル", "女子旅", "一人旅", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 12,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 78,
+      "recommendation_reason": "楽天トラベル4.74（579件）・Skyticket4.5/5（1,001件）という、性質の異なる2つの独立した情報源でいずれも推奨ライン4.2以上を上回る評価を確認できた（原則6・7）。宮島観光の中心（厳島神社周辺）から離れた静かな立地で全客室海一望、さらにテントサウナ＋ハンモックという、宮島の宿泊施設としては独自性の高い過ごし方ができる点を高く評価した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icotto掲載の個別口コミ（3.5点、1件）は本文が確認できず詳細不明だった。また、大浴場が天然温泉かどうかについて情報源間で表記が食い違っており（icottoは『温泉付き』と紹介する一方、KNTの客室・設備写真ページでは『大浴場は天然温泉ではございません』と明記）、どちらが正確か今回のWebSearchでは断定できなかったため、キャプションでは温泉を名物として強調しない方針にした。清潔感・接客・安全性に関する重大な指摘は確認できなかったが、検索予算の制約上、低評価レビュー本文を網羅的には確認できていない点は留意事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "宮島シーサイドホテル - Skyticket", "url": "https://skyticket.jp/hotel/hiroshima/bl_340004/" },
+        { "type": "booking_site", "title": "宮島シーサイドホテル - じゃらん（『瀬戸内の絶景を楽しむ隠れ宿』）", "url": "https://www.jalan.net/yad355060/" },
+        { "type": "other", "title": "宮島シーサイドホテル - icotto（テントサウナ・ハンモックの紹介）", "url": "https://icotto.jp/hotels/1089" },
+        { "type": "other", "title": "宮島シーサイドホテル 客室・設備写真 - KNT近畿日本ツーリスト", "url": "https://yado.knt.co.jp/photo/S340059/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-18-granvillio-miyajima-wagura",
+      "name": "グランヴィリオホテル宮島 和蔵",
+      "region": "広島県廿日市市宮島口",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル（クチコミ）", "score": 4.56, "scale": 5, "review_count": 1618, "checked_date": "2026-10-18" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な1泊2食の料金は今回のWebSearchでは確認できなかった。cocolocalaでは最安料金の目安として15,388円〜という表示があった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "瀬戸内海と宮島を望む立地にある210室の大型ホテル。天然温泉『日本三景みやじまの湯』の大浴場・露天風呂・サウナを備え、JR宮島口から送迎がある。無料ドリンクサービスが口コミで好評。",
+      "target_audience": ["家族", "温泉好き", "友人"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 6,
+        "unique_experience_score": 12,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 61,
+      "recommendation_reason": "楽天トラベル4.56（1,618件）という高評価・十分な件数は確認できたが、Skyticket・cocolocala等の他サイトでは点数・件数を確認できず、原則7が求める独立2情報源のクロスチェックができなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "低評価レビューの本文は今回のWebSearchでは確認できなかった（検索予算の制約）。清潔感・接客上の重大な指摘は見当たらない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "グランヴィリオホテル宮島 和蔵 - Skyticket", "url": "https://skyticket.jp/hotel/detail/property_1236397/" },
+        { "type": "other", "title": "グランヴィリオホテル宮島 和蔵 - cocolocala", "url": "https://www.cocolocala.jp/hotels/757177" },
+        { "type": "other", "title": "グランヴィリオホテル宮島 和蔵 客室・設備写真 - KNT近畿日本ツーリスト", "url": "https://yado.knt.co.jp/photo/S340259/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "楽天トラベル単独では4.56（1,618件）と高評価だが、原則7が求める独立2情報源での数値評価のクロスチェックができず、score61点で75点未達のため除外した。"
+    },
+    {
+      "id": "2026-10-18-aki-no-oyado-miyajiman-hiroshima",
+      "name": "安芸の御宿 みやじま庵 廣島",
+      "region": "広島県廿日市市宮島口",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "食べログ（料理旅館カテゴリ）", "score": 3.03, "scale": 5, "review_count": 64, "checked_date": "2026-10-18" },
+        { "source": "旅行比較サイト（tour.ne.jp）", "score": 4.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-18", "url": "https://www.tour.ne.jp/j_hotel/47623/" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な1泊2食の料金は今回のWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "宮島の対岸、JR宮島口駅から徒歩約8分にある天然温泉の露天風呂・サウナ付き料理旅館。鉄板焼きや牡蠣料理が名物で、Yahoo!トラベルでは客室の清潔さやフェリー乗り場への近さが好評だった。",
+      "target_audience": ["グルメ旅", "温泉好き", "家族"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 3,
+        "unique_experience_score": 10,
+        "photogenic": 9,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 43,
+      "recommendation_reason": "天然温泉露天風呂と牡蠣料理という独自性はあるが、食べログ（料理旅館カテゴリ）3.03（64件）は原則6の主要レビュー4.0以上を満たさず、もう一方の4.0（1件）も件数が極端に少なく原則7の信頼性基準を満たさない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "食べログの口コミでは夕食の量・味への満足を述べる声も見られたが、全体評価点自体が低い。清潔感・接客・安全性に関する重大な指摘は見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "安芸の御宿 みやじま庵 廣島 - 食べログ（料理旅館）", "url": "https://tabelog.com/hiroshima/rstLst/YC01/" },
+        { "type": "other", "title": "安芸の御宿 みやじま庵 廣島 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00910106" },
+        { "type": "other", "title": "安芸の御宿 みやじま庵 廣島 - icotto", "url": "https://icotto.jp/hotels/7230" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "評価サイトの数値評価が原則6・7の基準を満たさず除外した。"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "cycle_date": "2026-09-22",
+  "theme": "鹿児島県奄美大島の離島リゾート",
+  "season_rationale": "奄美大島は9月下旬になると台風シーズンのピークを過ぎ始め、残暑が落ち着きつつもまだ海水浴・マリンアクティビティが楽しめる『狙い目』の時期にあたる（原則30）。加えて秋は空気が澄み、夜の星空観賞にも適した季節で、露天風呂やビーチフロントから星空を楽しめる施設との相性が良い。離島リゾートカテゴリはこれまで瀬戸内・生口島（2026-09-14 Azumi Setoda）と沖縄・宮古島（2026-09-18 ヒルトン沖縄宮古島リゾート）で扱ったが、鹿児島県・奄美大島は本サイクルで初出の地域。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-21-kerama-terrace", "region": "沖縄県島尻郡渡嘉敷村（渡嘉敷島）", "category": "アクティビティ" },
+    { "post_id": "2026-09-20-akiu-rantei", "region": "宮城県仙台市太白区秋保町（秋保温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-18-hilton-okinawa-miyako", "region": "沖縄県宮古島市平良（トゥリバー地区）", "category": "離島リゾート" },
+    { "post_id": "2026-09-18-yufuin-no-mori", "region": "大分県由布市（湯布院）", "category": "列車・船" },
+    { "post_id": "2026-09-18-fufu-karuizawa", "region": "長野県北佐久郡軽井沢町", "category": "サウナ" },
+    { "post_id": "2026-09-14-azumi-setoda", "region": "広島県尾道市瀬戸田町（生口島・しまなみ海道）", "category": "離島リゾート" }
+  ],
+  "duplication_note": "鹿児島県・奄美大島は既存のdata/candidates・captionsに一度も登場しておらず、地域として本サイクルが初出（原則29）。離島リゾートカテゴリ自体は瀬戸内（Azumi Setoda）・沖縄宮古島（ヒルトン沖縄宮古島リゾート）で使用済みだが、直近2サイクル（2026-09-20 温泉旅館／宮城、2026-09-21 アクティビティ／沖縄慶良間）は異なる地域・カテゴリを挟んでおり、地域・カテゴリの連続には該当しない。同じ沖縄・奄美エリアの離島リゾートが続くことも避けるため、沖縄県ではなく鹿児島県の奄美大島を選定した。",
+  "candidates": [
+    {
+      "id": "2026-09-22-amami-yagijima-hotel",
+      "name": "奄美山羊島ホテル（スパリゾート奄美山羊島ホテル）",
+      "region": "鹿児島県奄美市名瀬（山羊島）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "一休.com", "score": 4.73, "scale": 5, "review_count": 29, "checked_date": "2026-09-22", "url": "https://www.ikyu.com/00002010/review/" },
+        { "source": "楽天トラベル", "score": 4.52, "scale": 5, "review_count": 228, "checked_date": "2026-09-22", "url": "https://travel.rakuten.co.jp/HOTEL/142760/review.html" }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では2名1室あたりの正確な最新料金（税込）は数値確認できなかった。一休.com・楽天トラベルの宿泊プランページで最新料金の確認を推奨する。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "名瀬市街地から車で5〜6分という好アクセスながら、海に囲まれた山羊島に立地する名瀬エリア唯一のリゾートホテル。全室オーシャンビューで、最上階の大浴場・露天風呂からは名瀬港・名瀬湾の景色と満天の星空を一望できる。地下1000メートルから汲み上げる地下水を使った蒸気設備も備え、『市街地に近い便利さ』と『離島ならではの絶景温泉』を両立させている点が独自性。",
+      "target_audience": ["夫婦", "記念日", "家族", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 13,
+        "unique_experience_score": 15,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 81,
+      "recommendation_reason": "一休.com4.73（29件）・楽天トラベル4.52（228件）と、性質の異なる2つの独立した予約サイトでいずれも4.5前後という高水準の評価を確認（原則6・7）。特に楽天トラベルは228件と件数が多く信頼性が高い上、清潔さ項目が4.65と際立って高評価。名瀬市街地から車で5〜6分というアクセスの良さと、離島リゾートらしい『最上階の露天風呂から一望する星空・海景色』という体験を両立している点を高く評価した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "じゃらんnet・楽天トラベル・Reluxでは接客・清潔感（清潔さ項目4.65）が高評価で安定している一方、一部の口コミでレストランの朝食・夕食の質が『標準以下』、食事の温度や食器の汚れについての指摘があった。ただし清潔感・安全性に関わる重大な指摘が複数の独立情報源で一致して確認されたわけではなく、食事面の指摘も個別の体験にとどまるため、disqualifying issueとは判断しなかった（原則10）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "奄美山羊島ホテル｜奄美大島 名瀬湾に浮かぶ、全室オーシャンビューのリゾートホテル", "url": "https://yagijima.com/" },
+        { "type": "review_site", "title": "クチコミ・評判 - 奄美 山羊島ホテル - 宿泊予約は[一休.com]", "url": "https://www.ikyu.com/00002010/review/" },
+        { "type": "review_site", "title": "スパリゾート奄美山羊島ホテル＜奄美大島＞に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/142760/review.html" },
+        { "type": "review_site", "title": "奄美 山羊島ホテルのクチコミ（口コミ） - 高級ホテル・高級旅館の予約ならRelux（リラックス）", "url": "https://rlx.jp/25604/review" },
+        { "type": "other", "title": "街に近く海を眺めて、ゆっくり過ごせるホテル - 山羊島ホテルの口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g1022937-d1060503-r336670937-Amami_Yagijima_Hotel-Amami_Kagoshima_Prefecture_Kyushu.html" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-22-mijora-beachfront",
+      "name": "ヴィラリゾートホテル 伝泊 The Beachfront MIJORA",
+      "region": "鹿児島県奄美市笠利町（奄美大島北部）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "一休.com", "score": 4.30, "scale": 5, "review_count": 42, "checked_date": "2026-09-22", "url": "https://www.ikyu.com/00050841/review/" },
+        { "source": "Relux", "score": 5.0, "scale": 5, "review_count": 6, "checked_date": "2026-09-22", "url": "https://rlx.jp/24778/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "一休.comの宿泊プランページで具体的な料金表示は確認できたが、本セッションでは2名1室あたりの正確な最新料金（税込）の数値までは確認できなかった。全20棟の少人数制ビーチフロントヴィラのため価格帯は高めと見られる。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "奄美出身の建築家・山下保博氏が手がけた全20棟のビーチフロントヴィラ。『島の自然と対話する宿』をコンセプトに客室にテレビを置かず、波音や景色そのものを楽しむ設計。五角形のインフィニティプールは海と一体化したように見えるオーバーフロー仕様で、奄美空港から車で約11分とアクセスも良い。",
+      "renewal_or_news": "建築デザインの評価が高く、グッドデザイン賞を受賞したことがあるとされる施設で、Discover Japan等の旅行メディアでも継続的に紹介されている。",
+      "target_audience": ["カップル", "記念日", "夫婦", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 10,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 77,
+      "recommendation_reason": "一休.com4.30（42件）・Relux5.0（6件）と、性質の異なる2つの独立した情報源で確認（原則6・7）。ただしReluxは件数が6件と少なく信頼性は限定的なため、主に一休.comの42件・4.30を根拠とした。著名建築家による設計・テレビを置かない滞在コンセプト・海と一体化したインフィニティプールなど独自性は高く、総合スコアは山羊島ホテルに次ぐ77点だったが、山羊島ホテルの方がレビュー総数（257件）・情報源の多さの面で確度が高いと判断し、今サイクルでは次点とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本セッションのWeb検索範囲（検索回数の上限に達したため深掘りは限定的）では、一休.com・Yahoo!トラベル・Reluxの口コミはいずれも部屋・立地・食事・接客について好意的な内容が中心で、『悪い』『残念』に該当する具体的な指摘は見つからなかった。ただし検索環境の制約により徹底したネガティブレビュー探索を完了できなかった点は留意事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "mijora | 【公式】伝泊ブランドサイト", "url": "https://den-paku.com/mijora" },
+        { "type": "review_site", "title": "ヴィラリゾートホテル 伝泊 The Beachfront MIJORA - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00050841/review/" },
+        { "type": "review_site", "title": "ヴィラリゾートホテル 伝泊 The Beachfront MIJORA - クチコミ・評判 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00050841/review/" },
+        { "type": "review_site", "title": "伝泊 The Beachfront MIJORA - レビュー・口コミ - Relux", "url": "https://rlx.jp/24778/review/" },
+        { "type": "other", "title": "鹿児島《伝泊 The Beachfront MIJORA》奄美ブルーに溶け込むヴィラで心身を整える - Discover Japan", "url": "https://discoverjapan-web.com/article/128835" }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "採点上は77点で採用ラインを満たし、著名建築家設計・テレビなしの滞在コンセプトという独自性の高さも魅力だが、レビュー総数・情報源の厚みの面で山羊島ホテル（257件・5情報源）に一歩譲るため、今サイクルではベスト候補として選定しなかった。基準は満たしているため、次サイクル以降の候補として維持する。"
+    },
+    {
+      "id": "2026-09-22-the-scene-amami",
+      "name": "THE SCENE amami spa & resort",
+      "region": "鹿児島県大島郡瀬戸内町（奄美大島最南端）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Relux", "score": 4.3, "scale": 5, "review_count": 31, "checked_date": "2026-09-22", "url": "https://rlx.jp/21028/review/" },
+        { "source": "Tripadvisor", "score": 4.0, "scale": 5, "review_count": 44, "checked_date": "2026-09-22", "url": "https://www.tripadvisor.jp/Hotel_Review-g1121603-d1134066-Reviews-The_Scene-Setouchi_cho_Oshima_gun_Kagoshima_Prefecture_Kyushu.html" }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では2名1室あたりの正確な最新料金は数値確認できなかった。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "奄美大島最南端、ヤドリ浜ビーチに面したウェルネスリゾート。『ネイチャークレンズ』をコンセプトに、無料のサンライズ・サンセットヨガ、ほぼ貸切状態のプライベートビーチ（ウミガメの目撃情報あり）、屋上の星空スポットなどを提供する。",
+      "target_audience": ["カップル", "一人旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 8,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 5,
+        "sns_buzz": 6,
+        "access_and_freshness": 2
+      },
+      "score": 69,
+      "recommendation_reason": "Relux4.3（31件）・Tripadvisor4.0（44件）と2つの独立情報源で4.0以上を確認できたものの、Tripadvisorには『スタッフが最悪だった』『ホテルごっこをしているようなサービス』というタイトルの口コミが複数あり、接客品質のばらつきが目立つ。ウェルネス・絶景という独自性は高いが、奄美空港から車で約2時間とアクセスが悪く、総合スコアが採用ライン（75点）を下回った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "トリップアドバイザーに『スタッフが最悪だった』『ホテルごっこをしているようなサービス』というタイトルの口コミが複数存在し、接客・サービス品質への具体的な不満が確認された。また露天風呂の温度管理不足・夜間設備の使用不可について施設側が改善を約束するコメントも確認された。清潔感・安全性に関わる重大な指摘ではないためdisqualifying issueとまでは判断しなかったが、サービス品質のばらつきは無視できない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "THE SCENE amami spa ＆ resortの口コミ（レビュー） - Relux", "url": "https://rlx.jp/21028/review/" },
+        { "type": "review_site", "title": "ザ シーン【口コミ】- トリップアドバイザー", "url": "https://www.tripadvisor.jp/Hotel_Review-g1121603-d1134066-Reviews-The_Scene-Setouchi_cho_Oshima_gun_Kagoshima_Prefecture_Kyushu.html" },
+        { "type": "booking_site", "title": "【女性に人気】THE SCENE amami spa&resort | OZmall 宿泊予約", "url": "https://www.ozmall.co.jp/travel/stay/716/" },
+        { "type": "other", "title": "奄美大島最南端、ヤドリ浜ビーチに静かに佇むリゾートホテル THE SCENE amami spa & resort - たびらい鹿児島", "url": "https://www.tabirai.net/hotel/kagoshima/hotel146000056/00000/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア69点で採用ライン（75点）を下回ったため不採用とした。トリップアドバイザーで確認された接客品質への複数の不満（『スタッフが最悪だった』等）と、空港から車で約2時間というアクセスの悪さが主な減点要因。清潔感・安全性の重大な問題ではないためdisqualifying issueには該当しないが、次点候補としては採用しなかった。"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "cycle_date": "2026-09-22",
+  "theme": "列車・船カテゴリ（リサーチ＋キャプションのみ、画像構成なし）— 瀬戸内海のラグジュアリークルーズ客船『guntû（ガンツウ）』を中心に、瀬戸内海の船旅体験を調査",
+  "season_rationale": "guntûの2026年6〜11月出発分の最新料金表が公式サイトに掲載されており、2026年9月時点でも通常運航中であることを確認した（renewal_or_newsを参照）。人気が高く満席になりやすいため、10〜11月（結婚記念日シーズン・行楽の秋）の乗船や、2026年12月〜2027年5月シーズンの予約を検討する層に向けて、今の時期に情報収集を促す意義がある（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-21-kerama-terrace", "region": "沖縄県慶良間諸島（座間味・渡嘉敷・阿嘉）", "category": "アクティビティ" },
+    { "post_id": "2026-09-20-akiu-rantei", "region": "宮城県仙台市・秋保温泉エリア", "category": "温泉旅館" },
+    { "post_id": "2026-09-18-yufuin-no-mori", "region": "福岡県福岡市（博多）〜大分県由布市・別府市", "category": "列車・船" },
+    { "post_id": "2026-09-14-aonagi-setouchi", "region": "瀬戸内海エリア", "category": "絶景ホテル" },
+    { "post_id": "2026-09-14-azumi-setoda", "region": "広島県尾道市瀬戸田町", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "『列車・船』カテゴリは2026-09-18サイクルで九州（福岡・大分・熊本）のJR観光列車が既に採用済みだが、今回は依頼どおり別地域・別ジャンル（瀬戸内海のクルーズ客船）として調査した。地域としても『瀬戸内海』は2026-09-14サイクルでホテル（絶景ホテル：aonagi-setouchi／グルメ旅館：azumi-setoda）として登場済みだが、客船・クルーズという切り口・カテゴリは本サイクルが初出であり、原則29（地域・カテゴリの連続回避）の観点からも直近2投稿（沖縄・アクティビティ、宮城・温泉旅館）と重ならず適切と判断した。",
+  "other_candidates_considered": [
+    {
+      "name": "せとうち島たびクルーズ「SEA SPICA（シースピカ）」（瀬戸内海汽船、広島〜尾道・三原）",
+      "region": "広島県広島市〜尾道市・三原市",
+      "reason_not_screened": "観光型高速クルーザーによる日帰り周遊クルーズで、2020年就航・G7広島サミットでも使用された話題性の高い船。船内Wi-Fi完備でテラス席の眺望も好評（ブログ『船はまだ新しく、お洒落でとても快適』等の個人の乗船記は複数確認できた）。ただしこのセッションのWebSearch回数上限到達とWebFetchのEGRESS_BLOCKED（jalan.net等）により、一休・じゃらん・食べログ等の集計された数値評価（レビュー件数付き）を確認できず、原則7（複数の独立した数値評価での裏付け）を満たせなかったため、今回はcandidatesとして正式スコアリングせず参考候補にとどめた。また日帰り周遊船で宿泊を伴わない点、価格帯もguntûと比べて大衆的で『ちょっと贅沢な旅』というよりは手軽な観光クルーズに近く、テーマとの整合性もguntûよりやや弱いと判断した。"
+    },
+    {
+      "name": "Joycruise（ジョイクルーズ、尾道発・完全貸切クルーザー「Ocean Point VII」）",
+      "region": "広島県尾道市",
+      "reason_not_screened": "専属シェフ同乗の完全貸切『動く別荘』コンセプトのクルーザーで、ジャグジー・ラウンジを備え日帰り4時間コースから1〜2泊のチャーターまで選べる。独自性は高いが、こちらもSEA SPICA同様、このセッションのWebSearch回数上限到達とWebFetch制限（joycruise.jp含む多くのドメインがEGRESS_BLOCKED）により、一休・じゃらん等での集計された数値評価（レビュー件数付き）を確認できず、原則7の複数情報源での数値的裏付けが取れなかったため、今回はcandidatesとして正式スコアリングせず参考候補にとどめた。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-09-22-guntu",
+      "name": "guntû（ガンツウ）｜せとうちの海に浮かぶ、ちいさな宿",
+      "region": "広島県尾道市を母港とする瀬戸内海クルーズ（東回り・西回り・中央航路、瀬戸内海の島々・湾を巡る）",
+      "category": "列車・船",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "食べログ", "score": 3.08, "scale": 5, "review_count": 19, "checked_date": "2026-09-22", "url": "https://tabelog.com/hiroshima/A3406/A340302/34026330/" },
+        { "source": "Yahoo!トラベル", "score": 5.00, "scale": 5, "review_count": 2, "checked_date": "2026-09-22", "url": "https://travel.yahoo.co.jp/dhotel/shisetsu/HT10050498/information" }
+      ],
+      "price_range_jpy": {
+        "note": "2泊3日・2名1室利用時の1名あたり料金は60万円〜が目安（税込）で、スイート等の上位客室カテゴリでは1名100万円超のプランもある。海外の高級旅行メディアでは3泊4日1名あたり約3,800〜5,200ドル（為替により約57万〜78万円程度）、4泊5日で約6,500〜11,500ドル（約97万〜172万円程度）とも紹介されている。全食事・一部体験込みのオールインクルーシブ型だが、正確な最新料金は必ず公式サイト・予約デスクで確認が必要。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "「せとうちの海に浮かぶ、ちいさな宿」をコンセプトにした、全客室スイートタイプの小型ラグジュアリー客船。住宅建築で知られる建築家・堀部安嗣氏が手掛けた大きな切妻屋根と銀色の船体が特徴で、他の港に寄港せず瀬戸内海の島々や入江に錨泊しながら2泊3日・3泊4日で漂泊する『動く旅館』とも言える存在。船内には温泉（内湯・露天風呂）、和食・洋食・鮨など複数のダイニング、ラウンジがあり、ウェルカムドリンクや記念撮影など細やかなホスピタリティも評価されている。国内では他に類を見ないコンセプトで、Georgia（コカ・コーラ）のCMやJapan House Londonでの紹介など国内外での注目度も高い。",
+      "renewal_or_news": "2026年4月付で公式サイトに2026年6月〜11月出発分の最新料金表（PDF）が掲載されており、2026年9月時点でも通常どおり運航中であることを確認した。人気が高く満室になりやすいシーズンが続いている。",
+      "target_audience": ["カップル", "記念日", "夫婦", "ホテル好き", "グルメ旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 5,
+        "unique_experience_score": 20,
+        "photogenic": 14,
+        "value_for_price": 7,
+        "sns_buzz": 8,
+        "access_and_freshness": 4
+      },
+      "score": 76,
+      "recommendation_reason": "客室わずか17〜19室・年間の実施航海数も限られる超少人数・超高価格帯の商品であるため、じゃらん・楽天トラベルでは取り扱いがなく、一休.comでも『規定のクチコミ件数に達していないため施設総合点数を非表示』という状態、Yahoo!トラベルも5.00点だが件数はわずか2件にとどまるなど、数値レビュー自体が構造的に集まりにくい施設である。食べログの3.08点（19件）は原則6の推奨ライン4.0を下回るが、食べログは本来レストラン評価が主体のサイトであり、コース料理単体への評価が『体験全体』の満足度と乖離しやすい点は他カテゴリ（列車内グルメ企画等）でも過去に確認されている傾向と一致する。一方で、Tokyo Weekender・Red Savannah（欧米の高級旅行専門エージェント）・Japan House Londonなど国内外の旅行メディア・専門家からは一貫して高評価かつ『日本発フローティング・リゾートの先駆け』として紹介されており、公式情報（航路・料金・運航スケジュール）、口コミサイト（食べログ・一休・Yahoo!トラベル）、国内外の旅行メディア・ブログ記事という複数方向の独立した情報源で裏付けが取れている。原則8のHidden Gemルール（公式情報が確認できる／最近営業している／複数情報源が存在する／強い独自性がある）をすべて満たすと判断し、is_hidden_gem: trueとして数値評価4.0以上の縛りを適用せず選定した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できたネガティブな声の中心は『価格が非常に高い』という点で、SNS・Q&Aサイトでも『気になって調べたが価格を見て諦めた』といった投稿が複数確認できた。品質面では、リピーターの1件が『3回目の乗船時、乗船者が多く乗船前のラウンジ利用ができずウェルカムドリンクを楽しめなかった』とスケジュール運用面での不満を述べていたほか、他の高級寝台列車（ななつ星・四季島・瑞風）との比較レビューで『船室が(列車の個室と比べて)やや手狭』という指摘もあった。清潔感・接客・安全性に関わる重大な指摘は、このセッションで確認できた範囲では見つからなかった。ただしWebFetchのEGRESS_BLOCKEDにより一休.com・食べログの個別レビュー本文を全件は読めておらず、その点は限界として正直に記載する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "guntû｜ガンツウ公式サイト", "url": "https://guntu.jp/" },
+        { "type": "other", "title": "Guntu 2026年6月〜11月出発 料金表（PDF）", "url": "https://guntu.jp/wordpress/wp-content/uploads/2026/04/guntu-pricelist-202606-202611.pdf" },
+        { "type": "review_site", "title": "ガンツウ - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00002545/review/" },
+        { "type": "review_site", "title": "ガンツウ （guntû） - 尾道市 その他 - 食べログ", "url": "https://tabelog.com/hiroshima/A3406/A340302/34026330/" },
+        { "type": "review_site", "title": "ガンツウ - 【Yahoo!トラベル】", "url": "https://travel.yahoo.co.jp/dhotel/shisetsu/HT10050498/information" },
+        { "type": "press", "title": "Board Guntu, Japan's First Floating Ryokan | Tokyo Weekender", "url": "https://www.tokyoweekender.com/travel/guntu-floating-ryokan/" },
+        { "type": "other", "title": "Guntû | Seto Inland Sea Cruise | Red Savannah", "url": "https://www.redsavannah.com/asia/japan/cruise-ships/guntu" }
+      ],
+      "decision": "selected"
+    }
+  ]
+}

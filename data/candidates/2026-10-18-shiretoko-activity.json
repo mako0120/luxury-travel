@@ -1,0 +1,138 @@
+{
+  "cycle_date": "2026-10-18",
+  "theme": "北海道斜里郡斜里町・知床（ウトロ）のアクティビティ型宿泊施設の再調査",
+  "season_rationale": "知床・羅臼側のネイチャークルーズ（クジラ・イルカ・バードウォッチング）は例年4月下旬〜10月中旬の運航とする情報源が多く、10月中旬は紅葉とグリーンシーズン最後のタイミングが重なる。知床五湖の地上遊歩道もヒグマ活動期による規制があるが例年秋まで開園しており、冬季閉鎖前に自然体験を楽しめる最後の時期にあたる。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-18-kamikochi-activity", "region": "長野県松本市上高地", "category": "アクティビティ（該当なし）" },
+    { "post_id": "2026-10-18-all-inclusive-rusutsu", "region": "北海道虻田郡留寿都村", "category": "オールインクルーシブ（該当なし）" },
+    { "post_id": "2026-10-18-miyajima-view-hotel", "region": "広島県廿日市市宮島町", "category": "絶景ホテル" },
+    { "post_id": "2026-10-18-nara-culture", "region": "奈良県奈良市", "category": "文化体験" },
+    { "post_id": "2026-10-17-minakami-kogen-hotel200", "region": "群馬県利根郡みなかみ町（水上高原）", "category": "アクティビティ" }
+  ],
+  "duplication_note": "本サイクルは『上高地のアクティビティ候補が2026-10-18分として該当なしだった』ことを受けた、カテゴリ『アクティビティ』の再調査（2回目）であり、依頼内容に沿って北海道斜里郡斜里町・知床エリアを調査した。地域（北海道・斜里町ウトロ）は同日の留寿都村（オールインクルーシブ、北海道虻田郡）とは異なる市町村・異なるカテゴリで重複しない。カテゴリ『アクティビティ』自体は前サイクル（2026-10-17、群馬県みなかみ町）で使用済みだが、本依頼が明示的に『アクティビティの再調査』を指示しているための例外対応であり、原則29が主眼とする通常の連続投稿計画における連続ではないと判断した。渡嘉敷島・屋久島・みなかみ・トマムとは施設・地域とも重複しない。",
+  "research_constraints": "CLAUDE.mdの制約どおり、楽天トラベル・じゃらん・施設公式サイト等の主要旅行系ドメインへの直接WebFetchはいずれもEGRESS_BLOCKED（DNS解決不可）となり、WebSearchのスニペット経由で得られる情報のみを情報源とした。楽天トラベルの口コミ件数はランキングページの更新日によって1,631件/1,637件/1,628件など表記にばらつきがあり、正確な最新件数は確認できなかったため、件数は『検索時点のランキングページ表示』であることを明記して記録した。",
+  "candidates": [
+    {
+      "id": "2026-10-18-kitakobushi-shiretoko",
+      "name": "北こぶし知床 ホテル&リゾート",
+      "region": "北海道斜里郡斜里町ウトロ東（知床・ウトロ温泉）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 4.29, "scale": 5, "review_count": 235, "checked_date": "2026-10-18", "url": "https://4travel.jp/dm_hotel-10041182" },
+        { "source": "Skyticket（口コミまとめ）", "score": 4.7, "scale": 5, "review_count": 2242, "checked_date": "2026-10-18", "url": "https://skyticket.jp/hotel/detail/property_16162/" },
+        { "source": "楽天トラベル（ランキングページ表示）", "score": 4.62, "scale": 5, "review_count": 1631, "checked_date": "2026-10-18", "url": "https://travel.rakuten.co.jp/ranking/sales/onsen/hokkaido/abashiri_0007_0_0_0_0.html" }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付・1名あたり30,000円台〜50,000円台（部屋タイプ・時期により変動、オールインクルーシブプランはラウンジのドリンク・おつまみ・流氷テラスの足湯等が宿泊料金に含まれる）。じゃらん系掲載では客室タイプにより45,200円〜54,200円程度の表示もあった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "知床・ウトロ温泉の観光船発着港に近い高台に立地し、知床五湖のトレッキング、知床ネイチャークルーズ、シーカヤックなど知床の主要アクティビティへの拠点として便利な立地にある。さらに同ホテルを運営する北こぶしリゾートは2020年から、ヒグマが身を潜めやすい国道沿いの草むらを刈り取る『クマ活』という地域貢献活動を続けており、当初は社員中心だったが、趣旨に賛同する町民・学生に加えて宿泊客も一緒に参加するようになったと北海道新聞が報じている（6年目）。単なる絶景・温泉だけでなく、知床の自然環境保全そのものに宿泊客として関われる点がこのホテルならではの体験になっている。",
+      "renewal_or_news": "北海道新聞の記事（知床世界遺産20年関連の特集）によると、ヒグマとの共存を目指す『クマ活』の草刈り活動が今年で6年目を迎えており、宿泊客の参加を含む継続的な取り組みとして報じられている。知床ネイチャークルーズ（羅臼発）の夏季クルーズは例年4月下旬〜10月中旬運航とする情報が複数あり、投稿タイミング（10月中旬）は season終盤にあたる。",
+      "target_audience": ["カップル", "夫婦", "絶景好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 16,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 78,
+      "recommendation_reason": "フォートラベル4.29（235件）・Skyticket4.7（2242件）という、性質の異なる2つの独立した情報源でともに十分な口コミ母数を確認でき、いずれも採用ライン4.0以上を満たした（原則6・7）。参考値として楽天トラベルのランキングページでも4.62（表示時点で1,631件）という一致した傾向を確認した。知床五湖トレッキング・ネイチャークルーズ・シーカヤックの拠点という立地の良さに加え、ホテル運営会社が2020年から続け宿泊客も参加できる『クマ活』（ヒグマが潜みやすい草むらの草刈り）が北海道新聞に取材され6年目を迎えているという、他の知床の宿にはない独自のストーリーがある。10月中旬はネイチャークルーズのグリーンシーズン運航終盤・紅葉シーズンにも重なり、タイミング訴求もできる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベル等の口コミでは、客室が大浴場から少し遠い、シャワー室に鏡がない、浴槽が想定より狭いといった設備面の指摘があった。また専用ラウンジでの接客について、スタッフ研修中のような対応やドリンク説明不足を指摘する口コミが1件確認できた。連泊時に2日目の食事内容が1日目とほぼ同じだったという指摘もあった。いずれも清潔感・安全性に関わる重大な問題ではなく、食事・温泉・接客自体への好意的な声が多数を占めていた。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "北こぶし知床 ホテル&リゾートのクチコミ・感想 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10041182" },
+        { "type": "booking_site", "title": "北こぶし 知床 ホテル&リゾート - Skyticket", "url": "https://skyticket.jp/hotel/detail/property_16162/" },
+        { "type": "booking_site", "title": "北海道 網走・紋別・北見・知床 温泉旅館・ホテル 売れ筋ランキング - 楽天トラベル", "url": "https://travel.rakuten.co.jp/ranking/sales/onsen/hokkaido/abashiri_0007_0_0_0_0.html" },
+        { "type": "press", "title": "ホテル発、共存探る「クマ活」 斜里町民巻き込みウトロで草刈り 「北こぶし」の取り組み6年目<知床 世界遺産20年> - 北海道新聞", "url": "https://www.hokkaido-np.co.jp/article/1180246/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-18-kiki-shiretoko",
+      "name": "KIKI知床 ナチュラルリゾート",
+      "region": "北海道斜里郡斜里町ウトロ（知床）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "ぐるたび", "score": 4.23, "scale": 5, "review_count": 81, "checked_date": "2026-10-18", "url": "https://www.gutabi.jp/hotel/base/314/rating" },
+        { "source": "Relux", "score": 4.7, "scale": 5, "review_count": 26, "checked_date": "2026-10-18", "url": "https://rlx.jp/23701/review/" },
+        { "source": "楽天トラベル（ランキングページ表示）", "score": 4.61, "scale": 5, "review_count": 1528, "checked_date": "2026-10-18", "url": "https://travel.rakuten.co.jp/HOTEL/16554/" }
+      ],
+      "price_range_jpy": {
+        "note": "オールインクルーシブ型の温泉リゾートで、ロビーでの無料ドリンク等が宿泊料金に含まれる。具体的な1泊2食の料金帯はWeb検索の範囲では確証を得られなかった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "オホーツク海を望む高台に位置するオールインクルーシブ型の温泉リゾート。周辺のハイキングコースや野生動物観察が楽しめるとの紹介があるが、ホテル自身が主催する具体的なカヤック・トレッキングプログラム（名称・料金・コース）はWeb検索の範囲では確認できなかった。",
+      "target_audience": ["カップル", "夫婦", "絶景好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 11,
+        "unique_experience_score": 10,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 67,
+      "recommendation_reason": "ぐるたび4.23（81件）・Relux4.7（26件）・楽天トラベル4.61（ランキングページ表示1,528件）と複数の独立した情報源でいずれも採用ライン4.0以上を満たしており、レビュー評価自体は申し分ない。ただし『アクティビティ』カテゴリとして推す場合に必要な、ホテル自身が主催する具体的なアクティビティプログラム（名称・料金・コース）をWeb検索の範囲では確認できず、カテゴリとの適合度・独自体験の根拠が北こぶし知床（クマ活・立地の明確な優位性）に比べて弱いと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベル系の口コミへの施設側返信で『客室には満足いただけたが、サービスと食事の時間がすべてを台無しにした』という趣旨の文言が確認でき、サービス面の不満が一定数あることがうかがえた。清潔感・安全性に関わる重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "KIKI知床 ナチュラルリゾート 口コミ評価 - ぐるたび", "url": "https://www.gutabi.jp/hotel/base/314/rating" },
+        { "type": "review_site", "title": "KIKI知床 ナチュラルリゾート クチコミ - Relux", "url": "https://rlx.jp/23701/review/" },
+        { "type": "booking_site", "title": "KIKI知床 ナチュラルリゾート - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/16554/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "レビュー評価自体は複数の独立情報源で4.0以上を満たしたが、『アクティビティ』カテゴリとして訴求できる具体的な独自プログラムの根拠がWeb検索の範囲では確認できず、北こぶし知床（同点以上の口コミ評価＋具体的な独自ストーリー）を優先したため見送った。"
+    },
+    {
+      "id": "2026-10-18-shiretoko-nature-cruise-rausu",
+      "name": "知床ネイチャークルーズ（羅臼発）／羅臼のホエールウォッチング船各社",
+      "region": "北海道目梨郡羅臼町（知床・羅臼側）",
+      "category": "アクティビティ",
+      "is_hidden_gem": true,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "知床ネイチャークルーズは中学生以上8,800円・小学生4,400円程度との掲載を確認。羅臼発の他社ホエールウォッチング船（観光船アルランⅢ世等）は9,000円〜。宿泊施設との料金比較はできない単発ツアーのため、宿泊候補としては評価不能。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "羅臼沖でシャチ・クジラ・イルカ等を間近に観察できるホエールウォッチングクルーズで、知床らしい『ここでしかできない体験』としての独自性は非常に強い。ただし今回調査した各クルーズ事業者（観光船アルランⅢ世、観光船はまなす、英人丸等）はいずれもasoview上の口コミが3〜14件程度と極めて少なく、星評価自体も確認できなかった。",
+      "target_audience": ["カップル", "友人", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 0,
+        "photogenic": 0,
+        "value_for_price": 0,
+        "sns_buzz": 0,
+        "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "ホエールウォッチングという体験自体の独自性・映え度は高いが、今回調査した各事業者は口コミ件数が1桁〜十数件程度（asoview基準）に留まり、星評価の数値自体も確認できなかった。穴場候補としても原則8の『複数情報源が存在する』『強い独自性』は満たすものの、数値評価の根拠が乏しく採点ができないため見送った。また本依頼は宿泊・施設型のアクティビティ候補を想定しており、単発の乗船ツアー単独では候補の体裁（宿泊施設との組み合わせ等）が明確でない点も課題とした。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "各事業者の口コミ件数が極端に少なく、ポジティブ・ネガティブいずれの傾向も判断できる母数がなかったため、ネガティブレビューの精査自体を実施していない。荒天時の欠航が複数報告されている点は留意事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "口コミ(14) 観光船アルランⅢ世 - asoview", "url": "https://www.asoview.com/item/activity/pln3000032596/" },
+        { "type": "other", "title": "知床ネイチャークルーズ 関連情報 - gltjp", "url": "https://www.gltjp.com/ja/directory/item/17091/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "各クルーズ事業者の口コミ件数が極端に少なく（asoview基準で3〜14件）、星評価の数値自体も確認できなかったため、原則6・7の数値評価の根拠を満たせず見送った。"
+    }
+  ]
+}

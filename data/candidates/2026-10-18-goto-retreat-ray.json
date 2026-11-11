@@ -1,0 +1,139 @@
+{
+  "cycle_date": "2026-10-18",
+  "theme": "離島リゾート（長崎県五島市・五島列島）",
+  "season_rationale": "10月中旬〜下旬は五島列島の台風ピークが過ぎ、海の透明度が高い秋晴れの日が増える時期。観光客が落ち着き、全室オーシャンフロントの露天風呂付きリゾートで静かに秋の五島を楽しむには狙い目のタイミング（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-ureshino-taishoya", "region": "佐賀県嬉野市嬉野町（嬉野温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-17-strings-hotel-nagoya-holiday-buffet", "region": "愛知県名古屋市中村区（名古屋駅エリア）", "category": "その他" },
+    { "post_id": "2026-10-17-shichijuyae", "region": "栃木県日光市鬼怒川温泉大原", "category": "温泉旅館" },
+    { "post_id": "2026-10-17-minamikan", "region": "島根県松江市末次本町（宍道湖畔）", "category": "文化体験" },
+    { "post_id": "2026-10-17-ana-intercontinental-ishigaki", "region": "沖縄県石垣市真栄里（マエサトビーチ）", "category": "離島リゾート" },
+    { "post_id": "2026-10-17-hoshino-iriomote-hotel", "region": "沖縄県八重山郡竹富町上原（西表島）", "category": "離島リゾート" }
+  ],
+  "duplication_note": "直近投稿は温泉旅館・絶景ホテル・文化体験・サウナ・グランピング・アクティビティ・その他（名古屋）・グルメ旅館など多様に分散しており、直前（2026-10-17）はグルメ旅館（嬉野・大正屋）だったため、本サイクルで離島リゾートを選んでも連続にはならない。離島リゾート自体は2026-10-17に石垣島（ANAインターコンチネンタル石垣）・西表島（星野リゾート西表島ホテル）で採用済みのため、地域重複を避けて沖縄離島ではなく長崎県・五島列島（五島市）を調査した。既存captions/candidatesに五島列島の実績はなく、地域として新規。",
+  "candidates": [
+    {
+      "id": "2026-10-18-goto-retreat-ray",
+      "name": "五島リトリート ray by 温故知新",
+      "region": "長崎県五島市上崎山町（福江島）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.71, "scale": 5, "review_count": 46, "checked_date": "2026-10-18", "url": "https://travel.rakuten.co.jp/HOTEL/184350/review.html" },
+        { "source": "Relux", "score": 4.6, "scale": 5, "review_count": 7, "checked_date": "2026-10-18", "url": "https://rlx.jp/26011/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "2名1室利用時1名あたり、オーシャンビュー温泉露天セミダブル（34平米）で37,000円台〜、スーペリア（58平米）で51,700円台〜、1日1室限定のファミリーデラックス（70平米）で80,600円台〜という予約サイトの表示を複数確認。掲載時期・サイトにより6万円台〜7万円台になるケースもあり、幅が大きい。朝夕食付が基本。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "五島のシンボル『鬼岳』が約300万年前に噴火した際に形成されたとされる溶岩海岸を見下ろす高台に立つ、全26室・全室オーシャンフロント＆露天風呂付きのリトリート。2026年2月1日より、全26室の客室露天風呂を五島列島で唯一の高温自噴泉『荒川温泉』を引いた天然温泉に切り替え済み。テラスを水盤状にした設計で、水面に反射した光が天井に映る『光の和食』をテーマにした夕食を提供。ミシュランガイドホテルセレクションで2年連続『1ミシュランキー』、2023年度グッドデザイン賞も受賞しており、離島という立地と建築・温泉を組み合わせた独自性が強い。",
+      "renewal_or_news": "2026年2月1日より全客室露天風呂を温泉化（荒川温泉引湯）。ミシュランガイド1ミシュランキーを2年連続で獲得（2024・2025年度）。",
+      "target_audience": ["夫婦", "記念日", "カップル", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 11,
+        "unique_experience_score": 19,
+        "photogenic": 14,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 5
+      },
+      "score": 85,
+      "recommendation_reason": "楽天トラベル4.71（46件）・Relux4.6（7件）という独立した2つの予約サイトでいずれも4.0を大きく上回る評価が確認できた。全室オーシャンフロント露天風呂が2026年2月から天然温泉化されたという直近の鮮度の高いニュースに加え、ミシュランガイド1ミシュランキーを2年連続獲得・グッドデザイン賞受賞という第三者評価の裏付けもあり、離島という立地と建築デザイン・温泉を組み合わせた唯一無二の体験として評価した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベルの項目別評価では、立地・清潔さが4.78、部屋4.69、設備4.67と高い一方、夕食4.45・朝食4.54は他項目よりやや低め。Reluxでも部屋4.3が他項目（夕食4.8・接客4.7）よりやや低めという傾向が一致して見られたが、いずれも4.0台を維持しており清潔感・接客・安全性に関わる重大な指摘は確認できなかった。『虫』『スタッフ対応』『予約トラブル』等のキーワードでの検索でも、否定的な口コミ・ブログ記事は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "五島リトリート ray by 温故知新 公式サイト", "url": "https://goto.by-onko-chishin.com/" },
+        { "type": "booking_site", "title": "五島リトリート ray by 温故知新 クチコミ・評判 - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/184350/review.html" },
+        { "type": "review_site", "title": "五島リトリート ray by 温故知新 レビュー - Relux", "url": "https://rlx.jp/26011/review/" },
+        { "type": "other", "title": "五島リトリート ray by 温故知新 - ミシュランガイド", "url": "https://guide.michelin.com/jp/ja/hotels-stays/goto/okcs-retreat-goto-ray-12784" },
+        { "type": "press", "title": "全26室の露天風呂を温泉化（荒川温泉引湯）- プレスリリース", "url": "https://san-tatsu.jp/pressrelease/490920/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-18-goto-konkana-kingdom",
+      "name": "五島コンカナ王国ワイナリー＆リゾート",
+      "region": "長崎県五島市三井楽町（福江島）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.49, "scale": 5, "review_count": 49, "checked_date": "2026-10-18", "url": "https://4travel.jp/dm_hotel-10052542" }
+      ],
+      "price_range_jpy": {
+        "note": "大人1名あたり16,335円〜37,900円程度という紹介記事の情報を確認。福江港ターミナルから送迎車で約15分。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "五島産ワインを醸造するワイナリーを併設し、五島牛の陶板焼きや最上階の展望大浴場（露天風呂）が名物のリゾート。広大な敷地にワイナリー・レストラン・温浴施設が分散している。",
+      "target_audience": ["夫婦", "家族", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 10,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 63,
+      "recommendation_reason": "ワイナリー併設・五島牛・展望大浴場という組み合わせは独自性があるが、主要レビューサイト（フォートラベル3.49／49件）が採用ライン（4.0以上）に届かず、独立した2つ目の数値評価源も確認できなかったため、今サイクルでは見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミで、敷地が広く食事処や温浴施設までの道に迷うという指摘、部屋の古さを指摘する声が複数確認された。露天風呂・食事自体への評価は高い一方、施設の老朽化・回遊性に関する不満が目立つ。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "五島コンカナ王国ワイナリー＆リゾート クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-10052542" },
+        { "type": "booking_site", "title": "五島コンカナ王国ワイナリー＆リゾート 宿泊プラン - 楽天トラベル", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/16581" },
+        { "type": "other", "title": "五島コンカナ王国ワイナリー＆リゾート 紹介記事", "url": "https://www.cocolocala.jp/hotels/97315" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア63点で採用ライン（75点）に届かず、主要レビューサイト評価（フォートラベル3.49）も4.0未満のため不採用（原則6）。"
+    },
+    {
+      "id": "2026-10-18-hotel-sou-goto",
+      "name": "hotel sou",
+      "region": "長崎県五島市福江町（福江島）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "skyticket", "score": 4.8, "scale": 5, "review_count": 115, "checked_date": "2026-10-18", "url": "https://skyticket.jp/hotel/nagasaki/bl_420003/" },
+        { "source": "フォートラベル", "score": 3.15, "scale": 5, "review_count": 1, "checked_date": "2026-10-18", "url": "https://4travel.jp/dm_hotel-11836789" }
+      ],
+      "price_range_jpy": {
+        "note": "全3室の小規模ゲストハウス。具体的な1泊2名料金はセッション内で数値確認できなかった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "福江港から徒歩約8〜10分、福江の市街地中心部にあるデザイナーズ・ゲストハウス。全3室という小規模さと独自のデザイン性が特徴。",
+      "target_audience": ["一人旅", "友人", "女子旅"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 8,
+        "unique_experience_score": 10,
+        "photogenic": 9,
+        "value_for_price": 8,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 59,
+      "recommendation_reason": "skyticket集計では4.8（115件）と高評価だが、フォートラベルでは3.15（クチコミ1件のみ）と評価が大きく割れており、独立した2つ目の信頼できる数値評価源を確定できなかった。全3室のゲストハウスという規模感も、本アカウントが扱う『少し奮発すれば届く非日常』の離島リゾート像とは方向性が異なるため、今サイクルでは見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "検索範囲では重大な否定的口コミは確認できなかったが、サイト間の評価の乖離自体が信頼性の懸念材料。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "hotel sou クチコミまとめ - skyticket", "url": "https://skyticket.jp/hotel/nagasaki/bl_420003/" },
+        { "type": "review_site", "title": "hotel sou クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-11836789" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア59点で採用ライン（75点）に届かず、レビューサイト間の評価の乖離が大きく信頼できる4.0以上の根拠を独立2件確定できなかったため不採用（原則6・7）。"
+    }
+  ]
+}

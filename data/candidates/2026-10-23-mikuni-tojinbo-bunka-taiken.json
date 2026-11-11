@@ -1,0 +1,107 @@
+{
+  "cycle_date": "2026-10-23",
+  "theme": "文化体験：福井県坂井市三国・東尋坊エリア",
+  "season_rationale": "東尋坊周辺は紅葉の見頃が11月中旬〜下旬（周辺の荒磯遊歩道・雄島・瀧谷寺庭園など）に迎える見込みで、例年この時期は越前がに漁解禁（11月上旬・2026年は11/14〜）とも重なり週末が混みやすくなる。解禁直後の混雑・予約逼迫前の10月下旬は、三国湊エリアの文化体験型滞在先を検討し始めるのに適したタイミング（原則30）。",
+  "prior_posts_checked": [
+    { "caption_id": "2026-10-20-kurashiki-ivysquare", "region": "岡山県倉敷市（倉敷美観地区）", "category": "文化体験" },
+    { "caption_id": "2026-10-21-hotel-fukinomori", "region": "長野県木曽郡南木曽町（妻籠宿近く）", "category": "文化体験" },
+    { "caption_id": "2026-10-22-mitsui-kyoto", "region": "京都府京都市中京区（二条城前）", "category": "文化体験" }
+  ],
+  "duplication_note": "直近3サイクル（2026-10-20倉敷／10-21妻籠宿／10-22京都二条城前）はいずれも文化体験カテゴリで、地域は依頼内容により今サイクルは福井県坂井市三国・東尋坊エリアと指定されているため、地域の連続はない。1か月以上前まで遡って `data/candidates/` と `captions/` を全件（ファイル名grep）確認したところ、福井県に言及するのは次の2件のみ：(1) `2026-09-22-fukui-gourmet.json`（caption: `2026-09-22-awara-tsuruya.json`）＝福井県あわら市・あわら温泉のグルメ旅館（越前あわら温泉 つるや）で、三国・東尋坊とは別エリア・別カテゴリ（グルメ旅館）。同ファイル内で『三国温泉 お宿あらや』（東尋坊近く）も候補検討されたが情報不足で不採用になっており、今回調査した施設とは別の施設。(2) `2026-10-17-ureshino-gourmet-ryokan.json` は上記あわら候補をprior_posts_checkedとして参照しているのみで、地域は佐賀県嬉野。なお `2026-10-20-sado-oki-resort.json` に『福井』の文字列がヒットしたが、これは島根県隠岐郡海士町の字名『福井』であり福井県とは無関係（誤検出）。以上より、三国・東尋坊エリア×文化体験カテゴリでの重複はないと判断した。",
+  "other_candidates_considered": [
+    {
+      "name": "三國湊町家館 / 旧岸名家・旧森田銀行本店（町歩きガイド）",
+      "category": "文化体験（観光施設・まち歩き）",
+      "note": "三国湊きたまえ通りに残る商家建築『かぐら建て』の旧岸名家（入館料100円）、県内最古級のRC建築・旧森田銀行本店、ボランティアガイド『きたまえ三国』による町歩きの拠点『三國湊町家館』。文化的価値は高いが、宿泊・体験予約を伴う商品ではなく、口コミサイト上に数値評価・件数を独立2情報源で確認できなかったため、原則7の基準を満たせず今サイクルでは候補（candidates配列）に含めず参考情報とした。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-23-homachi-mikuniminato",
+      "name": "オーベルジュほまち 三國湊",
+      "region": "福井県坂井市三国町（三国湊・えちぜん鉄道「三国」駅から徒歩約5分）",
+      "category": "文化体験",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "一休.com", "score": 4.5, "scale": 5, "review_count": 64, "checked_date": "2026-10-23", "url": "https://www.ikyu.com/00003174/review/" },
+        { "source": "楽天トラベル", "score": 4.7, "scale": 5, "review_count": 29, "checked_date": "2026-10-23", "url": "https://travel.rakuten.co.jp/HOTEL/188978/review.html" },
+        { "source": "Expedia", "score": 9.2, "scale": 10, "review_count": 11, "checked_date": "2026-10-23", "url": "https://www.expedia.com/es/Mikuni-Sunset-Beach-Hoteles.0-l553248621562273632-0.Guia-Viajes-Filter-Hoteles" }
+      ],
+      "price_range_jpy": {
+        "note": "予約代理サイト（travelist.jp）の参考表示では1名1泊、朝食付き禁煙プラン75,100円〜、2食付きプラン86,700円〜。近畿日本ツーリスト掲載では客室タイプ『毘沙門（町家スイート）』が1名32,085円〜114,195円（2名1室時の1名料金、時期・部屋タイプで変動）とされる。2026年11月14日〜2027年3月30日は越前がにを使った冬季宿泊プランの受付も始まっている。正確な金額は公式サイト（homachi.jp）・各予約サイトで要確認。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "三国湊エリアに点在する歴史的な町家9棟をリノベーションした分散型オーベルジュ（全16室）。三国独自の建築様式『かぐら建て』を含む町家をそのまま活かした客室構成で、宿泊者限定の地元ガイドツアー（龍翔館・瀧谷寺、出村、三國神社コース）、三味線体験、提灯・盆栽・風鈴づくりなど、港町三国の文化を体験できるプログラムを用意。併設レストラン『タテルヨシノ 三國湊』はミシュランで星を獲得したシェフ・吉野建氏がプロデュースし、三国湊・福井産の食材を使ったフレンチを提供する。町家の宿泊体験と美食を一体で楽しめる点が他にない独自性。",
+      "renewal_or_news": "2024年1月28日開業。『ミシュランガイド ホテルセレクション2026』（2026年9月発表）で3年連続の『セレクテッド』選出（2026年版は日本で145軒のミシュランキーと合わせ253軒が掲載）。『Forbes JAPAN Destinations of the Year 2026』の『The 30 Collection』にも選出。2026年11月14日〜2027年3月30日の越前がに冬季宿泊プランの予約受付も開始しており、2026年10月時点で通常営業・話題性ともに継続していることを確認。",
+      "target_audience": ["夫婦", "記念日", "カップル", "グルメ旅", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 11,
+        "unique_experience_score": 20,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 8,
+        "access_and_freshness": 5
+      },
+      "score": 88,
+      "recommendation_reason": "一休.com 4.5（64件）・楽天トラベル4.7（29件）・Expedia 9.2/10（11件）という、性質の異なる独立した複数サイトでいずれも推奨ライン（4.0以上／5点換算）を上回る評価を確認（原則6・7）。2024年開業の新しい施設ながら『ミシュランガイド ホテルセレクション2026』3年連続選出、『Forbes JAPAN Destinations of the Year 2026』選出という第三者評価の裏付けがあり、三国湊の歴史的町家（かぐら建て）をそのまま活かした分散型滞在に、地元文化体験プログラム（ガイドツアー・三味線・提灯づくり等）とミシュランシェフ監修のフレンチを組み合わせた独自性は、文化体験カテゴリとして他に類を見ない。知名度はまだ東尋坊そのものほど高くなく、レビュー件数も数十件規模にとどまるため、原則8のHidden Gem（公式情報確認済み・現在営業中・独自性・写真/体験/背景いずれかに伝える価値あり）に該当すると判断し、is_hidden_gem=trueとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベルの実際の宿泊者レビュー（2026年4月宿泊、部屋4/接客5/ロケーション5/朝食4/夕食4/設備4/清潔さ4）では、料理・接客は高評価だが『古い町家を活かした造りのため、高齢の利用者には少し不便（安全性）だった』という指摘が1件あった。清潔感・接客・予約トラブル等に関する重大な指摘は複数の情報源では確認できず、1点台の低評価レビューも検索範囲では見つからなかった。古民家ゆえの段差・バリアフリー面の注意点はキャプションの『訪問前情報』として明記する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "オーベルジュほまち 三國湊（公式サイト）", "url": "https://www.homachi.jp/" },
+        { "type": "press", "title": "オーベルジュほまち 三國湊『ミシュランガイドホテルセレクション2026』3年連続で掲載 - PR TIMES", "url": "https://prtimes.jp/main/html/rd/p/000000004.000178776.html" },
+        { "type": "press", "title": "オーベルジュほまち 三國湊が「Forbes JAPAN Destinations of the Year 2026」の『The 30 Collection』に選出 - PR TIMES", "url": "https://prtimes.jp/main/html/rd/p/000000001.000178776.html" },
+        { "type": "review_site", "title": "オーベルジュほまち 三國湊 クチコミ・評価 - 一休.com", "url": "https://www.ikyu.com/00003174/review/" },
+        { "type": "booking_site", "title": "オーベルジュほまち 三國湊 クチコミ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/188978/review.html" },
+        { "type": "other", "title": "Auberge Homachi Mikuni Minato - Michelin Guide", "url": "https://guide.michelin.com/jp/ja/hotels-stays/Sakai/auberge-homachi-mikuni-minato-13870" },
+        { "type": "press", "title": "福井で約300年続く三国祭へ「オーベルジュほまち 三國湊」とミシュランフレンチを共に - ATpress", "url": "https://www.atpress.ne.jp/news/598110" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-23-mikuni-ocean-resort",
+      "name": "東尋坊温泉 三国オーシャンリゾート&ホテル（旧：三国観光ホテル）",
+      "region": "福井県坂井市三国町（東尋坊温泉）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル（楽天トラベル提供写真・クチコミ集計）", "score": 3.4, "scale": 5, "review_count": 34, "checked_date": "2026-10-23", "url": "https://4travel.jp/dm_hotel-10053769" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な1泊2食の金額はWeb検索の範囲では確認できなかった。公式・各予約サイトで要確認。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "東尋坊温泉に位置し、全室オーシャンビューをうたう宿泊施設。畳部屋・カラオケ個室・卓球台など家族向け設備があり、東尋坊まで車で約5分という立地が強み。2023年6月30日に『三国観光ホテル』から『三国オーシャンリゾート&ホテル』へ名称変更。",
+      "renewal_or_news": "2023年6月の名称変更（リブランド）以降、大規模改装等の最新ニュースはWebSearchの範囲では確認できなかった。",
+      "target_audience": ["家族", "友人", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 6,
+        "unique_experience_score": 8,
+        "photogenic": 7,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 42,
+      "recommendation_reason": "東尋坊に近いオーシャンビューという立地は魅力だが、フォートラベル経由の集計で満足度3.40（34件）と推奨ライン4.0を下回り、他の独立情報源（gpoint経由の楽天トラベル表示4.14）との間にも差があり評価が安定していない。文化体験カテゴリとして核になる歴史的建築・地域文化プログラム・美食等の独自性にも乏しく、標準的な温泉旅館設備（カラオケ・卓球台）が中心のため、文化体験というテーマでの独自の訴求力が弱いと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベル経由の集計で満足度3.40（34件）という、推奨ラインを下回る評価が確認された。具体的な低評価コメントの本文は検索範囲では確認できなかったが、評価数値自体が基準未達であるため不採用の主因とした。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "review_site", "title": "東尋坊温泉 三国オーシャンリゾート&ホテル クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-10053769" },
+        { "type": "other", "title": "三国オーシャンリゾート&ホテル - gpoint travel", "url": "https://travel.gpoint.co.jp/daredoko/20b007-d005/all/" },
+        { "type": "booking_site", "title": "東尋坊温泉 三国オーシャンリゾート&ホテル(旧三国観光ホテル) - じゃらん", "url": "https://www.jalan.net/yad330510/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立した情報源間で評価数値の差が大きく（フォートラベル経由3.40 vs gpoint経由の楽天表示4.14）、信頼できる4.0以上の評価を安定して確認できなかった。文化体験カテゴリとして核となる歴史的建築・地域文化プログラムなどの独自性にも乏しいため、今サイクルでは不採用とした。"
+    }
+  ]
+}

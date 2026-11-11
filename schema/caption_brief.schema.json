@@ -1,0 +1,47 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CaptionBrief",
+  "description": "リサーチ＆ライティングのみの成果物（画像構成・カルーセルなし）。docs/operating-principles.md のスコープ変更（2026-09-14〜）に伴い、posts/ の代わりに captions/ に出力する軽量フォーマット。",
+  "type": "object",
+  "required": [
+    "id", "candidate_id", "region", "category", "facility_overview",
+    "recommendation_reasons", "evaluation_basis", "target_audience", "why_now",
+    "captions", "hashtags", "sources", "created_date"
+  ],
+  "properties": {
+    "id": { "type": "string" },
+    "candidate_id": { "type": "string", "description": "data/candidates 内のcandidate.idを参照" },
+    "region": { "type": "string" },
+    "category": { "type": "string" },
+    "facility_overview": { "type": "string" },
+    "recommendation_reasons": { "type": "array", "items": { "type": "string" } },
+    "evaluation_basis": { "type": "string" },
+    "target_audience": { "type": "array", "items": { "type": "string" } },
+    "why_now": { "type": "string" },
+    "price_note": { "type": "string" },
+    "access_note": { "type": "string" },
+    "captions": {
+      "type": "object",
+      "required": ["instagram", "tiktok"],
+      "properties": {
+        "instagram": { "type": "string" },
+        "tiktok": { "type": "string" }
+      }
+    },
+    "hashtags": { "type": "array", "items": { "type": "string" } },
+    "sources": {
+      "type": "array",
+      "minItems": 2,
+      "items": {
+        "type": "object",
+        "required": ["type", "title", "url"],
+        "properties": {
+          "type": { "enum": ["official", "booking_site", "review_site", "sns", "press", "other"] },
+          "title": { "type": "string" },
+          "url": { "type": "string" }
+        }
+      }
+    },
+    "created_date": { "type": "string", "format": "date" }
+  }
+}

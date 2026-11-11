@@ -1,0 +1,173 @@
+{
+  "cycle_date": "2026-09-14",
+  "theme": "金沢の伝統建築系ラグジュアリーホテル",
+  "season_rationale": "9月下旬〜10月は北陸の残暑が落ち着き、兼六園周辺や茶屋街の散策に適した気候になる時期。紅葉本番（11月）の前に、街歩きと宿泊を組み合わせた金沢旅の需要が高まり始めるタイミングであるため紹介に適する（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-20-mizu-no-oto", "region": "神奈川県足柄下郡箱根町（小涌谷）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-cycl-yamanakako", "region": "山梨県南都留郡山中湖村", "category": "サウナ" },
+    { "post_id": "2026-09-14-kinmedai-kokorone", "region": "静岡県伊東市（宇佐美温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-09-14-unkai-terrace-tomamu", "region": "北海道占冠村（星野リゾート トマム）", "category": "アクティビティ" },
+    { "post_id": "2026-09-14-clubmed-ishigaki-kabira", "region": "沖縄県石垣市（川平）", "category": "オールインクルーシブ" },
+    { "post_id": "2026-09-14-yamamizuki-kurokawa", "region": "熊本県阿蘇郡南小国町（黒川温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-hoshinoya-kyoto", "region": "京都府京都市（嵐山）", "category": "文化体験" },
+    { "post_id": "2026-09-14-aonagi-setouchi", "region": "愛媛県松山市（柳谷町）", "category": "絶景ホテル" },
+    { "post_id": "2026-09-14-lanature-glamping", "region": "栃木県佐野市", "category": "グランピング" },
+    { "post_id": "2026-09-14-azumi-setoda", "region": "広島県尾道市瀬戸田町", "category": "離島リゾート" },
+    { "post_id": "2026-09-14-sheraton-yosweets", "region": "大阪府大阪市天王寺区（上本町）", "category": "その他" },
+    { "post_id": "2026-09-14-sagano-torokko", "region": "京都府京都市（嵯峨野）", "category": "列車・船" }
+  ],
+  "duplication_note": "既存の data/candidates・captions に石川県・金沢市の候補は存在せず、地域重複の懸念はない（原則29）。カテゴリも既存の『文化体験』（星のや京都）とは切り口が異なり、金沢の伝統建築×デザイナーズホテルという新規軸として選定した。",
+  "candidates": [
+    {
+      "id": "2026-09-14-soki-kanazawa",
+      "name": "SOKI KANAZAWA",
+      "region": "石川県金沢市（近江町市場前）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル",
+          "score": 4.59,
+          "scale": 5,
+          "review_count": 130,
+          "checked_date": "2026-09-17",
+          "url": "https://travel.rakuten.co.jp/HOTEL/184496/review.html"
+        },
+        {
+          "source": "じゃらん",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 90,
+          "checked_date": "2026-09-17",
+          "url": "https://www.jalan.net/yad357681/kuchikomi/archive/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "2名1室利用時、素泊まりで1室10,485円〜（1名あたり約5,243円〜）。客室タイプ・時期により変動し、上位カテゴリの客室はより高額。",
+        "as_of_search_date": "2026-09-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "金沢の台所・近江町市場の目の前、袋町という古くから『市』が栄えた土地に立つ全130室のデザイナーズホテル（運営：UDSホテルズ）。木を用いた和のデザイン、館内に香りを効かせる演出、金沢の職人・作家と協業したワークショップなど、金沢らしさを現代的に翻訳した宿泊体験を提供する。大浴場も完備。",
+      "renewal_or_news": "2022年11月19日開業。開業から約4年、レビュー件数が積み上がりつつある成長期の施設（複数メディアで確認）。",
+      "target_audience": ["カップル", "女子旅", "ホテル好き", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 13,
+        "unique_experience_score": 15,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 80,
+      "recommendation_reason": "楽天トラベル4.59（130件）・じゃらん4.5相当（90件）という、性質の異なる2つの独立した情報源で、いずれも4.2以上かつ十分なレビュー件数を確認できた（原則6・7）。金沢らしいデザイン×近江町市場前という立地の強さに加え、素泊まり1室10,485円〜と『少し奮発すれば届く』価格帯に収まる点も本アカウントのトーンに合致する。町家一棟貸し系の候補（謡町 UTAIMACHI・町家レジデンスイン金沢）はレビュー件数が少なく信頼性で劣るため、本候補を優先した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "『スタイリッシュに見せる工夫の裏で古さを隠しているように見える』という感想や、『大浴場の洗い場が少なく待つことがある』『脱衣ロッカーが狭い』といった指摘は見られたが、清潔感・接客・安全面での重大な継続的クレームには該当しない（原則10）。全体としては『清潔感がある』『スタッフの対応が丁寧』という高評価コメントが優勢。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "SOKI KANAZAWA | UDS HOTELS 公式サイト", "url": "https://www.uds-hotels.com/soki/kanazawa/" },
+        { "type": "review_site", "title": "SOKI KANAZAWA - クチコミ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/184496/review.html" },
+        { "type": "review_site", "title": "SOKI KANAZAWA（2022年11月19日OPEN）の口コミ・評判履歴 - 宿泊予約は＜じゃらん＞", "url": "https://www.jalan.net/yad357681/kuchikomi/archive/" },
+        { "type": "press", "title": "都市型観光ホテル「SOKI KANAZAWA」秋オープン。金沢の台所・近江町市場の目の前に全130室 - トラベル Watch", "url": "https://travel.watch.impress.co.jp/docs/news/1431023.html" },
+        { "type": "other", "title": "SOKI KANAZAWA | 洗練された大浴場や香りの演出に癒される。金沢らしい風情に包まれたホテル | icotto", "url": "https://icotto.jp/hotels-10949/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-14-utaimachi-higashi-chaya",
+      "name": "謡町 UTAIMACHI",
+      "region": "石川県金沢市（ひがし茶屋街）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "NAVITIME",
+          "score": 4.8,
+          "scale": 5,
+          "review_count": 12,
+          "checked_date": "2026-09-17",
+          "url": "https://www.navitime.co.jp/poi?spot=02022-1323539"
+        },
+        {
+          "source": "Trip.com",
+          "score": 4.7,
+          "scale": 5,
+          "review_count": 17,
+          "checked_date": "2026-09-17",
+          "url": "https://jp.trip.com/hotels/kanazawa-hotel-detail-47771934/utaimachi/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "2名1室利用・朝食付きで1名あたり15,015円〜（税込表示25,676円〜/2名との記載もあり）。",
+        "as_of_search_date": "2026-09-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "花街の風情が残る『ひがし茶屋街』の中心に位置する全3室の古民家デザイナーズホテル。地元若手作家と協業して装飾された客室、金沢の人気ベーカリー『ひらみぱん』のパンを使った朝食など、ひがし茶屋街を拠点にした滞在体験を提供する。",
+      "renewal_or_news": "近年開業のデザイナーズ町家ホテルとして複数の旅行メディアで紹介されている（4travel・一休・Yahoo!トラベル等）。",
+      "target_audience": ["カップル", "夫婦", "記念日"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 6,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 74,
+      "recommendation_reason": "評価点自体はNAVITIME4.8・Trip.com4.7相当と非常に高く、ひがし茶屋街中心・全3室という独自性も強い。ただしいずれもレビュー件数が12〜17件と少なく、集計サイトごとに評価スケールが異なるため、原則6が重視する『件数の裏付けを伴った信頼性』の面でSOKI KANAZAWAに及ばないと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Web検索の範囲では、『建物はやや古いが立地が良い』というコメントはあったが、清潔感・接客面での重大なクレームは確認できなかった。ただしレビュー総数が少なく、判断材料としてはSOKI KANAZAWAより限定的。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "謡町 UTAIMACHIのクチコミ情報が満載！【フォートラベル】", "url": "https://4travel.jp/dm_hotel-11803770" },
+        { "type": "booking_site", "title": "謡町 UTAIMACHI - 宿泊予約【Yahoo!トラベル】", "url": "https://travel.yahoo.co.jp/00050874/" },
+        { "type": "booking_site", "title": "謡町 UTAIMACHI - 【朝食付き】ひがし茶屋街を存分に楽しめるお宿 - 一休.com", "url": "https://www.ikyu.com/00050874/10779396/10154126/" },
+        { "type": "other", "title": "謡町 UTAIMACHI | 金沢市のホテル・アクセス・地図 - NAVITIME", "url": "https://www.navitime.co.jp/poi?spot=02022-1323539" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-09-14-machiya-residence-inn-kanazawa",
+      "name": "町家レジデンスイン金沢",
+      "region": "石川県金沢市（市内23棟分散）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "棟ごとに料金・グレードが異なり、単一の価格帯を提示できない。",
+        "as_of_search_date": "2026-09-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "金沢市内に23棟分散する、1日1組限定・一棟貸しの金澤町家。各棟が個別にリノベーションされ、深めの浴槽と簡易キッチンを備える。",
+      "target_audience": ["家族", "友人", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 8,
+        "photogenic": 6,
+        "value_for_price": 0,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 19,
+      "recommendation_reason": "『町家レジデンスイン金沢』は単一施設ではなく23棟の個別町家の集合ブランドであり、棟ごとに別々の宿泊予約ページ・レビューが存在する。今回のWeb検索では棟を横断した単一の評価点・件数を確認できず、原則6・7が求める『信頼できる評価の裏付け』を1件の候補として満たせなかった。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "棟ごとにレビューが分散しており、今回のセッションでは横断的な低評価レビューの確認まで手が回らなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "【公式】町家レジデンスイン金沢｜一棟貸し町家で宿泊", "url": "https://www.kanazawa-machiya-inn.com/jp/" },
+        { "type": "other", "title": "金沢の町家一覧 - 【公式】町家レジデンスイン金沢", "url": "https://www.kanazawa-machiya-inn.com/jp/accommodations/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "単一施設として評価点・件数を裏付けられず、原則6・7の採用基準を満たせないため除外。"
+    }
+  ]
+}

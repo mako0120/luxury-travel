@@ -1,0 +1,152 @@
+{
+  "cycle_date": "2026-10-20",
+  "theme": "離島リゾート再調査（新潟県佐渡島／島根県隠岐諸島）",
+  "season_rationale": "10月下旬は佐渡・隠岐とも夏の海水浴シーズンが落ち着き、台風も一段落するタイミング。佐渡は沿岸部の夕景・朝焼けが澄んで見える時期、隠岐は紅葉とジオパーク散策に適した気候になり、どちらも『静かな離島』を満喫する秋の旅として訴求できる（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-20-yakushima-shodoshima-resort", "region": "鹿児島県屋久島／香川県小豆島", "category": "離島リゾート", "note": "本サイクル直前の離島リゾート再調査1回目。屋久島sankara hotel & spaは2026-09-22の既出投稿と重複判明のため不採用、屋久島いわさきホテル・ベイリゾートホテル小豆島はスコア不足で該当なしだった。" },
+    { "post_id": "2026-10-19-hotel-denhaag-htb", "region": "長崎県佐世保市ハウステンボス町", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-19-ibusuki-ginsho", "region": "鹿児島県指宿市湯の浜", "category": "絶景ホテル" },
+    { "post_id": "2026-10-19-irabu-island-resort", "region": "沖縄県宮古島市伊良部島", "category": "離島リゾート", "note": "該当なし（2026-10-19調査）" },
+    { "post_id": "2026-10-19-tanegashima-resort", "region": "鹿児島県種子島", "category": "離島リゾート", "note": "該当なし（2026-10-19調査）" },
+    { "post_id": "2026-10-18-goto-retreat-ray", "region": "長崎県五島市上崎山町（福江島）", "category": "離島リゾート" },
+    { "post_id": "2026-10-17-hoshino-iriomote-hotel", "region": "沖縄県八重山郡竹富町上原（西表島）", "category": "離島リゾート" },
+    { "post_id": "2026-09-22-yakushima-activity", "region": "鹿児島県屋久島", "category": "アクティビティ", "note": "captions/2026-09-22-sankara-yakushima.json としてsankara hotel & spa 屋久島が2026-09-22に既に採用済み。" },
+    { "post_id": "2026-09-22-amami-island", "region": "鹿児島県奄美大島", "category": "離島リゾート" },
+    { "post_id": "2026-09-18-miyakojima-island", "region": "沖縄県宮古島", "category": "離島リゾート" },
+    { "post_id": "2026-09-14-remote-island-resort", "region": "沖縄県石垣島・竹富島周辺", "category": "離島リゾート" }
+  ],
+  "duplication_note": "data/candidates・captions配下の全件（2026-09-14〜2026-10-20、1ヶ月以上前を含む）をgrepで確認した結果、『佐渡』『隠岐』を含む施設・投稿は本サイクル以前に一件も存在せず、新潟県佐渡島・島根県隠岐諸島は地域として完全に新規。直前の離島リゾート再調査（2026-10-20、屋久島・小豆島）はカテゴリが同じ『離島リゾート』だが、2026-10-19採用分（オールインクルーシブ／長崎）とは連続せず、かつ今回調査する佐渡・隠岐の施設は上記いずれの既投稿・既候補とも地域・施設名が重複しない。",
+  "candidates": [
+    {
+      "id": "2026-10-20-ento-oki",
+      "name": "Entô（エントウ）",
+      "region": "島根県隠岐郡海士町福井（隠岐諸島・中ノ島／内航船で菱浦港から徒歩約3分、本州側の七類港・境港からの船便＋隠岐空港経由でアクセス）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "じゃらん（Expedia経由集計・jcation掲載）", "score": 4.8, "scale": 5, "review_count": 9, "checked_date": "2026-10-20", "url": "https://jcation.com/hotel/detail-22917/" },
+        { "source": "楽天トラベル（集計・mapple.net経由）", "score": 4.4, "scale": 5, "review_count": 65, "checked_date": "2026-10-20", "url": "https://www.mapple.net/region/a0601060100/hotel/" },
+        { "source": "icotto（宿泊者口コミ）", "score": 3.5, "scale": 5, "review_count": 1, "checked_date": "2026-10-20", "url": "https://icotto.jp/hotels-11520/" }
+      ],
+      "price_range_jpy": {
+        "note": "全36室、2021年7月開業。Web検索（スニペット経由）では日付指定前提の予約サイトが多く、具体的な1泊料金の数値は確認できなかった。プライベートテラス付きスイート『NESTSU』『NEST DX』など上位カテゴリがあり、相応の高価格帯が想定される。正確な料金は公式サイト（https://www.ento-oki.jp/ ※本セッションではDNS解決不可でWebFetch不可）・予約サイトで日付を指定して要確認。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "隠岐ユネスコ世界ジオパーク（かつ大山隠岐国立公園）の『泊まれるジオパーク拠点』として2021年に開業した日本初の本格ジオホテル。全室が日本海と隠岐カルデラ（島前）を望む造りで、ジオパークの展示・ガイドツアーを併設し、宿泊しながら火山由来の地形・生態系を学べる点が他の離島リゾートにはない強い差別化要素。隠岐牛や地魚を使った地産地消のレストラン、天然温泉の大浴場も備え、『何もしない贅沢』を掲げる大人向けリトリートとして紹介されている。",
+      "renewal_or_news": "2026年5月、国立公園指定90周年の特集記事で『JTA2026受賞』として大きく紹介され、国際的な旅行アワード『Japan Travel Awards 2026』のBest Sustainable Travel（サステナブル部門）を受賞したことが確認できた（環境保全・社会的包摂・地域経済への貢献が評価軸）。開業から5年を経てもなお第三者評価による新しい話題性を獲得している点が鮮度として強い。",
+      "target_audience": ["カップル", "夫婦", "一人旅", "絶景好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 9,
+        "unique_experience_score": 19,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 8,
+        "access_and_freshness": 5
+      },
+      "score": 82,
+      "recommendation_reason": "じゃらん（Expedia経由）4.8（9件）・楽天トラベル集計4.4（65件）という独立した2つの主要予約サイトでいずれも採用ライン（4.0）を上回る評価が確認できた。『泊まれるジオパーク拠点』という日本初・隠岐でしか成立しない体験設計に加え、2026年5月にJapan Travel Awards 2026のBest Sustainable Travel部門受賞という鮮度の高い第三者評価ニュースがあり、原則9（SNSトレンド）・原則4（情報の新しさ）の両面で強い。口コミ件数が主要2サイトで9件・65件とやや少なく信頼性は中程度だが、Hidden Gemルール（公式情報確認可・営業継続中・複数情報源あり・強い独自性あり）を満たすため穴場候補としても成立する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベルの2026年6月の口コミでは『本館は施設自体が古い印象で、アメニティがビジネスホテル並みに質素』『カーペットのシミやカーテン・冷蔵庫など備品の古さが気になる』という指摘があり、『本館は古く質素、新館推奨の宿』という見出しも付いていた。icottoの1件の口コミ（3.5、友人旅行）では『意識が高めのホテル』という評価にとどまる。一方で景観・スタッフの気配り・地産地消の料理への評価は複数サイトで一貫して高く、清潔感や予約トラブルなど重大な欠陥の指摘は確認できなかった。予約時は新館の客室を選ぶことで満足度が上がる可能性がある点をキャプションでは明示しない（確認できない詳細のため）が、社内メモとして残す。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "<しまねNEWS LETTER 2026年5月号>国立公園90周年の島根・隠岐へ。JTA2026受賞『泊まれるジオパーク』拠点『Entô』で、『何もしない贅沢』を楽しむ大人のリトリート。", "url": "https://prtimes.jp/main/html/rd/p/000000001.000184096.html" },
+        { "type": "other", "title": "Japan Travel Awards 2026 Best Sustainable Travel受賞に関する紹介記事", "url": "https://www.timeout.com/tokyo/news/these-are-japans-11-award-winning-travel-experiences-for-2026-012826" },
+        { "type": "review_site", "title": "Entô<隠岐諸島>のクチコミ&詳細（じゃらん/Expedia経由集計） - jcation", "url": "https://jcation.com/hotel/detail-22917/" },
+        { "type": "booking_site", "title": "隠岐島前エリア ホテル一覧（楽天トラベル クチコミ評価4.4・65件） - まっぷるトラベルガイド", "url": "https://www.mapple.net/region/a0601060100/hotel/" },
+        { "type": "review_site", "title": "Entô 口コミ(友人旅行・評価3.5) - icotto", "url": "https://icotto.jp/hotels-11520/" },
+        { "type": "other", "title": "Entô 開業（2021年7月）・施設概要紹介 - TravelVoice", "url": "https://www.travelvoice.jp/20210630-149090" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-20-hotel-oosado",
+      "name": "HOTEL OOSADO",
+      "region": "新潟県佐渡市相川春日崎（佐渡島北西部・両津港からバス約60分＋徒歩/タクシー、相川バス停から徒歩約25分）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル（集計・mapple.net経由）", "score": 4.44, "scale": 5, "review_count": 637, "checked_date": "2026-10-20", "url": "https://travel.gpoint.co.jp/daredoko/17b004/" },
+        { "source": "JTBお客様アンケート評価", "score": 4.2, "scale": 5, "review_count": 0, "checked_date": "2026-10-20", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/3131001/" }
+      ],
+      "price_range_jpy": {
+        "note": "1964年開業・全72室オーシャンビューの老舗温泉リゾート。Web検索（スニペット経由）では具体的な1泊料金の数値は確認できなかった。プレミアムスイート（2室限定・専用露天風呂付き）は上位価格帯が想定される。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "佐渡島北西部・春日崎の断崖に立つ全72室オーシャンビューの温泉リゾート。2023年・2024年の2段階リニューアルでプレミアムスイート（専用露天風呂付き、2室限定）・水のテラス・ラウンジ・レストラン・大浴場を一新。夕景・朝焼けを一望できるロケーションと、2024年に世界遺産登録に向け話題となった佐渡金山ゆかりの地元食材メニューを提供していた実績がある。",
+      "renewal_or_news": "2023年・2024年にプレミアムスイート・水のテラス・大浴場等を段階的にリニューアル。2024年7月には佐渡金山の世界遺産登録（同年7月登録）を応援する佐渡産食材のご当地メニューを提供。いずれも2026年時点では1〜3年前のニュースで、直近（2026年内）の新規性は確認できなかった。",
+      "target_audience": ["夫婦", "記念日", "カップル", "絶景好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 13,
+        "unique_experience_score": 13,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 77,
+      "recommendation_reason": "楽天トラベル集計4.44（637件）・JTBお客様アンケート84点（5点換算で概ね4.2相当）という件数の多い独立した2情報源でいずれも採用ライン（4.0）を上回る。2023・2024年の2段階リニューアルで設備が刷新されており清潔感への評価も高いが、Entôの『ジオパーク拠点・2026年受賞』ほどの『今だから推したい』新規性・唯一性がなく、本サイクルでは次点とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベルの口コミでは『綺麗で清潔感がある』『夕景や朝焼けの眺めが良い』といった好評が目立ち、重大なマイナス指摘は確認できなかった。英語レビューでも『スイートは清潔で広く設備も充実』という評価だった一方、日本語口コミで『大浴場前の麦茶が補充されていなかった』という軽微な指摘が1件あったが、清潔感・接客・予約トラブル等に関わる重大な問題ではない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "HOTEL OOSADO<佐渡島>クチコミ(楽天トラベル集計4.44・637件) - まっぷるトラベルガイド/daredoko", "url": "https://travel.gpoint.co.jp/daredoko/17b004/" },
+        { "type": "booking_site", "title": "HOTEL OOSADO 施設情報（JTBお客様アンケート評価84点） - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/3131001/" },
+        { "type": "other", "title": "HOTEL OOSADO 施設ガイド（プレミアムスイート・水のテラス等リニューアル概要） - gltjp.com", "url": "https://www.gltjp.com/ja/directory/item/15792/" },
+        { "type": "press", "title": "『佐渡金山』世界遺産登録にむけ、佐渡の食材を使ったご当地メニューで応援！【HOTEL OOSADO】 - Jorudan", "url": "https://sp.jorudan.co.jp/onsen/news/jrd_240717_1/" }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "スコア77点で採用ライン（75点）自体は上回っているが、Entô（82点、2026年の国際アワード受賞という鮮度と『ジオパーク拠点』という唯一性）に総合力で及ばず、今サイクルのBEST候補には選ばなかった。次サイクル以降の離島リゾート候補として保持する。"
+    },
+    {
+      "id": "2026-10-20-yahatakan-sado",
+      "name": "国際佐渡観光ホテル 八幡館",
+      "region": "新潟県佐渡市八幡（両津港から車で約30分）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらん", "score": 4.3, "scale": 5, "review_count": 0, "checked_date": "2026-10-20", "url": "https://www.jalan.net/yad315494/" },
+        { "source": "フォートラベル", "score": 3.43, "scale": 5, "review_count": 39, "checked_date": "2026-10-20", "url": "https://4travel.jp/dm_hotel-10054954" },
+        { "source": "Yahoo!トラベル", "score": 4.27, "scale": 5, "review_count": 0, "checked_date": "2026-10-20", "url": "https://travel.yahoo.co.jp/00001704" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な1泊料金はセッション内のWeb検索では数値を確認できなかった。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "地下1,000mから毎時1トン湧出する豊富な湯量の温泉（ナトリウム-塩化物泉）が『島内屈指』と紹介される老舗ホテル。日帰り入浴も可能。",
+      "target_audience": ["夫婦", "家族", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 9,
+        "unique_experience_score": 11,
+        "photogenic": 9,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 55,
+      "recommendation_reason": "じゃらん4.3・Yahoo!トラベル4.27は採用ラインを上回るが、フォートラベル（39件）は3.43と主要レビューサイトの一つで4.0を下回り、評価がサイトごとに大きく割れている。温泉の湯量は特徴的だが『ここでしかできない』体験としての差別化・最新性・SNS話題性に乏しく、Entô・HOTEL OOSADOと比べて総合力で見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベル39件の口コミで満足度3.43となっており、個別の指摘内容（接客・設備等）まではWeb検索のスニペットからは確認できなかったが、評価の分散自体がマイナス材料と判断した。清潔感・予約トラブル等の重大な指摘が明示的に見つかったわけではないが、情報不足のため慎重に評価した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "国際佐渡観光ホテル 八幡館 - じゃらん", "url": "https://www.jalan.net/yad315494/" },
+        { "type": "review_site", "title": "国際佐渡観光ホテル八幡館 クチコミ(39件・満足度3.43) - フォートラベル", "url": "https://4travel.jp/dm_hotel-10054954" },
+        { "type": "booking_site", "title": "国際佐渡観光ホテル八幡館（満足度4.27） - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00001704" },
+        { "type": "other", "title": "国際佐渡観光ホテル 八幡館 施設情報（温泉泉質・湧出量） - 新潟県観光協会", "url": "https://niigata-kankou.or.jp/accommodation/detail_42268.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア55点で採用ライン（75点）に届かず、フォートラベルでの評価（3.43）が主要レビューサイト評価4.0未満の基準にも抵触するため不採用（原則6）。"
+    }
+  ]
+}

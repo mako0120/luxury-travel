@@ -1,0 +1,172 @@
+{
+  "cycle_date": "2026-09-18",
+  "theme": "軽井沢・蓼科エリアのサウナ×温泉リトリート",
+  "season_rationale": "9月下旬〜10月の軽井沢・蓼科高原は朝晩の気温が下がり始め、サウナで発汗したあとの外気浴が心地よい『ととのう』体験に適した季節。紅葉本番（10月中旬〜下旬）の直前で、避暑シーズンの喧騒が落ち着き、旅程を検討し始める層が増えるタイミングでもある（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-20-mizu-no-oto", "region": "神奈川県足柄下郡箱根町（小涌谷）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-cycl-yamanakako", "region": "山梨県南都留郡山中湖村", "category": "サウナ" },
+    { "post_id": "2026-09-14-yamamizuki-kurokawa", "region": "熊本県阿蘇郡南小国町（黒川温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-hoshinoya-kyoto", "region": "京都府京都市（嵐山）", "category": "文化体験" },
+    { "post_id": "2026-09-14-soki-kanazawa", "region": "石川県金沢市（近江町市場前）", "category": "文化体験" },
+    { "post_id": "2026-09-14-aonagi-setouchi", "region": "愛媛県松山市（柳谷町）", "category": "絶景ホテル" },
+    { "post_id": "2026-09-14-lanature-glamping", "region": "栃木県佐野市", "category": "グランピング" },
+    { "post_id": "2026-09-14-azumi-setoda", "region": "広島県尾道市瀬戸田町", "category": "離島リゾート" },
+    { "post_id": "2026-09-14-sheraton-yosweets", "region": "大阪府大阪市天王寺区（上本町）", "category": "その他" },
+    { "post_id": "2026-09-14-sagano-torokko", "region": "京都府京都市（嵯峨野）〜亀岡市", "category": "列車・船" }
+  ],
+  "duplication_note": "サウナカテゴリの既存投稿は山梨県山中湖村のCYCLのみで、地域（長野県）・切り口（客室temperature湯×スパ専用サウナ）ともに重複しない（原則29）。長野県自体も今回が初出。",
+  "candidates": [
+    {
+      "id": "2026-09-18-fufu-karuizawa-yokou",
+      "name": "ふふ 軽井沢 -陽光の風-",
+      "region": "長野県北佐久郡軽井沢町（中軽井沢・星野温泉エリア）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "一休.com",
+          "score": 4.53,
+          "scale": 5,
+          "review_count": 115,
+          "checked_date": "2026-09-18",
+          "url": "https://www.ikyu.com/00003085/review/"
+        },
+        {
+          "source": "楽天トラベル",
+          "score": 4.61,
+          "scale": 5,
+          "review_count": 127,
+          "checked_date": "2026-09-18",
+          "url": "https://travel.rakuten.co.jp/HOTEL/187920/review.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付きで1名あたり39,350円〜90,000円程度（税・サービス料込み表示あり）。プラン・部屋タイプ・時期により幅が大きい。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "浅間山を望む中軽井沢・星野温泉エリアに立つスモールラグジュアリーリゾート『ふふ 軽井沢 -陽光の風-』。全室に天然温泉とホットストーンを備え、スパ専用エリアにはドライサウナ・水風呂・ハーブバスを完備。『からだを温めて健康になる』をコンセプトに、客室単位でも館内のスパでも『ととのう』体験ができる二段構えの設計が特徴。",
+      "renewal_or_news": "『ふふ』ブランドはミシュランガイドのホテルセレクションにも掲載されており、比較的新しい客室棟・スパ設備を持つ（複数メディアで確認）。",
+      "target_audience": ["夫婦", "記念日", "カップル", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 14,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 5
+      },
+      "score": 85,
+      "recommendation_reason": "一休.com4.53（115件）・楽天トラベル4.61（127件）と、性質の異なる2つの独立した予約サイトでいずれも高評価かつ十分なレビュー件数を確認できた（原則6・7）。全室に温泉×ホットストーン、加えてスパ専用エリアにドライサウナ・水風呂・ハーブバスという『客室でもスパでも、二重に温まる』構成は他候補にない独自性がある。軽井沢は新幹線で東京から約1時間というアクセスの良さも強み。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorには『食事が口に合わない』『奇をてらいすぎている』という指摘や、サービス面の改善を求める声が一部あったが、Tripadvisor自体のレビュー件数はわずか5件（3/5評価）と母数が極端に少なく、一休.com（115件）・楽天トラベル（127件）という大規模かつ独立した2サイトの高評価と矛盾する。内容も味の好みやサービスの主観的評価であり、清潔感・安全面での重大な指摘ではないため、disqualifying issueとは判断しなかった（原則10）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ふふ 軽井沢 -陽光の風- - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00003085/review/" },
+        { "type": "review_site", "title": "ふふ 軽井沢 ー陽光の風ー に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/187920/review.html" },
+        { "type": "review_site", "title": "ふふ 軽井沢 陽光の風【2026年最新の料金比較・口コミ】- Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-g325581-d26826289-Reviews-FUFU_KARUIZAWA_Wind_in_the_Sunshine-Karuizawa_machi_Kitasaku_gun_Nagano_Prefecture_Ko.html" },
+        { "type": "other", "title": "ふふ 軽井沢 陽光の風 - ミシュランガイド", "url": "https://guide.michelin.com/jp/ja/hotels-stays/karuizawamachi/fufu-karuizawa-yokou-no-kaze-13391" },
+        { "type": "other", "title": "長野県《ふふ 軽井沢 陽光の風》緑と光に満ちた空間でエネルギーをチャージ | Discover Japan", "url": "https://discoverjapan-web.com/article/123718" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-18-resort-hotel-tateshina",
+      "name": "リゾートホテル蓼科",
+      "region": "長野県茅野市（蓼科高原・蓼科湖畔）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "ゆこゆこ",
+          "score": 4.05,
+          "scale": 5,
+          "review_count": 104,
+          "checked_date": "2026-09-18",
+          "url": "https://www.yukoyuko.net/6403/kuchikomi"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では、正確な1泊2食価格帯を確認できなかった。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "蓼科三室源泉を引く温泉と、露天風呂に設置されたバレルサウナ（男湯・女湯各1台）を備える蓼科湖畔のリゾートホテル。朝夕ビュッフェの評価が高く、ステーキ・フルーツサンドなどが好評。",
+      "target_audience": ["家族", "夫婦", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 5,
+        "unique_experience_score": 12,
+        "photogenic": 9,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 55,
+      "recommendation_reason": "ゆこゆこの口コミ総合81点（4.05相当・104件）自体は採用ラインを満たすが、今回のセッションでは楽天トラベル・じゃらん等、性質の異なる2件目の独立情報源を数値で確認できず、原則7の『最低2件以上の独立情報源』の要件を満たせなかった。加えて内訳を見ると風呂（サウナ含む）評価が69点（他項目より明確に低い）と、本サイクルの切り口である『サウナ体験』そのものが相対的な弱点になっている点も選定を見送った理由。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "『サウナが小さい』『アロマがあるとより良い』といった声があり、風呂・サウナ項目のスコア（69点）が他項目（客室88点、朝食83点等）より明確に低い。清潔感（79点）・接客（77点）は許容範囲内で、重大な disqualifying issue ではないが、サウナ推しの投稿としては訴求力に欠けると判断。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "口コミ・評判 - リゾートホテル蓼科【ゆこゆこ】", "url": "https://www.yukoyuko.net/6403/kuchikomi" },
+        { "type": "review_site", "title": "リゾートホテル蓼科 口コミ・おすすめコメント＜蓼科＞ - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/5175003/review/" },
+        { "type": "official", "title": "温泉・サウナ｜リゾートホテル 蓼科【公式】", "url": "https://resort-hotel-tateshina.jp/pages/60/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立した2件目の数値評価情報源を確認できず原則7を満たせないこと、および本サイクルの目的であるサウナ体験自体の評価（風呂項目69点）が他項目より明確に低いことから選定を見送った。"
+    },
+    {
+      "id": "2026-09-18-tateshina-park-hotel",
+      "name": "いろりの宿 蓼科パークホテル（バレルキュラ）",
+      "region": "長野県茅野市（蓼科高原）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル",
+          "score": 3.57,
+          "scale": 5,
+          "review_count": 672,
+          "checked_date": "2026-09-18",
+          "url": "https://travel.rakuten.co.jp/HOTEL/16099/review.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な価格帯を確認できなかった。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "標高1,250mの高原にある囲炉裏料理の宿で、敷地内に『蓼科バレルキュラ』という樽型サウナルームを備える。",
+      "target_audience": ["家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 9,
+        "review_reliability": 4,
+        "unique_experience_score": 10,
+        "photogenic": 7,
+        "value_for_price": 4,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 39,
+      "recommendation_reason": "樽型サウナという独自性はあるが、楽天トラベルの評価が3.57と採用ライン（4.0以上）を下回る。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorに『最悪0点二度と行かない』『残念ですが二度と利用しません』といった強い低評価レビューが複数確認され、『虫が多く発生する』という具体的な清潔感に関わる指摘もあった。楽天トラベルでも『施設の古さ』『管理・サービスへの懸念』を指摘する声があり、複数の独立情報源で一致した否定的傾向が見られる。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "review_site", "title": "蓼科温泉 いろりの宿 蓼科パークホテル - クチコミ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/16099/review.html" },
+        { "type": "review_site", "title": "蓼科 パーク ホテルの口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g303145-d1090560-r122576466-Tateshina_Park_Hotel-Chino_Nagano_Prefecture_Koshinetsu_Chubu.html" },
+        { "type": "official", "title": "蓼科バレルキュラ | 【公式】蓼科パークホテル", "url": "https://www.tateshina-parkhotel.com/sauna/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "評価点が採用ライン（4.0以上）を下回るうえ、Tripadvisor・楽天トラベル双方で清潔感・管理体制に関する独立した否定的指摘が一致して見られたため、原則6・10に基づき除外した。"
+    }
+  ]
+}

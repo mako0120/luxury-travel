@@ -1,0 +1,155 @@
+{
+  "cycle_date": "2026-10-30",
+  "theme": "福島県猪苗代湖エリアのグランピング施設",
+  "season_rationale": "指示されたテーマ（カテゴリ「グランピング」×地域「福島県猪苗代湖エリア」）に沿って調査を実施。10月末の猪苗代湖エリアは紅葉が終盤に近づき、磐梯山麓の紅葉と湖畔の夕景が見頃となる一方、テント主体のフリーサイト型キャンプ場は冬季クローズに向かう時期でもある（運用原則8章の季節性確認）。直近投稿（2026-10-29＝長野県茅野市蓼科高原・奈良県天川村洞川のグランピング等）とは地域が重複しない。既存data/candidates・captionsを福島・猪苗代・Inawashiroで検索した限り、同地域×同カテゴリの既存候補・採用例は確認できなかった（1ヶ月以上前のデータも含めて確認済み）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-29-tateshina-glamping", "region": "長野県茅野市（蓼科高原エリア）", "category": "グランピング" },
+    { "post_id": "2026-10-29-tenkawa-dorogawa-glamping", "region": "奈良県天川村洞川", "category": "グランピング" },
+    { "post_id": "2026-10-28-izukogen-glamping", "region": "静岡県伊豆高原", "category": "グランピング" },
+    { "post_id": "2026-10-28-nichinan-glamping", "region": "鳥取県日南町", "category": "グランピング" }
+  ],
+  "duplication_note": "data/candidates・captions配下を『猪苗代』『Inawashiro』『福島』で検索したが、同地域(猪苗代湖エリア)×同カテゴリ(グランピング)の既存候補・採用済みキャプションは見つからなかった（ヒットしたのは土湯温泉・飯坂温泉・東山温泉・いわき湯本など福島県内の別地域のサウナ/グルメ旅館系候補のみで、猪苗代湖エリアのグランピングとは無関係）。本サイクルは新規テーマとして調査した。",
+  "research_note": "猪苗代湖畔・猪苗代・表磐梯エリアのグランピング候補を探索した。(1)『ROOTS 猪苗代 LAKE AREA』（猪苗代町山潟湊志田、湖畔・上戸駅徒歩圏、2023年4月オープン、BBQ『yagoona』が特徴）は、フォートラベル・なっぷいずれも評価なし/未評価（なっぷでは口コミ1件のみ）で、原則6の判定material自体が存在しなかったため不採用。(2)『cafe&activity nowhere』のnowhere camp field（猪苗代・表磐梯エリア、フリーサイト¥2,200〜）はなっぷで4.2（15件）を確認できたが、2件目の独立した数値情報源を確認できず、かつグランピング専用設備の詳細も確認できなかったため原則7を満たせず不採用。(3)『貸別荘&コテージ オール・リゾート・サービス』（猪苗代町出雲壇、1979年開業、敷地内に酒蔵を移築した『KURA』など20棟以上のデザイン違いの貸別荘、全棟専用の屋根付きBBQテラス完備）は、じゃらんnetで総合4.5（472件、検索タイミングにより4.6/480件という表示も確認）という大規模かつ安定した評価を確認でき、原則6の採用ライン（4.0以上）を明確に満たした。2件目の独立情報源としてフォートラベル（満足度3.16・口コミ3件）を確認したが、件数が極端に少なく統計的信頼性は低いこと、また『悪い』『とても悪い』評価は0件であることを明記した上で、原則7が求める『最低2種類の独立した情報源』の形式要件は満たすと判断し採用候補とした。るるぶトラベル系ページでは3.5(6件)〜4.6(別掲載)といった表記の揺れも確認されたため、これも参考情報として記録した。なお本セッションはネットワーク制限により jalan.net・nap-camp.com への直接WebFetchができず、WebSearchのスニペット経由の確認に限定された点を明記する。",
+  "other_candidates_considered": [
+    {
+      "name": "レイクサイド磐光（猪苗代湖畔のプライベート・キャンプサイトでの日帰りグランピング）",
+      "category": "日帰りグランピング（宿泊なし）",
+      "note": "福島大学2017年のプレスリリースで紹介された、猪苗代町・会津若松市関与の『みらいなこどもプロジェクト』の一環としての親子デイキャンプ企画。宿泊型グランピングではなく、かつ2017年度の企画で現在も実施されているかは本セッションでは確認できなかったため、候補化を見送った。"
+    },
+    {
+      "name": "猪苗代湖モビレージ",
+      "category": "キャンプ場・RVパーク（オートサイト／キャンピングカーサイト／バンガロー・コテージ）",
+      "note": "オート80区画・キャンピングカー20区画等を備えるが、グランピングテント等の宿泊形態ではなくオートキャンプ場としての紹介が中心だったため、カテゴリ『グランピング』としての正式調査対象外とした。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-30-roots-inawashiro-lake-area",
+      "name": "ROOTS 猪苗代 LAKE AREA",
+      "region": "福島県耶麻郡猪苗代町山潟湊志田1855（猪苗代湖畔、JR上戸駅徒歩約3分）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "楽天トラベルのプラン紹介では地元食材を使った鉄板料理（yagoonaでのBBQ）が目玉として紹介されているが、具体的な料金は本セッションでは確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "郡山市の資料によれば2023年4月にグランドオープンした、猪苗代湖畔・JR上戸駅から徒歩圏の宿泊施設。地元食材を使った本格的な鉄板料理を敷地内の『yagoona』で楽しめる点が特徴として紹介されている。",
+      "renewal_or_news": "2023年4月にグランドオープンセレモニーが開催されたことを郡山市の資料で確認できた。2026年時点での最新営業状況は本セッションでは確認できなかった。",
+      "target_audience": ["カップル", "記念日", "友人"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 12,
+        "photogenic": 8,
+        "value_for_price": 0,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 24,
+      "recommendation_reason": "湖畔ロケーションと鉄板料理『yagoona』という独自性は確認できるが、フォートラベルでは評価なし、なっぷでは未評価（口コミ1件のみ）で、原則6の判定material（数値評価）自体が本セッションでは確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ件数が極めて少なく（フォートラベル：評価なし、なっぷ：未評価・口コミ1件のみ）、ネガティブ内容の有無自体を確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ROOTS 猪苗代 LAKE AREA クチコミ（評価なし） - フォートラベル", "url": "https://4travel.jp/dm_hotel-11966590" },
+        { "type": "booking_site", "title": "ROOTS 猪苗代 LAKE AREA プラン一覧（yagoonaでのBBQ紹介） - 楽天トラベル", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/190415" },
+        { "type": "booking_site", "title": "ROOTS 猪苗代 LAKE AREA 施設情報 - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/190415/190415.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイトで数値評価が一件も確認できず（原則6の判定material自体が存在しない）、独立2情報源での裏取りも成立しないため不採用。"
+    },
+    {
+      "id": "2026-10-30-nowhere-camp-field-inawashiro",
+      "name": "cafe&activity nowhere（nowhere camp field）",
+      "region": "福島県猪苗代・表磐梯エリア",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "なっぷ（キャンプ場専門口コミサイト）", "score": 4.2, "scale": 5, "review_count": 15, "checked_date": "2026-10-30", "url": "https://www.nap-camp.com/gramping/fukushima/inawashiro_omotebandai/list" }
+      ],
+      "price_range_jpy": {
+        "note": "フリーサイトは1泊目安2,200円〜という表示を確認したが、グランピングプラン単体の料金は本セッションでは確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "カフェ併設のキャンプフィールド。シャワー・ゴミ捨て場・ウォッシュレット式トイレを備え、車両・ペット同伴可。なっぷの猪苗代・表磐梯エリア『グランピングができるキャンプ場』一覧に掲載されているが、グランピング専用テント等の詳細設備は本セッションでは確認できなかった。",
+      "target_audience": ["友人", "家族", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 5,
+        "unique_experience_score": 8,
+        "photogenic": 6,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 50,
+      "recommendation_reason": "なっぷ単独の評価4.2（15件）は採用ラインを上回るが、2件目の独立した数値情報源を本セッションでは確認できず原則7を満たせない。またグランピング専用設備（テント仕様等）の詳細も確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ件数が15件のみで、個別の低評価内容までは本セッションでは確認できなかった。重大な指摘は検索結果上では見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "猪苗代・表磐梯のグランピングができるキャンプ場一覧（cafe&activity nowhere：4.2・15件） - なっぷ", "url": "https://www.nap-camp.com/gramping/fukushima/inawashiro_omotebandai/list" },
+        { "type": "other", "title": "猪苗代・表磐梯のキャンプ場一覧（フリーサイト情報） - なっぷ", "url": "https://www.nap-camp.com/free_site/fukushima/inawashiro_omotebandai/list" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "なっぷ単独の評価のみで2件目の独立した数値情報源を確認できず原則7を満たせないこと、総合スコアが50点で採用ライン75点に届かないことから不採用。"
+    },
+    {
+      "id": "2026-10-30-all-resort-service-inawashiro",
+      "name": "貸別荘&コテージ オール・リゾート・サービス",
+      "region": "福島県耶麻郡猪苗代町字出雲壇（猪苗代湖畔・裏磐梯高原エリア、猪苗代磐梯高原ICから車で約10分）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.5, "scale": 5, "review_count": 472, "checked_date": "2026-10-30", "url": "https://www.jalan.net/yad337554/" },
+        { "source": "フォートラベル", "score": 3.16, "scale": 5, "review_count": 3, "checked_date": "2026-10-30", "url": "https://4travel.jp/dm_hotel-10039587" }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらん掲載の『【カップル・ご夫婦限定】スウィート棟をまるごと貸切』プランでは9,900円（税込）〜/人（大人2名利用時、2名で19,800円〜/棟）という表示を確認。別の特集記事では『1泊大人2名合計（税込）16,000円〜』という表示もあり、棟タイプ・時期・プランにより幅がある。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "敷地内に20棟以上（るるぶトラベル掲載では客室数25）のデザイン・大きさが異なる貸別荘が並び、酒蔵を移築した『KURA』をはじめとするスウィートタイプの棟も展開。全棟に専用の屋根付きBBQテラスとBBQ器具が無料で備わり、雨天でも中止にならない一棟貸し型の屋外体験ができる点が、猪苗代湖畔・裏磐梯高原エリアでは珍しい特徴。1979年開業。",
+      "renewal_or_news": "2026年時点での大規模改修・新プランに関する明確な発表は本セッションでは確認できなかった。確認できた歴史的事実は『1979年開業』という点のみ。",
+      "target_audience": ["カップル", "記念日", "家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 16,
+        "photogenic": 11,
+        "value_for_price": 7,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 76,
+      "recommendation_reason": "じゃらんnet（472件・総合4.5、検索タイミングにより4.6/480件という表示も確認）という大規模かつ安定した情報源で採用ライン4.0を明確に上回ること、酒蔵を移築した『KURA』をはじめ20棟以上のデザイン違いの貸別荘＋全棟専用の屋根付きBBQテラスという、猪苗代湖畔エリアでは珍しい一棟貸しグランピング体験を提供している点を評価。2件目の独立情報源であるフォートラベル（満足度3.16・口コミ3件）は件数が極端に少なく統計的信頼性は低いものの、『悪い』『とても悪い』評価が0件であることも確認でき、安全・衛生上の重大な指摘は見当たらない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミはわずか3件で、総合満足度3.16（アクセス3.00が主因、客室・風呂は5.00、接客対応4.50）だが、『悪い』『とても悪い』評価はいずれも0件。るるぶトラベル系ページでも、口コミ件数6件で3.5点という表示と、別掲載で4.6〜4.8点という表示が混在しており、件数の少なさから一貫した評価傾向を読み取るのは難しい。じゃらんnet側の個別口コミ本文は、本セッションのネットワーク制限（jalan.netへの直接WebFetchが不可）により確認できなかったため、星1〜2の具体的な苦情内容までは裏取りできていない。安全・衛生上の重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "貸別荘&コテージ オール・リゾート・サービス 宿泊口コミ（総合4.5・472件） - じゃらんnet", "url": "https://www.jalan.net/yad337554/" },
+        { "type": "review_site", "title": "貸別荘&コテージ オール・リゾート・サービス クチコミ（満足度3.16・口コミ3件、悪い/とても悪い評価0件） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10039587" },
+        { "type": "other", "title": "貸別荘&コテージ オール・リゾート・サービス 施設紹介（開業1979年・客室数25・屋根付きBBQテラス・『KURA』等スウィート棟） - るるぶトラベル", "url": "https://www.rurubu.travel/hotel/japan/inawashiro/all-resort-service-rental-holiday-homes-and-cottages" },
+        { "type": "other", "title": "貸別荘&コテージ オール・リゾート・サービス 施設情報 - たびいろ", "url": "https://tabiiro.jp/yado/s/101657-yama-cottage/" },
+        { "type": "other", "title": "貸別荘&コテージ オール・リゾート・サービス（全23棟の貸別荘） - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00907960" }
+      ],
+      "decision": "selected",
+      "creator_story": {
+        "text": "本施設（貸別荘&コテージ オール・リゾート・サービス）の設計者・運営者個人による、開業の思いやコンセプト、改修方針についての一次インタビュー・公式発言は、本セッションの検索手段（WebSearch。jalan.net・nap-camp.comは本セッションのネットワーク制限により直接WebFetchできず、検索結果スニペット経由の確認に限られた）では確認できなかった。確認できた歴史的事実は、るるぶトラベル掲載情報による『1979年開業、客室（棟）数25、敷地内に20以上の異なるデザイン・大きさの建物が並び、酒蔵を移築した「KURA」をはじめとするスウィートタイプの貸別荘がオンシーズンには予約で埋まる人気』という内容にとどまる。酒蔵をなぜ移築したのか、全棟に屋根付きBBQテラスを設けた意図は何か、といった運営者・設計者本人の思いや改修方針については、公式サイトやプレスリリース等の一次情報に本セッションではアクセスできず確認できなかった。したがって創業経緯・改修方針に込められた思いについては『確認できなかった』こととし、推測や発言の創作は行わない。",
+        "sources": [
+          { "type": "other", "title": "貸別荘&コテージ オール・リゾート・サービス 施設紹介（開業1979年・『KURA』等スウィート棟の経緯を含む記述なし） - るるぶトラベル", "url": "https://www.rurubu.travel/hotel/japan/inawashiro/all-resort-service-rental-holiday-homes-and-cottages" },
+          { "type": "booking_site", "title": "貸別荘&コテージ オール・リゾート・サービス 施設情報（運営者コメント等の記載なし） - じゃらんnet", "url": "https://www.jalan.net/yad337554/" }
+        ]
+      }
+    }
+  ]
+}

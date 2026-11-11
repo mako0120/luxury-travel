@@ -1,0 +1,164 @@
+{
+  "cycle_date": "2026-09-22",
+  "theme": "文化体験カテゴリ（岐阜県高山市・飛騨高山「古い町並み」周辺の歴史ある宿）",
+  "season_rationale": "9月下旬〜10月上旬は飛騨高山の残暑が落ち着き、朝晩は肌寒くなり始める季節の変わり目。11月の紅葉本番・10月の高山祭（秋の八幡祭）シーズンに向けて宿の予約検討が本格化し始めるタイミングであり、古い町並み散策と組み合わせた滞在提案に適する（原則30）。",
+  "prior_posts_checked": [
+    { "caption_id": "2026-09-21-kerama-terrace", "region": "沖縄県島尻郡渡嘉敷村", "category": "アクティビティ" },
+    { "caption_id": "2026-09-20-akiu-rantei", "region": "宮城県仙台市太白区（秋保温泉）", "category": "温泉旅館" },
+    { "caption_id": "2026-09-18-fufu-karuizawa", "region": "長野県北佐久郡軽井沢町", "category": "サウナ" },
+    { "caption_id": "2026-09-18-hilton-okinawa-miyako", "region": "沖縄県宮古島市平良", "category": "離島リゾート" },
+    { "caption_id": "2026-09-18-sansou-murata-yufuin", "region": "大分県由布市（湯布院温泉）", "category": "グルメ旅館" },
+    { "caption_id": "2026-09-14-soki-kanazawa", "region": "石川県金沢市（近江町市場前）", "category": "文化体験" },
+    { "caption_id": "2026-09-14-hoshinoya-kyoto", "region": "京都府京都市（嵐山）", "category": "文化体験" }
+  ],
+  "duplication_note": "既存の data/candidates・captions に岐阜県・高山市の候補は存在せず、地域重複の懸念はない（原則29）。直近2投稿（2026-09-21慶良間・アクティビティ、2026-09-20秋保・温泉旅館）は文化体験カテゴリではなく、直近の文化体験カテゴリは2026-09-14の金沢（SOKI KANAZAWA）まで遡るため、カテゴリの連続にも該当しない。金沢（デザイナーズホテル×市場）・京都嵐山（星のや京都）とも切り口が異なり、飛騨高山は『本陣（大名の宿）の歴史×古い町並み』という新規軸として選定した。",
+  "other_candidates_considered": [
+    {
+      "name": "料亭 洲さき",
+      "category": "文化体験（創業230年・国の登録有形文化財の料亭建築、日本料理EAST百名店選出）",
+      "note": "食べログ3.71（51件）・Tripadvisor4.5（高山市内627軒中129位）と評価は高く、ミシュラン二つ星の宗和流懐石を体験できる稀有な文化的価値を持つ。ただし宿泊施設ではなく日帰り利用の料亭（昼夜の会食のみ）であり、本アカウントの投稿フォーマット（宿泊体験の紹介）と一致しないため、今サイクルは正式candidatesに含めず参考記録に留めた。"
+    },
+    {
+      "name": "板倉庵 百HAKU",
+      "category": "文化体験（築100年の板倉をリノベーションした一棟貸し古民家、口コミ4.9・16件）",
+      "note": "評価は非常に高いが、所在地は高山市ではなく飛騨市（高山駅から車で約20分の里山エリア）であり、『飛騨高山の古い町並み』というテーマ・地域設定と一致しないため対象外とした。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-09-22-honjin-hiranoya-kachoan",
+      "name": "本陣平野屋 花兆庵",
+      "region": "岐阜県高山市（高山陣屋・古い町並みまで徒歩1分）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Tripadvisor",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 430,
+          "checked_date": "2026-09-22",
+          "url": "https://www.tripadvisor.com/Hotel_Review-g298113-d1076210-Reviews-Honjin_Hiranoya_Kachoan-Takayama_Gifu_Prefecture_Tokai_Chubu.html"
+        },
+        {
+          "source": "Yahoo!トラベル",
+          "score": 4.69,
+          "scale": 5,
+          "review_count": 85,
+          "checked_date": "2026-09-22",
+          "url": "https://travel.yahoo.co.jp/00000434/review/yahoomap/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "2名1室利用・一泊二食付きで税込60,720円〜（1名あたり約30,360円〜）。客室タイプ（露天風呂付客室など）・時期により変動し、上位カテゴリの客室はより高額。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "高山陣屋・古い町並み・朝市までいずれも徒歩1分という、飛騨高山観光の中心に位置する全28室の老舗旅館『本陣平野屋 花兆庵』。『本陣』の名の通り江戸期に大名や要人の宿泊所として使われてきた歴史を背景に持ち、飛騨の山や高山の夜景を望む貸切露天風呂、地元飛騨の野菜と各地から届く旬の海の幸を宗和流の技で仕立てる会席料理が特徴。飛騨高山の歴史・食文化を一度に体験できる稀少な立地と体験構成を持つ。",
+      "renewal_or_news": "このセッションのWeb検索範囲では大規模リニューアルの一次情報までは確認できなかったが、Tripadvisor・じゃらん等の予約ページはいずれも『2026年最新の料金・プラン』を掲示しており、2026年時点で通常営業を継続していることは複数の独立した予約サイトで確認できた。",
+      "target_audience": ["夫婦", "記念日", "カップル", "グルメ旅", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 5
+      },
+      "score": 82,
+      "recommendation_reason": "Tripadvisor4.6（430件・高山市内134ホテル中6位）、Yahoo!トラベル4.69（85件）という、性質の異なる2つの独立した情報源でいずれも4.2以上かつ十分なレビュー件数を確認できた（原則6・7）。高山陣屋・古い町並み・朝市いずれも徒歩1分という飛騨高山観光の中心地に位置し、『本陣』の歴史的背景と貸切露天風呂・宗和流会席料理を組み合わせた体験は文化体験カテゴリとして独自性が高い。町家一棟貸し系の候補（K's Villa飛騨庵・本陣平野屋 光風館）は、今サイクルのWeb検索範囲（WebSearch利用上限到達）では具体的な評価点数を数値として確認できなかったため、信頼できる裏付けのある本候補を優先した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "『以前と比べて料理の質がやや落ちた』という声や、『部屋が他施設の新しい客室と比べるとやや古風で期待外れだった』という指摘、『夕食時の係の接客が会話を仕切りすぎて落ち着かなかった』という個別の指摘が確認された。一方で、立地・接客・お風呂・料理全体への高評価コメントが圧倒的多数を占めており、清潔感・安全面での重大な継続的クレームには該当しない（原則10）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "【公式】本陣平野屋 花兆庵 | 飛騨高山の古い町並みに佇む、大人の上質な寛ぎ空間。", "url": "https://ssl.honjinhiranoya.com/" },
+        { "type": "review_site", "title": "本陣平野屋 花兆庵【2026年最新の料金比較・口コミ・宿泊予約】- Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-g298113-d1076210-Reviews-Honjin_Hiranoya_Kachoan-Takayama_Gifu_Prefecture_Tokai_Chubu.html" },
+        { "type": "review_site", "title": "本陣平野屋 花兆庵に訪問した方のクチコミ【Yahoo!トラベル】", "url": "https://travel.yahoo.co.jp/00000434/review/yahoomap/" },
+        { "type": "booking_site", "title": "本陣平野屋花兆庵 〜古い町並に佇む、心酔の味覚を楽しむ宿〜 - 宿泊予約は＜じゃらんnet＞", "url": "https://www.jalan.net/yad330857/" },
+        { "type": "other", "title": "本陣平野屋 花兆庵｜宿泊施設｜岐阜県観光公式サイト「岐阜の旅ガイド」", "url": "https://www.kankou-gifu.jp/reserve/detail_134.html" },
+        { "type": "booking_site", "title": "本陣平野屋花兆庵 プラン・料金一覧｜宿泊予約【JTB】＜高山＞", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/5475014/plan/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-22-honjin-hiranoya-koufukan",
+      "name": "本陣平野屋 光風館",
+      "region": "岐阜県高山市（赤い中橋・古い町並み・朝市前）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "このセッションでは具体的な料金レンジを数値として確認できなかった。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "本陣平野屋 花兆庵の姉妹館。古い町並みのシンボルである赤い『中橋』のたもと、朝市・高山陣屋の目の前という立地の温泉旅館。2023年3月に個室食事処がオープンしたとする情報がある。じゃらんの『泊まってよかった宿』受賞歴があるとの言及も確認した。",
+      "target_audience": ["夫婦", "カップル", "記念日"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 12,
+        "photogenic": 8,
+        "value_for_price": 0,
+        "sns_buzz": 3,
+        "access_and_freshness": 4
+      },
+      "score": 27,
+      "recommendation_reason": "一休.com・楽天トラベル・JTB・Trip.com（124件）など複数サイトにレビューが存在し、内容は『対応が丁寧』『料理が良い』など好意的なコメントが中心と見られる。しかし今サイクルはWebSearch利用上限に到達し、主要レビューサイトの具体的な評価点数（5点満点換算の数値）をこのセッションでは確認できなかった。存在しない数値を記載することは避け、次サイクル以降に数値評価を確認できた時点で再評価する。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "WebSearch利用上限到達により、今サイクルでは低評価レビューの網羅的な確認まで手が回らなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "【公式】本陣平野屋 光風館（旧：本陣平野屋 別館） | 飛騨高山の古い町並みに佇む、大人の上質な寛ぎ空間。", "url": "https://ssl.honjinhiranoya.co.jp/" },
+        { "type": "review_site", "title": "本陣平野屋 光風館の口コミ・レビュー・お客様の声124件 | Trip.com", "url": "https://jp.trip.com/hotels/takayama-hotel-detail-1483136/honjin-hiranoya-kofukan/review.html" },
+        { "type": "review_site", "title": "本陣平野屋 光風館（旧称：本陣平野屋 別館） - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00000435/" },
+        { "type": "review_site", "title": "飛騨高山 本陣平野屋 光風館（旧：飛騨高山 本陣平野屋 別館） に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/8326/review.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "定性的には好意的な口コミが多いと見られるが、今サイクルのWebSearch利用上限到達により主要レビューサイトの数値評価を確認できず、原則6・7が求める『件数の裏付けを伴った数値評価』を満たせないため除外。"
+    },
+    {
+      "id": "2026-09-22-ks-villa-hida-an",
+      "name": "K's Villa飛騨庵",
+      "region": "岐阜県高山市天満町（JR高山駅より徒歩3分、古い町並みまで徒歩圏内）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "海外OTA表示で25,043円〜（時期・人数により変動、参考値）。今サイクルでは国内サイトでの具体的な料金・評価数値までは確認できなかった。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "JR高山駅から徒歩3分、飛騨の匠の技（格天井・春慶塗の建具）と国産ヒノキ風呂を備えた141平米・2〜10名向けの一棟貸し町家。『飛騨高山に暮らす』をコンセプトに、地物の飛騨家具を用いた滞在体験を提供する。",
+      "target_audience": ["家族", "友人", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 10,
+        "photogenic": 7,
+        "value_for_price": 0,
+        "sns_buzz": 2,
+        "access_and_freshness": 4
+      },
+      "score": 23,
+      "recommendation_reason": "飛騨の匠の技を活かした一棟貸し町家というコンセプトは独自性があるが、今サイクルではWebSearch利用上限到達により、主要レビューサイト（Google・楽天トラベル・じゃらん等）における具体的な評価点数・件数を数値として確認できなかった。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "WebSearch利用上限到達により、今サイクルでは低評価レビューの確認まで手が回らなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "飛騨高山の町家宿泊なら一棟貸し【K's Villa飛騨庵】", "url": "https://www.ksvilla.jp/hida-j/" },
+        { "type": "other", "title": "飛騨匠の家 K's Villa飛騨庵 - 高山市天満町/宿泊施設 - Yahoo!地図", "url": "https://map.yahoo.co.jp/v3/place/DaSbthzmR5w" },
+        { "type": "booking_site", "title": "K's Villa 飛騨庵 | 高山 最新料金・部屋情報 - Agoda", "url": "https://www.agoda.com/ja-jp/k-s-villa-hida-an/hotel/takayama-jp.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独自性のあるコンセプトだが、今サイクルでは数値評価の裏付けを確認できず原則6・7の基準を満たせないため除外。"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "cycle_date": "2026-11-04",
+  "theme": "離島リゾート（鹿児島県熊毛郡屋久島町屋久島・口永良部島）",
+  "season_rationale": "11月上旬の屋久島は夏の繁忙期・台風シーズンが落ち着き、縄文杉トレッキングや温泉を快適に楽しめる時期（原則30）。依頼地域には口永良部島を含むため、同島の宿泊事情も一次情報・行政資料で確認したうえで調査対象とした。",
+  "prior_posts_checked": [
+    {
+      "post_id": "2026-09-22-yakushima-activity（caption: 2026-09-22-sankara-yakushima）",
+      "region": "鹿児島県熊毛郡屋久島町麦生",
+      "category": "アクティビティ扱いでsankara hotel & spa屋久島を選定・投稿済み"
+    },
+    {
+      "post_id": "2026-10-20-yakushima-shodoshima-resort",
+      "region": "鹿児島県屋久島／香川県小豆島",
+      "category": "離島リゾート",
+      "note": "sankara hotel & spa屋久島（score88・重複のため不採用）、屋久島いわさきホテル（score60・不採用）、ベイリゾートホテル小豆島（score58・不採用）を調査済み。"
+    },
+    {
+      "post_id": "2026-10-23-yakushima-remote-island-resort-recheck",
+      "region": "鹿児島県熊毛郡屋久島町",
+      "category": "離島リゾート",
+      "note": "samana hotel Yakushima（score77・選定・captions/2026-10-23-samana-hotel-yakushima.json）、THE HOTEL YAKUSHIMA OCEAN & FOREST（score59・不採用）、屋久島グリーンホテル（score52・不採用）を調査済み。"
+    }
+  ],
+  "duplication_note": "data/candidates・captions配下の全件（1ヶ月以上前を含む）を『屋久島』『yakushima』『口永良部』『kuchinoerabu』でgrep確認した。屋久島関連では(1) sankara hotel & spa屋久島＝選定・投稿済み（2026-09-22）、(2) samana hotel Yakushima＝選定・投稿済み（2026-10-23）、(3) 屋久島いわさきホテル・(4) THE HOTEL YAKUSHIMA OCEAN & FOREST・(5) 屋久島グリーンホテル＝いずれも不採用で既調査、の5施設が既出。口永良部島については既出候補は0件。本サイクルで調査した海亀のくる宿 マリンブルー屋久島・ペンション シーフォレスト・縄文の宿まんてんの3施設はいずれも初調査であり重複はない。",
+  "pre_check": "口永良部島は人口約100人のフェリーのみでアクセス可能な活火山島で、鹿児島県の行政資料（2015年時点）では島内に宿泊施設8軒・収容88人とあるが、個別の民宿名・公式サイト・予約サイト掲載・口コミ件数のいずれも、一次情報（屋久島町公式・自治体資料）や主要予約/レビューサイト（じゃらん・楽天トラベル・Relux・フォートラベル等）上でWeb検索を重ねても確認できなかった。かつ気象庁は同島に噴火予報（噴火警戒レベル1、活火山であることに留意）を継続中で、2026年7月にも火口周辺警報（レベル2）が一時発出・解除されている。採点に必要な口コミ評価・運営状況・料金条件を独立2情報源で裏付けられる候補を口永良部島内で発見できなかったため、捏造を避けて口永良部島は候補なしとし、依頼地域に含まれる屋久島町（屋久島側）のうち既出5施設を除いた未調査の宿泊施設3件を調査対象とした。",
+  "candidates": [
+    {
+      "id": "2026-11-04-marine-blue-yakushima",
+      "name": "海亀のくる宿 マリンブルー屋久島",
+      "region": "鹿児島県熊毛郡屋久島町永田（永田いなか浜前）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル",
+          "score": 3.22,
+          "scale": 5,
+          "review_count": 7,
+          "checked_date": "2026-11-04",
+          "url": "https://4travel.jp/dm_hotel-10038935"
+        },
+        {
+          "source": "skyticket（口コミ集計）",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 38,
+          "checked_date": "2026-11-04",
+          "url": "https://skyticket.jp/hotel/detail/property_13197/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な1泊料金はセッション内のWeb検索では数値を確認できなかった。予約はじゃらん等の予約サイト経由で日付指定の上要確認。",
+        "as_of_search_date": "2026-11-04",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "世界自然遺産エリアに近い永田いなか浜（ウミガメ上陸・産卵地として知られるビーチ）の目の前に立つ民宿。早朝に部屋の前の浜にウミガメの産卵跡が残っていた、赤ちゃんウミガメを見られたという宿泊者の声があり、食事の量の多さとスタッフの親切さにも定評がある。",
+      "target_audience": ["家族", "一人旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 8,
+        "unique_experience_score": 14,
+        "photogenic": 11,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 2
+      },
+      "score": 57,
+      "recommendation_reason": "ウミガメの産卵・ふ化が目前で見られることもある立地は『ここでしかできない』独自性が高く写真映えもするが、評価は情報源によって大きく割れた（フォートラベル3.22・7件 vs skyticket集計4.6・38件）。フォートラベルという主要レビューサイトの一つが採用ライン（4.0）を明確に下回り、大浴場が工事中でシャワーのみだった・宿泊費に対して部屋や食事が見合わないという厳しい声も確認されたため、原則6（主要レビュー4.0未満は独立2情報源必須で原則不採用）に基づき不採用とした。総合スコアも57点で採用ライン（75点）に届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの内訳は『とても良い』3件・『良い』2件・『とても悪い』1件で評価が割れている。大浴場が工事中でシャワーのみだったという指摘、宿泊費に対して部屋や食事の内容が見合わないとする厳しい口コミが確認された。一方でウミガメ関連の好意的な体験談やスタッフの親切さを評価する声も複数あり、清潔感・安全性・予約トラブルに関する重大な指摘は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "海亀のくる宿 マリンブルー屋久島 クチコミ（満足度3.22・7件） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10038935" },
+        { "type": "review_site", "title": "海亀のくる宿 マリンブルー屋久島 口コミ集計（4.6・38件） - skyticket", "url": "https://skyticket.jp/hotel/detail/property_13197/" },
+        { "type": "booking_site", "title": "海亀のくる宿 マリンブルー屋久島 施設情報 - じゃらん", "url": "https://www.jalan.net/yad378997/" },
+        { "type": "other", "title": "Marine Blue Yakushima 宿泊者レビュー - Expedia", "url": "https://www.expedia.co.jp/go/hotel/info/13261820" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイトの一つ（フォートラベル3.22）が採用ライン4.0を下回り評価が情報源間で大きく割れ、総合スコア57点で採用ライン（75点）にも届かないため不採用（原則6）。"
+    },
+    {
+      "id": "2026-11-04-pension-sea-forest-yakushima",
+      "name": "ペンション シーフォレスト",
+      "region": "鹿児島県熊毛郡屋久島町宮之浦（宮之浦港から車で約3分）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル",
+          "score": 3.21,
+          "scale": 5,
+          "review_count": 6,
+          "checked_date": "2026-11-04",
+          "url": "https://4travel.jp/dm_hotel-10056924"
+        },
+        {
+          "source": "トラベリスト",
+          "score": 3.7,
+          "scale": 5,
+          "review_count": 12,
+          "checked_date": "2026-11-04",
+          "url": "https://travelist.jp/hotel/detail/6299982"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な1泊料金はセッション内のWeb検索では数値を確認できなかった。",
+        "as_of_search_date": "2026-11-04",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "屋久島の海の玄関口・宮之浦港から車で約3分、白谷雲水峡方面への散策拠点としても便利なペンション。食事処でトビウオのから揚げなど地元食材の郷土料理を提供し、ベランダから日の出が見えたという口コミもある。",
+      "target_audience": ["一人旅", "友人", "家族"],
+      "score_breakdown": {
+        "review_rating": 9,
+        "review_reliability": 5,
+        "unique_experience_score": 8,
+        "photogenic": 7,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 38,
+      "recommendation_reason": "フォートラベル3.21（6件）・トラベリスト3.7（12件）という独立2情報源がいずれも採用ライン（4.0）を下回った。立地の便利さや郷土料理を評価する声はあるが、快適さの評価が低い（トラベリスト2.8）、予約していた宿がオーバーブッキングで代わりに案内されたという口コミもあり、『ちょっと贅沢な旅』としての独自性・高級感にも乏しいため、原則6に基づき不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "トラベリストの項目別評価でスタッフのサービス3.8に対し快適さ2.8と低め。フォートラベルでもバリアフリー評価が低い（3.00）。予約オーバーブッキングで案内されたという投稿もあったが、清潔感・安全性に関する重大な指摘は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ペンション シーフォレスト クチコミ（満足度3.21・6件） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10056924" },
+        { "type": "other", "title": "ペンション シーフォレスト 口コミ（総合3.7・12件） - トラベリスト", "url": "https://travelist.jp/hotel/detail/6299982" },
+        { "type": "booking_site", "title": "ペンション シーフォレスト 施設情報 - じゃらん", "url": "https://www.jalan.net/yad344084/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立2情報源（フォートラベル3.21・トラベリスト3.7）がいずれも採用ライン4.0を下回り、総合スコア38点で採用ライン（75点）にも届かないため不採用（原則6）。"
+    },
+    {
+      "id": "2026-11-04-jomon-no-yado-manten",
+      "name": "縄文の宿まんてん",
+      "region": "鹿児島県熊毛郡屋久島町小瀬田812-33（屋久島空港から徒歩約1分）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "icotto",
+          "score": 3.0,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-11-04",
+          "url": "https://icotto.jp/hotels/3483"
+        },
+        {
+          "source": "にふ温泉（nifty温泉）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-11-04",
+          "url": "https://onsen.nifty.com/ritou-onsen/onsen012082/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "予約サイト表示で1泊33,693円〜（税・サービス料込、表示日時点）という価格が確認できた。全42室。日帰り温泉は大人1,800円（15時〜22時）。",
+        "as_of_search_date": "2026-11-04",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "屋久島空港から徒歩約1分という立地に立つ全42室の温泉旅館。地下から湧く単純温泉（pH9.7のアルカリ性、美肌の湯）を露天風呂・貸切風呂・岩盤浴・サウナで楽しめ、縄文をテーマにしたロフト付きの客室もある。屋久島の食材を使った料理も提供。",
+      "target_audience": ["温泉好き", "一人旅", "家族"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 5,
+        "unique_experience_score": 10,
+        "photogenic": 7,
+        "value_for_price": 6,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 43,
+      "recommendation_reason": "空港徒歩1分という便利な立地とpH9.7のアルカリ性温泉は評価できるが、じゃらん・楽天トラベルでは総合評価数値自体を確認できず、icotto3.0（1件）・にふ温泉4.0（1件）・cocolocala5.0（個別投稿）と口コミ件数が極めて少なくサイト間で評価が大きく割れた。日帰り温泉の利用時間（15時〜）への不満、ロフト客室が熱がこもって寝づらいという指摘もあり、2026年1月21日〜2月4日に休業期間があった記録も確認されたため、信頼できる独立2情報源での高評価の裏付けが取れず、総合スコア43点で不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icottoの口コミ（2024年7月・一人旅）で日帰り温泉が15時からで利用できなかったという不満、cocolocalaの投稿でロフト客室が熱がこもって寝るには不向き・照明が暗めという指摘が確認された。予約サイトの掲載では2026年1月21日〜2月4日の休業期間も確認でき、最新の営業状況は要確認。清潔感・安全性に関する重大な指摘は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "天然温泉と縄文の宿 まんてん 口コミ（icotto・3.0・1件） - icotto", "url": "https://icotto.jp/hotels/3483" },
+        { "type": "review_site", "title": "屋久島 天然温泉 縄文の宿 まんてん 温泉情報・口コミ（にふ温泉） - にふ温泉", "url": "https://onsen.nifty.com/ritou-onsen/onsen012082/" },
+        { "type": "booking_site", "title": "縄文の宿 まんてん クチコミ・評価 - じゃらん", "url": "https://www.jalan.net/yad378752/kuchikomi/" },
+        { "type": "other", "title": "縄文の宿 まんてんのご紹介 - 近畿日本ツーリスト", "url": "https://yado.knt.co.jp/st/S460054/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要予約サイト（じゃらん・楽天トラベル）で総合評価数値を確認できず、口コミ件数が少ない中でサイト間の評価差（3.0〜5.0）が大きく独立2情報源での高評価の裏付けが取れないため、原則6・7に基づき不採用とした。総合スコア43点で採用ライン（75点）にも届かない。"
+    }
+  ]
+}

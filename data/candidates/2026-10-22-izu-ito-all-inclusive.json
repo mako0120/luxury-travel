@@ -1,0 +1,155 @@
+{
+  "cycle_date": "2026-10-22",
+  "theme": "カテゴリ『オールインクルーシブ』×地域候補『静岡県伊東・伊豆エリア』",
+  "season_rationale": "10月下旬〜11月上旬の伊豆半島は、海水浴シーズンが落ち着き紅葉・温泉需要が高まる時期。首都圏からのアクセスがよく『週末に少し贅沢な記念日旅行』を検討し始める層に向けて、オールインクルーシブ形式の高級宿を紹介する意義が高い。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-22-amami-all-inclusive（本サイクル直前・再調査上限）", "region": "鹿児島県奄美市（奄美大島）", "category": "オールインクルーシブ（全件rejected）" },
+    { "post_id": "2026-10-21-toba-ocean-resort", "region": "三重県鳥羽市", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-20-the-shigira-miyako", "region": "沖縄県宮古島市", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-19-hotel-denhaag-htb", "region": "沖縄県本部町", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-18-grand-mercure-okinawa-zanpa", "region": "沖縄県読谷村", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-18-kitakobushi-shiretoko", "region": "北海道斜里町", "category": "オールインクルーシブ（候補ファイル名はactivityだが実質オールインクルーシブ訴求）" },
+    { "post_id": "2026-10-17-aquasense-onna", "region": "沖縄県恩納村", "category": "オールインクルーシブ" },
+    { "post_id": "2026-09-22-clubmed-sahoro-karikachi", "region": "北海道新得町（狩勝高原）", "category": "オールインクルーシブ" },
+    { "post_id": "2026-09-18-clubmed-tomamu-unkai", "region": "北海道占冠村（トマム）", "category": "オールインクルーシブ" },
+    { "post_id": "2026-09-18-hilton-okinawa-miyako", "region": "沖縄県宮古島市", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-17-atami-sekaie", "region": "静岡県熱海市", "category": "絶景ホテル（約5日前・別カテゴリ）" },
+    { "post_id": "2026-10-20-izu-ochiairo-sauna", "region": "静岡県伊豆市湯ケ島", "category": "サウナ（約2日前・別カテゴリ・施設自体はオールインクルーシブ型だがカテゴリはサウナで記録済み）" }
+  ],
+  "duplication_note": "指示にある地域候補2つのうち、まず『北海道トマム』を確認した。トマムは2026-09-18サイクルで『クラブメッド・北海道 トマム』（オールインクルーシブ）が既に選定済みであり、WebSearchで『トマム オールインクルーシブ クラブメッド以外』を調査したが、トマム内でオールインクルーシブを公式に明示する施設はクラブメッド系列以外に見つからなかった。クラブメッド・北海道 サホロ（狩勝高原・2026-09-22選定済み）はトマムと同じ占冠村ではないが近接エリアの姉妹施設であり、同一ブランド・同カテゴリの再利用になるため、本サイクルではトマムを採用せず『静岡県伊東・伊豆エリア』に切り替えた。伊東・伊豆エリアは、過去投稿を全件確認した結果、熱海（2026-10-17・絶景ホテル）、伊豆市湯ケ島（2026-10-20・サウナ、施設『おちあいろう』はオールインクルーシブ型だがカテゴリ記録はサウナ）はあるが、伊東市を舞台にした投稿・候補は過去に一度もなく、かつ『オールインクルーシブ』カテゴリでの伊豆エリア起用も初めてのため、地域・施設の重複は発生していない。カテゴリ『オールインクルーシブ』自体は直近サイクルで連続していたが、これは奄美大島の再調査（1回目該当なし・本サイクルが再調査最後の1回）という特殊事情によるもので、今回は地域を鹿児島から静岡県伊東・伊豆エリアへ完全に切り替えている。",
+  "research_note": "『静岡県伊東・伊豆エリア』×『オールインクルーシブを公式に明示する施設』という条件を最優先してWebSearchを実施。伊東市内で該当した主要候補は(1)伊東ホテルジュラク（2024年7月にオールインクルーシブ形式へリニューアル）、(2)ラグジュアリーホテル 風の薫 MORI Premier（大人限定7室、ドリンク・貸切温泉・カラオケ込みのオールインクルーシブ）、さらに伊豆高原エリアまで範囲を広げて(3)ホテル&スパ アンダリゾート伊豆高原（『無料づくしのオールインクルーシブホテル』と施設側が明示）の3件を調査した。3件ともオールインクルーシブの公式な言及が確認できた点で、奄美大島の前回サイクル（該当なし）とは状況が異なる。",
+  "candidates": [
+    {
+      "id": "2026-10-22-ito-hotel-juraku",
+      "name": "伊東ホテルジュラク",
+      "region": "静岡県伊東市岡281",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Relux", "score": 4.5, "scale": 5, "review_count": 102, "checked_date": "2026-10-22", "url": "https://rlx.jp/22259/review/" },
+        { "source": "フォートラベル", "score": 3.71, "scale": 5, "review_count": 71, "checked_date": "2026-10-22", "url": "https://4travel.jp/dm_hotel-10047362" }
+      ],
+      "price_range_jpy": {
+        "note": "WebSearchのスニペットでは具体的な2名1室あたりの料金は確認できなかった。食事はバイキング形式で、ドリンク・一部アクティビティが宿泊料金に含まれるオールインクルーシブ形式。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "伊東市の高台に位置し、7本の自家源泉を持つ温泉ホテル。2024年7月にオールインクルーシブ形式へリニューアルオープンし、夕食ブッフェ・ソフトドリンク・アルコール・フリードリンクラウンジ（夜は生演奏）・石鹸作りや水引制作、写経、ボードゲームなどの館内アクティビティが料金に含まれる。楽天トラベル発表（2026年7月31日）の『関東近郊オールインクルーシブ人気宿ランキング』で1位（対象は口コミ評価4.3以上の宿）。",
+      "renewal_or_news": "2024年7月20日にオールインクルーシブホテルとしてリニューアルオープン。2026年7月31日の楽天トラベル発表ランキングで関東近郊1位という直近の話題性あり。",
+      "target_audience": ["カップル", "家族", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 8,
+        "unique_experience_score": 15,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 71,
+      "recommendation_reason": "2024年のオールインクルーシブ化・楽天トラベルランキング1位という話題性は魅力的だが、Relux4.5（102件）に対しフォートラベル3.71（71件）と主要レビューサイトの一方が採用ライン4.0を下回っており、バリアフリー評価も3.36と低め。総合スコア71点で採用ライン（75点）にわずかに届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベル71件中『悪い』2件・『とても悪い』0件と低評価自体は少数だが、項目別評価でバリアフリー3.36、立地3.8と相対的に低い。2022年6月の口コミで『ちょっと残念な対応』という見出しの接客面の指摘があった。安全性・衛生面での重大な複数指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "伊東ホテルジュラク クチコミ・評価（満足度3.71・71件） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10047362" },
+        { "type": "review_site", "title": "伊東ホテルジュラク レビュー（総合4.5・102件） - Relux", "url": "https://rlx.jp/22259/review/" },
+        { "type": "other", "title": "伊東ホテルジュラク (Ito Hotel Juraku) 施設紹介 - るるぶトラベル", "url": "https://www.rurubu.travel/hotel/japan/atami/ito-hotel-juraku" },
+        { "type": "press", "title": "関東近郊で人気の「オールインクルーシブ宿」ランキング発表、1位は伊東ホテルジュラク - 楽天トラベル調査", "url": "https://news.livedoor.com/article/detail/31963730/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア71点で採用ライン（75点）に届かず、主要レビューサイトの一つ（フォートラベル3.71）が4.0未満のため不採用とした。"
+    },
+    {
+      "id": "2026-10-22-mori-premier-izu",
+      "name": "ラグジュアリーホテル 風の薫 MORI Premier",
+      "region": "静岡県伊東市吉田901-121（伊豆急行 川奈駅から車で約15分）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらん", "score": 4.7, "scale": 5, "review_count": 129, "checked_date": "2026-10-22", "url": "https://www.jalan.net/yad335007/" },
+        { "source": "Relux", "score": 5.0, "scale": 5, "review_count": 23, "checked_date": "2026-10-22", "url": "https://rlx.jp/25519/review/" },
+        { "source": "一休.com", "score": 4.78, "scale": 5, "review_count": 129, "checked_date": "2026-10-22", "url": "https://www.ikyu.com/00002906/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらん掲載では大人2名1室1泊（税込）81,600円〜という表示を確認。別の予約サイト（skyticket）では1室40,800円〜という表示もあり、プラン・人数・時期により差がある可能性がある。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "伊豆・伊東市吉田の森に囲まれた、大人限定わずか7室のラグジュアリーホテル。全室に温泉露天風呂を備え、滞在中のドリンク（シャンパン・ワイン等アルコール含む、フリーフロー）、貸切温泉、カラオケ、レストラン『Cheminée』での食事時のアルコールまで宿泊料金に含まれるオールインクルーシブ形式。最大8名利用可の175㎡プラチナスイートなど、小規模ゆえの隠れ家性と非日常感が強み。",
+      "renewal_or_news": "直近の大規模リニューアル情報は確認できなかったが、2026年6月30日の文春オンライン特集で取り上げられるなど、継続的な話題性・メディア掲載がある。",
+      "target_audience": ["カップル", "記念日", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 13,
+        "unique_experience_score": 19,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 87,
+      "recommendation_reason": "じゃらん4.7（129件）・Relux5.0（23件）・一休.com4.78（129件）という3つの性質の異なる独立情報源すべてで採用ライン4.0以上、かつ推奨ライン4.2以上を大きく上回る一貫した高評価。大人限定・全7室という規模の小ささが『誰にも邪魔されない非日常』という独自体験を生み、ドリンク・貸切温泉・カラオケまで料金に含まれるオールインクルーシブの内容も充実している。これまでの『オールインクルーシブ』投稿が沖縄・北海道中心のファミリー向けリゾートに偏っていたのに対し、伊豆の大人向け隠れ家という新しい切り口を提供できる点でも、カテゴリ内の多様性に寄与する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一休.comの韓国語レビューで、夜間消灯後に隣室の話し声やテレビの音がわずかに聞こえたという指摘が1件あったが、料理・接客面は高評価が中心。じゃらん・Reluxの口コミでも清潔感・接客・安全性に関する重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ラグジュアリーホテル 風の薫 MORI Premier クチコミ（4.7・129件） - じゃらん", "url": "https://www.jalan.net/yad335007/" },
+        { "type": "review_site", "title": "ラグジュアリーホテル 風の薫 MORI Premier レビュー（総合5.0・23件） - Relux", "url": "https://rlx.jp/25519/review/" },
+        { "type": "review_site", "title": "Luxury Hotel Kaze no Kaori MORI Premier レビュー（総合4.78・129件） - 一休.com", "url": "https://www.ikyu.com/th-th/00002906/review/" },
+        { "type": "press", "title": "6月30日(水)ラグジュアリーホテル 風の薫 MORI premier(静岡県伊東市) - 文春オンライン", "url": "https://bunshun.jp/articles/-/51606?page=9" },
+        { "type": "other", "title": "ラグジュアリーホテル 風の薫 MORI Premier 施設紹介（オールインクルーシブ・貸切温泉・カラオケ） - icotto", "url": "https://icotto.jp/hotels-10557/" }
+      ],
+      "decision": "selected",
+      "rejection_reason": null
+    },
+    {
+      "id": "2026-10-22-anda-resort-izukogen",
+      "name": "ホテル&スパ アンダリゾート伊豆高原",
+      "region": "静岡県伊東市（伊豆高原、伊豆急行線「伊豆高原」駅桜並木口から徒歩約10分）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらん", "score": 4.6, "scale": 5, "review_count": 282, "checked_date": "2026-10-22", "url": "https://www.jalan.net/yad331038/" },
+        { "source": "楽天トラベル", "score": 4.55, "scale": 5, "review_count": 3293, "checked_date": "2026-10-22", "url": "https://travel.rakuten.co.jp/onsen/izu/OK00596.html" },
+        { "source": "フォートラベル", "score": 3.85, "scale": 5, "review_count": 60, "checked_date": "2026-10-22", "url": "https://4travel.jp/dm_hotel-10047084" }
+      ],
+      "price_range_jpy": {
+        "note": "大人2名利用時の最安料金の目安は1人19,800円〜という掲載を確認。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "『伊豆のバリ島』をコンセプトにしたリゾートホテルで、施設側も『無料づくしのオールインクルーシブホテル』と公式に明示している。露天風呂・貸切温泉、カラオケ、飲み放題、ボルダリング・卓球・ダーツ・ビリヤード・パターゴルフなど22種のアクティビティが無料で楽しめ、夜食ビュッフェ・朝ビュッフェも含まれる。じゃらんアワード2024『売れた宿大賞』受賞。",
+      "renewal_or_news": "じゃらんアワード2024『売れた宿大賞』受賞という直近の話題性あり。",
+      "target_audience": ["家族", "友人", "女子旅"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 14,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 8,
+        "access_and_freshness": 3
+      },
+      "score": 84,
+      "recommendation_reason": "じゃらん4.6（282件）・楽天トラベル4.55（3,293件）という圧倒的な件数規模で採用ライン4.0以上を安定して満たし、じゃらんアワード2024『売れた宿大賞』という直近の話題性もある。22種の無料アクティビティ込みのオールインクルーシブは家族・友人旅に強い独自性があるが、フォートラベル3.85はライン未達で、口コミではバリアフリー（2.93）・本館大浴場への階段移動など館内移動のしづらさが複数指摘されている。スコア自体は採用ライン（75点）を超えているが、本サイクルでは『大人限定の隠れ家』という独自性でより一貫した高評価（風の薫 MORI Premier）をBESTとして選定し、本候補はショートリストとして次サイクル以降の活用を検討する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの項目別評価でバリアフリー2.93・アクセス3.51と相対的に低く、高齢者と利用した口コミでは別館へのエレベーターがなく階段移動が必要だった、本館大浴場も階段を下りる必要があったという具体的な指摘があった。『悪い』『とても悪い』は少数（各2件程度）。安全性・衛生面での重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ホテル&スパ アンダリゾート伊豆高原 クチコミ（4.6・282件、じゃらんアワード2024売れた宿大賞） - じゃらん", "url": "https://www.jalan.net/yad331038/" },
+        { "type": "review_site", "title": "伊豆高原温泉エリア 楽天トラベル総合評価（アンダリゾート伊豆高原 4.55・3,293件） - 楽天トラベル", "url": "https://travel.rakuten.co.jp/onsen/izu/OK00596.html" },
+        { "type": "review_site", "title": "ホテル&スパ アンダリゾート伊豆高原 クチコミ（満足度3.85） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10047084" },
+        { "type": "other", "title": "【伊豆高原温泉の人気ホテル】「ホテル&スパ アンダリゾート伊豆高原」は充実の無料サービスと貸切風呂でバリ島気分を満喫できる宿 - All About", "url": "https://news.allabout.co.jp/articles/o/119657/" }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": null
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "cycle_date": "2026-11-11",
+  "theme": "グランピングカテゴリ：山梨県富士吉田市（同カテゴリは本日すでに群馬県利根郡みなかみ町で該当なしだったため、別地域での1回限りの再調査）",
+  "season_rationale": "基準日2026-11-11時点の富士吉田市（標高700〜1000m前後）は紅葉がほぼ終わり、朝晩の気温が0℃近くまで下がる晩秋〜初冬の入口にあたる。空気が澄み富士山の眺望が良くなる一方、屋外での滞在は焚き火・BBQ・室内シアター・展望風呂など「暖を取りながら富士山を眺める」体験の訴求力が上がる時期であり、各施設の冷暖房設備・冬季対応状況が紹介の前提になる。",
+  "prior_posts_checked": [
+    {
+      "candidate_id": "2026-10-18-fujikawaguchiko-glamping",
+      "region": "山梨県南都留郡富士河口湖町（河口湖・富士北麓）",
+      "category": "グランピング",
+      "note": "星のや富士（富士河口湖町大石、selected・81点）、セルフINNグランピングトレーラー ツーリストヴィラ河口湖（富士河口湖町小立、rejected）、PICA富士西湖（富士河口湖町西湖、rejected）を選定済み。本サイクルの指示により『富士河口湖町のグランピングは既に調査済み』として、富士河口湖町内の施設（星のや富士含む）は対象外とし、富士吉田市内の施設に限定した。"
+    },
+    {
+      "candidate_id": "2026-10-20-yamanakako-itoshima-glamping",
+      "region": "山梨県南都留郡山中湖村",
+      "category": "グランピング",
+      "note": "ビジョングランピングリゾート&スパ山中湖（selected・84点）等を選定済み。富士吉田市とは別の市町村のため重複なし。"
+    },
+    {
+      "candidate_id": "2026-10-31-oshino-glamping",
+      "region": "山梨県南都留郡忍野村",
+      "category": "グランピング",
+      "note": "GLAMP DOME-グランドーム-富士忍野（rejected・57点）。富士吉田市とは別の市町村のため重複なし。"
+    },
+    {
+      "candidate_id": "2026-11-11-minakami-glamping",
+      "region": "群馬県利根郡みなかみ町",
+      "category": "グランピング",
+      "note": "本サイクルと同日・同カテゴリだが地域が異なる（群馬県）。みなかみ町側は3件調査しいずれも75点未満で該当なし終了。そのため本サイクルは『同カテゴリで異なる地域（山梨県富士吉田市）での1回限りの再調査』として実施。"
+    }
+  ],
+  "duplication_note": "data/candidates・captions配下（1ヶ月以上前の実績も含む）を『富士吉田』『グランピング』等のキーワードでファイル名・本文の両方から横断検索した。富士吉田市を対象にしたグランピング候補・キャプションはこれまで存在しないことを確認した。一方、山梨県内の近隣市町村（富士河口湖町・山中湖村・忍野村）では既に複数サイクルでグランピング候補を調査済み（上記prior_posts_checked参照）であり、本サイクルの指示どおり富士河口湖町の施設（星のや富士、および調査中に富士吉田市内と誤認しそうになったHOSHIFULL DOME FUJI＝実際は富士河口湖町船津が所在地）は対象から明確に除外し、富士吉田市内に所在が確認できる施設のみを候補とした。",
+  "research_note": "WebSearchで『富士吉田市 グランピング』を横断調査し、所在地を公式情報・複数サイトの記載住所で確認できた施設として、(1) 杓子山ゲートウェイキャンプ（富士吉田市大明見）、(2) Altitude-アルティチュード-939（富士吉田市）、(3) PICA富士吉田（富士吉田市上吉田）、(4) 富士グランヴィラ-TOKI-（富士吉田市新倉）の4件を調査・採点した。なお検索初期にヒットした『HOSHIFULL DOME FUJI』は『富士吉田ICから車で約5分』という紹介文から富士吉田市内の施設に見えたが、aumo.jp記事の見出し・本文で所在地が『山梨県南都留郡富士河口湖町（標高900m）』と明記されていることを確認したため、本サイクルの対象（富士吉田市内）からは除外した。\n\n(1) 杓子山ゲートウェイキャンプ: 2019年初夏開業、2022年7月に全棟富士山ビューの『グランスイート』増設、2026年にはドーム直径を6mから7mに拡張。天然鉱石の貸切露天風呂も特徴。ただし口コミは4travel（3.04・2件、2020年と2023年投稿）、icotto（3.5・1件、2020年）、jcation（5.0・3件、海外予約サイト）といずれも件数が極端に少なく、評価も中位〜バラつきが大きい。原則6（4.0以上）・原則7（独立2情報源）のいずれも満たせず不採用。\n\n(2) Altitude-939: モンゴルテント（6m×3棟・5m×1棟）と最大12名のプライベートヴィラを展開し、全室に焚火台・薪・ハンモック・プロジェクターを完備するという独自性は高い。しかし日本語の主要口コミサイト（じゃらん・楽天トラベル・4travel）ではクチコミページそのものが検索結果に現れず、唯一確認できた数値情報は海外アグリゲーターtripingguide経由のBooking.com集計（8.2/10・41件）のみだった。独立2情報源での数値評価の裏付け（原則7）を満たせず不採用。\n\n(3) PICA富士吉田: 星野リゾート系列のアウトドアブランドPICAが運営する富士五湖エリアの拠点施設（富士吉田市上吉田4959-4）。jcation（3.6・19件）、4travel（3.25・10件）、tour.ne.jp（3.7・10件）と複数の独立サイトで一定の口コミ件数を確認できた点は他候補より優れるが、いずれも4.0未満で原則6を満たさず、設備面でも近隣候補と比べて強い独自体験は確認できなかったため不採用。\n\n(4) 富士グランヴィラ-TOKI-（富士吉田市新倉2885-1、一部サイトでは2855-1と表記）: 住宅街に立つ全75棟（2022年時点の山梨県観光サイトでは42棟と表記）の一棟貸しヴィラ。『街中リゾート』というコンセプトを山梨県公式観光情報サイト『やまなしの歩き方』で確認。屋上BBQ・花火、シアタールーム、ソムリエ資格スタッフによるワインマリアージュプラン等の体験が特徴。tour.ne.jp（4.5・13件）、travelist.jp（4.7、件数不明のため review_scoresには採用せず）、Dinogo／Booking.com系集計（9.0/10・236件）という独立した複数経路で4.5前後の高評価が一致し、2025年8月1日には33棟増設という直近の鮮度もあるため、4候補中で唯一75点以上に達し選定した。\n\nなお調査中、『総支配人・永瀬康夫氏が「コンセプトは街中リゾートです。暮らすように旅をし、地域を楽しむための拠点になれば」と語った』という趣旨の情報を一度得たが、同じ文言・人物名で再検索しても出典ページを再現・特定できず、他の一次情報でも裏付けが取れなかった。この具体的な発言・人物名は本リサーチでは確認できなかったものとして扱い、creator_storyには含めていない（推測・発言の創作を行わないため）。運営会社の正式名称・代表者についても、公式サイト（fujigran.toki223.com）が本セッションのネットワーク制限で直接確認できず、第三者サイトの検索でも確認できなかった。",
+  "candidates": [
+    {
+      "id": "2026-11-11-toki-fujigranvilla-fujiyoshida",
+      "name": "富士グランヴィラ-TOKI-",
+      "region": "山梨県富士吉田市新倉2885-1（一部サイトでは2855-1と表記）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "tour.ne.jp（一休グループ系掲載ページ）",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 13,
+          "checked_date": "2026-11-11",
+          "url": "https://www.tour.ne.jp/j_hotel/55760/"
+        },
+        {
+          "source": "Dinogo（Booking.com系の口コミ集計を掲載するアグリゲーター）",
+          "score": 9.0,
+          "scale": 10,
+          "review_count": 236,
+          "checked_date": "2026-11-11",
+          "url": "https://dinogo.com/hotels/574159-fuji-grand-villa-toki"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "掲載サイトにより差があるが、ルーフトップヴィラ等・大人2名1室の最安料金目安は21,710円〜26,001円程度（素泊まり・プラン条件はサイトごとに異なり単純比較不可）。朝食・夕食付きプランは28,339円程度の掲載例あり。ソムリエ資格スタッフによるワインと料理のマリアージュプランなど特別プランも用意されている。",
+        "as_of_search_date": "2026-11-11",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "富士吉田市の閑静な住宅街に、白を基調とした一棟貸しヴィラが並ぶ『街中リゾート』。全75棟（2022年時点の山梨県観光サイト記載では42棟）が富士山を望める立地で、屋上でBBQ・花火を楽しめる『ルーフトップヴィラ』と、展望風呂・バルコニー付きの『バルコニーヴィラ』の2タイプを用意。各ヴィラにシアタールームを備え、ソムリエ資格を持つスタッフによるワインと料理のマリアージュプランや、チェックイン時のオリジナルアロマバスソルト作り体験など、貸別荘のプライベート感とホテル的なホスピタリティを両立させている点が独自性。富士急ハイランドまで徒歩約10分、河口湖まで車で約10分とアクセスも良い。",
+      "renewal_or_news": "2025年8月1日に大規模増設を実施し、新たに33棟を追加（既存棟と合わせて計75棟、楽天トラベルmytripニュースによる）。増設時にペット同伴可の『ペットルーム』も新設されたが、Yahoo!トラベル掲載情報によれば2026年8月31日宿泊分をもってペットルームの販売を終了しており、調査時点（2026年11月）ではペット対応プランは終了済み。",
+      "target_audience": ["カップル", "記念日", "夫婦", "家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 10,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 77,
+      "recommendation_reason": "tour.ne.jp（13件・4.5）、travelist.jp（4.7、件数不明のため参考情報）、Dinogo／Booking.com系集計（236件・9.0/10＝5点換算で約4.5）という独立した複数の口コミ経路で4.5前後の高評価が一致して確認でき、原則6・7の基準を満たした。富士吉田市内の他候補（杓子山ゲートウェイキャンプ・Altitude-939・PICA富士吉田）と比べても、一棟貸しヴィラ×富士山ビュー×シアタールーム×ソムリエプランという組み合わせに独自性があり、2025年8月の33棟増設という直近の鮮度の高さも決定要因とした。一方、住所表記（新倉2885-1／2855-1）・棟数（42棟／75棟）にサイト間の食い違いがあり、運営会社名・代表者・開業に込めた具体的な『思い』の直接引用は本調査では確認できなかった点は留保事項として明記する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "『口コミ 悪い／残念／不満』等の複数のキーワード組み合わせで検索したが、具体的な低評価本文は確認できなかった。確認できた数少ない体験談（駐車場までのスタッフの誘導・見送り等）はいずれも好意的な内容。ただし4travelでは『評価なし・口コミ0件』表示で蓄積が薄く、tour.ne.jp（13件）とDinogo／Booking.com系集計（236件）とで掲載件数が大きく異なるなど、サイトごとの口コミ蓄積に偏りがあり、全体像の把握には限界がある点を留保事項として記録する。重大な安全・衛生上の指摘は見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "山梨県公式観光情報サイト『やまなしの歩き方』の特集ページでは、富士吉田市の住宅街に溶け込む白いヴィラ群から富士山と街の暮らしの両方を感じられる滞在として『街中リゾート』というコンセプトが紹介されている。tabiiro.jpの宿泊体験レポートでも、シアタールーム付きヴィラでの富士山を見ながらのBBQ・花火、チェックイン時のオリジナルアロマバスソルト作りなど、同コンセプトに沿った体験が確認できる。\n\nただし、本調査の過程で一度『総支配人・永瀬康夫氏が「コンセプトは街中リゾートです。暮らすように旅をし、地域を楽しむための拠点になれば」と語った』という趣旨の情報を得たが、同じ文言・人物名を条件にして再検索しても出典ページを再現・特定できず、他の信頼できる一次情報でも裏付けが取れなかった。そのため、この具体的な発言内容・人物名（総支配人の氏名）については本リサーチでは確認できなかったものとして扱い、推測や発言の創作は行わない。\n\n運営会社の正式名称・代表者、具体的な開業経緯についても、公式サイト（fujigran.toki223.com、第三者の予約サイトからリンクが確認できるのみ）が本セッションのネットワーク制限により直接閲覧できず、他の検索でも確認できなかった。これらは『確認できなかった』事項として明記する。",
+        "sources": [
+          {
+            "type": "other",
+            "title": "富士グランヴィラ-TOKI- ちょっと贅沢な宿 特集（『街中リゾート』のコンセプト紹介） - やまなしの歩き方（山梨県公式観光情報サイト）",
+            "url": "https://www.yamanashi-kankou.jp/special/ichioshiyado/granvillatoki.html"
+          },
+          {
+            "type": "other",
+            "title": "富士グランヴィラ-TOKI- 宿泊体験レポート - tabiiro.jp",
+            "url": "https://tabiiro.jp/yado/s/102472-fujiyoshida-fujigran-toki/report/1/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "富士グランヴィラ-TOKI- 予約ページ（489ban、公式サイトfujigran.toki223.comへのリンクも掲載）",
+          "url": "https://reserve.489ban.net/client/toki/0/detail/1050105"
+        },
+        {
+          "type": "other",
+          "title": "富士グランヴィラ-TOKI- ちょっと贅沢な宿 特集 - やまなしの歩き方（山梨県公式観光情報サイト）",
+          "url": "https://www.yamanashi-kankou.jp/special/ichioshiyado/granvillatoki.html"
+        },
+        {
+          "type": "other",
+          "title": "富士グランヴィラ-TOKI- 宿泊体験レポート - tabiiro.jp",
+          "url": "https://tabiiro.jp/yado/s/102472-fujiyoshida-fujigran-toki/report/1/"
+        },
+        {
+          "type": "booking_site",
+          "title": "富士グランヴィラ-TOKI- 施設情報・クチコミ評価（星5個中4.5・13件） - tour.ne.jp",
+          "url": "https://www.tour.ne.jp/j_hotel/55760/"
+        },
+        {
+          "type": "review_site",
+          "title": "富士グランヴィラ-TOKI- 総合評価4.7 - travelist.jp",
+          "url": "https://travelist.jp/hotel/detail/6499824/"
+        },
+        {
+          "type": "press",
+          "title": "富士グランヴィラ-TOKI- 新棟33棟増設・ペットルーム新設（2025年8月1日） - 楽天トラベル mytrip ニュース",
+          "url": "https://travel.rakuten.co.jp/mytrip/news/2025-08-28"
+        },
+        {
+          "type": "other",
+          "title": "富士グランヴィラ-TOKI- ペットルーム販売終了のお知らせ（2026年8月31日宿泊分まで） - Yahoo!トラベル",
+          "url": "https://travel.yahoo.co.jp/00051178"
+        }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-11-11-shakushiyama-gateway-camp-fujiyoshida",
+      "name": "杓子山ゲートウェイキャンプ",
+      "region": "山梨県富士吉田市大明見古屋敷4101",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル",
+          "score": 3.04,
+          "scale": 5,
+          "review_count": 2,
+          "checked_date": "2026-11-11",
+          "url": "https://4travel.jp/dm_hotel_tips/14215701"
+        },
+        {
+          "source": "icotto",
+          "score": 3.5,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-11-11",
+          "url": "https://icotto.jp/hotels/8257"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "ドーム型テントの料金として1名あたり8,050円〜、または14,000円〜という掲載例があり、プラン・時期により変動する。",
+        "as_of_search_date": "2026-11-11",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "杓子山の中腹に位置し、富士山と南アルプスを一望できる立地。二重構造で冷暖房を備えたドーム型テントと、天然鉱石を使った貸切露天風呂が特徴。2022年7月には全棟富士山ビューの『グランスイート』を増設、2026年にはドーム直径を6mから7mに拡張するなど継続的にアップグレードしている。",
+      "renewal_or_news": "2019年初夏開業。2022年7月に『グランスイート』増設、2026年にドーム直径を6m→7mにリニューアルし、同年冬季にはクリスマス限定・正月限定BBQ（12月12日〜12月26日等）を予定。",
+      "target_audience": ["カップル", "記念日", "家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 3,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 48,
+      "recommendation_reason": "富士山ビュー×天然鉱石の貸切露天風呂×継続的なドーム拡張という独自性はあるが、フォートラベル（3.04・2件）、icotto（3.5・1件）、jcation（5.0・3件、海外予約サイト）といずれも口コミ件数が極めて少なく、主要な評価も4.0未満が中心で、原則6（4.0以上）・原則7（独立2情報源での裏付け）のいずれも満たせないため、採用ライン（75点）に遠く及ばない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルのクチコミ（2020年投稿）はアクセス・コストパフォーマンス・接客対応がいずれも3.0という評価で、特筆した悪い言及はないが評価自体が中位。ネガティブな単語を含む具体的な低評価本文は検索範囲では確認できなかった。件数が極端に少ないため、全体傾向の判断は困難。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "杓子山ゲートウェイキャンプ 予約ページ（489ban、公式サイトshakushi-gc.comへのリンクあり）",
+          "url": "https://reserve.489ban.net/client/shakushi-gc/0/detail/754852"
+        },
+        {
+          "type": "review_site",
+          "title": "杓子山ゲートウェイキャンプ クチコミ（総合満足度3.04・2件） - フォートラベル",
+          "url": "https://4travel.jp/dm_hotel_tips/14215701"
+        },
+        {
+          "type": "review_site",
+          "title": "杓子山ゲートウェイキャンプ 口コミ（3.5・1件） - icotto",
+          "url": "https://icotto.jp/hotels/8257"
+        },
+        {
+          "type": "other",
+          "title": "杓子山ゲートウェイキャンプ 開業紹介記事（2019年） - discoverjapan-web.com",
+          "url": "https://discoverjapan-web.com/article/54777"
+        },
+        {
+          "type": "other",
+          "title": "杓子山ゲートウェイキャンプ 2026年リニューアル情報（ドーム7m化等） - dime.jp",
+          "url": "https://dime.jp/genre/1426068/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数が極めて少なく（主要3サイトとも1〜3件）、主要な評価も4.0未満が中心のため、原則6・原則7のいずれも満たせず不採用。"
+    },
+    {
+      "id": "2026-11-11-altitude939-fujiyoshida",
+      "name": "Altitude-アルティチュード-939 富士山の麓グランピング",
+      "region": "山梨県富士吉田市（東富士五湖道路「富士吉田忍野スマートIC」から約1分、詳細番地は検索範囲では確定できず）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "tripingguide（Booking.com系の口コミ集計を掲載するアグリゲーター）",
+          "score": 8.2,
+          "scale": 10,
+          "review_count": 41,
+          "checked_date": "2026-11-11",
+          "url": "https://www.tripingguide.com/jp/the-villa-altitude939-glamping-vuiraeria"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "公式情報として1泊2食プラン1名料金（2名1棟利用時）24,100円〜、素泊まりプラン1名料金（2名1棟利用時）14,500円〜という掲載がある。",
+        "as_of_search_date": "2026-11-11",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "遊牧民の住居であるモンゴルテントを採用（6mテント3棟・5mテント1棟）し、ドームテントより広々とした空間でくつろげる。最大12名が泊まれるプライベートヴィラもあり、高低差のある立地を活かした一棟貸切スタイル。全室に焚火台・薪一束・ハンモック・プロジェクターを完備。",
+      "renewal_or_news": "確認できなかった。",
+      "target_audience": ["家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 4,
+        "unique_experience_score": 15,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 53,
+      "recommendation_reason": "モンゴルテント×最大12名のプライベートヴィラという独自性は高いが、じゃらん・楽天トラベル・4travelといった主要国内口コミサイトではクチコミページそのものが検索結果に現れず、唯一確認できた数値情報は海外アグリゲーターtripingguide経由のBooking.com集計（8.2/10・41件）のみだった。独立2情報源での数値評価の裏付け（原則7）を満たせず、採用ライン（75点）には届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "具体的な低評価本文・ネガティブキーワードでの検索は行ったが、本セッションで取得できた唯一の数値情報（tripingguide経由のBooking.com集計8.2/10・41件）以外に口コミ本文を確認できなかったため、ネガティブ内容の有無を十分に検証できていない。重大な安全・衛生上の指摘は検索範囲では見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "Altitude-939 予約ページ（489ban、公式サイトaltitude939.com・glamping-fujiyoshida.comへのリンクあり）",
+          "url": "https://reserve.489ban.net/client/altitude939/0/detail/697651"
+        },
+        {
+          "type": "other",
+          "title": "Altitude-アルティチュード-939 富士山の麓グランピング - ウォーカープラス",
+          "url": "https://summer.walkerplus.com/odekake/detail/ar0419s495652/"
+        },
+        {
+          "type": "review_site",
+          "title": "Altitude939 ゲストレビュー（Booking.com集計8.2/10・41件） - tripingguide",
+          "url": "https://www.tripingguide.com/jp/the-villa-altitude939-glamping-vuiraeria"
+        },
+        {
+          "type": "other",
+          "title": "Altitude939 施設情報 - tour.l-tike.com",
+          "url": "https://tour.l-tike.com/hotels/domestic/hotel/35954455/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "国内主要口コミサイト（じゃらん・楽天トラベル・4travel）での評価を確認できず、独立2情報源での数値評価の裏付け（原則7）を満たせないため不採用。"
+    },
+    {
+      "id": "2026-11-11-pica-fujiyoshida",
+      "name": "PICA富士吉田",
+      "region": "山梨県富士吉田市上吉田4959-4",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "jcation",
+          "score": 3.6,
+          "scale": 5,
+          "review_count": 19,
+          "checked_date": "2026-11-11",
+          "url": "https://jcation.com/hotel/detail-6293/"
+        },
+        {
+          "source": "フォートラベル",
+          "score": 3.25,
+          "scale": 5,
+          "review_count": 10,
+          "checked_date": "2026-11-11",
+          "url": "https://4travel.jp/dm_hotel-10046419"
+        },
+        {
+          "source": "tour.ne.jp",
+          "score": 3.7,
+          "scale": 5,
+          "review_count": 10,
+          "checked_date": "2026-11-11",
+          "url": "https://www.tour.ne.jp/j_hotel/38797/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "確認できなかった。",
+        "as_of_search_date": "2026-11-11",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "星野リゾート系列のアウトドアブランド『PICA』が運営する富士五湖エリアの拠点施設。バス付きコテージ・グランピングキャビン等複数タイプを備え、富士急行線富士山駅からタクシー約10分、河口湖ICから車で約8分とアクセスは良好。PICAブランドとしての知名度・運営ノウハウはあるが、コテージの広さ・清潔さ以上の強い独自体験は確認できなかった。",
+      "renewal_or_news": "確認できなかった。",
+      "target_audience": ["家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 10,
+        "unique_experience_score": 10,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 51,
+      "recommendation_reason": "jcation（3.6・19件）、フォートラベル（3.25・10件）、tour.ne.jp（3.7・10件）と複数の独立サイトで一定の口コミ件数を確認できた点は他候補より優れるが、いずれも4.0未満で原則6（主要レビュー4.0以上）を満たさない。設備面でも近隣候補と比べて強い独自体験は確認できず不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ本文では、コテージの広さ・清潔さ・お風呂付きである点を評価する声があったが、薪・炭の販売やネットレンタル等のサービスを『普通』と評する意見もあり、総じて『満足はできるが突出した高評価ではない』という傾向が複数サイトで一致していた。重大な安全・衛生上の指摘は見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "PICA富士吉田 施設情報・予約ページ - じゃらんnet",
+          "url": "https://www.jalan.net/yad335583/"
+        },
+        {
+          "type": "review_site",
+          "title": "PICA富士吉田 クチコミ（総合満足度3.25・10件） - フォートラベル",
+          "url": "https://4travel.jp/dm_hotel-10046419"
+        },
+        {
+          "type": "review_site",
+          "title": "PICA富士吉田 評価（19件の評価・総合3.6） - jcation",
+          "url": "https://jcation.com/hotel/detail-6293/"
+        },
+        {
+          "type": "booking_site",
+          "title": "PICA富士吉田 クチコミ評価（3.7・10件） - tour.ne.jp",
+          "url": "https://www.tour.ne.jp/j_hotel/38797/"
+        },
+        {
+          "type": "other",
+          "title": "PICA富士吉田 紹介 - cocolocala",
+          "url": "https://www.cocolocala.jp/hotels/11305"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "複数の独立サイトで口コミ評価を確認できたが、いずれも4.0未満（原則6）のため不採用。"
+    }
+  ],
+  "selected": "2026-11-11-toki-fujigranvilla-fujiyoshida",
+  "cycle_result_note": "本サイクルでは、同日に群馬県利根郡みなかみ町で『該当なし』となったグランピングカテゴリについて、異なる地域（山梨県富士吉田市）での1回限りの再調査を実施した。富士河口湖町・山中湖村・忍野村など既調査済みの近隣市町村を明確に除外し、富士吉田市内の施設として杓子山ゲートウェイキャンプ・Altitude-939・PICA富士吉田・富士グランヴィラ-TOKI-の4件を調査・採点した。前者3件は口コミ件数不足または評価4.0未満（原則6・7未達）のため不採用としたが、富士グランヴィラ-TOKI-は複数の独立した口コミ経路で4.5前後の高評価が一致し、2025年8月の33棟増設という鮮度の高さもあるため77点でselectedとした。creator_story（設計者・運営者の思い）については、山梨県公式観光情報サイトで確認できた『街中リゾート』コンセプトの範囲までを記録し、途中で得た総支配人氏名・発言の引用は再検証で裏付けが取れなかったため採用せず、確認できなかった旨を明記した。"
+}

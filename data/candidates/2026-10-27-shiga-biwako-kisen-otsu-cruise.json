@@ -1,0 +1,131 @@
+{
+  "cycle_date": "2026-10-27",
+  "theme": "列車・船カテゴリ（リサーチ＋キャプションのみ、画像構成なし）— 依頼により『滋賀県・琵琶湖汽船クルーズ、大津港発着エリア』を地域・事業者指定で調査",
+  "season_rationale": "依頼により地域・事業者を『琵琶湖汽船クルーズ、大津港発着エリア』と指定されたため、大津港（滋賀県大津市浜大津、京阪びわ湖浜大津駅より徒歩約3分）を拠点とする琵琶湖汽船の運航船・企画クルーズを横断的に調査した。特定の1施設指定ではなく事業者・地域指定のため、現在運航中で評価が確認できる船・コースを複数スクリーニングし、最も条件を満たす候補を深掘りした。11月後半は紅葉と夕景・夜景の時季が重なり、夜景クルーズ系の訴求力が高まるタイミング。",
+  "prior_posts_checked_note": "data/candidates/ と captions/ の全期間（2026-09-14〜2026-10-26、1ヶ月以上前の2026-09-14・2026-09-18・2026-09-21サイクル等を含む）を『琵琶湖』『滋賀』『biwako』『shiga』『大津』『ミシガン』『汽船』のキーワードで横断検索したが、一件もヒットしなかった（唯一近い既存候補はdata/candidates/2026-10-19-omihachiman-culture.json・captions/2026-10-19-machiya-club-omihachiman.jsonで、同じ滋賀県だが近江八幡の町家文化体験であり、大津港発着の琵琶湖汽船クルーズとは地域・カテゴリとも無関係）。よって『琵琶湖汽船クルーズ（大津港発着）』は過去の全サイクルで一度も候補として登録されていない完全新規の調査領域であることを確認した。",
+  "duplication_note": "本サイクルで調査した『外輪船ミシガン（琵琶湖汽船）』『ビアンカ（琵琶湖汽船）』『びわ湖大津プリンスホテル 黄昏の船旅』はいずれも、重複チェックの結果、既存candidates・captionsのいずれにも登場していない新規の事業者・企画であることを確認した。",
+  "other_candidates_considered": [
+    {
+      "name": "ビアンカ（琵琶湖汽船の大型客船、ディナークルーズ・ウェディング船としても運航）",
+      "note": "琵琶湖汽船が運航する7船種のうち最大級の客船で、『びわ湖ワンダーナイト』（没入型ディナークルーズ、16,000円、2026年2〜3月の指定日のみで既に終了）やクリスマスコース（20,000円、小学生以下乗船不可）など期間限定企画での運航が中心。WebSearchではビアンカ単独の数値評価（★点数・件数）を独立2情報源で一件も確認できず、原則6・7の採用基準を満たすデータが揃わなかったため、本調査（深掘り採点）には進めなかった。"
+    },
+    {
+      "name": "びわ湖大津プリンスホテル『秋のびわ湖に酔いしれる、黄昏の船旅』（2026年11月23日限定・宿泊プラン付き）",
+      "note": "ホテル前桟橋発の夕景クルーズ＋石山寺夜間特別拝観＋花火＋地酒という内容で話題性はあるが、2026年11月23日の1日限定・宿泊プラン前提の企画であり、クルーズ単体の独立した数値評価（口コミ件数・星評価）を本調査では確認できなかった。また予約は電話のみで、花火中止時の返金なしという条件も確認された。『琵琶湖汽船クルーズ、大津港発着エリア』という今回の調査趣旨（事業者＝琵琶湖汽船、港＝大津港）とは運営主体・発着港（ホテル専用桟橋）が異なるため、参考情報として記録するのみとし本調査の深掘りからは除外した。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-27-biwako-kisen-michigan-cruise",
+      "name": "外輪船ミシガン クルーズ（琵琶湖汽船・大津港発着）",
+      "region": "滋賀県大津市浜大津5-1-1 大津港（京阪びわ湖浜大津駅より徒歩約3分、JR大津駅より徒歩約15分）／琵琶湖",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "LiveJapan（Lake Biwa Michigan Sightseeing Cruise、KKday経由の評価）",
+          "score": 4.7,
+          "scale": 5,
+          "review_count": 39,
+          "checked_date": "2026-10-27",
+          "url": "https://livejapan.com/en/in-kansai/in-pref-shiga/in-otsu_kusatsu/activity-water_activities/ka0118085/"
+        },
+        {
+          "source": "Trip.com（Michigan Cruise, Otsu Port / Lake Biwa Kisen）",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 8,
+          "checked_date": "2026-10-27",
+          "url": "https://bh.trip.com/moments/poi-michigan-cruise-33764554"
+        },
+        {
+          "source": "WAUG（チケット販売ページの口コミ。件数が少なく参考値）",
+          "score": 5.0,
+          "scale": 5,
+          "review_count": 2,
+          "checked_date": "2026-10-27",
+          "url": "https://www.waug.com/en/activities/146903"
+        },
+        {
+          "source": "一休.com（食事付きクルーズのレストラン評価。誕生日利用・雰囲気への好評価が中心。星評価は飲食店形式の集計で件数は本調査では未取得）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-27",
+          "url": "https://restaurant.ikyu.com/108176/reviews"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "コースにより変動。日中周遊『ミシガン60』が大人2,800円程度〜、ランチクルーズ『ミシガン90』が大人3,400円程度、夜景＋ショーの『ミシガンナイト』は2026年GW実施時で大人3,600円（小学生1,800円）。食事を伴うプランは別途加算。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する。制作直前に琵琶湖汽船公式サイト（biwakokisen.co.jp）または予約センター（TEL 077-524-5000）での最新確認が必須。"
+      },
+      "unique_experience": "1982年就航、赤いパドル（外輪）が目印のアメリカ・ミシシッピ川の蒸気船をモチーフにした外輪船。1968年に滋賀県とアメリカ・ミシガン州が姉妹県州提携を結んだことにちなんで命名された、びわ湖観光のシンボル的存在で、2023年7月に累計乗船客数900万人を達成。朝の周遊『ミシガン60』、ランチの『ミシガン90』、アフタヌーン、夜景とライブショー・ディナーを楽しむ『ミシガンナイト』の4コース体制で、最上階デッキからは琵琶湖南湖と比叡山方面の360度パノラマを楽しめる。船内では陽気なクルーによるライブショーも実施。",
+      "renewal_or_news": "2026年のゴールデンウィーク特別クルーズ、2026年8月の大花火大会に合わせた花火観賞クルーズ、2026年9月27日までの土日祝ミシガンナイト運航、2026年12月7〜25日の土日祝ミシガン90運航の情報が確認でき、2026年10月時点でも通常運航が継続中であることを確認した。2027年3月のびわ湖開きに合わせた特別ダイヤの告知もあり、継続的に企画が更新されている。",
+      "target_audience": ["カップル", "記念日", "夫婦", "家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 10,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 6,
+        "access_and_freshness": 5
+      },
+      "score": 80,
+      "recommendation_reason": "LiveJapan経由のKKday評価4.7／39件、Trip.com評価4.6／8件という独立2情報源で4.0超の高評価を確認（WAUGの5.0は件数が少なく参考値、一休.comの飲食店評価も好意的）。1982年就航・姉妹県州ミシガン州にちなむ命名・累計900万人乗船という歴史的背景と、赤い外輪船という強い視覚的アイデンティティがあり、京阪浜大津駅から徒歩3分という圧倒的アクセスの良さも強み。2026年GW・8月花火・9月・12月と年間を通じて企画クルーズが継続運航されており鮮度も確認できた。一方でレビュー件数自体は東京湾クルーズ等と比べると少なく(最大39件)、琵琶湖汽船公式サイト（biwakokisen.co.jp）への本調査でのアクセスはできなかったため、制作前に最新の時刻・料金・運休情報の再確認が必須。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "『ミシガンクルーズ 残念／がっかり』等のネガティブ想定語で検索したが、明確な低評価・批判的レビューはWebSearchの範囲では見つからなかった。一休.comの食事付きクルーズレビューでは『ライブショーに時間を取られて琵琶湖の景色をゆっくり眺める時間が少なかった、次回は乗船のみのプランでもよいかも』という軽微な指摘が1件あったが、致命的な欠陥ではなく、コース選択（食事なしの乗船のみプラン等）で回避可能な内容のため不採用理由にはならないと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "琵琶湖汽船 公式サイト", "url": "https://www.biwakokisen.co.jp/" },
+        { "type": "official", "title": "Michigan Cruise - 大津市観光協会（Otsu City Tourism Association, English）", "url": "https://otsu.or.jp/en/?p=5370" },
+        { "type": "review_site", "title": "Lake Biwa Michigan Sightseeing Cruise - LiveJapan（KKday経由、4.7／39件）", "url": "https://livejapan.com/en/in-kansai/in-pref-shiga/in-otsu_kusatsu/activity-water_activities/ka0118085/" },
+        { "type": "booking_site", "title": "Michigan Cruise, Otsu Port - Trip.com（4.6／8件）", "url": "https://bh.trip.com/moments/poi-michigan-cruise-33764554" },
+        { "type": "booking_site", "title": "ミシガンクルーズ/琵琶湖汽船 - 一休レストラン（口コミ）", "url": "https://restaurant.ikyu.com/108176/reviews" },
+        { "type": "press", "title": "びわ湖観光のシンボル「外輪船ミシガン」 ご乗船900万人を達成しました - zaikei.co.jp", "url": "https://zaikei.co.jp/releases/2134470/" },
+        { "type": "press", "title": "びわ湖で特別なゴールデンウィークを！ミシガンクルーズ ゴールデンウィーク2026情報 - zaikei.co.jp", "url": "https://zaikei.co.jp/releases/3380285/" }
+      ],
+      "decision": "selected",
+      "rejection_reason": ""
+    },
+    {
+      "id": "2026-10-27-biwako-kisen-bianca-cruise",
+      "name": "ビアンカ（琵琶湖汽船の大型客船・ディナークルーズ）",
+      "region": "滋賀県大津市浜大津5-1-1 大津港／琵琶湖",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "数値評価を独立2情報源で確認できず（本調査範囲では未取得）", "score": 0, "scale": 5, "review_count": 0, "checked_date": "2026-10-27" }
+      ],
+      "price_range_jpy": {
+        "note": "没入型ディナークルーズ『びわ湖ワンダーナイト』16,000円（2026年2〜3月の指定日のみ・既に終了）、クリスマスコース20,000円（小学生以下乗船不可）等、期間限定企画の料金のみ確認。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "琵琶湖汽船が運航する7船種のうち最大級の客船で、ディナークルーズやウェディング利用にも対応する大型船。『びわ湖ワンダーナイト〜湖魚とあなたの協奏ミステリー〜』という没入型ディナークルーズ（大津市の観光事業補助を活用した企画）を2026年2〜3月の指定日のみ初運航したことが確認できたが、既に終了している。",
+      "renewal_or_news": "2026年2〜3月の期間限定企画は終了。それ以外の定期運航内容・評価は本調査では確認できなかった。",
+      "target_audience": ["カップル", "記念日", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 0, "review_reliability": 0, "unique_experience_score": 0,
+        "photogenic": 0, "value_for_price": 0, "sns_buzz": 0, "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "大型客船としての独自性・期間限定企画の話題性はあるが、ビアンカ単独の数値評価（★点数・件数）を独立2情報源で一件も確認できず、原則6・7が求める採用基準（独立2情報源・4.0以上）を満たすデータが揃わなかったため、本調査（深掘り採点）には進めず不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ネガティブ想定語での検索でも、ビアンカ固有の否定的な口コミは見つからなかった。ただし候補自体の数値評価が未確認のため、ポジティブ・ネガティブいずれも客観的な裏付けが取れていない状態。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "びわ湖ワンダーナイト〜湖魚とあなたの協奏ミステリー〜 客船ビアンカで初運航 - K PRESS web（京阪電鉄）", "url": "https://www.keihan.co.jp/k-press/outing/202601-lakebiwa.php" },
+        { "type": "other", "title": "琵琶湖汽船 日本一の湖を贅沢にクルージング！基本情報から見どころまで - asoview", "url": "https://www.asoview.com/note/1011/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "ビアンカ単独の数値評価を独立2情報源で確認できず、原則6・7の採用基準を満たすデータが揃わないため不採用。"
+    }
+  ],
+  "conclusion": "地域・事業者指定『滋賀県・琵琶湖汽船クルーズ、大津港発着エリア』についてWebSearch計約12件を実施し、3候補（外輪船ミシガン／ビアンカ／びわ湖大津プリンスホテル黄昏の船旅〈事前スクリーニングのみ〉）をスクリーニング・調査した。結果、『外輪船ミシガン クルーズ（琵琶湖汽船・大津港発着）』をscore=80（review_rating22/review_reliability10/unique_experience_score17/photogenic12/value_for_price8/sns_buzz6/access_and_freshness5）で選定（decision: selected）。LiveJapan(KKday経由)4.7／39件、Trip.com 4.6／8件という独立2情報源で原則6・7（4.0以上）を満たし、ネガティブレビュー確認でも重大な指摘は見つからなかった。ビアンカは独自性・話題性はあるが候補単独の数値評価を独立2情報源で確認できず不採用。びわ湖大津プリンスホテルの1日限定企画（2026年11月23日）は話題性があるが宿泊プラン前提・クルーズ単体の評価データがなく、かつ運航主体・発着港が今回の調査趣旨（琵琶湖汽船・大津港）と異なるため参考記録のみとした。琵琶湖汽船公式サイト（biwakokisen.co.jp）は本調査では直接のページ内容取得ができなかったため、selected候補の制作移行前には公式サイト・予約センター（077-524-5000）での最新運航スケジュール・料金の再確認が必須。"
+}

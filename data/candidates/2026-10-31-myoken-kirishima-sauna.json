@@ -1,0 +1,265 @@
+{
+  "cycle_date": "2026-10-31",
+  "theme": "サウナ（鹿児島県霧島市・妙見温泉エリア）",
+  "season_rationale": "霧島市・妙見温泉エリアは秋の深まりとともに朝晩の気温が下がり、硫黄泉のにごり湯や露天風呂での「ととのう」体感が際立つ時期にあたる。直近のサウナカテゴリは2026-10-28十和田市・蔦温泉／2026-10-29花巻温泉郷／2026-10-30青森市・八甲田（城ヶ倉）と続いており、依頼時点で地域を九州・鹿児島県霧島市・妙見温泉エリアへ切り替える意図だった。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-30-hotel-jogakura-sauna", "region": "青森県青森市荒川（八甲田山中・城ヶ倉温泉）", "category": "サウナ" },
+    { "post_id": "2026-10-29-hanamaki-onsenkyo-sauna", "region": "岩手県花巻市湯本（花巻温泉郷）", "category": "サウナ" },
+    { "post_id": "2026-10-28-towada-tsutaonsen-sauna", "region": "青森県十和田市（蔦温泉エリア）", "category": "サウナ" },
+    { "post_id": "2026-10-23-kirishima-glamping / captions/2026-10-23-koshikano-onsen-kirishima", "region": "鹿児島県霧島市隼人町松永（こしかの温泉）", "category": "グランピング" },
+    { "post_id": "2026-10-27-sakurajima-volcano-guide-ferry", "region": "鹿児島県鹿児島市・霧島市（桜島）", "category": "アクティビティ" }
+  ],
+  "duplication_note": "data/candidates・captions配下の既存ファイル全件（1ヶ月以上前のものを含む）を『霧島』『妙見』『きりしま』『myoken』『kirishima』で横断検索した結果、カテゴリ『グランピング』の『こしかの温泉』（2026-10-23、霧島市隼人町）と、カテゴリ『アクティビティ』の桜島フェリーガイド（2026-10-27、霧島市・鹿児島市）がヒットしたが、いずれもカテゴリ・施設・地区が異なる（こしかの温泉は隼人町の温泉付きグランピング、桜島は火山観光船）ため重複しない。『霧島国際ホテル』『霧島ホテル（硫黄谷温泉）』『ザ・パルス霧島』『妙見石原荘』『ラビスタ霧島ヒルズ』の施設名でも個別に検索したが、既存ファイルには一件も存在しなかった（grep結果0件）。したがって本サイクルの調査対象（霧島温泉郷・妙見温泉エリアのサウナ・大浴場）は既存制作物と重複しない。",
+  "research_constraints": "本サイクルでは霧島温泉郷・妙見温泉エリアの4施設（霧島国際ホテル、霧島温泉郷 霧島ホテル＝硫黄谷温泉、ザ・パルス霧島、妙見温泉 妙見石原荘）を調査した。加えて妙見温泉『おりはし旅館』も確認したが、公式情報・口コミサイトのいずれにもサウナ設備の記載が見当たらず（内風呂のみでサウナの言及なし）、カテゴリ『サウナ』の候補要件を満たさないため正式な候補としては登録しなかった。本セッションはWebSearchのスニペット経由の調査が中心で、このサイクルの途中でWebSearchの利用回数上限に達したため、硫黄谷温泉 霧島ホテルの楽天トラベル・じゃらん個別ページでの正確な口コミ件数の追加確認ができなかった。また、WebFetchは本セッションのネットワーク制限により大半の対象サイト（icotto.jp、www.jalan.net、kyodonewsprwire.jp等）でDNS解決不可（ENOTFOUND）となり、直接本文を取得できなかった。数値を推測・捏造しないため（CLAUDE.md）、確認できなかった情報は『確認できなかった』旨を明記し、確認できた範囲のスニペット情報のみを記録した。",
+  "candidates": [
+    {
+      "id": "2026-10-31-kirishima-kokusai-hotel",
+      "name": "霧島国際ホテル",
+      "region": "鹿児島県霧島市牧園町高千穂3930-12（丸尾温泉・霧島温泉郷）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル クチコミ評価（Mapple掲載の二次集計値として確認。楽天トラベル施設ページそのものへは本セッションでは到達できなかった）",
+          "score": 4.3,
+          "scale": 5,
+          "review_count": 2890,
+          "checked_date": "2026-10-31",
+          "url": "https://www.mapple.net/pref/46218/hotel/"
+        },
+        {
+          "source": "フォートラベル（満足度3.99、項目別で風呂4.41・アクセス3.50）",
+          "score": 3.99,
+          "scale": 5,
+          "review_count": 128,
+          "checked_date": "2026-10-31",
+          "url": "https://4travel.jp/dm_hotel-10053409"
+        },
+        {
+          "source": "skyticket（クチコミ集計）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 1770,
+          "checked_date": "2026-10-31",
+          "url": "https://skyticket.jp/hotel/kagoshima/bl_460022/"
+        },
+        {
+          "source": "ニフティ温泉（ゆこゆこ系ポータル、総合評価）",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 34,
+          "checked_date": "2026-10-31",
+          "url": "https://onsen.nifty.com/kuma-onsen/onsen004839/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "日帰り入浴は1,200円〜と複数の情報源で確認した。宿泊プランの具体的な料金は、本セッションのWeb検索（スニペット経由）では確定できる数値を確認できなかった（WebSearch利用回数の上限、およびjalan.net等へのWebFetchがネットワーク制限で不可だったため）。予約前に公式サイト・予約サイトで必ず最新の宿泊料金を確認すること。",
+        "as_of_search_date": "2026-10-31",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "丸尾温泉の硫黄泉（硫化水素型・乳白色のにごり湯）を源泉かけ流しで湛える本館大浴場「大浪」（女性専用岩盤浴・サウナを併設）に加え、2024年7月に改装リニューアルした露天風呂「霧乃湯」、2026年6月1日に敷地内へ新設された霧島エリア初の砂むし温泉「霧砂（きりすな）」、同時に営業再開した乳白色の岩風呂露天「白紫乃湯」、貸切風呂「山霧」、天然温泉蒸し湯・ひのき蒸し風呂など、サウナ・蒸し湯・砂むしを横断した多様な発汗体験が一か所に揃う点が特徴。サウナイキタイの登録情報ではサウナ温度約90℃・水風呂17〜23℃、イキタイ81件・サ活151件の反応がある。",
+      "renewal_or_news": "2024年7月26日に本館露天風呂「霧乃湯」を改装してリニューアルオープン。2026年6月1日には霧島エリア初の砂むし温泉「霧砂」が新設オープンし、同時に2023年5月の改装以降休止していた露天風呂「白紫乃湯」も営業再開した。2026年7月1日からは「霧砂」の公式キャラクター名の一般公募企画も実施されている（結果発表は2026年10月中旬予定とされていたが本セッションでは発表内容は未確認）。これらはいずれもKYODO NEWS PRWIRE配信のプレスリリース・じょるだん観光ニュース経由で確認した2026年の最新情報であり、本セッション時点で営業中であることも複数の予約・口コミサイトへの最新掲載から確認できた。",
+      "target_audience": ["カップル", "夫婦", "温泉好き", "家族", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 12,
+        "unique_experience_score": 17,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 76,
+      "recommendation_reason": "楽天トラベル（2,890件・4.3）、skyticket（1,770件・4.0）、フォートラベル（128件・3.99、風呂4.41）、ニフティ温泉（34件・4.5）という4つの独立した情報源すべてで採用ライン4.0前後〜それ以上を確認し、特に楽天トラベルの大量サンプルで4.3という高評価を得ている点を重視した（review_rating 22/25、review_reliability 12/15）。硫黄泉のにごり湯大浴場に加え、2026年6月開業の霧島エリア初『砂むし温泉 霧砂』、サウナ、女性専用岩盤浴、貸切風呂、蒸し湯まで揃う多層的な発汗体験は、同エリアの他施設にはない独自性がある（unique_experience_score 17/20）。乳白色の湯と露天風呂の景観は写真映えするが、同種の硫黄泉宿が霧島エリアに複数あるため差別化は中程度（photogenic 10/15）。日帰り入浴1,200円〜は手頃だが、宿泊料金は本セッションでは未確認のため価格評価は保守的に見積もった（value_for_price 6/10）。『霧砂』開業・キャラクター公募など2026年の話題はあるが全国的なSNSバズの規模は確認できていない（sns_buzz 5/10）。バス停から徒歩2分とアクセス良好で、2024・2026年と情報が継続的に更新されている（access_and_freshness 4/5）。合計76点で採用ライン（75点）を上回り、selectedとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "スカイチケットの個別投稿で接客・施設設備に3/5という控えめな評価が1件見られたが、具体的な老朽化・接客トラブル等の重大なネガティブ指摘は本セッションの検索範囲では確認できなかった。フォートラベルでは項目別評価のうちアクセスが3.50と相対的に低いが、これは山間部の温泉地という地理的制約によるもので施設自体の欠陥ではない。衛生・安全上の指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "鹿児島県霧島市のホテル一覧（楽天トラベル クチコミ評価4.3・2,890件を掲載） - Mapple", "url": "https://www.mapple.net/pref/46218/hotel/" },
+        { "type": "review_site", "title": "霧島国際ホテル 口コミ・評価（満足度3.99・128件、風呂4.41・アクセス3.50） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10053409" },
+        { "type": "booking_site", "title": "霧島国際ホテル クチコミ(1,770件)・評価4/5 - skyticket", "url": "https://skyticket.jp/hotel/kagoshima/bl_460022/" },
+        { "type": "review_site", "title": "霧島国際ホテル 総合評価4.5・34件 - ニフティ温泉", "url": "https://onsen.nifty.com/kuma-onsen/onsen004839/" },
+        { "type": "other", "title": "霧島国際ホテル サウナ温度90℃・水風呂17〜23℃、イキタイ81・サ活151 - サウナイキタイ（鹿児島県霧島市一覧）", "url": "https://sauna-ikitai.com/kagoshima/霧島市" },
+        { "type": "press", "title": "霧島国際ホテル 霧島エリア初の砂むし温泉施設「霧砂」6月1日(土)にオープン - KYODO NEWS PRWIRE", "url": "https://kyodonewsprwire.jp/release/202604087076" },
+        { "type": "press", "title": "霧島国際ホテル 四季の美と温泉の温もりが交わる究極のリラックス（露天風呂「霧乃湯」改装リニューアル） - KYODO NEWS PRWIRE", "url": "https://kyodonewsprwire.jp/release/202407264248" },
+        { "type": "other", "title": "霧島国際ホテル 霧島エリア初の砂むし温泉「霧砂」オープン関連ニュース - じょるだん観光ニュース", "url": "https://sp.jorudan.co.jp/onsen/news/jrd_260409_1/" }
+      ],
+      "decision": "selected",
+      "creator_story": {
+        "text": "霧島国際ホテルについて、設計者・運営者・創業者個人が開業当初や改修にあたってどのような思いを込めたかを示す発言・インタビューは、本セッションの検索範囲（WebSearchのスニペット経由のみ。公式サイト本文やkyodonewsprwire.jpへのWebFetchはネットワーク制限によりDNS解決不可で直接確認できなかった）では見つけられなかった。確認できた範囲の事実としては、(1) 2021年6月1日からマイステイズ・ホテル・マネジメントが新規に運営を受託し、プレスリリースの見出しには『老舗ブランド50年の歴史を受け継ぎ』という表現があったこと、(2) 2024年7月・2026年6月の砂むし温泉「霧砂」開業に関するプレスリリースの配信元表記に総支配人として『林田博』氏の名前が記載されていたこと、の2点のみである。ただし、これらはいずれも報道配信用の見出し・配信者表記であり、総支配人本人や設計担当者がコンセプト・改修方針について語った引用コメントそのものは本セッションでは確認できなかった。したがって、運営者・創業者が『どんな思いで手がけたか』については『確認できなかった』こととし、推測や発言の創作は行わない。",
+        "sources": [
+          { "type": "press", "title": "マイステイズ・ホテル・グループ「霧島国際ホテル」老舗ブランド50年の歴史を受け継ぎ 6/1より運営開始 - KYODO NEWS PRWIRE", "url": "https://kyodonewsprwire.jp/index.php/release/202105215175" },
+          { "type": "press", "title": "霧島国際ホテル 霧島エリア初の砂むし温泉施設「霧砂」6月1日(土)にオープン（配信元表記に総支配人名を確認） - KYODO NEWS PRWIRE", "url": "https://kyodonewsprwire.jp/release/202604087076" }
+        ]
+      }
+    },
+    {
+      "id": "2026-10-31-kirishima-hotel-iodani",
+      "name": "霧島温泉郷 霧島ホテル（硫黄谷温泉）",
+      "region": "鹿児島県霧島市牧園町高千穂（硫黄谷温泉・霧島温泉郷）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "ポータル系口コミ評価（JTB国内ホテル予約ページ内の表示値と推定。満足度4.63・温泉お風呂4.91という高評価を確認したが、本セッションでは掲載元サイト名・口コミ件数を確定できなかった）",
+          "score": 4.63,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-31",
+          "url": "https://www.jtb.co.jp/kokunai-hotel/htl/8604002/"
+        },
+        {
+          "source": "icotto（個別口コミ、2024年11月の日帰り利用者投稿。期待していた庭園大浴場が『期待以下』という評価で3.5点）",
+          "score": 3.5,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-31",
+          "url": "https://icotto.jp/hotels/2198"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "日帰り入浴は11時〜17時受付・1,200円〜という情報があるが、不定休のため事前確認が必要とされている。宿泊料金は本セッションでは確認できなかった。",
+        "as_of_search_date": "2026-10-31",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "約1,500人同時入浴可能とされる奥行25mの庭園大浴場を持つ、霧島温泉郷でも規模の大きい老舗ホテル。4種14泉の源泉をすべてかけ流しで使い、硫黄谷温泉は同ホテルだけが引く温泉とされる。サウナイキタイの登録情報ではサウナ温度86〜92℃・水風呂17〜18℃・外気浴可という記載があるが、別の情報源（楽天系の宿情報ページ）では『硫黄谷庭園大浴場』の設備欄に『サウナ無』という記載もあり、サウナの現況・設置場所について情報源間で食い違いがあることを確認した。",
+      "target_audience": ["夫婦", "温泉好き", "家族"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 4,
+        "unique_experience_score": 12,
+        "photogenic": 9,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 47,
+      "recommendation_reason": "満足度4.63・温泉お風呂4.91という非常に高い評価値を確認したが、掲載元サイト名と口コミ件数を本セッションでは特定できず、原則7（独立2情報源での数値確認）を満たす形で裏取りができなかった。さらにサウナの有無・設置場所について情報源間で明確な食い違い（『サウナ完備』対『サウナ無』）があり、カテゴリ『サウナ』の核心であるサウナ体験そのものの現況を確信を持って紹介できる状態ではないと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icottoの個別口コミ（2024年11月、日帰り利用）では、期待していた庭園大浴場の規模・質が実際には『期待以下』だったという指摘があった。重大な衛生・安全上の問題は確認されなかったが、評判の良さと実際の体感に差があるという声がある点は留意が必要。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "霧島温泉郷 霧島ホテル 施設情報（満足度4.63・温泉お風呂4.91の表示を確認） - JTB国内ホテル予約", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/8604002/" },
+        { "type": "review_site", "title": "霧島温泉郷 霧島ホテル 口コミ（2024年11月投稿、庭園大浴場『期待以下』3.5点） - icotto", "url": "https://icotto.jp/hotels/2198" },
+        { "type": "other", "title": "霧島温泉郷 霧島ホテル サウナ温度86〜92℃・水風呂17〜18℃ - サウナイキタイ（鹿児島県霧島市一覧）", "url": "https://sauna-ikitai.com/kagoshima/霧島市" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "高評価値（満足度4.63等）自体は確認できたが、出典サイト名・口コミ件数を独立した形で特定できず原則7を満たせなかったこと、またサウナの有無・設置場所に関する情報源間の食い違いを解消できなかったことから、今サイクルでは不採用。次回以降、楽天トラベル・じゃらんの施設ページで口コミ件数とサウナ設備の最新状況を直接確認できれば再評価候補となる。"
+    },
+    {
+      "id": "2026-10-31-the-pulse-kirishima",
+      "name": "ザ・パルス霧島",
+      "region": "鹿児島県霧島市牧園町（霧島温泉郷）",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "ゆこゆこネット（口コミ総合評価、風呂4.20）",
+          "score": 4.12,
+          "scale": 5,
+          "review_count": 40,
+          "checked_date": "2026-10-31",
+          "url": "https://www.yukoyuko.net/3979"
+        },
+        {
+          "source": "Relux（レビュー総合点、風呂4.4・その他設備3.0）",
+          "score": 3.6,
+          "scale": 5,
+          "review_count": 7,
+          "checked_date": "2026-10-31",
+          "url": "https://rlx.jp/926377/review/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "宿泊料金は本セッションでは確認できなかった。",
+        "as_of_search_date": "2026-10-31",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "宿泊者限定で、サウナ温度100℃という記録がサウナイキタイに登録されている。貸切風呂が4室あり子連れ家族への配慮が感じられるという口コミがある一方、サウナ自体の設備詳細（水風呂温度・ロウリュ有無・外気浴の有無等）やサウナ単体への評価コメントは本セッションでは確認できなかった。",
+      "target_audience": ["家族", "夫婦", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 11,
+        "review_reliability": 4,
+        "unique_experience_score": 8,
+        "photogenic": 6,
+        "value_for_price": 4,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 37,
+      "recommendation_reason": "ゆこゆこネット（40件・4.12）は採用ラインに届くが、Relux（7件・3.6、その他設備3.0）は下回り、サンプル数も少なく評価が定まっていない。サウナ自体の設備詳細・口コミが本セッションでは確認できず、サウナ目的の候補としての独自性を裏付けられなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "jcation掲載の口コミで大浴場のエアコンフィルターの汚れを指摘する声があった。フォートラベルの口コミは1件のみで、西館は風呂が遠いという指摘があった。重大な安全・衛生上の問題ではないが、清掃面での個別指摘があったことは記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ザ・パルス霧島 口コミ総合評価4.12（40件、風呂4.20） - ゆこゆこネット", "url": "https://www.yukoyuko.net/3979" },
+        { "type": "review_site", "title": "ザ・パルス霧島 レビュー（7件・3.6、風呂4.4・その他設備3.0） - Relux", "url": "https://rlx.jp/926377/review/" },
+        { "type": "other", "title": "ザ・パルス霧島 サウナ温度100℃の登録記録 - サウナイキタイ（鹿児島県霧島市一覧）", "url": "https://sauna-ikitai.com/kagoshima/霧島市" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価サイト間で4.0超と4.0未満に分かれ、サンプル数も少なく（Relux7件）評価が定まっていないこと、サウナ単体の設備・評価情報を裏付けられなかったことから今サイクルでは不採用。"
+    },
+    {
+      "id": "2026-10-31-myoken-ishiharaso",
+      "name": "妙見温泉 妙見石原荘",
+      "region": "鹿児島県霧島市牧園町（妙見温泉・天降川渓谷沿い）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "icotto（口コミ、個別の一人旅投稿では露天風呂の渓谷景観を高評価）",
+          "score": 3.5,
+          "scale": 5,
+          "review_count": 148,
+          "checked_date": "2026-10-31",
+          "url": "https://icotto.jp/hotels/1143"
+        },
+        {
+          "source": "口コミ集計サイト（出典ページ名を本セッションでは特定できなかった二次情報。3.95という表示を確認）",
+          "score": 3.95,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-31",
+          "url": "https://hamoni.jp/hotel/6qs4ecAQPpxMchV3NUP6ULcEhwiSGmaT"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "宿泊料金は本セッションでは確認できなかった。高級旅館として知られ、ミシュランキー一つ星（2025年）を獲得したと報じられている。",
+        "as_of_search_date": "2026-10-31",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "天降川渓谷沿いに佇む高級旅館で、2025年にミシュランガイドの『ミシュランキー』一つ星を獲得したと報じられている。サウナイキタイの登録情報ではサウナ温度114℃・水風呂22℃・外気浴なし・ロウリュなしという記載があるが、登録は2017年・2021年と古く、現在の設備状況と一致するかは本セッションでは確認できなかった。",
+      "target_audience": ["夫婦", "記念日", "一人旅", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 9,
+        "review_reliability": 8,
+        "unique_experience_score": 12,
+        "photogenic": 10,
+        "value_for_price": 4,
+        "sns_buzz": 6,
+        "access_and_freshness": 2
+      },
+      "score": 51,
+      "recommendation_reason": "ミシュランキー一つ星（2025年）という話題性・渓谷沿いの景観の良さは魅力的だが、icotto（148件・3.5）という比較的サンプル数の多い情報源で4.0未満であり、原則6（主要レビュー4.0未満は原則不採用）に抵触する。もう一方の3.95という数値も出典サイト名を特定できず独立した第2情報源として扱いにくい。サウナ設備の情報も2017〜2021年の古い登録データのみで、現在の設備状況（水風呂・外気浴・ロウリュの有無）を裏付けられなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icottoの口コミ本文には重大な衛生・安全上の指摘は確認されなかったが、総合評価が3.5と、他の霧島エリア施設（霧島国際ホテル等）と比べて相対的に低い点は記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "妙見石原荘 口コミ・評価3.5（148件） - icotto", "url": "https://icotto.jp/hotels/1143" },
+        { "type": "other", "title": "妙見石原荘 評価3.95の表示 - hamoni.jp", "url": "https://hamoni.jp/hotel/6qs4ecAQPpxMchV3NUP6ULcEhwiSGmaT" },
+        { "type": "press", "title": "妙見石原荘 ミシュランキー一つ星（2025年）獲得報道", "url": "https://president.jp/articles/-/106666" },
+        { "type": "other", "title": "妙見石原荘 サウナ温度114℃・水風呂22℃（2017・2021年登録、現況未確認） - サウナイキタイ", "url": "https://sauna-ikitai.com/saunners/79635/ikitai" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイト（icotto・148件）で評価3.5と原則6の4.0基準に届かず、サウナ設備の現況も裏付けられなかったため今サイクルでは不採用。ミシュランキー獲得という話題性はあるため、今後サウナ以外のカテゴリ（温泉旅館等）での再検討候補として記録する。"
+    }
+  ]
+}

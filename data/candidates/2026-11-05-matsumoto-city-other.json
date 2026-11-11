@@ -1,0 +1,193 @@
+{
+  "cycle_date": "2026-11-05",
+  "theme": "その他（長野県松本市・松本城）",
+  "season_rationale": "11月上旬の松本市は、夏の暑さ・混雑が落ち着き、冬の積雪前の歩きやすい気候になる時期。松本城公園は入園無料・24時間開放されており、天守などの有料区域も年末（12月29〜31日）を除き無休で営業している。北アルプスを背景にした黒漆の天守と堀の組み合わせは年間を通じての定番の魅力だが、具体的な紅葉の見頃時期までは本セッションでは確認できておらず、写真の見せ場としての季節情報はProduction移行時に公式サイト・観光協会で再確認が必要。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-19-hakuba-activity", "region": "長野県北安曇郡白馬村（アクセス経由で松本市に言及）", "category": "アクティビティ" },
+    { "post_id": "2026-10-18-kamikochi-activity", "region": "長野県松本市上高地（アクセス経由で松本市に言及）", "category": "アクティビティ" },
+    { "post_id": "2026-10-21-shinhotaka-ropeway", "region": "岐阜県高山市（アクセス経由で松本市に言及）", "category": "アクティビティ" },
+    { "post_id": "2026-10-20-fuji-panoramic-ropeway", "region": "山梨県富士河口湖町（アクセス経由で松本市に言及）", "category": "絶景活動" },
+    { "post_id": "2026-10-31-hikone-jokamachi-bunka-taiken-recheck", "region": "滋賀県彦根市（国宝5城の一つとして松本城に言及）", "category": "文化体験" },
+    { "post_id": "2026-10-28-niigata-city-other", "region": "新潟県新潟市", "category": "その他" },
+    { "post_id": "2026-11-01-kitakyushu-other", "region": "福岡県北九州市", "category": "その他" },
+    { "post_id": "2026-10-30-shizuoka-city-other", "region": "静岡県静岡市", "category": "その他" }
+  ],
+  "duplication_note": "data/candidates・captions配下の既存ファイル全件（1ヶ月以上前のものを含む）を『松本』『長野』で横断検索した結果、『松本』を含む既出ファイルは8件あったが、いずれも上高地・白馬・ロープウェイ等へのアクセス経路として松本市・松本駅に言及しているのみ、または彦根城候補内で『現存12天守・国宝5城の一つ』という文脈で松本城の名前が比較対象として挙がっているだけで、松本市・松本城そのものを主題とした候補・キャプションは存在しなかった。カテゴリ『その他』についても松本市関連の候補は未出。よって今回の松本城／松本市立美術館の調査は重複にあたらない。",
+  "research_limitation_note": "本セッションはWebSearch呼び出し回数の上限（セッション全体で共有される制限）に調査の途中で到達し、追加の検索ができなくなった。また、WebFetchはこの環境のネットワーク制約により jalan.net・tripadvisor.com・matsumoto-castle.jp（松本城公式サイト）・mlit.go.jp のいずれにも接続できず、WebSearchのスニペット経由の情報のみに基づいている。候補として『旧開智学校』（2019年に教育建築として全国初の国宝指定を受けた校舎）と『中町通り（蔵のまち）』も調査したが、旧開智学校はみんなのランキング上で評価数6件という言及のみで具体的な点数を取得できず、中町通りは口コミサイトの数値評価そのものが検索結果から得られなかった。推測で数値を記載することは禁止されているため、この2件は候補データ化を見送った（次回以降、検索回数の制約がない状態での再調査対象とする）。",
+  "candidates": [
+    {
+      "id": "2026-11-05-matsumoto-castle",
+      "name": "国宝 松本城",
+      "region": "長野県松本市丸の内（松本城公園内。JR松本駅から徒歩約15〜20分）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらん（「国宝松本城Week」イベントページ内・周辺スポット一覧に表示された国宝松本城自体の評価）",
+          "score": 4.3,
+          "scale": 5,
+          "review_count": 3288,
+          "checked_date": "2026-11-05",
+          "url": "https://www.jalan.net/event/evt_332199/spot/"
+        },
+        {
+          "source": "みんなのランキング「松本観光地ランキング」",
+          "score": 93.8,
+          "scale": 100,
+          "review_count": 13,
+          "checked_date": "2026-11-05",
+          "url": "https://ranking.net/items/97fe95"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "天守等の有料区域の観覧料は情報源間で表記に幅があった：電子チケット（日時指定）一般1,200円・小中学生400円、当日紙チケット一般1,300円とする記載のほか、大人800円・小中学生400円（2025年4月1日〜改定）とする記載、700円とするより古い記載もあった。松本城公園自体は入園無料・24時間開放（有料区域の営業時間は別）。価格改定時期・券種による差が大きいため、Production移行時に公式サイト（matsumoto-castle.jp）での再確認が必須。",
+        "as_of_search_date": "2026-11-05",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "現存する天守が重要文化財・国宝として残る「現存12天守」のうち、国宝指定を受けた5城（姫路城・松本城・犬山城・松江城・彦根城）の一つ。現存する五重六階の木造天守としては日本最古とされる。戦国期に築かれた深志城を基盤に、1593〜1594年頃、石川数正・康長父子の時代に大天守・乾小天守・渡櫓などが築かれ、現在の天守の基礎になったとされる。黒漆塗りの外観（通称「烏城」）と、残雪期や晴天時には天守の背後に北アルプスの山並みが重なる構図が特徴で、堀に浮かぶように建つ姿は国内の城郭の中でも特に写実的な人気を持つ。松本城公園自体は入園無料・24時間開放されており、天守など有料区域は年末（12月29〜31日）を除き無休で営業しているとされる。",
+      "renewal_or_news": "本セッションの検索範囲では、大規模リニューアルや特別な最新ニュースは確認できなかった。通年の定番観光地として安定した人気を維持している。最新の催事・特別公開情報は公式サイト（matsumoto-castle.jp）での確認が必要。",
+      "target_audience": ["夫婦", "カップル", "家族", "友人", "一人旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 18,
+        "photogenic": 14,
+        "value_for_price": 8,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 87,
+      "recommendation_reason": "じゃらん掲載の評価4.3（口コミ3,288件、独立情報源1）とみんなのランキング93.8/100（13人評価、独立情報源2）がいずれも5点満点換算で4.0を上回り、原則6・7の採用基準（主要レビュー4.0以上・独立2情報源）を満たした。国宝5城・現存12天守の一つという本物の歴史的価値、北アルプスを背景にした構図の強い写真映え、公園自体が入園無料で24時間開放されているアクセスの良さが揃う。台湾の旅行情報サイトtravel.yam.comがGoogle評価4.5と紹介している点、訪日ラボ（honichi.com）がTripAdvisorで平均4.5/5と紹介している点（ただし掲載時期が古い可能性があり参考情報扱い）も、口コミの方向性としては一致している。有名観光地ではあるが、観覧料の情報源間での食い違いが大きい点はProduction移行時の再確認が必須な注意点として明記した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "TripAdvisor掲載ページのレビュー要約タグ（訪日ラボ経由で確認できた範囲）には「Wait: Long（待ち時間が長い）」という指摘があり、天守内部は狭い急な階段を利用する構造のため混雑期には待ち時間が発生しやすいと見られる。一方で「Staff: Knowledgeable（スタッフの知識が豊富）」「Value: Worthwhile（価値がある）」という好意的な評価タグも確認でき、安全性・衛生面・接客対応での重大な指摘は本セッションの検索範囲では見当たらなかった。WebFetchのネットワーク制約により、TripAdvisor・じゃらんの個別レビュー本文への直接アクセスはできておらず、検索スニペット経由の確認にとどまる。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "松本城の築城経緯については、戦国期に築かれた深志城を基盤に、豊臣政権下で松本領主となった石川数正とその子・康長の時代（1593〜1594年頃とされる）に大天守・乾小天守・渡櫓などが築かれ、現在の天守の基礎が形成されたという歴史的経緯は、国土交通省多言語化推進ポータル等の検索結果スニペットから確認できた。しかし、石川数正・康長をはじめとする築城・改修・保存に関わった人物が『どのような思いでこの城を手がけたか』という理念・意図・経緯を一次情報（本人の発言記録、公式サイトの沿革ページ本文、文化庁や松本市の公式解説文の全文など）で直接確認することは、本セッションでは行えなかった。松本城公式サイト（matsumoto-castle.jp）および国土交通省多言語化DBの該当ページ（mlit.go.jp/tagengo-db/R4-00190）へのアクセスを試みたが、いずれもこの環境のWebFetchのネットワーク制約により接続できず、本文全体の確認ができなかった。また本セッションのWebSearch呼び出し回数の上限にも到達したため、これ以上の追加調査もできなかった。したがって、築城者・保存関係者の『思い』については確認できなかったものとして記録し、推測や発言の創作は行わない。",
+        "sources": [
+          {
+            "type": "other",
+            "title": "松本城の歴史と保存について（国土交通省 多言語化推進ポータル・歴史解説。本文全体へはWebFetch不可のため検索結果スニペットのみ確認）",
+            "url": "https://www.mlit.go.jp/tagengo-db/R4-00190,html"
+          },
+          {
+            "type": "official",
+            "title": "国宝 松本城 公式サイト（存在は検索結果で確認したが、本セッションではWebFetchのネットワーク制約により沿革本文の内容確認には至らなかった）",
+            "url": "https://www.matsumoto-castle.jp/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "国宝 松本城 公式サイト",
+          "url": "https://www.matsumoto-castle.jp/"
+        },
+        {
+          "type": "official",
+          "title": "まつもと観光ナビ（松本市観光協会公式サイト）",
+          "url": "https://visitmatsumoto.com/"
+        },
+        {
+          "type": "review_site",
+          "title": "じゃらん「国宝松本城Week」周辺スポット一覧（国宝松本城 評価4.3・口コミ3,288件表示）",
+          "url": "https://www.jalan.net/event/evt_332199/spot/"
+        },
+        {
+          "type": "review_site",
+          "title": "松本城 - みんなのランキング（松本観光地ランキング、93.8点・13人評価）",
+          "url": "https://ranking.net/items/97fe95"
+        },
+        {
+          "type": "press",
+          "title": "松本城 TripAdvisor順位・評価の引用記事（19位・平均4.5/5、掲載時期は古い可能性あり） - 訪日ラボ",
+          "url": "https://honichi.com/ranking/touristattraction/matsumotojo/"
+        },
+        {
+          "type": "other",
+          "title": "松本城 Google評価の引用（4.5） - 台湾旅行情報サイト travel.yam",
+          "url": "https://travel.yam.com/place/10790"
+        },
+        {
+          "type": "other",
+          "title": "松本城の歴史と保存について - 国土交通省 多言語化推進ポータル",
+          "url": "https://www.mlit.go.jp/tagengo-db/R4-00190,html"
+        }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-11-05-matsumoto-city-museum-of-art",
+      "name": "松本市立美術館（草間彌生 常設展示）",
+      "region": "長野県松本市中央（JR松本駅から徒歩約12分、駐車場82台・無料）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "いこーよ（施設ページ掲載の総合評価・口コミ件数）",
+          "score": 2.6,
+          "scale": 5,
+          "review_count": 2,
+          "checked_date": "2026-11-05",
+          "url": "https://iko-yo.net/facilities/7451/coupon"
+        },
+        {
+          "source": "gltjp.com（施設ディレクトリページ掲載の評価）",
+          "score": 3.58,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-11-05",
+          "url": "https://www.gltjp.com/ja/directory/item/13706/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションの検索範囲では、現行の入館料（一般・企画展料金等）を示す一次情報に到達できなかった。Production移行時に公式サイト・松本市文化財課等での確認が必須。",
+        "as_of_search_date": "2026-11-05",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "草間彌生の出身地である松本市にあり、初期作品から最新シリーズまでを収蔵・常設展示する美術館。屋外彫刻「幻の華」や、鏡を使った体験型の展示が特徴で、撮影可能なのは代表作のかぼちゃのみという案内もある。2018年の大型展では会期中のべ16万人を超える来場があったとされる。上條信山・田村一男・細川宗英ら松本・信州ゆかりの作家の作品も収蔵する総合美術館。",
+      "target_audience": ["カップル", "友人", "一人旅", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 3,
+        "unique_experience_score": 15,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 8,
+        "access_and_freshness": 4
+      },
+      "score": 58,
+      "recommendation_reason": "草間彌生の常設展示・屋外彫刻「幻の華」・鏡を使った体験型展示という独自性は高く、SNSでの話題性も見込める。しかし本セッションで確認できた数値評価はいこーよ2.6/5（口コミ2件）・gltjp.com 3.58/5（口コミ1件）のみで、いずれも原則6の採用ライン（主要レビュー4.0以上）を満たさず、かつ件数が極端に少ないため信頼性も低い。4travel.jpの個別レビューには満足度5.0や好意的な感想も見られたが、施設全体の集計評価ではなく代用できない。WebSearch呼び出し回数の上限により、Googleマップ・TripAdvisor等の主要口コミサイトの集計評価に本セッションではアクセスできなかったため、独立2情報源による4.0以上の確認ができず、今回は不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "いこーよの口コミ（2件）の具体的な低評価理由は本セッションでは確認できなかった。4travel.jpの個別レビューでは、草間彌生作品の展示前に順番待ちのロープが張られる場合があり、休日は混雑しやすいため平日の閉館前が狙い目という指摘があったが、安全性・衛生面・接客対応での重大な指摘は見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "松本市美術館 施設情報 - 日本の博物館情報(museum.or.jp)",
+          "url": "https://www.museum.or.jp/museum/10106"
+        },
+        {
+          "type": "review_site",
+          "title": "松本市美術館 総合評価2.6・口コミ2件 - いこーよ",
+          "url": "https://iko-yo.net/facilities/7451/coupon"
+        },
+        {
+          "type": "review_site",
+          "title": "松本市美術館 評価3.58 - gltjp.com 施設ディレクトリ",
+          "url": "https://www.gltjp.com/ja/directory/item/13706/"
+        },
+        {
+          "type": "other",
+          "title": "松本市美術館 個別レビュー（草間彌生展示に関する訪問記） - 4travel.jp",
+          "url": "https://4travel.jp/dm_shisetsu/10014134"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "確認できた数値評価（いこーよ2.6/5・口コミ2件、gltjp.com 3.58/5・口コミ1件）がいずれも原則6の採用ライン（主要レビュー4.0以上）に届かず、件数も極端に少なく信頼性が低い。独立2情報源で4.0以上を確認できないため、本セッションでは不採用とした。Googleマップ・TripAdvisor等の集計評価にアクセスできればスコアが変わる可能性があり、次回以降のWebSearch回数制約がない状態での再調査対象とする。"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "cycle_date": "2026-11-08",
+  "theme": "オールインクルーシブ",
+  "season_rationale": "対象は沖縄県豊見城市豊崎（豊崎美らSUNビーチエリア）。那覇空港から車で約15〜20分とアクセスが良く、県内最大級（全長約700m）の人工ビーチ『豊崎美らSUNビーチ』や沖縄アウトレットモールあしびなーに隣接する開発エリアである。2026-11-07付の糸満市調査（data/candidates/2026-11-07-all-inclusive-itoman.json）・2026-11-08付の八重瀬町調査（data/candidates/2026-11-08-all-inclusive-yaese.json）に続き、沖縄本島南部の未調査地域の空白を埋める目的で、隣接する豊見城市豊崎エリア単独での『オールインクルーシブ』調査を行った。",
+  "prior_posts_checked": [],
+  "duplication_note": "data/candidates全件（2026-09-14〜2026-11-07、1ヶ月以上前のファイルを含む）とcaptions全件を『豊見城』『豊崎』『とみぐすく』『とよさき』『Tomigusuku』『Toyosaki』『瀬長島』でgrepしたが、豊見城市・豊崎エリアを対象とした候補・キャプションは一件も存在せず、本サイクルでの調査・候補選定に重複は発生していない。",
+  "search_scope_limitation": "本サイクルはWebSearchのみで調査し、WebFetchは豊崎エリアの宿泊施設一覧ページ（yado.knt.co.jp等）がこのセッションのネットワーク許可外のドメインだったため使用できず、WebSearchのスニペット情報のみで判断した。豊崎エリア自体は海浜公園・アウトレットモール・住宅/マンション開発が中心で、宿泊施設の絶対数が少ない。豊崎に住所を持つ本格的なホテルは『ホテルグランビューガーデン沖縄』『沖縄空手ホテル アイオライト豊見城』の2軒のみ確認できたため、同一市内（豊崎から車で約10〜15分の瀬長島）の『琉球温泉瀬長島ホテル』も参考比較として調査対象に加えた（地理的には豊崎美らSUNビーチエリア単体ではない点をスコアに反映済み）。『グランコスモ ザ・リゾート沖縄豊崎』は分譲マンションであり短期宿泊（民泊）可否が確認できなかったため調査対象外とした。",
+  "candidates": [
+    {
+      "id": "2026-11-08-hotel-grand-view-garden-okinawa-ai",
+      "name": "ホテルグランビューガーデン沖縄",
+      "region": "沖縄県豊見城市字豊崎3-82",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル（人気ホテル・旅館ランキング掲載）",
+          "score": 3.93,
+          "scale": 5,
+          "review_count": 567,
+          "checked_date": "2026-11-08",
+          "url": "https://travel.rakuten.co.jp/HOTEL/75371/75371.html"
+        },
+        {
+          "source": "Hotels.com（日本語版）",
+          "score": 8.2,
+          "scale": 10,
+          "review_count": 3,
+          "checked_date": "2026-11-08",
+          "url": "https://jp.hotels.com/ho425409"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "近畿日本ツーリスト掲載の宿泊プランでは、大人1名あたり5,500円〜16,940円前後と表示されていた（プラン・時期により変動）。全食事・ドリンクを一括で含む『オールインクルーシブ』型プランの名称・料金は確認できなかった。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "豊崎美らSUNビーチ・沖縄アウトレットモールあしびなーいずれも徒歩9分という豊崎エリアの中核的立地にある3.5つ星ホテル。屋外プール（季節営業・4〜10月・宿泊者無料）、大浴場・サウナを備え、館内レストラン『琉旬彩食 土煌 豊崎店』では沖縄県産食材を使った和洋バイキング（12mのバイキングコーナー）を提供する。無料の空港シャトル・駐車場77台（無料・予約不要）も完備。一方、アルコールドリンクやアクティビティまで一括で料金に含む『オールインクルーシブ』型プランの存在は、公式情報・予約サイトのいずれでも確認できなかった。",
+      "target_audience": ["家族", "夫婦"],
+      "renewal_or_news": "確認できなかった。",
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 9,
+        "unique_experience_score": 5,
+        "photogenic": 6,
+        "value_for_price": 4,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 47,
+      "recommendation_reason": "豊崎美らSUNビーチ・アウトレットモールに近い立地と、屋外プール・大浴場・和洋バイキングという標準的な設備は確認できたが、『オールインクルーシブ』カテゴリの核となる食事・ドリンク一括プランが存在しない。楽天トラベル3.93/5（567件）は採用ライン4.0にわずかに届かず、総合スコアも47点で採用ライン75点に遠く及ばないため不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icotto掲載の口コミ（2025年6月投稿・評価3.5）では、客室Wi-Fiの速さ・屋外プール・大浴場・朝食の沖縄メニュー・広い駐車場が好意的に評価される一方、『露天風呂が屋外喫煙所の隣でタバコ臭い』『朝食をもう少し美味しくしてほしい』という指摘があった。cocolocala掲載の口コミ2件はいずれも5.0の高評価（空港からのアクセス、海・夕日の眺め、花粉のない環境での長期滞在）だった。重大な衛生・安全上の指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "ホテルグランビューガーデン沖縄 人気ホテル・旅館ランキング（3.93／567件） - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/75371/75371.html" },
+        { "type": "other", "title": "ホテルグランビューガーデン沖縄 施設情報・口コミ（8.2／10） - Hotels.com", "url": "https://jp.hotels.com/ho425409" },
+        { "type": "review_site", "title": "ホテルグランビューガーデン沖縄 口コミ（タバコ臭・朝食に関する指摘含む） - icotto", "url": "https://icotto.jp/hotels/3972" },
+        { "type": "review_site", "title": "ホテルグランビューガーデン沖縄 注目の口コミ（5.0評価2件） - ここロカラ", "url": "https://www.cocolocala.jp/hotels/26666" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "豊崎エリアで確認できた本格的なホテルの一つだが、『オールインクルーシブ』型プランが存在せず、楽天トラベル評価3.93/5も採用基準4.0にわずかに届かず、総合スコア47点が採用ライン75点に遠く及ばないため不採用。"
+    },
+    {
+      "id": "2026-11-08-okinawa-karate-hotel-iolite-tomigusuku-ai",
+      "name": "沖縄空手ホテル アイオライト豊見城",
+      "region": "沖縄県豊見城市（豊崎エリア近郊）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル（民宿・ペンション設備・アメニティ ランキング）",
+          "score": 5,
+          "scale": 5,
+          "review_count": 28,
+          "checked_date": "2026-11-08",
+          "url": "https://travel.rakuten.co.jp/ranking/pension/okinawa/nanbu_0006_0_4_0_0.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベル掲載では最安料金の目安3,126円〜（税込3,438円〜）。朝食・夕食ともに付かないプランが中心で、全食事・ドリンク込みの『オールインクルーシブ』型プランは確認できなかった。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全13室のアパートメント型ホテルで、スマートチェックイン（携帯電話で施錠）・全室禁煙・キッチン/洗濯機完備という長期滞在・自炊型の宿泊形態。空手をテーマにした名称だが、食事提供は基本的になく、SDGs推進のため4泊未満は清掃・アメニティ交換を行わない方針。全食事・ドリンクを一括で含む『オールインクルーシブ』型プランの存在は確認できなかった。",
+      "target_audience": ["友人", "一人旅"],
+      "renewal_or_news": "確認できなかった。",
+      "score_breakdown": {
+        "review_rating": 5,
+        "review_reliability": 3,
+        "unique_experience_score": 2,
+        "photogenic": 3,
+        "value_for_price": 3,
+        "sns_buzz": 1,
+        "access_and_freshness": 2
+      },
+      "score": 19,
+      "recommendation_reason": "設備・アメニティ項目のみ楽天トラベルで5.0（28件）という評価があるが、総合評価点ではなく項目別評価に過ぎない。自炊型・食事なしのアパートメントホテルであり、『オールインクルーシブ』という業態の対極にある施設形態のため不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミでは洗濯機・乾燥機があった点が評価されつつ、『シャワーのみで浴槽がない』『車は必須』という指摘があった。衛生・安全上の重大な指摘は確認されなかったが、全食事なし・自炊前提のため、カテゴリへの適合自体が成立しない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "沖縄空手ホテル アイオライト豊見城 プラン情報（食事なし・スマートチェックイン） - 楽天トラベル", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/192437" },
+        { "type": "booking_site", "title": "糸満・豊見城・南城 民宿・ペンション(設備・アメニティ)ランキング（設備5／28件） - 楽天トラベル", "url": "https://travel.rakuten.co.jp/ranking/pension/okinawa/nanbu_0006_0_4_0_0.html" },
+        { "type": "other", "title": "Okinawa Karate Hotel Iolite Tomigusuku 施設情報", "url": "https://livejapan.com/en/in-tokyo/in-pref-other/in-pref-okinawa/spot-lj0120333" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "自炊型・食事なしのアパートメントホテルで『オールインクルーシブ』の業態に該当せず、総合スコア19点も採用ライン75点に遠く及ばないため不採用。"
+    },
+    {
+      "id": "2026-11-08-ryukyu-onsen-senagajima-hotel-ai",
+      "name": "琉球温泉 瀬長島ホテル",
+      "region": "沖縄県豊見城市字瀬長（豊崎美らSUNビーチエリアからは車で約10〜15分、同一市内の別エリア）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Hotels.com（総合評価）",
+          "score": 9.0,
+          "scale": 10,
+          "review_count": 10,
+          "checked_date": "2026-11-08",
+          "url": "https://jp.hotels.com/ho560678/liu-qiu-wen-quan-lai-zhang-daohoteru-li-jian-cheng-ri-ben"
+        },
+        {
+          "source": "おんせん天国（nifty）龍神の湯レビュー",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 18,
+          "checked_date": "2026-11-08",
+          "url": "https://onsen.nifty.com/naha-onsen/onsen011116/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な1泊料金はこのセッションのWebSearchでは確認できなかった。楽天トラベルでは『立地5・口コミ1,237件』の掲載が確認できたが、総合評価点・料金額は取得できなかった。全食事・ドリンク込みの『オールインクルーシブ』型プランの名称・料金は確認できなかった。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "地下1,000mから湧く天然温泉『龍神の湯』と、那覇空港の離発着を眺められる露天風呂が特徴のスパリゾート。食事は沖縄県認定『おきなわ食材の店』のレストランで提供される。瀬長島ウミカジテラス等を運営するリゾーツ琉球が運営し、隣接地に客室127室・全長100mの屋上プールを備える別館（2027年3月完成目標）の計画も報じられている。レビュー評価は高いが、全食事・ドリンク・アクティビティを一括で含む『オールインクルーシブ』型プランの存在は確認できず、所在地も豊崎美らSUNビーチエリアとは異なる瀬長島（同一市内だが車で約10〜15分離れた別エリア）である。",
+      "target_audience": ["夫婦", "記念日", "温泉好き"],
+      "renewal_or_news": "隣接地に客室127室・屋上プール（全長100m）を備える別館の建設計画があり、2027年3月完成を目指していると報じられている。",
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 10,
+        "unique_experience_score": 10,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 2
+      },
+      "score": 64,
+      "recommendation_reason": "天然温泉『龍神の湯』・空港離発着を眺められる露天風呂という独自性が高く、Hotels.com 9.0/10・おんせん天国4.5/5（いずれも4.0以上相当）という評価も確認できたが、『オールインクルーシブ』型プランの存在は確認できず、かつ本サイクルの調査対象である豊崎美らSUNビーチエリアとは異なる瀬長島に所在するため地域適合性も低い。総合スコア64点は採用ライン75点に届かないため不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2022年7月投稿の60代利用者レビューでは、大浴場が常に混雑していたこと、客室の『昭和を感じさせる』雰囲気が好みに合わなかったこと、朝食の味・見た目への不満が挙げられていた（総合評価は部屋3・風呂4・朝食5・接客4）。一方、飛行機の離発着が見える露天風呂には高評価の声もあった。重大な衛生・安全上の指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "琉球温泉 瀬長島ホテル 総合評価9.0／10 - Hotels.com", "url": "https://jp.hotels.com/ho560678/liu-qiu-wen-quan-lai-zhang-daohoteru-li-jian-cheng-ri-ben" },
+        { "type": "review_site", "title": "琉球温泉 瀬長島ホテル 龍神の湯 口コミ・評価（4.5／18件） - おんせん天国(nifty)", "url": "https://onsen.nifty.com/naha-onsen/onsen011116/" },
+        { "type": "review_site", "title": "琉球温泉 瀬長島ホテル レビュー - Relux", "url": "https://rlx.jp/22634/review/" },
+        { "type": "other", "title": "瀬長島ホテル別館（客室127室・屋上プール100m）計画報道", "url": "https://ryukyushimpo.jp/tag/瀬長島ホテル" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "評価・独自性は高いが『オールインクルーシブ』型プランの存在が確認できず、所在地も本サイクルの対象エリア（豊崎美らSUNビーチエリア）とは異なる瀬長島であり、総合スコア64点も採用ライン75点に届かないため不採用。"
+    }
+  ],
+  "cycle_conclusion": "『オールインクルーシブ』カテゴリ・沖縄県豊見城市豊崎（豊崎美らSUNビーチエリア）を対象に3件（ホテルグランビューガーデン沖縄、沖縄空手ホテル アイオライト豊見城、〈参考比較〉琉球温泉 瀬長島ホテル）を調査した結果、いずれも不採用でselected候補なし。豊崎エリア自体は海浜公園・アウトレットモール・住宅開発が中心で、本格的な宿泊施設は『ホテルグランビューガーデン沖縄』が中心的存在だが、全食事・ドリンクを一括で含む『オールインクルーシブ』型プランは存在せず、楽天トラベル評価3.93/5も採用基準4.0にわずかに届かなかった（総合スコア47点）。『沖縄空手ホテル アイオライト豊見城』は自炊型・食事なしのアパートメントホテルで業態自体がカテゴリに適合しない（19点）。同一市内だが豊崎から離れた瀬長島の『琉球温泉 瀬長島ホテル』は評価・独自性ともに高いが（64点）、オールインクルーシブ型プランが確認できずエリアも対象外のため不採用とした。本カテゴリは沖縄本島南部（八重瀬町・糸満市・豊見城市豊崎）での3サイクル連続調査でいずれも『該当なし』となっており、本島南部は宿泊施設の絶対数・AIプラン提供の両面で該当施設が少ない地域である可能性が高い。標準運用ルールに基づき本サイクルをもって当該カテゴリの南部地域での再調査は一区切りとし、次回は別地域・別カテゴリでの調査が望ましい。selected候補が存在しないため、creator_story調査・captions/の新規作成は行わない。"
+}

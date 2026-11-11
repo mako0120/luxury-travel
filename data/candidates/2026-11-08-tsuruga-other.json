@@ -1,0 +1,169 @@
+{
+  "cycle_date": "2026-11-08",
+  "theme": "その他（福井県敦賀市：気比の松原・敦賀赤レンガ倉庫・敦賀港エリア）",
+  "season_rationale": "11月上旬の敦賀市は、夏の海水浴シーズンの混雑や真夏の暑さが落ち着き、気比の松原の遊歩道散策や敦賀港エリアの資料館・倉庫群見学が動きやすい気候になる時期にあたる。北陸新幹線が敦賀まで延伸開業したことで東京・北陸方面からのアクセスが向上しており（開業時期の詳細な日付は本セッションのWebSearchでは個別に再確認していない）、開業後の定着期として敦賀市エリアを紹介する意味があると判断した。紅葉シーズンでもあり、松林と日本海のコントラスト、敦賀港の歴史的建築群を紹介するタイミングとして適切と判断した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-28-niigata-city-other", "region": "新潟県新潟市中央区", "category": "その他" },
+    { "post_id": "2026-10-29-okayama-city-other", "region": "岡山県岡山市北区", "category": "その他" },
+    { "post_id": "2026-10-30-shizuoka-city-other", "region": "静岡県静岡市", "category": "その他" },
+    { "post_id": "2026-10-30-takamatsu-other-recheck", "region": "香川県高松市", "category": "その他" },
+    { "post_id": "2026-10-31-maebashi-other-recheck", "region": "群馬県前橋市", "category": "その他" },
+    { "post_id": "2026-10-31-utsunomiya-other", "region": "栃木県宇都宮市", "category": "その他" },
+    { "post_id": "2026-11-01-kitakyushu-other", "region": "福岡県北九州市", "category": "その他" },
+    { "post_id": "2026-11-01-saga-balloon-other", "region": "佐賀県佐賀市", "category": "その他" },
+    { "post_id": "2026-11-05-matsumoto-city-other", "region": "長野県松本市", "category": "その他" },
+    { "post_id": "2026-11-06-shimonoseki-karato-other", "region": "山口県下関市唐戸・カモンワーフ地区", "category": "その他" },
+    { "post_id": "2026-11-07-kure-other", "region": "広島県呉市", "category": "その他" }
+  ],
+  "duplication_note": "依頼により、data/candidates・captions配下の既存ファイル全件（2026-09-14〜、1ヶ月以上前のものを含む）を『敦賀』『tsuruga』『福井』『fukui』で検索して重複有無を確認した。『敦賀』という文字列自体は既存ファイルに一件もヒットしなかった。『tsuruga』でヒットした captions/2026-11-01-tsuruga-aonoza.json と captions/2026-10-24-akan-yukunosato-tsuruga.json は、いずれも北海道（支笏湖温泉・阿寒湖温泉）にある鶴雅グループ系列旅館の候補で、ローマ字表記『tsuruga』が『鶴雅』の読みと偶然一致しただけであり、福井県敦賀市とは無関係であることを本文確認して除外した。『福井』『fukui』でヒットした既存候補（2026-09-22-fukui-gourmet.jsonのあわら温泉3件、2026-10-23-mikuni-tojinbo-bunka-taiken.jsonの坂井市三国町・東尋坊2件）はいずれも敦賀市ではなく福井県内の別エリア（あわら市・坂井市三国町）の施設であり、気比の松原・敦賀赤レンガ倉庫・敦賀港エリアと重複しないことを確認した。したがって福井県敦賀市を対象とした候補・キャプションは過去に一度も作成されていないことを確認した。",
+  "research_notes": "本サイクルはWebSearchのみ（WebFetchは呼び出していない）で調査した。気比の松原・敦賀赤レンガ倉庫・人道の港敦賀ムゼウムの3件について、じゃらんnet・フォートラベル・Googleマップ（travel）・GLTJP・トリップアドバイザー等の検索結果スニペットから評価点・口コミ件数・営業時間・料金・歴史的経緯を確認した。本サイクル途中でこのセッションのWebSearch呼び出し回数上限に達したため、(1) 敦賀赤レンガ倉庫のGoogleマップ評価、(2) 人道の港敦賀ムゼウムの開館経緯・コンセプトについての追加の深掘り検索、の2件は実行できなかった。(2)については、selected候補のcreator_storyとして、現時点で検索スニペットから確認できた範囲（運営主体・リニューアル経緯・復元建物の内容）のみを記録し、個人の心情・発言については『確認できなかった』旨を明記した。公式サイト本文へのWebFetchができない環境のため、スニペット経由の確認である点は全候補の留意事項として記録する。",
+  "candidates": [
+    {
+      "id": "2026-11-08-kehi-no-matsubara",
+      "name": "気比の松原",
+      "region": "福井県敦賀市松島町・高野（気比の松原公園・気比の松原海水浴場一帯）／JR敦賀駅から敦賀市コミュニティバスで約12分、気比の松原下車徒歩約5分",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 3.9, "scale": 5, "review_count": 15, "checked_date": "2026-11-08", "url": "https://www.jalan.net/kankou/spt_guide000000196287/kuchikomi/" },
+        { "source": "Googleマップ（気比の松原/松原公園）", "score": 4.0, "scale": 5, "review_count": 970, "checked_date": "2026-11-08", "url": "https://www.google.co.jp/travel/hotels/entity/ChgIkvCLxZOx_7mSARoLL2cvMTIyeDJfMzYQBA" },
+        { "source": "フォートラベル", "score": 3.47, "scale": 5, "review_count": 84, "checked_date": "2026-11-08", "url": "https://4travel.jp/dm_shisetsu/10008150" }
+      ],
+      "price_range_jpy": {
+        "note": "入場無料の公園・海岸。夏季の海水浴シーズンは有料駐車場（約700台）が設置される。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "静岡県の三保松原、佐賀県の虹の松原と並ぶ『日本三大松原』の一つで、国の名勝に指定された約1.5km・約34万平方メートル（約40ヘクタール）の松林。赤松・黒松合わせて約1万7千本が茂り、白い砂浜と日本海のコントラストが美しい。元は氣比神宮の神苑であった松林を母体とし、現在は松原公園として整備されている。遊歩道は『日本の遊歩百選』に選ばれており、聖武天皇の時代に由来するという伝承の碑や、俳人・高浜虚子の句碑もある。夏は海水浴場として賑わい、冬は雪化粧した松林と荒波の対比も楽しめる。",
+      "renewal_or_news": "昭和3年（1928年）に史蹟名勝天然紀念物保存法に基づき国の名勝に指定されたことが林野庁の資料で確認できる。近年の大規模な改修・リニューアル情報は本セッションの検索では確認できなかった。",
+      "target_audience": ["カップル", "家族", "友人", "一人旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 12,
+        "unique_experience_score": 14,
+        "photogenic": 13,
+        "value_for_price": 9,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 78,
+      "recommendation_reason": "じゃらんnet（3.9・15件）、Googleマップ（4.0・970件）、フォートラベル（3.47・84件）という独立した3つの情報源のうち、口コミ件数が最も多いGoogleマップの評価が原則6の採用ライン（主要レビュー4.0以上・5点満点換算）を満たしている。日本三大松原の一つという知名度の高さと、国の名勝指定を受けた景観の確かさ、無料で楽しめる価格面の価値を評価し、100点満点中78点でselectedとした。一方でSNS話題性は松原単体としては高くなく、近年の目立ったニュース性も確認できなかったため、その点は留保点として記録する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミでは松林と白砂・日本海の景観を評価する声が多い一方、トンビが食べ物を狙ってくるという注意、釣り人が多く砂浜を歩きにくいとの指摘、海水浴シーズンの有料駐車場、松林内の一部に規制ロープがあり通行しにくい箇所があるとの報告があった。安全面・営業継続に関わる重大な指摘は本セッションの検索範囲では見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "気比の松原は特定の個人・企業が設計した施設ではなく、氣比神宮の神苑であった松林を母体として現在は松原公園として整備されている自然景勝地である。昭和3年（1928年）に史蹟名勝天然紀念物保存法に基づき国の名勝に指定されたことが林野庁の資料で確認できる。観光情報サイトでは、静岡県三保松原・佐賀県虹の松原と並ぶ『日本三大松原』の一つとして位置づけられ、遊歩道が『日本の遊歩百選』に選ばれていることも紹介されている。一方で、この松原を誰がどのような思いで保護・整備してきたのか（植林や管理に関わった個人・団体の具体的な意図、敦賀市や林野庁担当者の保護方針についての一次的な発言など）を直接語った資料には、本セッションのWebSearch（WebFetchは利用できず検索スニペットのみでの確認）では行き着けなかった。そのため、名勝指定という制度的経緯と観光情報サイトが紹介する由来・位置づけは確認できたものとして記録し、個人・団体の具体的な思いについては確認できなかったものとして扱い、推測や発言の創作は行わない。",
+        "sources": [
+          { "type": "official", "title": "気比の松原（名勝指定の経緯等）- 林野庁近畿中国森林管理局", "url": "https://www.rinya.maff.go.jp/kinki/fukui/information/pdf/m100_hokoku-3-1.pdf" },
+          { "type": "other", "title": "日本三大松原 気比の松原 概要・由来（氣比神宮の神苑）- 近畿日本ツーリスト（KNT）", "url": "https://www.knt.co.jp/meito/sp/japan-top3/matsubara/" }
+        ]
+      },
+      "sources": [
+        { "type": "official", "title": "気比の松原（名勝指定の経緯等）- 林野庁近畿中国森林管理局", "url": "https://www.rinya.maff.go.jp/kinki/fukui/information/pdf/m100_hokoku-3-1.pdf" },
+        { "type": "review_site", "title": "気比の松原 評価3.9・口コミ15件 - じゃらんnet", "url": "https://www.jalan.net/kankou/spt_guide000000196287/kuchikomi/" },
+        { "type": "other", "title": "気比の松原(松原公園) 評価4.0・口コミ970件 - Googleマップ", "url": "https://www.google.co.jp/travel/hotels/entity/ChgIkvCLxZOx_7mSARoLL2cvMTIyeDJfMzYQBA" },
+        { "type": "review_site", "title": "気比の松原 評価3.47・口コミ84件 - フォートラベル", "url": "https://4travel.jp/dm_shisetsu/10008150" },
+        { "type": "other", "title": "日本三大松原 気比の松原 概要・アクセス - 近畿日本ツーリスト（KNT）", "url": "https://www.knt.co.jp/meito/sp/japan-top3/matsubara/" },
+        { "type": "review_site", "title": "敦賀湾と松林が美しい！ - 気比の松原の口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g1021151-d1423794-r546701676-Kehi_no_Matsubara-Tsuruga_Fukui_Prefecture_Hokuriku_Chubu.html" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-11-08-tsuruga-museum",
+      "name": "人道の港敦賀ムゼウム",
+      "region": "福井県敦賀市金ケ崎町44-1（敦賀港金ケ崎緑地内、JR敦賀駅から車で約5分）",
+      "category": "その他",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.0, "scale": 5, "review_count": 79, "checked_date": "2026-11-08", "url": "https://www.jalan.net/kankou/spt_18202ae3292096115/kuchikomi/" },
+        { "source": "フォートラベル", "score": 3.36, "scale": 5, "review_count": 34, "checked_date": "2026-11-08", "url": "https://4travel.jp/dm_shisetsu/11325755" }
+      ],
+      "price_range_jpy": {
+        "note": "大人500円、小学生以下300円、4歳未満無料。障がい者手帳提示者とその介護者1名は無料。20名以上の団体は大人400円・小学生以下240円。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "1920年代にロシア革命の動乱でシベリアに取り残され家族を失ったポーランド孤児、1940年代に外交官・杉原千畝が発給した『命のビザ』で救われたユダヤ難民たちが、いずれも上陸した港『敦賀港』の人道的な歴史を伝える資料館。大正から昭和初期に実際に敦賀港にあった旧敦賀港駅舎や税関旅具検査所など4棟の建物を当時の位置に復元した建物内に、シアターやアニメーションを使ったわかりやすい展示がある。見学時間の目安は45分〜1時間程度。",
+      "renewal_or_news": "ポーランド孤児上陸100周年・杉原千畝による『命のビザ』発給80周年の節目である2020年に、展示内容を充実させてリニューアルオープンしたことが複数の観光情報サイトで確認できる。",
+      "target_audience": ["一人旅", "カップル", "夫婦", "家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 10,
+        "unique_experience_score": 19,
+        "photogenic": 10,
+        "value_for_price": 8,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 75,
+      "recommendation_reason": "じゃらんnet（4.0・79件）とフォートラベル（3.36・34件）という独立した2つの情報源のうち、じゃらんnetの評価が原則6の採用ライン（主要レビュー4.0以上・5点満点換算）をちょうど満たしている。ポーランド孤児・杉原千畝の『命のビザ』によるユダヤ難民救済という、日本国内でも特に重要な人道史を、大正〜昭和初期の実在建物を復元した館内で学べる独自性の高い展示内容である。入館料も大人500円と手頃で、2020年のリニューアルによる展示充実という新しさもある。ただし口コミ件数自体は多くなく、フォートラベルの個別投稿には2.5点などの低評価も見られ、その具体的な理由までは本セッションの検索では確認できなかったため、100点満点中75点というボーダーラインでのselectedとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "じゃらんnetでは満足29%・やや満足46%・普通23%という好意的な分布だった。一方フォートラベルの個別投稿には3.5点・2.5点といった評価もあり、2.5点の投稿が具体的に何を理由としているかは本セッションのWebSearch（WebFetchは利用できず検索スニペットのみ）では特定できなかった。館内撮影禁止という制約や、見学時間が45分〜1時間程度とコンパクトである点への言及はあるが、安全面・営業継続に関わる重大な指摘は見当たらなかった。件数が少なくWebFetchも利用できなかったため、確認は限定的であることを留意事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "人道の港敦賀ムゼウムは、敦賀市が運営する資料館で、1920年代のポーランド孤児上陸、1940年代の杉原千畝による『命のビザ』でのユダヤ難民上陸という、敦賀港の人道的な歴史を伝えることを目的に設置されている。観光情報サイトの紹介によれば、ポーランド孤児上陸100周年・命のビザ発給80周年という節目にあたる2020年に、展示内容をより充実させてリニューアルオープンし、大正から昭和初期に実際に敦賀港にあった旧敦賀港駅舎や税関旅具検査所など4棟の建物を当時の位置に復元したことが確認できる。シアターやアニメーションを使った展示は、来館者に分かりやすく歴史を伝える工夫として紹介されている。しかしながら、敦賀市の担当者や展示設計を担った個人・団体が、このリニューアルや復元建物の設置にあたって具体的にどのような個人的な思い・コンセプトを語ったか（公式サイトの館長・担当者メッセージ本文や設計者インタビュー等の一次資料）には、本セッションのWebSearch（WebFetchは利用できず検索スニペットのみでの確認。またこの深掘り検索の途中でWebSearch呼び出し回数上限に達した）では行き着けなかった。そのため、施設としてのリニューアル経緯・復元内容は上記の範囲で確認できたものとして記録し、関係者個人の心情・発言については確認できなかったものとして扱い、推測や発言の創作は行わない。",
+        "sources": [
+          { "type": "other", "title": "人道の港 敦賀ムゼウム リニューアル・復元建物紹介 - いこーよレポート", "url": "https://report.iko-yo.net/articles/18191" },
+          { "type": "other", "title": "人道の港 敦賀ムゼウム 施設紹介・営業時間・料金 - たびまぐ", "url": "https://tabi-mag.jp/hu0442/" },
+          { "type": "official", "title": "人道の港敦賀ムゼウム関連資料 - 福井県公式サイト（PDF）", "url": "https://www2.pref.fukui.lg.jp/press/atfiles/pa8b16944866684a.pdf" }
+        ]
+      },
+      "sources": [
+        { "type": "official", "title": "人道の港敦賀ムゼウム関連資料 - 福井県公式サイト（PDF）", "url": "https://www2.pref.fukui.lg.jp/press/atfiles/pa8b16944866684a.pdf" },
+        { "type": "review_site", "title": "人道の港敦賀ムゼウム 評価4.0・口コミ79件 - じゃらんnet", "url": "https://www.jalan.net/kankou/spt_18202ae3292096115/kuchikomi/" },
+        { "type": "review_site", "title": "人道の港敦賀ムゼウム 評価3.36・口コミ34件 - フォートラベル", "url": "https://4travel.jp/dm_shisetsu/11325755" },
+        { "type": "other", "title": "人道の港 敦賀ムゼウム リニューアル・復元建物紹介 - いこーよレポート", "url": "https://report.iko-yo.net/articles/18191" },
+        { "type": "other", "title": "人道の港 敦賀ムゼウム 施設紹介・営業時間・料金 - たびまぐ", "url": "https://tabi-mag.jp/hu0442/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-11-08-tsuruga-red-brick-warehouse",
+      "name": "敦賀赤レンガ倉庫",
+      "region": "福井県敦賀市金ケ崎町4-1（敦賀港金ケ崎緑地内、人道の港敦賀ムゼウムのすぐ近く、JR敦賀駅から車で約5分）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 3.8, "scale": 5, "review_count": 128, "checked_date": "2026-11-08", "url": "https://www.jalan.net/kankou/spt_18202ae2182096112/kuchikomi/" },
+        { "source": "フォートラベル", "score": 3.42, "scale": 5, "review_count": 77, "checked_date": "2026-11-08", "url": "https://4travel.jp/dm_shisetsu/10008147" }
+      ],
+      "price_range_jpy": {
+        "note": "入館料の数値は本セッションの検索では確認できなかった。北棟『ジオラマ館』は有料、南棟『レストラン館』は店舗ごとに個別料金とされているが、具体的な金額は未確認。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "明治38年（1905年）に石油貯蔵用の倉庫として建てられた北棟・南棟・レンガ塀が2009年に国の登録有形文化財に登録され、2015年に北棟『ジオラマ館』・南棟『レストラン館』としてリニューアルオープンした複合施設。ジオラマ館には日本最大級とされる『鉄道と港のジオラマ』があり、明治期の敦賀の街並みを再現している。レストラン館では飲食店・土産物店を利用できる。",
+      "renewal_or_news": "2015年に北棟・南棟を『ジオラマ館』『レストラン館』としてリニューアルオープンしたことが複数の観光情報サイトで確認できる。それ以降の大規模なリニューアル情報は本セッションの検索では確認できなかった。",
+      "target_audience": ["家族", "友人", "一人旅", "カップル"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 10,
+        "unique_experience_score": 12,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 62,
+      "recommendation_reason": "じゃらんnet（3.8・128件）、フォートラベル（3.42・77件）のいずれも原則6の採用ライン（主要レビュー4.0以上）に届いていない。明治期の赤レンガ建築という歴史的価値や、日本最大級とされる鉄道・港のジオラマという独自性はあるが、口コミでは『ジオラマ館の鉄道模型が少なく期待外れだった』という指摘が複数見られ、評価を押し下げる要因になっている。建物自体やレストラン利用への好意的な声もあるが、総合評価は本サイクルの採用基準に届かないため、100点満点中62点でrejectedとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "トリップアドバイザー・じゃらんnetの口コミでは、北棟『ジオラマ館』の鉄道模型が少なく、ただの風景ジオラマで期待外れだったという指摘が複数見られた。一方で、明治期の赤レンガ建築そのものやレストラン・土産物店の利用については好意的な声もある。安全面・営業継続に関わる重大な指摘は本セッションの検索範囲では見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "敦賀赤レンガ倉庫 評価3.8・口コミ128件 - じゃらんnet", "url": "https://www.jalan.net/kankou/spt_18202ae2182096112/kuchikomi/" },
+        { "type": "review_site", "title": "敦賀赤レンガ倉庫 評価3.42・口コミ77件 - フォートラベル", "url": "https://4travel.jp/dm_shisetsu/10008147" },
+        { "type": "other", "title": "敦賀赤レンガ倉庫 施設紹介・歴史（1905年建築・2009年登録有形文化財） - たびまぐ", "url": "https://tabi-mag.jp/hu0150/" },
+        { "type": "other", "title": "敦賀赤レンガ倉庫 - 日本博物館協会", "url": "https://www.museum.or.jp/museum/17613" },
+        { "type": "review_site", "title": "非常にガッカリの鉄道ジオラマ - 敦賀赤レンガ倉庫の口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g1021151-d8179473-r429070877-Tsuruga_Red_Brick_Warehouse-Tsuruga_Fukui_Prefecture_Hokuriku_Chubu.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイト（じゃらんnet3.8・フォートラベル3.42）のいずれも原則6の採用ライン（4.0以上、5点満点換算）に届いていない。GLTJPでは4.07という表示もあるが評価件数が2件のみで信頼性が低く、主要レビューとは扱えない。ジオラマ館の展示内容（鉄道模型の少なさ）への期待外れの声が複数あることも踏まえ、現時点では制作対象として選定しない。"
+    }
+  ]
+}

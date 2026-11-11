@@ -1,0 +1,222 @@
+{
+  "cycle_date": "2026-09-14",
+  "theme": "第5サイクル：グランピング（新スコープ＝リサーチ＋キャプションのみ、画像構成なし）",
+  "season_rationale": "秋は気候が安定して過ごしやすく、紅葉・焚き火・満点の星空などグランピング体験の映えが強まる時期（原則30）。前回サイクル（view-resort）で長野県のSORA GLAMPING RESORTを『レビュー評価の数値的裏付けなし』で見送っており、今回は数値評価が確認できる施設を重点的に探索した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-20-mizu-no-oto", "region": "神奈川県箱根町（小涌谷）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-cycl-yamanakako", "region": "山梨県山中湖村", "category": "サウナ" },
+    { "post_id": "2026-09-14-kinmedai-kokorone", "region": "静岡県伊東市（宇佐美温泉）", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "直近の投稿・キャプションは温泉旅館×2・サウナ×1・グルメ旅館×1（うち1件が静岡県伊東市）。地域・カテゴリともに重複しない栃木県佐野市のグランピングを選定した。なお候補として調査した『伊豆グランヴィレッジ グランピング』は静岡県伊東市で、既存キャプション（こころね）と同一地域のため原則29に基づき除外した。",
+  "known_difficulty_note": "前サイクル（data/candidates/2026-09-14-view-resort.json内 SORA GLAMPING RESORT）はレビュー評価の数値的根拠が一件も確認できず見送りとなった。今回はなっぷ（キャンプ場専門の口コミサイト）・楽天トラベル・Tripadvisorを横断的に確認し、数値評価の裏取りを重点的に行った。",
+  "other_candidates_considered": [
+    {
+      "name": "伊豆グランヴィレッジ グランピング",
+      "category": "グランピング",
+      "note": "静岡県伊東市。楽天トラベルの口コミは80件確認できたが、具体的な評価点数値をWeb検索・EGRESS_BLOCKEDによりファクトチェックしきれなかった。加えて既存キャプション『金目鯛の宿こころね』と同一地域（伊東市）のため、評価点が確認できたとしても原則29の重複回避に抵触する。今サイクルでは除外。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-09-14-lanature-glamping",
+      "name": "ラ・ナチュール",
+      "region": "栃木県佐野市",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル",
+          "score": 4.67,
+          "scale": 5,
+          "review_count": 31,
+          "checked_date": "2026-09-14",
+          "url": "https://travel.rakuten.co.jp/HOTEL/188076/review.html"
+        },
+        {
+          "source": "なっぷ（キャンプ場専門口コミサイト）",
+          "score": 4.41,
+          "scale": 5,
+          "review_count": 162,
+          "checked_date": "2026-09-14",
+          "url": "https://www.nap-camp.com/mag/5436"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベル最安表示で11,470円〜（1名あたりか1棟あたりか、条件付きプランかは要確認）。検索タイミングにより楽天トラベルの評価点表示に4.60〜4.74・件数26〜31件のわずかな幅が確認されたため、本記録では中間的な4.67／31件を採用した。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全10棟のドームテント全室に、光明石の人工温泉とシルキーバス2種の壁付き露天風呂を完備するプライベートグランピング施設。管理棟には宿泊者全員が利用できるドリンク・ソフトクリームバーがあり、夕食は栃木県産食材を使ったBBQ。都心から車で約90分というアクセスの良さと、『客室ごとに温泉付き露天風呂』という他の高規格グランピングでも珍しい設備が最大の差別化要素。",
+      "renewal_or_news": "楽天トラベル・なっぷともに直近の口コミが継続的に投稿されており営業中であることを確認。大規模リニューアル情報は確認できなかったが、栃木県信用保証協会の紹介記事（見出しのみ確認、EGRESS_BLOCKEDのため本文未確認）でも運営会社（有限会社ホテル三吉野別館）の存在が確認できた。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 11,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 77,
+      "recommendation_reason": "楽天トラベル4.67（31件）・なっぷ4.41（162件）という、性質の異なる2つの独立した情報源で4.0を上回る評価が確認できた点が最大の強み。全室に露天風呂付きという明確なビジュアルフックがあり、都心から車で約90分というアクセスの良さも秋の週末旅行の受け皿になる。本セッションのWeb検索範囲では、清潔感・接客・設備等に関する具体的な低評価コメントは見つからなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベル・なっぷ・その他予約系サイトのWeb検索スニペットの範囲では、『ラ・ナチュール』特有の重大な低評価コメント（清潔感・接客・老朽化・予約トラブル等）は確認できなかった。ただしTripadvisor・Googleマップの個別レビュー本文は、当セッションのネットワーク制限（travel.rakuten.co.jp等はEGRESS_BLOCKED、tripadvisor.jp・nap-camp.com等もWebFetchがEGRESS_BLOCKED）によりWebSearchのスニペット経由の確認にとどまり、低評価レビューが実際にゼロと断定はできない点は留意事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "ラ・ナチュール に実際に泊まった方のクチコミ・レビュー【楽天トラベル】",
+          "url": "https://travel.rakuten.co.jp/HOTEL/188076/review.html"
+        },
+        {
+          "type": "review_site",
+          "title": "佐野のグランピングおすすめ2選！定番人気からカップル・子連れ向けまで紹介 | なっぷ",
+          "url": "https://www.nap-camp.com/mag/5436"
+        },
+        {
+          "type": "booking_site",
+          "title": "ラ・ナチュールの宿泊予約 | 休日グランピング部",
+          "url": "https://kyuzitsu-glampingbu.com/hotel/glamp620/"
+        },
+        {
+          "type": "other",
+          "title": "ラ・ナチュール【栃木】 - グランピング予約ならリゾグラ",
+          "url": "https://www.resort-glamping.com/accommodation/lanature/"
+        }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-14-hanasansui-glamping",
+      "name": "旅館＆グランピングリゾート 花山水（HANASANSUI）",
+      "region": "千葉県夷隅郡大多喜町（奥養老渓谷）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル",
+          "score": 4.36,
+          "scale": 5,
+          "review_count": 1133,
+          "checked_date": "2026-09-14",
+          "url": "https://travel.rakuten.co.jp/HOTEL/79303/review.html"
+        },
+        {
+          "source": "Tripadvisor",
+          "score": 3.2,
+          "scale": 5,
+          "review_count": 35,
+          "checked_date": "2026-09-14",
+          "url": "https://www.tripadvisor.jp/ShowUserReviews-g1121125-d1484409-r776006396-Hanasansui-Otaki_machi_Isumi_gun_Chiba_Prefecture_Kanto.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらん表示で2名税込31,800円〜（グランピングプランの1名あたり単価等は要確認）。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "奥養老渓谷の自然公園内、鹿の鳴き声が響く渓流沿いに直径6mのスイートベルテントを構える旅館併設型グランピング。夕食は本格ガスグリルによるアメリカンBBQで満点の星空が魅力。楽天トラベルアワード2025でゴールドアワード（2024年はシルバーアワード）を受賞し、関東グランピング人気宿ランキングで千葉県1位の実績を持つ。",
+      "renewal_or_news": "2025年のアワード受賞（ゴールドアワード）が最新の実績として確認できた。",
+      "target_audience": ["カップル", "家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 12,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 83,
+      "recommendation_reason": "楽天トラベル4.36（1133件）という圧倒的な母数と、楽天トラベルアワード連続受賞（ゴールド2025／シルバー2024）・関東グランピング人気宿千葉県1位という第三者評価は非常に強い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisor（3.2／35件、大多喜町のB&B/イン7軒中6位）で『貸切風呂の清掃が行き届いていない』『バリアフリー未対応で足元が悪い箇所がある』『食事が通年同じ内容』といった複数の指摘が確認された。さらに同施設のグランピングテントについて『カビだらけでクッションもカビていた』という具体的な口コミ（2020年10月投稿、なっぷ関連の紹介記事内の言及とも内容が重なる）が見つかり、清潔感に関する問題が独立した複数情報源（Tripadvisor本体および同施設を紹介する第三者記事）で確認された。Tripadvisorの評価が本館・離れを含む施設全体を指している可能性があり、現行のグランピング単体の評価と完全に同一とは断定できないものの、原則10（清潔感等の重大な問題が複数確認された場合は除外）に照らしてリスクを重く見た。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "旅館＆グランピングリゾート 花山水 に実際に泊まった方のクチコミ・レビュー【楽天トラベル】",
+          "url": "https://travel.rakuten.co.jp/HOTEL/79303/review.html"
+        },
+        {
+          "type": "review_site",
+          "title": "カビだらけのテントでグランピング - 花山水の口コミ - トリップアドバイザー",
+          "url": "https://www.tripadvisor.jp/ShowUserReviews-g1121125-d1484409-r776006396-Hanasansui-Otaki_machi_Isumi_gun_Chiba_Prefecture_Kanto.html"
+        },
+        {
+          "type": "review_site",
+          "title": "もう少し行き届いてほしい - 花山水の口コミ - トリップアドバイザー",
+          "url": "https://www.tripadvisor.jp/ShowUserReviews-g1121125-d1484409-r707522542-Hanasansui-Otaki_machi_Isumi_gun_Chiba_Prefecture_Kanto.html"
+        },
+        {
+          "type": "review_site",
+          "title": "奥養老渓谷グランピングリゾート花山水-Hanasansui-の口コミ・予約（千葉県夷隅郡大多喜町） ｜ なっぷ",
+          "url": "https://www.nap-camp.com/chiba/13945"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "スコア・口コミ母数の面では基準を満たすが、原則10のマイナス口コミ分析で清潔感・バリアフリー対応に関する具体的な問題が複数の独立情報源から確認されたため、今サイクルでは除外した。次サイクル以降、直近1年以内の低評価レビューの有無を再確認できれば再評価する。"
+    },
+    {
+      "id": "2026-09-14-granp-glamping",
+      "name": "GRANP GLAMPING RESORT（グランパ グランピング リゾート）",
+      "region": "三重県志摩市",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 62,
+          "checked_date": "2026-09-14",
+          "url": "https://travel.rakuten.co.jp/HOTEL/167880/review.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベル掲載プラン複数あり。具体的な最安価格は本セッションでは確認しきれなかった。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "伊勢志摩エリアに位置するグランピングリゾート。ホテル並みの接客対応と食事の質・量が高評価。BBQ体験や多様な宿泊タイプを提供。",
+      "renewal_or_news": "確認できず。",
+      "target_audience": ["カップル", "友人", "家族"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 8,
+        "unique_experience_score": 12,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 58,
+      "recommendation_reason": "楽天トラベル4.0（62件）で最低ラインぎりぎりを満たすが、口コミ件数・独自性の裏付けともにラ・ナチュール／花山水と比較して弱く、今サイクルの採用候補としては見送った。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "時間・検索budgetの制約により低評価レビューの個別本文までは確認できていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "ＧＲＡＮＰ ＧＬＡＭＰＩＮＧ ＲＥＳＯＲＴ に実際に泊まった方のクチコミ・レビュー【楽天トラベル】",
+          "url": "https://travel.rakuten.co.jp/HOTEL/167880/review.html"
+        },
+        {
+          "type": "other",
+          "title": "GRANP GLAMPING RESORTの宿泊予約 | 休日グランピング部",
+          "url": "https://kyuzitsu-glampingbu.com/hotel/glamp61/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "review_scoresが4.0ちょうどで件数も62件とやや少なく、他候補（ラ・ナチュール）に対して数値的裏付け・独自性で劣ると判断し見送った。"
+    }
+  ]
+}

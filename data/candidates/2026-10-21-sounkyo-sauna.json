@@ -1,0 +1,186 @@
+{
+  "cycle_date": "2026-10-21",
+  "theme": "サウナ（北海道層雲峡温泉）",
+  "season_rationale": "10月下旬の層雲峡は紅葉が終盤を迎え、朝晩は初雪・初氷点下も観測され始める時期。大雪山系の冷え込んだ外気の中で、サウナで発汗した後に柱状節理の渓谷を望む露天風呂・外気浴スペースでクールダウンする体験が一年で最も気持ちよいタイミングに入る（原則30: 秋は紅葉・温泉、冬の手前の『寒暖差でととのう』季節性）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-20-izu-ochiairo-sauna", "region": "静岡県伊豆市湯ケ島（天城湯ヶ島）", "category": "サウナ" },
+    { "post_id": "2026-10-19-jozankei-sauna / yunohana-jozankeiden", "region": "北海道札幌市南区定山渓温泉", "category": "サウナ" },
+    { "post_id": "2026-10-18-isawa-onsen-sauna / qua-hotel-isawa-kenkoland", "region": "山梨県笛吹市石和町（石和温泉）", "category": "サウナ" },
+    { "post_id": "2026-10-20-sado-oki-resort", "region": "新潟県佐渡市／島根県隠岐", "category": "離島リゾート" },
+    { "post_id": "2026-09-22-tokachi-sauna", "region": "北海道十勝地方", "category": "サウナ（1ヶ月以上前）" },
+    { "post_id": "2026-09-18-karuizawa-sauna / gunma-sauna", "region": "長野県軽井沢／群馬県", "category": "サウナ（1ヶ月以上前）" },
+    { "post_id": "2026-09-14-sauna", "region": "未確定（初回サイクル）", "category": "サウナ（1ヶ月以上前）" }
+  ],
+  "duplication_note": "data/candidates・captions配下の全履歴（2026-09-14〜2026-10-20、直近数日だけでなく1ヶ月以上前の2026-09-14/09-18/09-22サイクルも含む）を検索した結果、『層雲峡』『Sounkyo』を地域・施設名に含む候補・投稿は過去に存在しないことを確認した。直近3日（石和温泉10/18・定山渓10/19・伊豆10/20）とは県・エリアが異なり重複しない。北海道のサウナ候補としては2026-09-22十勝地方（tokachi-sauna）、北海道全般では2026-09-18北海道オールインクルーシブ（all-inclusive-hokkaido）・2026-09-22北海道グランピング（hokkaido-glamping）・2026-10-18ルスツ（all-inclusive-rusutsu）・2026-10-19定山渓（jozankei-sauna/yunohana-jozankeiden）があるが、いずれも層雲峡とは異なる市町村・温泉地であり、十勝サウナからは1ヶ月以上経過している。サウナカテゴリが2026-10-17〜10-20に連続選定されている点は運用原則29（カテゴリ連続回避）の観点では留意点だが、本サイクルはユーザー指定によるテーマ・地域指定（北海道層雲峡温泉／サウナ）での実行であり、地域は定山渓・十勝とは明確に異なる独立した温泉地のため、同一地域・同一施設の重複ではないと判断した。",
+  "candidates": [
+    {
+      "id": "2026-10-21-sounkyo-hotel-taisetsu-sauna",
+      "name": "ホテル大雪 ONSEN&CANYON RESORT",
+      "region": "北海道上川郡上川町 層雲峡温泉",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらん クチコミ",
+          "score": 4.3,
+          "scale": 5,
+          "review_count": 203,
+          "checked_date": "2026-10-21",
+          "url": "https://www.jalan.net/yad308034/"
+        },
+        {
+          "source": "楽天トラベル お客さまの声",
+          "score": 4.38,
+          "scale": 5,
+          "review_count": 1476,
+          "checked_date": "2026-10-21",
+          "url": "https://travel.rakuten.co.jp/onsen/hokkaido/OK00026.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "一泊二食（ビュッフェ）プランで1名17,100円〜（2名合計34,200円〜）、個室会食プランで1名31,200円〜、露天風呂付客室『雪花』プランで1名30,100円〜という掲載情報をWeb検索で確認した（税込・サービス料込）。入湯税（大人250円）に加え、2026年4月からは北海道条例の宿泊税（1泊100〜500円、宿泊料金により3段階）が別途かかる。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "層雲峡温泉街の中で最も高台に位置するリゾートホテルで、リニューアルしたばかりの展望大浴場からは柱状節理の断崖と大雪山系を一望できる。サウナはセルフロウリュ可能で、水風呂・外気浴スペースも併設。館内には大浴場3つ・露天風呂2つがあり、湯めぐりラリー形式で巡れる。日によっては野生の鹿を眺めながら入浴できるという口コミもあり、『大雪山の渓谷とサウナ』という組み合わせは層雲峡エリアの他施設にはない立地の独自性がある。",
+      "renewal_or_news": "サウナ・水風呂・外気浴スペースを備えた展望大浴場がリニューアルしたばかりであることを、訪問記事（旅行メディア）と宿泊プラン情報の両方で確認した。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 81,
+      "recommendation_reason": "じゃらん4.3点（203件）・楽天トラベル4.38点（1,476件）という、件数の多い2つの独立した情報源でいずれも採用ライン（4.0以上、推奨4.2以上）を上回る評価が一致しており、信頼度が高い（原則6・7）。層雲峡温泉街で最も高台という立地から大雪山系・柱状節理の渓谷を望む展望大浴場がリニューアルされたばかりで、セルフロウリュのサウナ・水風呂・外気浴まで揃っており、『渓谷を望むサウナ』という今だからこそ推せる独自性と情報の新しさがある。紅葉終盤から初冠雪に向かう10月下旬の季節感にも合致する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "和室の畳がデコボコしていたという指摘、朝食会場（ビュッフェ）が混雑しやすく案内を増やしてほしいという意見、別の口コミサイトでは客室評価・コストパフォーマンス評価が他項目より低め（3.0）という声があった。隣室の物音についての投稿もあったが、フロントが速やかに部屋を移動させて対応した旨が記載されており、対応自体は好意的に評価されている。清潔感・接客・料理・予約トラブル等、除外基準に該当する重大な問題は確認されなかった（原則10）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "ホテル大雪 ONSEN&CANYON RESORT - じゃらん", "url": "https://www.jalan.net/yad308034/" },
+        { "type": "booking_site", "title": "層雲峡温泉 お客さまの声一覧 - 楽天トラベル", "url": "https://travel.rakuten.co.jp/onsen/hokkaido/OK00026.html" },
+        { "type": "press", "title": "層雲峡の大自然と温泉に癒される「ホテル大雪 ONSEN&CANYON RESORT」", "url": "https://www.nta.co.jp/media/tripa/articles/rvHwW" },
+        { "type": "review_site", "title": "ホテル大雪 ONSEN & CANYON RESORT 温泉情報・口コミ - nifty温泉", "url": "https://onsen.nifty.com/asahikawa-onsen/onsen000167/" },
+        { "type": "review_site", "title": "ホテル大雪 クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-10040949" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-21-sounkyo-choyo-resort-sauna",
+      "name": "層雲峡温泉 朝陽リゾートホテル",
+      "region": "北海道上川郡上川町 層雲峡温泉",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "skyticket 宿泊口コミまとめ",
+          "score": 4.1,
+          "scale": 5,
+          "review_count": 1573,
+          "checked_date": "2026-10-21",
+          "url": "https://skyticket.jp/hotel/detail/property_11387/"
+        },
+        {
+          "source": "Gutabi クチコミ",
+          "score": 3.94,
+          "scale": 5,
+          "review_count": 306,
+          "checked_date": "2026-10-21",
+          "url": "https://www.gutabi.jp/hotel/base/285"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "一泊二食で1名11,500円〜という掲載情報（楽天トラベル経由）をWeb検索で確認した。日帰り入浴は大人1,200円・営業時間13時〜19時。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "大浴場『鳥の声』『川の囁き』の両方にセルフロウリュ付きサウナがあり、水風呂（2人用、約10度台）・大雪山を望む外気浴スペースも備える。岩盤浴も利用可能。サ活サイトの投稿ではロウリュの蒸気・水風呂の冷たさは好評だが、サウナ室温度計の位置により体感がやや低めという声もあった。",
+      "renewal_or_news": "Web検索の範囲では、直近のサウナ関連リニューアル情報は確認できなかった。",
+      "target_audience": ["家族", "友人", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 9,
+        "unique_experience_score": 11,
+        "photogenic": 8,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 58,
+      "recommendation_reason": "skyticket4.1点（1,573件）は採用ラインを満たすが、icotto3.5点・フォートラベル3.5点（2024年5月投稿、バイキングに『やや残念』という意見あり）など他サイトでは4.0未満の評価も複数確認され、サイト間で評価が一致しない。サウナ自体は大浴場2つに共通する標準的な設備という位置づけで、今回のテーマで求める『ここでしかできない体験』の独自性が弱いと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミ（2024年5月投稿）でバイキングが『やや残念』という意見があった一方、大浴場の眺望は高く評価されていた。サ活サイトではサウナ室の温度が低めに感じるという投稿も複数あった。清潔感・接客・予約トラブル等の重大な除外要因は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "層雲峡温泉 朝陽リゾートホテル - skyticket", "url": "https://skyticket.jp/hotel/detail/property_11387/" },
+        { "type": "review_site", "title": "層雲峡温泉 朝陽リゾートホテル クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-10040953" },
+        { "type": "other", "title": "朝陽リゾートホテル サ活投稿 - サウナイキタイ", "url": "https://sauna-ikitai.com/saunas/64/posts" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "skyticketは4.0以上だが、icotto・フォートラベル等の他の独立情報源では3.5前後と評価が一致せず信頼度が下がる。サウナも大浴場の標準設備という位置づけで独自性に乏しく、score_breakdown合計58点と75点ラインに届かないため見送った。"
+    },
+    {
+      "id": "2026-10-21-sounkyo-kanko-hotel-sauna",
+      "name": "層雲峡観光ホテル",
+      "region": "北海道上川郡上川町 層雲峡温泉",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル お客さまの声",
+          "score": 3.63,
+          "scale": 5,
+          "review_count": 949,
+          "checked_date": "2026-10-21",
+          "url": "https://travel.rakuten.co.jp/onsen/hokkaido/OK00026.html"
+        },
+        {
+          "source": "skyticket 宿泊口コミまとめ",
+          "score": 3.4,
+          "scale": 5,
+          "review_count": 1236,
+          "checked_date": "2026-10-21",
+          "url": "https://skyticket.jp/hotel/japan/onsen/sounkyo_onsen/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "最安料金4,546円〜（税込5,000円〜）という掲載情報（楽天トラベル）をWeb検索で確認した。日帰り入浴は大人600円。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "湯着を着用して利用する家族・カップル向けの混浴大露天風呂が売りの宿。サウナは大浴場『月の雫』の男湯のみに1つあり、電気対流式の昭和レトロ系でロウリュはできないとのサ活サイトの投稿がある。混浴露天風呂自体は個性的だが、サウナ単体としての独自性・最新性は乏しい。",
+      "renewal_or_news": "Web検索の範囲では、直近のリニューアル情報は確認できなかった。",
+      "target_audience": ["家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 8,
+        "unique_experience_score": 10,
+        "photogenic": 9,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 2
+      },
+      "score": 53,
+      "recommendation_reason": "混浴の大露天風呂という個性はあるが、サウナ自体は男湯のみの標準的な電気式でロウリュ不可、今回のテーマ（サウナ）の核心的な独自性には乏しい。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベル3.63点（949件）・skyticket3.4点（1,236件）と、いずれも採用ライン4.0に届いていない。サ活サイトではサウナ温度は90〜100℃程度と推測されるがロウリュ不可との指摘があった。清潔感・接客等の重大な除外事項は確認されなかったが、評価自体が低いため除外基準（主要レビュー4.0未満）に該当する。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "booking_site", "title": "層雲峡温泉 お客さまの声一覧 - 楽天トラベル", "url": "https://travel.rakuten.co.jp/onsen/hokkaido/OK00026.html" },
+        { "type": "booking_site", "title": "層雲峡温泉 ホテル一覧 - skyticket", "url": "https://skyticket.jp/hotel/japan/onsen/sounkyo_onsen/" },
+        { "type": "other", "title": "層雲峡観光ホテル サウナ情報 - サウナイキタイ", "url": "https://sauna-ikitai.com/saunas/65" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイト評価が楽天トラベル3.63・skyticket3.4といずれも採用ライン4.0未満のため、原則6（主要レビュー4.0未満は原則不採用）に該当し見送った。サウナも男湯のみの標準設備で独自性に乏しい。"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "cycle_date": "2026-11-10",
+  "theme": "サウナ（大分県別府市・別府温泉エリア）",
+  "season_rationale": "11月中旬は朝晩の冷え込みが強まり、発汗後の外気浴・湯けむりの中で『ととのう』体感が際立つ季節。直近のサウナカテゴリは2026-11-09群馬・松本白骨温泉と続いており、依頼時点で地域を九州・大分県別府温泉へ切り替える意図だった。",
+  "prior_posts_checked": [
+    { "post_id": "2026-11-09-matsumoto-shirahone-sauna", "region": "長野県松本市（白骨温泉）", "category": "サウナ" },
+    { "post_id": "2026-11-09-gero-onsen-sauna", "region": "岐阜県下呂市（下呂温泉）", "category": "サウナ" },
+    { "post_id": "2026-10-23-beppu-sauna", "region": "大分県別府市（別府温泉）", "category": "サウナ" },
+    { "post_id": "2026-10-20-bettei-haruki-beppu", "region": "大分県別府市（別府温泉・春木川沿い）", "category": "温泉旅館" },
+    { "post_id": "2026-09-18-sansou-murata-yufuin / 2026-09-18-yufuin-no-mori", "region": "大分県由布市由布院温泉・大分県別府市（経由）", "category": "温泉旅館・列車船" }
+  ],
+  "duplication_note": "重複確認はdata/candidates・captions配下の全ファイルを横断的に確認した。大分県別府市は過去に複数回取り上げられている地域である。(1) data/candidates/2026-10-23-beppu-sauna.json で『サウナ』カテゴリとして別府鉄輪温泉やまなみの湯・ひょうたん温泉（鉄輪むし湯）・地獄蒸しSAUNA伴の3件を既に調査済み（いずれもrejected）。本サイクルではこの3件を重複調査せず、新たな切り口（客室ごとに個室プライベートサウナを備える宿泊施設、サウナが付帯設備扱いのシティホテル、泥湯で知られる保養施設の蒸し湯）から別の候補を調査した。(2) 2026-10-20サイクルで『別邸はる樹』（温泉旅館カテゴリ）・ANAインターコンチネンタル別府・杉乃井ホテル（絶景ホテルカテゴリで検討、サウナとしては付帯設備のため不採用）が既に調査済みのため除外。(3) 2026-09-18サイクルで由布院温泉（山荘無量塔・由布院の森）を取り上げ済みのため、由布院ではなく別府市内に絞って調査した。本サイクルで新たに調査した3件（ととのいの宿 春燈庵・ホテルアーサー・別府温泉保養ランド）は上記いずれとも重複しない。",
+  "candidates": [
+    {
+      "id": "2026-11-10-totonoi-shuntouan-beppu",
+      "name": "ととのいの宿 春燈庵",
+      "region": "大分県別府市扇山25組（別府ICより車で約2分、別府駅から車・タクシーで約13〜15分）",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "じゃらんnet（宿泊者クチコミ総合評価。部屋・接客・清潔感・風呂の各項目でも高評価が確認できた）",
+          "score": 4.8,
+          "scale": 5,
+          "review_count": 180,
+          "checked_date": "2026-11-10",
+          "url": "https://www.jalan.net/yad348896/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションでは具体的な1泊あたりの料金数値を確定できなかった。泊食分離スタイル（食事は付かず、地元店舗を案内）で、入湯税250円/人・泊が別途必要という表示を楽天トラベルの検索結果で確認した。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全14室すべてが離れ建築の宿で、各室に100%源泉かけ流しの天然温泉風呂と、鶴見岳由来とされる『別府石』のサウナストーンを使った対流式プライベートサウナ、地下から汲み上げた16.5℃の天然水を掛け流す水風呂が個別に備わっている。室内でセルフロウリュも可能。布団敷きなどで係員が客室を訪れることも基本的にないため、サウナ・温泉・水風呂を誰にも気兼ねなく一人または二人だけで楽しめる、客室単位でサウナ体験そのものを設計した構成が特徴。2022年12月開業。",
+      "target_audience": ["カップル", "夫婦", "記念日", "一人旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 6,
+        "unique_experience_score": 18,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 70,
+      "recommendation_reason": "客室14室すべてに個別のプライベートサウナ・源泉かけ流し温泉・天然水水風呂を備えるという構成は、ホテル付帯設備としてのサウナではなく『部屋ごとにサウナ体験そのものを目的化した』別府では珍しい設計で独自性が高い。じゃらんnetの宿泊者クチコミは4.8（180件）と非常に高い。aumo等の旅行メディア記事でも別府のサウナスポットとして好意的に紹介されている。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "じゃらんの個別クチコミ本文は部屋・接客・清潔感・風呂いずれも高評価が中心で、重大な指摘は本セッションの検索範囲では確認できなかった。一方、別の口コミまとめサイトの投稿（施設名が本施設のものと確定できなかったため参考情報扱い）に『周囲の道幅が狭い』『駐車場からエントランスまで急な階段がある』という立地・構造上の指摘が見られ、足腰に不安がある利用者には注意が必要な可能性がある。なお、源泉は無色無臭の単純泉系であるため『温泉らしい色・匂い』を期待する層には好みが分かれるという指摘が（施設未確定の口コミながら）あった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "ととのいの宿 春燈庵 施設詳細・クチコミ総合4.8（180件） - じゃらんnet", "url": "https://www.jalan.net/yad348896/" },
+        { "type": "booking_site", "title": "ととのいの宿 春燈庵 客室詳細（全室離れ・プライベートサウナ・水風呂） - じゃらんnet", "url": "https://www.jalan.net/yad348896/room/" },
+        { "type": "booking_site", "title": "ととのいの宿 春燈庵 施設情報・プラン - 楽天トラベル", "url": "https://hotel.travel.rakuten.co.jp/hinfo/184774/" },
+        { "type": "press", "title": "別府のサウナが楽しめる宿として『ととのいの宿 春燈庵』を紹介する記事 - aumo", "url": "https://aumo.jp/articles/4115942" }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "客室単位でのプライベートサウナという独自性・じゃらんでの高評価（4.8・180件）は明確だが、本セッションのWebSearchでは楽天トラベル・Booking.com・一休.com・Googleマップ等の第2の独立した数値口コミ評価を確認できず、原則7（独立2情報源での評価確認）を完全には満たせなかった。また具体的な宿泊料金、運営者・設計者の開業経緯やサウナ作りへの思い（creator_story相当の情報）も本セッションでは確認できなかった。score自体も70点で75点の制作ライン未満のため、今サイクルではshortlistedとし、第2の口コミ源・料金・開業経緯が確認できた段階で再評価する。"
+    },
+    {
+      "id": "2026-11-10-hotel-arthur-beppu",
+      "name": "ホテルアーサー（北浜エリア）",
+      "region": "大分県別府市北浜（別府駅近く）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "4travel（フォートラベル）個別クチコミ（リニューアル後の評価投稿。サウナについては『サウナもありました』という短い言及のみ）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-11-10",
+          "url": "https://4travel.jp/dm_hotel_tips/10863313"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションでは具体的な1泊あたりの料金数値を確定できなかった。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "別府駅から近いシティホテルで、3階に天然温泉の浴場があり、男性用は岩風呂で屋外に出られる造りと紹介されている。サウナも併設されているが、口コミ上の言及は『サウナもありました』という一文程度で、温泉・立地・コストパフォーマンスの良さが主な評価ポイントであり、サウナ自体を目的化した設計ではない。",
+      "target_audience": ["一人旅", "友人", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 3,
+        "unique_experience_score": 5,
+        "photogenic": 4,
+        "value_for_price": 6,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 32,
+      "recommendation_reason": "駅近・コストパフォーマンスへの評価はあるが、サウナはシティホテルの付帯浴場設備の一つに過ぎず、本サイクルのテーマ『サウナ』が求める体験の独自性には乏しい。総合評価（jcation上で4.4・108件という表示も検索で見られたが、該当ページが本施設のものか確証が得られなかった）についても本セッションでは確定的な数値を特定できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できた口コミは立地・清潔さ・温泉への好意的な評価が中心で、サウナ自体への批判的言及は見当たらなかった。ただしサウナ単体のクチコミ母数が極めて少なく（本セッションで確認できたのは言及1件のみ）、評価の信頼性自体が低い。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "review_site", "title": "ホテルアーサー 宿泊クチコミ（リニューアル後の評価、サウナへの言及あり） - 4travel（フォートラベル）", "url": "https://4travel.jp/dm_hotel_tips/10863313" },
+        { "type": "review_site", "title": "ホテルアーサー 宿泊クチコミ一覧 - 4travel（フォートラベル）", "url": "https://4travel.jp/dm_hotel-10052976" },
+        { "type": "other", "title": "ホテルアーサー KITAHAMA BASE 施設紹介 - icotto", "url": "https://icotto.jp/hotels/13115" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "サウナが宿泊施設の付帯設備の一つに留まり、カテゴリ『サウナ』が求める体験としての独自性・目的化が不足している。数値評価もサウナ単体では確認できず、信頼できる独立2情報源での裏取りができなかったため不採用。"
+    },
+    {
+      "id": "2026-11-10-beppu-onsen-hoyoland",
+      "name": "別府温泉保養ランド",
+      "region": "大分県別府市（検索結果からは詳細所在地の確定表記を確認できなかった）",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "数値評価データなし（口コミは泥湯への言及が中心で、サウナ・蒸し湯単体の評価点・件数を本セッションのWeb検索では確認できなかった）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-11-10",
+          "url": "https://rurubu.jp/andmore/spot/80040508"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "入浴料は大人1,500円、営業時間9:00〜20:00、定休日なしという表示を確認した。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "コロイド湯（男女別）・滝湯（露天・混浴）・蒸し湯（男女別）・地下鉱泥大浴場（男女別）・露天鉱泥大浴場（混浴）という独特の浴場構成を持つレトロな温泉施設。『蒸し湯』は温泉蒸気を使った発汗浴だが、現代的なドライサウナとは体感が異なり、施設の主役は泥湯・鉱泥浴である。",
+      "target_audience": ["一人旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 6,
+        "review_reliability": 3,
+        "unique_experience_score": 10,
+        "photogenic": 7,
+        "value_for_price": 7,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 38,
+      "recommendation_reason": "泥湯・鉱泥浴というレトロで独自性の高い温泉体験ではあるが、本サイクルのテーマである『サウナ』の主役は『蒸し湯』のみであり、公式説明も設備一覧に一言添えられている程度で、現代的なサウナ体験としての掘り下げ要素（温度・ロウリュの有無・水風呂の質等）を本セッションでは確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミでは『料金1,500円は観光客向けの価格と感じた』という声と、『建物全体がレトロで個人的には好み』という好意的な声の両方が確認できた。衛生・安全面での重大な指摘は本セッションの検索範囲では見当たらなかったが、蒸し湯・サウナ単体の口コミがほぼ存在しないため評価の確度自体が低い。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "other", "title": "別府温泉保養ランド 施設紹介（浴場構成・料金・営業時間） - るるぶ&more", "url": "https://rurubu.jp/andmore/spot/80040508" },
+        { "type": "review_site", "title": "別府温泉保養ランド 施設情報・クチコミ - 4travel（フォートラベル）", "url": "https://4travel.jp/dm_hotel-11322682" },
+        { "type": "other", "title": "別府温泉保養ランド 施設情報 - じょるだん観光", "url": "https://sp.jorudan.co.jp/onsen/details/059/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "施設としての独自性・レトロな魅力はあるが、カテゴリ『サウナ』の核心である現代的な発汗・ロウリュ・水風呂体験としての掘り下げ情報が乏しく、口コミも泥湯中心でサウナ（蒸し湯）単体の評価を確認できなかったため不採用。"
+    }
+  ]
+}

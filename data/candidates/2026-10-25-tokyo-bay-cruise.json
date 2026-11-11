@@ -1,0 +1,167 @@
+{
+  "cycle_date": "2026-10-25",
+  "theme": "列車・船カテゴリ（リサーチ＋キャプションのみ、画像構成なし）— 依頼により『東京湾クルーズ船（屋形船・豪華クルーズ船等）』を地域指定で調査",
+  "season_rationale": "依頼により、地域を『東京湾クルーズ船（屋形船・豪華クルーズ船等）』と指定されたため、東京湾（日の出ふ頭・竹芝ふ頭・横浜港など）を拠点とする遊覧船・レストランシップ・屋形船を横断的に調査した。特定の1施設の指定ではなく地域・カテゴリ指定のため、現在運航中で評価が確認できる候補を複数スクリーニングし、最も条件を満たす候補を深掘りした。",
+  "prior_posts_checked_note": "data/candidates/ と captions/ の全期間（2026-09-14〜2026-10-24、1ヶ月以上前の2026-09-14・2026-09-18・2026-09-20・2026-09-21・2026-09-22サイクルを含む）を確認した。『東京湾』『シンフォニー』『屋形船』『ヴァンテアン』『クルーズクラブ』『ロイヤルウイング』『日の出ふ頭』『竹芝』のキーワードで横断検索したところ、ヒットしたのは以下のみで、いずれも本調査対象とは無関係であることを確認した：data/candidates/2026-10-22-kawasemi-yamasemi.json（川沿い観光列車、無関係）、data/candidates/2026-10-21-hateruma-ogasawara-resort.json（小笠原航路の記述、竹芝は小笠原丸の発着港として言及されるのみで東京湾クルーズ船自体ではない）、data/candidates/2026-10-21-tango-kuromatsugo.json（丹後、無関係）、data/candidates/2026-10-20-kumagawa-railway.json（熊本・くま川鉄道、無関係）、data/candidates/2026-10-20-sendai-gentei-event.json（仙台、無関係）。また2026-09-22サイクルで瀬戸内海クルーズ『guntû』が選定済み・2026-10-23サイクルで瀬戸内海の複数観光船を調査済みだが、いずれも瀬戸内海（広島・愛媛）であり東京湾とは別地域。よって東京湾クルーズ船（屋形船・レストランシップ含む）は過去の全サイクルで一度も候補として登録されていない完全新規の調査領域であることを確認した。",
+  "duplication_note": "本サイクルで調査した『東京湾シンフォニークルーズ』『ロイヤルウイング（横浜港）』『屋形船 大江戸』『東京ヴァンテアンクルーズ』はいずれも、重複チェックの結果、既存candidates・captionsのいずれにも登場していない新規の事業者・施設であることを確認した。",
+  "other_candidates_considered": [
+    {
+      "name": "東京ヴァンテアンクルーズ（竹芝ふ頭発、フレンチコースのレストラン船）",
+      "note": "ランチ・トワイライト・ディナーの3クルーズを運航し、船上ウェディングも扱う竹芝発のレストランシップ。WebSearchでTripadvisor・Googleマップ等の数値評価（★点数・件数）を一件も確認できず、原則6・7の独立2情報源での評価確認ができなかったため、本調査（深掘り採点）には進めなかった。"
+    },
+    {
+      "name": "ザ・クルーズクラブ東京（天王洲アイル発）",
+      "note": "ozmall上で口コミ3,640件という大きな件数がヒットしたが、本調査のWebSearch回数上限に達したため、具体的な星評価・内容までは確認できなかった。評価未確認のため本サイクルでは深掘りを見送ったが、口コミ件数の規模から次回以降のカテゴリ再調査で優先的に確認する価値があると判断する。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-25-symphony-cruise-tokyo-bay",
+      "name": "東京ベイ・クルージングレストラン シンフォニークルーズ（The Symphony）",
+      "region": "東京都港区海岸2-7-104（日の出ふ頭・ゆりかもめ「日の出」駅より徒歩約1分）／東京湾",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Klook（東京湾クルージング サンセットクルーズ〈シンフォニー提供〉）",
+          "score": 4.7,
+          "scale": 5,
+          "review_count": 233,
+          "checked_date": "2026-10-25",
+          "url": "https://www.klook.com/activity/9011-tokyo-bay-cruise-with-all-you-can-drink-beer-cocktail-tokyo/"
+        },
+        {
+          "source": "Klook（東京湾クルージング アフタヌーンクルーズ〈シンフォニー提供〉）",
+          "score": 4.7,
+          "scale": 5,
+          "review_count": 471,
+          "checked_date": "2026-10-25",
+          "url": "https://www.klook.com/activity/8999-tokyo-bay-buffet-cruise-symphony-tokyo/"
+        },
+        {
+          "source": "Klook（東京湾クルージング ランチクルーズ〈シンフォニー提供〉）",
+          "score": 4.8,
+          "scale": 5,
+          "review_count": 67,
+          "checked_date": "2026-10-25",
+          "url": "https://www.klook.com/activity/8911-tokyo-bay-lunch-cruise-tokyo/"
+        },
+        {
+          "source": "4travel.jp（口コミ内容は『優雅で楽しい素敵な2時間の船旅』『料理が想像以上に美味しい』等好意的、星数値は本調査では未取得）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-25",
+          "url": "https://4travel.jp/dm_shisetsu/10000288"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "料理内容・時間帯により変動。参考値としてランチクルーズ約8,000〜11,000円程度、ディナー・トワイライトコースは1名15,500円〜16,500円程度（2024-25年年末企画時点）という情報があったが、2026年時点の最新料金は本調査では公式サイトへのアクセスができず未確認。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する。予約・制作前に公式サイト（symphony-cruise.co.jp、本調査ではネットワーク制限により直接アクセス不可）または予約センター（TEL 03-3798-8101）での最新確認が必須。"
+      },
+      "unique_experience": "日の出ふ頭を拠点に、定員約450名「シンフォニークラシカ」・約600名「シンフォニーモデルナ」の2隻のレストランシップを運航。レインボーブリッジと東京ゲートブリッジの両方をくぐりながら、お台場・有明・舞浜（東京ディズニーリゾート付近）・羽田空港方面を周遊する独自の『ハート型』航路が特徴。ランチ・アフタヌーン・サンセット・ディナーの1日4クルーズ体制で、食事（コース料理・ビュッフェ等）とクルーズを一体化したレストラン船として、東京湾の夜景（レインボーブリッジ・東京タワー・スカイツリー）を船上から楽しめる。",
+      "renewal_or_news": "2026年1月1日の初日の出クルーズの開催地としても案内されており、2026年10月時点でも通常運航が継続していることを確認した（rurubu.jp等の2026年イベント情報掲載による）。",
+      "target_audience": ["カップル", "記念日", "夫婦", "家族", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 12,
+        "unique_experience_score": 14,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 5
+      },
+      "score": 80,
+      "recommendation_reason": "Klook上の複数クルーズ商品（サンセット4.7／471件、アフタヌーン4.7／233件、ランチ4.8／67件）すべてで4.5以上の高評価かつ合計700件超のレビュー件数があり、4travel.jpの個人口コミでも好意的な評価が確認できた。レインボーブリッジと東京ゲートブリッジの両方をくぐる『ハート型』航路、お台場・舞浜・羽田を一望できる夜景、食事とクルーズが一体化したレストランシップという独自性があり、ゆりかもめ『日の出』駅から徒歩1分というアクセスの良さも強み。2026年の初日の出クルーズ開催告知からも現在運航中であることを確認できた。一方で、公式サイト（symphony-cruise.co.jp）は本調査のネットワーク制限で直接アクセスできず、2026年時点の正確な料金は未確認のため、制作前の最新料金再確認が必須。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "『シンフォニークルーズ 残念／揺れる／微妙』等のネガティブ想定語での検索を行ったが、明確な低評価・批判的レビューはWebSearchの範囲では見つからなかった。確認できた口コミはいずれも好意的な内容（料理・夜景・航路への評価）だった。なお、天候・海況により揺れや視界への影響を受ける可能性は船上クルーズ全般の特性として留意する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "Tokyo Bay Cruise with All-You-Can-Drink Beer & Cocktail (the Symphony) - Klook", "url": "https://www.klook.com/activity/9011-tokyo-bay-cruise-with-all-you-can-drink-beer-cocktail-tokyo/" },
+        { "type": "booking_site", "title": "Tokyo Bay Lunch Cruise (the Symphony) - Klook", "url": "https://www.klook.com/activity/8911-tokyo-bay-lunch-cruise-tokyo/" },
+        { "type": "review_site", "title": "シンフォニークルーズ クチコミ・口コミ - フォートラベル(4travel)", "url": "https://4travel.jp/dm_shisetsu/10000288" },
+        { "type": "other", "title": "初日の出クルーズ はつひのでくるーず（東京湾シンフォニークルーズ）- るるぶ", "url": "https://rurubu.jp/andmore/spot/20004590" },
+        { "type": "booking_site", "title": "東京ベイ・クルージングレストラン シンフォニークルーズ<日の出> - OZmall", "url": "https://www.ozmall.co.jp/restaurant/232/" }
+      ],
+      "decision": "selected",
+      "rejection_reason": ""
+    },
+    {
+      "id": "2026-10-25-royal-wing-yokohama",
+      "name": "ロイヤルウイング（横浜港 レストランシップ）",
+      "region": "神奈川県横浜市（横浜港大さん橋国際客船ターミナル発着）／東京湾",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "数値評価は本調査では確認せず（運航終了のため評価対象外）", "score": 0, "scale": 5, "review_count": 0, "checked_date": "2026-10-25" }
+      ],
+      "price_range_jpy": {
+        "note": "運航終了前（2023年時点）はディナーコース15,600円〜、ランチバイキング8,500円程度との報道があった。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "横浜港を2時間ほど周遊する本格中国料理のレストランシップ。瀬戸内海からの歴史を含め63年の歴史を持つ現役最古級の客船として親しまれていたが、船体老朽化・部品調達の困難から2023年5月14日の『ありがとうクルーズ』をもって運航終了したことが複数の報道（trafficnews.jp）で確認された。2023年時点では2025年を目標とした代替新造船の建造計画があったとされるが、本調査では新造船の完成・運航再開に関する2026年時点の情報を一件も確認できなかった。",
+      "renewal_or_news": "2023年5月運航終了。代替新造船計画の進捗は本調査では未確認。",
+      "target_audience": ["カップル", "夫婦", "記念日"],
+      "score_breakdown": {
+        "review_rating": 0, "review_reliability": 0, "unique_experience_score": 0,
+        "photogenic": 0, "value_for_price": 0, "sns_buzz": 0, "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "歴史・内装・評判は良好だったことが報道から窺えるが、2023年5月に運航終了しており、2026年10月時点で運航再開・代替新造船就航を示す情報を一件も確認できなかった。『現在運航していること』の確認要件を満たさないため、本調査（深掘り採点）には進まず不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "運航終了に関する報道はあるが、サービス内容自体への否定的な口コミは本調査では確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "さよなら「ロイヤルウイング」現役最古だったレストラン船 横浜から姿消す 今後の運命は? - trafficnews.jp", "url": "https://trafficnews.jp/post/126668/2" },
+        { "type": "press", "title": "横浜港のレジェンドたちも“ボォォ~!” 「ロイヤルウイング」最終運航 瀬戸内から続く63年の歴史に幕 - trafficnews.jp", "url": "https://trafficnews.jp/post/125843/2" },
+        { "type": "press", "title": "現役最古の客船「ロイヤルウイング」が5月引退 横浜で「ありがとうクルーズ」運航 - trafficnews.jp", "url": "https://trafficnews.jp/post/125517" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "2023年5月に運航終了しており、2026年時点で運航再開・代替新造船就航の確認ができず『現在運航していること』の条件を満たさないため不採用。"
+    },
+    {
+      "id": "2026-10-25-yakatabune-oedo",
+      "name": "屋形船 大江戸（お台場・レインボーブリッジ・スカイツリー夜景コース）",
+      "region": "東京都大田区（蒲田・大森・羽田周辺／乗船場最寄り駅より徒歩約12分）／東京湾",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "asoview（屋形船 大江戸 口コミ件数33件、具体的な星評価は本調査では未取得）", "score": 0, "scale": 5, "review_count": 33, "checked_date": "2026-10-25", "url": "https://www.asoview.com/leisure/114/location/prf130000/" },
+        { "source": "VELTRA（東京『屋形船』カテゴリ全体の総合評価4.74／229件。大江戸単独の評価ではなくカテゴリ全体の集計のため、本候補単独の数値として採用できない）", "score": 0, "scale": 5, "review_count": 0, "checked_date": "2026-10-25", "url": "https://www.veltra.com/jp/japan/tokyo/ctg/183551:Yakatabune/reviews/" }
+      ],
+      "price_range_jpy": {
+        "note": "お台場スカイツリーコース（乗合・飲み放題付）大人1名13,200円、特別コース16,500円程度（掲載時期不明な情報を含むため要再確認）。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "乗合形式でお台場・レインボーブリッジ・東京スカイツリーの夜景を楽しめる屋形船。全船スカイデッキ付きで、天ぷらを船内で揚げたて提供、刺身は豊洲市場から毎朝仕入れるという事業者側の説明がある（自己PRのため裏取りが必要）。",
+      "renewal_or_news": "特記すべき新規性は本調査では確認できなかった。",
+      "target_audience": ["友人", "家族", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 0, "review_reliability": 0, "unique_experience_score": 0,
+        "photogenic": 0, "value_for_price": 0, "sns_buzz": 0, "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "asoviewで口コミ33件の存在は確認できたが星評価の数値は取得できず、VELTRAの4.74／229件は『屋形船』カテゴリ全体の集計であって本候補単独の評価ではないため、原則6・7が求める『独立2情報源での本候補自体の数値評価（4.0以上）』を満たすデータが揃わなかった。実在しない数値を候補自体の評価として断定しないため、本調査（深掘り採点）には進めず不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "『残念』『がっかり』等のネガティブ想定語での検索では、大江戸固有の否定的な口コミは見つからなかった。ただし候補自体の数値評価が未確認のため、ポジティブ・ネガティブいずれも客観的な裏付けが取れていない状態。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "屋形船 大江戸 - asoview（東京都 蒲田・大森・羽田周辺、口コミ33件）", "url": "https://www.asoview.com/leisure/114/location/prf130000/" },
+        { "type": "booking_site", "title": "乗合屋形船 お台場スカイツリーコース by大江戸 - VELTRA", "url": "https://www.veltra.com/jp/japan/tokyo/a/181713" },
+        { "type": "booking_site", "title": "屋形船 | 東京の観光&遊び・体験・レジャー専門予約サイト - VELTRA（屋形船カテゴリ全体の評価集計）", "url": "https://www.veltra.com/jp/japan/tokyo/ctg/183551:Yakatabune/reviews/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "候補自体（大江戸単独）の数値評価を独立2情報源で確認できず、原則6・7の採用基準を満たすデータが揃わないため不採用。"
+    }
+  ],
+  "conclusion": "地域指定『東京湾クルーズ船（屋形船・豪華クルーズ船等）』についてWebSearch計約12件を実施し、4候補（シンフォニークルーズ／ロイヤルウイング／屋形船大江戸／東京ヴァンテアンクルーズ〈事前スクリーニングのみ〉）をスクリーニング・調査した。結果、『東京ベイ・クルージングレストラン シンフォニークルーズ（The Symphony）』をscore=80（review_rating23/review_reliability12/unique_experience_score14/photogenic13/value_for_price7/sns_buzz6/access_and_freshness5）で選定（decision: selected）。Klook上の複数クルーズ商品で4.5〜4.8・計700件超のレビューがあり原則6・7（独立2情報源・4.0以上）を満たし、ネガティブレビュー確認でも重大な指摘は見つからなかった。ロイヤルウイングは2023年5月運航終了が確認され現在運航要件を満たさず不採用、屋形船大江戸は候補単独の数値評価を独立2情報源で確認できず不採用、東京ヴァンテアンクルーズは数値評価自体を確認できず本調査に進めなかった。ザ・クルーズクラブ東京（口コミ3,640件）はWebSearch回数上限に達したため評価未確認のまま次回以降の優先調査候補として記録した。公式サイト（symphony-cruise.co.jp等）は本調査のネットワーク制限で直接アクセスできなかったため、selected候補の制作移行前には公式サイト・予約センターでの料金・運航状況の再確認が必須。"
+}

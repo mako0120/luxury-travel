@@ -1,0 +1,149 @@
+{
+  "cycle_date": "2026-09-22",
+  "theme": "岐阜県下呂温泉の温泉旅館",
+  "season_rationale": "日本三名泉のひとつ下呂温泉は、10月以降に奥飛騨・下呂周辺の紅葉が見頃を迎えるエリア。9月下旬は残暑が落ち着き紅葉本番前の予約検討が始まるタイミングで、露天風呂付き客室での静養需要が高まる時期にあたる（原則30）。岐阜県は本リポジトリで初めて扱う地域であり、地域の多様化にも資する（原則29）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-21-kerama-terrace", "region": "沖縄県島尻郡渡嘉敷村（渡嘉敷島）", "category": "アクティビティ" },
+    { "post_id": "2026-09-20-akiu-rantei", "region": "宮城県仙台市太白区秋保町（秋保温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-18-yufuin-no-mori", "region": "福岡県福岡市（博多）〜大分県由布市・別府市", "category": "列車・船" },
+    { "post_id": "2026-09-18-shima-tsuruya", "region": "群馬県吾妻郡中之条町（四万温泉）", "category": "サウナ" },
+    { "post_id": "2026-09-18-shima-kanko-hotel-classic", "region": "三重県志摩市阿児町神明（賢島・英虞湾）", "category": "絶景ホテル" },
+    { "post_id": "2026-09-18-satoyama-vacation-fujinomiya", "region": "静岡県富士宮市上井出（白糸ノ滝周辺）", "category": "グランピング" },
+    { "post_id": "2026-09-18-sansou-murata-yufuin", "region": "大分県由布市湯布院町川上（由布院温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-18-nishimuraya-honkan", "region": "兵庫県豊岡市城崎町湯島（城崎温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-09-18-hilton-okinawa-miyako", "region": "沖縄県宮古島市平良（トゥリバー地区）", "category": "離島リゾート" },
+    { "post_id": "2026-09-18-fufu-karuizawa", "region": "長野県北佐久郡軽井沢町（中軽井沢・星野温泉エリア）", "category": "サウナ" },
+    { "post_id": "2026-09-18-clubmed-tomamu-unkai", "region": "北海道勇払郡占冠村（トマム）", "category": "オールインクルーシブ" }
+  ],
+  "duplication_note": "岐阜県下呂温泉は既存のdata/candidates・captionsに一度も登場しておらず、岐阜県自体が本サイクルで初出（原則29）。温泉旅館カテゴリは秋保温泉（宮城, 2026-09-20）・由布院温泉（大分, 2026-09-18）で直近使用済みだが、地域がいずれも全く異なるため重複の懸念はない。直近2件（秋保温泉=温泉旅館、慶良間諸島=アクティビティ）との連続を避けるため、当初は他カテゴリも検討したが、地域の新規性（岐阜県初出）と候補の質の高さを優先し、温泉旅館カテゴリで進行した。",
+  "candidates": [
+    {
+      "id": "2026-09-22-gero-suihouen",
+      "name": "下呂温泉 懐石宿 水鳳園",
+      "region": "岐阜県下呂市（下呂温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.60, "scale": 5, "review_count": 354, "checked_date": "2026-09-22", "url": "https://travel.rakuten.co.jp/HOTEL/109119/review.html" },
+        { "source": "一休.com", "score": 4.75, "scale": 5, "review_count": 109, "checked_date": "2026-09-22", "url": "https://www.ikyu.com/00002819/review/" },
+        { "source": "Yahoo!トラベル", "score": 4.75, "scale": 5, "review_count": 104, "checked_date": "2026-09-22", "url": "https://travel.yahoo.co.jp/00002819/review/" },
+        { "source": "じゃらんnet", "score": 4.4, "scale": 5, "review_count": 17, "checked_date": "2026-09-22", "url": "https://www.jalan.net/yad318203/kuchikomi/" }
+      ],
+      "price_range_jpy": {
+        "note": "2名1室利用時、税込1泊あたり57,200円〜244,086円（客室タイプ・プランにより変動、2名で68,200円〜の表示も確認）。全15室のうち9室に露天風呂または半露天風呂付き。夕食は飛騨牛や地元食材を使った会席料理、朝食も高評価。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "下呂温泉街を見下ろす高台に建つ全15室の小規模懐石宿。本館・別館「遊佳亭」を合わせ、9室に専用の露天風呂・半露天風呂が付く。夕食は飛騨牛と地元食材を使った会席料理、朝食の土鍋炊きご飯が高評価。男女別の大浴場のほか、貸切風呂「むつみの湯」も完備。下呂富士や町並みを望む眺望も特徴。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 14,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 84,
+      "recommendation_reason": "楽天トラベル4.60（354件）・一休.com4.75（109件）・Yahoo!トラベル4.75（104件）・じゃらんnet4.4（17件）と、性質の異なる4つの独立した情報源すべてで推奨ライン4.0を大きく上回る高評価かつ大きな母数を確認できた（原則6・7）。全15室のうち9室に専用露天風呂が付く点、飛騨牛の会席料理が一貫して高評価である点が『少し贅沢な旅』のコンセプトに合致する。公式Instagram（約6,285フォロワー）でも継続的に発信されており、話題性も一定程度確認できた。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一休.comに『食事と泉質以外は残念な宿』という否定的なタイトルのレビューが1件あり、1階大浴場の清掃・客室点検の甘さ・コスト削減を感じさせる備品の質を指摘していた。ただし他の多数のレビュー（一休.comの各項目評価は客室4.69〜満足度4.78、ニフティ温泉でも4.3/7件）ではこの指摘と一致する声が見当たらず、複数の独立情報源で同種の指摘が重なっているわけではないため、単発の意見として扱い、原則10の除外基準（複数情報源での重大な問題の一致）には該当しないと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "下呂温泉 懐石宿 水鳳園（すいほうえん）【公式】", "url": "https://www.e-onsen.co.jp/" },
+        { "type": "review_site", "title": "下呂温泉 懐石宿 水鳳園（すいほうえん） - クチコミ【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/109119/review.html" },
+        { "type": "review_site", "title": "懐石宿 水鳳園 - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00002819/review/" },
+        { "type": "review_site", "title": "懐石宿 水鳳園 - クチコミ・評判 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00002819/review/" },
+        { "type": "review_site", "title": "下呂温泉 懐石宿 水鳳園（すいほうえん）のクチコミ・評判一覧 - じゃらんnet", "url": "https://www.jalan.net/yad318203/kuchikomi/" },
+        { "type": "sns", "title": "【公式】下呂温泉 懐石宿 水鳳園 Suihouen (@suihouen) - Instagram", "url": "https://www.instagram.com/suihouen/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-22-gero-suimeikan",
+      "name": "下呂温泉 水明館",
+      "region": "岐阜県下呂市（下呂温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.34, "scale": 5, "review_count": 5678, "checked_date": "2026-09-22", "url": "https://travel.rakuten.co.jp/HOTEL/8886/review.html" },
+        { "source": "一休.com", "score": 4.15, "scale": 5, "review_count": 285, "checked_date": "2026-09-22", "url": "https://www.ikyu.com/00000551/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な価格帯を確認できなかった。飛騨川沿いに建つ大型旅館で、展望・野天・檜サウナ付きの3つの大浴場を持つ。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "飛騨川沿いに建つ大型老舗旅館。展望風呂・野天風呂・檜造りでサウナ付きの浴場など3つの大浴場を持ち、飛騨牛のローストビーフ丼や和洋中の朝食バイキングが人気。",
+      "target_audience": ["家族", "夫婦", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 15,
+        "unique_experience_score": 13,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 72,
+      "recommendation_reason": "楽天トラベル4.34（5,678件）・一休.com4.15（285件、満足度4.10）と、大規模な母数で安定した評価を確認できた（原則7）。ただしスコアは72点で採用ライン（75点）を下回った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベル・一休.comの双方で『設備が古い』『洗面所の状態が悪い』『部屋の壁紙が剥がれている』『部屋の風呂が汚い』という、性質の異なる複数の独立した情報源で一致する設備老朽化・清掃面の指摘が確認された。良い口コミ（温泉の泉質・接客・食事）も多いが、原則10が定める『複数情報源での重大な問題の一致』に該当する。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "official", "title": "下呂温泉 水明館【公式】", "url": "https://www.suimeikan.co.jp/" },
+        { "type": "review_site", "title": "下呂温泉 水明館 - クチコミ【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/8886/review.html" },
+        { "type": "review_site", "title": "下呂温泉 水明館 - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00000551/review/" },
+        { "type": "other", "title": "水明館の評判は本当？宿泊者レビューから見えた満足点と注意点｜はるなトラベル", "url": "https://note.com/harunatravel/n/nb694b5417b27" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "スコアが72点で採用ライン（75点）を下回り、加えて楽天トラベル・一休.comの複数の独立したレビューで設備老朽化・清掃面に関する一致した指摘（壁紙剥がれ、洗面所・部屋風呂の汚れ）が確認されたため、原則6・10に基づき不採用とした。"
+    },
+    {
+      "id": "2026-09-22-gero-yunoshimakan",
+      "name": "下呂温泉 湯之島館",
+      "region": "岐阜県下呂市（下呂温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.54, "scale": 5, "review_count": 715, "checked_date": "2026-09-22", "url": "https://travel.rakuten.co.jp/HOTEL/15967/review.html" },
+        { "source": "Trip.com", "score": 9.4, "scale": 10, "review_count": 535, "checked_date": "2026-09-22", "url": "https://us.trip.com/hotels/gero-hotel-detail-704571/yunoshimakan/review.html" }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な価格帯を確認できなかった。昭和6年創業、敷地5万坪の登録有形文化財の老舗旅館。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "昭和6年創業、天皇陛下も宿泊した歴史を持つ登録有形文化財の老舗旅館。敷地5万坪の木立に佇み、露天風呂「山渓之湯」「飛山之湯」から下呂の温泉街と飛騨の山々を一望できる。源泉かけ流しの湯の柔らかさが評価されている。",
+      "target_audience": ["夫婦", "記念日", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 11,
+        "unique_experience_score": 16,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 72,
+      "recommendation_reason": "楽天トラベル4.54（715件）・Trip.com9.4/10（535件、5点満点換算で約4.70）と2つの独立した情報源で高評価を確認できたが、検索過程で楽天トラベルの表示に4.54/715件と4.89/664件という食い違う数値が見られ、情報の信頼性にやや懸念が残った。総合スコアは72点で採用ラインを下回った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "複数の情報源（宿泊記ブログ・口コミまとめ）で『建物が古いため壁がかなり薄い』『古い温泉特有の階段が多く、高齢者には浴場までの移動がきつい』という設備老朽化・アクセス面の指摘が一致して見られた。温泉の泉質・食事は高評価だが、原則10の除外対象カテゴリ（設備老朽化）に該当する複数情報源での指摘があった。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "review_site", "title": "下呂温泉 湯之島館 - クチコミ【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/15967/review.html" },
+        { "type": "booking_site", "title": "下呂温泉 湯之島館の口コミ・レビュー・お客様の声535件 - Trip.com", "url": "https://us.trip.com/hotels/gero-hotel-detail-704571/yunoshimakan/review.html" },
+        { "type": "review_site", "title": "下呂温泉 湯之島館 - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00000874/review/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "スコアが72点で採用ライン（75点）を下回り、また複数情報源で建物の老朽化（壁の薄さ・浴場までの階段の多さ）に関する一致した指摘が確認されたため、原則6・10に基づき不採用とした。"
+    }
+  ]
+}

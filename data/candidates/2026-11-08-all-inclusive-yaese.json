@@ -1,0 +1,136 @@
+{
+  "cycle_date": "2026-11-08",
+  "theme": "オールインクルーシブ",
+  "season_rationale": "対象は沖縄県島尻郡八重瀬町。那覇空港から車で約30〜40分、沖縄本島南部の内陸に位置する町で、海岸線を持たないため大型ビーチリゾートが成立しにくい地理的特性がある。これまでのサイクルで沖縄本島南部は糸満市（2026-11-07付）・うるま市（2026-10-30付）など複数回調査済みだが、隣接する八重瀬町エリア単独での『オールインクルーシブ』調査はまだ行われていなかったため、カテゴリの地域的な空白を埋める目的で調査した。",
+  "prior_posts_checked": [],
+  "duplication_note": "data/candidates全件（2026-09-14〜2026-11-07、1ヶ月以上前のファイルを含む）とcaptions全件を『八重瀬』『yaese』『具志頭』『港川』『慶座』でgrepしたが、八重瀬町を対象とした候補・キャプションは一件も存在せず、本サイクルでの調査・候補選定に重複は発生していない。",
+  "search_scope_limitation": "本サイクルはWebSearchのみで調査し、WebFetch（www.jtb.co.jp等）はこのセッションのネットワーク許可外のため使用できなかった。また調査の途中でセッション単位のWebSearch呼び出し上限に達したため、『ザ・サザンリンクス リゾート』の運営会社公式サイトのドメインを直接確認することができなかった（予約サイト・口コミサイト経由の情報のみ）。八重瀬町は宿泊施設自体が極めて少なく（JTBの町別一覧では掲載1軒のみ、ヴィラ・ペット可特集ページはいずれも0件表示）、NAVITIME経由で見つかった民泊『民泊 絆』は口コミ・詳細情報を確認する前に調査対象外と判断した（1室のみの民泊で、オールインクルーシブ型の宿泊カテゴリに該当する可能性が極めて低いため）。",
+  "candidates": [
+    {
+      "id": "2026-11-08-southern-links-resort-yaese-ai",
+      "name": "ザ・サザンリンクス リゾート",
+      "region": "沖縄県島尻郡八重瀬町",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル（4travel）口コミ",
+          "score": 3.33,
+          "scale": 5,
+          "review_count": 23,
+          "checked_date": "2026-11-08",
+          "url": "https://4travel.jp/dm_hotel-10053492"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "JTBの八重瀬町宿一覧（町内で掲載1軒のみ）では最安値プランが大人1名あたり4,998円〜5,448円前後（検索タイミングにより変動）と表示されていた。これが本施設を指すプランか他の料金条件かは確定できなかった。楽天トラベルでは『朝食付き』基本プラン（期間2018年5月24日〜2027年3月31日）の掲載が確認できたが、具体的な料金額は今回のWebSearchでは取得できなかった。全食事・ドリンクを一括で含む『オールインクルーシブ』型プランの名称・料金は確認できなかった。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "那覇空港から車で約30〜40分、ゴルフ場『ザ・サザンリンクスゴルフクラブ』に併設された全室オーシャンビューの52室リゾートホテル（2007年に改築）。宿泊者は大浴場・サウナを無料で利用でき、屋外ガーデンプールは夏季限定で営業する。朝食は和食・洋食を日替わりで提供（06:30〜09:00）するが、楽天トラベル掲載のプラン情報では『現在ご夕食の提供を休止しております』と明記されており、夕食提供自体が止まっている。アルコール・ドリンク・アクティビティまで一括で含む『オールインクルーシブ』型プランの存在は、公式・予約サイトのいずれでも確認できなかった。",
+      "target_audience": ["夫婦", "一人旅", "絶景好き"],
+      "renewal_or_news": "2007年改築以降の大規模リニューアル情報はこのセッションのWebSearchでは確認できなかった。現在は夕食提供を休止中であることのみ確認できた。",
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 8,
+        "unique_experience_score": 8,
+        "photogenic": 8,
+        "value_for_price": 3,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 47,
+      "recommendation_reason": "ゴルフ場併設・全室オーシャンビューという立地の独自性はあるが、『オールインクルーシブ』カテゴリの核となる食事・ドリンク一括プランが存在せず、むしろ夕食提供自体を休止中であることが確認された。フォートラベルの総合評価も3.33/5（23件）と採用ライン4.0に届かず、総合スコアも47点で採用ライン75点に遠く及ばないため不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミ（23件）では『悪い』『とても悪い』評価はなかったが、総合満足度は3.33と中位。項目別ではバリアフリー4.38・客室4.18と高い一方、アクセス3.36は低め。2019年3月の投稿では朝食・接客サービスを低評価する声が1件あったが、単発の意見。建物について『高級感はあまりない』という指摘が複数の口コミサイトで見られた。英語の宿泊情報サイトでは『エレベーターなし』との記載も確認できた。衛生・安全上の重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ザ・サザンリンクス リゾート クチコミ・満足度（3.33/5・23件） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10053492" },
+        { "type": "booking_site", "title": "ザ・サザンリンクス リゾート 宿泊プラン（朝食付きプラン・夕食提供休止の記載） - 楽天トラベル", "url": "https://hotel.travel.rakuten.co.jp/PLAN/28251/5705903" },
+        { "type": "other", "title": "ザ サザンリンクスリゾートホテル 施設紹介（全室オーシャンビュー・ゴルフ場併設） - icotto", "url": "https://icotto.jp/hotels/4443" },
+        { "type": "review_site", "title": "ザ・サザンリンクスゴルフクラブ コース・施設レビュー（総合4.0〜4.1） - ゴルフじゃらん", "url": "https://golf-jalan.net/gc02558/review/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "八重瀬町内で確認できた唯一の本格的なホテルだが、『オールインクルーシブ』型プランが存在せず夕食提供も休止中であること、フォートラベル評価3.33/5が採用基準4.0に届かないこと、総合スコア47点が採用ライン75点に遠く及ばないことから不採用。"
+    },
+    {
+      "id": "2026-11-08-yaese-hotel-condominium-ai",
+      "name": "YAESE HOTEL",
+      "region": "沖縄県島尻郡八重瀬町（国道507号線沿い）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "具体的な料金はこのセッションのWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "国道507号線沿いに位置するコンドミニアム型施設で、全室にキッチン・家具家電・洗濯機を備える自炊型の宿泊形態。那覇空港から車で約30分。Expedia/Wotif等では『10点満点中10 Exceptional』という表示があったが件数は不明で、Booking.comの日本語口コミでは『ベッドが多く大きなクローゼットがあり過ごしやすい』『空港・南部観光に便利』『スタッフのチャット対応が速い』という好意的な声と、『バスの時刻が遅れて不便だった』という指摘が見られた。じゃらんの口コミ件数・評価点はこのセッションのWebSearchでは取得できなかった。",
+      "target_audience": ["家族", "友人"],
+      "renewal_or_news": "確認できなかった。",
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 2,
+        "photogenic": 2,
+        "value_for_price": 3,
+        "sns_buzz": 1,
+        "access_and_freshness": 2
+      },
+      "score": 10,
+      "recommendation_reason": "全室キッチン・洗濯機完備の自炊型コンドミニアムであり、食事・ドリンクを一括提供する『オールインクルーシブ』という業態の対極にある施設形態。信頼できる数値評価（口コミ点数・件数）も確認できず、カテゴリ適合・評価裏付けの両方が欠けているため不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Booking.com経由の口コミでは概ね好意的な声が多かったが、バスの時刻の遅れを指摘する声が1件あった。じゃらん等での数値評価は確認できなかった。衛生・安全上の重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "YAESE HOTEL 施設情報・空室 - じゃらん", "url": "https://www.jalan.net/yad338867/" },
+        { "type": "other", "title": "Yaese Hotel 施設情報・口コミ（Booking.com日本語レビュー含む） - Booking.com", "url": "https://www.booking.com/hotel/jp/yaese-ba-zhong-lai-ting1.html?aid=386259" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "自炊型コンドミニアムで『オールインクルーシブ』の業態に該当せず、信頼できる数値評価も確認できないため不採用。"
+    },
+    {
+      "id": "2026-11-08-ugana-villa-resort-yaese-ai",
+      "name": "UGANA VILLA RESORT",
+      "region": "沖縄県島尻郡八重瀬町長毛7-11",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "具体的な料金はこのセッションのWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "NAVITIME掲載の民泊施設で、首里駅から車で約26分、1室のみの小規模villa型施設。海外予約サイトdinogoでは『10点満点中10 Exceptional』（レビュー2件）という表示があったが、同ページ内の住所表記が高知県になっているなど情報の正確性に疑問があり、信頼できる一次情報として扱えなかった。食事・ドリンクを一括提供する『オールインクルーシブ』型プランの存在は確認できなかった。",
+      "target_audience": ["カップル", "一人旅"],
+      "renewal_or_news": "確認できなかった。",
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 2,
+        "photogenic": 2,
+        "value_for_price": 1,
+        "sns_buzz": 0,
+        "access_and_freshness": 1
+      },
+      "score": 6,
+      "recommendation_reason": "1室のみの小規模民泊で、信頼できる評価情報（表示されている口コミ2件は住所表記に誤りがあり信頼性に欠ける）がなく、『オールインクルーシブ』型プランの存在も確認できないため不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "dinogo掲載の評価（10/10・2件）は住所情報の誤り（高知県と表記）があり信頼性が低いため参考にできなかった。じゃらん・楽天トラベル等での口コミはこのセッションのWebSearchでは確認できなかった。衛生・安全上の指摘の有無も確認できていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "UGANA VILLA RESORT 施設情報 - NAVITIME", "url": "https://www.navitime.co.jp/category/0609/47362/" },
+        { "type": "review_site", "title": "UGANA VILLA RESORT 施設情報・評価（住所表記に誤りあり） - dinogo", "url": "https://dinogo.com/hotels/611577-ugana-villa-resort" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "1室のみの小規模民泊で信頼できる評価情報がなく、オールインクルーシブ型プランの存在も確認できないため不採用。"
+    }
+  ],
+  "cycle_conclusion": "『オールインクルーシブ』カテゴリ・沖縄県島尻郡八重瀬町エリアを対象に3件（ザ・サザンリンクス リゾート、YAESE HOTEL、UGANA VILLA RESORT）を調査した結果、いずれも不採用でselected候補なし。八重瀬町は海岸線を持たない内陸の町で、宿泊施設自体がJTB掲載で町内1軒のみという極めて限られた状況にあり、唯一の本格的なホテルである『ザ・サザンリンクス リゾート』はゴルフ場併設・全室オーシャンビューという特徴を持つものの、オールインクルーシブ型プランが存在せず現在は夕食提供自体を休止中で、フォートラベル評価も3.33/5（採用基準4.0未満）、総合スコア47点（採用ライン75点未満）のため不採用とした。残り2件（YAESE HOTEL、UGANA VILLA RESORT）はいずれも自炊型コンドミニアム・小規模民泊であり、食事・ドリンクを一括提供する『オールインクルーシブ』という業態そのものに該当せず、信頼できる数値評価も確認できなかった。selected候補が存在しないため、creator_story調査・captions/の新規作成は行わない。なお本サイクルはWebFetchがネットワーク許可外で使用できず、WebSearchも途中でセッション単位の呼び出し上限に達したため、ザ・サザンリンクス リゾートの運営会社公式サイトのドメイン確認ができていない。八重瀬町は地理的に大型ビーチリゾートが成立しにくく、今後『オールインクルーシブ』カテゴリでの再調査よりも、文化体験・アクティビティ・グルメ旅館など他カテゴリでの調査が適している可能性がある。"
+}

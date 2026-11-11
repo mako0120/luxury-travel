@@ -1,0 +1,152 @@
+{
+  "cycle_date": "2026-11-11",
+  "theme": "オールインクルーシブカテゴリ：静岡県伊東市（伊豆エリア）",
+  "season_rationale": "11月中旬の伊豆エリアは、海水浴シーズンが落ち着き紅葉と金目鯛など冬の魚介が旬を迎え始める時期にあたる。東京から約2時間というアクセスの良さもあり、晩秋の静かな海辺で『何もしないための贅沢』を求めるカップル・夫婦層に向けて、オールインクルーシブ形式の高級宿を紹介する意義が高いタイミングと考えられる。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-11-11-all-inclusive-nishiura-onsen", "region": "愛知県蒲郡市西浦温泉エリア", "category": "オールインクルーシブ（本日1回目・該当なしのため地域を切替えて本サイクルを実施）" },
+    { "candidate_id": "2026-10-22-izu-ito-all-inclusive（ito-hotel-juraku / mori-premier-izu）", "region": "静岡県伊東市・伊豆エリア", "category": "オールインクルーシブ（伊東ホテルジュラク=rejected・ラグジュアリーホテル 風の薫 MORI Premier=selected）" },
+    { "candidate_id": "2026-11-06-nishiizu-dogashima-view-hotel", "region": "静岡県西伊豆町堂ヶ島", "category": "絶景ホテル" },
+    { "candidate_id": "2026-10-25-all-inclusive-shimoda", "region": "静岡県下田市", "category": "オールインクルーシブ" },
+    { "candidate_id": "2026-10-26-all-inclusive-atami", "region": "静岡県熱海市", "category": "オールインクルーシブ" },
+    { "candidate_id": "2026-10-28-izukogen-glamping", "region": "静岡県伊豆高原", "category": "グランピング" },
+    { "candidate_id": "2026-10-20-izu-ochiairo-sauna", "region": "静岡県伊豆市湯ケ島", "category": "サウナ" }
+  ],
+  "duplication_note": "data/candidates・captions配下を『伊東』『伊豆』『ito』『izu』『オールインクルーシブ』等のキーワードでファイル名・本文の両方で横断検索し（1ヶ月以上前の実績も含め全件確認）、同一施設との重複がないことを確認した。地域『静岡県伊東市（伊豆エリア）』×カテゴリ『オールインクルーシブ』の組み合わせは2026-10-22-izu-ito-all-inclusive.jsonで既に調査済みで、伊東ホテルジュラク（rejected・score71）と、ラグジュアリーホテル 風の薫 MORI Premier（selected・score87、伊東市吉田）の2件が記録されている。本サイクルはこの2件と重複しない伊東市内の別施設を発見することを目的とした再調査であり、調査対象3件（ホテル アンダものがたり伊東／ホテルふたり木もれ陽／ラグジュアリー和ホテル 風の薫UMI）はいずれも上記2件とは名称・所在地ともに異なる施設であることを確認済み。なお風の薫UMIは『風の薫 MORI Premier』『風の薫 UMI』とブランド名の一部（風の薫）を共有する姉妹的な位置づけの施設だが、所在地（伊東市新井）・客室構成（20室・オールインクルーシブ非明示）が異なる別施設であり、MORI Premierの代替調査として扱った。カテゴリ『オールインクルーシブ』自体は本日2回目の実施だが、これは1回目（愛知県蒲郡市西浦温泉エリア）が該当なしだったための『異なる地域での1回限りの再調査』という位置づけであり、依頼内容に沿っている。",
+  "research_constraints": "このセッションのネットワーク環境では、4travel.jp・icotto.jp・skyticket.jp・haveagood-holiday.com・komorebi.bz等へのWebFetch直接アクセスがDNS解決不可（EGRESS_BLOCKED相当）であり、2026-11-11-all-inclusive-nishiura-onsen.jsonと同様、すべてWebSearchのスニペット経由で得られる情報のみを情報源とした。公式サイト（komorebi.bz等）への直接アクセスができなかったため、各施設の開業経緯・設計者・運営者の思い（creator_story）について一次情報での裏付けが取れない場合は、推測せず『確認できなかった』旨を明記している。",
+  "candidates": [
+    {
+      "id": "2026-11-11-hotel-futari-komorebi",
+      "name": "ホテルふたり木もれ陽",
+      "region": "静岡県伊東市宇佐美3594-809（JR伊東線網代駅より無料送迎約5分）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "一休.com", "score": 4.86, "scale": 5, "review_count": 335, "checked_date": "2026-11-11", "url": "https://www.ikyu.com/00002295/review/" },
+        { "source": "skyticket", "score": 5.0, "scale": 5, "review_count": 361, "checked_date": "2026-11-11", "url": "https://skyticket.jp/hotel/detail/property_959379/" }
+      ],
+      "price_range_jpy": {
+        "note": "2026年の開業10周年記念プランとして、1名49,800円〜（大人2名1室1泊・税・サービス料込み・オールインクルーシブ）という特別プランの存在を確認した。これは期間限定の記念プランであり、通常時のオールインクルーシブ料金帯はWebSearchの範囲では確認できなかった。",
+        "as_of_search_date": "2026-11-11",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "相模灘を望む伊東市宇佐美の高台に建つ、大人限定・全10室のみのオールスイート（一部100㎡超）リゾート。全室オーシャンビューで、源泉かけ流しの温泉展望風呂または半露天風呂付き客室を持ち、滞在中のお酒・料理・おつまみ・夜食が宿泊料金に含まれるオールインクルーシブ形式。2016年開業で2026年に開業10周年を迎え、リピーター比率が5割を超え、年間20泊以上滞在する常連客もいるという定着ぶりが特徴。",
+      "renewal_or_news": "2026年に開業10周年を迎え、これまでの利用客への感謝として『10周年記念オールインクルーシブプラン』（オリジナルデザインのトートバッグ・ハンカチタオル等の記念品付き）を発表している（haveagood-holiday.com、2026年掲載記事）。一部客室（コンフォート・スイート9号室等）はリニューアル済みとの旅行記記述もある。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 13,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 84,
+      "recommendation_reason": "一休.com（4.86・335件）とskyticket（5.0・361件）という2つの独立した性質の異なる情報源で、いずれも採用ライン（4.0以上）・推奨ライン（4.2以上）を大きく上回る一貫した高評価を確認した。大人限定・全10室のみという規模の小ささ、オーシャンビュー×源泉かけ流し客室風呂×オールインクルーシブという組み合わせに加え、開業10周年・リピーター比率5割超という『長く愛されている隠れ家』というストーリー性があり、既に選定済みのMORI Premier（伊東市吉田）とは所在地・ブランドが異なる別の『伊東の大人向けオールインクルーシブ隠れ家』として紹介価値が高い。フォートラベルの少数（6件）のクチコミも接客・オールインクルーシブ内容への好意的な評価が中心だった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一休.com（335件）はほぼ満点評価が中心で、検索結果からは低評価の投稿を確認できなかった。フォートラベルの6件のクチコミ（主に2023年投稿）でも、オールインクルーシブのドリンク・軽食の充実、海を望む半露天風呂、接客スタッフの対応への好意的な評価が中心で、重大な衛生・安全面の指摘は見つからなかった。ただし一休の検索結果は上位の好意的な口コミが中心で表示される可能性があり、低評価順での全件確認はできていない点は留意点として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ホテルふたり木もれ陽 クチコミ（総合4.86・335件） - 一休.com", "url": "https://www.ikyu.com/00002295/review/" },
+        { "type": "booking_site", "title": "ホテル ふたり木もれ陽 クチコミ・詳細（総合5.0・361件） - skyticket", "url": "https://skyticket.jp/hotel/detail/property_959379/" },
+        { "type": "review_site", "title": "ホテルふたり木もれ陽 クチコミ（6件） - フォートラベル", "url": "https://4travel.jp/dm_hotel-11608215/tips" },
+        { "type": "other", "title": "ホテルふたり木もれ陽 施設情報（住所・客室数） - cocolocala", "url": "https://www.cocolocala.jp/hotels/333746" },
+        { "type": "press", "title": "Hotel Futari Komorebi in the Atami/Izu Area Marks 10 Years with a Special All-Inclusive Anniversary Plan", "url": "https://haveagood-holiday.com/en/articles/hotel-futari-komorebi-10th-anniversary-atami" }
+      ],
+      "decision": "selected",
+      "creator_story": {
+        "text": "本調査の範囲（WebSearchのスニペット経由の情報のみ。ネットワーク制約により公式ドメイン（komorebi.bz）・haveagood-holiday.com・icotto.jp等への直接WebFetchは実行できなかった）では、設計者・運営者・創業者がどのような思い・コンセプトでこのホテルを手がけたか、また改修（コンフォート・スイート9号室等のリニューアル）の方針について説明する一次情報・インタビュー記事は確認できなかった。確認できた客観的事実は、(1) 2016年開業で2026年に開業10周年を迎えたこと、(2) リピーター比率が5割を超え、年間20泊以上滞在する常連客もいること、(3) 10周年を『これまで支えてくれた利用客への感謝』として位置づけ、記念プランを用意したこと、の3点のみである。創業者・設計者の発言や意図を推測で記述することはせず、『確認できなかった』ことを明記する。",
+        "sources": [
+          { "type": "press", "title": "Hotel Futari Komorebi in the Atami/Izu Area Marks 10 Years with a Special All-Inclusive Anniversary Plan", "url": "https://haveagood-holiday.com/en/articles/hotel-futari-komorebi-10th-anniversary-atami" }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-11-anda-monogatari-ito",
+      "name": "ホテル アンダものがたり 伊東",
+      "region": "静岡県伊東市（伊東駅より無料送迎バスあり・要予約）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "ツアーネット", "score": 4.6, "scale": 5, "review_count": 1, "checked_date": "2026-11-11", "url": "https://www.tour.ne.jp/j_hotel/68922/" }
+      ],
+      "price_range_jpy": {
+        "note": "早割プランで1室2名29,388円〜（1泊3食ビュッフェ・飲み放題込み）という表示を確認した一方、楽天トラベルでは大人1名15,800〜35,800円（2名1室・税込）という表示もあり、プラン・時期による差が大きい可能性がある。",
+        "as_of_search_date": "2026-11-11",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "アンダグループが展開する、ウェルカムベビー認定・家族向けオールインクルーシブホテル。赤ちゃん連れ向けのカジュアル2室、ミキハウス認定の『パセランドルーム』、2段ベッドのカジュアル6など子連れ家族を強く意識した客室構成が特徴。予約不要・無料の貸切風呂が館内4箇所（渓流と森に包まれた露天風呂、恐竜風呂など）あり、飲み放題付きの食事、カラオケ・ダーツ・卓球等のアクティビティが宿泊料金に含まれる。",
+      "renewal_or_news": "既存ホテルを改修してアンダグループの新しいオールインクルーシブホテルとして展開されたとみられるが、具体的なリニューアル時期は本調査では確認できなかった。",
+      "target_audience": ["家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 3,
+        "unique_experience_score": 13,
+        "photogenic": 8,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 47,
+      "recommendation_reason": "家族向けの無料アクティビティ（貸切風呂4箇所・カラオケ・ダーツ・卓球等）の充実度、ウェルカムベビー認定という独自性は評価できるが、数値評価が確認できた独立情報源が実質1件（ツアーネット4.6・1件）のみで、原則7（最低2件以上の独立情報源）を満たせない。楽天トラベル・JTB等でも口コミ本文・評価点そのものは検索結果から取得できなかった。口コミサンプルが極端に少なく評価の信頼性を判断できないため、本サイクルでは選定を見送る。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベルの口コミ（2026年7月宿泊・1件）では食事・スタッフ対応は高評価だったが、既存ホテルを改修しているためか全体的にやや古さを感じる部分があり、エレベーターが狭いという指摘があった。重大な衛生・安全面の指摘は確認できなかったが、確認できた口コミ自体が極めて少ない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ホテル アンダものがたり 伊東（クチコミ評価4.6・1件） - ツアーネット", "url": "https://www.tour.ne.jp/j_hotel/68922/" },
+        { "type": "other", "title": "ホテル アンダものがたり 伊東（オールインクルーシブホテルと明記） - JTB国内ホテル", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/4332A51/" },
+        { "type": "booking_site", "title": "ホテル アンダものがたり 伊東 - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/192706/192706.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価が確認できた独立情報源が実質1件（ツアーネット4.6・1件）のみで、原則7（最低2件以上の独立情報源）を満たせず、サンプル数も極小のため評価の信頼性を判断できない。総合スコア47点で採用ライン（75点）にも大きく届かないため不採用とした。"
+    },
+    {
+      "id": "2026-11-11-kazenokaori-umi",
+      "name": "ラグジュアリー和ホテル 風の薫UMI",
+      "region": "静岡県伊東市新井",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.41, "scale": 5, "review_count": 34, "checked_date": "2026-11-11", "url": "https://4travel.jp/dm_hotel-10220313/tips" },
+        { "source": "Relux", "score": 4.5, "scale": 5, "review_count": 273, "checked_date": "2026-11-11", "url": "https://rlx.jp/23498/review/" },
+        { "source": "楽天トラベル（繁体字版）", "score": 4.7, "scale": 5, "review_count": 117, "checked_date": "2026-11-11", "url": "https://travel.rakuten.com/twn/zh-tw/hotel_info_item/cnt_japan/sub_shizuoka_prefecture/cty_ito_city/10123456796325/" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な料金帯はWebSearchの範囲では確認できなかった。",
+        "as_of_search_date": "2026-11-11",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "伊東市新井に位置し、客室20室すべてに温泉露天風呂が付く和モダンホテル。海を眺めながらのエステフィッシュ・足湯、貸切風呂、カラオケ、ドリンクバー、夜食が無料で利用できる点が口コミで評価されている。『風の薫 MORI Premier』とブランド名の一部を共有する姉妹的な位置づけの施設だが、所在地・規模は異なる。",
+      "renewal_or_news": "確認できなかった。",
+      "target_audience": ["カップル", "女子旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 10,
+        "unique_experience_score": 14,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 63,
+      "recommendation_reason": "全室温泉露天風呂付き・無料の貸切風呂やドリンクバー等、体験の充実度自体は高く、Relux（4.5・273件）・楽天トラベル繁体字版（4.7・117件）では高評価だが、フォートラベル（3.41・34件）が明確に4.0未満であり、原則6（主要レビュー4.0未満は原則不採用）に抵触する。また『オールインクルーシブ』を施設側が公式に明示している表記は本調査では確認できず、依頼カテゴリとの整合性もMORI Premierや木もれ陽と比べて弱い。総合スコアも63点で採用ライン（75点）に届かないため不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベル34件での満足度3.41は他サイト（Relux4.5、楽天台湾版4.7）より明確に低く、評価が情報源間で大きく割れている。2023年2月の口コミ（3.5点）では温泉が循環式である点が残念という指摘があった。重大な衛生・安全面の指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ラグジュアリー和ホテル 風の薫UMI クチコミ（満足度3.41・34件） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10220313/tips" },
+        { "type": "review_site", "title": "風の薫UMI レビュー（総合4.5・273件） - Relux", "url": "https://rlx.jp/23498/review/" },
+        { "type": "booking_site", "title": "ラグジュアリー 和 ホテル 風の薫UMI - じゃらんnet", "url": "https://www.jalan.net/yad301788/" },
+        { "type": "review_site", "title": "風の薫UMI 住客評分4.7（117件） - 楽天トラベル（繁体字版）", "url": "https://travel.rakuten.com/twn/zh-tw/hotel_info_item/cnt_japan/sub_shizuoka_prefecture/cty_ito_city/10123456796325/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイトの一つ（フォートラベル3.41・34件）が採用ライン（4.0以上）を明確に下回り、評価が情報源間で大きく割れている。『オールインクルーシブ』を公式に明示する表記も確認できず、総合スコア63点で採用ライン（75点）にも届かないため不採用とした。"
+    }
+  ]
+}

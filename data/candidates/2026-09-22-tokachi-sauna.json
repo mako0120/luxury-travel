@@ -1,0 +1,182 @@
+{
+  "cycle_date": "2026-09-22",
+  "theme": "北海道河東郡音更町・十勝川温泉エリアのサウナ×モール温泉リトリート",
+  "season_rationale": "9月下旬の十勝地方は朝晩の気温がすでに一桁台まで下がり始め、ロウリュで発汗したあとの十勝川沿いでの外気浴が『ととのう』のにちょうど良い季節。10月に入ると紅葉が本格化し、その後は積雪シーズンに向かうため、まだ比較的移動しやすい今の時期に『美人の湯』と呼ばれるモール温泉×本格サウナを組み合わせて紹介する意義がある（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-21-kerama-terrace", "region": "沖縄県島尻郡渡嘉敷村（渡嘉敷島）", "category": "アクティビティ" },
+    { "post_id": "2026-09-20-akiu-rantei", "region": "宮城県仙台市太白区秋保町（秋保温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-18-yufuin-no-mori", "region": "福岡県福岡市（博多）〜大分県由布市・別府市", "category": "列車・船" },
+    { "post_id": "2026-09-18-shima-tsuruya", "region": "群馬県吾妻郡中之条町（四万温泉）", "category": "サウナ" },
+    { "post_id": "2026-09-18-shima-kanko-hotel-classic", "region": "三重県志摩市阿児町神明（賢島・英虞湾）", "category": "絶景ホテル" },
+    { "post_id": "2026-09-18-satoyama-vacation-fujinomiya", "region": "静岡県富士宮市上井出（白糸ノ滝周辺）", "category": "グランピング" },
+    { "post_id": "2026-09-18-sansou-murata-yufuin", "region": "大分県由布市湯布院町川上（由布院温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-18-nishimuraya-honkan", "region": "兵庫県豊岡市城崎町湯島（城崎温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-09-18-hilton-okinawa-miyako", "region": "沖縄県宮古島市平良（トゥリバー地区）", "category": "離島リゾート" },
+    { "post_id": "2026-09-18-fufu-karuizawa", "region": "長野県北佐久郡軽井沢町（中軽井沢・星野温泉エリア）", "category": "サウナ" },
+    { "post_id": "2026-09-18-clubmed-tomamu-unkai", "region": "北海道勇払郡占冠村", "category": "オールインクルーシブ" },
+    { "post_id": "2026-09-14-unkai-terrace-tomamu", "region": "北海道勇払郡占冠村（トマム）", "category": "アクティビティ" }
+  ],
+  "duplication_note": "直近2投稿（渡嘉敷島・秋保温泉）とは地域・カテゴリとも重複しない。サウナカテゴリは9/18の群馬・長野以来で連続はしておらず、北海道自体も9/14・9/18のトマム（占冠村・中央高地）以来だが、今回の十勝川温泉・音更町は道東エリアでトマムとは全く別の地域・宿ブランドであり、カテゴリも『サウナ』で新規性がある（原則29）。",
+  "candidates": [
+    {
+      "id": "2026-09-22-daiichi-hotel-tokachigawa",
+      "name": "十勝川温泉 第一ホテル",
+      "region": "北海道河東郡音更町十勝川温泉南（十勝川温泉）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル",
+          "score": 4.58,
+          "scale": 5,
+          "review_count": 1373,
+          "checked_date": "2026-09-22",
+          "url": "https://travel.rakuten.co.jp/HOTEL/5818/review.html"
+        },
+        {
+          "source": "一休.com",
+          "score": 4.66,
+          "scale": 5,
+          "review_count": 231,
+          "checked_date": "2026-09-22",
+          "url": "https://www.ikyu.com/00000877/review/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では部屋タイプ別の正確な1泊2食価格帯は確定できなかった。大規模な老舗温泉ホテルで、豊洲亭・豆陽亭等複数の宿泊棟があり価格帯に幅があると見られる。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2023年12月にサウナをリニューアルし、フィンランドHARVIA社製ストーブ『CILINDRO』による10分毎のオートロウリュと、北海道産の麦飯石を用いた洞窟のような石造りのサウナ室を新設。北海道遺産にも認定された『モール温泉（植物由来の温泉、世界でも希少な泉質）』の大浴場には水深120cmの露天『深湯』もあり、サウナ×希少な泉質×浮遊感のある深湯という組み合わせが他にない体験になっている。",
+      "renewal_or_news": "2023年12月にサウナ設備を全面リニューアル（フィンランド製ロウリュストーブ＋麦飯石の遠赤外線サウナ室を新設）。リニューアル後にサウナ専門サイト『サウナイキタイ』でもサ活投稿が継続的に増えている。",
+      "target_audience": ["夫婦", "記念日", "カップル", "温泉好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 14,
+        "unique_experience_score": 17,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 81,
+      "recommendation_reason": "楽天トラベル4.58（1,373件）・一休.com4.66（231件）と、母数の異なる2つの独立した予約サイトでいずれも推奨ライン（4.2以上）を大きく上回る高評価を確認できた（原則6・7）。2023年12月にフィンランド製オートロウリュストーブと北海道産麦飯石の石造りサウナ室へリニューアルしたという情報の新しさに加え、世界でも希少な『モール温泉』での水深120cmの露天深湯という他にない体験価値がある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "『部屋が古くコンセントが少ない』『チェックイン時にスーツケースを自分で運ぶよう案内された』『夕食・朝食の提供に時間がかかった』『部屋の露天風呂が小さかった』といった、施設の古さや一部サービス対応に関する指摘が複数確認できた。いずれも老舗大規模ホテルにありがちな運用上の課題であり、清潔感・安全性・衛生面に関わる重大な指摘ではないため disqualifying issue とは判断しなかった（原則10）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "十勝川温泉 第一ホテル に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/5818/review.html" },
+        { "type": "review_site", "title": "十勝川温泉 第一ホテル - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00000877/review/" },
+        { "type": "official", "title": "温泉｜豆陽亭｜十勝川温泉第一ホテル【公式】", "url": "https://www.daiichihotel.com/spa/" },
+        { "type": "other", "title": "十勝川温泉 第一ホテル(北海道河東郡音更町) - サウナイキタイ", "url": "https://sauna-ikitai.com/saunas/218" },
+        { "type": "review_site", "title": "十勝川温泉 第一ホテル 豊洲亭・豆陽亭の口コミ（レビュー） - Relux", "url": "https://rlx.jp/23675/review/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-22-kangetsuen-tokachigawa",
+      "name": "十勝川温泉 観月苑",
+      "region": "北海道河東郡音更町十勝川温泉（十勝川温泉）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル",
+          "score": 4.49,
+          "scale": 5,
+          "review_count": 1895,
+          "checked_date": "2026-09-22",
+          "url": "https://travel.rakuten.co.jp/HOTEL/19237/review.html"
+        },
+        {
+          "source": "Tripadvisor",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 229,
+          "checked_date": "2026-09-22",
+          "url": "https://www.tripadvisor.com/Hotel_Review-g1065249-d1139066-Reviews-Kangetsuen-Otofuke_cho_Kato_gun_Hokkaido.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な1泊2食価格帯を確認できなかった。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "十勝川のほとりに佇む庭園露天風呂が『絶景』と評判のホテル。本場フィンランド式のロウリュを備えたサウナがあり、毎週月曜（13:00・17:00・19:00）には十勝産トドマツのエッセンシャルオイルを使ったアロマロウリュを実施。水風呂には音更町の飲み水でもある清流・札内川の伏流水を使用し、北海道では数少ないセルフロウリュ対応という独自性がある。",
+      "renewal_or_news": "月観デッキ付きツインルームなど客室のリニューアルを実施済み（一休.comのクチコミでも言及あり）。",
+      "target_audience": ["夫婦", "記念日", "カップル", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 13,
+        "unique_experience_score": 15,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 76,
+      "recommendation_reason": "楽天トラベル4.49（1,895件）・Tripadvisor4.0（229件）の2つの独立情報源で採用ライン（4.0以上）は満たすが、Tripadvisorはちょうど最低ラインで推奨ライン（4.2以上）には届いていない。十勝産トドマツのアロマロウリュや札内川伏流水の水風呂という独自性はあるが、外気浴スペースの清潔感に関する指摘があり、今回はサウナ×希少泉質の物語性がより強い第一ホテルを優先した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "『外気浴用のリクライニングチェアが蜘蛛の巣やゴミで汚れていた』という外気浴エリアの清掃に関する指摘、『コース料理のボリューム・鮮度が物足りない』『モール温泉の加水温度調整ができない』『建物が古めで暗い』といった複数の不満が確認できた。安全性に関わる重大な指摘ではないため disqualifying issue には該当しないと判断したが、サウナ体験の要である外気浴エリアの清潔感への言及がある点は選定上のマイナス材料とした（原則10）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "十勝川温泉 観月苑 - クチコミ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/19237/review.html" },
+        { "type": "review_site", "title": "十勝川温泉 観月苑【口コミ・評判】- Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-g1065249-d1139066-Reviews-Kangetsuen-Otofuke_cho_Kato_gun_Hokkaido.html" },
+        { "type": "official", "title": "フィンランド式サウナ - 十勝川温泉 観月苑【公式】", "url": "https://www.kangetsuen.com/sauna/" },
+        { "type": "other", "title": "十勝川温泉 観月苑(北海道河東郡音更町) - サウナイキタイ", "url": "https://sauna-ikitai.com/saunas/221" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-09-22-sasai-hotel-tokachigawa",
+      "name": "十勝川温泉 笹井ホテル",
+      "region": "北海道河東郡音更町十勝川温泉（十勝川温泉）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル",
+          "score": 4.25,
+          "scale": 5,
+          "review_count": 1111,
+          "checked_date": "2026-09-22",
+          "url": "https://travel.rakuten.co.jp/HOTEL/30897/review.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な1泊2食価格帯を確認できなかった。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "大浴場のほかサウナ・打たせ湯・ひのき風呂を備え、屋外には露天風呂とジャグジーもある老舗のモール温泉宿。サウナ室は84〜85度、水風呂は26度・男女入れ替え制。バイキングのライブキッチンやフレンチトーストが好評。",
+      "target_audience": ["家族", "友人", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 6,
+        "unique_experience_score": 10,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 52,
+      "recommendation_reason": "楽天トラベル4.25（1,111件）と一定の評価はあるが、今回のWeb検索の範囲では一休.com／じゃらん等の第2の独立情報源で数値評価を確認できず、原則7の『最低2種類以上の独立情報源』を満たせなかった。水風呂も26度と『ととのう』体験訴求としては温度差がやや小さく、他候補と比べてサウナとしての独自性が弱いと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "『廊下などは古さを感じる』という施設の老朽化に関する指摘があった一方、スタッフ対応や食事内容には好意的な声が多かった。重大な指摘は確認できなかったが、そもそも2情報源目の数値評価を確認できなかったため選定基準を満たせなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "十勝川温泉 笹井ホテル に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/30897/review.html" },
+        { "type": "official", "title": "十勝川温泉 笹井ホテル【公式サイト】 植物性モール温泉", "url": "https://www.sasaihotel.com/" },
+        { "type": "other", "title": "十勝川温泉 笹井ホテル(北海道河東郡音更町) - サウナイキタイ", "url": "https://sauna-ikitai.com/saunas/217" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコアが52点と採用ライン（75点）を下回り、独立2情報源での数値評価も確認できなかったため（原則6・7）、今回は選定を見送った。"
+    }
+  ]
+}

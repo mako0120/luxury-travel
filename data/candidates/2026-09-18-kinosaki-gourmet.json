@@ -1,0 +1,145 @@
+{
+  "cycle_date": "2026-09-18",
+  "theme": "グルメ旅館：兵庫県豊岡市・城崎温泉エリア（松葉ガニの旬シーズン前）",
+  "season_rationale": "9月中旬〜11月上旬は松葉ガニ漁解禁（例年11月上旬）直前の時期で、城崎温泉のグルメ旅館を『これから旬を迎えるカニ旅の予習』として紹介するのに適したタイミング（原則30）。",
+  "prior_posts_checked": [
+    { "entry_id": "2026-09-18-fufu-karuizawa", "region": "長野県軽井沢町（中軽井沢）", "category": "サウナ" },
+    { "entry_id": "2026-09-14-kinmedai-kokorone", "region": "静岡県伊東市（宇佐美温泉）", "category": "グルメ旅館" },
+    { "entry_id": "2026-09-18-karuizawa-sauna", "region": "長野県軽井沢町", "category": "サウナ（候補ファイル）" }
+  ],
+  "duplication_note": "直近投稿（captions/2026-09-18-fufu-karuizawa.json）は軽井沢×サウナのため、地域・カテゴリともに連続しない。グルメ旅館カテゴリ自体は2026-09-14の伊豆・伊東（金目鯛）で使用済みだが、間に軽井沢×サウナを挟んでおり連続ではない。地域は伊豆・伊東とは全く異なる兵庫県豊岡市・城崎温泉エリアを新規調査した。",
+  "other_candidates_considered": [
+    {
+      "name": "かに楽座 甲羅戯（三吉）",
+      "category": "グルメ旅館",
+      "note": "一休.com総合4.62（50件）・楽天トラベル4.00（55件）と高評価で、香住ガニ料理の評判も非常に良い有力候補。ただし所在地が兵庫県美方郡香美町香住区であり、今回の指定エリアである『兵庫県豊岡市・城崎温泉エリア』とは行政区・立地が異なる（城崎温泉から車で30分程度離れた別の温泉地）ため、今サイクルの地域指定を厳密に満たさないと判断し、候補から除外した。次サイクルで『香住・山陰海岸のカニ旅館』として独立に再検討可能。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-09-18-nishimuraya-honkan",
+      "name": "城崎温泉 西村屋本館",
+      "region": "兵庫県豊岡市城崎町湯島（城崎温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "一休.com", "score": 4.81, "scale": 5, "review_count": 69, "checked_date": "2026-09-18", "url": "https://www.ikyu.com/00000476/review/" },
+        { "source": "楽天トラベル", "score": 4.33, "scale": 5, "review_count": 330, "checked_date": "2026-09-18", "url": "https://travel.rakuten.co.jp/HOTEL/75399/review.html" }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付き・大人1名（2名1室利用）で57,200円〜101,200円程度（税込表示、WebSearchスニペットベース）。露天風呂付き客室【桜】では1名1泊2食73,700円〜という情報もあり、客室タイプ・プランにより幅が大きい。2026年8月29日の営業再開（後述）以降の料金体系である可能性があり、正確な最新価格は公式サイト・予約サイトで要確認。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "約160年の歴史を持つ、城崎温泉を代表する最高峰クラスの老舗旅館。建築家・平田雅哉設計の数寄屋造り別邸と日本庭園、国の登録有形文化財の建物を持ち、『ミシュランガイド兵庫2016特別版』で4レッドパビリオンを獲得、フランス発祥の高級ホテル・レストラン協会『ルレ・エ・シャトー』にも加盟する格式高い宿。2026年6月24日〜8月28日に客室改装・全館個別空調更新工事のため全館休館し、2026年8月29日に営業再開したばかりで、伝統と新しさを併せ持つタイミング。",
+      "renewal_or_news": "2026年6月24日〜8月28日（66日間）、客室改装（1間8畳6室を和洋室10畳・6畳3室に改装）と全館個別空調工事のため全館休館し、2026年8月29日に営業再開（改装後客室数26室）。検索日（2026-09-18）時点で再開から約3週間と情報が新しい。",
+      "target_audience": ["夫婦", "記念日", "グルメ旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 13,
+        "unique_experience_score": 19,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 5
+      },
+      "score": 84,
+      "recommendation_reason": "一休.com4.81（69件）・楽天トラベル4.33（330件）という、性質の異なる2つの独立した予約サイトでいずれも推奨ライン（4.2以上）を上回る評価を確認。件数も69〜330件と一定の母数があり信頼度が高い。ミシュランガイド掲載・ルレエシャトー加盟という第三者評価の裏付けに加え、国の登録有形文化財の建築美と日本庭園という強いビジュアルフックを持ち、2026年8月29日に客室改装を終えたばかりというタイムリーな話題性もある、城崎温泉最高峰クラスの老舗旅館。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorでは豊岡市内のホテル97軒中1位・評価4/5（403件）と高評価。Web検索の範囲では清潔感・安全性に関わる重大な指摘は見つからなかった。一方、2026年6月24日〜8月28日に全館休館・客室改装を行い8月29日に営業再開したばかりのため、改装後の口コミ・評判はまだ十分に蓄積されておらず、直近の実際の宿泊満足度は検索範囲では確認しきれていない点を留意事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "城崎温泉 西村屋本館 クチコミ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/75399/review.html" },
+        { "type": "review_site", "title": "西村屋本館 - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00000476/review/" },
+        { "type": "official", "title": "城崎温泉 旅館 西村屋本館 | 公式ホームページ", "url": "https://www.nishimuraya.ne.jp/honkan/" },
+        { "type": "other", "title": "城崎温泉 西村屋本館 | 最高級旅館ストーリー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/platinum/nishimuraya/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-18-kinosaki-mikiya",
+      "name": "城崎温泉 登録有形文化財の宿 三木屋",
+      "region": "兵庫県豊岡市城崎町湯島（城崎温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.76, "scale": 5, "review_count": 220, "checked_date": "2026-09-18", "url": "https://travel.rakuten.co.jp/HOTEL/106245/review.html" },
+        { "source": "一休.com", "score": 4.70, "scale": 5, "review_count": 41, "checked_date": "2026-09-18", "url": "https://www.ikyu.com/00002006/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付き・大人2名1室で合計63,800円〜213,400円程度（税込表示）。プラン・客室タイプにより幅が大きい。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "創業300年、文豪・志賀直哉が大正2年に約3週間逗留し、名作短編『城の崎にて』を執筆した『文豪ゆかりの宿』として知られる、国の登録有形文化財の木造旅館（昭和2年築）。300坪の日本庭園を持ち、2013年11月にロビー・ダイニング・大浴場を大規模リニューアル。物語性のある滞在体験が最大の独自性。",
+      "renewal_or_news": "2013年11月にロビー・ダイニング・大浴場を大規模リニューアル済み（西村屋本館の2026年8月改装ほど直近ではない）。",
+      "target_audience": ["夫婦", "記念日", "グルメ旅", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 11,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 81,
+      "recommendation_reason": "楽天トラベル4.76（220件）・一休.com4.70（41件）と、いずれも推奨ラインを大きく上回る非常に高い評価。文豪・志賀直哉が『城の崎にて』を執筆した宿という唯一無二のストーリー性を持つ。西村屋本館と僅差で総合スコアは高いが、建物の古さに関する指摘が複数あり、直近の大規模改装（西村屋本館は2026年8月）という新鮮さの面でやや見劣りするため次点候補とする。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミでは『部屋が古く、水回りや調度品に工夫がほしい』『2階への階段の滑り止めが破損』『部屋のエアコンの雑音が気になる』など、築約100年（昭和2年築・登録有形文化財）の木造建築に起因する設備面の指摘が複数確認された。ただし多くのレビューでは『昭和レトロな佇まいと現代的な趣が調和している』と好意的に受け止められており、清潔感・接客・料理面での重大な指摘（衛生・安全上の懸念）は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "城崎温泉 登録有形文化財の宿 三木屋 クチコミ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/106245/review.html" },
+        { "type": "review_site", "title": "城崎温泉 登録有形文化財の宿 三木屋 - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00002006/review/" },
+        { "type": "official", "title": "三木屋について | 城崎温泉 三木屋【公式HP】志賀直哉ゆかりの宿", "url": "https://kinosaki-mikiya.jp/about/" },
+        { "type": "other", "title": "三木屋 | 城崎温泉観光協会", "url": "https://kinosaki-spa.gr.jp/stay/mikiya/" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-09-18-sennennoyu-koman",
+      "name": "城崎温泉 千年の湯古まん",
+      "region": "兵庫県豊岡市城崎町湯島（城崎温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.28, "scale": 5, "review_count": 377, "checked_date": "2026-09-18", "url": "https://travel.rakuten.co.jp/HOTEL/67969/review.html" }
+      ],
+      "price_range_jpy": {
+        "note": "WebSearchの範囲では1泊2食の具体的な価格帯を確認できなかった。城崎温泉の他旅館の相場から中価格帯と推測されるが未確認のため、キャプション化する場合は要注記。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "開湯1300年を謳う城崎温泉の老舗宿の一つ。数寄屋造りの建物、部屋食、一部客室の専用露天風呂が特徴で、松葉ガニづくし料理が名物。大谷川沿いに立ち外湯巡りに便利な立地。",
+      "renewal_or_news": "直近の大規模リニューアル情報は確認できなかった。建物の古さ・エレベーター不在についての言及が複数あり、設備面の新しさという観点では他候補に劣る。",
+      "target_audience": ["夫婦", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 10,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 65,
+      "recommendation_reason": "外湯巡りに便利な立地と部屋食・部屋露天風呂、松葉ガニづくし料理は魅力的だが、建物老朽化・エレベーター不在という設備面の弱点があり、Tripadvisorには名物であるはずのカニ料理について否定的なレビュータイトルも確認された。独立した評価源も楽天トラベル1件のみで裏付けが弱く、総合スコアが採用ライン（75点）に届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorに『料理が残念でした』という否定的なレビュータイトルが存在し、看板である松葉ガニ料理の満足度にばらつきがある可能性がある。また建物の老朽化・エレベーターなしという設備面の弱点も複数の情報源で指摘されている。清潔感・安全性に関わる重大な指摘（衛生問題等）は確認されなかったため disqualifying_issues_found は false とするが、体験の一貫性への懸念からスコアは伸びなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "城崎温泉 千年の湯古まん クチコミ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/67969/review.html" },
+        { "type": "review_site", "title": "料理が残念でした。 - 千年の湯 古まんの口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g1022822-d1129557-r250918161-Sennen_no_Yu_Koman-Toyooka_Hyogo_Prefecture_Kinki.html" },
+        { "type": "official", "title": "城崎温泉 旅館｜千年の湯 古まん｜公式サイト", "url": "http://sennennoyu-koman.com/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score_breakdown合計65点で採用ライン（75点）未満。建物老朽化・エレベーターなしという設備面の弱点に加え、Tripadvisorに名物の松葉ガニ料理に対する否定的レビュー（『料理が残念でした』）が確認され、看板体験の一貫性にやや懸念があるため。独立した数値評価源も楽天トラベル1件のみで、原則7の複数情報源の裏付けとしてもやや弱い。"
+    }
+  ]
+}

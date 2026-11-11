@@ -1,0 +1,152 @@
+{
+  "cycle_date": "2026-10-28",
+  "theme": "カテゴリ『オールインクルーシブ』×地域『和歌山県西牟婁郡白浜町（南紀白浜）』",
+  "season_rationale": "南紀白浜は関西から近い海浜リゾートで、11月は台風シーズンが終わり、海水浴客が落ち着いた後の落ち着いた温泉・リゾート需要期にあたる。カテゴリ『オールインクルーシブ』はこれまで沖縄各地・北海道（トマム／ルスツ／登別）・東海（熱海／下田／伊豆伊東）・九州（指宿／天草・雲仙島原／壱岐）・北陸（加賀）・福岡（糸島）で継続調査してきたが、和歌山県・南紀白浜は同カテゴリで未調査の地域だった。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-27-all-inclusive-itoshima", "region": "福岡県糸島市", "category": "オールインクルーシブ", "note": "直近のオールインクルーシブサイクル。公式に『オールインクルーシブ』を名乗るプランが確認できず3件とも不採用。地域は重複しない。" },
+    { "post_id": "2026-10-27-all-inclusive-iki", "region": "長崎県壱岐市", "category": "オールインクルーシブ", "note": "3件調査しいずれも不採用。地域は重複しない。" },
+    { "post_id": "2026-10-26-all-inclusive-ibusuki", "region": "鹿児島県指宿市", "category": "オールインクルーシブ", "note": "3件調査しいずれも不採用。地域は重複しない。" },
+    { "post_id": "2026-10-26-all-inclusive-atami", "region": "静岡県熱海市", "category": "オールインクルーシブ", "note": "3件調査しいずれも不採用。地域は重複しない。" },
+    { "post_id": "2026-10-25-all-inclusive-noboribetsu", "region": "北海道登別市登別温泉町", "category": "オールインクルーシブ", "note": "登別万世閣をselected。地域は重複しない。" }
+  ],
+  "duplication_note": "data/candidates・captions配下の既存全件をファイル名・内容（『白浜』『Shirahama』『南紀』を含むか）で確認した。data/candidates/2026-10-17-shirahama-glamping.json（captions/2026-10-17-luanapark-shirahama.json）が南紀白浜を対象とした唯一の既存ファイルだが、カテゴリは『グランピング』（ラ・ナーチャグランピングリゾート南紀白浜）であり、本サイクルのカテゴリ『オールインクルーシブ』とは重複しない。1ヶ月以上前（2026-09-14〜2026-09-22）のオールインクルーシブ候補（石垣島・北海道トマム・サホロ・札幌・瀬戸内クルーズ）も確認したが、いずれも南紀白浜とは地域が異なる。したがって『和歌山県西牟婁郡白浜町』×『オールインクルーシブ』の組み合わせは重複なしと判断した。",
+  "research_note": "WebSearchで『白浜 オールインクルーシブ ホテル プラン』『南紀白浜 オールインクルーシブ 宿泊プラン 飲み放題 食べ放題』『白浜古賀の井リゾート&スパ オールインクルーシブ』『南紀白浜 ホテル オールインクルーシブ 公式』『FIVE SPRING RESORT THE SHIRAHAMA 口コミ 評価』『グランドメルキュール和歌山みなべリゾート&スパ 所在地』など多数のクエリで調査した。白浜町内の主要ホテル（南紀白浜マリオットホテル、白浜古賀の井リゾート&スパ等）の多くは、朝食・夕食のビュッフェや食べ放題プランは確認できたが、ドリンク（特にアルコール）やアクティビティまで宿泊料金に包括的に含む『オールインクルーシブ』を公式に明示したプランは確認できなかった。一方、2024年3月開業の全室スイート・全室温泉付きリゾート『FIVE SPRING RESORT THE SHIRAHAMA』が、公式サイト・各予約サイトで食事（朝夕）・ドリンク（バーのアルコール含む）・温泉・温泉プール・駐車場までを宿泊料金に含む『オールインクルーシブ』を明確に打ち出しており、カテゴリ条件に合致することを確認した。同施設は2024年開業の小規模（全18室）施設で主要レビューサイトの口コミ件数自体が少なく（楽天トラベルで確認できた口コミは2件、ニフティ温泉は0件）、原則7が推奨する『十分な件数での独立2情報源』を厳密に満たすものではないため、原則6のHidden Gemとして扱い、ミシュランガイド『ホテルセレクション2025』掲載（和歌山県のホテルとして初）およびSmall Luxury Hotels of the World (SLH) 正式加盟という独立した第三者評価機関による認証を、口コミ件数の少なさを補う根拠として採点に加味した。比較対象として調査した『白浜古賀の井リゾート&スパ』はビュッフェ・温泉・プールを備える人気施設だが、オールインクルーシブと明記されたプランを確認できず不採用。また『グランドメルキュール和歌山みなべリゾート&スパ』も検索上はオールインクルーシブ系の紹介で挙がったが、公式住所が和歌山県日高郡みなべ町であり、今回の地域条件『和歌山県西牟婁郡白浜町』を満たさないため候補として採点せず不採用とした。なお、FIVE SPRING RESORT THE SHIRAHAMAの運営会社・開業経緯・コンセプトについては出典付きでcreator_storyに整理したが、代表者本人が開業の思いを直接語った一次インタビュー記事、温泉の『57年ぶりに湧出』という説明の独立した地質学的裏付け、建築設計者名は今回のWebSearchでは確認できなかった旨を明記している。",
+  "candidates": [
+    {
+      "id": "2026-10-28-five-spring-resort-shirahama",
+      "name": "FIVE SPRING RESORT THE SHIRAHAMA",
+      "region": "和歌山県西牟婁郡白浜町300番地2",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "楽天トラベル",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 2,
+          "checked_date": "2026-10-28",
+          "url": "https://travel.rakuten.co.jp/HOTEL/191595/review.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "予約サイト掲載では1室2名1泊の総額（税込・ポイント還元後目安）でスイート約153,120円〜、朝食付きドラゴンルームで約158,756円〜という掲載が確認できた（掲載時期不明のため目安）。日帯利用のBBQプランは大人1名9,900円〜で温泉・プール利用込み。入湯税150円/人は別途。オールインクルーシブには朝夕の食事、バーのアルコールを含むドリンク、温泉・温泉プール・リラクゼーション施設、駐車場が含まれるとされるが、一部有料オプションは別料金。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2024年3月1日に和歌山県白浜町にグランドオープンした、全18室すべてがスイートの小規模ラグジュアリーリゾート。約4,000坪の敷地に、深層1,000mから採取した成分無調整・温度調節なしとされる『純泉』の温泉を全客室に引き込み、客室の一部はテラスから直接温泉プールに入れる造りになっている。敷地内には約400平方メートルの温泉温水ラグーンプール、大浴場、ポケットサウナ等を備え、食事は紀州の食材を使った懐石料理中心。宿泊料金には朝夕の食事・バーのアルコールを含むドリンク・温泉・プール利用・駐車場が含まれる『オールインクルーシブ』形式を公式に採用している。",
+      "renewal_or_news": "2025年9月にSmall Luxury Hotels of the World (SLH) に日本国内19番目のホテルとして正式加盟。『ミシュランガイド ホテルセレクション2025』に和歌山県のホテルとして初めて掲載された。2026年3月に開業2周年を迎え、記念の宿泊料20%オフキャンペーン（2026年4月30日まで）が実施されるなど、現在も話題性・プラン更新が継続している。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 3,
+        "unique_experience_score": 20,
+        "photogenic": 15,
+        "value_for_price": 7,
+        "sns_buzz": 9,
+        "access_and_freshness": 5
+      },
+      "score": 75,
+      "recommendation_reason": "食事（朝夕）・バーのアルコールを含むドリンク・温泉・温泉プール・駐車場までを宿泊料金に含む『オールインクルーシブ』を公式サイト・予約サイトで明確に確認でき、今回のカテゴリ条件に合致する。全18室すべてがスイートで温泉付き、一部はテラスから直接温泉プールに入れる設計、約400平米の温泉ラグーンプールやアート展示など独自性が非常に高く、2025年のミシュランガイド『ホテルセレクション2025』掲載（和歌山県初）およびSLH正式加盟という独立した第三者評価機関の認証も得ている。一方で2024年開業の小規模施設のため主要レビューサイトの口コミ件数自体が少なく（楽天トラベルで確認できたのは2件、ニフティ温泉は0件）、原則7の『十分な件数での独立2情報源』を厳密には満たせていない。そのため原則6のHidden Gemとして扱い、口コミ件数の少なさは上記の第三者評価・公式情報の確からしさで補って採点した。採用ラインの75点ちょうどで選定。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できた口コミ自体が少なく（楽天トラベルで2件：2026年3月宿泊の家族連れが総合5、2025年11月宿泈の40代女性が総合4）、systematic確認とは言えない。総合4の口コミでは、客室・接客・ピアノ演奏は高評価だったが、朝食ビュッフェの人の流れが悪いこと、グリル肉・海鮮ステーションの改善を望む指摘があった（朝食の項目別評価は3程度）。ニフティ温泉・ミシュランガイドではまだ口コミ自体が集まっておらず、衛生面・安全性に関わる重大な指摘や営業上のトラブルは確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "運営会社は株式会社永晃（大阪市中央区、代表取締役：張智恵氏）。プレスリリースによれば、同社は『FIVE HOTEL GROUP』として2021年に大阪・コリアタウンに1棟目のホテルを開業しており、ブランド名『FIVE』が示すとおり将来的に5棟体系を目指す中の2棟目として、2024年3月1日に南紀白浜へ本施設をグランドオープンした。コンセプトとしては、地下1,000mから採取した成分無調整・温度調節なしの温泉を『純泉』と呼び全18室（すべてスイート）に引き込んだ点を軸に、各棟を日本から見て一年中地平線に沈まない北天の5つの星座（おおぐま座・きりん座・りゅう座・こぐま座・ケフェウス座）の名で呼ぶなど、『源泉（スプリング）』と『北極星を囲む5つの星』を重ねた『FIVE SPRING』という名称を掲げている。ロビーや客室にはアート作品を展示し、現代的なデザインと旅館的なもてなしを融合させる方針であることは、ミシュランガイドの紹介コメントでも言及されている。確認できなかった点として、代表者本人が開業時の思いを直接語った一次インタビュー記事は今回のWebSearchでは見つからなかった。温泉が『57年ぶりに湧出した』とする説明は運営・メディア側の記述であり、独立した地質学的裏付けは確認できていない。建築・インテリアの設計者名についても、今回の調査では確認できなかった。",
+        "sources": [
+          { "type": "press", "title": "南紀白浜『FIVE SPRING RESORT THE SHIRAHAMA』が世界的なホテルブランドSLHに加盟、純度100%源泉×全室スイートの極上リゾート - 鉄道チャンネル", "url": "https://tetsudo-ch.com/13008943.html" },
+          { "type": "press", "title": "【GRAND OPEN】3月1日、白浜リゾートホテル「FIVE SPRING RESORT THE SHIRAHAMA」グランドオープン！ - PR TIMES", "url": "https://prtimes.jp/main/html/rd/p/000000005.000136640.html" },
+          { "type": "press", "title": "【ミシュランガイド掲載】和歌山県のホテルとして史上初!* オールインクルーシブ型リゾートホテル「FIVE SPRING RESORT THE SHIRAHAMA」 - 財経新聞（プレスリリース）", "url": "https://zaikei.co.jp/releases/3285925/" },
+          { "type": "other", "title": "FIVE SPRING RESORT THE SHIRAHAMA - Michelin Guide（ホテルセレクション2025 紹介コメント）", "url": "https://guide.michelin.com/mo/en/hotels-stays/shirahama/five-spring-resort-the-shirahama-16313" }
+        ]
+      },
+      "sources": [
+        { "type": "official", "title": "FIVE SPRING RESORT THE SHIRAHAMA 公式サイト", "url": "https://fivehotel-shirahama.com/" },
+        { "type": "official", "title": "Small Luxury Hotels of the World 公式掲載ページ（ファイブスプリング・リゾート・ザ・シラハマ）", "url": "https://www.slhhotels.jp/hotels/five-spring-resort-the-shirahama/" },
+        { "type": "review_site", "title": "FIVE SPRING RESORT THE SHIRAHAMA クチコミ・レビュー - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/191595/review.html" },
+        { "type": "booking_site", "title": "FIVE SPRING RESORT THE SHIRAHAMA - じゃらんnet", "url": "https://www.jalan.net/yad317648/" },
+        { "type": "press", "title": "【ミシュランガイド掲載】和歌山県のホテルとして史上初!* オールインクルーシブ型リゾートホテル「FIVE SPRING RESORT THE SHIRAHAMA」 - 財経新聞（プレスリリース）", "url": "https://zaikei.co.jp/releases/3285925/" },
+        { "type": "other", "title": "FIVE SPRING RESORT THE SHIRAHAMA - Michelin Guide", "url": "https://guide.michelin.com/mo/en/hotels-stays/shirahama/five-spring-resort-the-shirahama-16313" }
+      ],
+      "decision": "selected",
+      "rejection_reason": ""
+    },
+    {
+      "id": "2026-10-28-coganoi-resort-shirahama",
+      "name": "白浜古賀の井リゾート&スパ",
+      "region": "和歌山県西牟婁郡白浜町",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "1泊2食付きで1名あたり17,900円〜85,000円（入湯税150円別途）という掲載が確認できたが、プラン・時期による目安。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "田辺湾を望む高台に立つリゾートホテル。スイート・和室・スタンダードなど複数の客室タイプがあり、多くが海view。敷地内に自家源泉の露天風呂・大浴場、屋内外プール（夏季は屋外ガーデンプールも）を備えたスパゾーンがあり、年間を通じて大規模なイルミネーションを実施している。",
+      "target_audience": ["家族", "カップル", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 10,
+        "photogenic": 8,
+        "value_for_price": 3,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 26,
+      "recommendation_reason": "田辺湾を望む高台の自家源泉・プール・イルミネーションなど施設としての魅力は確認できたが、今回のWebSearchでは食事・ドリンクを宿泊料金に包括的に含む『オールインクルーシブ』と明記されたプランを確認できず（確認できたのはビュッフェレストランと1泊2食プランのみ）、楽天トラベル等での数値的な口コミ評価・件数も今回は確認できなかった。カテゴリ条件への適合が確認できないため不採用。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "オールインクルーシブ該当プランの有無確認を優先したため、低評価レビューの系統的な確認は行っていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "白浜古賀の井リゾート&スパ 施設情報 - 近畿日本ツーリスト", "url": "https://www.knt.co.jp/yado/sp/coganoi_resort/" },
+        { "type": "other", "title": "白浜古賀の井リゾート&スパ 紹介ページ - たびいろ", "url": "https://tabiiro.jp/yado/s/100192-nishimuro-coganoi-bay/" },
+        { "type": "review_site", "title": "白浜古賀の井リゾート&スパ 温泉情報 - ジョルダン", "url": "https://sp.jorudan.co.jp/onsen/details/2365/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "地域（白浜町）には合致するが、オールインクルーシブという今回のカテゴリ条件を満たすプランの存在を確認できなかったため不採用。"
+    },
+    {
+      "id": "2026-10-28-grandmercure-minabe",
+      "name": "グランドメルキュール和歌山みなべリゾート&スパ",
+      "region": "和歌山県日高郡みなべ町山内字大目津泊り348",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "地域条件不一致のため価格の調査は実施していない。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "千里海岸の高台に立ち、太平洋と紀伊山地を望むリゾートホテル。オールインクルーシブ系のプランを持つ施設として検索結果に挙がったため調査対象とした。",
+      "target_audience": ["家族", "カップル"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 0,
+        "photogenic": 0,
+        "value_for_price": 0,
+        "sns_buzz": 0,
+        "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "検索では『南紀白浜 オールインクルーシブ』の関連候補として挙がったが、近畿日本ツーリスト等の施設情報で公式住所を確認した結果、所在地は和歌山県日高郡みなべ町（千里海岸）であり、今回の地域条件『和歌山県西牟婁郡白浜町』を満たさないことが判明した。そのため施設としての評価・採点は行わず、地域不一致を理由に不採用とした。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "地域条件不一致が判明した時点で調査を打ち切ったため、口コミ内容の確認は行っていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "グランドメルキュール和歌山みなべリゾート&スパ（旧:ホテル&リゾーツ 和歌山みなべ）施設情報・所在地 - 近畿日本ツーリスト", "url": "https://yado.knt.co.jp/st/S300052/" },
+        { "type": "other", "title": "グランドメルキュール和歌山みなべリゾート&スパ 紹介記事 - ねとらぼ調査隊", "url": "https://nlab.itmedia.co.jp/research/articles/4012030/" },
+        { "type": "other", "title": "グランドメルキュール和歌山みなべリゾート & スパ 施設情報", "url": "https://jcation.com/hotel/detail-1052/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "施設の公式所在地が和歌山県日高郡みなべ町であり、今回の地域条件『和歌山県西牟婁郡白浜町（南紀白浜）』と一致しないため不採用（施設自体の評価は未実施）。"
+    }
+  ]
+}

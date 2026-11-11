@@ -1,0 +1,134 @@
+{
+  "cycle_date": "2026-10-26",
+  "theme": "栃木県日光市鬼怒川温泉エリアのラフティング等リバーアクティビティ",
+  "season_rationale": "鬼怒川のラフティング・キャニオニングは例年4月下旬〜11月下旬頃までのグリーンシーズン営業で、10月下旬〜11月上旬は渓谷の紅葉が見頃を迎えつつ、営業期間終盤に近づくタイミングにあたる。紅葉を眺めながら急流を下れる『今シーズン最後に近い』予約検討のタイミングとして需要が見込める。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-25-ritz-carlton-nikko", "region": "栃木県日光市中宮祠（中禅寺湖、奥日光）", "category": "絶景ホテル" },
+    { "post_id": "2026-10-25-dogo-yamatoya-honten", "region": "愛媛県松山市道後湯之町", "category": "温泉旅館" },
+    { "post_id": "2026-10-25-symphony-cruise-tokyo-bay", "region": "東京都港区（東京湾）", "category": "列車・船" },
+    { "post_id": "2026-10-25-yutomori-club-togatta", "region": "宮城県刈田郡蔵王町遠刈田温泉", "category": "サウナ" },
+    { "post_id": "2026-10-25-shimanto-kankou-yuransen", "region": "高知県四万十市（四万十川）", "category": "アクティビティ" }
+  ],
+  "duplication_note": "data/candidates・captions 全体を確認した結果、栃木県鬼怒川温泉エリアそのものは2026-10-17（鬼怒川温泉の露天風呂付き客室がある温泉旅館、カテゴリ『温泉旅館』）で一度登場しているが、今回のテーマ『ラフティング等リバーアクティビティ』（カテゴリ『アクティビティ』）は内容・カテゴリとも重複しておらず新規の切り口。なお同じ日光市内では前日2026-10-25にザ・リッツ・カールトン日光（中禅寺湖、絶景ホテル）が選定されているため地域（日光市）としては連続する点は留意事項として記録する。一方で鬼怒川温泉（渓谷沿いの温泉街）と中禅寺湖（奥日光の湖畔）は同じ日光市内でも約1時間離れた別エリアであり、カテゴリも『絶景ホテル』と『アクティビティ』で異なるため、原則29の『同一地域・同一カテゴリの連続投稿回避』には抵触しないと判断した。カテゴリ『アクティビティ』自体は前日2026-10-25（四万十川観光遊覧船、高知県）に続いての選定だが、地域は全く異なる。群馬県みなかみ町のアクティビティ型候補（2026-10-17-minakami-activity.json）はラフティング・キャニオニング事業者キャニオンズを検討済みだが、鬼怒川（栃木県）とは別の河川・別の事業者であり対象が異なる。",
+  "candidates": [
+    {
+      "id": "2026-10-26-naoc-kinugawa-rafting",
+      "name": "NAOC（栃木県初のラフティング・キャニオニング事業者／鬼怒川温泉滝）",
+      "region": "栃木県日光市鬼怒川温泉滝",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらん（NAOCラフティング）", "score": 4.5, "scale": 5, "review_count": 30, "checked_date": "2026-10-26" },
+        { "source": "じゃらん（日光那須アウトドアサービス 鬼怒川）", "score": 4.1, "scale": 5, "review_count": 16, "checked_date": "2026-10-26" }
+      ],
+      "price_range_jpy": {
+        "note": "半日ラフティング（対象6歳以上、所要約2時間30分〜3時間、09:00/13:00出発）は大人8,300円程度〜、小学生7,300円程度〜との掲載あり（保険料500円が別途かかるとの記載もある）。キャニオニングは複数コース制で別料金帯（海外メディア記事では大人1名7,700円程度との掲載もあり、記事・時期により差がある）。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "栃木県で2000年に初めてラフティングツアーを開催した鬼怒川温泉のパイオニア的事業者。東武鬼怒川線沿線の鬼怒川温泉滝エリアを拠点に、本流を下る半日ラフティングと、渓谷の滝つぼ・急流を進むキャニオニング（ファミリー向けの易しいコースから本格的なコースまで複数）を1社で両方提供している点が独自で、『渓谷を下る』『渓谷を登る・飛び込む』という鬼怒川らしい渓谷体験をまとめて選べる。6歳から参加可能なラフティングプランがあり、ライフジャケット・ヘルメット等の装備とガイドが付くため初心者・ファミリーでも参加しやすい設計になっている。",
+      "renewal_or_news": "2000年の創業以来、栃木県初のラフティング事業者として鬼怒川温泉滝エリアで継続営業。ラフティング・キャニオニングのシーズンは例年4月下旬〜11月下旬頃までとされ、2026年10月下旬〜11月上旬は渓谷の紅葉が見頃を迎えつつ営業期間終盤に近づくタイミングにあたる。",
+      "target_audience": ["友人", "家族", "カップル", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 11,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 77,
+      "recommendation_reason": "じゃらんの2つの掲載（『NAOCラフティング』4.5点／30件、『日光那須アウトドアサービス(鬼怒川)』4.1点／16件）はいずれも推奨ライン4.0以上で、両者が完全に同一事業者かはこのセッションのWeb検索の範囲では確証できなかったため参考値として扱った。一方で、日本政府観光局（JNTO）公式サイトjapan.travel、日光市観光公式サイトVisit Nikko、東武鉄道の公式プレスリリース（鬼怒川エリアの水上アクティビティ紹介）、独立系旅行メディアGoNomad、口コミ集約サイトWanderlogという、性質の異なる複数の情報源すべてで『鬼怒川を代表する老舗ラフティング・キャニオニング事業者』として一貫して取り上げられており、原則6・7の独立情報源の要件は満たしていると判断した。栃木県初・2000年創業というパイオニアとしての歴史性と、ラフティングとキャニオニングを1社で両方体験できる独自性、紅葉シーズン終盤というタイミングの合致から選定した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "NAOCを名指しした『悪い口コミ』『残念』等のネガティブキーワードに絞った専用検索は、本セッションのWebSearch呼び出し上限に達したため実施できなかった。収集できた範囲（じゃらんの2件のリスティング、Wanderlogの集約口コミ、GoNomad・東武鉄道・Visit Nikko等の紹介記事）では、ガイドの対応の丁寧さや渓谷の迫力を評価する声が中心で、安全面・接客面に関する重大な指摘は確認できなかった。ただしGoogleマップ・Tripadvisor等の生の低評価レビュー本文には到達できておらず、確認範囲は限定的である点は留保事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "Kinugawa River Rafting - 日本政府観光局（JNTO）公式サイト japan.travel", "url": "https://www.japan.travel/en/sports/adventure/activities/kinugawa-river-rafting/" },
+        { "type": "official", "title": "Canyoning / Rafting - Visit Nikko（日光市観光公式サイト）", "url": "https://visitnikko.jp/spots/canyoning/" },
+        { "type": "press", "title": "鬼怒川エリアの水上アクティビティ紹介 - 東武鉄道 公式プレスリリース", "url": "https://www.tobu.co.jp/en/sightseeing/news/237.html" },
+        { "type": "press", "title": "Flooding With Fun: Japan's Kinu River - GoNomad Travel", "url": "https://www.gonomad.com/115552-flooding-with-fun-japans-kinu-river" },
+        { "type": "review_site", "title": "Kinugawa Rafting NAOC（口コミ集約） - Wanderlog", "url": "https://wanderlog.com/place/details/9448815/kinugawa-rafting-naoc" },
+        { "type": "booking_site", "title": "NAOC nikko Kinugawa Rafting, canyoning - Rakuten Travel Experiences", "url": "https://experiences.travel.rakuten.com/experiences/35490" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-26-e-rafting-kinugawa",
+      "name": "eラフティング（鬼怒川温泉）",
+      "region": "栃木県日光市鬼怒川温泉",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "鬼怒川エリアのラフティング相場は大人1名あたり4,000円〜8,000円程度、半日ツアーで8,300円前後との紹介記事があるが、eラフティング自体の確定料金はこのセッションのWeb検索の範囲では確認できなかった。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "鬼怒川温泉でラフティングのコースを開拓したガイドが主宰する老舗事業者とされ、鬼怒川温泉駅から徒歩約3分という好アクセスが特徴。asoview上の口コミ件数は185〜187件（取得時点により表記差あり）と、鬼怒川エリアの他事業者と比べて件数自体は多い。",
+      "target_audience": ["友人", "一人旅", "カップル"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 5,
+        "unique_experience_score": 14,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 40,
+      "recommendation_reason": "asoview上の口コミ件数（185〜187件）は鬼怒川エリアの他事業者より多く、鬼怒川温泉駅から徒歩3分というアクセスの良さ、コースを開拓した老舗ガイドという独自性は確認できた。しかし、WebFetchでのページ直接取得がこのセッションのネットワーク制限で行えず、WebSearchのスニペット経由では平均評価点（星の数）を一度も確認できなかった。原則7（確認できない数字は推測しない）に基づき点数を推測することはせず、主要レビュー4.0以上の基準を満たすか判断できないため選定を見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "eラフティングを名指しした低評価レビューの専用検索を試みたが、具体的な否定的コメントは確認できなかった。一方で肯定的な口コミ本文も個別には確認できておらず、評価傾向自体を判断できる材料が不足している。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "鬼怒川エリアのラフティング一覧（口コミ187件・eラフティング掲載） - アソビュー!", "url": "https://www.asoview.com/leisure/5/location/80802/" },
+        { "type": "other", "title": "鬼怒川ラフティングおすすめツアー紹介記事（eラフティング含む） - nap-camp.com", "url": "https://www.nap-camp.com/mag/107533" },
+        { "type": "booking_site", "title": "鬼怒川のラフティングツアー掲載ページ - アソビュー!", "url": "https://www.asoview.com/item/activity/pln3000001795/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "原則7（確認できない数字は推測しない）に基づき、口コミ件数（185〜187件）は確認できたが平均評価点をこのセッションのWeb検索の範囲では確認できず、主要レビュー4.0以上の基準を満たすか判断できなかったため不採用とした。"
+    },
+    {
+      "id": "2026-10-26-kinugawa-rafting-center",
+      "name": "鬼怒川ラフティングセンター",
+      "region": "栃木県日光市鬼怒川温泉",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "鬼怒川エリアのラフティング料金相場は7,700円前後、半日ツアーが8,300円〜との紹介があるが、同センター自体の確定料金はこのセッションのWeb検索の範囲では確認できなかった。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "鬼怒川でラフティングツアーを開催する事業者の一つで、安全基準をクリアしたガイドによる案内と、開業以来無事故という運営実績を打ち出している（事業者側の自己申告）。asoview上の口コミ件数は45件。",
+      "target_audience": ["友人", "家族"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 3,
+        "unique_experience_score": 12,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 34,
+      "recommendation_reason": "asoview上で口コミ45件という一定の実績は確認できたが、平均評価点（星の数）をWebSearchのスニペット経由では一度も確認できず、独立した2件目の数値情報源（じゃらん・Google・Tripadvisor等）も見つからなかった。原則7・8（数字を推測しない／複数の独立情報源での裏付け）を満たせないため選定を見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "低評価レビューを狙った専用検索を行ったが、具体的な否定的コメント・肯定的コメントのいずれも個別本文としては確認できず、評価傾向を判断できる材料が不足している。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "鬼怒川エリアのラフティング一覧（口コミ45件・鬼怒川ラフティングセンター掲載） - アソビュー!", "url": "https://www.asoview.com/leisure/5/location/80802/" },
+        { "type": "other", "title": "鬼怒川 ラフティング料金相場・事業者紹介 - NTA(日本旅行業協会 アクティビティ掲載)", "url": "https://www.nta.co.jp/activity/river/rafting/kanto/tochigi/161/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "原則7（確認できない数字は推測しない）・原則8（複数の独立情報源での裏付け）に基づき、平均評価点と2件目の数値情報源を確認できなかったため不採用とした。"
+    }
+  ]
+}
