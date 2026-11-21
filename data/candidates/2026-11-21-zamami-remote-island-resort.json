@@ -1,0 +1,145 @@
+{
+  "cycle_date": "2026-11-21",
+  "theme": "離島リゾート（沖縄県島尻郡座間味村・慶良間諸島：座間味島・阿嘉島エリア）",
+  "season_rationale": "慶良間諸島は『ケラマブルー』と呼ばれる高い透明度の海で知られ、台風シーズンが落ち着く11月下旬は夏の混雑・料金ピークを過ぎても泳げる『狙い目』シーズンにあたる。加えて座間味村・慶良間諸島は国内有数のホエールウォッチング拠点としても知られ、例年12月〜4月がシーズンとされる（本サイクル調査で複数の宿泊施設の紹介文にも『ホエールウォッチングの拠点』との記載を確認）。11月21日時点はそのシーズン直前にあたり、『海水温が高いうちに泳ぎ、同じ島で冬のホエールウォッチングの下見もできる』という切り口は新規性がある。慶良間諸島自体は2026-09-21サイクル（アクティビティカテゴリ）・2026-10-30サイクル（オールインクルーシブカテゴリ）で調査済みだが、『離島リゾート』カテゴリとしての本格的な調査は今回が初回。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-09-21-kerama-terrace", "region": "沖縄県島尻郡渡嘉敷村（渡嘉敷島）", "category": "アクティビティ（選定済み・caption: 2026-09-21-kerama-terrace.json）" },
+    { "candidate_id": "2026-09-21-kerama-blue-resort", "region": "沖縄県島尻郡座間味村（座間味島）", "category": "アクティビティ（不採用・Tripadvisor3.0/62件）" },
+    { "candidate_id": "2026-09-21-pension-seasir", "region": "沖縄県島尻郡座間味村（阿嘉島）", "category": "アクティビティ（不採用・独立2情報源未達）" },
+    { "candidate_id": "2026-10-30-kerama-terrace-ai-recheck", "region": "沖縄県島尻郡渡嘉敷村（渡嘉敷島）", "category": "オールインクルーシブ（不採用・プラン未確認、重複投稿回避）" },
+    { "candidate_id": "2026-10-30-tokashiku-marine-village", "region": "沖縄県島尻郡渡嘉敷村（渡嘉敷島）", "category": "オールインクルーシブ（不採用）" },
+    { "candidate_id": "2026-10-30-hotel-kanaloa-tokashiki", "region": "沖縄県島尻郡渡嘉敷村（渡嘉敷島）", "category": "オールインクルーシブ（不採用）" },
+    { "candidate_id": "2026-10-22-miyakojima-remote-island-resort-recheck2 / 2026-10-23-yakushima-remote-island-resort-recheck", "region": "宮古島・屋久島", "category": "離島リゾート（別地域・既出）" },
+    { "candidate_id": "2026-09-22-yakushima-activity / 2026-10-19-amami-nakijin-activity", "region": "屋久島・奄美大島", "category": "離島リゾート/アクティビティ（別地域）" }
+  ],
+  "duplication_note": "data/candidates・captions配下を『座間味』『慶良間』『阿嘉』『渡嘉敷』でgrepし全既存ファイルを確認。慶良間諸島は2026-09-21（アクティビティ）・2026-10-30（オールインクルーシブ）で調査済みだが、『離島リゾート』カテゴリでの座間味村エリア調査は本サイクルが初回であり、カテゴリが異なるため重複にはあたらない。なお対象地域の指定が『座間味村』であるため、既にcaption化済みのケラマテラス（渡嘉敷村・渡嘉敷島）は地域が異なり対象外。Kerama Blue Resort・Pension Seasir（マリンハウスシーサー阿嘉島店）は2026-09-21サイクルで別カテゴリとして既に調査済みのため、本サイクルでは新しい口コミ情報の有無を中心に再調査し、CLAUDE.mdの『Notion登録済み候補の再採点禁止』はDiscoveryレーン内の未登録候補には適用されないことを確認した上で、新情報を踏まえて再評価した（いずれも結果は不採用で変わらず）。",
+  "research_note": "WebSearchで『座間味島 ホテル リゾート 口コミ』『阿嘉島 ホテル 宿 口コミ評価』『Kerama Blue Resort レビュー』『AKA LODGE by THE TERRACE HOTELS 口コミ』『座間味島 慶留間島 新しい リゾートホテル』など複数の表現で調査（本セッションのネットワーク制約により、travel.rakuten.co.jp・newt.net等への直接WebFetchはDNS解決エラーとなり不可能だったため、すべてWebSearchの検索結果サマリーを情報源とした）。\n\n調査したが正式なcandidateエントリとしなかった施設：\n(1) AKA LODGE by THE TERRACE HOTELS（阿嘉島）：ザ・テラスホテルズが2026年6月15日に開業した、同社初の離島ブランド。阿嘉島臨海研究所の建物をリノベーションした全12室。『自然との共生』をテーマにしたサステナブルな滞在がコンセプトで、農薬不使用の自家農園、島の食材を使うレストランを備える（出典：琉球新報 https://ryukyushimpo.jp/economics/entry-5314378.html 、PR TIMES https://prtimes.jp/main/html/rd/p/000000162.000010787.html ）。newt.net掲載の評価は5.0/5（清潔度4.7・スタッフ5.0・設備4.7・コンディション4.7）だが、口コミ件数が確認できず、楽天トラベル・じゃらん・フォートラベル等の国内主要サイトでも集計評価・件数を確認できなかった。開業から約5ヶ月と新しく、原則7のファクトチェック・独立2情報源の基準を満たす数値的根拠を確認できないため、数値の捏造を避け正式なcandidateエントリとはしなかった。公式運営元（ザ・テラスホテルズ）の信頼性・コンセプトの独自性は高く、次回以降のサイクルで口コミが蓄積された際の優先再調査対象として記録する。\n(2) シラハマアイランズリゾート（座間味島）：検索結果で『閉鎖しましたため、今は予約できません』と明記されており、原則6（現在営業中であること）を満たさないため除外した。\n(3) 沖縄リゾート〈座間味島〉：確認できた口コミは2022年の投稿（4.0〜5.0）のみで、総合評価・件数・現在の営業状況を確認できなかったため、情報の鮮度不足により除外した。\n\n結論として、本サイクルは座間味村内で3件を正式candidateとして調査・採点したが、いずれも不採用（該当候補なし）。",
+  "candidates": [
+    {
+      "id": "2026-11-21-kerama-blue-resort-recheck",
+      "name": "Kerama Blue Resort（ケラマブルーリゾート）",
+      "region": "沖縄県島尻郡座間味村（座間味島）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Tripadvisor", "score": 3.0, "scale": 5, "review_count": 62, "checked_date": "2026-09-21", "url": "https://www.tripadvisor.com/Hotel_Review-g1121615-d1160843-Reviews-Kerama_Blue_Resort-Zamami_son_Shimajiri_gun_Okinawa_Prefecture_Kyushu.html" },
+        { "source": "Booking.com（海外予約サイト、ミラー掲載ページ経由）", "score": 8.5, "scale": 10, "review_count": 142, "checked_date": "2026-11-21", "url": "https://hotels.webbanve.net/hotel/jp/kerama-blue-resort.html" },
+        { "source": "Dinogo（海外ホテル情報サイト）", "score": 8.2, "scale": 10, "review_count": 23, "checked_date": "2026-11-21", "url": "https://dinogo.com/hotels/612028-kerama-blue-resort" }
+      ],
+      "price_range_jpy": {
+        "note": "トラベルコ最安表示で25,000円〜（2026-09-21時点）。2023年6月開業、全22室。本サイクルで新しい価格情報は確認できず。",
+        "as_of_search_date": "2026-09-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2023年6月開業、座間味島の海岸線に立つ全22室のリゾート。オーシャンビューバルコニー、ビーチ直結、座間味出身ガイドによる少人数制プライベートシュノーケルツアーの手配が特徴。",
+      "renewal_or_news": "2023年開業。本サイクルの再調査では、海外の予約サイト系ミラーページでBooking.com8.5（142件）・Dinogo8.2（23件）という高めの評価が新たに確認できたが、2026-09-21時点のTripadvisor3.0（62件）が改善されたかどうかは直接のTripadvisorページ再確認ができず不明。",
+      "target_audience": ["カップル", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 6,
+        "unique_experience_score": 13,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 54,
+      "recommendation_reason": "ビーチ直結・全22室・座間味出身ガイドによる少人数制シュノーケルツアーという立地と体験の強みはある。本サイクルで新たに確認したBooking.com系ミラーページ（8.5/142件）・Dinogo（8.2/23件）は高めの評価だが、2026-09-21に確認済みのTripadvisor（3.0/62件）という低評価情報源との整合性をこのセッションでは検証できなかった。また国内の主要サイト（楽天トラベル・じゃらん・フォートラベル）では集計評価自体が確認できず、原則7が求める『信頼できる独立2情報源での4.0以上』を安定して満たすとは判断できない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "海外レビューではスタッフの親切さ・ビーチ立地・朝食への好意的なコメントが多い一方、複数のレビューで『リゾートというより民宿やB&Bに近い』『設備は基本的な水準』『昼食・夕食の提供がない』『沖縄本島の同等の宿より料金が高め（フェリー代も別途必要）』といった、リゾートとしての上質感に欠ける具体的な指摘が確認された。加えて2026-09-21時点でTripadvisor3.0（62件）という低評価情報源も存在し、サイトごとの評価のばらつきが大きい。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "official", "title": "Kerama Blue Resort 公式サイト（2026-09-21時点確認、本サイクルでは直接再確認できず）", "url": "https://keramablueresort.com/" },
+        { "type": "review_site", "title": "KERAMA BLUE RESORT - Hotel Reviews - Tripadvisor（2026-09-21時点 3.0・62件）", "url": "https://www.tripadvisor.com/Hotel_Review-g1121615-d1160843-Reviews-Kerama_Blue_Resort-Zamami_son_Shimajiri_gun_Okinawa_Prefecture_Kyushu.html" },
+        { "type": "other", "title": "Kerama Blue Resort（Booking.comデータ掲載ミラーページ、8.5・142件）", "url": "https://hotels.webbanve.net/hotel/jp/kerama-blue-resort.html" },
+        { "type": "other", "title": "Kerama Blue Resort（Dinogo、8.2・23件）", "url": "https://dinogo.com/hotels/612028-kerama-blue-resort" },
+        { "type": "review_site", "title": "Kerama Blue Resort - ゲストコメントまとめ（Wanderlog）", "url": "https://wanderlog.com/place/details/8874731/kerama-blue-resort" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "評価情報源間の整合性が取れず（海外ミラーサイトでは8.2〜8.5/10だが、2026-09-21確認のTripadvisorは3.0/5・62件、国内主要サイトでは集計評価自体が未確認）、原則7のファクトチェック基準を安定して満たせない。また複数のレビューが『リゾートというより民宿に近い』『設備が基本的な水準』と指摘しており、今回のカテゴリ条件『離島リゾート』が前提とする上質なリゾート体験との適合度が低いと判断し、本サイクルでも不採用とした。"
+    },
+    {
+      "id": "2026-11-21-pension-seasir-recheck",
+      "name": "マリンハウスシーサー阿嘉島店（ペンションシーサー）",
+      "region": "沖縄県島尻郡座間味村（阿嘉島）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Tripadvisor", "score": 4.0, "scale": 5, "review_count": 32, "checked_date": "2026-09-21", "url": "https://www.tripadvisor.jp/ShowUserReviews-g1121615-d1877775-r265443822-Pension_Seasir-Zamami_son_Shimajiri_gun_Okinawa_Prefecture_Kyushu.html" },
+        { "source": "フォートラベル（個別口コミ・2026年5月投稿、単発）", "score": 5.0, "scale": 5, "review_count": 1, "checked_date": "2026-11-21" }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な価格帯を確認できなかった。",
+        "as_of_search_date": "2026-11-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "阿嘉島にあるダイビングショップ運営のペンション。ダイビングツアーと宿泊・食事がセットになった手軽さが特徴。本サイクルの再調査でも、2026年5月投稿の口コミでダイビングツアー・宿泊・食事の両方に満足したという好意的な単発レビューを確認した。",
+      "target_audience": ["友人", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 6,
+        "unique_experience_score": 6,
+        "photogenic": 6,
+        "value_for_price": 6,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 43,
+      "recommendation_reason": "Tripadvisor4.0（32件）に加え、本サイクルで2026年5月投稿の好意的な単発口コミ（5.0）も確認できたが、2件目の信頼できる集計評価情報源（楽天トラベル・じゃらん等での件数付き評価）は依然として確認できず原則7未達。また素泊まり・ダイビング客向けのペンション業態であり、『離島リゾート』カテゴリが前提とする上質なリゾート体験との適合度が低い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2026-09-21サイクルで確認したTripadvisor32件の内訳（とても良い12・良い10・普通8・悪い2）から、一定数の『普通』評価が含まれることを確認済み。本サイクルの再調査でも安全性・清潔感に関わる重大な新規指摘は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "宿泊のご案内 | シーサー阿嘉島店", "url": "https://seasir.com/aka/inn" },
+        { "type": "review_site", "title": "阿嘉島が初めてなら手軽で良いかも - ペンションシーサーの口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g1121615-d1877775-r349361118-Pension_Seasir-Zamami_son_Shimajiri_gun_Okinawa_Prefecture_Kyushu.html" },
+        { "type": "other", "title": "阿嘉島の宿の口コミ検索結果まとめ（2026-11-21調査）", "url": "https://4travel.jp/dm_hotel-11796009" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立した2件目の集計評価情報源を確認できず原則7を満たせないこと、およびダイビングショップ運営の素泊まり型ペンションであり『離島リゾート』カテゴリが前提とする上質なリゾート体験との適合度が低いことから、本サイクルでも不採用とした。"
+    },
+    {
+      "id": "2026-11-21-oceana-port-village-zamami",
+      "name": "オセアナポートヴィレッジ座間味",
+      "region": "沖縄県島尻郡座間味村（座間味島）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル（個別口コミ・2026年5月2日投稿、単発）", "score": 5.0, "scale": 5, "review_count": 1, "checked_date": "2026-11-21", "url": "https://4travel.jp/dm_hotel-10053512/tips" },
+        { "source": "フォートラベル（個別口コミ・2025年7月3日投稿、単発）", "score": 2.0, "scale": 5, "review_count": 1, "checked_date": "2026-11-21", "url": "https://4travel.jp/dm_hotel-10053512/tips" }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な価格帯を確認できなかった。",
+        "as_of_search_date": "2026-11-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "座間味島内にある宿泊施設。離島らしいシンプルな部屋・雰囲気を好意的に評価する口コミもあるが、建物・部屋の古さに対して料金が高いとする明確な不満の口コミも存在し、評価が投稿ごとに大きく割れている。",
+      "target_audience": ["一人旅", "友人"],
+      "score_breakdown": {
+        "review_rating": 8,
+        "review_reliability": 3,
+        "unique_experience_score": 7,
+        "photogenic": 6,
+        "value_for_price": 3,
+        "sns_buzz": 1,
+        "access_and_freshness": 2
+      },
+      "score": 30,
+      "recommendation_reason": "離島らしい素朴さを評価する声はあるものの、集計評価・口コミ件数を示す信頼できる情報源が確認できず、確認できた個別口コミも5.0と2.0で大きく割れている。独立2情報源の基準を満たせず、かつ具体的なネガティブ指摘（建物の古さ・料金の高さ）があるため採用基準に達しない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2025年7月3日投稿の口コミで、建物・部屋の古さに対して料金が高すぎるという具体的な不満が確認された。安全性に関わる指摘ではないが、『少し贅沢な旅』というブランドコンセプトと明確に反する内容である。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "review_site", "title": "オセアナポートヴィレッジ座間味の口コミ・評判 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10053512/tips" },
+        { "type": "other", "title": "座間味島の宿泊施設まとめページ（ココロカラ）", "url": "https://www.cocolocala.jp/hotels/30796" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "集計評価・件数を確認できる信頼できる情報源がなく独立2情報源の基準を満たさないこと、また個別口コミに建物の古さ・料金の高さという具体的なネガティブ指摘があり『贅沢旅』というブランドコンセプトとの適合度が低いため不採用。"
+    }
+  ]
+}
