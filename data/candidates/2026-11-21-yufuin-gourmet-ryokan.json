@@ -1,0 +1,157 @@
+{
+  "cycle_date": "2026-11-21",
+  "theme": "グルメ旅館（大分県由布市 由布院温泉エリア）",
+  "season_rationale": "11月下旬の由布院は紅葉がほぼ終盤に入り、朝晩の冷え込みが強まることで名物の「朝霧」が立ちやすい時期にあたる。寒くなるこの時期は、温泉そのものに加えて、個室でじっくり味わう会席料理や黒毛和牛といった『食』の魅力を軸に訴求しやすく、年末年始の記念日旅行・夫婦旅の予約検討が動き出すタイミングとも合致する。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-09-18-yufuin-onsen", "region": "大分県由布市湯布院町（由布院温泉）", "category": "温泉旅館（同地域だが別カテゴリ・約2ヶ月前）" },
+    { "candidate_id": "2026-11-21-toba-view-hotel", "region": "三重県鳥羽市", "category": "絶景ホテル（同日・別地域別カテゴリ）" },
+    { "candidate_id": "2026-11-21-iriomote-activity", "region": "沖縄県西表島", "category": "アクティビティ（同日・別地域別カテゴリ）" },
+    { "candidate_id": "2026-11-21-furano-biei-norokko-recheck", "region": "北海道富良野市・美瑛町", "category": "列車・船（同日・別地域別カテゴリ）" },
+    { "candidate_id": "2026-11-21-all-inclusive-mitani-onsen", "region": "未確認（同日・別カテゴリ）", "category": "オールインクルーシブ（同日・別カテゴリ）" },
+    { "candidate_id": "2026-11-11-oosawa-onsen-gourmet-ryokan", "region": "岩手県花巻市（大沢温泉）", "category": "グルメ旅館（同カテゴリだが別地域・約10日前）" }
+  ],
+  "duplication_note": "data/candidates/・captions/ 配下を『由布院』『由布』『湯布院』『yufuin』『murata』『無量塔』で横断grep確認した（1ヶ月以上前の実績も含む）。大分県由布市・由布院温泉エリアは2026-09-18付で『温泉旅館』カテゴリとして既に調査済みで、山荘無量塔（selected）・亀の井別荘（shortlisted）・由布院玉の湯（rejected）の3施設を評価している。本サイクルは『グルメ旅館』という別カテゴリでの新規調査のため、上記3施設（特にselected済みの山荘無量塔）とは完全に別の施設を対象とした。今回調査した3施設（由布院 六花・由布の彩 YADOYA おおはし・御宿 八遇來）はいずれも2026-09-18付ファイルに含まれておらず、山荘無量塔・亀の井別荘・由布院玉の湯のいずれとも同一施設ではないことを確認した。また同日（2026-11-21）に並行調査された他カテゴリ・他地域の候補（鳥羽・西表島・富良野美瑛・オールインクルーシブ）とも地域・カテゴリとも重複しない。",
+  "research_notes": "本セッションはネットワーク制約により、じゃらんnet（jalan.net）・由布院六花公式サイト（yufuinonsen.jp）・Japan Brand Collection（jbc-web.info）等へのWebFetch直接アクセスが『host fails to resolve』で失敗し、各施設公式サイト・予約サイトの個別ページを直接開いて確認することができなかった。そのため本サイクルの情報はすべてWebSearchのスニペット・要約経由で確認した範囲に限られる。また調査の後半でこのターンのWebSearch呼び出し上限に達したため、由布の彩 YADOYAおおはし・由布院六花について、じゃらんnet/Yahoo!トラベルの正確な口コミ件数の再確認など、追加の数値根拠の深掘りを完了できなかった。この制約により、由布の彩 YADOYAおおはしは独立2情報源（原則7）の数値を確定できず、スコアを保守的に算出してrejectedとした。次サイクル以降、ネットワーク制約が解消された際に再調査する価値がある。",
+  "candidates": [
+    {
+      "id": "2026-11-21-yufuin-rikka",
+      "name": "由布院 六花",
+      "region": "大分県由布市湯布院町川上（由布院温泉・田園地区）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "Relux", "score": 4.9, "scale": 5, "review_count": 276, "checked_date": "2026-11-21", "url": "https://rlx.jp/23404/review/" },
+        { "source": "じゃらんnet", "score": 5.0, "scale": 5, "review_count": 21, "checked_date": "2026-11-21", "url": "https://www.jalan.net/yad341167/" }
+      ],
+      "price_range_jpy": {
+        "note": "1室（離れ）あたり1泊2食付きで税込79,200円〜という『六花スタンダード』プランの表示を確認した（部屋タイプ・プラン・時期により変動）。",
+        "as_of_search_date": "2026-11-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "由布岳を望む田園地帯に佇む、半露天風呂付き離れ全6棟のみの小さな宿。敷地内から湧く自家源泉をかけ流しで楽しめる客室と、個室の食事処で提供される和洋創作の会席料理が特徴。楽天トラベルの大分県（湯布院・湯平エリア）食事ランキングで満点評価の宿として掲載されるなど、客室数を絞った『食』への評価の高さが際立つ。",
+      "renewal_or_news": "じゃらんアワード2021『泊まって良かった宿大賞』を受賞したことを確認した（公式サイト記載内容としてWebSearch経由で確認。受賞の最新性については本セッションでは2021年時点の情報であることのみ確認できた）。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 12,
+        "unique_experience_score": 15,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 80,
+      "recommendation_reason": "Relux4.9（276件）・じゃらんnet5.0（21件）という独立した2情報源でいずれも採用ライン（4.0／5点満点換算）を大きく上回る高評価（原則6・7）。じゃらんアワード2021『泊まって良かった宿大賞』受賞歴や、大分県（湯布院・湯平）の楽天トラベル食事ランキングで満点評価を得ている点から、全6棟という小規模ながら『食』の評価が高いグルメ旅館として選定した。客室数が少なく知名度は『由布院御三家』（山荘無量塔・亀の井別荘・由布院玉の湯）ほど高くないため、原則8のHidden Gemとして扱う。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Reluxの口コミの一部で、チェックアウトが10:30とやや早い点への不満、および『近くに民家が見え写真と印象が違った』という趣旨の声を確認した。清潔感・接客・安全性に関わる重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "由布院 六花【公式】yufuin rikka 離れの温泉宿", "url": "https://yufuinonsen.jp/" },
+        { "type": "review_site", "title": "由布院 六花 クチコミ・評判 - Relux", "url": "https://rlx.jp/23404/review/" },
+        { "type": "booking_site", "title": "由布院 六花 - 宿泊予約は＜じゃらんnet＞", "url": "https://www.jalan.net/yad341167/" },
+        { "type": "other", "title": "楽天トラベル 人気ホテル・旅館ランキング（大分県 湯布院・湯平／食事）", "url": "https://travel.rakuten.co.jp/ranking/oita/yufuin_0003_1_2_0_0.html" }
+      ],
+      "creator_story": {
+        "text": "公式サイト（yufuinonsen.jp）の記載をWebSearch経由で確認したところ、由布院 六花は由布岳を望む由布院盆地の田園地区に2018年9月に開業した、離れ6棟のみの宿であり、開業当初から『また来るね、と言っていただける宿』をテーマに掲げ、現在も改善を続けていると説明されている。一方で、オーナー・設計者個人の経歴やインタビュー、具体的な改修方針・建築コンセプトの由来（なぜこの場所を選び、なぜ離れをわずか6棟に絞ったのかという個人的な思いの詳細）については、本セッションのWebSearchおよびWebFetch（jalan.net・yufuinonsen.jp等への接続はネットワーク制約で失敗）では一次情報として確認できなかった。確認できたのは上記の公式サイト上の短いコンセプト文のみであり、それ以上の開業経緯・個人的なエピソードは『確認できなかった』ものとしてここに明記する。推測による補完は行っていない。",
+        "sources": [
+          { "type": "official", "title": "由布院 六花【公式】yufuin rikka 離れの温泉宿", "url": "https://yufuinonsen.jp/" }
+        ]
+      },
+      "photo_notes": {
+        "showcase_highlights": [
+          "由布岳を望む田園風景と離れ6棟の外観",
+          "敷地内の自家源泉を使った半露天風呂",
+          "個室の食事処で提供される和洋創作会席料理"
+        ],
+        "required_categories": ["外観・景観（由布岳・田園）", "客室（離れ・半露天風呂）", "料理（会席料理）"],
+        "official_material_availability": "公式サイト（https://yufuinonsen.jp/）に外観・客室・温泉・料理の写真が掲載されていることをWebSearch経由で確認した。",
+        "usage_note": "公式サイトに掲載されている写真であっても、転載可否・クレジット表記等の利用条件はこのセッションでは確認できていない。『公式サイトに載っている＝転載可能』とは判断せず、Production工程で改めて施設へ利用許諾を確認すること。"
+      },
+      "decision": "selected"
+    },
+    {
+      "id": "2026-11-21-yadoya-oohashi-yufuin",
+      "name": "由布の彩 YADOYA おおはし",
+      "region": "大分県由布市湯布院町川北（由布院温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.8, "scale": 5, "review_count": 2020, "checked_date": "2026-11-21", "url": "https://www.jalan.net/yad302736/kuchikomi/" }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションでは具体的な1泊あたりの料金表示を確定できなかった。全14棟・大人2名限定という構成上、1室単位の高価格帯プランが中心と見込まれる。",
+        "as_of_search_date": "2026-11-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "精肉店（有限会社おおはし、代表者名を確認）を営むオーナーが選ぶA5ランクの黒毛和牛を、個室の食事処ですき焼きまたはしゃぶしゃぶとして味わえる、精肉店直営ならではのグルメ旅館。3,300坪の敷地に全14棟の離れ（内風呂・露天風呂付き、大人2名限定）が点在し、『瑠璃』『京紫』など日本の伝統色を客室名・意匠に取り入れている。",
+      "target_audience": ["カップル", "記念日", "夫婦", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 7,
+        "unique_experience_score": 19,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 71,
+      "recommendation_reason": "精肉店直営によるA5黒毛和牛の個室すき焼き・しゃぶしゃぶという、グルメ旅館として非常に独自性の高い体験を持つ。じゃらんnetでは4.8（高評価）だが、本セッションのネットワーク制約（jalan.net・一休等への直接アクセス不可）とWebSearch呼び出し上限により、原則7が求める『独立2情報源』目のうち、Yahoo!トラベル（客室4.88・接客4.97・お食事4.93等の項目別評価は確認できたが、総合点・件数は未確認）や楽天トラベルの総合点・件数を数値として確定できなかった。単独の情報源のみでは信頼性（review_reliability）を高く評価できず、score_breakdown合計71点で採用ライン（75点）に届かないため、今回はrejectedとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベルの口コミへの宿からの返信で、露天風呂に季節柄落ち葉が入ってしまう点への指摘を確認したが、宿側は清掃体制を説明し改善意向を示していた。清潔感・安全性に関わる重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "由布の彩 YADOYA おおはし - 宿泊予約は＜じゃらんnet＞", "url": "https://www.jalan.net/yad302736/" },
+        { "type": "review_site", "title": "由布の彩 YADOYA おおはし クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00001898/review/" },
+        { "type": "other", "title": "由布の彩 YADOYA おおはし - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00001898/" },
+        { "type": "other", "title": "企業インタビュー 有限会社おおはし（由布市）｜Dive OITA", "url": "https://dive-oita.com/company09.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score_breakdown合計71点で採用ライン（75点）未満。独自性・項目別評価は高いが、本セッションのネットワーク制約により独立2情報源目の総合点・件数を数値として確定できず、原則7（独立2情報源必須）を厳密に満たせなかったための保守的な不採用。品質面での明確な懸念によるものではなく、ネットワーク制約が解消された次サイクルでの再調査を推奨する。"
+    },
+    {
+      "id": "2026-11-21-oyado-hachiguuki-yufuin",
+      "name": "御宿 八遇來",
+      "region": "大分県由布市湯布院町（由布岳山懐・由布院温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.28, "scale": 5, "review_count": 13, "checked_date": "2026-11-21", "url": "https://4travel.jp/dm_hotel-10053075" },
+        { "source": "skyticket", "score": 4.4, "scale": 5, "review_count": 215, "checked_date": "2026-11-21", "url": "https://skyticket.jp/hotel/detail/property_827665/" }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションでは具体的な1泊あたりの料金表示を確定できなかった。",
+        "as_of_search_date": "2026-11-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "由布岳の山懐の高台に建つ、全室露天風呂付きの民芸調純和風造りの宿。囲炉裏のある食事処で、備長炭の炭火焼きを中心とした会席料理を提供する。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 5,
+        "unique_experience_score": 12,
+        "photogenic": 9,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 47,
+      "recommendation_reason": "炭火焼き会席や由布岳を望む高台の立地など食の魅力はあるが、独立2情報源の評価にばらつきが大きい（フォートラベル3.28／13件 vs skyticket4.4／215件）。フォートラベルの食事単体評価（4.56）は高い一方、総合満足度は原則6の基準（4.0以上）を下回り、件数も少なく信頼性が低い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルに2017年投稿の評価2.5『がっかりです』という口コミを確認した。バリアフリー評価が3.58と他項目より低く、設備の古さ・段差等への言及が疑われる。清潔感・安全性に関わる致命的な指摘は確認できなかったが、満足度の評価が割れている。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "御宿 八遇來 クチコミ・評判 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10053075" },
+        { "type": "other", "title": "御宿 八遇來 - skyticket", "url": "https://skyticket.jp/hotel/detail/property_827665/" },
+        { "type": "booking_site", "title": "露天風呂付き客室 湯布院 御宿 八遇來（おんじゅく やぐら） - じゃらんnet", "url": "https://www.jalan.net/yad331808" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score_breakdown合計47点で採用ライン（75点）を大きく下回る。フォートラベル総合3.28（13件）が原則6の基準（4.0以上）未達で、skyticketとの評価の乖離も大きく、信頼性の高い評価として採用できない。"
+    }
+  ]
+}
