@@ -1,0 +1,143 @@
+{
+  "cycle_date": "2026-11-21",
+  "theme": "オールインクルーシブカテゴリ：愛知県蒲郡市 三谷温泉エリア",
+  "season_rationale": "11月下旬は紅葉が終盤を迎え初冬に向かう時期で、三河湾は年間を通じて穏やかだが、この時期はアカザエビ・牡蠣・ふぐなど三河湾の海の幸が旬を迎え始めるタイミングでもある。三谷温泉は同じ蒲郡市内だが西浦温泉とは異なる三河三谷駅周辺のエリアで、2026-11-11サイクルで調査済みの西浦温泉とは別の宿泊施設群が対象となる。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-11-11-all-inclusive-nishiura-onsen", "region": "愛知県蒲郡市西浦温泉エリア", "category": "オールインクルーシブ（同市内だが三谷温泉とは異なる西浦温泉エリア・該当なし）" },
+    { "candidate_id": "2026-10-28-gamagori-mikawa-bay-cruise", "region": "愛知県蒲郡市（三河湾遊覧船エリア・竹島ふ頭・ラグーナテンボス敷地内）", "category": "列車・船（該当なし）" },
+    { "candidate_id": "2026-11-10-mikawa-chita-ferry", "region": "愛知県知多半島（日間賀島・篠島航路）", "category": "列車・船" },
+    { "candidate_id": "2026-11-11-all-inclusive-ito", "region": "静岡県伊東市・伊豆エリア", "category": "オールインクルーシブ（ホテルふたり木もれ陽=selected）" }
+  ],
+  "duplication_note": "data/candidates・captions配下を『蒲郡』『三谷』『mitani』『gamagori』のキーワードでファイル名・本文の両方で横断検索した（1ヶ月以上前の実績も含め全件確認）。愛知県蒲郡市に関する既存候補は2026-10-28-gamagori-mikawa-bay-cruise.json（三河湾遊覧船・列車・船カテゴリ、selected候補ゼロ件）と2026-11-11-all-inclusive-nishiura-onsen.json（オールインクルーシブカテゴリ・西浦温泉エリア、selected候補ゼロ件）の2件のみで、いずれも依頼者からユーザー指示にあるとおり三谷温泉とは異なる地域・エリアである。三谷温泉（JR三河三谷駅周辺）の施設を対象とした調査はこれまで一度も存在しないことを確認した。本サイクルでは西浦温泉エリアの施設（旬景浪漫 銀波荘・天空海遊の宿 末広・ホテル東海園）とは重複しない、三谷温泉エリアの施設（三谷温泉 ひがきホテル・ホテル明山荘・平野屋 Ryokan&Sauna）を調査対象とした。",
+  "research_constraints": "このセッションのネットワーク環境では、jalan.net・travel.rakuten.co.jp・4travel.jp等への直接WebFetchがDNS解決不可（EGRESS_BLOCKED相当）であり、CLAUDE.mdの制約と同様、すべてWebSearchのスニペット経由で得られる情報のみを情報源とした。また本サイクルの調査終盤でエージェント全体で共有されるWebSearch回数の上限に到達し、以降の追加検索が実行できなくなったため、既に取得済みの検索結果のみで本ファイルをまとめている。\n\n三谷温泉エリアでは他に『松風園』『蒲郡ホテル』という宿も確認したが、蒲郡ホテルについては簡易調査の範囲でSkyticket3.4（497件）・Travelist3.4・tour.ne.jp3.5（21件）といずれも原則6の最低ライン（4.0以上）を明確に下回ることが分かったため、本ファイルの正式候補としては採用しなかった（スコア計算・creator_story調査には進んでいない）。松風園についてはWebSearch回数上限に到達したため今回は調査できなかった。いずれも次サイクル以降の再調査候補として記録しておく。\n\n三谷温泉エリアの宿はいずれも『オールインクルーシブ』を公式に明示的に名乗るプラン・リブランドの事実を本調査では確認できず、依頼カテゴリへの厳密な適合性は弱い（2026-11-11-all-inclusive-nishiura-onsen.jsonで西浦温泉エリアを調査した際と同様の傾向）。そのため本サイクルでは、三谷温泉エリアの主要宿を『オールインクルーシブ的な体験価値（食事・温泉・館内施設が一体となった宿泊体験）』の観点で調査対象とし、口コミ評価・ネガティブレビューを確認した上で、原則6・7の採用基準を満たすかを判定した。結果はいずれも不採用。",
+  "candidates": [
+    {
+      "id": "2026-11-21-higaki-hotel-mitani",
+      "name": "三谷温泉 ひがきホテル",
+      "region": "愛知県蒲郡市三谷町（三谷温泉・JR三河三谷駅よりタクシー約5分または徒歩約20分）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.28, "scale": 5, "review_count": 28, "checked_date": "2026-11-21", "url": "https://4travel.jp/dm_hotel-10037391" },
+        { "source": "onsen.nifty.com（じゃらん系温泉情報）", "score": 3.8, "scale": 5, "review_count": 8, "checked_date": "2026-11-21", "url": "https://onsen.nifty.com/mikawawan-onsen/onsen002908/" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な料金帯はWebSearchの範囲では確認できなかった。2025年7月に大浴場・客室・ロビーを含む全館リニューアルを実施したとの記載がある。",
+        "as_of_search_date": "2026-11-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "自家源泉（天然ラドン温泉含む）の露天風呂・大浴場から三河湾を望める。テニスコート・バスケットコート・ジム・卓球場等のレクリエーション施設を備え、朝食の名物は『ガマゴリうどん』。2025年7月に大浴場・客室・ロビーを含む全館リニューアルを実施。",
+      "renewal_or_news": "2025年に全館リニューアルを実施し、落ち着きと洗練を感じる空間に生まれ変わったと紹介されている（旅色・公式写真一覧より）。",
+      "target_audience": ["家族", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 13,
+        "review_reliability": 5,
+        "unique_experience_score": 13,
+        "photogenic": 9,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 4
+      },
+      "score": 52,
+      "recommendation_reason": "2025年の全館リニューアルとレクリエーション施設の充実度は評価できるが、確認できた独立した数値評価（フォートラベル3.28・28件、onsen.nifty3.8・8件）はいずれも原則6の最低ライン（4.0以上）に届かず、サンプル数も少ない。リニューアル後の口コミがまだ十分蓄積されていないため、現時点では採用ラインに届く根拠を示せない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの2021年12月投稿（2.0点）では建物の老朽化やカーテンの破れ、食事会場が期待と異なったという指摘があった。ただしこれは2025年7月の全館リニューアル前の投稿であり、現在の状態とは異なる可能性がある。リニューアル後の口コミはまだ十分な件数が確認できていない。重大な衛生・安全面の指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "三谷温泉 ひがきホテル クチコミ（満足度3.28・28件） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10037391" },
+        { "type": "review_site", "title": "三谷温泉 ひがきホテル 口コミ（総合3.8・8件、お湯3.5/施設5.0/サービス5.0/飲食5.0） - 温泉なび（onsen.nifty.com）", "url": "https://onsen.nifty.com/mikawawan-onsen/onsen002908/" },
+        { "type": "booking_site", "title": "三谷温泉 ひがきホテル - じゃらんnet", "url": "https://www.jalan.net/yad311753/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "確認できた独立2情報源（フォートラベル3.28・28件、onsen.nifty3.8・8件）がいずれも原則6の最低ライン（4.0以上）を下回り、2025年リニューアル後の評価もまだ十分蓄積されていないため、本サイクルでは選定を見送った。"
+    },
+    {
+      "id": "2026-11-21-meizanso-mitani",
+      "name": "海と空と風の宿 ホテル明山荘",
+      "region": "愛知県蒲郡市三谷町（三谷温泉・ラグーナテンボスに最も近い三谷温泉旅館）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "skyticket", "score": 4.4, "scale": 5, "review_count": 881, "checked_date": "2026-11-21", "url": "https://skyticket.jp/hotel/detail/property_13067/" },
+        { "source": "ゆこゆこネット", "score": 4.25, "scale": 5, "review_count": 108, "checked_date": "2026-11-21", "url": "https://www.yukoyuko.net/2355" }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらんでは大人2名1室の一部プラン（スーペリアツイン36,080円〜、ハリウッドツイン等32,560円〜）、JTBでは大人2名1室1泊合計23,400円〜118,800円との表示を確認した。夕食は和洋約50種バイキング、朝食は和洋約40種バイキングのプランがあるが、飲み放題・ドリンク込みかどうか、つまり『オールインクルーシブ』を公式に明示する表記は本調査では確認できなかった。",
+        "as_of_search_date": "2026-11-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "『海と空と風の宿』をコンセプトに掲げ、三河湾を望むリゾート温泉旅館。天然ラドン温泉と天然アルカリ単純泉の2つの自家源泉を持ち、旬撰ダイニング『乙姫』では和洋約50種のディナーバイキングを提供。2023年6月には東館上層階（7・8階）の客室8室を改装し、『和Resort蒼海（UMI）』『和Resort蒼風（KAZE)』という眺望重視のリゾート客室として再オープンした。バリアフリー対応・車いす貸出があり高齢者の利用にも配慮。ラグーナテンボスまで車で数分という立地の良さも特徴。",
+      "renewal_or_news": "2023年6月、東館7・8階の客室8室を改装し、同年7月23日より『和Resort蒼海（UMI)』『和Resort蒼風（KAZE)』として宿泊可能になったことを運営会社（株式会社明山荘）が発表している（共同通信PRワイヤー）。",
+      "target_audience": ["家族", "夫婦", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 11,
+        "unique_experience_score": 13,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 68,
+      "recommendation_reason": "skyticket（4.4・881件）・ゆこゆこネット（4.25・108件）という2つの独立情報源でいずれも原則6の最低ライン（4.0以上）を明確に上回り、サンプル数も比較的多く安定している。2023年の客室改装、2つの自家源泉、約50種バイキングという体験の厚みはあるが、『オールインクルーシブ』を公式に明示する表記（飲み放題・館内施設利用込み等）は確認できず依頼カテゴリへの適合性が弱い点、ユニークさ・SNS話題性の面では伊東市のホテルふたり木もれ陽（selected・score84）のような突出した独自性までは確認できなかった点から、総合68点で採用ライン（75点）には届かないと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "検索で確認できた口コミはいずれも好意的なもの（楽天トラベル2026年3月投稿で全項目5点満点、露天風呂・バイキング・スタッフ対応を評価、gpointでのバリアフリー対応評価等）で、明確な低評価投稿は本調査の検索範囲では見つからなかった。ただしこれは検索結果の表示傾向（好意的な口コミが上位に出やすい）による可能性があり、低評価順での全件確認はできていない点は留意点として記録する。重大な衛生・安全面の指摘は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "海と空と風の宿 ホテル明山荘 クチコミまとめ（4.4・881件） - skyticket", "url": "https://skyticket.jp/hotel/detail/property_13067/" },
+        { "type": "review_site", "title": "ホテル明山荘 口コミ総合評価（4.25・108件） - ゆこゆこネット", "url": "https://www.yukoyuko.net/2355" },
+        { "type": "booking_site", "title": "海と空と風の宿 ホテル明山荘 料金・宿泊プラン - じゃらんnet", "url": "https://www.jalan.net/yad304106/plan/" },
+        { "type": "press", "title": "ホテル明山荘、東館7・8階客室をリゾート客室『和Resort蒼海（UMI)』『和Resort蒼風（KAZE)』に改装（2023年6月発表）", "url": "https://kyodonewsprwire.jp/release/202306156378" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価自体は独立2情報源（skyticket4.4・881件、ゆこゆこ4.25・108件）とも原則6の最低ラインを上回り良好だが、『オールインクルーシブ』を公式に明示する表記が確認できず依頼カテゴリへの適合性が弱いこと、独自性・SNS話題性の面で突出した強みを確認できなかったことから、総合68点で採用ライン（75点）に届かず見送った。"
+    },
+    {
+      "id": "2026-11-21-hiranoya-ryokan-sauna-mitani",
+      "name": "平野屋 Ryokan&Sauna",
+      "region": "愛知県蒲郡市三谷町（三谷温泉）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 3.9, "scale": 5, "review_count": 1673, "checked_date": "2026-11-21", "url": "https://www.jalan.net/yad319160" },
+        { "source": "Relux", "score": 3.7, "scale": 5, "review_count": 28, "checked_date": "2026-11-21", "url": "https://rlx.jp/22267/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な宿泊料金帯はWebSearchの範囲では確認できなかった。サウナのみの日帰り利用は平日3,000円・土日4,000円との記載があるが、最新料金は変わる可能性がある。",
+        "as_of_search_date": "2026-11-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "女性に人気の天然温泉『美白泉』を含む、趣の異なる4つの風呂を館内で湯巡りできる構成。フィンランド式サウナ（室温90〜95℃）・水風呂（9〜10℃）・外気浴という本格的なサウナ設備が自慢で、サウナイキタイには2,085件の『イキタイ』・735件の『サ活』が記録されており、サウナ愛好家からの支持が厚い。ロビー脇のコーヒーコーナーなど細部の接客にも好意的な口コミがある。",
+      "renewal_or_news": "確認できなかった。",
+      "target_audience": ["一人旅", "温泉好き", "友人"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 11,
+        "unique_experience_score": 15,
+        "photogenic": 9,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 2
+      },
+      "score": 61,
+      "recommendation_reason": "フィンランド式サウナ＋4つの異なる風呂の湯巡りという独自性はサウナ愛好家コミュニティ（サウナイキタイ735件のサ活）からの支持も厚く評価できるが、確認できた独立2情報源（じゃらんnet3.9・1,673件、Relux3.7・28件）がいずれも原則6の最低ライン（4.0以上）を明確に下回る。サンプル数が多いじゃらんでも3.9と僅かに届かず、評価の信頼性自体は高い（大規模サンプルで一貫して4.0未満）ため、現時点では採用を見送る。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icottoの2025年10月投稿（3.5点）では、内風呂・露天風呂・サウナが館内の別々の場所にあり移動のたびに着替える必要がある点、全体的に古さを感じる点が指摘された。Reluxの項目別評価でも風呂3.4・朝食3.5とやや低く、朝食の味付けの濃さを指摘する声もあった。重大な衛生・安全面の指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "平野屋 Ryokan&Sauna クチコミ総合3.9（1,673件） - じゃらんnet", "url": "https://www.jalan.net/yad319160" },
+        { "type": "review_site", "title": "平野屋 Ryokan&Sauna レビュー総合3.7（28件、接客4.0/部屋3.8/夕食3.7/朝食3.5/風呂3.4） - Relux", "url": "https://rlx.jp/22267/review/" },
+        { "type": "review_site", "title": "平野屋 Ryokan&Sauna 口コミ（2025年10月投稿・3.5点） - icotto", "url": "https://icotto.jp/hotels/1018" },
+        { "type": "other", "title": "平野屋 Ryokan&Sauna サウナ情報（イキタイ2,085件・サ活735件、室温90〜95℃） - サウナイキタイ", "url": "https://sauna-ikitai.com/aichi/%E8%92%B2%E9%83%A1%E5%B8%82?page=1" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "サウナ愛好家コミュニティからの支持という独自性はあるが、確認できた独立2情報源（じゃらんnet3.9・1,673件、Relux3.7・28件）がいずれも原則6の最低ライン（4.0以上）を下回り、大規模サンプルでも一貫して4.0未満であるため、本サイクルでは選定を見送った。"
+    }
+  ]
+}
