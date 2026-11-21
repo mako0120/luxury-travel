@@ -1,0 +1,166 @@
+{
+  "cycle_date": "2026-11-21",
+  "theme": "サウナ（山形県山形市 蔵王温泉エリア）",
+  "season_rationale": "11月下旬は紅葉が終わり積雪シーズンへ向かう季節の変わり目で、蔵王温泉は樹氷観光が本格化する12月前の静かな時期にあたる。朝晩の気温差が大きくなるこの時期は、温泉・サウナで温まった後の外気浴の『ととのう』体感のコントラストが際立ちやすく、積雪前の比較的歩きやすい時期に訪れを検討してもらうタイミングとしても適している。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-21-zao-kokusai-hotel", "region": "山形県山形市蔵王温泉933", "category": "温泉旅館（selected）" },
+    { "post_id": "2026-10-21-zao-onsen-oomiya-ryokan", "region": "山形県山形市蔵王温泉", "category": "温泉旅館（rejected）" },
+    { "post_id": "2026-11-06-yonezawa-shirabu-onsen-sauna", "region": "山形県米沢市大字関（白布温泉エリア）", "category": "サウナ" },
+    { "post_id": "2026-11-08-goshiki-onsen-auto-camp-sauna", "region": "山形県米沢市（姥湯温泉エリア）", "category": "サウナ" },
+    { "post_id": "2026-11-11-itoshima-sauna", "region": "福岡県糸島市", "category": "サウナ" },
+    { "post_id": "2026-11-11-miyajima-sauna", "region": "広島県廿日市市（宮島）", "category": "サウナ" },
+    { "post_id": "2026-10-25-togatta-onsen-sauna", "region": "宮城県刈田郡蔵王町遠刈田温泉", "category": "サウナ" },
+    { "post_id": "2026-10-27-tsuchiyu-onsen-sauna", "region": "福島県福島市土湯温泉", "category": "サウナ" },
+    { "post_id": "2026-10-30-aomori-hakkoda-sauna", "region": "青森県八甲田", "category": "サウナ" }
+  ],
+  "duplication_note": "data/candidates・captions配下を『蔵王』『山形』で横断検索（1ヶ月以上前の分も含め全件）した結果、『蔵王』はdata/candidates/2026-10-21-zao-onsen-kokusaihotel.json（カテゴリ『温泉旅館』、蔵王国際ホテルが選定済み・おおみや旅館が不採用）とそのcaptions/2026-10-21-zao-kokusai-hotel.jsonのみで、カテゴリは『サウナ』ではない。『山形』は2026-11-06白布温泉・2026-11-08姥湯温泉（いずれも米沢市、蔵王温泉とは別エリア）のサウナ候補のみで、蔵王温泉エリアでの『サウナ』カテゴリ調査は本サイクルが初回。本サイクルで調査した3件（界 蔵王／ホテル ルーセントタカミヤ／蔵王四季のホテル）は、既存の蔵王国際ホテル・おおみや旅館のいずれとも異なる施設であり、重複はない。",
+  "candidates": [
+    {
+      "id": "2026-11-21-kai-zao",
+      "name": "界 蔵王（星野リゾート）",
+      "region": "山形県山形市蔵王温泉903-2",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "数値評価データなし（2026年10月15日開業のため、本セッションのWeb検索では じゃらん・楽天トラベル・一休.com等における第三者の数値口コミ評価・件数を一件も確認できなかった。じゃらんの施設ページ自体は確認できたが、口コミ欄の集計値は本セッションでは取得できていない）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-11-21",
+          "url": "https://www.jalan.net/yad316406/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションのWeb検索では、具体的な1泊あたりの料金数値を確定できなかった。星野リゾート「界」ブランドの他施設の価格帯から推測すると中〜高価格帯と考えられるが、推測で記載することは避ける。",
+        "as_of_search_date": "2026-11-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "星野リゾートの温泉旅館ブランド『界』が2026年10月15日に山形県初進出で開業した新施設（全49室）。蔵王の象徴である御釜から着想したコンセプト『御釜で整う、温泉スパイラル』を掲げ、日本屈指の強酸性硫黄泉と、温泉・サウナ・ジャグジーを巡る回遊型『ウェルネスエリア』を備える。公式サイトによれば7階にサウナ・水風呂・内気浴スペースがあり、予約不要・無料で利用できる（公開時点の表示時間は5:00-10:00／14:30-翌1:00、訪問前に最新時間の確認が必要）。屋上のルーフトップガーデンには蔵王の『御釜』を模したジェットバスがあり、山々を望みながら入浴できる。独創的な建築とサウナ体験を組み合わせた『新しい整いの形』として複数の旅行・デザイン系メディア（ウォーカープラス、テレビ東京プラス、エキサイト、co-trip等）に取り上げられている。",
+      "renewal_or_news": "2026年10月15日グランドオープン。星野リゾートとして山形県への初進出、『界』ブランドとしては全国26施設目。本サイクル実施日（2026年11月21日）時点で開業から約5週間と非常に新しい。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 5,
+        "review_reliability": 3,
+        "unique_experience_score": 19,
+        "photogenic": 14,
+        "value_for_price": 5,
+        "sns_buzz": 9,
+        "access_and_freshness": 5
+      },
+      "score": 60,
+      "recommendation_reason": "御釜モチーフのルーフトップジェットバスと、サウナ・水風呂・内気浴を無料・予約不要で回遊できるウェルネスエリアという組み合わせは、蔵王温泉のサウナ体験としても独自性が非常に高い。開業直後で複数メディアに取り上げられておりSNS話題性も見込めるが、第三者の実体験レビューが本セッションでは一件も確認できず、満足度の実態を裏付けられないため、現時点ではscore60点で採用ラインの75点に届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2026年10月15日開業からまだ約5週間であり、本セッションのWeb検索では口コミ本文（低評価・高評価いずれも）を一件も確認できなかった。公式発表・報道記事以外に第三者の宿泊体験レビューが見当たらないため、サウナ・温泉・接客等の実際の満足度は未確認。既知の重大な欠陥・休業情報は確認されていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "界 蔵王 ウェルネスエリア（サウナ・水風呂・ジェットバス設備案内） - 星野リゾート公式サイト", "url": "https://hoshinoresorts.com/ja/hotels/kaizao/sp/wellness_area/" },
+        { "type": "press", "title": "ルーフトップテラスの絶景や独創的なサウナ…五感で整う星野リゾートの温泉旅館「界 蔵王」が、10月15日開業! - ウォーカープラス", "url": "https://www.walkerplus.com/article/1343224/" },
+        { "type": "press", "title": "【界 蔵王】2026年10月15日開業決定。コンセプトは「御釜で整う、温泉スパイラル」 - 財経新聞（プレスリリース配信）", "url": "https://zaikei.co.jp/releases/3404570/" },
+        { "type": "other", "title": "山形に新オープン「界 蔵王」。名湯、絶景、建築美が交差するウェルネスの宿 - co-trip", "url": "https://co-trip.jp/article/737454" },
+        { "type": "booking_site", "title": "星野リゾート 界 蔵王 施設情報 - じゃらん", "url": "https://www.jalan.net/yad316406/" }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "コンセプト・設備の独自性、開業直後のメディア話題性は高く評価できるが、開業約5週間で第三者の実体験レビュー（口コミ評価・件数）を本セッションでは一件も確認できず、原則7（独立した評価の裏取り）を満たせなかった。score60点のため今サイクルでは不採用（shortlisted）。じゃらん・楽天トラベル・一休.com等に実際の宿泊者レビューが一定数蓄積した段階で再評価する価値が高い候補。"
+    },
+    {
+      "id": "2026-11-21-lucent-takamiya",
+      "name": "ホテル ルーセントタカミヤ（名湯リゾート ルーセントタカミヤ）",
+      "region": "山形県山形市蔵王温泉",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "ニフティ温泉 口コミ集計",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 6,
+          "checked_date": "2026-11-21",
+          "url": "https://onsen.nifty.com/zaou-onsen/onsen005497/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "個別の口コミで『期間割引と早期割りで一人11,000円台』という言及を確認したが、通常期の料金レンジは本セッションでは確定できなかった。",
+        "as_of_search_date": "2026-11-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "源泉掛け流しの大浴場・露天風呂・貸切風呂に加えサウナを備える。蔵王温泉バスターミナルから無料送迎があり、朝食は有料ビュッフェ形式。ただし、予約サイト上の記載では浴室構成（内湯・サウナ風呂・岩風呂・露天風呂）とは別の個別浴室『葉がくれの湯』の案内でサウナが『無』と表示されるなど、サウナの設置場所・設備詳細に表記の不一致があり、本セッションでは確定できなかった。",
+      "target_audience": ["夫婦", "家族", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 4,
+        "unique_experience_score": 8,
+        "photogenic": 7,
+        "value_for_price": 7,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 47,
+      "recommendation_reason": "サウナ・貸切風呂・無料送迎など設備は一通り揃い、コストパフォーマンスを評価する口コミもあるが、口コミ件数がニフティ温泉で6件と少なく評価の信頼性が低い。サウナ設備の表記にも資料間で不一致があり、独自性・裏取りの両面で採用ラインに届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "好意的な口コミ（和室が広い、コストパフォーマンスが良い等）がある一方、浴場（内湯・岩風呂・露天合算）が『あまり大きくない』、部屋のドアが閉まりにくい、建物の古さを指摘する声も確認した。重大な衛生・安全上の問題は確認されなかったが、口コミ件数自体が少なく（6件）評価の裏付けとしては弱い。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ホテル ルーセントタカミヤ 口コミ・クーポン情報（4.0・6件） - ニフティ温泉", "url": "https://onsen.nifty.com/zaou-onsen/onsen005497/" },
+        { "type": "other", "title": "蔵王温泉 名湯リゾート ルーセントタカミヤ 施設紹介 - icotto", "url": "https://icotto.jp/hotels/10089" },
+        { "type": "other", "title": "ホテル ルーセントタカミヤ 施設情報 - cocolocala", "url": "https://www.cocolocala.jp/hotels/2920" },
+        { "type": "booking_site", "title": "ホテル ルーセントタカミヤ 施設詳細 - Skyticket", "url": "https://skyticket.jp/hotel/detail/property_13758/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数が6件と極端に少なく信頼性（原則6・7）を満たせない。サウナ設備の資料間表記不一致も解消できず、独自性も他の蔵王温泉施設と比べて強くないため、score47点で今サイクルは不採用。"
+    },
+    {
+      "id": "2026-11-21-zao-shikinohotel",
+      "name": "蔵王四季のホテル",
+      "region": "山形県山形市蔵王温泉",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "数値評価データなし（じゃらん・楽天トラベル・一休.com等への掲載は確認できたが、本セッションのWeb検索では総合評価点数・件数そのものを取得できなかった）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-11-21",
+          "url": "https://www.jalan.net/yad322447"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションのWeb検索では具体的な1泊あたりの料金数値を確定できなかった。",
+        "as_of_search_date": "2026-11-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "館内の24時間利用可能な『白樺の湯』と、館外の『離れ湯 百八歩』（6:00-23:00、硫黄泉）の2種の湯めぐりができ、男女別にサウナも設置されている。2024年冬に全客室をリニューアルしたという情報を確認した。ただし、水風呂の有無・温度やロウリュ実施状況など、サウナ体験としての独自性を裏付ける一次情報は本セッションでは確認できなかった。口コミは主に露天風呂の景色・季節感に集中しており、サウナ自体への言及は見当たらなかった。",
+      "target_audience": ["夫婦", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 4,
+        "review_reliability": 2,
+        "unique_experience_score": 6,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 4
+      },
+      "score": 31,
+      "recommendation_reason": "2024年冬の全客室リニューアルという新しさと、館内外2種の湯めぐりは評価できるが、サウナ自体の設備詳細（水風呂・ロウリュ等）を裏付ける情報が確認できず、サウナ体験としての独自性を打ち出せない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本セッションのWeb検索では明確な低評価投稿は確認できなかったが、そもそも総合評価点数・件数自体を取得できておらず、判断材料が不足している。サウナに関する口コミ言及も見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "蔵王温泉 蔵王四季のホテル 施設紹介 - icotto", "url": "https://icotto.jp/hotels/183" },
+        { "type": "booking_site", "title": "蔵王四季のホテル 温泉情報 - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/16423/16423_onsen.html" },
+        { "type": "review_site", "title": "蔵王四季のホテル 口コミ一覧 - 一休.com", "url": "https://www.ikyu.com/00003213/review/" },
+        { "type": "booking_site", "title": "蔵王四季のホテル 施設情報 - じゃらん", "url": "https://www.jalan.net/yad322447" },
+        { "type": "other", "title": "蔵王四季のホテル 施設紹介 - たびいろ", "url": "https://tabiiro.jp/yado/s/100483-yamagata-zao-shikinohotel/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合評価点数・件数を本セッションでは確認できず、サウナ設備（水風呂・ロウリュ等）の独自性を裏付ける一次情報も不足しているため、score31点で今サイクルは不採用。"
+    }
+  ]
+}
