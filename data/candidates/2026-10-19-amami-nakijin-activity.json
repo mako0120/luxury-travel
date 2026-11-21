@@ -1,0 +1,142 @@
+{
+  "cycle_date": "2026-10-19",
+  "theme": "指定リサーチ（白馬村アクティビティの再調査・2回目）：鹿児島県奄美市（奄美大島）または沖縄県国頭郡今帰仁村 × アクティビティ",
+  "season_rationale": "奄美大島・沖縄本島北部ともに10月下旬は雨季明け〜晴天が増える時期で、マングローブカヌーやマリンスポーツのグリーンシーズン（例年おおむね4月〜11月頃）の終盤にあたる。奄美のマングローブ林は干潮時に生物観察がしやすくなるとされ、沖縄・古宇利島周辺のマリンスポーツも例年11月頃まで営業するショップが多いとみられる。冬の海況悪化前の『今シーズン最後の見頃』訴求ができる時期。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-19-hakuba-activity（data/candidatesのみ、該当なしで見送り・本件が2回目の再調査）", "region": "長野県北安曇郡白馬村", "category": "アクティビティ" },
+    { "post_id": "2026-10-18-kitakobushi-shiretoko", "region": "北海道斜里郡斜里町ウトロ東（知床）", "category": "アクティビティ" },
+    { "post_id": "2026-10-17-minakami-kogen-hotel200", "region": "群馬県利根郡みなかみ町（水上高原）", "category": "アクティビティ" },
+    { "post_id": "2026-09-22-sankara-yakushima", "region": "鹿児島県屋久島", "category": "アクティビティ" },
+    { "post_id": "2026-09-21-kerama-terrace", "region": "沖縄県島尻郡渡嘉敷村（渡嘉敷島・慶良間諸島）", "category": "アクティビティ" },
+    { "post_id": "2026-09-22-amami-yagijima-hotel", "region": "鹿児島県奄美市名瀬（山羊島）", "category": "離島リゾート" },
+    { "post_id": "2026-10-17-hoshino-iriomote-hotel", "region": "沖縄県八重山郡竹富町上原（西表島）", "category": "離島リゾート" },
+    { "post_id": "2026-10-18-grand-mercure-okinawa-zanpa", "region": "沖縄県中頭郡読谷村字儀間", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-19-データ候補のみ: all-inclusive-motobu-htb（該当なし）", "region": "沖縄県国頭郡本部町", "category": "オールインクルーシブ／その他" }
+  ],
+  "duplication_note": "依頼地域の『鹿児島県奄美市（奄美大島）』は2026-09-22サイクルで離島リゾート候補として奄美山羊島ホテル（selected）・伝泊 The Beachfront MIJORA（笠利町・shortlisted）・THE SCENE amami（瀬戸内町・rejected）を調査済みだが、いずれも宿泊施設＝離島リゾート枠であり、今回のアクティビティ枠候補（マングローブ茶屋＝住用町、マリンショップアウル＝今帰仁村、ネイティブシー奄美＝笠利町のダイビングショップ兼業宿）とは施設・業態が異なるため地域・ブランドの連続禁止（原則29）には抵触しないと判断した。もう一方の候補地『沖縄県国頭郡今帰仁村』は、2026-10-17サイクルでOne Suite THE GRAND（今帰仁村古宇利・オールインクルーシブ候補として調査、口コミ未確認のため32点で見送り）が一度候補に挙がっているが、宿泊施設であり今回のマリンアクティビティ店舗（マリンショップアウル）とは別施設・別業態。また2026-10-19当日に調査済みの沖縄県国頭郡本部町（Yama'oto・オリオンホテルモトブ等）は今帰仁村の隣接自治体だが同一自治体ではなく、業態も宿泊施設中心で重複とはみなさない。",
+  "research_constraints": "このセッションではCLAUDE.mdの制約どおり、じゃらん（www.jalan.net）・アソビュー（www.asoview.com）・VELTRA（www.veltra.com）・TripAdvisorなど主要な旅行・体験予約ドメインへのWebFetchはすべてEGRESS_BLOCKED（DNS解決不可）となり、WebSearchのスニペット経由で得られる情報のみを情報源とした。そのため、各施設の『評価点数』と『口コミ件数』が同一ページ上で明確に紐づいた形で確認できたのはごく一部（マングローブ茶屋のじゃらん掲載分、ネイティブシー奄美のフォートラベル掲載分）に限られ、アソビュー等では口コミ件数（例: マングローブ茶屋811件、マリンショップアウル215〜216件、COCONUTS CLUB 509〜514件）は確認できても平均評価点がスニペットに表示されず、確認不能だった。マリンショップアウルについては2022年のアクティビティジャパン記事で『総合評価4.8の優良店』との言及があったが、その評価に対応する口コミ件数が確認できず、原則6・7の判定に使える数値として採用しなかった。これらの事情から、今回調査した3件はいずれも採用ライン75点に届かなかった。",
+  "candidates": [
+    {
+      "id": "2026-10-19-mangrove-chaya-amami",
+      "name": "マングローブ茶屋",
+      "region": "鹿児島県奄美市住用町役勝（住用川・役勝川マングローブ原生林エリア）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらん（観光スポット掲載）", "score": 4.4, "scale": 5, "review_count": 214, "checked_date": "2026-10-19", "url": "https://www.jalan.net/kankou/spt_guide000000208368/spot/" },
+        { "source": "VELTRA（マングローブカヌー自由自在フリープラン）", "score": 4.0, "scale": 5, "review_count": 131, "checked_date": "2026-10-19", "url": "https://www.veltra.com/jp/japan/amamioshima/a/165244" }
+      ],
+      "price_range_jpy": {
+        "note": "VELTRA掲載のフリープラン（1.5時間程度）で大人1名あたり2,000円〜という表示を確認。半日・終日の複合ツアー（カヌー＋金作原原生林トレッキング＋アマミノクロウサギ探検ナイトツアー等）はより高額とみられるが、具体的な料金は今回の検索範囲では確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "国立公園指定前から営業する老舗で、日本国内最大規模ともいわれる奄美大島のマングローブ原生林を、時間指定なしで利用者の都合に合わせてカヌー体験できる点が特徴。干潮時には生き物観察もできるとされ、ナイトツアーや金作原原生林トレッキング・アマミノクロウサギ探検と組み合わせた複合ツアーも扱っている。",
+      "renewal_or_news": "具体的な2024〜2025年のリニューアル・新プランのニュースは確認できなかった。VELTRA掲載ページの情報最終更新日は2020年11月27日と古いが、じゃらん（口コミ214件）・アソビュー（口コミ811件）は現在も掲載が継続しており、営業自体は継続しているとみられる。",
+      "target_audience": ["家族", "友人", "一人旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 11,
+        "unique_experience_score": 13,
+        "photogenic": 10,
+        "value_for_price": 8,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 66,
+      "recommendation_reason": "じゃらん4.4（214件）・VELTRAの主力プラン4.0（131件）という性質の異なる2つの独立した情報源を確認でき、いずれも採用ライン4.0以上を満たした（参考値：アソビューの口コミ件数811件、ただし平均点は確認不能）。老舗かつ国立公園内のマングローブカヌーという体験自体には一定の独自性があるが、同種のマングローブカヌー体験は奄美・西表島・石垣島など複数の離島で提供されており『ここでしかできない』体験としての独自性スコアは高くできなかった。VELTRA掲載情報の更新日が2020年と古く、具体的な最新ニュース・リニューアル情報も確認できなかったため、アクセス・情報鮮度のスコアも抑えた。総合スコア66点で採用ライン75点には届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "WebSearchの範囲では『悪い』『残念』『微妙』といった具体的な否定的レビューの本文は確認できなかった。じゃらん掲載の4.4（214件）・VELTRAの4.0（131件）はいずれも採用ライン以上で、重大な苦情の兆候は見られなかったが、個別レビュー本文（清潔感・ガイドの対応等）の精査はWebFetchがEGRESS_BLOCKEDのため実施できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "マングローブ原生林観光（マングローブ茶屋） - じゃらん観光ガイド", "url": "https://www.jalan.net/kankou/spt_guide000000208368/spot/" },
+        { "type": "booking_site", "title": "マングローブカヌー 自由自在に楽しむフリープラン by マングローブ茶屋 - VELTRA", "url": "https://www.veltra.com/jp/japan/amamioshima/a/165244" },
+        { "type": "other", "title": "マングローブ茶屋 カヌー・カヤック／ナイトツアー／ガイドツアー - アソビュー", "url": "https://www.asoview.com/leisure/act1004/location/461717/" },
+        { "type": "review_site", "title": "マングローブ原生林でのカヌー体験に関するQ&A - フォートラベル", "url": "https://4travel.jp/dm_shisetsu/10012116/qa/72295" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア66点で採用ライン75点に届かなかった。口コミ評価（4.4／4.0、2つの独立情報源）自体は採用ライン4.0以上を満たしたが、マングローブカヌーという体験の独自性が他の離島と比べて相対的に弱く、情報鮮度（VELTRA更新日2020年）や最新ニュースの不足もあり、独自性・映え・アクセス鮮度の各スコアを伸ばせなかった。"
+    },
+    {
+      "id": "2026-10-19-marine-shop-owl-nakijin",
+      "name": "マリンショップアウル",
+      "region": "沖縄県国頭郡今帰仁村（集合場所: ホテルオーシャンズ今帰仁、古宇利島まで車で約15分）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "具体的な料金帯は今回の検索範囲では確認できなかった（アソビュー掲載の個別プラン料金は確認できず）。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "フライボード・ウェイクボード・ディスクボード・水上バイク・バナナボート等、沖縄本島北部のマリンショップの中でも扱うアクティビティの種類が多い点が特徴。プライベートビーチを利用できる点も紹介されていた。2022年のアクティビティジャパンの記事では『総合評価4.8の優良店』と紹介されていたが、その評価に対応する具体的な口コミ件数は確認できなかった。",
+      "renewal_or_news": "2022年のアクティビティジャパン記事以降の具体的なリニューアル・新サービスのニュースは確認できなかった。",
+      "target_audience": ["友人", "家族", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 12,
+        "photogenic": 11,
+        "value_for_price": 3,
+        "sns_buzz": 6,
+        "access_and_freshness": 2
+      },
+      "score": 34,
+      "recommendation_reason": "アソビュー掲載の口コミ件数は215〜216件と多いものの、平均評価点がスニペットから確認できず、原則6（主要レビュー4.0以上）の判定に使える数値が得られなかった。2022年のアクティビティジャパン記事にある『総合評価4.8』は件数が確認できないため参考情報にとどめ、review_scoresには採用しなかった。フライボード等の視覚的に映える体験でSNS話題性はある程度期待できるが、口コミ評価・価格帯いずれも数値確認ができず、原則6・7のファクトチェックを完了できなかった。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "口コミ件数（215〜216件）は確認できたが、個別レビューの内容（満足・不満の傾向）はWebFetchがEGRESS_BLOCKEDのため確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "マリンショップアウル 口コミ(215) - アソビュー", "url": "https://www.asoview.com/item/activity/pln3000044363/" },
+        { "type": "other", "title": "マリンショップアウル紹介記事（2022年） - アクティビティジャパン", "url": "https://activityjapan.com/column/20220817_ajpush_marineshop_owl/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア34点で採用ライン75点に大きく届かなかった。口コミ評価・件数が紐づいた数値として確認できず、原則6（主要レビュー4.0以上）の判定ができなかったため、口コミ関連項目を0点扱いとした。"
+    },
+    {
+      "id": "2026-10-19-native-sea-amami",
+      "name": "ネイティブシー奄美（ダイビングショップ兼プチリゾート）",
+      "region": "鹿児島県奄美市笠利町字宇宿",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル（宿泊施設評価）", "score": 3.61, "scale": 5, "review_count": 63, "checked_date": "2026-10-19", "url": "https://4travel.jp/dm_hotel-10038958" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な料金帯は今回の検索範囲では確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "ダイビングショップを兼ねる小規模リゾートで、体験ダイビングや最短2泊でのライセンス取得コースを扱う。アソビュー掲載の口コミ（33件）では『少人数制による指導が丁寧』『お客様の約半数がリピーター』との紹介があった。",
+      "renewal_or_news": "確認できなかった。",
+      "target_audience": ["一人旅", "友人", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 6,
+        "unique_experience_score": 12,
+        "photogenic": 10,
+        "value_for_price": 4,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 49,
+      "recommendation_reason": "フォートラベルの宿泊施設評価が3.61（63件）と、原則6の採用ライン4.0に届かなかった。項目別では食事4.26・接客対応4.11と高評価の項目もあったが、アクセス3.18が低く全体評価を下げている。ダイビングショップとしての口コミ（アソビュー33件、半数がリピーター）はポジティブだが、宿泊施設としての主要レビュー評価が基準に届かないため、原則6の要件を満たせなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの項目別評価で『アクセス』が3.18と他項目（食事4.26・接客対応4.11）より明確に低く、立地面での不満がある可能性がある。個別レビュー本文の精査はWebFetchがEGRESS_BLOCKEDのため実施できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "プチリゾート ネイティブシー奄美のクチコミ・感想 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10038958" },
+        { "type": "other", "title": "ネイティブシー奄美 シュノーケリング／ホエールウォッチング／体験ダイビング 口コミ33件 - アソビュー", "url": "https://www.asoview.com/leisure/act1010/location/are0462000/" },
+        { "type": "other", "title": "プチリゾート ネイティブシー奄美 - マップル", "url": "https://www.mapple.net/spot/46010367/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア49点で採用ライン75点に届かなかった。主要レビュー（フォートラベル3.61）が原則6の4.0未満のため、原則上この時点で不採用。"
+    }
+  ]
+}

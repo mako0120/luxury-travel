@@ -1,0 +1,193 @@
+{
+  "cycle_date": "2026-10-21",
+  "theme": "温泉旅館（山形県蔵王温泉／比較候補：福島県飯坂温泉）",
+  "season_rationale": "10月下旬は紅葉が山形・福島の山間部で見頃を迎える時期で、蔵王・飯坂いずれも紅葉と温泉を組み合わせて検討されやすい。11月以降は蔵王エリアは樹氷・積雪シーズンへ移行するため、紅葉と雪見露天の両方を楽しめる『季節の変わり目』の今が、宿泊検討を後押しするタイミングとして適している（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-20-bettei-haruki-beppu", "region": "大分県別府市（別府温泉・春木川沿い）", "category": "温泉旅館" },
+    { "post_id": "2026-10-20-gero-suimeikan", "region": "岐阜県下呂市幸田（下呂温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-20-izu-ochiairo-sauna", "region": "静岡県伊豆市湯ケ島（天城湯ヶ島・修善寺エリア）", "category": "サウナ" },
+    { "post_id": "2026-10-20-aso-canyon-terrace-lodge", "region": "熊本県阿蘇郡南阿蘇村", "category": "絶景ホテル" },
+    { "post_id": "2026-10-19-lavista-kusatsu-hills", "region": "群馬県吾妻郡草津町（草津温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-10-19-ibusuki-ginsho", "region": "鹿児島県指宿市湯の浜5-26-29", "category": "絶景ホテル" },
+    { "post_id": "2026-10-19-yunohana-jozankeiden", "region": "北海道札幌市南区定山渓温泉", "category": "サウナ" },
+    { "post_id": "2026-10-18-yamanokami-yukaen", "region": "岩手県花巻市下シ沢字中野（花巻温泉郷）", "category": "温泉旅館" },
+    { "post_id": "2026-10-18-kaike-shogetsu", "region": "鳥取県米子市皆生温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-17-shichijuyae", "region": "栃木県日光市鬼怒川温泉大原", "category": "温泉旅館" },
+    { "post_id": "2026-10-17-kahou-tsukioka", "region": "新潟県新発田市月岡温泉", "category": "サウナ" },
+    { "post_id": "2026-09-22-gero-suihouen", "region": "岐阜県下呂市", "category": "温泉旅館（旧スコープ・posts/候補）" },
+    { "post_id": "2026-09-18-nishimuraya-honkan", "region": "兵庫県豊岡市（城崎温泉）", "category": "温泉旅館（旧スコープ）" },
+    { "post_id": "2026-09-14-yamamizuki-kurokawa", "region": "熊本県阿蘇郡南小国町（黒川温泉）", "category": "温泉旅館（旧スコープ）" }
+  ],
+  "duplication_note": "依頼時点の候補地域は『福島県飯坂温泉または山形県蔵王温泉』（温泉旅館カテゴリ）。直近は2026-10-17鬼怒川温泉（栃木）・10-18花巻温泉郷（岩手）・10-19草津温泉（群馬）・10-20別府温泉（大分）と4日連続で温泉旅館カテゴリの投稿が続いており、地域としては東日本の有名温泉地が中心だった。captions/・data/candidates/ の全履歴（2026-09-14〜2026-10-20、1ヶ月以上前の分も含めて全件grep確認）を確認したところ、『飯坂』『蔵王』『山形県』の記載は一度も存在せず、『福島県』については2026-10-17のサウナ候補でいわき湯本温泉（いわき市）が一度候補として挙がったのみ（不採用・飯坂とは別の温泉地）で、地域としての重複はない。山形県は候補・採用のいずれにも過去一度も登場しておらず、地域分散の観点で最も新規性が高い。以上を踏まえ、飯坂温泉（福島県）と蔵王温泉（山形県）の両方を調査し、比較のうえ蔵王温泉の施設を選定した。",
+  "candidates": [
+    {
+      "id": "2026-10-21-zao-kokusai-hotel",
+      "name": "蔵王国際ホテル",
+      "region": "山形県山形市蔵王温泉933",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル クチコミ（口コミ集計サイト travel.gpoint.co.jp 経由で確認、本体ページへは本セッションのネットワーク制限によりWebFetch不可）",
+          "score": 4.8,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-21",
+          "url": "https://travel.gpoint.co.jp/daredoko/06b002-c000-d04a/"
+        },
+        {
+          "source": "Skyticket 集計クチコミ",
+          "score": 4.8,
+          "scale": 5,
+          "review_count": 1007,
+          "checked_date": "2026-10-21",
+          "url": "https://skyticket.jp/hotel/detail/property_10223/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付・1名あたり20,900円〜31,900円程度（和室4名1室利用〜ラグジュアリースイート2名1室利用まで、プラン・部屋タイプ・時期により変動）。素泊まりのみの最安プランは1室1泊13,860円という表示も確認。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "標高900mの蔵王温泉に立ち、100%源泉かけ流しの乳白色・強酸性硫黄泉を木造りの大浴場「八右衛門の湯」（内湯＋石造りの露天風呂、男女入替制）で楽しめる。露天風呂は秋は紅葉、冬は雪見と季節ごとに表情を変え、ほかに有料の貸切風呂が3種類ある。夕食では山形牛を含む郷土料理プランが選べる。運営する蔵王カンパニーの自社発表では、同社運営の3施設（本ホテル含む）が『プロが選ぶ旅館100選』を受賞したとされ、2026年時点で『日本の宿アワード』受賞記念のチェックアウト延長特典付きプランも販売されている（いずれも運営会社・予約サイト側の発表で、主催者公式の受賞告知は今回確認できなかった点は留意）。",
+      "renewal_or_news": "予約サイト掲載のプラン設定期間が2026年12月〜2027年3月まで組まれており、冬季（樹氷・雪見露天）シーズンの受け入れ体制が現役で稼働していることを確認。『日本の宿アワード』受賞記念プランも2026年時点で販売中。",
+      "target_audience": ["夫婦", "記念日", "カップル", "温泉好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 11,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 79,
+      "recommendation_reason": "100%源泉かけ流しの乳白色硫黄泉・総木造りの大浴場という『ここでしかできない』体験が、楽天トラベル系集計（4.8）とSkyticket集計（4.8・1,007件）という2つの独立した情報源でいずれも採用ライン（4.0以上、推奨4.2以上）を大きく上回って一致している。山形県は本リポジトリで過去一度も取り上げられていない地域で、原則29の重複防止の観点でも適している。1,007件という口コミ件数規模は信頼度判断（原則6）の面でも一定の裏付けになる一方、楽天トラベル本体の正確な件数をWebFetchで直接確認できなかった点は限界として付記する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "今回のWebSearchで確認できた口コミの大半は好意的（接客『至れり尽くせり』、温泉『露天風呂は星5』、食事『美味しい』など）。一部の個別レビューで『部屋3点』『接客・サービス3点』とする投稿が1件確認されたが、重大な清潔感・安全性・予約トラブルの指摘ではなかった。なお4travel.jpの一覧には旧名称時代（1990年代）の別施設と思われる古い口コミが混在している可能性があり、現体制の評価として扱っていない。アクセスはJR山形駅から送迎車で約40分（3日前までの予約が必要）で、車を持たない旅行者には事前予約の手間がある点は留意事項として記載する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "天然温泉と郷土料理を堪能!「蔵王温泉 蔵王国際ホテル」で100%源泉掛け流しの硫黄泉と山形牛を味わう旅 - All About", "url": "https://news.allabout.co.jp/articles/o/125989/" },
+        { "type": "review_site", "title": "蔵王温泉 蔵王国際ホテル クチコミ集計（楽天トラベル・総合4.8） - travel.gpoint.co.jp", "url": "https://travel.gpoint.co.jp/daredoko/06b002-c000-d04a/" },
+        { "type": "booking_site", "title": "蔵王国際ホテル クチコミ集計（4.8・1,007件） - Skyticket", "url": "https://skyticket.jp/hotel/detail/property_10223/" },
+        { "type": "booking_site", "title": "蔵王国際ホテル 宿泊プラン・施設情報 - 近畿日本ツーリスト(yado.knt.co.jp)", "url": "https://yado.knt.co.jp/st/S060023/" },
+        { "type": "other", "title": "蔵王観光で泊まりたい!おすすめホテル10選 - トラベルjp 旅行ガイド", "url": "https://www.travel.co.jp/guide/matome/1624/" },
+        { "type": "booking_site", "title": "蔵王国際ホテル『日本の宿アワード』受賞記念プラン", "url": "https://reserve.489ban.net/client/zao-kokusaihotel/0/detail/763926" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-21-zao-onsen-oomiya-ryokan",
+      "name": "蔵王温泉 おおみや旅館",
+      "region": "山形県山形市蔵王温泉",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Relux",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 8,
+          "checked_date": "2026-10-21",
+          "url": "https://rlx.jp/21203/review/"
+        },
+        {
+          "source": "All About（楽天トラベル平均評価4.0超が掲載基準）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-21",
+          "url": "https://news.allabout.co.jp/articles/o/114055/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "今回のWebSearchでは具体的な1泊2食の料金数値は確認できなかった。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "創業1000年を謳う老舗で、大正ロマン漂う全館畳敷きの建築が特徴。100%源泉の温泉を複数の湯で楽しめる。",
+      "target_audience": ["夫婦", "一人旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 8,
+        "unique_experience_score": 16,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 65,
+      "recommendation_reason": "大正ロマン・全館畳敷きという建築の独自性は高いが、総合スコアが採用ライン（75点）に届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Reluxの個別レビューでは風呂4.9/5と高評価な一方、部屋4.0・朝食4.1・夕食4.1とばらつきがあり、口コミ件数自体も8件と少ない。cocolocalaには『フロントでの現金払いの確認を周囲に聞こえる形で行われ、プライバシー配慮に欠けた』とする低評価（2.0）の投稿が1件確認された。また、じゃらん公式Q&Aでは『温泉街の奥の高台にあり階段が多い』との館内施設に関する指摘があり、運営側もこれを認めている。重大な衛生・安全上の問題ではないが、接客配慮とアクセス面の弱さが確認された。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "蔵王温泉 おおみや旅館 レビュー（8件・総合4.5） - Relux", "url": "https://rlx.jp/21203/review/" },
+        { "type": "press", "title": "【蔵王温泉の人気ホテル】「蔵王温泉 おおみや旅館」は創業1000年の歴史と大正ロマンが息づく老舗宿 - All About", "url": "https://news.allabout.co.jp/articles/o/114055/" },
+        { "type": "other", "title": "蔵王温泉 おおみや旅館 口コミ（2.0） - cocolocala", "url": "https://www.cocolocala.jp/hotels/2897" },
+        { "type": "booking_site", "title": "蔵王温泉 おおみや旅館 よくあるお問合せ一覧（階段に関する回答） - じゃらん", "url": "https://www.jalan.net/yad338565/qa/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "建築・泉質の独自性は評価できるが、口コミ件数が少なく(Relux8件)サイト間の評価にもばらつきがあり信頼度の面で原則6・7を十分に満たせない。加えてフロント対応への具体的な低評価投稿と、立地の階段の多さという弱点が確認されたため、総合スコア65点で採用ライン（75点）に届かず見送り。"
+    },
+    {
+      "id": "2026-10-21-iizaka-hotel-juraku",
+      "name": "飯坂温泉 飯坂ホテルジュラク",
+      "region": "福島県福島市飯坂町西滝ノ町27",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル（口コミ集計サイト経由）",
+          "score": 4.42,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-21",
+          "url": "https://travel.gpoint.co.jp/daredoko/070000-a004-d04a-e000/"
+        },
+        {
+          "source": "JTBお客様アンケート（総合90点・夕食91点・朝食94点）／るるぶトラベル総合4.5",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-21",
+          "url": "https://www.jtb.co.jp/kokunai-hotel/htl/2502005/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "今回のWebSearchでは具体的な1泊2食の料金数値は確認できなかった。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "飯坂温泉の中心に立ち、庭園を望む露天風呂群『花ももの湯』など湯温の異なる複数の内湯・露天風呂を持ち、和洋中の実演バイキング夕食が楽しめる。",
+      "target_audience": ["家族", "友人", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 10,
+        "unique_experience_score": 13,
+        "photogenic": 9,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 64,
+      "recommendation_reason": "口コミ評価自体は安定して高いが、営業状況の確認が取れず今回は見送り。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "過去の口コミでは『立地』評価が3.5と他項目より低い（駅から徒歩で距離があるため送迎利用が前提）との情報を確認。加えて、予約サイトの告知で『改装工事に伴い2026年9月24日より全館休館』とする記載を確認したが、再開日・現在の営業状況を示す情報は今回のWebSearchでは確認できなかった（公式サイトへのWebFetchも本セッションのネットワーク制限で不可）。原則34〜36の『事実を捏造しない』方針に基づき、休館中かどうかが確認できない施設を本日時点でBEST候補として選定することは見送った。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "press", "title": "【福島県の人気ホテル】「飯坂温泉 飯坂ホテルジュラク」は実演バイキングと多彩な湯めぐりが楽しめる宿 - All About", "url": "https://news.allabout.co.jp/articles/o/111926/" },
+        { "type": "booking_site", "title": "飯坂温泉 飯坂ホテルジュラク 宿泊情報 - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/2502005/" },
+        { "type": "booking_site", "title": "飯坂ホテルジュラク 改装工事に伴う全館休館のお知らせ（終了日不明） - 一休.com他予約ページ", "url": "https://www.ikyu.com/00030791/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価自体（楽天4.42・JTBアンケート90点・るるぶ4.5）は採用基準を満たすが、2026年9月24日からの全館休館告知があり、再開日・現在の営業状況を独立した情報源で確認できなかった（NEEDS_ASSET_APPROVAL的な『確認不能』扱い）。休業中の可能性がある施設を実在する体験として紹介することは原則20・34〜36の実体験捏造禁止・事実確認の原則に反するリスクがあるため、今回は不採用とした。"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "cycle_date": "2026-10-20",
+  "theme": "サウナ（大分県別府温泉／静岡県伊豆地域）",
+  "season_rationale": "10月下旬は朝晩の気温が下がり始め、サウナで発汗した後の外気浴・川風にあたる体験が『ととのう』感覚として際立つ季節（原則30: 秋は紅葉・温泉）。直近投稿は2026-10-17山梨県石和温泉（サウナ）・2026-10-18ホテル群・2026-10-19北海道定山渓（サウナ）と続いているため、地域を伊豆・別府エリアへ切り替えつつ、サウナカテゴリの中でもより『旅館・一棟貸しの非日常体験』という切り口で差別化する。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-19-yunohana-jozankeiden", "region": "北海道札幌市南区定山渓温泉", "category": "サウナ" },
+    { "post_id": "2026-10-19-lavista-kusatsu-hills", "region": "群馬県草津温泉", "category": "温泉旅館" },
+    { "post_id": "2026-10-19-ibusuki-ginsho", "region": "鹿児島県指宿市", "category": "絶景ホテル" },
+    { "post_id": "2026-10-18-qua-hotel-isawa-kenkoland", "region": "山梨県笛吹市石和町（石和温泉）", "category": "サウナ" },
+    { "post_id": "2026-10-17-atami-sekaie", "region": "静岡県熱海市伊豆山", "category": "絶景ホテル" }
+  ],
+  "duplication_note": "大分県別府・静岡県伊豆地域はいずれも直近の候補・投稿データに登場していない新規地域（熱海市伊豆山は2026-10-17に『絶景ホテル』カテゴリで選定済みだが、伊豆市天城湯ヶ島は熱海とは異なる市で、カテゴリも『サウナ』のため重複とはみなさない）。サウナカテゴリは2026-10-18石和温泉・2026-10-19定山渓で連続選定済みだが、地域が完全に異なり、かつ今回は『文化財旅館のプライベートサウナ』という切り口のため、同カテゴリの単純な繰り返しにはしない判断とした。",
+  "candidates": [
+    {
+      "id": "2026-10-20-izu-ochiairo-sauna",
+      "name": "おちあいろう",
+      "region": "静岡県伊豆市湯ケ島（天城湯ヶ島・修善寺エリア）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "skyticket（宿泊口コミまとめ）",
+          "score": 4.8,
+          "scale": 5,
+          "review_count": 346,
+          "checked_date": "2026-10-20",
+          "url": "https://skyticket.jp/hotel/detail/property_17495/"
+        },
+        {
+          "source": "tour.ne.jp 宿泊口コミ",
+          "score": 4.7,
+          "scale": 5,
+          "review_count": 7,
+          "checked_date": "2026-10-20",
+          "url": "https://www.tour.ne.jp/j_hotel/8686/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "オールインクルーシブ（食事・ドリンク・一部施設利用込み）で1名62,000円〜という掲載情報と、楽天トラベル経由で1泊2名利用時1名あたり104,000円〜という掲載情報（icotto経由）の両方をWeb検索で確認した。別邸『しゃくなげ』一棟貸し等、部屋タイプにより価格帯は大きく変動する。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "静岡県伊豆市湯ケ島、狩野川沿いに建つ登録有形文化財の老舗旅館。館内に『茶室サウナ』（月の湯・サウナ設計の第一人者による設計で『サウナシュラン』2019・2020と2年連続選出）と『天狗サウナ』（天狗の湯・狩野川の渓流を一面に望む造り）という2つの個性的なサウナを持ち、『サウナー垂涎の宿』として複数の旅行メディアで紹介されている。夏季限定で川辺でのテントサウナ×BBQプラン（1日1組限定）もあり、2024年12月には敷地内の文化財建物を使った一棟貸し別邸『しゃくなげ』（露天風呂・サウナ付き）がリニューアルオープンしている。竹垣の露天風呂・洞窟風呂を含む3つの浴場、オールインクルーシブ（食事・ドリンク・ミニバー・送迎込み）という滞在スタイルも含め、『サウナ×文化財旅館』という組み合わせは他施設にはない独自性がある。",
+      "renewal_or_news": "2024年12月、敷地内の登録有形文化財の建物を使った一棟貸し切り別邸『しゃくなげ』（露天風呂・サウナ付き）としてリニューアルオープンしたことをWeb検索（複数の旅行メディア記事）で確認した。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 11,
+        "unique_experience_score": 19,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 9,
+        "access_and_freshness": 4
+      },
+      "score": 86,
+      "recommendation_reason": "『茶室サウナ』『天狗サウナ』の2つがいずれも『サウナシュラン』に選出済みという、サウナ愛好家コミュニティの中で確立された評価があり、今回のサウナテーマの核心である『ここでしかできない体験』が非常に強い。skyticket4.8点（346件）・tour.ne.jp4.7点（7件）という性質の異なる2つの独立した情報源でいずれも採用ライン（4.0以上、推奨4.2以上）を大きく上回る評価を確認した（原則6・7）。登録有形文化財の建築、狩野川の渓流を望む浴場という写真映えも高く、複数の旅行メディア・デジタルPR記事で継続的に取り上げられており、SNS・メディア話題性も確認できた。2024年12月の一棟貸し別邸リニューアルという情報の新しさも押さえている。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルでは項目別評価（風呂4.30・客室4.38）は高い一方、『みんなの満足度』は3.34とサイト内で相対的に低く表示されており、バリアフリー項目も3.13と低めだった。登録有形文化財の古い木造建築という特性上、段差・階段が多く車椅子利用等には不向きである点は確認できたが、清潔感・接客・料理・予約トラブルに関する重大な指摘は見当たらなかった。価格に対する食事評価について触れた口コミも一部あったが、施設名の特定が曖昧なものだったため参考情報として留保し、重大な除外要因とはみなさなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "文人墨客の愛した修善寺の名宿がサウナー垂涎の宿に", "url": "https://digitalpr.jp/r/71588" },
+        { "type": "booking_site", "title": "おちあいろう 宿泊口コミまとめ - skyticket", "url": "https://skyticket.jp/hotel/detail/property_17495/" },
+        { "type": "review_site", "title": "おちあいろう クチコミ・満足度 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10046791" },
+        { "type": "other", "title": "ochiairou murakami - Michelin Guide", "url": "https://guide.michelin.com/jp/ja/hotels-stays/izu/ochiairou-murakami-6663" },
+        { "type": "press", "title": "おちあいろう特集記事 - Precious.jp", "url": "https://precious.jp/articles/-/22106" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-20-ana-ic-beppu-sauna",
+      "name": "ANAインターコンチネンタル別府リゾート&スパ",
+      "region": "大分県別府市",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Trip.com 宿泊口コミ",
+          "score": 9.6,
+          "scale": 10,
+          "review_count": 204,
+          "checked_date": "2026-10-20",
+          "url": "https://uk.trip.com/hotels/beppu-hotel-detail-27391867/ana-intercontinental-beppu-resort-spa-by-ihg/review.html"
+        },
+        {
+          "source": "楽天トラベル 宿泊口コミ",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 49,
+          "checked_date": "2026-10-20",
+          "url": "https://travel.rakuten.co.jp/HOTEL/172910/172910.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な1泊2食価格帯は確定できなかった。ANAブランドの高級リゾートホテルという位置づけから高価格帯と推測される。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "別府湾を見下ろす山の上に建つANAブランドのリゾート&スパホテル。館内に温泉とサウナがあり、別料金で個室の温泉浴室（プライベートオンセン）も利用できる。クラブラウンジのスタッフ対応やバリアフリー対応も口コミで評価されていたが、サウナ自体は『海を見渡す絶景リゾートの付帯設備』という位置づけで、サウナシュラン選出や独自設計など、サウナそのものを目的地にする独自性までは確認できなかった。",
+      "renewal_or_news": "Web検索では直近の大規模リニューアル情報は確認できなかった。",
+      "target_audience": ["カップル", "記念日", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 10,
+        "unique_experience_score": 10,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 70,
+      "recommendation_reason": "Trip.com9.6/10（204件）・楽天トラベル4.6（49件）と口コミ評価自体は非常に高く、別府湾を見下ろす絶景・温泉・サウナという組み合わせは『絶景ホテル』カテゴリとしては強い。ただしサウナそのものは館内設備の一部に留まり、今回のテーマ『サウナ』の核心である独自性（原則5『ここでしかできない体験』20点配点）の面でおちあいろうに及ばないと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Trip.comの口コミでは、夏場は浴室の湯温が高すぎると感じたという声や、夜の食事メニューの種類をもう少し増やしてほしいという意見が確認できたが、清潔感・接客・予約トラブル等の重大な問題は見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "ANAインターコンチネンタル別府リゾート&スパ 公式サイト", "url": "https://www.ana.co.jp/ja/jp/domestic/theme/premium_stay/anaihgbeppu/" },
+        { "type": "booking_site", "title": "ANAインターコンチネンタル別府リゾート&スパ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/172910/172910.html" },
+        { "type": "review_site", "title": "ANA InterContinental Beppu Resort & Spa - Trip.com レビュー", "url": "https://uk.trip.com/hotels/beppu-hotel-detail-27391867/ana-intercontinental-beppu-resort-spa-by-ihg/review.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価自体は高いが、サウナがホテルの付帯設備という位置づけに留まり、サウナというテーマにおける『ここでしかできない体験』の独自性がおちあいろうに比べて弱いため、総合75点のラインに届かず見送った。"
+    },
+    {
+      "id": "2026-10-20-suginoi-hotel-beppu-sauna",
+      "name": "別府温泉 杉乃井ホテル（展望露天風呂 棚湯）",
+      "region": "大分県別府市",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Googleクチコミ（All About記事経由・2026年3月時点の選定基準『500件以上・平均評価4.0超』を満たすとして紹介）",
+          "score": 4.1,
+          "scale": 5,
+          "review_count": 500,
+          "checked_date": "2026-10-20",
+          "url": "https://news.allabout.co.jp/articles/o/112921/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "展望露天風呂『棚湯』の日帰り利用は大人2,000円〜という掲載情報をWeb検索で確認した（2023年7月リニューアル時点の情報のため、現在の料金は要確認）。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "別府市内・別府湾を一望できる大型展望露天風呂『棚湯』（2023年7月に20年ぶりにリニューアル）にサウナが付帯し、眺望の良さが評価されている。大規模リゾートホテルとして知名度・口コミ件数は非常に多いが、サウナ自体は大浴場の付帯設備という位置づけで、すでに全国的に有名な『定番観光地の大浴場』であるため、今回狙う『少し奮発すれば届く非日常』『ここでしか体験できない』という独自性の面では新規性に乏しい。",
+      "renewal_or_news": "2023年7月、展望露天風呂『棚湯』が20年ぶりにリニューアルされたことをWeb検索で確認したが、調査時点から2年以上経過しており、情報の新しさの観点では他候補に劣る。",
+      "target_audience": ["家族", "友人", "絶景好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 13,
+        "unique_experience_score": 9,
+        "photogenic": 13,
+        "value_for_price": 8,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 69,
+      "recommendation_reason": "Googleクチコミ500件以上・平均評価4.0超（All About記事基準）と口コミ件数・信頼性は高く、棚湯からの別府湾の眺望は非常に写真映えする。価格に対する体験価値も良好。しかし全国的に有名な定番スポットであるため話題性が目新しくなく、サウナ自体も大浴場の付帯設備に留まり、今回のテーマで求める独自体験としての訴求力がおちあいろうに及ばないと判断した。独立した2件目の数値評価（じゃらん・楽天トラベル等）はWeb検索範囲では確認できず、原則7（最低2種類以上の独立情報源）の数値的な裏取りが1件のみに留まった点も記録しておく。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Web検索の範囲では重大なネガティブ指摘（清潔感・接客・混雑等）は見当たらなかったが、口コミ本文の個別確認は限定的だった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "【大分県の人気ホテル】「別府温泉 杉乃井ホテル」が選ばれる理由 - All About", "url": "https://news.allabout.co.jp/articles/o/112921/" },
+        { "type": "other", "title": "別府温泉 杉乃井ホテルの大展望露天風呂「棚湯」2023年7月1日リニューアル", "url": "https://sp.jorudan.co.jp/onsen/news/jrd_230607_2/" },
+        { "type": "review_site", "title": "別府温泉 杉乃井ホテル クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-10052956" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数・信頼性は高いが、サウナ自体は大浴場の付帯設備に留まり、今回のテーマで求める独自性・話題性の新しさがおちあいろうに及ばないため見送った。また数値評価の独立した2件目の裏取りがWeb検索範囲では確認できなかった。"
+      }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "cycle_date": "2026-10-24",
+  "theme": "アクティビティカテゴリ（青森県奥入瀬渓流エリアの体験型観光）",
+  "season_rationale": "10月下旬は奥入瀬渓流の紅葉が見頃〜後半にあたる時期。紅葉期は渓流沿いの県道に一般車両が入れず観光タクシー・シャトルバス利用が前提になるため、送迎付きのガイドツアーの相対的な価値が特に高まるタイミングである。また、カヌー・SUP・レンタサイクルなど夏季中心の水上・屋外アクティビティは例年11月中旬頃までに営業終了するため、10月下旬〜11月上旬は『今シーズン最後に楽しめる』という訴求もしやすい。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-10-24-tono-bunka-taiken", "region": "岩手県遠野市", "category": "文化体験" },
+    { "candidate_id": "2026-10-24-tomamu-all-inclusive", "region": "北海道勇払郡占冠村", "category": "絶景ホテル／オールインクルーシブ" },
+    { "candidate_id": "2026-10-24-the-royal-express-izu", "region": "静岡県伊豆〜神奈川県横浜", "category": "列車・船" },
+    { "candidate_id": "2026-10-24-sapporo-gentei-event", "region": "北海道札幌市中央区", "category": "その他" },
+    { "candidate_id": "2026-10-24-misasa-onsen-sauna", "region": "鳥取県東伯郡三朝町", "category": "サウナ" },
+    { "candidate_id": "2026-10-24-iki-island-resort", "region": "長崎県壱岐市", "category": "離島リゾート" },
+    { "candidate_id": "2026-10-24-aso-glamping", "region": "熊本県阿蘇郡南阿蘇村・阿蘇市", "category": "グランピング" },
+    { "candidate_id": "2026-10-24-arima-onsen-ryokan", "region": "兵庫県神戸市北区有馬町", "category": "温泉旅館" },
+    { "candidate_id": "2026-10-24-akan-view-hotel", "region": "北海道釧路市阿寒湖温泉", "category": "絶景ホテル" },
+    { "candidate_id": "2026-10-23-tateyama-kurobe-alpine-route", "region": "富山県中新川郡立山町〜長野県大町市", "category": "アクティビティ" },
+    { "candidate_id": "2026-10-23-asamushi-onsen-ryokan", "region": "青森県青森市浅虫温泉", "category": "温泉旅館", "note": "青森県の候補だが浅虫温泉は奥入瀬渓流とは全く別エリア（青森市内の海沿い温泉地）であり、地域重複にはあたらない。" }
+  ],
+  "duplication_note": "地域: data/candidates・captions・posts を横断的に検索した結果、青森県奥入瀬渓流を正面から扱った候補・投稿は過去に一件も存在しない（直近で青森県が登場したのは2026-10-23の浅虫温泉のみで、エリアも業態も完全に異なる）。カテゴリ: 『アクティビティ』は直前サイクル（2026-10-23・立山黒部アルペンルート）で使用しており、2サイクル連続になる。ただし地域・カテゴリとも依頼者から明示指定されているため、指定に従い調査を行った。立山黒部アルペンルートは高山・乗り物横断ルートが中心の体験であり、今回の奥入瀬渓流（渓流沿いのネイチャーウォーク・水上アクティビティ）とは体験の種類・地域とも大きく異なるため、視覚的・体験的なバリエーションは確保できていると判断する。",
+  "research_constraints": "本セッションのWebSearch実行回数がセッション全体の上限（200回/ターン、エージェント全体で共有）に達したため、本サイクル後半は既に取得済みの検索結果のみで候補をまとめた。また、jalan.net・veltra.com・pref.aomori.lg.jp・hoshinoresorts.com・aomori-tourism.com等への直接WebFetchはいずれもDNS解決不可（EGRESS_BLOCKED相当）であり、CLAUDE.mdの制約と同様、すべてWebSearchのスニペット経由で得られる情報のみを情報源とした。この結果、本サイクルでは奥入瀬渓流・十和田湖エリアのアクティビティとして計5つの事業者・サービス（①奥入瀬渓流ネイチャーツアー、②十和田湖カヌーセンター、③Towadako Guidehouse 櫂、④E-BIKEレンタル〔星野リゾート奥入瀬渓流ホテル／十和田市一般レンタサイクル〕、⑤SUI SUI SUP）を調査したが、数値による口コミ評価（score/review_count）を確実な情報源から確認でき、スコアリング可能だったのは①②の2件のみ。③〜⑤は料金・コース等の一部情報は確認できたが、運営公式サイトや確実な数値評価までは検索回数の制約内で確認しきれず、捏造禁止（CLAUDE.md）に従い正式な候補スコアリングの対象からは外した。次サイクル以降、検索回数の制約が解消された状態で③〜⑤の再調査を推奨する。",
+  "candidates": [
+    {
+      "id": "2026-10-24-oirase-nature-guide-tour",
+      "name": "奥入瀬渓流ネイチャーツアー（ガイド付きウォーキング）",
+      "region": "青森県十和田市奥瀬（奥入瀬渓流、石ヶ戸〜雲井の滝・銚子大滝・子ノ口エリア）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "VELTRA（ベルトラ）奥入瀬渓流ガイドツアー カテゴリ参加者レビュー一覧", "score": 4.87, "scale": 5, "review_count": 126, "checked_date": "2026-10-24", "url": "https://www.veltra.com/jp/japan/aomori/ctg/200158:Oirase_trekking/reviews/" }
+      ],
+      "price_range_jpy": {
+        "note": "石ヶ戸〜雲井の滝の約3km・半日コース（JR青森駅・青森空港からの無料送迎付き）は1名11,000円程度。石ヶ戸〜銚子大滝の約7kmコース、石ヶ戸〜子ノ口の約9kmコースも用意されており、距離が長いコースほど料金は高くなる見込み（本セッションでは3kmコースの料金のみ確認）。催行期間は4月〜11月。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "奥入瀬渓流の特徴を凝縮した約3km（または7km・9km）を、地元の専門ネイチャーガイドと一緒に歩くツアー。植物・地形・生態の解説を受けながら、雲井の滝・銚子大滝など渓流の見どころを巡る。紅葉期（10月下旬〜11月上旬）は渓流沿いの県道に一般車両が入れなくなるため、送迎付きガイドツアーならではの価値が特に高まる時期。11月以降はネイチャーガイド同行の冬季限定『氷瀑ツアー』（昼・夜の2コース）に切り替わる。",
+      "renewal_or_news": "2026年も4月〜11月の通常シーズンで催行中であることを、2026年7月時点の参加者レビュー（倒木による一部区間通行止めの報告）から確認した。冬季は氷瀑ツアーとして継続するが、本セッションでは2026-2027年冬季の最新開催状況までは確認できていない。",
+      "target_audience": ["カップル", "夫婦", "友人", "一人旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 9,
+        "unique_experience_score": 15,
+        "photogenic": 14,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 77,
+      "recommendation_reason": "VELTRA掲載の奥入瀬渓流ガイドツアーは評価4.87・口コミ126件（検索時点の表示。関連ページでは126〜131件とやや変動あり）と、採用ライン（4.0以上）を大きく上回る高評価を確認した。ただし本セッションのWeb検索回数の制約内では、同じ商品について独立した2つ目の数値評価ソース（じゃらん・トラベルコ等）までは確認できず、確認できた数値評価はVELTRA単独である点を踏まえ、口コミ信頼性（review_reliability）の評価はやや抑えて付けている。紅葉期は一般車両が渓流内に入れず、無料送迎付きのガイドツアーという形態自体の実用的価値が高まる時期であることに加え、国の観光地域づくり法人『十和田奥入瀬観光機構』（国土交通省観光庁資料で登録確認）が冬季に地元ガイドによる氷瀑ツアーを受賞歴ある形で展開していることからも、奥入瀬エリアのネイチャーガイド事業全体の信頼性は一定確認できる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "VELTRAの参加者レビューでは、2026年7月の投稿で倒木により一部区間が塞がれ、雲井の滝で水しぶきを浴びる体験ができなかったとの報告があった。また夏場は漆のような植物やハチに遭遇する可能性があるため肌の露出を避けるよう勧める声も複数確認された。紅葉期は一般車両が渓流内に入れず観光タクシー利用が前提になる点も、事前に知らないと計画に影響する注意点として挙がっていた。いずれも季節・天候・自然環境に依存する運用上の留意点であり、ガイドの質や安全管理面での重大な欠陥ではないため、不採用基準（原則10）には該当しないと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "奥入瀬渓流ガイドツアー（参加者のレビュー一覧） - VELTRA", "url": "https://www.veltra.com/jp/japan/aomori/ctg/200158:Oirase_trekking/reviews/" },
+        { "type": "booking_site", "title": "奥入瀬渓流ネイチャーツアー JR青森駅・青森空港から無料送迎付き石ヶ戸〜雲井の滝 散策 - VELTRA", "url": "https://www.veltra.com/jp/japan/aomori/a/184456" },
+        { "type": "booking_site", "title": "紅葉日帰りツアー（紅葉特集2025）参加者のレビュー一覧 - VELTRA", "url": "https://www.veltra.com/jp/japan/aomori/ctg/201134:koyo_daytrip/reviews/" },
+        { "type": "official", "title": "観光地域づくり法人登録一覧（十和田奥入瀬観光機構を含む） - 国土交通省観光庁", "url": "https://www.mlit.go.jp/kankocho/content/002017701.pdf" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-24-towadako-canoe-center",
+      "name": "十和田湖カヌーセンター",
+      "region": "青森県十和田市奥瀬（十和田湖畔）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.9, "scale": 5, "review_count": 652, "checked_date": "2026-10-24", "url": "https://www.jalan.net/kankou/tow_022060054/" }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションでは具体的な料金の一次情報は確認できなかった。無料駐車場（50台）完備、周辺施設への無料送迎ありとの記載がある。運航は委託事業会社グリランド株式会社が行っているとの記載を確認したが、公式サイト・正式料金表は未確認。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "十和田湖畔から、通常は人が立ち入れないエリアまでカヌーで巡ることができる体験。じゃらんの口コミでは、水の透明度や非日常感への満足、運が良ければイヌワシが見られたとの声が紹介されている。",
+      "target_audience": ["カップル", "家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 9,
+        "unique_experience_score": 15,
+        "photogenic": 12,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 2
+      },
+      "score": 70,
+      "recommendation_reason": "じゃらんnet上で評価4.9・口コミ652件という非常に大きな母数の高評価を確認できた点は強い魅力である。しかし本セッションのWeb検索回数の制約内では、運営会社（グリランド株式会社）の公式サイト・正式料金・営業期間といった、docs/production-os.md『4. 制作前Web確認』が求める一次情報を確認しきれておらず、原則4の要件を満たせていない。評価そのものは高く不採用と断定するには材料が不足しているため、score上は75点を下回るものの、今回は『shortlisted』として保留し、次サイクル以降に公式サイト・運営会社情報の確認を優先したい。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本セッションのWeb検索で確認できた口コミ内容はいずれも好意的なもの（水の透明度、非日常感、ガイドの案内、イヌワシ目撃など）のみで、否定的な言及は見つからなかった。ただし検索回数の制約により、否定的レビューを網羅的に探索できたとは言い切れず、現時点では『確認済みだが限定的』という位置づけとする。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "十和田湖カヌーセンター - じゃらんnet", "url": "https://www.jalan.net/kankou/tow_022060054/" },
+        { "type": "review_site", "title": "十和田湖カヌーセンター（評価4.9・652件の表示を確認） - じゃらんnet", "url": "https://www.jalan.net/kankou/sta_004678/g1_A2/" },
+        { "type": "official", "title": "Towadako Guidehouse KAI（十和田湖の別のカヌー事業者の公式観光情報。十和田湖カヌーセンターとは別法人だが、十和田湖畔カヌーツアー全般の公式な位置づけを示す参考情報として記載） - 青森県観光情報サイト", "url": "https://aomori-tourism.com/en/spot/detail_8850.html" }
+      ],
+      "decision": "shortlisted"
+    }
+  ]
+}

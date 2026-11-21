@@ -1,0 +1,183 @@
+{
+  "cycle_date": "2026-10-24",
+  "theme": "サウナ（富山県・立山山麓）",
+  "season_rationale": "10月下旬は立山黒部アルペンルートが紅葉の見頃から初冬の入口にかけての時期で、立山連峰の冷えた外気の中で温泉とサウナの『ととのう』体感が増す。アルペンルートは例年11月30日前後に冬季閉鎖するため、紅葉と営業期間の両方が重なる今が最も訪問を後押ししやすいタイミングである（原則30）。サウナカテゴリは本日すでに鳥取県三朝温泉を再調査し3件とも75点未満で該当なし確定済みのため、別地域として富山県を新たに調査した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-24-misasa-onsen-sauna（3件とも不採用・本日分）", "region": "鳥取県東伯郡三朝町", "category": "サウナ" },
+    { "post_id": "2026-10-23-atami-nasu-sauna-recheck2", "region": "静岡県熱海市・栃木県那須町", "category": "サウナ" },
+    { "post_id": "2026-10-23-beppu-sauna", "region": "大分県別府市", "category": "サウナ" },
+    { "post_id": "2026-10-22-tokachigawa-onsen-sauna", "region": "北海道河東郡音更町十勝川温泉", "category": "サウナ" },
+    { "post_id": "2026-10-21-sounkyo-sauna", "region": "北海道上川郡上川町層雲峡温泉", "category": "サウナ" },
+    { "post_id": "2026-10-20-izu-ochiairo-sauna", "region": "静岡県伊豆市湯ケ島", "category": "サウナ" },
+    { "post_id": "2026-10-19-jozankei-sauna", "region": "北海道札幌市南区定山渓温泉", "category": "サウナ" },
+    { "post_id": "2026-10-18-isawa-onsen-sauna", "region": "山梨県笛吹市石和温泉", "category": "サウナ" },
+    { "post_id": "2026-10-17-tsukioka-sauna", "region": "新潟県新発田市月岡温泉", "category": "サウナ" },
+    { "post_id": "2026-10-17-iwaki-yumoto-sauna", "region": "福島県いわき市常磐湯本町", "category": "サウナ" },
+    { "post_id": "2026-09-22-tokachi-sauna", "region": "北海道河東郡音更町十勝川温泉", "category": "サウナ" },
+    { "post_id": "2026-09-18-karuizawa-sauna", "region": "長野県北佐久郡軽井沢町・茅野市蓼科", "category": "サウナ" },
+    { "post_id": "2026-09-18-gunma-sauna", "region": "群馬県吾妻郡中之条町四万温泉・みなかみ町", "category": "サウナ" },
+    { "post_id": "2026-09-14-sauna（CYCL）", "region": "山梨県南都留郡山中湖村", "category": "サウナ" },
+    { "post_id": "2026-10-23-tateyama-kurobe-alpine-route", "region": "富山県中新川郡立山町（立山黒部アルペンルート）", "category": "アクティビティ" }
+  ],
+  "duplication_note": "既存の全data/candidates・captionsファイルを横断的に確認した。サウナカテゴリで富山県を扱った候補・制作物はこれまで一件もなく（過去のサウナ候補は山中湖・四万温泉/みなかみ・軽井沢/蓼科・十勝川温泉×2・いわき湯本・月岡温泉・石和温泉・定山渓温泉・伊豆（天城湯ヶ島/熱海）・層雲峡温泉・別府×2・那須・三朝温泉と重複なし）、ユーザー指示の例示（道後温泉・富山県・いわき湯本以外）のうち『富山県』を選定した。なお、1日前（2026-10-23）に『立山黒部アルペンルート』をアクティビティカテゴリで選定・制作済み（captions/2026-10-23-tateyama-kurobe-alpine-route.json）だが、これはアルペンルートの山岳横断体験そのものを扱ったものであり、本サイクルで調査するのは立山駅前に位置する宿泊施設の温泉・サウナ体験であって、カテゴリ・訴求ポイントとも異なるため重複にはあたらない（別府・三朝温泉など同一県内で異カテゴリが近接する前例と同様の扱いとして本ノートに明記する）。",
+  "candidates": [
+    {
+      "id": "2026-10-24-morinokaze-tateyama",
+      "name": "立山連峰の宿 ホテル森の風立山",
+      "region": "富山県富山市原（立山黒部アルペンルート立山駅より車で約5分）",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "楽天トラベル（宿泊施設クチコミ総合）",
+          "score": 4.46,
+          "scale": 5,
+          "review_count": 616,
+          "checked_date": "2026-10-24",
+          "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/147597"
+        },
+        {
+          "source": "skyticket（クチコミまとめ）",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 672,
+          "checked_date": "2026-10-24",
+          "url": "https://skyticket.jp/hotel/detail/property_9343/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付きの参考価格として23,650円〜（近畿日本ツーリスト系掲載）、別の予約サイトでは税・サービス料込み32,225円〜という表示も確認。露天風呂付き離れ『立山別邸四季彩』（限定11室）は本セッションでは正確な価格を特定できず、通常室より高額帯と見込まれる。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する。公式サイト（https://www.morinokaze-tateyama.com/）の内容は本セッションのネットワーク制約によりページ本文を直接取得できず、Web検索のスニペット経由での確認にとどまる。制作移行時は公式サイト本文・電話での最新料金再確認が必須。"
+      },
+      "unique_experience": "立山黒部アルペンルート富山側の玄関口・立山駅から車で約5分という、山岳横断ルートの起点に直接泊まれる立地。自家源泉『あわすの温泉』（アルカリ性単純硫黄泉）を使った大浴場・露天風呂・貸切風呂に加え、2種類のサウナを備える。2015年開業の離れ『立山別邸四季彩』（限定11室）は源泉かけ流しの露天風呂付きで、庭越しに立山連峰を独り占めできる客室として紹介されている。紅葉シーズンから初冬にかけての立山連峰ビューと温泉・サウナを組み合わせられる点が独自性。",
+      "target_audience": ["カップル", "夫婦", "記念日", "絶景好き", "温泉好き", "サウナ好き"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 13,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 84,
+      "recommendation_reason": "独立した2つの予約サイト（楽天トラベル4.46/616件、skyticket4.6/672件）いずれも主要レビュー4.0を大きく上回り、母数も十分。立山黒部アルペンルートの玄関口という唯一性のある立地に、源泉かけ流しの露天風呂付き離れ『四季彩』とサウナ2種を備える点は、温泉旅館としての独自体験（原則5）が高い。紅葉〜初冬の立山連峰ビューという季節性（原則30）とも合致し、サウナ施設としての知名度は高くない一方で宿自体の評価は極めて安定しているため、Hidden Gem（原則6）としても妥当。公式サイト本文を直接確認できなかった点は制作移行時の再確認事項として明記する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Web検索で確認できた範囲では、清潔さ・接客・食事・風呂への好意的な口コミが多数で、重大な否定的指摘は見当たらなかった。唯一の注意点は送迎（立山駅⇔宿）が事前連絡制であることで、利用者が当日連絡を忘れて困った旨の口コミが1件あったが、施設の欠陥ではなく利用条件の確認不足によるものであり、disqualifying_issues_foundとはしない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "ホテル森の風立山 施設情報 - 富山市観光協会", "url": "https://www.toyamashi-kankoukyoukai.jp/stay/hotel-mori-no-kaze-tateyama/" },
+        { "type": "booking_site", "title": "立山連峰の宿 ホテル森の風立山 宿泊プラン一覧（クチコミ総合4.46・616件） - 楽天トラベル", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/147597" },
+        { "type": "booking_site", "title": "ホテル森の風立山 施設詳細（クチコミ総合4.6・672件） - skyticket", "url": "https://skyticket.jp/hotel/detail/property_9343/" },
+        { "type": "booking_site", "title": "ホテル森の風立山｜KNTハイクラス Blue Planet 高級旅館・高級ホテル - 近畿日本ツーリスト", "url": "https://www.knt.co.jp/highclass/yado/planlist/S160045/" },
+        { "type": "other", "title": "ホテル森の風立山（別邸四季彩・あわすの温泉・サウナ等の設備紹介） - icotto", "url": "https://icotto.jp/hotels/4590" },
+        { "type": "other", "title": "ホテル森の風立山 施設情報 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00002136/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-24-tsurugi-no-yu-dormyinn-toyama",
+      "name": "天然温泉 剱の湯 ドーミーイン富山",
+      "region": "富山県富山市（富山駅徒歩約15分・富山城徒歩約3分の市街地）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル（宿泊施設クチコミ総合）",
+          "score": 4.36,
+          "scale": 5,
+          "review_count": 7873,
+          "checked_date": "2026-10-24",
+          "url": "https://travel.rakuten.co.jp/ranking/sales/onsen/toyama/toyama_0007_0_0_0_0.html"
+        },
+        {
+          "source": "ニフティ温泉（クチコミ総合）",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 6,
+          "checked_date": "2026-10-24",
+          "url": "https://onsen.nifty.com/cs/catalog/onsen_onsen-detail/catalog_onsen007960_1.htm"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "全国チェーンのビジネスホテルのため料金はプラン・時期による変動が大きい。本セッションでは具体的な一泊料金は確認していない。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "地下1,200mから湧出する自家源泉を使った天然温泉大浴場（内湯・半露天・壺風呂）にサウナ・水風呂（サ活記録では13℃前後）・外気浴を備える。2026年9月16日にリフレッシュオープンしたとの掲載もあり設備は新しい。富山駅・富山城から徒歩圏という市街地立地の利便性が特徴。",
+      "target_audience": ["サウナ好き", "一人旅", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 15,
+        "unique_experience_score": 8,
+        "photogenic": 5,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 5
+      },
+      "score": 66,
+      "recommendation_reason": "楽天トラベル4.36（7,873件）という非常に大きな母数と高評価、2026年9月のリフレッシュオープンという最新性は強みだが、全国展開するドーミーインチェーンの標準的なサウナ&水風呂設備であり、立地も市街地のビジネスホテルで、本プロジェクトが重視する『景観・独自体験』（原則5の配点20点）の面でホテル森の風立山のような差別化が弱い。総合75点に届かないため今サイクルでは不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一人旅利用者による2025年4月の口コミでは、浴場自体は清潔で湯も良いとしつつ、平日夜22時頃でも浴場の広さに対して人数がやや多く感じられ、休日はさらに混雑する可能性があるとの指摘があった。安全・衛生上の重大な指摘ではないが、混雑については留意事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "天然温泉 剱の湯 ドーミーイン富山 クチコミランキング（総合4.36・7,873件） - 楽天トラベル", "url": "https://travel.rakuten.co.jp/ranking/sales/onsen/toyama/toyama_0007_0_0_0_0.html" },
+        { "type": "review_site", "title": "剣の湯 ドーミーイン富山 温泉情報・クチコミ（総合4.4・6件） - ニフティ温泉", "url": "https://onsen.nifty.com/cs/catalog/onsen_onsen-detail/catalog_onsen007960_1.htm" },
+        { "type": "other", "title": "天然温泉 剱の湯 ドーミーイン富山 施設紹介 - icotto", "url": "https://icotto.jp/hotels/4265" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "評価数値・母数は良好だが、全国チェーンの標準的なビジネスホテル型サウナであり、立地も市街地で『まだ知られていない良さ』『独自体験』という本プロジェクトの軸における差別化が弱いため、今サイクルでは採用に至らなかった。"
+    },
+    {
+      "id": "2026-10-24-sanryutei-unazuki",
+      "name": "宇奈月温泉 サン柳亭",
+      "region": "富山県黒部市（宇奈月温泉、宇奈月温泉駅より徒歩約5分）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル（口コミ総合。掲載件数が少なく年ごとに評価が大きく割れている：2018年投稿5.0、2017年投稿2.0、2013年投稿3.5等の個別レビューの集約として総合3.00という表示を確認）",
+          "score": 3.0,
+          "scale": 5,
+          "review_count": 4,
+          "checked_date": "2026-10-24",
+          "url": "https://4travel.jp/dm_hotel-10054365"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "夕朝食付き和室プランで51,800円〜という掲載を確認。令和5年（2023年）3月に貸切露天風呂・貸切岩盤浴等を新設したとされる。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "黒部川沿い・宇奈月温泉に位置し、2023年3月に貸切露天風呂・貸切岩盤浴を新設。一部の宿泊予約サイトの設備一覧にサウナの記載もあるが、本セッションのWeb検索ではサウナの温度・水風呂の有無など具体的な仕様を独立2情報源で確認できなかった。",
+      "target_audience": ["カップル", "女子旅"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 3,
+        "unique_experience_score": 8,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 4
+      },
+      "score": 40,
+      "recommendation_reason": "2023年の貸切風呂・岩盤浴新設という最新性はあるが、確認できた口コミ件数が極端に少なく（フォートラベルで総合3.00、年によって2.0〜5.0と評価が大きく割れている）、主要レビューの4.0未満という不採用ラインに該当する。サウナ設備自体の具体的な仕様（温度・水風呂等）も独立2情報源で確認できず、原則7のファクトチェック基準を満たさないため不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2017年投稿（評価2.0）ではチェックイン時の説明が曖昧だったという指摘があった。2013年投稿（評価3.5）では建物の古さを指摘する声もあった。いずれも重大な衛生・安全上の指摘ではないが、評価の一貫性に欠ける点は留意事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "宇奈月温泉 サン柳亭 クチコミ（総合3.00、個別投稿2.0〜5.0） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10054365" },
+        { "type": "other", "title": "宇奈月温泉 サン柳亭 施設情報（貸切露天風呂・貸切岩盤浴・サウナ等の設備記載、令和5年3月オープン） - icotto", "url": "https://icotto.jp/hotels/1002" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数が少なく評価の一貫性にも欠け（総合3.00、個別投稿は2.0〜5.0とばらつき）、主要レビュー4.0未満のため不採用。サウナ設備の具体的仕様も独立2情報源で確認できなかった。"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "cycle_date": "2026-10-20",
+  "theme": "依頼指定サイクル：宮城県仙台市のカフェ・アフタヌーンティー・期間限定イベント等、ホテル宿泊以外の少し贅沢な体験（リサーチ＋キャプションのみ、画像構成なし）",
+  "season_rationale": "10月中旬〜下旬は仙台市内の主要ホテルが『秋の味覚』『ハロウィン』をテーマにした期間限定アフタヌーンティー・ハイティーを一斉に展開する時期。特にウェスティンホテル仙台「DATE High Tea -Black&Purple-」は2026年10月10日〜10月31日の期間限定で、調査日（10/20）から終了まで約11日しかなく『今だけ』の訴求力が最も高い（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-strings-hotel-nagoya-holiday-buffet", "region": "愛知県名古屋市中村区（名古屋駅エリア）", "category": "その他" },
+    { "post_id": "2026-10-17-ureshino-taishoya", "region": "佐賀県嬉野市嬉野町（嬉野温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-18-fukuoka-momochihama-autumn-afternoontea", "region": "福岡県福岡市早良区百道浜", "category": "その他" },
+    { "post_id": "2026-10-19-gatehotel-yokohama-grape-afternoontea", "region": "神奈川県横浜市中区山下町（山下公園前）", "category": "その他" },
+    { "post_id": "2026-10-19-lavista-kusatsu-hills", "region": "群馬県吾妻郡草津町（草津温泉）", "category": "温泉旅館" }
+  ],
+  "duplication_note": "地域『宮城県仙台市』は2026-09-20サイクル（界 秋保手前の秋保温泉・蘭亭、温泉旅館）で一度調査済みだが、カテゴリ『その他』・施設としては初めて扱う。カテゴリ『その他』は直近3サイクル連続（10/17名古屋・10/18福岡・10/19横浜）で使用しており、通常は原則29（地域・カテゴリの連続回避）に反するが、今回は依頼により地域『大阪市or仙台市』・カテゴリ『その他』が明示的に指定されたための再調査サイクルである（過去の横浜サイクルと同様の運用）。地域の選定については、依頼にあった2択（大阪府大阪市／宮城県仙台市）のうち、大阪市は2026-09-14サイクルで既に『その他（期間限定イベント）』カテゴリを使用済み（シェラトン都ホテル大阪のNight和sweetsをcaption化済み）であるのに対し、仙台市は過去に『その他』カテゴリでの調査・投稿実績がないため、重複度がより低い仙台市を選定した。",
+  "research_notes": "このセッションのネットワーク環境では、ホテル公式サイト（the-westin-sendai.com・metropolitan.jp等）へのWebFetchがDNS解決不可（EGRESS_BLOCKED相当）となり、本文を直接確認できなかった。そのためWebSearchのスニペット（プレスリリース配信サイト・予約サイトのクチコミページ等）から得られる情報のみを根拠としている。界 秋保の「伊達な茶会アフタヌーンティー」は独立した信頼できる数値評価源が確認できず、かつ宿泊者限定のため今回のスコープ（宿泊以外の贅沢体験）とも整合しないため不採用とした。",
+  "candidates": [
+    {
+      "id": "2026-10-20-westin-sendai-date-hightea-blackpurple",
+      "name": "ウェスティンホテル仙台「DATE High Tea -Black&Purple-」（26F ラウンジ&バー ホライゾン）",
+      "region": "宮城県仙台市青葉区花京院（JR仙台駅西口・徒歩約8分）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル（ホテル全体の宿泊クチコミ）", "score": 4.42, "scale": 5, "review_count": 1506, "checked_date": "2026-10-20", "url": "https://travel.rakuten.co.jp/HOTEL/107740/review.html" },
+        { "source": "フォートラベル（ホテル全体の満足度、仙台118件中1位）", "score": 4.20, "scale": 5, "review_count": 211, "checked_date": "2026-10-20", "url": "https://4travel.jp/dm_hotel-10668111" }
+      ],
+      "price_range_jpy": {
+        "note": "1名8,000円（宮城県限定ウイスキー「ニッカ 伊達」・ワイン・カクテルのフリーフロー付き、サービス料・消費税込み目安）。予約は電話(022-722-1234)または公式サイト。過去回（Summer Red等）は利用日前日15:00までの予約が求められていたが、本回(Black&Purple)の正確な予約期限はWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "JR仙台駅西口徒歩約8分、ウェスティンホテル仙台の最上階26階『ラウンジ&バー ホライゾン』にて、2026年10月10日(土)〜10月31日(土)のハロウィンシーズン限定で提供される『DATE High Tea -Black&Purple-』。仙台藩主・伊達政宗にちなんだ『DATE』シリーズの秋版で、宮城県限定ウイスキー『ニッカ 伊達』を中心にワイン・カクテルのフリーフローを楽しみながら、黒と紫を基調にした黒毛和牛・オマール海老・和栗のモンブラン等のセイボリー＆スイーツをミステリアスな世界観で味わえる。26階からの仙台市街の夜景も魅力。",
+      "renewal_or_news": "2026年10月10日〜10月31日のハロウィンシーズン限定開催（プレスリリースで確認済み）。『DATE High Tea』シリーズは季節ごとに内容を変えて展開されている定番企画。",
+      "target_audience": ["カップル", "記念日", "女子旅", "ホテル好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 13,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 83,
+      "recommendation_reason": "楽天トラベル4.42点（1,506件）、フォートラベル4.20点（211件、仙台市内ホテル118件中1位）という2つの独立した大規模情報源で4.0以上を確認した（原則6・7）。仙台藩主・伊達政宗の『伊達』を冠し、宮城県限定ウイスキー『ニッカ 伊達』をフリーフローで楽しめる点に『ここでしかできない』独自性があり、黒と紫のミステリアスな世界観はInstagram映えも高い。2026年10月31日までの期間限定で、調査日（10/20）時点で終了まで約11日しかなく、他候補より『今だけ』感が強い。JR仙台駅から徒歩約8分というアクセスも良好。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの項目別評価では『アクセス』3.59、『コストパフォーマンス』3.69と他項目より低めだが、重大な欠陥（清潔感・接客等）の指摘ではない。全211件中『悪い』評価は3件、『とても悪い』は0件。朝食を『普通』と評する口コミはあったが、全体的には高品質な五つ星ホテルとして満足度の高い内容が中心。本イベント単体のクチコミはまだ蓄積されていないため、ホテル全体の評価を参考情報として記載する。除外基準（原則10）に該当する重大な問題は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "【ウェスティンホテル仙台】黒と紫に彩られた秋のハイティーを、ミステリアスに仕立てた「DATE High Tea -Black&Purple-」", "url": "https://digitalpr.jp/r/142014" },
+        { "type": "press", "title": "【ウェスティンホテル仙台】黒と紫に彩られた秋のハイティーを、ミステリアスに仕立てた「DATE High Tea -Black&Purple-」- 北海道新聞", "url": "https://www.hokkaido-np.co.jp/article/1358993/" },
+        { "type": "booking_site", "title": "ウェスティンホテル仙台 クチコミ・評価 - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/107740/review.html" },
+        { "type": "review_site", "title": "ウェスティンホテル仙台 クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-10668111" },
+        { "type": "official", "title": "ウェスティンホテル仙台 公式サイト（本セッションではDNS解決不可のため本文未確認、URLのみ記載）", "url": "https://www.the-westin-sendai.com/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-20-westin-sendai-autumn-story-afternoontea",
+      "name": "ウェスティンホテル仙台「Afternoon Tea -Autumn Story-」（26F レストラン シンフォニー）",
+      "region": "宮城県仙台市青葉区花京院（JR仙台駅西口・徒歩約8分）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル（ホテル全体の宿泊クチコミ）", "score": 4.42, "scale": 5, "review_count": 1506, "checked_date": "2026-10-20", "url": "https://travel.rakuten.co.jp/HOTEL/107740/review.html" },
+        { "source": "フォートラベル（ホテル全体の満足度、仙台118件中1位）", "score": 4.20, "scale": 5, "review_count": 211, "checked_date": "2026-10-20", "url": "https://4travel.jp/dm_hotel-10668111" }
+      ],
+      "price_range_jpy": {
+        "note": "料金はこのセッションのWebSearchでは確認できなかった。同ホテル『DATE High Tea』シリーズ（アルコール付き）が8,000円であることから、アルコールなしのアフタヌーンティーはそれより低価格帯と推測されるが、公式未確認のため断定しない。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "ウェスティンホテル仙台26階のレストラン『シンフォニー』にて、2026年9月26日(土)〜11月27日(金)の期間限定で提供される『Afternoon Tea -Autumn Story-』。キャラメルと秋の味覚をテーマに、26階からの仙台市街の眺望とともに楽しめる。",
+      "renewal_or_news": "2026年9月26日〜11月27日の秋季限定開催（プレスリリースで確認済み）。",
+      "target_audience": ["カップル", "記念日", "女子旅", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 13,
+        "unique_experience_score": 14,
+        "photogenic": 12,
+        "value_for_price": 5,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 75,
+      "recommendation_reason": "ホテル全体の口コミ評価は楽天トラベル4.42点（1,506件）・フォートラベル4.20点（211件）と高く信頼性も十分だが、料金が未確認で価格対体験価値を評価しきれない点、同時期に同ホテルで提供中の『DATE High Tea -Black&Purple-』と比べて伊達政宗・宮城限定ウイスキーのような地域独自性の訴求が弱い点から、総合スコアは採用ライン（75点）相当にとどまり、同ホテルの他候補を上回れなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "DATE High Tea -Black&Purple-と同じホテルのため、ホテル全体に対する負のクチコミ傾向も同様（アクセス・コストパフォーマンスが相対的に低評価だが重大な欠陥ではない）。本企画単体のクチコミは未蓄積。除外基準（原則10）に該当する重大な問題は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ウェスティンホテル仙台 クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-10668111" },
+        { "type": "booking_site", "title": "ウェスティンホテル仙台 クチコミ・評価 - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/107740/review.html" },
+        { "type": "press", "title": "【ウェスティンホテル仙台】キャラメル香る秋の味覚を、物語のように楽しむティータイム「Afternoon Tea -Autumn Story-」", "url": "https://www.hokkaido-np.co.jp/article/1354338/" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-20-metropolitan-sendai-east-forest-kitchen-afternoontea",
+      "name": "ホテルメトロポリタン仙台イースト「秋の恵み【栗×かぼちゃ×キャラメル】のアフタヌーンティー」（FOREST KITCHEN with Outdoor Living）",
+      "region": "宮城県仙台市宮城野区榴岡（JR仙台駅東口直結）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Trip.com（ホテル全体のクチコミ、10点満点を5点換算）", "score": 4.7, "scale": 5, "review_count": 962, "checked_date": "2026-10-20", "url": "https://jp.trip.com/fourstars/province/jp-miyagi-prefecture.html" },
+        { "source": "skyticket（ホテル全体のクチコミ）", "score": 4.6, "scale": 5, "review_count": 2640, "checked_date": "2026-10-20", "url": "https://skyticket.jp/hotel/miyagi/st_40119/" }
+      ],
+      "price_range_jpy": {
+        "note": "平日4,200円、土日祝4,500円（税・サービス料込み）。紅茶14種のフリーフロー付き。TableCheckの専用オンラインページから予約。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "JR仙台駅東口直結のホテルメトロポリタン仙台イースト内レストラン『FOREST KITCHEN with Outdoor Living』にて、2026年9月1日〜11月30日の期間限定で提供される『秋の恵み【栗×かぼちゃ×キャラメル】のアフタヌーンティー』。栗とかぼちゃを中心としたスイーツ・セイボリーに紅茶14種のフリーフローが付き、14:00〜16:30(最終入店14:30)で楽しめる。",
+      "renewal_or_news": "2026年9月1日〜11月30日の秋季限定開催（プレスリリースで確認済み）。",
+      "target_audience": ["女子旅", "友人", "家族", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 13,
+        "photogenic": 11,
+        "value_for_price": 8,
+        "sns_buzz": 6,
+        "access_and_freshness": 5
+      },
+      "score": 79,
+      "recommendation_reason": "Trip.com（962件、10点満点中9.4）、skyticket（2,640件、4.6点）という2つの独立した大規模情報源で高評価を確認した（原則6・7）。JR仙台駅東口直結という圧倒的なアクセスの良さ、紅茶14種フリーフロー・平日4,200円という価格対体験価値の高さが強み。一方、栗・かぼちゃ・キャラメルという構成自体はオーソドックスな秋アフタヌーンティーで、伊達政宗・宮城限定ウイスキーのような唯一性を持つDATE High Teaに比べると独自性・話題性はやや穏やか。総合スコアは採用ライン（75点）を上回るが、同サイクル内のDATE High Teaを上回れなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "aumoの宿泊記事では夕食を評価する声の一方、レストランの営業時間が22:00までと早い（曜日により変動）という指摘があった。朝食ビュッフェは有料（1名目安3,000円程度）、セルフパーキングは1泊1,500円という情報もあったが、いずれも重大な欠陥ではない。本セッションのWeb検索ではTripadvisor・楽天トラベル・じゃらんでの低評価レビュー本文までは深掘りできておらず、確認範囲が限定的である点は留意事項として記録する。除外基準（原則10）に該当する重大な問題は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "仙台「FOREST KITCHEN with Outdoor Living」 秋の恵み【栗×かぼちゃ×キャラメル】のアフタヌーンティー", "url": "https://resemom.jp/release/prtimes/20260804/202249.html" },
+        { "type": "booking_site", "title": "ホテルメトロポリタン仙台イースト クチコミ - skyticket", "url": "https://skyticket.jp/hotel/miyagi/st_40119/" },
+        { "type": "other", "title": "宮城県 四つ星ホテルランキング - Trip.com", "url": "https://jp.trip.com/fourstars/province/jp-miyagi-prefecture.html" },
+        { "type": "other", "title": "ホテルメトロポリタン仙台イースト 宿泊記事 - aumo", "url": "https://aumo.jp/articles/62175" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-20-kai-akiu-date-chakai-afternoontea",
+      "name": "界 秋保「伊達な茶会アフタヌーンティー」（秋版・宿泊者限定）",
+      "region": "宮城県仙台市太白区秋保町（秋保温泉）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル（ホテル全体の満足度、クチコミ1件のみ）", "score": 3.08, "scale": 5, "review_count": 1, "checked_date": "2026-10-20", "url": "https://4travel.jp/dm_hotel-11994234" },
+        { "source": "Expedia（ホテル全体の総合評価、10点満点を5点換算、件数不明）", "score": 4.6, "scale": 5, "review_count": 0, "checked_date": "2026-10-20", "url": "https://expedia.co.jp/Sendai-Hotels-Hoshino-Resorts-KAI-Akiu.h102838729.Hotel-Information" }
+      ],
+      "price_range_jpy": {
+        "note": "1名5,500円（宿泊者限定・1日4組10名まで）。シングルモルト「宮城峡」と和紅茶のオリジナルカクテル付き、全11種のスイーツ・セイボリー。13:30〜14:30、予約は10日前までに公式サイトから。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "星野リゾート『界』ブランドの秋保温泉旅館『界 秋保』にて、2026年9月1日〜11月30日の秋季限定・宿泊者限定で提供される『伊達な茶会アフタヌーンティー』。伊達政宗公の美意識から着想を得た世界観で、秋保ワイナリーのシードルを使ったベリーヌや南瓜のムースなど全11種のスイーツ・セイボリーと、シングルモルト『宮城峡』を使ったオリジナルカクテルを1日4組10名限定で楽しめる。",
+      "renewal_or_news": "2026年9月1日〜11月30日の秋季限定開催（複数の旅行メディア記事で確認）。",
+      "target_audience": ["カップル", "記念日", "温泉好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 3,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 8,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 61,
+      "recommendation_reason": "伊達政宗公の美意識・秋保ワイナリー・宮城峡ウイスキーなど『ここでしかできない』独自性・映え要素は非常に高いが、数値で確認できた口コミはフォートラベル3.08点（クチコミ1件のみ）・Expedia（件数不明の単独サイト）のみで、原則7（最低2種類以上の独立情報源で4.0以上）を満たす信頼できる根拠が得られなかった。また本企画が宿泊者限定であり、今回の依頼スコープ『ホテル宿泊以外の少し贅沢な体験』とも整合しないため、総合スコアは採用ライン（75点）に届かず見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの唯一のクチコミは、旧ホテルきよ水からのリニューアルを好意的に評価し、客室・ライブラリーの無料駄菓子・アクティビティ・泉質を高く評価する内容で、重大な欠陥の指摘はなかった。ただしクチコミ件数が1件のみと極端に少なく、傾向を判断する根拠として弱い。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "【界 秋保】伊達政宗公の美意識から着想を得た、幻想ライトアップとオリジナル茶会アフタヌーンティーをこの冬限定で開催（過去回プレスリリース、秋版の内容は関連記事で確認）", "url": "https://zaikei.co.jp/releases/3232465/" },
+        { "type": "other", "title": "宮城の“おいしい”が勢揃い!「界 秋保」で味わう「伊達な茶会アフタヌーンティー」- るるぶ&more", "url": "https://rurubu.jp/andmore/article/24656" },
+        { "type": "review_site", "title": "星野リゾート 界 秋保 クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-11994234" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値で確認できた独立情報源がフォートラベル（クチコミ1件・3.08点）とExpedia（件数不明の単独サイト）のみで、原則7（最低2種類以上の独立情報源で4.0以上）を満たせなかった。加えて宿泊者限定企画のため、依頼スコープ（ホテル宿泊以外の体験）とも整合しない。score_breakdown合計61点で採用ライン（75点）に届かないため見送った。"
+    }
+  ]
+}

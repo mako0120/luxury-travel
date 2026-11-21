@@ -1,0 +1,105 @@
+{
+  "cycle_date": "2026-10-19",
+  "theme": "文化体験カテゴリ（滋賀県近江八幡市／八幡堀・近江商人のまちで文化財建築に触れる）",
+  "season_rationale": "10月下旬の近江八幡は近江牛・新米など秋の味覚が充実し、11月の紅葉本番前は水郷・八幡堀周辺を人混みなく散策できる狙い目シーズン。1日数組限定の町家宿は紅葉本番の予約が埋まる前の今のタイミングで紹介する価値がある。",
+  "prior_posts_checked": [
+    { "caption_id": "2026-10-18-nara-hotel", "region": "奈良県奈良市高畑町", "category": "文化体験" },
+    { "caption_id": "2026-10-18-qua-hotel-isawa-kenkoland", "region": "山梨県笛吹市石和町（石和温泉）", "category": "サウナ" },
+    { "caption_id": "2026-10-18-kurobe-gorge-torokko", "region": "富山県黒部市", "category": "列車・船" },
+    { "caption_id": "2026-10-18-miyajima-seaside-hotel", "region": "広島県廿日市市宮島町", "category": "絶景ホテル" },
+    { "caption_id": "2026-10-18-kaike-shogetsu", "region": "鳥取県米子市皆生温泉", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "滋賀県・近江八幡市は captions/ と posts/ のいずれにも一度も登場していない新規地域（リポジトリ全体を `近江八幡|滋賀` で検索し確認済み）。直近の文化体験カテゴリは2026-10-18の奈良ホテルだが、その間にサウナ・列車/船・絶景ホテル・グルメ旅館など複数カテゴリを挟んでおり、連続投稿にはならない（原則29）。本サイクルは今回の依頼で地域・カテゴリがあらかじめ指定されているため、その前提で近江八幡市内の文化体験候補を調査した。",
+  "other_candidates_considered": [
+    {
+      "name": "ゲストハウス澪",
+      "category": "文化体験（八幡堀沿いの町家一棟貸し）",
+      "note": "じゃらん等の掲載ページでは『八幡堀・八幡山を望む町家を改修した1日1組限定の宿』として紹介されているが、Web検索の範囲では総合評価点・口コミ件数など数値のある口コミ情報を一件も確認できなかった。原則7（独立2情報源での裏取り）を満たせないため、スコアリング前の段階で候補から除外した。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-19-machiya-club-omihachiman",
+      "name": "近江八幡 まちや倶楽部（旧称：MACHIYA INN近江八幡）",
+      "region": "滋賀県近江八幡市（八幡堀・近江商人のまちなか）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらん", "score": 4.9, "scale": 5, "review_count": 120, "checked_date": "2026-10-19", "url": "https://www.jalan.net/yad373642/" },
+        { "source": "楽天トラベル（mapple.net集計）", "score": 4.65, "scale": 5, "review_count": 150, "checked_date": "2026-10-19", "url": "https://www.mapple.net/pref/25204/hotel/" }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらん掲載の目安として1泊2名合計26,000円前後〜（1名あたり13,000円前後〜、税込）。別邸『KOLMIO』や本館の和室・洋室など部屋タイプにより料金は異なり、時期・プランによって幅が大きい。正確な料金は予約前に各予約サイト・公式窓口で要確認。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "江戸末期創業の酒蔵（旧酒蔵・槽蔵等、国登録有形文化財）を改修した1日5組限定の町家ホテル。本館の和室『八幡の間』『安土の間』と、別邸『KOLMIO』の蔵を改装したメゾネット『蔵の間』『離れの間』から選べ、酒樽と檜を使った浴槽が備わる部屋もある。近江八幡の伝統工芸・アートに触れられる内装も特徴で、英語名『MACHIYA CLUB OMIHACHIMAN -Culture & Stay-』が示す通り『文化と出会う、まちなかの宿』というコンセプトを持つ。",
+      "target_audience": ["夫婦", "カップル", "友人", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 12,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 8,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 84,
+      "recommendation_reason": "じゃらん4.9（120件）、楽天トラベル4.65（150件）という2つの独立した情報源でいずれも推奨ライン4.2を上回る高評価を確認した（原則6・7）。江戸末期の酒蔵（国登録有形文化財）を改修した1日5組限定の町家宿という唯一無二の文化的価値があり、近江商人のまち・八幡堀という立地も文化体験カテゴリとして説得力が強い。海外向け旅行メディア（livejapan.com）でも紹介されており、インバウンド目線での話題性もある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "好意的な口コミでは酒蔵を改装した部屋の広さや、酒樽・檜の浴槽が評価されている一方、『町家らしい雰囲気は良いが天井が低い箇所があり何度か頭をぶつけた』という古民家特有の構造上の指摘が確認された。フォートラベルの口コミはわずか2件で評価3.21とばらつきがあるが、母数が少なく参考程度に留める。清潔感・接客・安全性に関わる重大な問題は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "近江八幡 まちや倶楽部（旧名称:MACHIYA INN近江八幡） - じゃらん", "url": "https://www.jalan.net/yad373642/" },
+        { "type": "review_site", "title": "近江八幡市のホテル・口コミ（楽天トラベル集計） - mapple.net", "url": "https://www.mapple.net/pref/25204/hotel/" },
+        { "type": "review_site", "title": "近江八幡 まちや倶楽部 施設情報・口コミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-11630806" },
+        { "type": "other", "title": "近江八幡まちや倶楽部-文化と出会う、まちなかの宿 - るるぶトラベル", "url": "https://www.rurubu.travel/hotel/japan/omihachiman/machiya-inn" },
+        { "type": "other", "title": "近江八幡住宿推薦！在「Machiya Club–Culture & Stay」體驗傳統町家的獨特生活方式 - LIVE JAPAN", "url": "https://livejapan.com/zh-tw/in-kansai/in-pref-shiga/in-shiga-suburbs/article-a2000809/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-19-la-collina-omihachiman",
+      "name": "ラ コリーナ近江八幡",
+      "region": "滋賀県近江八幡市北之庄町（たねやグループ旗艦施設）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "いこーよ", "score": 4.2, "scale": 5, "review_count": 14, "checked_date": "2026-10-19", "url": "https://iko-yo.net/experiences/96181" }
+      ],
+      "price_range_jpy": {
+        "note": "入場料・駐車場代ともに無料。飲食・菓子購入分のみ実費。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "建築家・藤森照信氏設計の『草屋根』建築が特徴の、たねや・クラブハリエの旗艦施設。敷地約3万6000坪に芝で覆われた草屋根のメインショップやバームクーヘン工場見学ができる『バームファクトリー』があり、2015年の開業以来9年連続で滋賀県内施設別観光客数1位という高い集客力を持つ。2024年4月にはメインショップ1階の内装がリニューアルされた。",
+      "target_audience": ["家族", "女子旅", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 5,
+        "unique_experience_score": 18,
+        "photogenic": 14,
+        "value_for_price": 8,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 70,
+      "recommendation_reason": "藤森照信設計の草屋根建築という唯一無二の建築体験と、9年連続滋賀県内観光客数1位という圧倒的な集客力・映えの強さを持つ有力候補。ただし数値で確認できた独立レビュー源がいこーよ4.2（14件）のみで、原則7（最低2種類以上の独立情報源）を満たせない。参考情報として食べログ評価3.71（件数不明、icotto.jp経由）も見られたが、これは4.0未満かつ件数未確認のため正式なreview_scoresには含めず参考記載とした。原則6・7を安定して満たせないため、合計70点で最低採用ライン（75点）に届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "いこーよの口コミでは2024年7月のリニューアル直後に非常に混雑していたという指摘があり、時間帯によっては行列が発生しやすい。食べログ経由の評価（3.71、icotto.jp参照、件数不明）も推奨ラインの4.0を下回る。一方で自然環境・フォトスポットとしての評価は高く、清潔感・接客に関わる重大な問題は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ラ コリーナ近江八幡 口コミ - いこーよ", "url": "https://iko-yo.net/experiences/96181" },
+        { "type": "review_site", "title": "ラ コリーナ近江八幡（食べログ評価） - icotto", "url": "https://icotto.jp/restaurants/2515" },
+        { "type": "press", "title": "絶品スイーツと絶景に癒やされる「ラ コリーナ近江八幡」 - nippon.com", "url": "https://www.nippon.com/ja/guide-to-japan/gu900314/" },
+        { "type": "other", "title": "【最新】滋賀「ラ コリーナ近江八幡」メニューからリニューアル情報まで - rurubu.jp", "url": "https://rurubu.jp/andmore/article/18453" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "建築・集客力・映えは高評価だが、数値で確認できる独立レビュー源がいこーよ4.2（14件）のみで原則7（独立2情報源以上）を満たせず、参考記載の食べログ評価（3.71、件数不明）も原則6の最低ライン（4.0）を下回る。合計スコアも70点で75点に届かなかったため不採用とした。"
+    }
+  ]
+}

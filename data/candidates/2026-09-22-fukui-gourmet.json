@@ -1,0 +1,145 @@
+{
+  "cycle_date": "2026-09-22",
+  "theme": "グルメ旅館：福井県坂井市三国町・あわら温泉エリア（越前がにシーズン前）",
+  "season_rationale": "越前がに漁は例年11月上旬に解禁される。9月下旬の現時点はシーズン本番の約1〜2ヶ月前にあたり、あわら温泉・三国温泉エリアのグルメ旅館を『冬の蟹旅の予習』として今のうちにチェックしておきたいタイミング（原則30）。",
+  "prior_posts_checked": [
+    { "entry_id": "2026-09-21-kerama-terrace", "region": "沖縄県島尻郡渡嘉敷村（渡嘉敷島）", "category": "アクティビティ" },
+    { "entry_id": "2026-09-20-akiu-rantei", "region": "宮城県仙台市太白区秋保町（秋保温泉）", "category": "温泉旅館" },
+    { "entry_id": "2026-09-18-kinosaki-gourmet", "region": "兵庫県豊岡市城崎町湯島（城崎温泉）", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "直近投稿は渡嘉敷島×アクティビティ（2026-09-21）、その前は秋保温泉×温泉旅館（2026-09-20）であり、地域・カテゴリともに今回のあわら温泉×グルメ旅館とは連続しない。グルメ旅館カテゴリ自体は2026-09-18の城崎温泉（兵庫県）で使用済みだが、間に温泉旅館・アクティビティの2サイクルを挟んでおり連続ではなく、地域も兵庫県から福井県へ全く異なるエリアを新規調査した。",
+  "other_candidates_considered": [
+    {
+      "name": "三国温泉 お宿あらや",
+      "category": "グルメ旅館",
+      "note": "東尋坊近く・三国温泉に位置し、越前がにの活け締め・部屋ごとの調理にこだわる全3室の家族経営民宿。地元メディアや観光協会サイトでは好意的に紹介されているが、このセッションのネットワーク環境では楽天トラベル・一休.com等のクチコミページへのWebFetchがEGRESS_BLOCKEDとなり、WebSearchのスニペットからも数値評価（点数・件数）を独立2情報源で確認できなかった。原則7（複数情報源の原則）を満たせず、穴場候補（Hidden Gem）として扱うには数値的な裏付けが不足するため、今サイクルでは候補から除外した。次回、数値評価が確認できるタイミングで再検討可能。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-09-22-awara-tsuruya",
+      "name": "越前あわら温泉 つるや",
+      "region": "福井県あわら市（あわら温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "一休.com", "score": 4.65, "scale": 5, "review_count": 85, "checked_date": "2026-09-22", "url": "https://www.ikyu.com/00001459/review/" },
+        { "source": "楽天トラベル", "score": 4.89, "scale": 5, "review_count": 364, "checked_date": "2026-09-22", "url": "https://travel.rakuten.co.jp/HOTEL/84652/review.html" }
+      ],
+      "price_range_jpy": {
+        "note": "『鶴-Tsuru-』（1日2組限定・越前の山海の幸にこだわった創作懐石）、『亀-Kame-』（メイン料理を選べる創作懐石）など複数プランがあり、量より質を重視した価格帯であることはうかがえるが、このセッションのネットワーク環境では公式サイト・予約サイトへのWebFetchがEGRESS_BLOCKEDとなり、WebSearchのスニペットからは1泊2食の具体的な金額を確認できなかった。キャプション化する場合は『価格は公式サイト・予約サイトで要確認』と明記する。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "明治17年（1884年）創業、140年以上の歴史を持つ数寄屋風建築の老舗旅館。敷地内に3本の自家源泉を持ち、加水・加温なしの100%源泉かけ流し温泉が特徴。『ミシュランガイド北陸2021』旅館部門で上位2番目にあたる4パビリオンを獲得。冬季には越前蟹懐石膳（刺し・甲羅焼き・天ぷら等）を提供しており、越前がにシーズンの主役になり得るグルメ旅館。",
+      "renewal_or_news": "明治17年創業の老舗だが、ミシュランガイド北陸2021での4パビリオン獲得という第三者評価があり、クチコミも一休.com・楽天トラベルともに検索日（2026-09-22）時点で直近レビューが継続的に投稿されている。大規模改装等の直近ニュースはWebSearchの範囲では確認できなかった。",
+      "target_audience": ["夫婦", "記念日", "グルメ旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 13,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 82,
+      "recommendation_reason": "一休.com4.65（85件）・楽天トラベル4.89（364件）という、性質の異なる2つの独立した予約サイトでいずれも推奨ライン（4.2以上）を大きく上回る高評価を確認。件数も85〜364件と一定の母数があり信頼度が高い。ミシュランガイド北陸2021で4パビリオンを獲得した第三者評価の裏付けに加え、敷地内3本の自家源泉による100%かけ流し温泉という希少性、冬季の越前蟹懐石膳という季節テーマとの直接的な親和性を兼ね備える。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "WebSearchの範囲では、トリップアドバイザーに『残念ながら‥。』という否定的なタイトルのレビューが1件存在することを確認したが、本文内容はスニペットからは確認できなかった。一方でニフティ温泉では4.5点、一休.com・楽天トラベルともに4.6〜4.9点台の高評価が一貫しており、清潔感・接客・料理・安全性に関わる重大な指摘は複数の情報源では見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "越前あわら温泉 つるや - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00001459/review/" },
+        { "type": "review_site", "title": "越前あわら温泉 つるや - クチコミ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/84652/review.html" },
+        { "type": "official", "title": "越前あわら温泉 つるや【公式】源泉かけ流し 露天風呂付き客室がある大人の湯宿", "url": "https://awara-turuya.jp/" },
+        { "type": "other", "title": "越前あわら温泉 つるや - あわら市観光協会", "url": "https://awara.info/cat-stay/%E3%81%A4%E3%82%8B%E3%82%84" },
+        { "type": "review_site", "title": "残念ながら‥。 - 芦原温泉 つるやの口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g1021158-d1074278-r981359985-Tsuruya-Awara_Fukui_Prefecture_Hokuriku_Chubu.html" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-22-awara-beniya",
+      "name": "あわら温泉 光風湯圃 べにや",
+      "region": "福井県あわら市（あわら温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "一休.com", "score": 4.82, "scale": 5, "review_count": 182, "checked_date": "2026-09-22", "url": "https://www.ikyu.com/00000622/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "全室に4本の自家源泉を引いた半露天風呂付き客室を備え、夕朝食とも部屋出しの懐石料理を提供する高級旅館。冬季は越前がにを活かした水槽から仕入れる蟹料理が名物で『べにや=越前がに』のイメージが定着している。具体的な1泊2食料金はWebSearchの範囲では確認できなかった。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2021年に大規模リニューアルされた『百年の歴史を蘇らせた』旅館で、全室に専用の半露天風呂（4本の自家源泉かけ流し）を備える。冬季は越前がにシーズンに合わせて水槽で活かした蟹を仕入れ、予約が取りにくいほどの人気となる、蟹料理特化型のグルメ旅館。",
+      "renewal_or_news": "2021年に大規模リニューアルを実施し、『百年の歴史を蘇らせた芦原温泉の至福の宿』として一休.comの特集記事でも紹介されている。",
+      "target_audience": ["夫婦", "記念日", "グルメ旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 8,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 73,
+      "recommendation_reason": "一休.com4.82（182件）と非常に高い評価で、冬季の越前がに料理に特に強みを持つグルメ旅館として今回のテーマに直接合致する。ただし独立した数値評価の情報源が一休.com1件にとどまり、原則7（最低2種類以上の独立情報源）の裏付けとしてはやや弱い。また『傲慢な宿』『接待には不向き』といった接客・気配りに関する否定的な口コミも複数確認されたため、次点の有力候補（shortlisted）とする。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一休.com・Yahoo!トラベルの口コミで『傲慢な宿』（ウェブサイトの表現や部屋の狭さ・温泉の熱さへの不満）、『接待には不向き』（接待利用時の年配仲居の接客への不満）、食事アレルギー対応時に『配慮が感じられなかった』とする指摘が複数確認された。一方で多くのレビューは料理・温泉・接客を高く評価しており、清潔感・安全性に関わる重大な指摘（衛生問題等）は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "あわら温泉 光風湯圃 べにや - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00000622/review/" },
+        { "type": "review_site", "title": "傲慢な宿 - あわら温泉 光風湯圃 べにやのクチコミ - 一休.com", "url": "https://www.ikyu.com/00000622/review/1001643455/" },
+        { "type": "review_site", "title": "接待には不向き - あわら温泉 光風湯圃 べにやのクチコミ - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00000622/review/1001934609/" },
+        { "type": "other", "title": "あわら温泉 光風湯圃 べにや | 【取材】2021年、新しくなった福井の名旅館「あわら温泉 光風湯圃 べにや」で源泉掛け流し風呂と美食を満喫 - 一休.com", "url": "https://www.ikyu.com/00000622/story/93629" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-09-22-awara-haiya",
+      "name": "あわら温泉 伝統旅館のぬくもり 灰屋",
+      "region": "福井県あわら市（あわら温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "一休.com", "score": 4.47, "scale": 5, "review_count": 86, "checked_date": "2026-09-22", "url": "https://www.ikyu.com/00001777/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "全41室、庭園付き離れ『松風庵』が看板の伝統旅館。具体的な1泊2食料金はWebSearchの範囲では確認できなかった。",
+        "as_of_search_date": "2026-09-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "明治17年（1884年）創業、140年の伝統を持つ老舗旅館。樹齢100年の松板を使った格天井・木曽檜の丸柱が特徴の庭園付き離れ『松風庵』を持ち、自家源泉の天然温泉が楽しめる。他候補と異なり、越前がにを前面に打ち出した訴求は確認できず、テーマとの親和性はやや弱い。",
+      "renewal_or_news": "直近の大規模リニューアル等のニュースはWebSearchの範囲では確認できなかった。JTBのお客様アンケート評価91点という言及があるが、算出方法の詳細は確認できていない。",
+      "target_audience": ["夫婦", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 8,
+        "unique_experience_score": 14,
+        "photogenic": 11,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 64,
+      "recommendation_reason": "一休.com4.47（86件）は推奨ライン（4.2以上）を満たすが、独立した数値評価の情報源が一休.com1件にとどまり原則7の裏付けが弱い。楽天トラベルにも掲載はあるが、WebSearchのスニペットで取得した評価点・件数の情報が検索ごとに揺れており（例: 4.45/735件、4.53/710件など）、正確な数値として採用できる独立2情報源を確保できなかった。越前がにへの訴求も他候補ほど明確ではなく、総合スコアが採用ライン（75点）に届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一休.comの口コミでは『良い旅館と思いますが、少し残念でした。』というタイトルのレビューが存在し、アメニティ（ブラシ・くし）不足、大浴場脱衣所のドライヤーの使い勝手、喫煙室からの臭いなど、施設面での細かい不満点が複数確認された。清潔感・安全性に関わる重大な指摘（衛生問題等）は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "伝統旅館のぬくもり 灰屋 - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00001777/review/" },
+        { "type": "review_site", "title": "良い旅館と思いますが、少し残念でした。 - 伝統旅館のぬくもり 灰屋のクチコミ - 一休.com", "url": "https://www.ikyu.com/00001777/review/1001978752/" },
+        { "type": "other", "title": "あわら温泉「灰屋」140年の伝統に裏打ちされた気品と風格、特別感に浸る休日を。｜ふく旅記事｜【公式】福井県 観光/旅行サイト ｜ ふくいドットコム", "url": "https://www.fuku-e.com/fukutabi/detail_467.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score_breakdown合計64点で採用ライン（75点）未満。独立した数値評価源が一休.com1件のみで原則7の複数情報源の裏付けが弱く、テーマである越前がにへの訴求も他候補より弱いため。"
+    }
+  ]
+}

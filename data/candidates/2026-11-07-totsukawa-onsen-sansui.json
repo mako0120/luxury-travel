@@ -1,0 +1,291 @@
+{
+  "cycle_date": "2026-11-07",
+  "theme": "温泉旅館（奈良県吉野郡十津川村・十津川温泉エリア）",
+  "season_rationale": "十津川温泉は紀伊山地の渓谷沿いにあり、11月上旬は山間部の紅葉が見頃〜終盤に向かう時期にあたる。源泉かけ流しの露天風呂と渓谷の紅葉を同時に楽しめるタイミングであり、積雪・路面凍結が増える本格的な冬季アクセス悪化の前に訪問を勧めやすい季節性がある。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-10-31-yoshinoyama-activity", "region": "奈良県吉野郡吉野町（吉野山）", "category": "アクティビティ" },
+    { "candidate_id": "2026-10-29-tenkawa-dorogawa-glamping", "region": "奈良県吉野郡天川村（洞川温泉エリア）", "category": "グランピング" },
+    { "candidate_id": "2026-10-18-nara-culture", "region": "奈良県奈良市（高畑町・ならまち）", "category": "文化体験" },
+    { "candidate_id": "2026-09-18-nara-culture", "region": "奈良県奈良市高畑町（奈良公園内）", "category": "文化体験" }
+  ],
+  "duplication_note": "data/candidates・captions全件（2026-09-14〜2026-11-06分、1ヶ月以上前の分も含む）を『十津川』『十津川村』『十津川温泉』『Totsukawa』『吉野』『Yoshino』『奈良』『Nara』で横断検索した。奈良県関連の既存候補・投稿は、吉野町・吉野山（アクティビティ）、吉野郡天川村・洞川温泉エリア（グランピング）、奈良市高畑町・ならまち（文化体験、2件）のみで、いずれも十津川村・十津川温泉エリアとは異なる地域・カテゴリ。『十津川』『十津川村』『十津川温泉』『Totsukawa』の文字列は既存ファイル全体で0件ヒットだった。十津川村・十津川温泉エリアを対象とした候補・投稿は過去に存在しない。",
+  "research_notes": "奈良県吉野郡十津川村・十津川温泉エリア（二津野ダム湖畔の平谷集落を中心とする、旅館・民宿10軒足らずの小規模温泉街）でWebSearchにより温泉旅館候補を調査した。\n\n1. 十津川温泉 静響の宿 山水（十津川村平谷946-1、下湯温泉の源泉地に建つ）: じゃらんの口コミ総合評価4.6（763件）、楽天トラベルの口コミ総合評価4.43（725件、2026年11月時点の掲載）と、独立した母数の大きい2つの予約サイトでいずれも原則6の4.0ラインを明確に上回る。全館24時間源泉かけ流しで、目の前が川の露天風呂・内湯・寝湯・貸切ひのき風呂等あわせて8種類の浴場を備え、朝ごとに湯を入れ替えているという特色がある。料理は紀州の食材と湧き水を使った田舎風会席料理で、2026年11月時点では天然の鹿・猪・すっぽんを使ったジビエプラン（掲載期間2026年12月31日まで）も確認できた。楽天トラベルの『奈良県の10室以下のホテル・旅館』部門で売れ筋1位（オールアバウトの紹介記事、2025年11月時点の情報）という話題性の根拠もある。一方、4travel系のicottoでは総合満足度が3.3〜3.5程度（風呂4.54・食事4.45等の項目別評価は高いが総合値は低め）、るるぶでは立地評価を含むとみられる2.9という数値もあり、サイトごとの集計基準の違いにより評価が割れている。否定的レビューの専用検索では、致命的な欠格事由（衛生・安全・営業トラブル等）は確認できず、『建物は古いが清潔に保たれている』という一休の口コミ、JR和歌山線五条駅から奈良交通バスで約3時間という交通アクセスの不便さが主な留意点として挙がった。2026年5月・8月時点の新しい口コミ投稿も確認でき、現在も通常営業中であることが確認できる。具体的な現在の宿泊料金は、マップル掲載（1泊2食12,800円〜）、一休掲載（夕朝食付2名税込29,400〜32,536円）、じゃらん掲載（1泊2名19,600円〜、食事条件不明記）とサイトごとに数字が一致しないため、確定した料金としては扱わない。以上を踏まえ、score_breakdownの合計が75点を上回ったため、decisionはselectedとした。\n\n2. 十津川温泉 ホテル昴（十津川温泉、村内で唯一の大型リゾートホテルタイプ）: るるぶトラベルの口コミ評価4.1（38件）は原則6の基準を満たすが、icotto（一人旅の日帰り利用、3.5）、cocolocala（投稿により3.0〜5.0と大きく分かれる）、フォートラベル（3.5）など、他の情報源はいずれも4.0未満または評価が割れており、独立2情報源で4.0以上を満たす条件（原則6）をクリアできなかった。温水プール併設・星空観賞等の独自要素はあるが、温泉の質そのものについて『期待ほどではなかった』という具体的な指摘も複数の口コミで見られたため、今サイクルではcandidateとして正式記録せず見送った。\n\n3. 田花館（十津川村平谷459、明治42年/1909年創業とされる老舗旅館、源泉100%、混浴浴場あり）: フォートラベルの口コミでは『古さを感じるが帳場があり昭和の雰囲気を残す昔ながらの温泉旅館』という紹介があるが、具体的な評価点数・口コミ件数を示す情報源を本セッションのWebSearchでは特定できなかった。原則7の独立2情報源（数値付き）を満たせず、見送った。\n\n4. 旅館平谷荘（十津川村、源泉100%かけ流し・杉・ひのき造り露天風呂）: フォートラベルの総合満足度3.13（口コミ4件、項目別はアクセス2.67・バリアフリー2.50など低め）と、口コミ件数自体が少ない上に評価も原則6の4.0ラインに届かないため見送った。\n\nなお、本セッションは各施設公式サイト（onsen-sansui.com等）・楽天トラベル・じゃらん等へのWebFetchによる直接アクセスがネットワーク制限により行えず、事実確認はすべてWebSearchの検索結果スニペットに基づく。静響の宿 山水の創業経緯・経営者（女将等）本人の思いを語った一次インタビュー記事は、本セッションのWebSearchの範囲では確認できなかった。制作工程に進む場合は、公式サイト・各予約サイトで最新の料金・プラン・口コミを直接再確認することを推奨する。",
+  "candidates": [
+    {
+      "id": "2026-11-07-totsukawa-onsen-sansui",
+      "name": "十津川温泉 静響の宿 山水",
+      "region": "奈良県吉野郡十津川村平谷946-1（十津川温泉・下湯温泉の源泉地）",
+      "category": "温泉旅館",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "じゃらん（口コミ総合）",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 763,
+          "checked_date": "2026-11-07",
+          "url": "https://www.jalan.net/yad330508/"
+        },
+        {
+          "source": "楽天トラベル（口コミ総合）",
+          "score": 4.43,
+          "scale": 5,
+          "review_count": 725,
+          "checked_date": "2026-11-07",
+          "url": "https://travel.rakuten.co.jp/HOTEL/7016/7016.html"
+        },
+        {
+          "source": "icotto（4travel系、総合満足度・件数表示が不明瞭なため参考値）",
+          "score": 3.35,
+          "scale": 5,
+          "review_count": 40,
+          "checked_date": "2026-11-07",
+          "url": "https://icotto.jp/hotels/8690"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "情報源によって提示される数字が一致しない。マップル掲載では1泊2食付12,800円〜。一休掲載の離れプラン（2名1室・夕朝食付）は29,400円〜32,536円（2名合計）。じゃらん掲載では1泊2名19,600円〜（食事条件は明記なし）。複数サイトで金額・条件がばらついており、本セッションでは確定した現在の料金として扱わない。",
+        "as_of_search_date": "2026-11-07",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全館24時間源泉かけ流しで、目の前が川の露天風呂・内湯・寝湯・貸切ひのき風呂など計8種類の浴場を備え、朝ごとに湯を入れ替えているとされる。全9室の客室は和風畳仕様。料理は紀州の食材と体の健康を考えた『湧き水』を使った田舎風会席料理で、2026年11月時点では天然の鹿・猪・すっぽんを一度に楽しめるジビエプラン（掲載期間2026年12月31日まで）も提供されている。",
+      "renewal_or_news": "楽天トラベルの『奈良県の10室以下のホテル・旅館』部門で売れ筋1位（オールアバウトの紹介記事、2025年11月時点の情報、2回にわたり掲載）。2026年11月時点ではジビエ（鹿・猪・すっぽん）プランが期間限定（2026年12月31日まで）で掲載されている。2026年5月・8月時点の新しい口コミ投稿も確認でき、現在も通常営業中であることが確認できる。",
+      "target_audience": ["カップル", "記念日", "夫婦", "一人旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 8,
+        "sns_buzz": 7,
+        "access_and_freshness": 3
+      },
+      "score": 85,
+      "recommendation_reason": "じゃらん4.6（763件）・楽天トラベル4.43（725件）という母数の大きい独立2情報源でいずれも原則6の4.0ラインを明確に上回っており、全9室の小規模一軒宿ながら8種類の源泉かけ流し浴場・川沿いの露天風呂・紀州食材と湧き水を使った田舎風会席・期間限定のジビエプランという独自性の高い体験が揃っている。知名度の高い温泉地ではない十津川温泉の中でも『楽天トラベル10室以下部門売れ筋1位』という話題性の根拠があり、Hidden Gemとして扱うのに適した候補と判断した。一方、4travel系サイトでは総合値が3.3〜3.5程度と低めに出る、JR和歌山線五条駅からバスで約3時間というアクセスの不便さがある点は、キャプション作成時に正直に触れるべき留意点として記録した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "専用の否定的口コミ検索（『残念』『不満』等の語）を行ったが、衛生・安全・営業トラブル等の重大な欠格事由を示す記述は確認できなかった。一休の口コミに『建物自体は古くてもきれいにされており気になりませんでした』という言及があり、老朽化を気にする声はあるが許容範囲として受け止められている。るるぶトラベルでは2.9という低めの数値もあるが、これは立地評価等を含む別基準の値である可能性が高く、じゃらん・楽天トラベルの口コミ内容自体に重大な不満は見当たらなかった。最大の留意点はJR和歌山線五条駅から奈良交通バスで約3時間というアクセスの不便さであり、これはscore_breakdownのaccess_and_freshnessを低く抑える形で反映した。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "静響の宿 山水の創業年、経営者（女将・当主等）の経歴や、開業・改修にあたっての具体的な思い・コンセプトを本人の言葉で語った一次インタビュー記事・公式声明は、本セッションのWebSearch（および公式サイトonsen-sansui.comへの直接アクセス：ネットワーク制限によりWebFetch不可）の範囲では確認できなかった。確認できたのは、下湯温泉の源泉地に建ち源泉から約300メートルの湯を使用していること、全館24時間源泉かけ流しで8種類の浴場を備えていること、紀州の食材と湧き水を使った田舎風会席料理を提供していることなど、施設の特徴にとどまる。創業の経緯や経営者自身の思いについては、推測や発言の創作を行わず、確認できなかった旨をここに明記する。",
+        "sources": [
+          {
+            "type": "booking_site",
+            "title": "十津川温泉 静響の宿 山水 施設情報（源泉かけ流し・8種類の浴場等） - じゃらんnet",
+            "url": "https://www.jalan.net/yad330508/"
+          },
+          {
+            "type": "review_site",
+            "title": "十津川温泉 静響の宿 山水 施設情報・口コミ - icotto",
+            "url": "https://icotto.jp/hotels/8690"
+          },
+          {
+            "type": "press",
+            "title": "【楽天トラベル売れ筋1位】「十津川温泉 静響の宿 山水」は渓谷に寄り添う静寂の湯宿【11月14日】 - All About NEWS",
+            "url": "https://news.allabout.co.jp/articles/o/104779/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "十津川温泉 静響の宿 山水 口コミ・料金ページ（総合4.6・763件） - じゃらんnet",
+          "url": "https://www.jalan.net/yad330508/"
+        },
+        {
+          "type": "booking_site",
+          "title": "十津川温泉 静響の宿 山水 施設ページ（口コミ総合4.43・725件） - 楽天トラベル",
+          "url": "https://travel.rakuten.co.jp/HOTEL/7016/7016.html"
+        },
+        {
+          "type": "review_site",
+          "title": "十津川温泉 静響の宿 山水（奈良県 旅館）口コミ - icotto",
+          "url": "https://icotto.jp/hotels/8690"
+        },
+        {
+          "type": "press",
+          "title": "【楽天トラベル売れ筋1位】「十津川温泉 静響の宿 山水」は全館源泉かけ流しの湯と絶景に癒される宿【10月23日】 - All About NEWS",
+          "url": "https://news.allabout.co.jp/articles/o/103356/"
+        },
+        {
+          "type": "press",
+          "title": "【楽天トラベル売れ筋1位】「十津川温泉 静響の宿 山水」は渓谷に寄り添う静寂の湯宿【11月14日】 - All About NEWS",
+          "url": "https://news.allabout.co.jp/articles/o/104779/"
+        },
+        {
+          "type": "booking_site",
+          "title": "十津川温泉 静響の宿 山水 プラン・料金ページ - 一休.com",
+          "url": "https://www.ikyu.com/00030370/"
+        }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-11-07-totsukawa-hotel-subaru",
+      "name": "十津川温泉 ホテル昴",
+      "region": "奈良県吉野郡十津川村（十津川温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "るるぶトラベル（口コミ評価）",
+          "score": 4.1,
+          "scale": 5,
+          "review_count": 38,
+          "checked_date": "2026-11-07",
+          "url": "https://www.rurubu.travel/city/japan/totsukawa"
+        },
+        {
+          "source": "icotto（一人旅・日帰り利用の口コミ）",
+          "score": 3.5,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-11-07",
+          "url": "https://icotto.jp/hotels/9970"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションのWebSearchでは現在の具体的な宿泊料金プランを確定できなかった。",
+        "as_of_search_date": "2026-11-07",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "十津川温泉の中では唯一の大型リゾートホテルタイプとされ、源泉かけ流し100%の温泉と温水プールを併設。山あいの自然豊かな景勝地に位置し、星空観賞を評価する口コミもある。",
+      "target_audience": ["家族", "カップル", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 7,
+        "unique_experience_score": 13,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 59,
+      "recommendation_reason": "温水プール併設・星空観賞などの要素はあるが、るるぶトラベル4.1（38件）以外の情報源（icotto 3.5、cocolocala 3.0〜5.0、フォートラベル3.5）はいずれも4.0未満または評価が大きく割れており、原則6が求める独立2情報源での4.0以上ラインを満たせなかった。温泉の質について『期待ほどではなかった』という具体的な指摘も複数あったため、今サイクルではcandidateとして見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icotto・cocolocala等で『温泉の質は期待ほどではなかった』という具体的な指摘が複数見られた。衛生・安全面での重大な欠格事由は確認されていないが、評価のばらつき自体が懸念点。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "十津川温泉 ホテル昴 口コミ・施設情報 - icotto",
+          "url": "https://icotto.jp/hotels/9970"
+        },
+        {
+          "type": "other",
+          "title": "十津川温泉エリア情報（るるぶトラベル）",
+          "url": "https://www.rurubu.travel/city/japan/totsukawa"
+        },
+        {
+          "type": "review_site",
+          "title": "十津川温泉 ホテル昴 口コミ - cocolocala",
+          "url": "https://www.cocolocala.jp/hotels/20319"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "原則6が求める独立2情報源での主要レビュー4.0以上（5点満点換算）を満たせなかった（るるぶ4.1の1件のみで、他は3.0〜3.5程度に分散）。"
+    },
+    {
+      "id": "2026-11-07-totsukawa-tabanakan",
+      "name": "田花館",
+      "region": "奈良県吉野郡十津川村平谷459（十津川温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": true,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "本セッションのWebSearchでは現在の具体的な宿泊料金プランを確定できなかった。",
+        "as_of_search_date": "2026-11-07",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "明治42年（1909年）創業とされる老舗旅館。源泉100%の十津川温泉で、男湯・女湯・貸切露天が各1つという昔ながらの造り。帳場が残る昭和の雰囲気を評価する口コミがある。",
+      "target_audience": ["一人旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 12,
+        "photogenic": 6,
+        "value_for_price": 0,
+        "sns_buzz": 0,
+        "access_and_freshness": 0
+      },
+      "score": 18,
+      "recommendation_reason": "明治創業・昭和の雰囲気を残す老舗という独自性はあるが、原則7が求める数値付きの独立2情報源（評価点・口コミ件数）を本セッションのWebSearchでは特定できなかったため、評価自体を保留した。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "数値付きの口コミ情報源を特定できなかったため、否定的レビューの専用確認は実施していない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "田花館 施設情報・口コミ（源泉100%・混浴浴場等） - フォートラベル",
+          "url": "https://4travel.jp/dm_hotel-10049873"
+        },
+        {
+          "type": "other",
+          "title": "十津川温泉 旅館一覧まとめ記事 - 食べログ",
+          "url": "https://tabelog.com/matome/9135/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "原則7が求める数値付きの独立2情報源（評価点・口コミ件数）を確認できず、評価基準を満たせなかったため見送り。情報源が充実すれば再調査の価値あり。"
+    },
+    {
+      "id": "2026-11-07-totsukawa-hirataniso",
+      "name": "旅館平谷荘",
+      "region": "奈良県吉野郡十津川村（十津川温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル（口コミ総合）",
+          "score": 3.13,
+          "scale": 5,
+          "review_count": 4,
+          "checked_date": "2026-11-07",
+          "url": "https://icotto.jp/hotels/9973"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションのWebSearchでは現在の具体的な宿泊料金プランを確定できなかった。",
+        "as_of_search_date": "2026-11-07",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "源泉100%かけ流しの杉・ひのき造り露天風呂を備える。話好きの夫婦による温かいもてなしを評価する口コミがある。",
+      "target_audience": ["一人旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 4,
+        "unique_experience_score": 10,
+        "photogenic": 7,
+        "value_for_price": 4,
+        "sns_buzz": 2,
+        "access_and_freshness": 1
+      },
+      "score": 38,
+      "recommendation_reason": "接客・風呂への評価は悪くないが、口コミ件数自体が極少（フォートラベル4件）で総合評価も3.13と原則6の4.0ラインに届かず、料金が高めと感じたという口コミもあったため見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "アクセスの不便さ（五条駅からバス3時間）、バリアフリー評価の低さ（2.50）、料金を高めと感じたという口コミが見られた。重大な欠格事由ではないが、score_breakdownに反映した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "十津川温泉 旅館平谷荘（奈良県 民宿）口コミ - icotto",
+          "url": "https://icotto.jp/hotels/9973"
+        },
+        {
+          "type": "other",
+          "title": "十津川温泉 旅館平谷荘 - えきたん宿泊施設情報",
+          "url": "https://www.ekitan.com/local-info/lodging/all/city-29449"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数が少なく(4件)、総合評価も原則6の4.0ライン(5点満点換算)に届かないため見送り。"
+    }
+  ]
+}

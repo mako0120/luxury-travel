@@ -1,0 +1,144 @@
+{
+  "cycle_date": "2026-10-28",
+  "theme": "離島リゾート（沖縄県島尻郡伊平屋村・伊平屋島）の新規調査",
+  "season_rationale": "離島リゾートカテゴリは2026-10-20の佐渡・隠岐（隠岐Entô 82点selected）、2026-10-22の宮古島・対馬、2026-10-23の屋久島・甑島、2026-10-24の壱岐、2026-10-25の礁文島、2026-10-26の八丈島、2026-10-27の粟島・新島と継続調査してきたが、沖縄県最北端の有人離島である伊平屋村・伊平屋島は本リポジトリで一度も取り上げていない新規地域として着手した。伊平屋島は沖縄本島北部・運天港からフェリーで約80分（1日2便）で渡る人口1,100人台の離島で、『イヘヤブルー』と呼ばれる海の透明度、クマヤ洞窟やニシ浜などの景観、10月下旬〜11月上旬の満月の夜に開催される『伊平屋島ムーンライトマラソン』などの独自資源を持つ一方、大型リゾートホテルは存在せず、小規模なホテル・民宿が数軒あるのみという、粟島や甑島に近い『超小規模離島』型の地域である。WebSearchでは、正式なホテル形態の『ホテルにしえ』『松金ホテル』『てるしのハイツ』に加え、古民家一棟貸しの『KUKARU』、古民家の宿『むーる』も確認したが、後者2件は口コミ・評価の集計自体が検索では一切見つからず、評価の検証可能性という点でさらに脆弱だったため、本サイクルでは数値情報が部分的にでも確認できた前者3件（ホテルにしえ・松金ホテル・てるしのハイツ）を正式な調査対象として採点した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-27-awashima-remote-island-resort", "region": "新潟県岩船郡粟島浦村・粟島", "category": "離島リゾート", "note": "候補3件（民宿ますや・渡佐・与平）すべて不採用。伊平屋島とは無関係の別地域。" },
+    { "post_id": "2026-10-27-niijima-remote-island-resort", "region": "東京都新島村・新島", "category": "離島リゾート", "note": "伊平屋島とは無関係の別島。" },
+    { "post_id": "2026-10-26-hachijojima-remote-island-resort", "region": "東京都八丈島", "category": "離島リゾート", "note": "リードパークリゾート八丈島が77点でselected。伊平屋島とは無関係。" },
+    { "post_id": "2026-10-25-rebun-island-resort", "region": "北海道礁文島", "category": "離島リゾート", "note": "花れぶんが採用。伊平屋島とは無関係。" },
+    { "post_id": "2026-10-24-iki-island-resort", "region": "長崎県壱岐島", "category": "離島リゾート", "note": "平山旅館が79点でselected。伊平屋島とは無関係。" },
+    { "post_id": "2026-10-23-yakushima-remote-island-resort-recheck", "region": "鹿児島県屋久島", "category": "離島リゾート", "note": "Samana Hotel Yakushimaが77点でselected。" },
+    { "post_id": "2026-10-23-koshikishima-remote-island-resort", "region": "鹿児島県甑島", "category": "離島リゾート", "note": "候補3件すべて不採用。伊平屋島と同様『小規模離島で大型リゾートホテルがない』パターン。" },
+    { "post_id": "2026-10-22-miyakojima-remote-island-resort-recheck2", "region": "沖縄県宮古島市下地島", "category": "離島リゾート", "note": "シギラミラージュが81点でselected。沖縄県内だが宮古島と伊平屋島は別の島で重複なし。" },
+    { "post_id": "2026-10-22-tsushima-remote-island-resort", "region": "長崎県対馬市", "category": "離島リゾート", "note": "候補3件すべて不採用。" },
+    { "post_id": "2026-10-20-sado-oki-resort", "region": "新潟県佐渡島／島根県隠岐諸島", "category": "離島リゾート", "note": "隠岐のEntôが82点でselected。伊平屋島とは無関係。" }
+  ],
+  "duplication_note": "data/candidates・captions配下の全件（2026-09-14〜2026-10-27、1ヶ月以上前を含む）を『伊平屋』『いへや』『iheya』『ホテルにしえ』『松金ホテル』『てるしのハイツ』で検索・確認した結果、該当する候補・投稿は一件も存在せず、地域・施設とも完全に新規であることを確認した。離島リゾートカテゴリ自体は佐渡・隠岐・宮古島・対馬・屋久島・甑島・壱岐・礁文島・八丈島・粟島・新島と継続調査しているが、いずれも伊平屋島とは別の島であり重複にはあたらない。",
+  "candidates": [
+    {
+      "id": "2026-10-28-hotel-nishie-iheya",
+      "name": "ホテルにしえ",
+      "region": "沖縄県島尻郡伊平屋村字前泊（伊平屋島、前泊港周辺・海沿い）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.20, "scale": 5, "review_count": 8, "checked_date": "2026-10-28", "url": "https://4travel.jp/dm_hotel-11322284" },
+        { "source": "Google（Googleホテル／マップ経由）", "score": 4.1, "scale": 5, "review_count": 123, "checked_date": "2026-10-28", "url": "https://www.google.co.jp/travel/hotels/entity/CgsIkafquYH7w-uVARAB" },
+        { "source": "Yahoo!マップ", "score": 3.61, "scale": 5, "review_count": 8, "checked_date": "2026-10-28", "url": "https://map.yahoo.co.jp/v3/place/zTlYJ869UB2" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な宿泊料金は検索では確認できなかった。JTBの伊平屋村特集ページ等にヴィラ・ホテルの掲載はあるが、ホテルにしえ単体の料金表示は確認できなかった。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "宿の目の前がすぐ海という立地で、地元の魚介や島野菜を使った夕食（イカ墨焼きそば・ヒラヤーチー等）、品数豊富なビュッフェ朝食が評判。向かいに商店、近くにビーチ、目の前にバス停があるなど伊平屋島内では比較的便利な立地にある。",
+      "renewal_or_news": "フォートラベルの口コミは2021年頃の投稿が中心で、コロナ禍には食事が部屋食・弁当形式だった時期があったとの記述があるが、現在の提供形態については最新情報を確認できなかった。一方でGoogleの口コミ件数が123件と伊平屋島内の宿では比較的多く、投稿が継続していることから営業自体は継続しているとみられる。",
+      "target_audience": ["一人旅", "友人", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 9,
+        "unique_experience_score": 11,
+        "photogenic": 7,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 52,
+      "recommendation_reason": "Googleの評価は4.1（123件）と独立した大口の情報源で基準の4.0以上を満たすが、フォートラベル3.20（8件）・Yahoo!マップ3.61（8件）は4.0未満で、項目別評価でも風呂2.42・客室2.79と低く、共同シャワーや建物の古さへの指摘がある。目の前が海という立地と地魚中心の食事は魅力だが、離島リゾートとして写真・体験面で強く打ち出せる独自性としては弱く、総合スコア52点で採用ライン（75点）には届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの項目別評価で風呂2.42・客室2.79と低く、共同シャワーである点への不満、コロナ禍に食事が部屋食・弁当形式だった時期があったとの指摘が確認できた。衛生・安全上の重大な指摘ではないが、離島リゾートとして打ち出すには設備面の見劣りが懸念される。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ホテルにしえ - フォートラベル クチコミ（満足度3.20・8件、風呂2.42・客室2.79）", "url": "https://4travel.jp/dm_hotel-11322284" },
+        { "type": "other", "title": "ホテルにしえ - Googleホテル（評価4.1・123件）", "url": "https://www.google.co.jp/travel/hotels/entity/CgsIkafquYH7w-uVARAB" },
+        { "type": "other", "title": "ホテルにしえ - Yahoo!マップ（評価3.61・8件）", "url": "https://map.yahoo.co.jp/v3/place/zTlYJ869UB2" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "Google評価4.1（123件）は基準を満たすが、フォートラベル3.20・Yahoo!マップ3.61は4.0未満で、客室・風呂の項目別評価も低い。立地・食事の魅力はあるが離島リゾートとしての独自体験・映え要素が弱く、総合スコア52点で採用ラインに届かない。"
+    },
+    {
+      "id": "2026-10-28-matsugane-hotel-iheya",
+      "name": "松金ホテル",
+      "region": "沖縄県島尻郡伊平屋村字我喜屋（伊平屋島、フェリーターミナルから徒歩約10分）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.12, "scale": 5, "review_count": 3, "checked_date": "2026-10-28", "url": "https://4travel.jp/dm_hotel-10053601" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な宿泊料金は検索では確認できなかった。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "古くから観光客を受け入れてきた老舗ホテルで、家族経営のアットホームな雰囲気が特徴。口コミでは『民宿に近い雰囲気』とされつつ、部屋にトイレ・シャワーがある点は多くの民宿より便利とされる。フェリーターミナルから徒歩約10分、連絡すれば車の送迎も可能。",
+      "renewal_or_news": "このセッションのWebSearchで確認できたフォートラベルの口コミは2014年・2018年の投稿のみで、直近の営業状況・改装等の最新情報は確認できなかった。",
+      "target_audience": ["一人旅", "友人", "家族"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 3,
+        "unique_experience_score": 9,
+        "photogenic": 5,
+        "value_for_price": 5,
+        "sns_buzz": 1,
+        "access_and_freshness": 2
+      },
+      "score": 35,
+      "recommendation_reason": "項目別評価（接客5.00・食事5.00・客室4.00・風呂4.00等）自体は良好だが、口コミがフォートラベル単独・3件のみで、独立した2情報源での検証ができない。投稿も2014〜2018年と古く、現在の運営状況・品質を裏付ける直近の情報が確認できないため、現サイクルの採用基準を満たさない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ件数が3件と少なく、内容自体はいずれも好意的（2018年8月4.5点、2018年7月4.0点、2014年12月4.0点）で衛生・安全上の指摘は確認されなかった。ただし投稿が古く、件数も少ないため、現在の品質を裏付ける独立した評価としては不十分。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "松金ホテル - フォートラベル クチコミ（満足度3.12・3件、2014〜2018年投稿）", "url": "https://4travel.jp/dm_hotel-10053601" },
+        { "type": "other", "title": "松金ホテル - okinawa-labo.com 紹介記事（老舗ホテルとしての紹介）", "url": "https://okinawa-labo.com/hotel/matsuganehotel" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミが3件のみでフォートラベル単独の情報源に留まり、独立2情報源での評価検証ができない。投稿も2014〜2018年と古く最新性が確認できないため、score35点で採用ラインに届かない。"
+    },
+    {
+      "id": "2026-10-28-terushino-heights-iheya",
+      "name": "てるしのハイツ",
+      "region": "沖縄県島尻郡伊平屋村字田名（伊平屋島、田名集落の高台・前泊フェリーターミナルから車で約7分）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "主要な口コミ・予約サイト（じゃらんnet・フォートラベル・Googleマップ等を検索したが、数値化された口コミ投稿自体が確認できなかった）", "score": 0, "scale": 5, "review_count": 0, "checked_date": "2026-10-28", "url": "https://www.jalan.net/yad356119/" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な宿泊料金は検索では確認できなかった。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "伊平屋島で最も歴史が息づくとされる田名集落の高台に位置するアパートメントホテル形式の宿。『イヘヤブルー』と大自然、満天の星空を楽しめるロケーションとして紹介され、徒歩圏に沖縄最北端とされる田名共同売店がある。",
+      "renewal_or_news": "このセッションのWebSearchでは、じゃらんnet・フォートラベル・Googleマップのいずれにも数値化された口コミ・評価は見つからず、営業状況の最新性を裏付ける直近の口コミ投稿も確認できなかった。",
+      "target_audience": ["一人旅", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 2,
+        "review_reliability": 1,
+        "unique_experience_score": 10,
+        "photogenic": 8,
+        "value_for_price": 3,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 28,
+      "recommendation_reason": "高台からの『イヘヤブルー』の眺めや満天の星空という写真・体験面での魅力は紹介文からうかがえるが、じゃらんnet・フォートラベル・Googleマップのいずれにも数値化された口コミが一件も確認できず、独立2情報源での評価検証が一切できない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ投稿自体が検索で確認できなかったため、衛生・安全上の指摘の有無も判断できない。ネガティブ情報は確認されなかったが、これは『口コミが存在しない』ことによるものであり、独立した評価による裏付けではない点を別途の制約として扱う。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "てるしのハイツ - じゃらんnet（口コミ件数・評価点の表示は確認できず）", "url": "https://www.jalan.net/yad356119/" },
+        { "type": "other", "title": "伊平屋村エリア宿・観光情報 - hamoni.jp", "url": "https://hamoni.jp/area/okinawa/shimajiri/iheya/list/others" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "じゃらんnet・フォートラベル・Googleマップのいずれにも数値化された口コミが確認できず、独立2情報源での評価検証ができないため、score28点で採用ラインに届かない。"
+    }
+  ],
+  "cycle_conclusion": "沖縄県伊平屋村・伊平屋島を対象に離島リゾートカテゴリで3件（ホテルにしえ、松金ホテル、てるしのハイツ）を調査・採点した。伊平屋島は本リポジトリで一度も取り上げていない新規地域で、『イヘヤブルー』や満月のムーンライトマラソンといった独自資源を持つが、大型リゾートホテルが存在しない超小規模離島という点で粟島・甑島に近いパターンだった。ホテルにしえはGoogle評価4.1（123件）と大口の独立情報源で基準を満たす一方、フォートラベル3.20・Yahoo!マップ3.61は4.0未満で客室・風呂の評価も低く52点、松金ホテルは項目別評価自体は良好だが口コミが3件・2014〜2018年の古い投稿のみで独立2情報源の検証ができず35点、てるしのハイツは高台からの景観・星空という魅力はあるものの数値化された口コミが一切見つからず28点だった。古民家一棟貸しのKUKARUや古民家の宿むーるも調査したが、口コミの集計自体が見つからず上記3件よりさらに検証可能性が低かったため、正式な採点対象からは除外した。3件とも不採用のため、captions/配下の新規作成は行わない。伊平屋島は観光資源自体の独自性は高いものの、宿泊施設のオンライン口コミ基盤が全体的に薄いHidden Gem候補地であり、ホテルにしえのGoogle口コミの蓄積が進むか、各宿の直近の営業状況・料金を公式に確認できた段階で再調査する価値がある。"
+}

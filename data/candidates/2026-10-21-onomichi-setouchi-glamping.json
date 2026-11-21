@@ -1,0 +1,155 @@
+{
+  "cycle_date": "2026-10-21",
+  "theme": "広島県尾道市・瀬戸内しまなみ海道エリア（生口島・高根島）のグランピング施設",
+  "season_rationale": "10月下旬のしまなみ海道エリアは、『サイクリングしまなみ2026』（2026年10月25日開催予定、参加定員約7,000人）の直前で来訪者が増え始めるタイミング。残暑が落ち着き、屋外サウナ・焚き火・レモン畑散策・BBQが心地よい気候になる時期で、紅葉本番で混み合う11月より前の落ち着いた瀬戸内の海景色を楽しめる（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-20-vision-glamping-yamanakako", "region": "山梨県南都留郡山中湖村", "category": "グランピング" },
+    { "post_id": "2026-10-18-hoshinoya-fuji", "region": "山梨県南都留郡富士河口湖町（河口湖畔）", "category": "グランピング" },
+    { "post_id": "2026-10-17-luanapark-shirahama", "region": "和歌山県西牟婁郡白浜町", "category": "グランピング" },
+    { "post_id": "2026-10-19-takashima-glamping", "region": "滋賀県高島市（琵琶湖畔）", "category": "グランピング（該当なし）" },
+    { "post_id": "2026-10-19-iseshima-glamping", "region": "三重県伊勢志摩・北海道虻田郡洞爺湖町", "category": "グランピング（該当なし）" },
+    { "post_id": "2026-10-20-nasu-awaji-glamping", "region": "栃木県那須高原・兵庫県淡路島", "category": "グランピング（該当なし）" },
+    { "post_id": "2026-10-18-miyajima-seaside-hotel", "region": "広島県廿日市市宮島町（宮島島内）", "category": "絶景ホテル（同一県・別地域・別カテゴリ）" },
+    { "post_id": "2026-09-22-guntu", "region": "広島県尾道市を母港とする瀬戸内海クルーズ", "category": "列車・船（同一市・1か月以上前・別カテゴリ）" },
+    { "post_id": "2026-09-14-azumi-setoda", "region": "広島県尾道市瀬戸田町（生口島・しまなみ海道）", "category": "離島リゾート（同一エリア・1か月以上前・別カテゴリ）" },
+    { "post_id": "2026-09-14-aonagi-setouchi", "region": "愛媛県松山市（柳谷町）", "category": "絶景ホテル（広域瀬戸内・1か月以上前・別カテゴリ）" }
+  ],
+  "duplication_note": "直近3日間（10/18〜10/20）はグランピング（河口湖・白浜・山中湖）で選定済み、10/19・10/20は琵琶湖・伊勢志摩・洞爺湖・那須・淡路でグランピング該当なしが続いていたため、指示に従い地域を広島県尾道市・瀬戸内しまなみ海道エリアに変更して調査した。1か月以上前の投稿も確認した結果、同じ尾道市エリアでは『Azumi Setoda』（2026-09-14・生口島瀬戸田町・離島リゾート）と『ガンツウ』（2026-09-22・尾道母港の瀬戸内クルーズ・列車・船）が既出だが、いずれもカテゴリが異なり施設も重複しない。宮島（2026-10-18・絶景ホテル）・松山市柳谷町（2026-09-14・絶景ホテル）も広域の瀬戸内だが地域・カテゴリとも別。`data/candidates/`・`captions/`をファイル名・本文でgrepしても、尾道・瀬戸内エリアを『グランピング』カテゴリで扱った既存候補・投稿は無いことを確認した。",
+  "research_note": "生口島の『LEMON FARM GLAMPING しまなみ』『グランドーム瀬戸内しまなみ』、高根島の『グランヴィレッジ瀬戸内しまなみ』、生口島の新施設『LIT SHIMANAMI』（2024年7月開業）の計4件を調査した。このセッションのネットワーク環境では、じゃらん・楽天トラベルのトップページ・なっぷ・tabiiro等へのWebFetchがいずれもEGRESS_BLOCKED（DNS解決不可、getaddrinfo ENOTFOUND）となったため、WebSearchのスニペットから得られる情報のみを根拠とした。WebSearchの検索回数上限にも達したため、本サイクルの調査はこの4件で打ち切った。",
+  "candidates": [
+    {
+      "id": "2026-10-21-lemon-farm-glamping-shimanami",
+      "name": "LEMON FARM GLAMPING しまなみ",
+      "region": "広島県尾道市瀬戸田町荻（生口島・しまなみ海道、柑橘テーマパーク『シトラスパーク瀬戸田』内）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Yahoo!マップ", "score": 4.72, "scale": 5, "review_count": 11, "checked_date": "2026-10-21", "url": "https://map.yahoo.co.jp/v3/place/oj48hHT8Etk" },
+        { "source": "楽天トラベル", "score": 4.60, "scale": 5, "review_count": 18, "checked_date": "2026-10-21", "url": "https://travel.rakuten.co.jp/HOTEL/188005/review.html" },
+        { "source": "食べログ（参考・件数僅少）", "score": 3.04, "scale": 5, "review_count": 2, "checked_date": "2026-10-21", "url": "https://tabelog.com/en/hiroshima/A3406/A340603/34031325/" }
+      ],
+      "price_range_jpy": {
+        "note": "2026年の予約ページのスナップショットでは、パノラマドーム（サウナなし）1名22,230円〜／サウナパノラマドーム1名24,480円〜（いずれも1棟4名利用時、税込）という表示と、別時点では20,070円〜・22,320円〜という表示が確認でき、日付・プランにより変動する。2022年開業時の記事にある14,300円〜という数字は現在の相場とは異なるため参照しない。2026年4月1日以降は宿泊税が別途発生する。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "柑橘テーマパーク『シトラスパーク瀬戸田』内、1,300本の柑橘が香る小高い丘に建つ全8棟（ドーム型2棟・スイートヴィラ型6棟）のグランピング。一部はアウトドアサウナ付きの『サウナパノラマドーム』『サウナスイートヴィラ』で、瀬戸内海を望みながらサウナ→外気浴ができる。ピザ窯での石窯ピザ体験、愛犬同伴可の棟（専用ドッグラン付き）もあり、柑橘畑×絶景×サウナという組み合わせは瀬戸内エリアでも珍しい。",
+      "renewal_or_news": "2022年8月開業。2023年8月に開業1周年・利用者5,000人突破のプレスリリースあり。2026年4月1日より宿泊税の別途収受を開始（予約ページ記載）しており、2026年時点でもサウナ付きルームの掲載が継続し営業実態を確認できる。",
+      "target_audience": ["カップル", "記念日", "絶景好き", "家族"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 9,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 77,
+      "recommendation_reason": "Yahoo!マップ4.72（11件）・楽天トラベル4.60（18件、朝食夕食5.00/接客4.70等の項目別評価も高評価）と、性質の異なる2つの独立した情報源でいずれも推奨ライン4.2以上を上回る評価を確認できた（原則6・7）。柑橘テーマパーク内という立地、サウナ付きルームの存在、愛犬同伴可など独自性が高く、2022年開業からの運営継続・2026年の宿泊税対応といった最新情報も確認できる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "複数サイトの口コミ傾向まとめ記事で、施設までのアクセスが急な坂道であること、季節によっては虫が出ること、価格がやや高めであること、屋外要素が多く天候に左右されやすいことが気になる点として挙がっていた。清潔感・接客自体への重大な不満は確認できず、景色・食事・サウナ設備は好評という声が多い。重大な除外事由には当たらないと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "シトラスパーク瀬戸田、レモン農園を臨むグランピング施設「LEMON FARM GLAMPINGしまなみ」8月オープン - Impress Travel Watch", "url": "https://travel.watch.impress.co.jp/docs/news/1423775.html" },
+        { "type": "review_site", "title": "LEMON FARM GLAMPINGしまなみ 周辺情報・クチコミ（4.72／11件） - Yahoo!マップ", "url": "https://map.yahoo.co.jp/v3/place/oj48hHT8Etk" },
+        { "type": "review_site", "title": "LEMON FARM GLAMPINGしまなみ 宿泊者クチコミ（4.60／18件） - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/188005/review.html" },
+        { "type": "booking_site", "title": "LEMON FARM GLAMPINGしまなみ 宿泊プラン・料金詳細 - 489ban.net予約システム", "url": "https://reserve.489ban.net/client/lemonfarm-shimanami/4/detail/1112752" },
+        { "type": "press", "title": "開業1周年・利用者5,000人突破 LEMON FARM GLAMPINGしまなみ プレスリリース", "url": "https://resemom.jp/release/prtimes/20230802/102309.html" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-21-grandome-setouchi-shimanami",
+      "name": "グランドーム瀬戸内しまなみ",
+      "region": "広島県尾道市瀬戸田町宮原（生口島・しまなみ海道）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Yahoo!マップ", "score": 4.0, "scale": 5, "review_count": 2, "checked_date": "2026-10-21", "url": "https://map.yahoo.co.jp/v3/place/DOy7BZwHBmU" }
+      ],
+      "price_range_jpy": {
+        "note": "旅行情報サイト記載ではオーシャンドーム（2ベッド、4室）が1名12,800円〜という価格帯の掲載があった。2026年にはリニューアルで『オーシャンコーナーデラックス』へと客室タイプが生まれ変わる旨の運営会社プレスリリースあり。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全7棟、直径10mの大型ドームテント『デラックスオーシャンドーム（ラグジュアリー6ベッド）』など全室オーシャンビューで、プライベートデッキでの焚き火・晩酌が楽しめる。2026年にリニューアル客室『オーシャンコーナーデラックス』が追加される予定。",
+      "renewal_or_news": "2021年8月開業。2026年のプレスリリースで客室リニューアル（オーシャンコーナーデラックス）が告知されている。",
+      "target_audience": ["カップル", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 11,
+        "review_reliability": 1,
+        "unique_experience_score": 12,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 47,
+      "recommendation_reason": "全室オーシャンビューの大型ドームテントという独自性はあるが、確認できた数値評価はYahoo!マップの4.0のみで、件数もわずか2件と極端に少ない。フォートラベルは評価・口コミ自体が無く、原則7（最低2種類以上の独立した情報源）を満たす第二の数値的根拠が確認できなかった。保守的に採点した結果47点となり不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Yahoo!マップの口コミ2件はいずれも好意的（開業間もない海沿いのグランピングとして紹介）で、重大な不満の言及は確認できなかった。ただし口コミ総数が極端に少なく、ネガティブ情報の網羅的な確認はできていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "グランドーム瀬戸内しまなみ - 尾道市瀬戸田町宮原／レジャー施設 - Yahoo!マップ", "url": "https://map.yahoo.co.jp/v3/place/DOy7BZwHBmU" },
+        { "type": "other", "title": "グランドーム瀬戸内しまなみのクチコミ情報（評価なし） - フォートラベル", "url": "https://4travel.jp/dm_hotel-11982536" },
+        { "type": "other", "title": "グランドーム瀬戸内しまなみ 公式サイト", "url": "https://restglamping-setouchishimanami.com/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価がYahoo!マップの4.0・2件のみで、第二の独立した信頼できる数値源が確認できなかったため（原則6・7）、保守的な採点（47点）で採用ライン（75点）に届かず不採用。"
+    },
+    {
+      "id": "2026-10-21-lit-shimanami",
+      "name": "LIT SHIMANAMI",
+      "region": "広島県尾道市瀬戸田町（生口島・しまなみ海道）",
+      "category": "グランピング",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "Dinogo（海外向け予約比較サイト）", "score": 10, "scale": 10, "review_count": 2, "checked_date": "2026-10-21", "url": "https://dinogo.com/hotels/602881-lit-shimanami" }
+      ],
+      "price_range_jpy": {
+        "note": "2024年7月開業の新しい施設で、具体的な公開料金は本セッションのWebSearchでは確認できなかった。公式サイト・予約サイトで要確認。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "森・湖・海の3つのエリア（フォレストサイト／レイクサイト／オーシャンサイト）で構成される2024年7月開業の新しいグランピング施設。SNS動画では冬季のドーム滞在の暖かさが紹介されるなど話題性があるが、宿泊者の口コミはまだ少ない。",
+      "renewal_or_news": "2024年7月開業。開業から間もないため、主要レビューサイトでの評価件数はまだ少ない。",
+      "target_audience": ["カップル", "友人"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 1,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 55,
+      "recommendation_reason": "森・湖・海の3エリア構成という独自性の高いコンセプトで2024年開業の新しさも魅力だが、確認できた数値評価は海外向け予約比較サイト『Dinogo』の口コミ2件（10/10）のみ。フォートラベルでは評価自体がまだ無く、原則7（最低2種類以上の独立した情報源）を満たす第二の数値的根拠が確認できなかった。保守的に採点した結果55点となり不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ件数が極端に少なく（Dinogo2件のみ）、個別レビュー本文の詳細確認はできなかった。重大な問題を示す言及は検索結果からは見当たらないが、ネガティブ情報の網羅的な確認はできていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "LIT SHIMANAMI 施設情報・レビュー（10/10・2 reviews） - Dinogo", "url": "https://dinogo.com/hotels/602881-lit-shimanami" },
+        { "type": "other", "title": "LIT SHIMANAMIのクチコミ情報（評価なし・投稿募集中） - フォートラベル", "url": "https://4travel.jp/dm_hotel-11995143" },
+        { "type": "other", "title": "LIT SHIMANAMI 施設紹介ページ - tabiiro.jp", "url": "https://tabiiro.jp/yado/s/103605-onomichi-lit-shimanami/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "海外向け予約比較サイト（Dinogo）の口コミ2件のみに基づく評価で、国内主要サイトでは評価自体がまだ無く、原則7（独立2情報源）を満たせないため55点相当とし不採用。開業から時間が経ち口コミが蓄積された段階で再調査の価値がある。"
+    }
+  ],
+  "excluded_insufficient_data": [
+    {
+      "name": "グランヴィレッジ瀬戸内しまなみ",
+      "region": "広島県尾道市（高根島）",
+      "category": "グランピング",
+      "reason": "2022年4月開業、全5棟（大型ドームテント3棟・広島県初のコクーンテント2棟）の少人数向けプライベートグランピングで、全室が海に面した眺望、愛犬同伴可のコクーンテント専用ドッグラン等の独自性があるが、じゃらん・楽天トラベル・Yahoo!マップ等の数値評価が本セッションのWebSearchでは確認できず、口コミ件数も不明だった。原則6・7を満たす根拠が得られず、正式な候補エントリとはせず除外した。"
+    }
+  ]
+}

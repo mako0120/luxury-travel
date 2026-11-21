@@ -1,0 +1,144 @@
+{
+  "cycle_date": "2026-11-10",
+  "theme": "カテゴリ『オールインクルーシブ』×地域『熊本県天草市（天草エリア）』の再調査サイクル",
+  "season_rationale": "本日すでに同カテゴリ『オールインクルーシブ』を別地域（宮崎県宮崎市シーガイアエリア）で調査したが、selected候補なし（該当なし）に終わったため、ユーザー指示により異なる地域『熊本県天草市』で1回限りの再調査サイクルを実施した。11月上旬の天草エリアは台風シーズンが完全に過ぎ、海況・気候が安定する一方、年末年始の繁忙期前で予約検討が動き出す時期であり、旅先紹介としての季節適性は高い。",
+  "prior_posts_checked": [
+    { "post_id": "2026-11-10-all-inclusive-miyazaki-seagaia", "region": "宮崎県宮崎市（シーガイアエリア）", "category": "オールインクルーシブ（本日・同カテゴリ・selectedなし）" },
+    { "post_id": "2026-10-23-all-inclusive-amakusa", "region": "熊本県上天草市・天草市（天草エリア）", "category": "オールインクルーシブ（約18日前・同一地域＋同一カテゴリの既存調査。天空の船／ホテル竜宮／アレグリアガーデンズ天草の3件を調査しいずれも不採用）" },
+    { "post_id": "2026-11-09-all-inclusive-karatsu", "region": "佐賀県唐津市", "category": "オールインクルーシブ" },
+    { "post_id": "2026-11-09-all-inclusive-nichinan", "region": "宮崎県日南市", "category": "オールインクルーシブ（selectedなし）" },
+    { "post_id": "2026-10-22-gourmet-ryokan-kurokawa", "region": "熊本県阿蘇郡小国町・黒川温泉（同一県だが別エリア・別カテゴリ）", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "data/candidates/・captions/の全件（2026-09-14〜2026-11-09、1ヶ月以上前のファイルを含む）を『天草』『Amakusa』『上天草』で全文検索した結果、2026-10-23-all-inclusive-amakusa.jsonが同一地域（天草エリア）×同一カテゴリ（オールインクルーシブ）で既に調査済みであることを確認した。同ファイルでは天空の船（score70）・ホテル竜宮（score63）・アレグリアガーデンズ天草（score62）の3件を調査し、いずれも『オールインクルーシブプランを公式に明示している施設』という条件を満たさず不採用としている。本サイクルはユーザー指示に基づく明示的な『1回限りの再調査』であり、同じ3件の再評価による重複を避けるため、前回調査で対象にしていなかった新規3件（天ノ寂／アマクサ サンタカミングホテル／大江戸温泉物語 天草ホテル亀屋）を新たに調査・採点した。前回候補との内容重複はない。",
+  "research_note": "WebSearchで『天草 オールインクルーシブ ホテル 2026』『熊本 天草 ホテル 飲み放題 全食事込み プラン』『Amakusa hotel all inclusive plan』『\"天草\" \"オールインクルーシブ\" site:rakuten.co.jp OR site:jalan.net OR site:ikyu.com』『天草 新ホテル 2026 開業 リゾート オールインクルーシブ』など複数の日本語・英語クエリで調査した。前回調査（2026-10-23）で名称のみ言及されていた系列新施設『天ノ寂（アマノジャク）』、および未調査だった『アマクサ サンタカミングホテル』『大江戸温泉物語 天草ホテル亀屋』の3件を新たに独立2情報源以上で調査・採点したが、いずれも飲料・館内アクティビティ等を一律料金に含む『オールインクルーシブ』プランの公式明記が確認できなかった（天ノ寂は夕朝食付きのみ、サンタカミングホテルは24時間コーヒー飲み放題のみ、亀屋は90分間のアルコール飲み放題付きプランのみで、いずれも全包括型ではない）。2026年の天草エリアの新規開業情報も確認したが、オールインクルーシブを公式に掲げる新施設は見つからず、唯一発見した『オールインクルーシブ』を公式に掲げる2026年開業施設は熊本県阿蘇市の『TAOYA阿蘇』であり天草エリアではなかった。以上から、天草エリアには現時点（2026-11-10）で『オールインクルーシブ』カテゴリの必須条件を満たす施設が見当たらないという2026-10-23時点の結論が本サイクルでも再確認された。カテゴリ『オールインクルーシブ』×地域『天草エリア』の組み合わせは2サイクル連続でselectedなしとなったため、以降は同じ組み合わせでの再調査は推奨しない。",
+  "candidates": [
+    {
+      "id": "2026-11-10-amakusa-ten-no-sabi",
+      "name": "天ノ寂（アマノジャク／Amanojyaku, Ten no Sabi）",
+      "region": "熊本県上天草市松島町合津（天草五橋・松島温泉エリア、「天草 天空の船」姉妹施設）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "一休.com（韓国語版ページで確認。日本語版ページ自体は検索結果に含まれず未確認）", "score": 4.78, "scale": 5, "review_count": 162, "checked_date": "2026-11-10", "url": "https://www.ikyu.com/ko-kr/00003088/review/1002098708/" },
+        { "source": "Dinogo（10点満点9.6点を5点満点に換算）", "score": 4.8, "scale": 5, "review_count": 37, "checked_date": "2026-11-10", "url": "https://dinogo.com/hotels/600052-ten-no-sabi" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な1泊料金はWebSearchの範囲では確認できなかった。ジュニアスイート（露天風呂付・78㎡、屋外テラス26㎡）、クアッドスイート（内湯・露天風呂付、最大4名）、サウナ・水風呂付きの上位スイートなど全11室すべてがスイートの高級業態であることのみ確認できた。クアッドスイートは一部の予約ページで『売り切れ』表示あり。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2023年6月開業、熊本県上天草市松島町の全11室がオーシャンビュー・スイートの小規模高級旅館で、『天草 天空の船』の姉妹施設（高級業態）。ジュニアスイート（露天風呂付）、2ベッドルームのクアッドスイート、サウナ・水風呂付きの上位スイートなど部屋ごとに異なる温浴設備を備え、天草松島温泉を引いている。夕食は『和』という食事処で天草諸島近海の海産物を使った日本料理・寿司を提供（カウンター5組10席限定）、地酒を含む地元の酒の品揃えも評価されている。",
+      "renewal_or_news": "2023年6月5日開業（熊本日日新聞記事で確認）。天草エアラインとのコラボ宿泊プランなど期間限定企画も展開している。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 8,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 5,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 75,
+      "recommendation_reason": "一休（韓国語版ページ）4.78（162件）・Dinogo換算4.8（37件）という2つの独立情報源で非常に高い評価を確認。全室スイート・部屋ごとに異なる温浴設備（露天風呂・サウナ・水風呂）という独自性・写真映えも高いが、『オールインクルーシブ』を公式に明示したプランではなく、夕食・朝食付きのみで飲料・館内アクティビティ等を一律料金に含む全包括プランの記載は確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一休の口コミで、食事に付いた赤ワインが期待に届かなかったという指摘があり、宿側が改善を約束する返信をしていた。Relux掲載の口コミでは朝食のコーヒー・紅茶の質向上を求める声もあった。重大な衛生・安全上の指摘は確認されなかったが、レビュー件数（162件・37件）は他の大型リゾートと比べて少なく、一部情報源は外国語版ページ経由で確認した点に留意が必要。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "【上天草発インタビュー】個性磨き、地元観光の強みに 高級ホテル「天ノ寂」6月5日開業 - 熊本日日新聞", "url": "https://www.kumanichi.com/articles/1061364" },
+        { "type": "review_site", "title": "Amanojaku 투숙객 리뷰 및 후기（一休.com韓国語版）", "url": "https://www.ikyu.com/ko-kr/00003088/review/1002098708/" },
+        { "type": "review_site", "title": "Ten no Sabi reviews - Dinogo", "url": "https://dinogo.com/hotels/600052-ten-no-sabi" },
+        { "type": "booking_site", "title": "天ノ寂 宿泊プラン詳細 - reserve.489ban.net", "url": "https://reserve.489ban.net/client/amanojyaku/0/detail/781436" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "レビュー評価自体は良好（一休外国語版ページ4.78/162件、Dinogo換算4.8/37件）で、全室スイート・部屋ごとに異なる温浴設備という独自性も高いが、天草エリアでユーザー指定の必須条件である『オールインクルーシブプランを公式に明示している施設』には該当しない。夕食・朝食付きの提供のみで、飲料・館内アクティビティ等を一律料金に含む全包括プランの公式明記は確認できなかった。"
+    },
+    {
+      "id": "2026-11-10-amakusa-santacoming-hotel",
+      "name": "アマクサ サンタカミングホテル",
+      "region": "熊本県天草市",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "スカイチケット", "score": 4.5, "scale": 5, "review_count": 402, "checked_date": "2026-11-10", "url": "https://skyticket.jp/hotel/detail/property_1215567/" },
+        { "source": "フォートラベル", "score": 3.28, "scale": 5, "review_count": 8, "checked_date": "2026-11-10", "url": "https://4travel.jp/dm_hotel-10221648" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な1泊料金はWebSearchの範囲では確認できなかった。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "熊本県天草市にあるクリスマス装飾で知られる海沿いのホテル。ホテル前の海の景色、朝食会場の雰囲気への高評価が複数確認できた。24時間利用可能なコーヒーの飲み放題は確認できたが、アルコール・館内アクティビティ等を含む包括的な『オールインクルーシブ』プランの公式明記は確認できない。",
+      "renewal_or_news": "確認できなかった。",
+      "target_audience": ["カップル", "友人", "家族"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 6,
+        "unique_experience_score": 8,
+        "photogenic": 9,
+        "value_for_price": 4,
+        "sns_buzz": 3,
+        "access_and_freshness": 1
+      },
+      "score": 46,
+      "recommendation_reason": "スカイチケット4.5（402件）は良好だが、フォートラベル3.28（8件、母数が少ない）は明確に低く、原則の『主要レビュー4.0未満は原則不採用』基準に届かない。『オールインクルーシブ』を公式に明示したプランも確認できず（24時間コーヒー飲み放題のみ）、ユーザー指定の必須条件を満たさない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベル（8件）でアクセス3.08・コストパフォーマンス3.17が他項目より明確に低い。icotto掲載の2021年投稿（3.5点）でもコストパフォーマンス・アクセスが3.0と指摘されている。重大な衛生・安全上の指摘は確認されなかったが、レビュー件数が少なく媒体間の評価差も大きい。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "アマクサ サンタカミングホテル 口コミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10221648" },
+        { "type": "review_site", "title": "アマクサ サンタカミングホテル 口コミ・評価 - スカイチケット", "url": "https://skyticket.jp/hotel/detail/property_1215567/" },
+        { "type": "other", "title": "アマクサ サンタカミングホテル - icotto", "url": "https://icotto.jp/hotels/9181" },
+        { "type": "booking_site", "title": "アマクサ サンタカミングホテル 口コミ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/151456/review.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "スカイチケット4.5（402件）は良好だが、フォートラベル3.28（8件）は原則の4.0基準に届かず、特にアクセス（3.08）・コストパフォーマンス（3.17）が弱点として指摘される。『オールインクルーシブ』を公式に明示したプランも確認できず（24時間コーヒーのみ）、ユーザー指定の必須条件を満たさないため不採用とした。"
+    },
+    {
+      "id": "2026-11-10-amakusa-oedo-onsen-kameya",
+      "name": "大江戸温泉物語 天草ホテル亀屋",
+      "region": "熊本県上天草市大矢野町",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.32, "scale": 5, "review_count": 13, "checked_date": "2026-11-10", "url": "https://4travel.jp/dm_hotel-11782947" }
+      ],
+      "price_range_jpy": {
+        "note": "中国語版予約ページで経済型和室6畳・1泊2食付き12,400円〜（2名1室利用時の1名あたり、税・サービス料込み）という表示を確認。90分間のアルコール飲み放題付きプランもあるが、食事・飲料・館内施設利用を包括する『オールインクルーシブ』型プランの料金記載はない。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "大江戸温泉物語グループが運営する天草・大矢野町の宿。上天草で最も高い場所にある大浴場から天草の海を一望でき、地下約1000mから湧出する『天草パール温泉』を使用（公式写真ページには一部浴槽が温泉ではない旨の注記もあり、情報源により記載が異なる）。朝夕合わせて約130種の和洋中バイキングが特徴で、90分間のアルコール飲み放題付きプランも提供しているが、食事・飲料・館内施設利用を包括する『オールインクルーシブ』の公式明記はない。",
+      "renewal_or_news": "確認できなかった。",
+      "target_audience": ["家族", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 5,
+        "unique_experience_score": 9,
+        "photogenic": 8,
+        "value_for_price": 6,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 46,
+      "recommendation_reason": "フォートラベル3.32（13件、母数が少ない）のみで原則の4.0基準に届かず、独立した第二の評価サイトでの数値確認もできなかった。露天風呂からの眺めは好評だが夕食バイキングへの厳しい意見も複数あり、『オールインクルーシブ』を公式に明示したプランも確認できない（90分間のアルコール飲み放題のみ）。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベル（13件）で夕食バイキングについて『味は普通で少しがっかりした』という趣旨の意見が複数確認された。公式写真ページには一部浴槽が温泉ではない旨の注記もあり、温泉目的の訴求と齟齬がある可能性がある。重大な衛生・安全上の指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "大江戸温泉物語 天草ホテル亀屋 口コミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-11782947" },
+        { "type": "other", "title": "大江戸温泉物語 天草ホテル亀屋 - icotto", "url": "https://icotto.jp/hotels/7878" },
+        { "type": "booking_site", "title": "大江戸温泉物語 天草ホテル亀屋 プラン一覧 - yado.knt.co.jp", "url": "https://yado.knt.co.jp/planlist/S430193/?fgid=a4199" },
+        { "type": "other", "title": "大江戸温泉物語 天草ホテル亀屋 施設情報 - gltjp", "url": "https://www.gltjp.com/ja/directory/item/18977/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "フォートラベル3.32（13件）のみで原則の4.0基準・独立2情報源いずれも満たせない。夕食バイキングへの厳しい意見も複数確認された。90分間のアルコール飲み放題プランはあるが、食事・飲料・館内施設利用を包括する『オールインクルーシブ』の公式明記はなく、ユーザー指定の必須条件を満たさないため不採用とした。"
+    }
+  ]
+}

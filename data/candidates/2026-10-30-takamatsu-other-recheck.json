@@ -1,0 +1,176 @@
+{
+  "cycle_date": "2026-10-30",
+  "theme": "その他（香川県高松市）",
+  "season_rationale": "本カテゴリ『その他（期間限定イベント・アフタヌーンティー等）』の再調査枠。本日1回目の静岡県静岡市サイクルが該当なしだったため、別地域として香川県高松市を調査した。10月下旬〜11月上旬の高松市は、栗林公園の紅葉シーズン入口と夜間ライトアップ、高松シンボルタワーの冬季イルミネーション開始時期、サンポート高松のクリスマスマーケット（前年初開催）など、複数の『期間限定』候補が重なる時期にあたる。一方でいずれも2026年分の公式な開催確定情報・数値レビューへの到達が難しく、季節性と情報鮮度の両立が課題となる時期であることが分かった。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-30-shizuoka-city-other", "region": "静岡県静岡市", "category": "その他（本日1回目・該当なし）" },
+    { "post_id": "2026-10-29-okayama-city-other", "region": "岡山県岡山市", "category": "その他" },
+    { "post_id": "2026-10-28-niigata-city-other", "region": "新潟県新潟市", "category": "その他" },
+    { "post_id": "2026-10-27-kumamoto-city-gentei-event", "region": "熊本県熊本市", "category": "その他" },
+    { "post_id": "2026-10-26-kyoto-afternoontea-gentei", "region": "京都府京都市東山区", "category": "その他" },
+    { "post_id": "2026-10-25-naha-gentei-event", "region": "沖縄県那覇市", "category": "その他" },
+    { "post_id": "2026-10-24-sapporo-gentei-event", "region": "北海道札幌市中央区", "category": "その他" },
+    { "post_id": "2026-10-23-kobe-afternoontea-gentei", "region": "兵庫県神戸市中央区", "category": "その他" },
+    { "post_id": "2026-10-22-osaka-afternoon-experience", "region": "大阪府大阪市", "category": "その他" },
+    { "post_id": "2026-10-21-hiroshima-afternoontea", "region": "広島県広島市中区・南区", "category": "その他" },
+    { "post_id": "2026-10-20-sendai-gentei-event", "region": "宮城県仙台市", "category": "その他" },
+    { "post_id": "2026-10-22-shikoku-mannaka-mizukaze-recheck", "region": "香川県仲多度郡多度津町〜徳島県三好市", "category": "列車・船（県内だが別市・別カテゴリ）" }
+  ],
+  "duplication_note": "data/candidates・captions配下の既存ファイル全件（1ヶ月以上前のものを含む）を『高松』『香川』『takamatsu』『kagawa』『栗林公園』『シンボルタワー』『サンポート』『石清尾』で横断検索した結果、香川県に触れたファイルは瀬戸内クルーズ（広島・愛媛・香川周辺想定の周遊ルート）、屋久島・小豆島リゾート記事中の言及、四国まんなか千年ものがたり（多度津〜大歩危・土讃線、列車・船カテゴリ）など複数あるが、いずれも高松市内かつカテゴリ『その他』の候補ではなく重複にはあたらない。",
+  "research_limitation_note": "本セッションでは、(1) WebFetchツールがこの環境のネットワーク許可設定の範囲外のためtripadvisor.jp・jalan.net・pref.kagawa.lg.jp・symboltower.comなど複数の公式/レビューサイトの本文を直接取得できず（getaddrinfo ENOTFOUNDエラー）、(2) WebSearchの検索結果もスニペット情報に留まり、各候補について独立2情報源かつ主要レビューサイト（Googleマップ・じゃらん・トリップアドバイザー等）での4.0以上（5点満点換算）の数値評価、および2026年分の開催日程の公式確定情報に到達することができなかった。推測で数値や開催有無を記載することは禁止されているため、本サイクルで調査した3件すべてをrejectedとし、selected候補なし・captionsファイルの作成なしとした。",
+  "candidates": [
+    {
+      "id": "2026-10-30-ritsurin-koen-autumn-lightup",
+      "name": "栗林公園 秋の夜間ライトアップ（紅葉・和船運航）",
+      "region": "香川県高松市栗林町1-20-16",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "renewal_or_news": "栗林公園は江戸時代初期に造られた回遊式大名庭園で、国の特別名勝に指定されている文化財庭園としては国内最大規模（香川県公式資料で確認）。複数の観光情報サイト（weathernews.jp、kagawan.com）によれば、2026年の秋の夜間ライトアップは11月20日〜29日、入園は20時30分まで、期間中は夜間も和船を運航する予定とされている。ただしこれらは第三者の観光メディア掲載であり、栗林公園観光事務所・香川県の公式サイトでの告知そのものは本セッションでは確認できなかった（weathernews.jp自身も『来シーズンの情報は2026年9月に掲載予定』としていた旨の表記があり、今回確認できた日程がその後の最終版かは未確定）。",
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "通常期の入園料は大人410円・小人170円という香川県公式資料の記載が確認できた一方、観光メディアでは大人500円・子ども170円との表記もあり、ライトアップ期間中の料金として最新かつ一致した数字を本セッションでは確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "江戸時代初期の回遊式大名庭園で、フランスのミシュラングリーンガイドジャポンで最高評価の三つ星、Tripadvisor『日本人に人気の公園ランキング』でも1位に選ばれた実績を持つ日本庭園。紅葉期の夜間ライトアップでは、南湖・潺湲池に映る紅葉と松を背景に、夜の和船運航という珍しい体験ができる点が独自性。",
+      "target_audience": ["夫婦", "カップル", "一人旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 16,
+        "photogenic": 14,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 2
+      },
+      "score": 43,
+      "recommendation_reason": "庭園自体の格（ミシュラン三つ星、Tripadvisor人気公園ランキング1位）、紅葉と夜間和船というフォトジェニックな独自体験は評価できるが、(1)このライトアップ自体に対するGoogleマップ・じゃらん・トリップアドバイザー等の主要口コミサイトの数値評価（独立2情報源・4.0以上）を本セッションでは確認できず、(2)2026年11月20日〜29日という日程も第三者観光メディア止まりで栗林公園・香川県の公式告知を直接確認できていないため、原則6・原則4を満たすと判断できず不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "紅葉シーズンの栗林公園は『年間最大級の混雑が発生する』という観光メディアの注意喚起が複数見られたが、ライトアップ自体に対する重大な否定的指摘は本セッションの検索範囲では見当たらなかった。ただしWebFetchでの本文取得・独立2情報源での数値評価確認ができていないため、口コミの網羅的な確認には至っていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "香川県公式資料 - 栗林公園（特別名勝指定・入園料等）",
+          "url": "https://www.pref.kagawa.lg.jp/documents/35549/27_ritsurin.pdf"
+        },
+        {
+          "type": "other",
+          "title": "特別名勝 栗林公園 紅葉・ライトアップ情報（2026年11月20日〜29日） - ウェザーニュース",
+          "url": "https://weathernews.jp/koyo/spot/27214/"
+        },
+        {
+          "type": "other",
+          "title": "栗林公園 秋のライトアップ紹介 - kagawan.com",
+          "url": "https://kagawan.com/?p=11545"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "ライトアップ自体に対する主要口コミサイトの数値評価（独立2情報源・4.0以上）を本セッションでは確認できず、2026年の開催日程も第三者観光メディア止まりで公式確定情報に到達できなかったため、原則6・原則4を満たすと判断できず不採用とした。"
+    },
+    {
+      "id": "2026-10-30-takamatsu-symbol-tower-illumination",
+      "name": "高松シンボルタワー ウィンターイルミネーション（サンポートエリア）",
+      "region": "香川県高松市サンポート（高松シンボルタワー・マリタイムプラザ高松周辺）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "renewal_or_news": "2019年初開催、コロナ禍で中断後2023年に4年ぶりに復活し、以後毎年冬季に開催されている無料イルミネーション。前年（2025年）は2025年10月29日〜2026年3月22日・17:30〜23:00、クリスマスツリー設置は11月14日〜12月25日という日程で、約20万球のLEDでサンポートエリアを装飾したとされる（kagawan.com、ジョルダン系サイトによる）。しかし本セッションの検索では2026年（今シーズン）分の開催期間・点灯式日程の告知を確認することができなかった。",
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "入場無料（施設周辺・街路樹イルミネーションの観覧）。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "瀬戸内海を望むサンポート高松エリア一帯を、タワー本体・街路樹・フォトスポットを含め約20万球のLEDで彩る、高松市内で無料で楽しめる冬季イルミネーション。2026年に初開催から複数年を経て定着している点が特徴。",
+      "target_audience": ["カップル", "家族", "夫婦", "友人"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 10,
+        "photogenic": 9,
+        "value_for_price": 8,
+        "sns_buzz": 4,
+        "access_and_freshness": 0
+      },
+      "score": 31,
+      "recommendation_reason": "無料で楽しめる規模の大きいイルミネーションという価値、複数年続く定着したイベントという点は評価できるが、本セッションの検索では確認できた日程が前年（2025年10月29日〜2026年3月22日）のものに留まり、2026年シーズン（今回調査時点）の開催期間・点灯式の公式告知を確認できなかった。また主要口コミサイトでの数値評価（独立2情報源・4.0以上）にも到達できなかったため不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "イルミネーション自体への重大な否定的指摘は本セッションの検索範囲では見当たらなかったが、2026年シーズンの開催告知・口コミ数値の確認自体ができておらず、十分な検証には至っていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "高松シンボルタワー イルミネーション情報（2025年10月29日〜2026年3月22日） - ジョルダン",
+          "url": "https://sp.jorudan.co.jp/illumi/spot_146709.html"
+        },
+        {
+          "type": "other",
+          "title": "高松シンボルタワー ウィンターイルミネーション紹介 - kagawan.com",
+          "url": "https://kagawan.com/symboltower-illumination/"
+        },
+        {
+          "type": "press",
+          "title": "高松シンボルタワー ウィンターイルミネーション2024 プレスリリース第一弾",
+          "url": "https://symboltower.com/archives/003/202410/241007高松シンボルタワー ウィンターイルミネーション2024 プレスリリース第一弾.pdf"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "2026年シーズンの開催期間・点灯式の公式告知を本セッションでは確認できず（前年分の情報のみ）、主要口コミサイトでの数値評価（独立2情報源・4.0以上）にも到達できなかったため、原則4・原則6を満たすと判断できず不採用とした。"
+    },
+    {
+      "id": "2026-10-30-kagawa-christmas-market-sunport",
+      "name": "KAGAWA Christmas Market（サンポート高松）",
+      "region": "香川県高松市サンポート（サンポート高松 多目的広場・歩行者専用道路）",
+      "category": "その他",
+      "is_hidden_gem": true,
+      "renewal_or_news": "2025年12月12日〜25日、サンポート高松で香川県などの実行委員会主催により初開催された冬季イベント。木製のヒュッテ（小屋）、高さ10mのクリスマスツリー、スケートリンクなどが設けられ、香川県公式の知事ブログでも『香川を代表する冬の新たな観光交流イベント』として紹介されていた。ただし本セッションの検索では2026年分（今シーズン）の開催有無・日程の告知を確認することができず、初開催から1年目のイベントであるため継続開催も未確定。",
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "2025年開催時の入場料・出店料等の詳細は本セッションの検索では確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "四国では珍しい本格的なクリスマスマーケット形式（木製ヒュッテ・大型クリスマスツリー・スケートリンク）を、瀬戸内海を望むサンポート高松で展開する点が独自性。香川県主導の新規観光企画という点でも話題性がある。",
+      "target_audience": ["家族", "カップル", "友人", "女子旅"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 12,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 6,
+        "access_and_freshness": 0
+      },
+      "score": 33,
+      "recommendation_reason": "四国では珍しい本格クリスマスマーケットという独自性、瀬戸内海を望む会場という写真映えは評価できるが、2025年の初開催情報に留まり、2026年シーズンの開催有無・日程を本セッションでは確認できなかった。初開催1年目のイベントで継続性も未確定なため、口コミ数値評価も存在せず、原則4・原則6を満たすと判断できず不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2025年の初開催自体に対する否定的な口コミ・報道は本セッションの検索範囲では見当たらなかったが、開催実績が1回のみで、2026年の開催有無自体が確認できていないため、十分な検証には至っていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "香川県知事ブログ - KAGAWA Christmas Market 2025開催報告",
+          "url": "https://www.pref.kagawa.lg.jp/kocho/chijipage/chijiblog/2025/20251212.html"
+        },
+        {
+          "type": "press",
+          "title": "KAGAWA Christmas Market 2025（サンポート高松） プレスリリース",
+          "url": "https://san-tatsu.jp/pressrelease/559231/"
+        },
+        {
+          "type": "press",
+          "title": "KAGAWA Christmas Market 2025 開催報道 - KSB瀬戸内海放送",
+          "url": "https://news.ksb.co.jp/article/16038489"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "2026年シーズンの開催有無・日程を本セッションでは確認できず（2025年の初開催情報のみ）、継続開催も未確定であり、口コミ数値評価も存在しないため、原則4・原則6を満たすと判断できず不採用とした。"
+    }
+  ]
+}

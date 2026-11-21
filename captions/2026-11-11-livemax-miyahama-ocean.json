@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-11-livemax-miyahama-ocean",
+  "candidate_id": "2026-11-11-livemax-miyahama-ocean",
+  "region": "広島県廿日市市宮浜温泉（宮島を対岸に望む、宮島に最も近い温泉地）",
+  "category": "サウナ",
+  "facility_overview": "2019年開業、全50室がテーマ別の『オーシャンビュー×天然温泉掛け流し露天風呂』を備える宮浜温泉のホテル。最上階のバーデゾーンには2025年2月にセルフロウリュウ式（15分ごとの自動ロウリュウ）へ改装されたサウナがあり、男女大浴場には同時期に水風呂も新設された。大浴場側には宮島を正面に望む寝湯の展望露天風呂、夕日・夜景が楽しめる展望露天岩風呂、炭酸泉の展望露天風呂という3種の露天風呂があり、サウナ→水風呂→宮島を望む外気浴という流れが楽しめる。",
+  "recommendation_reasons": [
+    "jcation4.4（314件）・ニフティ温泉4.0（14件）という独立2情報源で主要レビュー4.0以上を確認済み",
+    "『宮島に最も近い温泉地』という立地を活かした、宮島を望む3種の展望露天風呂＋最上階の自動ロウリュウサウナという組み合わせ",
+    "2025年2月に水風呂新設・サウナのセルフロウリュウ化という直近のリニューアル実績があり、情報が新しい",
+    "全室に天然温泉掛け流し露天風呂が付くため、サウナ後も客室でそのまま外気浴・温浴を続けられる"
+  ],
+  "evaluation_basis": "Discoveryレーンでの100点満点評価でscore75点（review_rating21・review_reliability11・unique_experience_score15・photogenic12・value_for_price7・sns_buzz4・access_and_freshness5）。jcation・ニフティ温泉・Reluxの3情報源を確認し、主要2情報源（jcation4.4、ニフティ温泉4.0）が4.0以上であることを確認。negative_review_checkは実施済みで、disqualifying_issues_foundはfalse。なお本スコアは探索レーンの編集判断であり、Notion「贅沢旅リサーチ帖」登録後は制作可否の判断に再利用しない。",
+  "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "絶景好き"],
+  "why_now": "11月中旬は朝晩の気温が下がり、サウナ発汗後の外気浴と肌寒さのコントラストが心地よくなる季節。日没も早まるため、宮島を望む展望露天風呂での夕景・夜景と『ととのう』体験を組み合わせやすい時期。2025年2月のサウナ・水風呂リニューアルから間もないタイミングでもあり、最新の設備で紹介できる。",
+  "price_note": "1泊2食付きプランの参考価格（2026年7月〜2027年3月設定分、大人1名）：露天風呂付『オーシャンスイート』19,500円〜51,500円、『和美麗』13,000円〜44,000円、『洋モダン洋室』11,000円〜41,000円。検索日・対象日・プラン・部屋タイプにより変動するため、制作直前に公式・予約サイトで再確認が必要。",
+  "access_note": "JR山陽本線 大野浦駅から車で約5分。宮島・厳島神社へは宮島口・宮島桟橋経由でのアクセスとなるため、観光と組み合わせる場合は宮島口方面への移動時間を考慮する必要がある。",
+  "captions": {
+    "instagram": "宮島を眺めながら、ととのう。\n\n広島・宮浜温泉にある『リブマックスリゾート宮浜温泉Ocean』。\n全50室に天然温泉の掛け流し露天風呂が付いていて、最上階には15分ごとに自動ロウリュウが入るサウナも。\n\nサウナで温まったら、宮島を正面に望む展望露天風呂で外気浴。夕方は夕日、夜は瀬戸内の夜景がゆっくり楽しめます。\n\n2025年2月には水風呂も新設されたばかり。宮島観光とセットで、サウナ×絶景の一泊を。\n\n※価格・営業時間は変動するため、ご予約前に公式・予約サイトでご確認ください。",
+    "tiktok": "宮島が見えるサウナがある宿、知ってる？\n\n宮浜温泉『リブマックスリゾート宮浜温泉Ocean』\n→ 全室 天然温泉露天風呂付き\n→ 最上階に自動ロウリュウサウナ\n→ 水風呂→露天風呂で宮島を見ながら外気浴\n\n2025年にサウナと水風呂がリニューアルしたばかりで設備も新しめ。\n\n広島旅行のプランに、サウナ×絶景の一軒どうぞ。\n（価格・設備は変わることがあるので予約前に公式確認してね）"
+  },
+  "hashtags": ["#宮島", "#宮浜温泉", "#広島旅行", "#サウナ", "#サ旅", "#絶景サウナ", "#露天風呂", "#ロウリュ", "#広島ホテル", "#瀬戸内旅行"],
+  "sources": [
+    { "type": "booking_site", "title": "リブマックスリゾート宮浜温泉 Ocean - jcation（口コミ4.4／314件）", "url": "https://jcation.com/hotel/detail-15704/" },
+    { "type": "other", "title": "リブマックスリゾート宮浜温泉 Oceanの温泉情報・口コミ - ニフティ温泉", "url": "https://onsen.nifty.com/miyoshi-onsen/onsen016579/" },
+    { "type": "booking_site", "title": "リブマックスリゾート宮浜温泉Ocean レビュー - Relux", "url": "https://rlx.jp/24737/review/" },
+    { "type": "booking_site", "title": "リブマックスリゾート宮浜温泉Ocean 施設情報・アクセス - じゃらん", "url": "https://www.jalan.net/yad336333/" }
+  ],
+  "created_date": "2026-11-11",
+  "booking_links": [
+    {
+      "site": "じゃらんnet",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7BR1RM+14CS+6C9LD&a8sns=tiktok"
+    },
+    {
+      "site": "楽天トラベル",
+      "url": "https://rpx.a8.net/svt/ejp?a8mat=4BEMLR+47TK1E+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26102273548_4BEMLR_47TK1E_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F"
+    },
+    {
+      "site": "Yahoo!トラベル",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7H3Y7M+4ZCO+65U41&a8sns=tiktok"
+    },
+    {
+      "site": "一休.com",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4BEMLR+7MGUNM+1OK+60H7N&a8sns=tiktok"
+    }
+  ]
+}

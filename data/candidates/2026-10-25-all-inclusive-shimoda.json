@@ -1,0 +1,191 @@
+{
+  "cycle_date": "2026-10-25",
+  "theme": "カテゴリ『オールインクルーシブ』×地域『静岡県下田（南伊豆・下賀茂含む）』",
+  "season_rationale": "11月は下田・南伊豆エリアが紅葉・年末年始前の宿泊予約検討期に入るタイミング。直前の2026-10-23サイクル（長崎県雲仙・島原エリア調査）で、重複回避の観点からユーザー指定地域候補のうち『静岡県下田・南伊豆エリア』は見送り、既存データ上は『雲仙』『島原』『下田』『南伊豆』『Shimoda』『Minami-Izu』を含む候補が一件も存在しないことのみ確認済み（＝下田自体の一次調査はまだ未実施）だった。本サイクルではユーザー指定どおり『静岡県下田』地域を対象に、オールインクルーシブ（食事・ドリンク・アクティビティ込みの料金体系）を公式に掲げる施設の有無を一次情報で直接調査した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-23-all-inclusive-unzen-shimabara", "region": "長崎県雲仙・島原エリア", "category": "オールインクルーシブ", "note": "当時のduplication_noteで『雲仙』『島原』『下田』『南伊豆』『Shimoda』『Minami-Izu』を含む既存候補が0件であることを確認済み。下田・南伊豆エリア自体の一次調査は未実施のまま、地理的近接による多様性確保を理由に雲仙・島原エリアを選択した経緯がある。" },
+    { "post_id": "2026-10-23-all-inclusive-amakusa", "region": "熊本県天草エリア", "category": "オールインクルーシブ", "note": "別地域（九州）のオールインクルーシブ調査サイクル。『オールインクルーシブ』該当施設なしで終了。下田とは重複しない。" },
+    { "post_id": "2026-10-24-tomamu-all-inclusive", "region": "北海道勇払郡占冠村", "category": "オールインクルーシブ", "note": "別地域（北海道トマム）のオールインクルーシブ重複確認サイクル。既存selected候補（クラブメッド北海道トマム）の重複記録のみ。下田とは重複しない。" },
+    { "post_id": "2026-10-24-the-royal-express-izu", "region": "静岡県（伊豆急下田駅発着の観光列車）", "category": "列車・船", "note": "伊豆急下田駅を発着拠点とする観光列車『THE ROYAL EXPRESS』の調査。カテゴリが『列車・船』であり、宿泊施設のオールインクルーシブ調査とは対象が異なるため重複しない。" },
+    { "post_id": "2026-10-22-mori-premier-izu", "region": "静岡県伊東市", "category": "グルメ旅館（captions確認）", "note": "同じ伊豆半島内だが下田市ではなく伊東市の施設で、カテゴリも『オールインクルーシブ』ではないためdecision重複対象外。地理的近接のみ記録として確認。" }
+  ],
+  "duplication_note": "data/candidates・captions配下の既存全件をファイル名・内容で確認した結果、静岡県下田市・南伊豆町（下賀茂含む）を対象としたオールインクルーシブ候補はdecision: selected/shortlisted/rejectedのいずれにおいても一件も存在しないことを確認した（重複なし）。一方で、本サイクルの一次調査（WebSearch、2026-10-25実施）でも、下田市・南伊豆町内で『食事・ドリンク・アクティビティが宿泊料金に包括的に含まれる』という意味での真のオールインクルーシブを公式に掲げる施設は確認できなかった。これは2026-10-23サイクルで熊本県天草エリアを調査した際の結論（該当施設なし）と同様の結果である。下田温泉 黒船ホテルが予約サイト上のプラン名で『オールインクルーシブ』という語を使用していたため最有力候補として詳細調査したが、これは夏季限定・時間帯別のディナーブッフェ＋飲み放題パッケージであり、昼食やアクティビティを含む通年のオールインクルーシブ料金体系ではないため、カテゴリ要件を満たさないと判断した。",
+  "other_candidates_considered": [
+    "下田プリンスホテル（公式サイト・プレスリリースを確認したが、ガーデンプール期間限定営業や個別プランの案内はあるものの、オールインクルーシブと明示する料金プランは確認できず対象外）",
+    "休暇村南伊豆（公式プレスリリース・旅行サイトを確認したが、名物ビュッフェや体験プログラムの単発紹介はあるものの、食事・ドリンク・アクティビティ込みの料金体系としての『オールインクルーシブ』表記は確認できず対象外）",
+    "源泉一途 南伊豆（旧 花のおもてなし南楽、2026年6月1日下賀茂でリブランドオープン）（じゃらん・プレスリリースを確認したが、1泊2食プラン中心で飲み放題・オールインクルーシブ表記は確認できず対象外。開業直後のためレビュー件数も不足）",
+    "下田大和館（詳細調査のうえ候補として記録。下記candidates参照）",
+    "リブマックスリゾート伊豆下田（詳細調査のうえ候補として記録。下記candidates参照）"
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-25-kurofune-hotel-shimoda",
+      "name": "下田温泉 黒船ホテル",
+      "region": "静岡県下田市",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル（お客さまの声）",
+          "score": 4.21,
+          "scale": 5,
+          "review_count": 2178,
+          "checked_date": "2026-10-25",
+          "url": "https://travel.rakuten.co.jp/onsen/izu/OK00583.html"
+        },
+        {
+          "source": "ニフティ温泉",
+          "score": 3.7,
+          "scale": 5,
+          "review_count": 12,
+          "checked_date": "2026-10-25",
+          "url": "https://onsen.nifty.com/shimoda-onsen/onsen002760/kuchikomi/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "通常の朝夕食付きプランが中心（具体的な料金帯は予約サイトのプランごとに変動し、本調査では確定額を特定できず）。夏季限定『早割45』等のプランでは、夕食は和洋中50種以上の『伊豆グルメバイキング』＋アルコールを含む飲み放題（90分制）、日中はラウンジ・湯上り処でソフトドリンク・生ビール・ワイン・軽食（パンケーキ等）が時間帯ごとに無料提供され、卓球も無料だが、昼食やその他アクティビティを含む通年のオールインクルーシブ料金体系ではない。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "下田港・遊覧船乗り場に近接する全室オーシャンビューの温泉旅館。2022年3月に客室を全面リニューアルし、下田港を見下ろす露天風呂付き客室やシャワーブースを新設。大浴場・露天風呂・サウナ・夏季限定ドームプールを備える。夏季限定プランでは夕食ビュッフェ＋飲み放題＋日中のラウンジ軽食・ドリンクという、予約サイト上で『オールインクルーシブ』と称される一時的なパッケージを提供しているが、通年・全食事・全アクティビティを包括する料金体系ではない。",
+      "renewal_or_news": "2022年3月に客室を全面リニューアル。",
+      "target_audience": ["カップル", "家族", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 12,
+        "unique_experience_score": 11,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 66,
+      "recommendation_reason": "予約サイト上のプラン名に『オールインクルーシブ』の語が使われている点で最有力候補として詳細調査したが、これは夏季限定・時間帯別のディナーブッフェ＋飲み放題パッケージであり、昼食・館内アクティビティを含む通年のオールインクルーシブ料金体系ではないため、カテゴリ『オールインクルーシブ』の定義を満たさないと判断した。評価自体は楽天トラベル4.21（2,178件）と採用ライン（4.0）を超えるが、カテゴリ非適合により不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ニフティ温泉の口コミ（2021年11月投稿、やや古い）で、日帰り温泉料金への割高感（『広いけど、¥1300の価値はないかな』）や館内の雰囲気を暗いと感じる声を確認。icottoの2025年8月投稿（2.0点）では『色々手直しが必要なホテル』という厳しい評価も確認した。一方で室内露天風呂や大浴場からの眺望を評価する声も多い。清潔感・安全性に関わる重大な複数独立指摘ではないが、施設の経年・雰囲気面の指摘は留意点として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "下田温泉 黒船ホテル 夏休み限定プラン『早割45：サマーグルメバイキング&飲み放題のオールインクルーシブ』 - 489ban.net", "url": "https://reserve.489ban.net/client/kurofune/0/detail/1284802" },
+        { "type": "review_site", "title": "下田温泉 黒船ホテルの口コミ - ニフティ温泉", "url": "https://onsen.nifty.com/shimoda-onsen/onsen002760/kuchikomi/" },
+        { "type": "other", "title": "【下田温泉の人気ホテル】「下田温泉 黒船ホテル」は絶景と海の幸に満たされる宿 - All About", "url": "https://news.allabout.co.jp/articles/o/120420/" },
+        { "type": "review_site", "title": "下田温泉 黒船ホテル 口コミ・評価比較（楽天トラベル集計） - gpoint", "url": "https://travel.gpoint.co.jp/daredoko/21b023-e000/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "カテゴリ『オールインクルーシブ』の定義（食事・ドリンク・アクティビティが宿泊料金に包括的に含まれる料金体系）を満たさない。確認できたのは夏季限定・時間帯別のディナーブッフェ＋飲み放題パッケージのみで、通年のオールインクルーシブ料金プランではないため、カテゴリ非適合として不採用。"
+    },
+    {
+      "id": "2026-10-25-shimoda-yamatokan",
+      "name": "下田温泉 下田大和館",
+      "region": "静岡県下田市",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "ニフティ温泉",
+          "score": 3.4,
+          "scale": 5,
+          "review_count": 8,
+          "checked_date": "2026-10-25",
+          "url": "https://onsen.nifty.com/shimoda-onsen/onsen005312/kuchikomi/"
+        },
+        {
+          "source": "cocolocala（直近口コミ）",
+          "score": 5.0,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-25",
+          "url": "https://www.cocolocala.jp/hotels/15043"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "朝夕食付きプランが中心（メインを鮑・伊勢海老・金目鯛・牛から選べるプラン等）。食事を含まない『欠食プラン』も用意されているが、ドリンク・アクティビティ込みのオールインクルーシブ料金プランは確認できなかった。2泊目以降は1泊3,000円引きの連泊割引あり。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "下田港を見下ろす高台に立つ温泉旅館。夕食は下田の名物金目鯛をはじめ伊勢海老・鮑など新鮮魚介を刺身・炭火焼で楽しめる会席料理が特徴で、山の上の露天風呂からの眺望も評価されている。ただし提供プランは朝夕食付き中心で、ドリンク・アクティビティ込みのオールインクルーシブ料金体系ではないことを確認した。",
+      "target_audience": ["カップル", "家族", "記念日"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 5,
+        "unique_experience_score": 10,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 50,
+      "recommendation_reason": "眺望・食事（金目鯛等の新鮮魚介）への好意的な評価はあるが、口コミ件数が極端に少なく（ニフティ温泉8件・2012年投稿と古い、cocolocala1件のみ）信頼性に乏しい。またオールインクルーシブ料金プランは確認できず、通常の朝夕食付き／欠食プラン中心であるため、カテゴリ『オールインクルーシブ』の対象外。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "部屋の古さ、夕食量が少ないという指摘を確認。大浴場が最上階にありエレベーターが一階下までしか届かないという不便さの指摘もあった。清潔感・安全性に関わる重大な指摘ではない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "下田温泉 下田大和館の口コミ - ニフティ温泉", "url": "https://onsen.nifty.com/shimoda-onsen/onsen005312/kuchikomi/" },
+        { "type": "other", "title": "【下田温泉の人気ホテル】「下田温泉 下田大和館」が選ばれる理由 - All About", "url": "https://news.allabout.co.jp/articles/o/119785/" },
+        { "type": "booking_site", "title": "下田大和館 プラン一覧 - 楽天トラベル", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/8265" },
+        { "type": "review_site", "title": "下田大和館 最新口コミ - cocolocala", "url": "https://www.cocolocala.jp/hotels/15043" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "ドリンク・アクティビティ込みのオールインクルーシブ料金体系を確認できず、通常の食事付き宿泊プラン中心のため対象外。加えて口コミ件数が少なく信頼性に乏しい。"
+    },
+    {
+      "id": "2026-10-25-livemax-resort-izu-shimoda",
+      "name": "リブマックスリゾート伊豆下田",
+      "region": "静岡県下田市",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Expedia",
+          "score": 7.6,
+          "scale": 10,
+          "review_count": 3,
+          "checked_date": "2026-10-25",
+          "url": "https://www.expedia.co.jp/go/hotel/info/8714738"
+        },
+        {
+          "source": "ニフティ温泉",
+          "score": 3.7,
+          "scale": 5,
+          "review_count": 3,
+          "checked_date": "2026-10-25",
+          "url": "https://onsen.nifty.com/shimoda-onsen/onsen011951/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "食事は『伊豆の旬味覚ビュッフェ』等の選択式プラン。屋外プール（夏季7〜9月限定）や日帰り温泉の提供はあるが、宿泊料金にドリンク・アクティビティが包括的に含まれるオールインクルーシブ料金プランは確認できなかった。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全室に露天風呂が設置されたコンドミニアム型リゾート。ペット同伴可能な部屋もあり、夏季限定（7〜9月）の屋外オーシャンビュープール、宿泊客以外も利用できる日帰り温泉大浴場を備える。ただし食事はビュッフェ選択制プランが中心で、プール利用期間も限定的であり、オールインクルーシブ料金体系ではない。",
+      "target_audience": ["家族", "カップル"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 4,
+        "unique_experience_score": 9,
+        "photogenic": 9,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 44,
+      "recommendation_reason": "全室露天風呂付き客室・夏季屋外プールという特徴はあるが、評価はExpedia7.6/10・ニフティ温泉3.7/5いずれも口コミ件数が3件のみと極端に少なく信頼性に乏しい。プール営業も7〜9月限定で、食事・ドリンク・アクティビティ込みの真のオールインクルーシブ料金体系ではないため対象外。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "建物の古さ、シャワーの水量・温度への不満、大浴場（女湯）が小さいという指摘を確認。客室露天風呂は2人だと狭いという指摘もあった。清潔感・安全性に関わる重大な指摘ではない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "リブマックスリゾート伊豆下田 評価・レビュー - Expedia", "url": "https://www.expedia.co.jp/go/hotel/info/8714738" },
+        { "type": "review_site", "title": "リブマックスリゾート伊豆下田の口コミ - ニフティ温泉", "url": "https://onsen.nifty.com/shimoda-onsen/onsen011951/" },
+        { "type": "other", "title": "リブマックスリゾート伊豆下田 施設紹介 - asoview", "url": "https://www.asoview.com/note/1171/" },
+        { "type": "review_site", "title": "リブマックスリゾート伊豆下田 口コミ - rlx.jp", "url": "https://rlx.jp/161930/review/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数が極端に少なく（各3件）信頼性に乏しい上、夏季限定プール・ビュッフェ選択制であり、食事・ドリンク・アクティビティ込みの真のオールインクルーシブ料金体系を確認できなかったため対象外。"
+    }
+  ]
+}

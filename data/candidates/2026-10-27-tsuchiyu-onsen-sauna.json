@@ -1,0 +1,223 @@
+{
+  "cycle_date": "2026-10-27",
+  "theme": "サウナ（福島県福島市土湯温泉）",
+  "season_rationale": "10月下旬は土湯温泉のある吾妻連峰山麓も紅葉が進み、朝晩の冷え込みが強まり始める時期で、雪のない紅葉期ならではの静かな湯治・サウナ滞在が心地よいタイミング。本格的な積雪前、こけし細工と荒川の渓流景観を楽しみながら湯めぐりできる今が訪問の好機。既存data/candidates・captionsを横断的に確認した結果、福島県内ではいわき市いわき湯本温泉（2026-10-17）がカテゴリ『サウナ』で既出だが、土湯温泉（福島市）は地域として未出だったため、今回新たに調査対象として選定した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-26-sakaya-ryokan-nozawa", "region": "長野県下高井郡野沢温泉村", "category": "サウナ" },
+    { "post_id": "2026-10-25-togatta-onsen-sauna", "region": "宮城県刈田郡蔵王町遠刈田温泉", "category": "サウナ" },
+    { "post_id": "2026-10-25-isawa-onsen-sauna-recheck", "region": "山梨県笛吹市石和温泉", "category": "サウナ" },
+    { "post_id": "2026-10-24-toyama-tateyama-sauna", "region": "富山県富山市・黒部市（立山・宇奈月）", "category": "サウナ" },
+    { "post_id": "2026-10-24-misasa-onsen-sauna", "region": "鳥取県東伯郡三朝町", "category": "サウナ" },
+    { "post_id": "2026-10-23-atami-nasu-sauna-recheck2", "region": "静岡県熱海温泉・栃木県那須温泉", "category": "サウナ" },
+    { "post_id": "2026-10-23-beppu-sauna", "region": "大分県別府市（別府温泉）", "category": "サウナ" },
+    { "post_id": "2026-10-22-tokachigawa-onsen-sauna", "region": "北海道河東郡音更町十勝川温泉", "category": "サウナ" },
+    { "post_id": "2026-10-21-sounkyo-sauna", "region": "北海道上川郡上川町層雲峡温泉", "category": "サウナ" },
+    { "post_id": "2026-10-20-izu-ochiairo-sauna", "region": "静岡県伊豆市湯ケ島", "category": "サウナ" },
+    { "post_id": "2026-10-19-jozankei-sauna", "region": "北海道札幌市南区定山渓温泉", "category": "サウナ" },
+    { "post_id": "2026-10-18-isawa-onsen-sauna", "region": "山梨県笛吹市石和温泉", "category": "サウナ" },
+    { "post_id": "2026-10-17-tsukioka-sauna", "region": "新潟県新発田市月岡温泉", "category": "サウナ" },
+    { "post_id": "2026-10-17-iwaki-yumoto-sauna", "region": "福島県いわき市いわき湯本温泉", "category": "サウナ" },
+    { "post_id": "2026-09-22-tokachi-sauna", "region": "北海道河東郡音更町十勝川温泉", "category": "サウナ" },
+    { "post_id": "2026-09-18-gunma-sauna", "region": "群馬県吾妻郡中之条町（四万温泉）ほか", "category": "サウナ" },
+    { "post_id": "2026-09-18-karuizawa-sauna", "region": "長野県北佐久郡軽井沢町・茅野市", "category": "サウナ" },
+    { "post_id": "2026-09-14-sauna", "region": "山梨県南都留郡山中湖村", "category": "サウナ" }
+  ],
+  "duplication_note": "既存のdata/candidates・captions全件（1ヶ月以上前のものを含む）を『土湯』『つちゆ』『tsuchiyu』で横断検索したが、該当する候補・制作物は見つからなかった。同じ福島県内では2026-10-17にいわき市いわき湯本温泉がサウナカテゴリで候補化済みだが、土湯温泉（福島市・吾妻連峰山麓）は地理的に離れたエリアであり重複にはあたらない。他に調査済みのサウナ地域（野沢・立山宇奈月・三朝・熱海那須・別府・十勝川温泉・層雲峡・伊豆・定山渓・月岡・いわき湯本・群馬四万/水上・山中湖・軽井沢/茅野・遠刈田・石和）もいずれも土湯温泉とは異なる地域であり重複はない。",
+  "candidates": [
+    {
+      "id": "2026-10-27-sansousou-tsuchiyu",
+      "name": "水織音の宿 山水荘（旧：土湯温泉 ホテル山水荘）",
+      "region": "福島県福島市土湯温泉町（吾妻連峰山麓・荒川沿い）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "renewal_or_news": "じゃらんアワード2025「泊まって良かった宿大賞 接客・サービス部門」を受賞。",
+      "review_scores": [
+        {
+          "source": "じゃらんnet（宿泊口コミ総合評価、じゃらんアワード2025「泊まって良かった宿大賞 接客・サービス部門」受賞）",
+          "score": 4.7,
+          "scale": 5,
+          "review_count": 2089,
+          "checked_date": "2026-10-27",
+          "url": "https://www.jalan.net/yad317727/"
+        },
+        {
+          "source": "Googleクチコミ（All About記事が2026年3月時点の集計として「500件以上・平均評価4.0超え」という基準で紹介。正確な小数点以下の値は本セッションでは確認できず、下限値として4.0・500件を採用）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 500,
+          "checked_date": "2026-10-27",
+          "url": "https://news.allabout.co.jp/articles/o/112230/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "記事・予約サイト掲載の参考価格として、大人1名あたり15,950円〜37,400円という表示が複数確認できたが、プラン・部屋タイプ・時期により幅が大きい。具体的な公式料金表は本セッションでは特定できなかった。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "荒川沿いに立ち、荒川の清流と二段の滝を間近に望む展望大浴場をはじめ、野湯・太子の湯など5つの大浴場、4〜5カ所の予約制貸切風呂、露天風呂付き客室、温水屋内プールまで揃う湯めぐり自慢の宿。旅行情報サイト（icotto、jcation）の施設・設備紹介ではサウナが設備一覧に含まれているが、公式提携旅行会社（KNT）の浴場別詳細ページでは各浴場の『サウナ』欄が『無』と表記されており、サウナの設置場所・利用可否について情報源間で食い違いが見られた。本セッションでは一次情報（施設公式サイト）での確認ができなかったため、サウナの有無・仕様は制作前に必ず再確認が必要。",
+      "target_audience": ["カップル", "記念日", "夫婦", "家族", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 15,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 81,
+      "recommendation_reason": "じゃらんnet（2,089件・総合4.7、じゃらんアワード2025受賞）とGoogleクチコミ（All About記事経由で500件以上・平均4.0超えと紹介）という独立2情報源で、いずれも採用ライン4.0（原則6）を上回る高評価が確認できた。荒川の滝を望む展望大浴場や5つの大浴場・複数の貸切風呂・プールという湯めぐりの豊富さも独自性として評価し、100点満点中81点でselectedとした。一方、サウナの有無については情報源間で表記が食い違っており（icotto・jcationは有、KNTの浴場別詳細は無）、制作前に公式サイト・電話での再確認が必須である点を明記する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミサイトcocolocalaに2026年6月投稿とみられる2.0点の口コミがあり、料理・飲み物への不満（一方で朝食のオープンキッチン会場は高評価）が指摘されている。別の口コミ集計サイト（rlx.jp）の2022年投稿レビューでも部屋・風呂等の評価が2点台と低めだったが、同じ投稿内で部屋の清潔さや風呂の温度自体は好評とされていた。衛生・安全上の重大な指摘やサウナに関する否定的言及は、本セッションの検索範囲では見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "水織音の宿 山水荘 宿泊口コミ（総合4.7・2,089件、じゃらんアワード2025受賞） - じゃらんnet",
+          "url": "https://www.jalan.net/yad317727/"
+        },
+        {
+          "type": "press",
+          "title": "【福島県の人気ホテル】「土湯温泉 ホテル山水荘」は荒川の滝を望む絶景露天風呂が自慢の宿（Googleクチコミ500件以上・平均4.0超えの基準で選出） - All About",
+          "url": "https://news.allabout.co.jp/articles/o/112230/"
+        },
+        {
+          "type": "press",
+          "title": "【土湯温泉の人気ホテル】「土湯温泉 ホテル山水荘」は多彩な湯めぐりが魅力（楽天トラベル平均4.0超えの基準で選出、2026年6月時点） - All About",
+          "url": "https://news.allabout.co.jp/articles/o/120960/"
+        },
+        {
+          "type": "other",
+          "title": "土湯温泉 ホテル山水荘 施設・設備案内（サウナを含む設備一覧） - icotto",
+          "url": "https://icotto.jp/hotels/98"
+        },
+        {
+          "type": "other",
+          "title": "ホテル山水荘 施設紹介（大浴場・露天風呂・貸切風呂・サウナの記載） - jcation",
+          "url": "https://jcation.com/hotel/detail-5534/"
+        },
+        {
+          "type": "other",
+          "title": "水織音の宿 山水荘 浴場別詳細（各浴場のサウナ欄は『無』と表記、貸切風呂・プラン情報） - 近畿日本ツーリスト（yado.knt.co.jp）",
+          "url": "https://yado.knt.co.jp/st/S070015/"
+        },
+        {
+          "type": "review_site",
+          "title": "水織音の宿 山水荘 口コミ（2.0点、料理・飲み物に関する指摘、朝食は高評価） - cocolocala",
+          "url": "https://www.cocolocala.jp/hotels/564243"
+        }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-27-otomeyuri-tsuchiyu",
+      "name": "御とめ湯り",
+      "region": "福島県福島市土湯温泉町（震災後に閉館した旅館別館を改修した日帰り温泉施設）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらん観光ガイド（土湯温泉エリア内の口コミ情報。本セッションでは御とめ湯り単体の口コミページを直接確認できず、検索結果の要約情報に基づく）",
+          "score": 3.6,
+          "scale": 5,
+          "review_count": 22,
+          "checked_date": "2026-10-27",
+          "url": "https://www.jalan.net/kankou/sta_006562/g2_e10/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "日帰り入浴 平日1,000円（会員）/1,500円（非会員、会員登録は無料）。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "震災後に閉館した旅館別館を改修して誕生した日帰り温泉施設。源泉かけ流しの湯に加え、後から設置されたドライサウナがあり、日帰り利用者から『サウナ設置後に施設の魅力が増した』という趣旨の口コミが見られる。福島交通バス『土湯温泉町見附』バス停から徒歩3分、駐車場30台。",
+      "target_audience": ["一人旅", "友人", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 5,
+        "unique_experience_score": 10,
+        "photogenic": 6,
+        "value_for_price": 6,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 42,
+      "recommendation_reason": "震災で被災した建物を改修し、後からドライサウナを設置したという再生のストーリーは独自性があり、日帰り利用のしやすさ（1,000円〜）も魅力ではある。しかし口コミ評価が3.6（22件）と母数も薄く、原則6の採用ライン（4.0以上）に届かないため、調査対象としては確認したが不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ評価が3.6（22件）と、他の候補と比べて高くはなく、低評価の具体的な理由（衛生・安全面等）までは本セッションの検索範囲では特定できなかった。衛生・安全上の重大な指摘は見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "じゃらん観光ガイド 土湯温泉エリア（御とめ湯りに関する口コミ言及を含む） - じゃらんnet",
+          "url": "https://www.jalan.net/kankou/sta_006562/g2_e10/"
+        },
+        {
+          "type": "press",
+          "title": "御とめ湯り 施設紹介（震災後に改修・ドライサウナ設置、料金・アクセス案内） - All About",
+          "url": "https://news.allabout.co.jp/articles/o/119541/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要口コミ評価が3.6（5点満点換算、22件）で原則6の採用ライン（4.0以上）に届かず、母数も薄いため不採用とした。衛生・安全上の重大な指摘があったわけではなく、評価不足による見送り。"
+    },
+    {
+      "id": "2026-10-27-yamaneya-ryokan-tsuchiyu",
+      "name": "山根屋旅館",
+      "region": "福島県福島市土湯温泉町",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル（宿泊口コミ、総合満足度）",
+          "score": 3.27,
+          "scale": 5,
+          "review_count": 13,
+          "checked_date": "2026-10-27",
+          "url": "https://4travel.jp/dm_hotel-10055108"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "旅行会社掲載の2026年度プランでは、和室（バス・トイレ付）がおとな1名あたり13,750円〜19,800円（設定期間2026年7月9日〜2027年3月31日）。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2つの自家源泉を持ち、土湯温泉で一、二の大きさとされるかけ流しの大浴場（高齢者向け手すり付き）、貸切風呂、露天風呂、自噴風呂を備える老舗旅館。口コミでは風呂の評価が4.38（5点満点換算）と高い一方、公式提携旅行会社の施設紹介・口コミサイトのいずれにもサウナの記載が見当たらず、本セッションではサウナ設備の存在を確認できなかった。",
+      "target_audience": ["温泉好き", "一人旅", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 8,
+        "review_reliability": 4,
+        "unique_experience_score": 10,
+        "photogenic": 6,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 38,
+      "recommendation_reason": "2つの自家源泉と土湯温泉最大級とされるかけ流し大浴場（風呂単体の口コミ評価4.38）は独自性があり調査対象としたが、公式・口コミのいずれでもサウナの記載が確認できず、カテゴリ『サウナ』の候補としての要件を満たさないと判断した。加えて総合満足度も3.27（13件）と原則6の採用ライン（4.0以上）に届かないため、不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミ（13件）では、温泉自体への満足度は高い（風呂4.38）一方、総合満足度は3.27と伸び悩み、料理や売店対応への不満を述べる投稿があった。衛生・安全上の重大な指摘は見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "山根屋旅館 クチコミ（総合3.27・13件、風呂4.38） - フォートラベル",
+          "url": "https://4travel.jp/dm_hotel-10055108"
+        },
+        {
+          "type": "other",
+          "title": "山根屋旅館 施設紹介（大浴場・貸切風呂・露天風呂・自噴風呂案内、サウナの記載なし） - 近畿日本ツーリスト（yado.knt.co.jp）",
+          "url": "https://yado.knt.co.jp/photo/S070018/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "原則7・6に基づき、サウナ設備の存在を公式・口コミのいずれでも確認できずカテゴリ『サウナ』の候補要件を満たさないこと、かつ総合口コミ満足度も3.27（13件）と採用ライン（4.0以上）に届かないことから不採用とした。"
+    }
+  ]
+}

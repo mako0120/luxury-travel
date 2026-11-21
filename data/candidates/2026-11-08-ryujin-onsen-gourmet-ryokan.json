@@ -1,0 +1,270 @@
+{
+  "cycle_date": "2026-11-08",
+  "theme": "グルメ旅館（和歌山県田辺市・龍神温泉エリア）",
+  "season_rationale": "本日1回目調査（岡山県真庭市・湯原温泉エリア、グルメ旅館）は最有力候補が独立2情報源での4.0以上を確認できず『該当なし』で終了したため、標準運用ルールに基づき同カテゴリで別地域（和歌山県田辺市・龍神温泉エリア）にて本日2回目（最終）の再調査を行う。龍神温泉は日本三美人の湯の一つで、11月上旬は日高川沿いの山あいで紅葉が進む時期にあたり、熊野牛やジビエなど地元食材を使った会席料理の訴求力が高まる時期でもある。",
+  "prior_posts_checked": [],
+  "duplication_note": "data/candidates/ と captions/ の全件（1ヶ月以上前のファイルを含む）を『龍神』『龍神温泉』『田辺』『田辺市』『Ryujin』『Tanabe』『和歌山』『Wakayama』で横断検索した。『龍神』『田辺』『Ryujin』『Tanabe』を含む候補・キャプションファイルはこれまで一件も存在しない。『和歌山』はdata/candidates/2026-10-17-shirahama-glamping.json、2026-10-26-nachikatsuura-glamping.json、2026-10-29-nachikatsuura-view-hotel.json、2026-10-31-kishu-railway.json、2026-11-04-sadamisaki-view-hotel.json、2026-11-06-koyasan-bunka-taiken.json、2026-11-07-totsukawa-onsen-sansui.json等でヒットしたが、いずれも白浜・那智勝浦・高野山・十津川（奈良県）・佐田岬など龍神温泉とは別エリア・別カテゴリであり重複にはあたらない。よって今サイクルのテーマ・地域・カテゴリの組み合わせは既存候補・既存キャプションと重複しない。",
+  "research_limitation_note": "(1) 本セッションではWebFetchがwww.jalan.net、4travel.jp、travel.rakuten.co.jp、intojapanwaraku.com、www.pref.wakayama.lg.jp等に対してDNS解決エラー（getaddrinfo ENOTFOUND、セッションのネットワーク許可外）で失敗し、個別ページを直接開けなかった。そのため本候補群の情報はすべてWebSearchが返すスニペット要約経由であり、各サイトの口コミ本文・評価点数の一部は間接的な確認にとどまる。(2) じゃらんの『龍神温泉 上御殿』クチコミ総合評価4.9・546件、楽天トラベルの総合評価4.30・83件は、いずれも複数回のWebSearchで一致して得られた数値だが、WebFetchによる原本ページの直接確認はできていない。制作検討時には公式ページ・予約サイトでの直接確認が望ましい。(3) 創業経緯・現経営者の思いについては、和歌山県『100年企業表彰』資料（PDF、WebSearch抜粋経由）と環境省龍神温泉保護計画書から創建年・紀州徳川家との関係・代表者名（龍神享一氏）は確認できたが、代表者・女将本人へのインタビューや直接の発言は本セッションのWebSearchでは一件も見つからなかった。creator_storyフィールドにその旨を明記し、発言・思いの創作は行っていない。(4) 高野龍神スカイラインは2026年2月16日発生の土砂崩れにより当面通行止めで、高野山方面からのアクセスには和歌山JCT・有田IC経由のルートが必要である点を確認した。",
+  "other_candidates_considered": [
+    {
+      "name": "料理旅館 萬屋（よろずや）",
+      "region": "和歌山県田辺市龍神村・龍神温泉元湯",
+      "category": "グルメ旅館（源泉100%の温泉と熊野牛・熊野地鶏・日高川産鮎などを使った部屋食が特徴）",
+      "note": "じゃらんに施設ページ（yad311159）があり夕食・朝食等の項目別クチコミ抜粋は確認できたが、総合評価点数・口コミ件数は本セッションのWebSearchでは取得できなかった。tour.ne.jp掲載のクチコミは1件のみ（4.5〜4.6表示）で、独立2情報源での数値評価確認という基準を満たせないため、今サイクルでは候補データ化を見送った。地元食材を使った部屋食という独自性は高く、次サイクルでじゃらん・楽天トラベルの数値評価を直接確認できれば再調査の価値がある。"
+    },
+    {
+      "name": "龍神温泉 美人亭",
+      "region": "和歌山県田辺市龍神村・龍神温泉",
+      "category": "グルメ旅館（館主自ら山・川で採る山菜や川魚を使った料理が特徴。露天風呂・貸切風呂はなし）",
+      "note": "フォートラベルのみんなの満足度は3.21（口コミ6件）、Yahoo!トラベルは口コミ3件のため総合点数非表示。口コミ件数が少なすぎ、独立2情報源での4.0以上確認という基準を満たせないため、今サイクルでは不採用（データ化見送り）とした。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-11-08-ryujin-onsen-kamigoten",
+      "name": "龍神温泉 上御殿",
+      "region": "和歌山県田辺市龍神村龍神42（龍神温泉街内、紀伊田辺ICから車で約60分、阪和道有田ICから約90分。高野龍神スカイラインは2026年2月16日発生の土砂崩れにより当面通行止めのため、高野山方面からは和歌山JCT・有田IC経由のルートが必要）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "楽天トラベル（宿泊した方のクチコミ・レビュー、施設ID 109360）",
+          "score": 4.3,
+          "scale": 5,
+          "review_count": 83,
+          "checked_date": "2026-11-08",
+          "url": "https://travel.rakuten.co.jp/HOTEL/109360/review.html"
+        },
+        {
+          "source": "じゃらん（クチコミ・評価、YAD_312103）",
+          "score": 4.9,
+          "scale": 5,
+          "review_count": 546,
+          "checked_date": "2026-11-08",
+          "url": "https://www.jalan.net/kuchikomi/YAD_312103.html"
+        },
+        {
+          "source": "フォートラベル（みんなの満足度）",
+          "score": 3.29,
+          "scale": 5,
+          "review_count": 15,
+          "checked_date": "2026-11-08",
+          "url": "https://4travel.jp/dm_hotel-10059421"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "情報源により差が大きい。マップル掲載の基本プランでは1泊2食付14,000円〜（入湯税別）、じゃらんのクチコミで紹介された『熊野牛の温泉しゃぶしゃぶコース』付きプランは大人1名22,001〜23,000円（税込）、楽天トラベルの夏季キャンペーン表示では1泊1名22,200円という表示も確認した。いずれも検索時点の一例であり、現在の正確な料金ではない。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "明暦3年（1657年、申請上の創業年は寛永16年=1639年）に紀州徳川家初代藩主・徳川頼宣の湯治のために建てられたとされる、紀州藩公認の『御殿』。明治期の大火で焼失したが、藩主が使った『御成の間』は当時の姿で再現され、国登録有形文化財に指定されている。地産地消にこだわり自社農園の有機栽培野菜や天然の山の幸を使う食事方針が紹介されており、熊野牛の温泉しゃぶしゃぶを組み込んだプランも確認できた。日本三美人の湯とされる龍神温泉を、槇（まき）造りの浴槽を含む大浴場・露天風呂で楽しめる点が、温泉街の他の宿と一線を画す独自性。",
+      "renewal_or_news": "楽天トラベルには2026年12月31日〜2027年1月3日の年越しプランが掲載されており、2026年11月時点で通常営業・予約受付中であることを確認した。一方、高野龍神スカイラインは2026年2月16日発生の土砂崩れにより当面通行止めで、高野山方面からのアクセスには迂回ルートが必要な点は要注意情報として確認した。本セッションのWebSearchでは、2025〜2026年の館内リニューアル等の具体的なニュースは確認できなかった。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "グルメ旅", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 19,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 2
+      },
+      "score": 82,
+      "recommendation_reason": "紀州徳川家初代藩主・徳川頼宣が湯治のために建てさせたという1657年創建の由緒を持ち、藩主専用だった『御成の間』を今も保存する国登録有形文化財の宿。楽天トラベルで総合4.30（83件）、じゃらんで総合4.9（546件）と、独立した2つの大型予約サイトで4.0以上の高評価を確認でき、熊野牛の温泉しゃぶしゃぶや自社農園の有機野菜など地元食材を活かした食事にも独自性がある。フォートラベルの評価は3.29（15件）と相対的に低いが、内容は現金のみ対応・Wi-Fi範囲が限られる・近隣にコンビニがないといった利便性面の指摘が中心で、衛生・安全上の深刻な懸念や営業停止を示す情報は確認できなかった。アクセスの不便さ（主要ICから60〜90分、高野龍神スカイラインが土砂崩れで通行止め中）はaccess_and_freshnessで減点し、総合score82点でselectedとする。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベル・icotto掲載の口コミ（2026年4月投稿など）では、支払いが現金のみであること、Wi-Fiが使える場所が限られること、周辺にコンビニがないこと、露天風呂が一つで利用しづらい時間帯があることなど利便性面の不満が複数見られた。アクセス評価はicottoで2.58、バリアフリーは2.00と低め。一方で、衛生面・接客トラブル・営業停止・深刻な安全上の懸念を示す投稿は本セッションのWebSearchでは見当たらず、楽天トラベル・じゃらんでは料理・温泉・接客を評価する声が多数派だった。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "和歌山県の『100年企業表彰』資料（WebSearch経由の抜粋）によると、上御殿は寛永16年（1639年）創業（申請に基づく記載）とされ、明暦3年（1657年）に紀州藩主・徳川頼宣より公の宿としての管理を命ぜられ『上御殿』の屋号を賜ったとされる。歴代の藩主が使った『御成の間』は明治の大火後も当時の姿で再現され、現在の代表者名は同資料に『龍神享一』氏と記載されている。同資料は『長い伝統の中で受けてきた客からの信頼を大切な財産としている』という趣旨の記述を長寿経営の秘訣として挙げているが、これは資料のまとめ文であり、代表者・女将本人の発言を直接引用したものではない。本セッションのWebSearchでは、現代表者や女将が改修方針・経営方針についてどのような思いを語っているかを示す一次インタビュー記事・公式サイトのメッセージは見つからなかった。したがって、現経営者本人の思いや開業経緯の詳細な動機については『出典で確認できなかった』こととし、推測や発言の創作は行っていない。",
+        "sources": [
+          {
+            "type": "other",
+            "title": "和歌山県100年企業表彰 上御殿（長寿経営の秘訣・企業のあゆみ・概要、PDF）",
+            "url": "https://www.pref.wakayama.lg.jp/prefg/061000/100nen/ichiran_d/fil/8kamigotenppt.pdf"
+          },
+          {
+            "type": "official",
+            "title": "環境省 龍神温泉 保護計画書（hoyo_043.pdf）",
+            "url": "https://www.env.go.jp/nature/onsen/area/pdf/hoyo_043.pdf"
+          },
+          {
+            "type": "other",
+            "title": "マップル 龍神温泉エリア紹介（上御殿の歴史記述を含む）",
+            "url": "https://www.mapple.net/article/86255/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "龍神温泉 上御殿 に実際に泊まった方のクチコミ・レビュー（楽天トラベル）",
+          "url": "https://travel.rakuten.co.jp/HOTEL/109360/review.html"
+        },
+        {
+          "type": "booking_site",
+          "title": "龍神温泉 上御殿 クチコミ・評価（じゃらん）",
+          "url": "https://www.jalan.net/kuchikomi/YAD_312103.html"
+        },
+        {
+          "type": "review_site",
+          "title": "龍神温泉 上御殿のクチコミ情報（フォートラベル）",
+          "url": "https://4travel.jp/dm_hotel-10059421"
+        },
+        {
+          "type": "other",
+          "title": "龍神温泉 上御殿（icotto、満足度・項目別評価）",
+          "url": "https://icotto.jp/hotels/59"
+        },
+        {
+          "type": "official",
+          "title": "環境省 龍神温泉 保護計画書（hoyo_043.pdf）",
+          "url": "https://www.env.go.jp/nature/onsen/area/pdf/hoyo_043.pdf"
+        },
+        {
+          "type": "other",
+          "title": "和歌山県100年企業表彰 上御殿（PDF）",
+          "url": "https://www.pref.wakayama.lg.jp/prefg/061000/100nen/ichiran_d/fil/8kamigotenppt.pdf"
+        }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-11-08-ryujin-onsen-shimogoten",
+      "name": "龍神温泉 下御殿",
+      "region": "和歌山県田辺市龍神村龍神（龍神温泉街内、上御殿の姉妹館）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "icotto（総合満足度）",
+          "score": 3.31,
+          "scale": 5,
+          "review_count": 15,
+          "checked_date": "2026-11-08",
+          "url": "https://icotto.jp/hotels/238"
+        },
+        {
+          "source": "フォートラベル（みんなの満足度）",
+          "score": 3.3,
+          "scale": 5,
+          "review_count": 15,
+          "checked_date": "2026-11-08",
+          "url": "https://4travel.jp/dm_hotel-10049967"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションのWebSearchでは、2026年8月30日〜2027年5月6日の『紀州郷土風会席プラン』の掲載が確認できたが、プラン別の正確な金額は取得できなかった。All About記事では2026年3月時点で楽天トラベル上の平均評価が4.0超えと紹介されていたが、具体的な料金・評価数値は確認できなかった。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "上御殿と並ぶ紀州徳川家ゆかりの『御殿』の一つで、吟味された素材を料理長自らが考案した紀州郷土風会席プランを提供する。川沿いの混浴露天風呂からの眺めや、源泉かけ流しのとろみのある湯が特徴。",
+      "renewal_or_news": "本セッションのWebSearchでは、2025〜2026年の具体的なリニューアル情報は確認できなかった。",
+      "target_audience": ["夫婦", "カップル", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 8,
+        "unique_experience_score": 16,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 62,
+      "recommendation_reason": "上御殿と同じ紀州徳川家ゆかりの『御殿』で、料理長考案の紀州郷土風会席という独自性を持つが、icotto・フォートラベルいずれも3.3前後（15件）と主要レビューサイトの4.0基準を満たせていない。All Aboutの編集記事では楽天トラベルの平均評価が4.0超えと紹介されているが、具体的な数値・件数を本セッションのWebSearchでは確認できず、独立2情報源での4.0以上確認という基準を満たせない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの項目別評価では風呂4.32・食事4.27・接客4.23と高めだが、アクセスが2.55と低い。icottoでも総合3.31（15件）で、アクセスの不便さ（紀伊田辺駅からバスで約80分）が低評価の主要因とみられる。衛生・安全上の深刻な懸念や営業停止を示す情報は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "龍神温泉 下御殿（icotto、満足度・項目別評価）",
+          "url": "https://icotto.jp/hotels/238"
+        },
+        {
+          "type": "review_site",
+          "title": "龍神温泉 下御殿のクチコミ情報（フォートラベル）",
+          "url": "https://4travel.jp/dm_hotel-10049967"
+        },
+        {
+          "type": "press",
+          "title": "【龍神温泉の人気ホテル】「龍神温泉 下御殿」が選ばれる理由（All About）",
+          "url": "https://news.allabout.co.jp/articles/o/114294/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "icotto（3.31・15件）、フォートラベル（3.30・15件）のいずれも主要レビュー4.0基準（原則6）を下回り、独立2情報源での4.0以上確認ができないため、今サイクルでは不採用（rejected）とする。紀州郷土風会席という独自性は高く、楽天トラベルの実際の評価数値を次サイクルで直接確認できれば再評価の価値がある。"
+    },
+    {
+      "id": "2026-11-08-ryujin-onsen-kirari",
+      "name": "龍神温泉 季楽里 龍神",
+      "region": "和歌山県田辺市龍神村龍神189（日高川沿い、JR紀伊田辺駅から龍神バスで約80分）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "icotto（総合満足度）",
+          "score": 3.3,
+          "scale": 5,
+          "review_count": 421,
+          "checked_date": "2026-11-08",
+          "url": "https://icotto.jp/hotels/5475"
+        },
+        {
+          "source": "ニフティ温泉（施設クチコミ）",
+          "score": 3.3,
+          "scale": 5,
+          "review_count": 14,
+          "checked_date": "2026-11-08",
+          "url": "https://onsen.nifty.com/ryuujin-onsen/onsen006859/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "icotto掲載の参考料金は大人1名18,150円（プラン・部屋タイプにより変動）。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全室が日高川に面し、日本三美人の湯とされる龍神温泉の大浴場（龍神檜を使用）を持つ。地元食材を使った郷土料理バイキングが名物で、プランによっては熊野牛すき焼きが提供される日もある。",
+      "renewal_or_news": "本セッションのWebSearchでは、2025〜2026年の具体的なリニューアル情報は確認できなかった。",
+      "target_audience": ["家族", "女子旅", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 12,
+        "unique_experience_score": 12,
+        "photogenic": 9,
+        "value_for_price": 7,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 62,
+      "recommendation_reason": "全室日高川ビューと郷土料理バイキングで口コミ件数（icotto421件）は龍神温泉エリアで最大規模だが、評価点数はicotto・ニフティ温泉いずれも3.3前後にとどまり、原則6の4.0基準・独立2情報源確認を満たせない。バイキング形式のため、上御殿・下御殿と比べると『独自の会席料理』としての独自性はやや弱い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icotto掲載の2021年4月投稿では、食事プランの変更連絡があったことや焼肉の取り皿がなかったことへの不満があった。項目別評価ではアクセスが2.86と最も低い。2007年のニフティ温泉の古い投稿では泉質について『お湯が薄い』という指摘があったが、現施設の状態を示すものではない可能性がある。衛生・安全上の深刻な懸念や営業停止を示す情報は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "龍神温泉 季楽里 龍神（icotto、満足度・項目別評価）",
+          "url": "https://icotto.jp/hotels/5475"
+        },
+        {
+          "type": "other",
+          "title": "季楽里 龍神の温泉情報、お得なクーポン、口コミ情報（ニフティ温泉）",
+          "url": "https://onsen.nifty.com/ryuujin-onsen/onsen006859/"
+        },
+        {
+          "type": "press",
+          "title": "【龍神温泉の人気ホテル】「龍神温泉 季楽里 龍神」は日本三美人の湯と贅沢なバイキングを堪能できる宿（All About）",
+          "url": "https://news.allabout.co.jp/articles/o/122586/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "icotto（3.3・421件）、ニフティ温泉（3.3・14件）のいずれも主要レビュー4.0基準（原則6）を下回り、独立2情報源での4.0以上確認ができないため、今サイクルでは不採用（rejected）とする。"
+    }
+  ]
+}

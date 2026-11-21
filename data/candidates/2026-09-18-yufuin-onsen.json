@@ -1,0 +1,141 @@
+{
+  "cycle_date": "2026-09-18",
+  "theme": "秋の温泉旅館・大分県由布院（湯布院）エリア新規開拓",
+  "season_rationale": "由布院の金鱗湖周辺の紅葉は例年10月下旬〜11月中旬が見頃で、湖面から立ち上る朝霧と紅葉が重なる幻想的な景観が観光の見どころになる。9月中旬の投稿は、紅葉シーズンに向けて宿を検討・予約し始めるタイミングとして原則30に合致する。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-14-yamamizuki-kurokawa", "region": "熊本県阿蘇郡南小国町（黒川温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-20-mizu-no-oto", "region": "神奈川県箱根町（小涌谷）", "category": "温泉旅館" },
+    { "post_id": "2026-09-18-fufu-karuizawa", "region": "長野県北佐久郡軽井沢町（中軽井沢・星野温泉エリア）", "category": "サウナ" }
+  ],
+  "duplication_note": "直近の温泉旅館カテゴリは島根県松江市（玉造温泉）・神奈川県箱根町（小涌谷）・熊本県阿蘇郡南小国町（黒川温泉）で使用済みで、大分県由布院（湯布院）は温泉旅館カテゴリとして未着手のため今回選定した。九州エリアとしては黒川温泉（熊本）が既出だが、県（大分）・エリア（由布院＝『御三家』ブランドの意匠重視の高級宿群）・体験の切り口（渓流沿いの湯めぐり中心の黒川 vs 建築・デザイン性中心の由布院）が明確に異なるため、原則29の趣旨（地域・カテゴリの単純な連続回避）には反しないと判断した。また直近の最新投稿（2026-09-18・長野県軽井沢・サウナ）とも地域・カテゴリともに重複しない。",
+  "candidates": [
+    {
+      "id": "2026-09-18-sansou-murata-yufuin",
+      "name": "山荘 無量塔（むらた）",
+      "region": "大分県由布市湯布院町川上（由布院温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.80, "scale": 5, "review_count": 124, "checked_date": "2026-09-18", "url": "https://travel.rakuten.co.jp/HOTEL/69384/review.html" },
+        { "source": "Tripadvisor", "score": 4.6, "scale": 5, "review_count": 125, "checked_date": "2026-09-18", "url": "https://www.tripadvisor.com/Hotel_Review-g1023445-d787957-Reviews-Sanso_Murata-Yufu_Oita_Prefecture_Kyushu.html" }
+      ],
+      "price_range_jpy": {
+        "note": "1名（2名1室）1泊で税込85,800円〜121,000円という表示を確認。別の情報源では2名1室合計で税込171,600円〜220,000円という表示もあり、全12棟すべて異なる意匠のため部屋タイプによる価格差が大きいとみられる。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "明治期の古民家を移築・再生した12棟の離れがすべて異なる意匠で、『Re-creation（再創造）』をコンセプトに和と洋・古と新をリミックスした唯一無二の世界観を持つ。敷地内に音楽をテーマにした美術館、1930年代のアメリカ製劇場用スピーカー『WE16Aホーン』でジャズが流れるTan's bar、蕎麦処『風生庵』、ロールケーキで有名な『B-speak』、チョコレート専門店『theo murata』を備え、宿泊者以外も楽しめる要素まで含めて、由布院御三家の中でも独自性が際立つ。",
+      "renewal_or_news": "大規模リニューアルの直近ニュースはこのセッションでは確認できなかったが、Tripadvisorで由布市内18ホテル中1位にランクされているなど、継続的に高い支持を集めていることが確認できた。",
+      "target_audience": ["カップル", "記念日", "夫婦", "ホテル好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 19,
+        "photogenic": 14,
+        "value_for_price": 6,
+        "sns_buzz": 8,
+        "access_and_freshness": 4
+      },
+      "score": 87,
+      "recommendation_reason": "楽天トラベル4.80（124件）、Tripadvisor4.6（125件、由布市内18ホテル中1位）と、独立した2つの情報源で一致して高評価かつ件数も十分にあり、原則6・7の基準を満たす。12棟すべて異なる意匠の離れ、音楽をテーマにした美術館、Tan's barなど『ここでしかできない』体験の幅が由布院御三家の中でも突出しており、写真・動画映えのポテンシャルも高い。大分県由布院は既存投稿（島根・玉造、神奈川・箱根、熊本・黒川）と重ならない新しいエリアで、原則29の地域分散にも合致する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorで『由布院御三家の中で最も古く高価な最高級ホテルとして知られているが、期待しすぎたため相対的にがっかりした』という趣旨のレビューを確認した。また、宿泊機能以外の蕎麦屋・チョコレート店・カフェなど関連事業の拡大に経営資源が割かれているのではという懸念を述べるレビューもあった。清潔感・安全性に関わる重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "山荘 無量塔 公式サイト", "url": "https://sansou-murata.com/" },
+        { "type": "official", "title": "施設案内｜美術館・蕎麦・カフェ・バー・ショコラ - 山荘無量塔", "url": "https://sansou-murata.com/facilities/" },
+        { "type": "review_site", "title": "山荘 無量塔【2026年最新の料金比較・口コミ・宿泊予約】- Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-g1023445-d787957-Reviews-Sanso_Murata-Yufu_Oita_Prefecture_Kyushu.html" },
+        { "type": "booking_site", "title": "由布院温泉 山荘 無量塔 に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/69384/review.html" },
+        { "type": "other", "title": "和モダンの極上宿「山荘 無量塔」で、おもてなしの真髄にふれる上質な時間【楽天トラベル】", "url": "https://travel.rakuten.co.jp/mytrip/howto/sansoumurata-guide" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-18-kamenoi-bessou-yufuin",
+      "name": "亀の井別荘",
+      "region": "大分県由布市湯布院町川上（由布院温泉・金鱗湖畔）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Yahoo!トラベル", "score": 4.86, "scale": 5, "review_count": 122, "checked_date": "2026-09-18", "url": "https://travel.yahoo.co.jp/00002470/review/" },
+        { "source": "一休.com", "score": 4.87, "scale": 5, "review_count": 122, "checked_date": "2026-09-18", "url": "https://www.ikyu.com/00002470/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "内風呂付き洋室で1名1泊2食付き45,100円という宿泊例や、2名1泊合計で税込100,980円〜という表示を確認。全17室で部屋タイプにより差がある。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "金鱗湖畔に隣接する約1万坪の敷地に、大正10年（1921年）創業の要人接待用別荘を起源とする全17室の民家風の離れが点在する。レストラン『湯の岳庵』やバー『山猫』を持ち、由布院御三家の中でも老舗としての格式と庭園の風情が特に評価されている。",
+      "target_audience": ["夫婦", "記念日", "カップル", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 10,
+        "unique_experience_score": 15,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 76,
+      "recommendation_reason": "Yahoo!トラベル4.86・一休.com4.87（いずれも122件）と非常に高い評価で、採用ライン（75点・4.0以上）は満たしている。ただし両サイトのクチコミ件数が完全に一致している点について、今回のセッションでは情報源としての独立性を完全には確認しきれなかった。金鱗湖畔の庭園・老舗としての格式は魅力的だが、口コミでは『無難で際立った感動があるわけではない』という声もあり、無量塔ほどの強い独自性・話題性までは確認できなかったため、次点のshortlistedとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "『接客も料理も無難で、亀の井別荘は誰を連れていっても間違いはないが、決して面白みのある旅館ではない』『由布院の泉質自体はそれほど特別ではないので期待しすぎない方がよい』という趣旨の口コミを確認した。清潔感・安全性に関わる重大な指摘は見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "由布院 金鱗湖畔 亀の井別荘 公式サイト", "url": "https://www.kamenoi-bessou.jp/" },
+        { "type": "review_site", "title": "亀の井別荘 - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00002470/review/" },
+        { "type": "review_site", "title": "亀の井別荘 - クチコミ・評判 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00002470/review/" },
+        { "type": "booking_site", "title": "亀の井別荘 - 宿泊予約は【じゃらんnet】", "url": "https://www.jalan.net/yad355878/" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-09-18-tamanoyu-yufuin",
+      "name": "由布院 玉の湯",
+      "region": "大分県由布市湯布院町川上（由布院温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Tripadvisor", "score": 4.0, "scale": 5, "review_count": 170, "checked_date": "2026-09-18", "url": "https://www.tripadvisor.com/Hotel_Review-g1023445-d325884-Reviews-Yufuin_Tamanoyu-Yufu_Oita_Prefecture_Kyushu.html" },
+        { "source": "楽天トラベル", "score": 3.67, "scale": 5, "review_count": 29, "checked_date": "2026-09-18", "url": "https://travel.rakuten.co.jp/HOTEL/180079/review.html" },
+        { "source": "価格.com", "score": 3.76, "scale": 5, "review_count": 120, "checked_date": "2026-09-18", "url": "https://travel.kakaku.com/%E5%9B%BD%E5%86%85%E5%AE%BF%E6%B3%8A%E4%BA%88%E7%B4%84/%E7%94%B1%E5%B8%83%E9%99%A2%20%E7%8E%89%E3%81%AE%E6%B9%AF-10038849/" }
+      ],
+      "price_range_jpy": {
+        "note": "1名（2名1室）1泊で税込35,480円〜92,320円、2名1室合計では税込77,500円〜186,164円という表示を確認。プラン・部屋タイプによる差が大きい。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "由布院御三家の一つで、約3,000坪の敷地に全17室の離れが点在。テラス付きの落ち着いた客室、アルカリ性で肌がすべすべになると評される温泉、季節の食材を生かした食事が特徴。静けさと上質なもてなしを重視する滞在向けの宿。",
+      "target_audience": ["夫婦", "記念日", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 8,
+        "unique_experience_score": 15,
+        "photogenic": 12,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 64,
+      "recommendation_reason": "由布院御三家の一つとしての知名度・静けさを重視した接客・食事は評価されているが、独立した3つの情報源（Tripadvisor4.0／170件、楽天トラベル3.67／29件、価格.com3.76／120件）の間で評価にばらつきがあり、原則6・7が求める『件数とセットの信頼度』『複数情報源での一致』を満たしきれないと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ある宿泊者は仲居の対応について、食事時間の変更や料理に関する質問への応対が『そんなことも知らないの？』と感じの悪い態度だったと報告し、42,000円という価格に対して期待外れだったと述べていた。清潔感・安全性に関わる重大な指摘は確認されなかったが、接客対応の一貫性について評価が割れている点が気になった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "由布院 玉の湯 公式サイト", "url": "https://tamanoyu.co.jp/" },
+        { "type": "review_site", "title": "由布院 玉の湯【2026年最新の料金比較・口コミ・宿泊予約】- Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-g1023445-d325884-Reviews-Yufuin_Tamanoyu-Yufu_Oita_Prefecture_Kyushu.html" },
+        { "type": "booking_site", "title": "由布院 玉の湯 に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/180079/review.html" },
+        { "type": "other", "title": "由布院 玉の湯 料金比較・宿泊予約 - 価格.com", "url": "https://travel.kakaku.com/%E5%9B%BD%E5%86%85%E5%AE%BF%E6%B3%8A%E4%BA%88%E7%B4%84/%E7%94%B1%E5%B8%83%E9%99%A2%20%E7%8E%89%E3%81%AE%E6%B9%AF-10038849/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア64点で採用ライン（75点）未満。楽天トラベル3.67・価格.com3.76と、主要レビューサイトの一部が原則6の基準（4.0以上）を下回っており、Tripadvisor4.0も基準線上にとどまる程度で、情報源間の評価のばらつきが大きく信頼度を高く評価できない。接客対応に関する具体的な否定的口コミも確認された。"
+    }
+  ]
+}

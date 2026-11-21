@@ -1,0 +1,136 @@
+{
+  "cycle_date": "2026-11-11",
+  "theme": "アクティビティカテゴリ 本日2回目（最終）再調査：栃木県日光市（中禅寺湖・奥日光エリア）",
+  "prior_posts_checked": [
+    {
+      "note": "本日1回目の調査（長野県北安曇郡白馬村、アクティビティカテゴリ、data/candidates/2026-11-11-hakuba-activity.json）が、白馬五竜高山植物園・テレキャビン／白馬パラトピア五竜パラグライダースクール／スカイブルー八方尾根パラグライダースクールの3候補いずれも不採用（該当なし）で終了したため、標準運用ルールに基づき同カテゴリ・別地域で本日2回目（最終）の再調査を実施する。"
+    },
+    {
+      "note": "data/candidates/ と captions/ の全ファイル（2026-09以降の全期間、1か月以上前も含む）を対象に、ファイル名およびgrep本文検索で『中禅寺』『奥日光』『戦場ヶ原』『日光市』『nikko』『chuzenji』『senjogahara』『kinugawa』『鬼怒川』『光徳』『切込湖』『刈込湖』を確認した。重複に関わるものは次の3件。(1) data/candidates/2026-11-09-okunikko-senjogahara-activity.json ― 一昨日（2026-11-09）に同じ『栃木県日光市（戦場ヶ原・湯ノ湖・奥日光エリア）』×『アクティビティ』で実施済みの調査で、日光自然博物館ネイチャーウォッチングツアー（戦場ヶ原ガイドハイク／アニマル&スターウォッチングナイトツアー）・中禅寺湖カヤック・カヌー体験（日光那須アウトドアサービス／栃木カヤックセンター／ボンファイアー等）・中禅寺湖遊覧船の3候補を調査しいずれも不採用（該当なし）だった。本サイクルはこの3施設・3体験の再調査ではなく、同テーマ内で未調査だった新規の体験（SUP／パックラフト＆トレック／Eバイクセルフガイド）を発掘する方針とした。(2) data/candidates/2026-10-25-chuzenjiko-view-hotel.json／captions/2026-10-25-ritz-carlton-nikko.json ― 中禅寺湖畔に泊まる『絶景ホテル』カテゴリの候補（選定：ザ・リッツ・カールトン日光）であり、宿泊施設そのものを評価対象とした別カテゴリの調査のため、本サイクルで調査する湖上・湖畔アクティビティとは対象が異なり重複しない。(3) data/candidates/2026-10-17-kinugawa-onsen.json／captions/2026-10-26-naoc-kinugawa-rafting.json ― 栃木県日光市ではあるが、中禅寺湖・奥日光とは地理的に別の渓谷温泉エリアである鬼怒川温泉の温泉旅館・ラフティング体験であり、重複しない。本サイクルで調査した中禅寺湖SUP／パックラフト＆トレック／Eバイクカフェ巡りライドの各事業者・施設名が、上記いずれの候補にも含まれていないことを個別に確認済み。"
+    }
+  ],
+  "duplication_note": "2026-11-09サイクルで『中禅寺湖・奥日光×アクティビティ』は戦場ヶ原ガイドハイク・中禅寺湖カヤック・カヌー・中禅寺湖遊覧船の3候補について既に調査済み（いずれも不採用）だったため、本サイクルは同じ3体験の再調査ではなく、同エリア内で未調査だった新規3候補（中禅寺湖SUP体験／中禅寺湖南岸絶景トレック＆パックラフトツアー／中禅寺湖畔カフェ巡りライドEバイクセルフガイドツアー）を新規に発掘して調査した。",
+  "research_constraints": "本サイクルもWebFetchによる主要予約サイト（www.asoview.com、www.airbnb.co.in、各言語版airbnb、experiences.travel.rakuten.com、attractive-j.rezdy.com、pelago.com等）への直接アクセスはすべてgetaddrinfo ENOTFOUND（セッションの許可ドメイン外）となり失敗し、WebSearchのスニペット経由の確認に限定された。このため、中禅寺湖SUP（mizudoriミズドリガイド：口コミ109件、SUP STATION zizi：口コミ68〜72件）、中禅寺湖南岸絶景トレック＆パックラフトツアー（一般社団法人DMO日光提供、Pelago掲載では『Bestseller』表示あり、Viator・Marriott Activities・LiveJapan・Lokalee等の国際予約プラットフォームに広く配信）のいずれについても、口コミの『件数』やプラットフォーム上のバッジは確認できたが、肝心の『平均評価点（星の数値）』はどのサイトのスニペットからも一度も取得できなかった。中禅寺湖畔カフェ巡りライド（Eバイクセルフガイドツアー）についてはActivity Japan掲載ページで『All reviews 0』（口コミ0件）という明確な数値を確認した。原則7（正確に確認できない数字は推測しない）に基づき、確認できなかった評価点を推測で採用することはしなかった。このため、本サイクルで調査した3候補はいずれも独立2情報源による数値評価（原則6・7、主要レビュー4.0以上）を十分な確度で確認できなかった。",
+  "season_climate_note": "奥日光・中禅寺湖（標高約1,269m）は11月に入ると紅葉終盤〜落葉期に入り、本調査日（2026年11月11日）は冬季準備期にあたる。環境省の国立公園サイトによれば中禅寺湖のSUP体験の時期は『4月下旬〜11月中旬』とされており、調査日はこの営業期間の終盤（残り1〜2週間程度）に位置することを確認した。中禅寺湖南岸絶景トレック＆パックラフトツアーについては、各予約プラットフォーム（Pelago・Rezdy・LiveJapan等）で掲載・予約自体は確認できたが、2026年シーズンの正確な営業終了日はWebFetch制約により直接確認できなかった。関連情報として、中禅寺湖周回線歩道（南岸線）の冬期閉鎖は前年実績で2025年12月11日〜2026年4月中旬とされており、調査日（11月11日）はこの閉鎖期間の前であることを確認した。中禅寺湖畔カフェ巡りライド（Eバイク）についても冬季営業期間の明確な記載は確認できなかったが、奥日光では11月半ばから積雪の可能性があるとの注意情報があり、積雪・路面凍結時は運休する可能性が高いと考えられる。3候補とも『現時点では営業・催行中とみられるが、今シーズンの終了が近い、または終了時期が未確認』という季節的な留意点がある。",
+  "candidates": [
+    {
+      "id": "2026-11-11-chuzenjiko-sup-experience",
+      "name": "中禅寺湖 SUP(スタンドアップパドルボード)体験（mizudoriミズドリガイド／SUP STATION zizi／Sup!等 複数事業者）",
+      "region": "栃木県日光市中宮祠（中禅寺湖畔、奥日光エリア）。集合場所は歌ヶ浜周辺駐車場または中禅寺湖畔ボートハウス隣が中心。東武日光駅・JR日光駅から路線バスで約45〜50分。",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "mizudoriミズドリガイドの半日SUP体験ツアー（約2時間30分）は8,000円〜、1日たっぷりSUPクルージングツアー（約5時間）は12,000円〜。SUP STATION ziziの貸切プライベートツアー（約2時間〜2時間30分、2〜8人）も12,000円〜。いずれもプラン・予約サイトにより変動する。",
+        "as_of_search_date": "2026-11-11",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "標高約1,269mの中禅寺湖は『日本で最も標高の高い場所にある湖の一つ』とされ、湖面と同じ目線から男体山や紅葉後の山並みを眺められるSUP体験。日本山岳ガイド協会認定の登山ガイドが主催するmizudoriの『1日たっぷりクルージング』、ワンちゃん同伴も可能なSUP STATION ziziの1組限定貸切プラン、SUPヨガを扱うSup!など、事業者ごとに異なる体験の幅があり、2026-11-09サイクルで調査したカヤック・カヌー体験や遊覧船とは異なる視点（立ったまま湖面に近い姿勢で漕ぐ）の体験として独自性がある。",
+      "renewal_or_news": "環境省国立公園サイトの案内で中禅寺湖SUP体験の時期は『4月下旬〜11月中旬』とされ、調査日（11月11日）はこのシーズンの終盤に位置することを確認した。『残りわずかな今シーズン最後のSUP』という訴求は可能だが、2026年シーズンの正確な最終催行日は事業者ごとに確認できなかった。",
+      "target_audience": ["カップル", "友人", "一人旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 16,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 42,
+      "recommendation_reason": "男体山を望む湖面目線での体験という独自性・写真映えは高く、複数事業者（mizudori：口コミ109件、SUP STATION zizi：口コミ68〜72件）が催行しており需要自体はあるとみられる。しかし、各予約サイト（asoview等）はWebFetchが使えずスニペット経由の確認に限られ、口コミの『件数』は複数回確認できたものの、肝心の『平均評価点（星の数値）』がどのサイトからも一度も取得できず、独立2情報源での4.0以上の数値的な裏付けには至らなかった（原則6・7）。2026-11-09サイクルの中禅寺湖カヤック・カヌー体験で直面した問題と同種の制約である。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "WebSearchの範囲では、中禅寺湖SUP各事業者への事故報道・重大クレームは見当たらなかった。中禅寺湖は天候が変わりやすく予報が当てにならない地域であり、当日の天候判断でツアー内容が変更・中止になる可能性がある旨の注意書きが複数の予約ページにある点は参加者への案内事項として留意が必要。『営業停止』『詐欺』『重大事故』等の決定的な欠格事由は検索範囲では見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "【栃木・日光・SUP】中禅寺湖の自然を湖上から堪能。半日SUP体験ツアー（mizudoriミズドリガイド） - asoview", "url": "https://www.asoview.com/item/activity/pln3000033487/" },
+        { "type": "booking_site", "title": "【栃木・日光・SUP】中禅寺湖の自然を堪能。1日たっぷりSUPクルージングツアー（mizudoriミズドリガイド） - asoview", "url": "https://www.asoview.com/item/activity/pln3000045121/" },
+        { "type": "booking_site", "title": "中禅寺湖 プライベートSUPツアー（SUP STATION zizi） - asoview", "url": "https://www.asoview.com/item/activity/pln3000040157/" },
+        { "type": "official", "title": "中禅寺湖でのスタンドアップパドルボード（SUP体験、時期：4月下旬〜11月中旬） - 環境省 日光国立公園", "url": "https://www.env.go.jp/nature/nationalparks/try/all/act608.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "湖面目線での体験の独自性は高いが、独立2情報源による数値評価（★4.0以上）を確認できず、原則6・7の要件を満たさないため見送った。ネットワーク制限の少ない環境でasoview・Googleマップの口コミ点数を直接確認できれば再評価の価値がある。"
+    },
+    {
+      "id": "2026-11-11-chuzenjiko-southshore-trekking-packraft",
+      "name": "中禅寺湖南岸 絶景トレック＆パックラフトツアー（一般社団法人DMO日光提供）",
+      "region": "栃木県日光市中宮祠（中禅寺湖南岸、奥日光エリア）。問い合わせ先：一般社団法人DMO日光（0288-25-3320）。集合場所は中禅寺湖畔周辺。",
+      "category": "アクティビティ",
+      "is_hidden_gem": true,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "予約プラットフォーム（Rezdy／Pelago／Viator経由）掲載の料金は11,700円〜14,000円（表記は掲載サイトにより異なる）、所要時間は約5時間。",
+        "as_of_search_date": "2026-11-11",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "一般の観光客がほとんど立ち入らない中禅寺湖の南岸まで徒歩で散策し、そこから持ち運び可能な1人乗りのコンパクトなゴムボート『パックラフト』に乗って湖面すれすれから景色を楽しむ、トレッキングと水上体験を組み合わせたツアー。一人乗りで扱いが簡単なため未経験者でも参加しやすい設計で、2026-11-09サイクルで調査したカヤック・カヌー・遊覧船とは異なり、徒歩でしか到達できない秘境スポットへのアクセスという点に独自性がある。Pelago掲載ページには『Bestseller（人気プラン）』の表示があり、Viator・Marriott Activities・LiveJapan・Lokalee等、複数の国際予約プラットフォームに広く配信されていることを確認した。",
+      "renewal_or_news": "本ツアーは日光市『奥日光ネイチャー体験ツアー造成事業』の一環として一般社団法人DMO日光が提供組織となっており、現在もRezdy・Pelago・Viator経由で実際に予約可能なページが確認できた。2026年シーズンの正確な営業終了日はWebFetch制約のため直接確認できなかったが、南岸の遊歩道（南岸線）自体の冬期閉鎖は前年実績で12月11日〜翌年4月中旬とされており、調査日（11月11日）時点ではまだ閉鎖前であることを確認した。",
+      "target_audience": ["友人", "一人旅", "絶景好き", "カップル"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 19,
+        "photogenic": 14,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 48,
+      "recommendation_reason": "『一般の観光客がほぼ立ち入らない南岸まで徒歩で向かい、パックラフトで湖面近くから絶景を独り占めする』という体験設計は、同エリアの既存アクティビティ（カヤック・カヌー・遊覧船・SUP）のいずれとも異なる強い独自性を持ち、Pelagoの『Bestseller』表示や複数の国際プラットフォームへの配信実績から需要・知名度も一定水準あるとみられ、Hidden Gem（原則8）候補として有望である。しかし、Viator・Pelago・Rezdy・LiveJapanのいずれのページからも『平均評価点（星の数値）』をスニペット経由で一度も確認できず、WebFetchも全ドメインでアクセス不可だったため、原則6・7が求める独立2情報源での数値的な裏付けを満たせなかった。Hidden Gemルールは評価4.0以上の縛りを免除できるが、sources2件以上とnegative_review_checkのクリアに加え、品質・安全面を裏付ける最低限の口コミ実態（件数・内容）自体が本セッションでは一切確認できておらず、数字を伴わない状態での選定は見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "WebSearchの範囲では、本ツアーに対する重大なクレーム・事故報道は見当たらなかった。濡れる可能性があるためウェットスーツのレンタルがある旨の案内があり、荒天時は催行内容が変更・中止になる可能性がある点は参加者への案内事項として留意が必要。『営業停止』『詐欺』等の決定的な欠格事由は検索範囲では見つからなかった。ただし口コミ本文自体がほぼ確認できなかったため、ネガティブ情報の網羅性には限りがある。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "Lake Chuzenji South Shore Trekking and Packrafting Tour - 環境省 日光国立公園（国際版公式ページ）", "url": "https://www.japan.travel/national-parks/parks/nikko/see-and-do/lake-chuzenji-south-shore-trekking-and-packrafting-tour" },
+        { "type": "other", "title": "Lake Chuzenji Trekking and Packrafting Experience - Visit Nikko（日光市観光公式）", "url": "https://visitnikko.jp/en/stories/lake-chuzenji-trekking-and-packrafting-experience/" },
+        { "type": "booking_site", "title": "Visit the Unexplored Regions of Lake Chuzenji--Scenic Trekking and Rafting Tour - Rezdy（一般社団法人DMO日光）", "url": "https://attractive-j.rezdy.com/404921/visit-the-unexplored-regions-of-lake-chuzenji-scenic-trekking-and-rafting-tour" },
+        { "type": "booking_site", "title": "Visit the Unexplored Regions of Lake Chuzenji--Scenic Trekking and Rafting Tour (Bestseller表示) - Pelago", "url": "https://www.pelago.com/en/activity/pnha73h2o-visit-the-unexplored-regions-of-lake-chuzenji-scenic-trekking-and-rafting-tour-nikko/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独自性・需要の兆候（Bestseller表示、国際配信）は確認できたが、口コミの数値評価・件数・本文のいずれも一切確認できず、Hidden Gemルール（原則8）適用の前提となる最低限の口コミ実態把握ができなかったため、総合スコア48点で今回は見送った。次回、ネットワーク制限の少ない環境でPelago・Viatorの口コミ欄を直接確認できれば再評価を推奨する。"
+    },
+    {
+      "id": "2026-11-11-chuzenjiko-cafe-ebike-self-guided-ride",
+      "name": "中禅寺湖畔カフェ巡りライド（Eバイクセルフガイドツアー、日光自然博物館発着）",
+      "region": "栃木県日光市中宮祠（中禅寺湖畔、奥日光エリア）。集合場所：日光自然博物館1Fインフォメーションセンター。東武日光駅から路線バスで約45〜50分。",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "Activity Japan掲載料金・レンタル料は本セッションでは確認できなかった。参考として、同種の電動アシスト自転車レンタル（別事業『奥日光サイクルシェア』）は1日1,000円という古い記事の記載があったが現行価格ではない可能性が高い。",
+        "as_of_search_date": "2026-11-11",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "電動アシスト自転車(Eバイク)と専用ナビゲーション機器を使い、約14kmの決められたルートをガイドなし・セルフガイド形式で走る、中禅寺湖畔のカフェや観光スポットを自由に巡るライド。ナビがあるため道に迷いにくく、立ち寄り・休憩・食事・買い物を自分のペースで楽しめる点が特徴。",
+      "renewal_or_news": "Activity Japan掲載ページのレビュー欄は『All reviews 0』（口コミ0件）と明確に表示されていることを確認した。冬季営業期間についての明確な記載は確認できなかった。",
+      "target_audience": ["女子旅", "友人", "カップル", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 10,
+        "photogenic": 9,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 29,
+      "recommendation_reason": "ガイドなしで自分のペースでカフェを巡れる点は便利だが、ガイドによる解説や独自の物語性に乏しく、他の候補（SUP・パックラフト）と比べて体験としての独自性・話題性は低い。加えてActivity Japan掲載ページのレビュー欄が『All reviews 0』と確認でき、原則6が求める『主要レビューサイト評価4.0以上』を満たす実績が現時点で存在しないことが明確なため、他候補以上に選定基準を満たさない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ自体が0件のため、ポジティブ・ネガティブいずれの評判も確認できなかった。『営業停止』『詐欺』等の決定的な欠格事由は検索範囲では見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "中禅寺湖畔カフェ巡りライド(約14km)【Eバイクセルフガイドツアー・日光自然博物館発着】(口コミ0件) - Activity Japan", "url": "https://en.activityjapan.com/publish/plan/46827" },
+        { "type": "other", "title": "奥日光サイクルシェア（日光自然博物館での電動アシスト自転車レンタル）紹介記事 - るるぶ&more", "url": "https://rurubu.jp/andmore/article/21370" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "レビュー件数が0件と確認できており、原則6・7が求める評価の裏付けが存在しないことが明確なため、総合スコア29点で不採用とした。"
+    }
+  ],
+  "cycle_conclusion": "本日2回目（最終）の再調査（栃木県日光市・中禅寺湖/奥日光エリア、アクティビティカテゴリ）は、2026-11-09サイクルで既に調査済みだった戦場ヶ原ガイドハイク・カヤック・カヌー・遊覧船の3体験とは別に、新規3候補（中禅寺湖SUP体験／中禅寺湖南岸絶景トレック＆パックラフトツアー／中禅寺湖畔カフェ巡りライドEバイクセルフガイドツアー）を調査したが、いずれも独立2情報源による数値評価（原則6・7、主要レビュー4.0以上）を十分な確度で確認できず、selected該当なしで終了した。3件とも11月上旬〜中旬に営業・催行していること自体は季節情報（環境省の運営期間案内、予約プラットフォームでの現行掲載、南岸遊歩道の冬期閉鎖前であること）から確認できたが、評価点数がWebSearchのAI要約スニペットからは安定して取得できず、本セッションのWebFetchも対象ドメイン（asoview.com、airbnb各種、rakuten travel experiences、rezdy.com、pelago.com）すべてでDNS解決エラーとなり直接確認もできなかったため、不確かな数字を推測で採用することを避けた。中禅寺湖南岸絶景トレック＆パックラフトツアーは、独自性・国際配信実績（Pelago『Bestseller』表示）の観点から本サイクル最有力のHidden Gem候補と判断し、ネットワーク制限の少ない環境でのPelago・Viator・Rezdyの口コミ欄直接確認を次回優先タスクとして推奨する。本日1回目（長野県白馬村）・2回目（栃木県日光市）のいずれもアクティビティカテゴリでselected該当なしという結果となった。"
+}

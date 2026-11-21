@@ -1,0 +1,325 @@
+{
+  "cycle_date": "2026-10-28",
+  "theme": "アクティビティ（高知県高岡郡四万十町・四万十川カヌー・アウトドアツーリング）",
+  "season_rationale": "四万十町昭和地区のラフティング・カヌーは実施期間が4〜10月とされており、10月下旬は今シーズン最後の体験チャンスにあたる時期。夏の増水期を過ぎ、秋晴れで川面が穏やかになりやすい時期でもあり、紅葉が始まる四万十川中流域の景観と合わせて訴求しやすい。徳島県大歩危・小歩危エリアの再調査（本日の別候補）が該当なしだったため、同じ『アクティビティ』カテゴリで地域を高知県四万十町の四万十川カヌー・アウトドアツーリングに切り替えて再調査した。",
+  "prior_posts_checked": [
+    {
+      "post_id": "2026-10-25-shimanto-kankou-yuransen",
+      "region": "高知県四万十市駅前町（四万十川下流域）",
+      "category": "アクティビティ",
+      "note": "同じ四万十川だが四万十市の屋形船・観光遊覧船（乗客が操船しない見学型クルーズ）。地域（四万十市 vs 四万十町）・体験内容（遊覧船 vs 自分で漕ぐカヌー／ラフティング）とも異なるため重複なし。"
+    },
+    {
+      "post_id": "2026-10-28-oboke-koboke-rafting-activity",
+      "region": "徳島県三好市（大歩危・小歩危エリア）吉野川ラフティング",
+      "category": "アクティビティ",
+      "note": "同じ『アクティビティ』カテゴリ・近いリバーアクティビティの型だが、河川・事業者・都道府県（徳島県）が異なり重複なし。本日のこの候補が『該当なし』だったため、本サイクルで地域を高知県四万十町に切り替えて再調査した経緯がある。"
+    },
+    {
+      "post_id": "2026-10-26-kinugawa-rafting-activity",
+      "region": "栃木県日光市鬼怒川温泉エリア",
+      "category": "アクティビティ",
+      "note": "同じラフティング体験の型だが河川・事業者・地域が異なり重複なし。"
+    },
+    {
+      "post_id": "2026-10-18-kamikochi-activity",
+      "region": "長野県松本市上高地",
+      "category": "アクティビティ",
+      "note": "川・渓谷系アクティビティだが上高地であり地域・体験内容が異なり重複なし。"
+    }
+  ],
+  "duplication_note": "依頼時点の指定は『カテゴリ：アクティビティ／地域：高知県四万十町（四万十川カヌー・アウトドアツーリング）』。重複回避のため data/candidates/・captions/ の全履歴（2026-09-14〜2026-10-28、1ヶ月以上前の分も含む）を『四万十』『shimanto』『canoe』『カヌー』『rafting』『ラフティング』『四万十町』で全件grepした。ヒットしたのは (1) 2026-10-25-shimanto-river-cruise.json／captions/2026-10-25-shimanto-kankou-yuransen.json（高知県四万十市・四万十川観光遊覧船）、(2) 2026-10-28-oboke-koboke-rafting-activity.json（徳島県三好市・吉野川ラフティング）、(3) 2026-10-26-kinugawa-rafting-activity.json（栃木県・鬼怒川ラフティング）の3件。(1)は四万十川流域ではあるが行政区が四万十市であり、体験内容も自分で漕がない観光遊覧船で、本依頼の対象（四万十町のカヌー・アウトドアツーリング）とは地域・体験内容ともに異なる。(2)(3)は河川・事業者・都道府県が異なる。四万十町（高岡郡四万十町）そのもの、および本候補の施設『ふるさと交流センター』は過去の候補・採用いずれにも一度も登場しておらず、地域・施設とも新規。なお調査の過程で、四万十川沿いの代表的なカヌー・SUP事業者（四万十・川の駅カヌー館、四万十楽舎、グッドリバー四万十）はいずれも所在地が四万十町ではなく隣接する四万十市（西土佐地区）であることが判明し、依頼の地域条件に合わないため対象外（rejected）とした。",
+  "candidates": [
+    {
+      "id": "2026-10-28-shimantocho-furusato-koryu-center",
+      "name": "四万十川・川遊び公園 ふるさと交流センター（ラフティング・カヌー）",
+      "region": "高知県高岡郡四万十町昭和671-2（四万十川中流域）",
+      "category": "アクティビティ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "Google（Google Hotels経由で表示される評価）",
+          "score": 4.3,
+          "scale": 5,
+          "review_count": 127,
+          "checked_date": "2026-10-28",
+          "url": "https://www.google.co.jp/travel/hotels/entity/ChgI3oz0voDGiMUKGgwvZy8xMTl2bDB0NzcQAQ"
+        },
+        {
+          "source": "じゃらんnet 施設口コミ",
+          "score": 4.8,
+          "scale": 5,
+          "review_count": 8,
+          "checked_date": "2026-10-28",
+          "url": "https://www.jalan.net/kankou/spt_guide000000202956/"
+        },
+        {
+          "source": "なっぷ（キャンプ場予約サイト）口コミ",
+          "score": 4.2,
+          "scale": 5,
+          "review_count": 4,
+          "checked_date": "2026-10-28",
+          "url": "https://www.nap-camp.com/kochi/10935/reviews"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "情報源により料金表記に差がある。やや古いガイド掲載情報ではラフティング1艇10,800円（1艇5名まで、ガイド料・器材レンタル・保険料込、要予約、実施は4〜10月）、カヌー1艇2,160円、テントサイト利用料は大人510円・小中学生200円とされる。一方、同エリアの他事業者の近年のラフティング料金は大人6,600円（税込）/1人という例もあり、本施設の最新の人数単価・税込表記は今回の検索範囲では確認できなかった。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "四万十川最大の中州『三島』にかかる沈下橋の下流からスタートし、川の蛇行を含め約5km・約2時間かけてゴールの『ふるさと交流センター』まで下るガイド付きラフティング体験。カヌーのレンタルもあり、施設前の広々とした芝生のキャンプサイトではテント泊も可能。民間の観光事業者ではなく、四万十町観光協会が管理する公共の川遊び拠点という点が、四万十市側に集中する商業的なカヌー・ラフティング事業者群とは異なる位置づけで、JR予土線土佐昭和駅から徒歩5分というアクセスの良さも特徴。",
+      "renewal_or_news": "四万十町役場の公式サイトに2026年7月2日掲載された公募情報によると、本施設は平成元年（1989年）の整備から約37年が経過し、老朽化や度重なる水害により施設・設備・備品の劣化が進んでいるため、再整備基本計画・基本設計に基づく実施設計の受託事業者選定プロポーザルが行われている（参加申込・企画提案の期限はいずれも2026年7月で既に終了）。現時点で施設の休業・閉館予定を示す記載は確認できなかったが、今後の再整備により利用条件や体験内容が変わる可能性がある（原則4：最新性の確認、推測は避けた）。",
+      "target_audience": [
+        "家族",
+        "友人",
+        "一人旅",
+        "絶景好き"
+      ],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 11,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 75,
+      "recommendation_reason": "Google（4.3点・127件）とじゃらんnet（4.8点・8件）という2つの独立した情報源で、いずれも採用ライン（4.0以上）を上回る評価を確認。四万十町昭和地区という、四万十市側に比べて観光情報サイト上の露出が少ない『知られていないエリア』にある公共のラフティング・カヌー拠点であり、三島の沈下橋を望む清流を自分で漕いで下るという『独自体験』を、比較的安価（ガイド付きラフティング1艇10,800円等、要最新確認）に提供している点が強み。JR駅から徒歩5分というアクセスの良さも初見の旅行者に伝えやすい。一方で老朽化と再整備計画が進行中であるため、制作直前の最新営業状況確認が必須。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "なっぷの口コミは4件と少なく、投稿時期も2013〜2016年と古いものが中心。そのうち1件（評価3.3）は『日中は大変暑い』『電車と車の通行音が気になる』『大自然というよりも便利な人里のキャンプ場』という指摘があった。一方で別の口コミでは『炊事場・トイレ・シャワーなど必要最小限の設備は揃っておりキレイ』という肯定的な評価もあった。また町の公式発表（2026年7月の公募情報）で、整備から約37年が経過し老朽化・水害による劣化が進んでいることが明記されている。これらは留意事項ではあるが、営業停止・重大な安全事故・予約トラブルの多発等、サービス自体の重大な欠陥を示す情報は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "本施設『ふるさと交流センター』は、四万十町役場の公募資料（2026年7月掲載）によれば平成元年（1989年）に整備され、現在は四万十町観光協会が管理者として運営している（複数の観光情報サイトで『管理者：四万十町観光協会』と記載されている）。四万十町は2006年に旧窪川町・大正町・十和村が合併して誕生した町であり、本施設は旧十和村エリア（昭和地区）に位置する。ただし、今回のWeb調査では、施設の設計者・建設当時の担当者、あるいは現在の運営者である四万十町観光協会やラフティングガイドが、どのような思いやコンセプトで本施設を立ち上げ、現在の体験プログラムや進行中の再整備計画に取り組んでいるかを直接語った一次情報（公式サイトのインタビュー・プレスリリース・担当者コメント等）は見つけられなかった。四万十町役場・観光協会の公式ページには施設概要や利用案内はあるが、創業・運営の『思い』を示す記述は確認できていない。推測や発言の創作は行わず、創業者・運営者の思いについては確認できなかった旨を明記する。",
+        "sources": [
+          {
+            "type": "official",
+            "title": "【公募】四万十町昭和ふるさと交流センター再整備実施設計等策定業務に係る受託事業者選定プロポーザルの公募について｜四万十町役場",
+            "url": "https://www.town.shimanto.lg.jp/life/detail.php?hdnKey=12389"
+          },
+          {
+            "type": "official",
+            "title": "ふるさと交流センター【四万十川キャンプ・ラフティングの拠点】（四万十町観光協会運営・公式案内サイト）",
+            "url": "https://kawaasobi.shimanto-town.net/"
+          },
+          {
+            "type": "other",
+            "title": "ラフティング（ふるさと交流センター） - 奥四万十時間（高知県奥四万十エリア観光ガイド）",
+            "url": "https://okushimanto.jp/tourism/0247"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "【公募】四万十町昭和ふるさと交流センター再整備実施設計等策定業務に係る受託事業者選定プロポーザルの公募について｜四万十町役場",
+          "url": "https://www.town.shimanto.lg.jp/life/detail.php?hdnKey=12389"
+        },
+        {
+          "type": "official",
+          "title": "ふるさと交流センター【四万十川キャンプ・ラフティングの拠点】",
+          "url": "https://kawaasobi.shimanto-town.net/"
+        },
+        {
+          "type": "review_site",
+          "title": "【四万十町昭和 ふるさと交流センター】予約・アクセス・割引クーポン - じゃらんnet",
+          "url": "https://www.jalan.net/kankou/spt_guide000000202956/"
+        },
+        {
+          "type": "review_site",
+          "title": "四万十町ふるさと交流センターの口コミ・評判（高知県） - なっぷ",
+          "url": "https://www.nap-camp.com/kochi/10935/reviews"
+        },
+        {
+          "type": "other",
+          "title": "四万十町ふるさと交流センター - Google Hotels（Google評価4.3・127件）",
+          "url": "https://www.google.co.jp/travel/hotels/entity/ChgI3oz0voDGiMUKGgwvZy8xMTl2bDB0NzcQAQ"
+        },
+        {
+          "type": "other",
+          "title": "ラフティング（ふるさと交流センター） - 奥四万十時間",
+          "url": "https://okushimanto.jp/tourism/0247"
+        }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-28-shimanto-kawanoeki-canoekan",
+      "name": "四万十・川の駅 カヌー館",
+      "region": "高知県四万十市西土佐用井1111-11",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらんnet 施設口コミ",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 54,
+          "checked_date": "2026-10-28",
+          "url": "https://www.jalan.net/kankou/spt_39426ca3370153541/kuchikomi/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "ガイド付き1日8kmツーリングで9,000円（器材レンタル料込）とする掲載情報があるが、公式の最新料金表は今回の検索範囲では確認できなかった。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "四万十川中流域（四万十市西土佐）に建つカヌー専門施設で、初心者〜中級者向けの短距離（4km）〜長距離（8km）のカヌーツーリングを提供。カヌー資料館・食堂・淡水魚の水槽も併設し、道の駅的にも利用できる。",
+      "renewal_or_news": "2026年時点での明確なリニューアル情報は確認できなかった。",
+      "target_audience": [
+        "家族",
+        "友人",
+        "一人旅"
+      ],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 12,
+        "unique_experience_score": 15,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 78,
+      "recommendation_reason": "じゃらんnet（4.5点・54件）と採用ライン自体は十分に上回り、設備・プログラムとも充実しているが、所在地が四万十市西土佐であり、依頼の対象地域である四万十町ではないため対象外とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "じゃらんの評価分布では満足61%・やや満足33%と高評価が中心で、重大なネガティブ傾向は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "四万十・川の駅 カヌー館のクチコミ一覧 - じゃらんnet",
+          "url": "https://www.jalan.net/kankou/spt_39426ca3370153541/kuchikomi/"
+        },
+        {
+          "type": "other",
+          "title": "四万十ひろば カヌー館 オートキャンプ場の口コミ・予約（高知県四万十市） - なっぷ",
+          "url": "https://www.nap-camp.com/kochi/10946"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "評価・体験内容は良好だが、所在地が依頼対象の四万十町ではなく四万十市西土佐であるため地域条件に合致せず対象外。"
+    },
+    {
+      "id": "2026-10-28-shimanto-gakusha",
+      "name": "四万十楽舎",
+      "region": "高知県四万十市西土佐中半408-1",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらんnet（宿泊・スポット掲載）",
+          "score": 3.9,
+          "scale": 5,
+          "review_count": 18,
+          "checked_date": "2026-10-28",
+          "url": "https://www.jalan.net/yad303765/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "宿泊は1泊2名9,000円〜（1名4,500円〜）と掲載されている。川遊び体験（イカダ川下り等）単体の最新料金は今回の検索範囲では確認できなかった。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "廃校になった小学校の校舎を活用した自然体験施設で、イカダを使った川下り、ドラム缶ピザ作り、漁師体験などを提供。教室・校長室・保健室などの面影が残る部屋への宿泊も可能。",
+      "renewal_or_news": "2026年時点での明確なリニューアル情報は確認できなかった。",
+      "target_audience": [
+        "家族",
+        "友人"
+      ],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 10,
+        "unique_experience_score": 17,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 69,
+      "recommendation_reason": "廃校活用という独自性は高いが、じゃらん評価3.9は採用ラインの4.0をわずかに下回り、かつ所在地も四万十市西土佐であるため、評価面・地域面の両方で今回の依頼条件には合致しない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "具体的なネガティブレビューの本文は今回の検索範囲では確認できなかったが、総合評価3.9（18件）は採用ラインの4.0にわずかに届いていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "四万十楽舎 - 宿泊予約は【じゃらんnet】",
+          "url": "https://www.jalan.net/yad303765/"
+        },
+        {
+          "type": "review_site",
+          "title": "口コミ(31) 四万十楽舎(しまんとがくしゃ) - アソビュー！",
+          "url": "https://www.asoview.com/item/activity/pln3000041964/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "所在地が依頼対象の四万十町ではなく四万十市西土佐であり地域条件に合致せず、またじゃらん評価3.9は採用ライン4.0をわずかに下回るため対象外。"
+    },
+    {
+      "id": "2026-10-28-goodriver-shimanto",
+      "name": "グッドリバー四万十",
+      "region": "高知県四万十市西土佐橘1160-9",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらんnet 施設口コミ",
+          "score": 4.3,
+          "scale": 5,
+          "review_count": 8,
+          "checked_date": "2026-10-28",
+          "url": "https://www.jalan.net/kankou/spt_guide000000214148/kuchikomi/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "カヌー・SUP半日ツアーいずれも6,500円〜、開始時間は9:00・13:30とする掲載情報がある。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "カヌー・SUP（スタンドアップパドル）体験を提供する施設。建物内にハンモックやランチ用ミーティングルーム、岩風呂のあるバスルームもある。無料駐車場50台。",
+      "renewal_or_news": "2026年時点での明確なリニューアル情報は確認できなかった。",
+      "target_audience": [
+        "家族",
+        "友人",
+        "一人旅"
+      ],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 9,
+        "unique_experience_score": 13,
+        "photogenic": 10,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 65,
+      "recommendation_reason": "評価自体は4.3前後で採用ラインを満たすが、口コミ件数が8件と少なく信頼性がやや低いこと、また所在地が四万十市西土佐であり依頼対象の四万十町ではないことから対象外とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "具体的なネガティブレビューの本文は今回の検索範囲では確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "グッドリバー四万十のクチコミ一覧 - じゃらんnet",
+          "url": "https://www.jalan.net/kankou/spt_guide000000214148/kuchikomi/"
+        },
+        {
+          "type": "other",
+          "title": "グッドリバー四万十｜ネット予約ならアソビュー！",
+          "url": "https://www.asoview.com/base/156883/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "所在地が依頼対象の四万十町ではなく四万十市西土佐であるため地域条件に合致せず、また口コミ件数も8件と少なく信頼性が限定的なため対象外。"
+    }
+  ]
+}

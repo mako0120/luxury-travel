@@ -1,0 +1,142 @@
+{
+  "cycle_date": "2026-10-19",
+  "theme": "指定リサーチ：長野県北安曇郡白馬村 × アクティビティ",
+  "season_rationale": "白馬村の夏季アクティビティ・ゴンドラ系施設（八方アルペンライン、白馬岩岳マウンテンリゾート、白馬五竜テレキャビン等）は例年6月頃〜11月上旬までのグリーンシーズン営業で、紅葉の見頃は9月下旬〜10月下旬とされる。投稿タイミング（10月中旬〜下旬）はグリーンシーズン終盤・紅葉シーズンの『今シーズン最後の見頃』訴求ができる時期にあたる。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-18-kitakobushi-shiretoko", "region": "北海道斜里郡斜里町ウトロ東（知床）", "category": "アクティビティ" },
+    { "post_id": "2026-10-17-minakami-kogen-hotel200", "region": "群馬県利根郡みなかみ町（水上高原）", "category": "アクティビティ" },
+    { "post_id": "2026-10-18-kamikochi-activity（data/candidatesのみ、該当なしで見送り）", "region": "長野県松本市上高地", "category": "アクティビティ" },
+    { "post_id": "2026-09-22-sankara-yakushima", "region": "鹿児島県屋久島", "category": "アクティビティ" },
+    { "post_id": "2026-09-21-kerama-terrace", "region": "沖縄県渡嘉敷島（慶良間諸島）", "category": "アクティビティ" },
+    { "post_id": "2026-10-18-nara-hotel", "region": "奈良県奈良市高畑町", "category": "文化体験" },
+    { "post_id": "2026-10-18-miyajima-seaside-hotel", "region": "広島県廿日市市宮島町", "category": "絶景ホテル" }
+  ],
+  "duplication_note": "依頼された長野県北安曇郡白馬村は、直近『アクティビティ』カテゴリで採用・調査済みの知床（ウトロ）・みなかみ（水上高原）・屋久島・渡嘉敷島（慶良間）・トマム・上高地のいずれとも地域・山域・体験の性質が異なり、原則29の『同一地域・同一ブランド・同一種類の連続』には該当しないと判断した。なお『アクティビティ』カテゴリ自体は直近複数サイクルで繰り返し使われており、次回以降は温泉旅館・グルメ旅館等、直近使用していないカテゴリを優先することが望ましい。",
+  "research_constraints": "このサイクルはWebSearchツールのセッション共有検索予算が調査の途中（候補3件目の深掘り前）で上限に達し、以後の追加検索（各候補のネガティブ口コミの個別確認、価格帯の確認、白馬東急ホテル・白馬ホテル オークフォレストの運営する具体的なアクティビティプログラムの有無の確認、白馬岩岳マウンテンリゾートの信頼できる2件目の数値口コミの確認）が実施できなかった。加えてCLAUDE.mdに記載の制約どおり、tripadvisor.jp・asoview.com・hakubavalley.com等の主要旅行系ドメインへのWebFetchはいずれもEGRESS_BLOCKED（DNS解決不可）となり、WebSearchのスニペット経由で得られる情報のみを情報源とした。調査した3件はいずれも採用ラインに届かず『該当なし』となった。本来は別地域で1回まで再調査することが求められるが、同ターンの検索予算が尽きたため本サイクルでは実施できず、次回の依頼（新しいターン）で白馬村の再調査または別地域の調査を推奨する。",
+  "candidates": [
+    {
+      "id": "2026-10-19-hakuba-iwatake-mountain-harbor",
+      "name": "白馬岩岳マウンテンリゾート（山頂テラス「HAKUBA MOUNTAIN HARBOR」）",
+      "region": "長野県北安曇郡白馬村岩岳",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "いこーよ", "score": 4.6, "scale": 5, "review_count": 5, "checked_date": "2026-10-19", "url": "https://iko-yo.net/experiences/94847" }
+      ],
+      "price_range_jpy": {
+        "note": "山頂テラスへのゴンドラ往復料金・カフェ利用料金は今回の検索範囲（検索予算切れ）では確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2018年10月開業の山頂展望テラス『HAKUBA MOUNTAIN HARBOR』。岩岳の山頂にせり出すように作られたウッドデッキから、南北に広がる北アルプス・白馬三山を一望でき、秋には三段紅葉が楽しめるとされる。ニューヨークの老舗ベーカリー『ザ シティ ベーカリー』が併設され、景色を眺めながら食事ができる点がSNSやテレビで話題になったという報道を確認した。",
+      "renewal_or_news": "2024年時点のサマーシーズン向けプレスリリース（nippon-ski.jp掲載）で営業継続を確認。夏のお盆時期には1日最大約3000人が利用したと報じられており、話題性自体は高いとみられる。",
+      "target_audience": ["カップル", "夫婦", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 5,
+        "unique_experience_score": 16,
+        "photogenic": 13,
+        "value_for_price": 5,
+        "sns_buzz": 7,
+        "access_and_freshness": 3
+      },
+      "score": 64,
+      "recommendation_reason": "山頂テラスという『ここでしかできない景観体験』の独自性は高く、SNS・テレビでの話題性も報道で確認できた。一方で数値口コミはいこーよの4.6（5件）しか確認できず、件数が少なすぎて信頼性（原則7の独立2情報源）を満たせなかった。Googleマップ・TripAdvisor等の口コミ件数・評価はWebFetchがEGRESS_BLOCKEDとなり確認不能、検索予算も尽きたため追加確認できなかった。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "検索予算の制約により個別のネガティブ口コミ確認は実施できなかった。確認できた範囲（混雑に関する報道）では、お盆時期に最大約3000人/日の利用があったとの記載があり、混雑による満足度低下の可能性はあるが、具体的な苦情内容は未確認。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "白馬岩岳マウンテンリゾート 施設情報 - GLTJP", "url": "https://www.gltjp.com/ja/directory/item/14212/" },
+        { "type": "sns", "title": "いこーよ 白馬岩岳マウンテンリゾート 体験・口コミ", "url": "https://iko-yo.net/experiences/94847" },
+        { "type": "press", "title": "白馬岩岳 2024年サマーシーズン プレスリリース (nippon-ski.jp)", "url": "https://nippon-ski.jp/uploads/2024-08-19_iwatake_summer24.pdf" },
+        { "type": "other", "title": "【長野 白馬】白馬 岩岳マウンテンリゾート - aumo", "url": "https://aumo.jp/articles/70842" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア64点で採用ライン75点に届かず、かつ主要レビューサイトの口コミ件数が5件と少なすぎて評価の信頼性（原則6・7）を満たせなかったため見送った。"
+    },
+    {
+      "id": "2026-10-19-hakuba-tokyu-hotel",
+      "name": "白馬東急ホテル",
+      "region": "長野県北安曇郡白馬村八方",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.88, "scale": 5, "review_count": 88, "checked_date": "2026-10-19", "url": "https://4travel.jp/dm_hotel-10045901" },
+        { "source": "るるぶトラベル", "score": 4.4, "scale": 5, "review_count": 86, "checked_date": "2026-10-19", "url": "https://www.rurubu.travel/ja-jp/city/japan/hakuba" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な価格帯は今回の検索範囲（検索予算切れ）では確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "八方エリアに立地し、八方アルペンライン（八方池・唐松岳方面へのトレッキングの拠点）に近いとみられる大型リゾートホテル。フォートラベルの八方尾根・岩岳エリアのホテル満足度ランキング（532件中）で1位との記載を確認したが、ホテル自体が主催する具体的なアクティビティプログラム（ネイチャーガイド等）の有無は確認できなかった。",
+      "renewal_or_news": "確認できなかった。",
+      "target_audience": ["カップル", "夫婦", "家族", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 10,
+        "unique_experience_score": 7,
+        "photogenic": 9,
+        "value_for_price": 4,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 54,
+      "recommendation_reason": "フォートラベル3.88（88件）・るるぶトラベル4.4（86件）の2つの独立した情報源を確認でき、るるぶ側は採用ライン4.0以上を満たした。ただしフォートラベル側は4.0未満で評価が割れており、かつホテル主催の具体的なアクティビティプログラムを公式情報で確認できず、原則5の『ここでしかできない体験』を高く採点できる根拠が不足した。価格情報・ネガティブ口コミの個別確認も検索予算切れのため実施できなかった。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "検索予算の制約により個別のネガティブ口コミ確認（清潔感・接客・混雑等）は実施できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "白馬東急ホテルのクチコミ・感想・旅行記 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10045901" },
+        { "type": "booking_site", "title": "るるぶトラベル 白馬エリア", "url": "https://www.rurubu.travel/ja-jp/city/japan/hakuba" },
+        { "type": "other", "title": "白馬東急ホテル 施設情報 - cocolocala", "url": "https://www.cocolocala.jp/hotels/510319" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア54点で採用ライン75点に届かなかった。レビュー評価はサイトにより3.88〜4.4と割れ、ホテル主催のアクティビティプログラムを確認できず独自性・話題性のスコアを伸ばせなかったため見送った。"
+    },
+    {
+      "id": "2026-10-19-hakuba-oak-forest",
+      "name": "白馬ホテル オークフォレスト",
+      "region": "長野県北安曇郡白馬村",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "jcation（口コミ集計）", "score": 4.2, "scale": 5, "review_count": 82, "checked_date": "2026-10-19", "url": "https://jcation.com/hotel/detail-2157/" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な価格帯は今回の検索範囲（検索予算切れ）では確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "スキー場へのシャトルバスが便利という口コミが確認できたが、これは冬季スキー利用時の言及であり、グリーンシーズン・アクティビティ面での独自性（具体的なツアー・ガイドプログラム等）は確認できなかった。",
+      "renewal_or_news": "確認できなかった。",
+      "target_audience": ["家族", "友人", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 8,
+        "unique_experience_score": 6,
+        "photogenic": 7,
+        "value_for_price": 4,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 49,
+      "recommendation_reason": "口コミ集計で4.2（82件）という単一の集計ソースは確認できたが、原則7が求める独立した2情報源での裏取りが検索予算切れのため完了できなかった。口コミの内容も冬季スキー利用の言及が中心で、今回のテーマであるグリーンシーズンのアクティビティとの結び付きが弱く、独自性・映え・SNS話題性のスコアを伸ばせる根拠が乏しかった。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "検索予算の制約により個別のネガティブ口コミ確認は実施できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "白馬ホテル オークフォレスト - jcation", "url": "https://jcation.com/hotel/detail-2157/" },
+        { "type": "other", "title": "白馬・栂池 ホテル一覧 - マップル", "url": "https://www.mapple.net/region/a0306060501/hotel/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア49点で採用ライン75点に大きく届かなかった。独立2情報源での裏取りが完了できず、グリーンシーズンのアクティビティとの結び付きも確認できなかったため見送った。"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "cycle_date": "2026-10-17",
+  "theme": "沖縄県石垣島のビーチフロントリゾート",
+  "season_rationale": "石垣島は10月中旬〜11月上旬も海水温が高く、台風ピークが過ぎて過ごしやすい『狙い目』シーズンにあたる。離島リゾートカテゴリは奄美大島（2026-09-22）以来で、前回投稿（箱根・絶景ホテル、2026-10-16）とは地域・カテゴリともに重複しない（原則29）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-16-kai-sengokuhara", "region": "神奈川県箱根町仙石原", "category": "絶景ホテル" },
+    { "post_id": "2026-09-22-amami-yagijima-hotel", "region": "鹿児島県奄美市名瀬", "category": "離島リゾート" },
+    { "post_id": "2026-09-14-clubmed-ishigaki-kabira", "region": "沖縄県石垣市川平", "category": "オールインクルーシブ" }
+  ],
+  "duplication_note": "石垣島自体は2026-09-14にクラブメッド・石垣島カビラ（オールインクルーシブ）で一度登場しているが、約1ヶ月前のサイクルで直近投稿ではなく、今回はビーチフロントの離島リゾートという異なる切り口・異なる施設のため、原則29上の直接的な重複とは判断しなかった。",
+  "candidates": [
+    {
+      "id": "2026-10-17-ana-intercontinental-ishigaki",
+      "name": "ANAインターコンチネンタル石垣リゾート by IHG",
+      "region": "沖縄県石垣市真栄里（マエサトビーチ）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 4.59, "scale": 5, "review_count": 514, "checked_date": "2026-10-17", "url": "https://4travel.jp/dm_hotel-10053638" },
+        { "source": "Tripadvisor（Japan Travel Centre集計）", "score": 4.8, "scale": 5, "review_count": 452, "checked_date": "2026-10-17", "url": "https://new.japantravel-centre.com/accommodation/2185/" }
+      ],
+      "price_range_jpy": {
+        "note": "オーシャンスーペリア朝食付き49,000円〜、ベイスーペリア朝食付き68,000円〜、クラブスーペリア朝食付き78,000円〜（掲載サイトの参考値）。クラブインターコンチネンタル利用時は3名目以降1名1泊17,000円の追加料金あり。チェックアウト時にリゾート料金が別途発生する。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "マエサトビーチ目の前に立つビーチフロントリゾート。レストラン6店舗、ベイウィング前の『サンセットプール』、オーシャン・コーラルウィング宿泊者専用の『サンライズプール』、年間利用可能な屋内プール、ウォータースライダー付きガーデンプールなど、複数のプールを使い分けられる構成が特徴。ウミガメと一緒に泳げるスポットとしても知られる。",
+      "target_audience": ["家族", "カップル", "記念日", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 14,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 78,
+      "recommendation_reason": "フォートラベル4.59（514件）・Tripadvisor（Japan Travel Centre集計）4.8（452件）と、性質の異なる2つの独立した情報源でいずれも十分な件数のもと高評価を確認できた（原則6・7）。マエサトビーチ直結の立地と、ウィングごとに使い分けられる複数プールの構成が独自の強みとなっている。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミには、メインタワー『オーシャンウィング』側で店舗の閉店やバーの営業日の少なさに物足りなさを感じたという声（評価3.0）、コストパフォーマンスへの指摘（評価4.0でも言及）があった。いずれも棟や時期による体験差・価格感の話で、清潔感・安全性に関わる重大な指摘ではないため、disqualifying issueとは判断しなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "ANAインターコンチネンタル石垣リゾート - ANA国内ツアー", "url": "https://www.ana.co.jp/ja/jp/domtour/theme/premium_stay/anaihgishigaki/" },
+        { "type": "review_site", "title": "ANAインターコンチネンタル石垣リゾート by IHG - フォートラベル", "url": "https://4travel.jp/dm_hotel-10053638" },
+        { "type": "review_site", "title": "ANA InterContinental Ishigaki Resort - Japan Travel Centre", "url": "https://new.japantravel-centre.com/accommodation/2185/" },
+        { "type": "booking_site", "title": "ANAインターコンチネンタル石垣リゾートby IHG - じゃらんnet", "url": "https://www.jalan.net/yad315164/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-17-fusaki-beach-resort",
+      "name": "フサキビーチリゾート ホテル&ヴィラズ",
+      "region": "沖縄県石垣市美崎町（フサキビーチ）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 4.33, "scale": 5, "review_count": 275, "checked_date": "2026-10-17", "url": "https://4travel.jp/dm_hotel-10039054" }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では現在の正確な料金帯を確認できなかった。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "旧『フサキリゾートヴィレッジ』が2018年12月に『フサキビーチリゾート ホテル&ヴィラズ』としてリブランドオープン。石垣粥（ホタテで味付け）など朝食メニューに好意的な口コミがある。",
+      "target_audience": ["家族", "カップル", "友人"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 8,
+        "unique_experience_score": 13,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 65,
+      "recommendation_reason": "フォートラベルの4.33（275件）は十分な件数だが、楽天トラベル・一休.com・TripadvisorいずれもこのセッションのWebSearchでは数値評価に到達できず、独立した2件目の情報源を確認できなかった（原則7未達）。また直近の口コミ（2022年）でレストラン予約制への変更、過去の口コミ（2014年）で室内のにおいに関する指摘があり、改善状況が最新情報で確認できない点も留意した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2022年の投稿でレストランが予約制に変わり以前より利用しづらくなったという指摘、2014年の投稿で室内に独特のにおいがあったという指摘があった。いずれも最新の状況は確認できていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "フサキビーチリゾート ホテル&ヴィラズ - フォートラベル", "url": "https://4travel.jp/dm_hotel-10039054" },
+        { "type": "booking_site", "title": "フサキビーチリゾート ホテル&ヴィラズ - じゃらんnet", "url": "https://www.jalan.net/yad320535/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立した2件目の数値評価情報源を確認できず原則7を満たせないこと、また直近の改善状況が不明な過去の指摘があることから見送った。"
+    },
+    {
+      "id": "2026-10-17-granvirio-resort-ishigaki",
+      "name": "グランヴィリオリゾート石垣島",
+      "region": "沖縄県石垣市真栄里",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "スカイチケット", "score": 4.5, "scale": 5, "review_count": 1935, "checked_date": "2026-10-17", "url": "https://skyticket.jp/hotel/detail/property_9186/" }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では現在の正確な料金帯を確認できなかった。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "石垣島の中でも大規模なリゾートホテルで、スカイチケットには1,935件という大量のクチコミが集まっている。",
+      "target_audience": ["家族", "カップル", "友人"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 6,
+        "unique_experience_score": 14,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 64,
+      "recommendation_reason": "スカイチケット4.5（1,935件）という非常に大きなレビュー母数は魅力的だが、楽天トラベル・一休.com・フォートラベルの集計評価・Tripadvisorいずれも数値として確認できず、独立した2件目の情報源を得られなかった（原則7未達）。単一サイトのみの高評価では採用基準を満たせないと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの個別クチコミでは評価が3.5〜5.0と幅があることを確認したが、集計値が得られず全体傾向は判断できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "グランヴィリオリゾート石垣島 - スカイチケット", "url": "https://skyticket.jp/hotel/detail/property_9186/" },
+        { "type": "review_site", "title": "グランヴィリオリゾート石垣島 - フォートラベル", "url": "https://4travel.jp/dm_hotel_tips/13403193" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立した2件目の数値評価情報源を確認できず、原則7（複数の独立情報源での裏付け）を満たせないため除外した。"
+    }
+  ]
+}

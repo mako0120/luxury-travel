@@ -1,0 +1,132 @@
+{
+  "cycle_date": "2026-10-27",
+  "theme": "カテゴリ『オールインクルーシブ』×地域『福岡県糸島市』",
+  "season_rationale": "糸島は福岡市中心部から車で1時間弱と近く、二見ヶ浦の夕景・サンセットやカフェ巡りで人気のエリア。11月に向けて気候が落ち着き、海沿いの宿でゆったり過ごす需要が高まる時期。カテゴリ『オールインクルーシブ』はこれまで沖縄・北海道・東海・北陸・九州各地の温泉地や離島で継続調査してきたが、福岡県・糸島市は同カテゴリで未調査の地域だった。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-26-all-inclusive-ibusuki", "region": "鹿児島県指宿市", "category": "オールインクルーシブ", "note": "直近のオールインクルーシブサイクル。公式に『オールインクルーシブ』を名乗るプランが確認できず3件とも不採用。地域は重複しない。" },
+    { "post_id": "2026-10-25-all-inclusive-noboribetsu", "region": "北海道登別市登別温泉町", "category": "オールインクルーシブ", "note": "登別万世閣をselected。地域は重複しない。" },
+    { "post_id": "2026-10-23-all-inclusive-amakusa / 2026-10-23-all-inclusive-unzen-shimabara", "region": "熊本県天草／長崎県雲仙・島原", "category": "オールインクルーシブ", "note": "九州の別地域サイクル。いずれも『オールインクルーシブを公式に明示したプランが確認できず不採用』という結論で、本サイクルの判断基準の参考にした。地域は重複しない。" },
+    { "post_id": "2026-10-18-fukuoka-gentei-event", "region": "福岡県福岡市", "category": "その他（期間限定イベント）", "note": "同一県（福岡）だが別カテゴリ・別地域（福岡市）。糸島市のオールインクルーシブとは重複しない。" },
+    { "post_id": "2026-10-20-yamanakako-itoshima-glamping", "region": "山梨県山中湖村／福岡県糸島市", "category": "グランピング", "note": "糸島市を含むが別カテゴリ（グランピング）のサイクル。本サイクルは別カテゴリ『オールインクルーシブ』としての再調査であり重複にはあたらないが、既出のグランピング系施設の有無は参考にした。" }
+  ],
+  "duplication_note": "data/candidates・captions配下の既存全件をファイル名・内容（『糸島』『Itoshima』を含むか）で確認した結果、福岡県糸島市を対象とした『オールインクルーシブ』カテゴリの候補はdecisionに関わらず一件も存在しないことを確認した（重複なし）。1ヶ月以上前（2026-09-14〜2026-09-22）のオールインクルーシブ候補（石垣島・北海道トマム・サホロ・札幌・瀬戸内クルーズ）も確認したが、いずれも糸島市とは地域が異なる。",
+  "research_note": "WebSearchで『糸島市 オールインクルーシブ ホテル』『糸島 オールインクルーシブ 宿泊プラン 飲み放題 食べ放題』『グローカルホテル糸島 オールインクルーシブ プラン』『ubusuna空火海 糸島 オールインクルーシブ 口コミ』『糸島 グランピング 飲み放題 食べ放題 込み 宿泊』『糸島グランピングビレッジ地球ミライ 公式 料金 プラン ドリンク』『Alba HOTEL Glamping 糸島 口コミ 評価』『糸島 オールインクルーシブ リゾート 2026』『seven x seven 糸島 公式 プラン 料金 オールインクルーシブ』など多数のクエリで調査したが、福岡県糸島市内で宿泊料金に食事・ドリンク・アクティビティを包括的に含む『オールインクルーシブ』を公式に明示している宿泊施設は確認できなかった。調査の過程で、糸島の地名で紹介されることが多い『seven x seven 糸島』（2026年4月リニューアルでプール・サウナを新設、じゃらん評価4.4／52件）と『Alba HOTEL & Glamping』（じゃらん評価4.3／18件）の2施設は、実際の行政所在地がいずれも福岡市西区（西浦・今津）であり糸島市ではないことが複数の情報源（公式住所表記）で確認できたため、地域条件『福岡県糸島市』を満たさないと判断し、候補として採点しなかった（マーケティング上『糸島』を名乗るが行政区は福岡市西区）。糸島市内に実在する施設の中では、グローカルホテル糸島（糸島市泊）・糸島グランピングビレッジ地球ミライ（糸島市二丈松末）・ubusuna空火海／KUBIKAI（糸島市福吉）の3件を調査・採点したが、いずれも朝食ビュッフェのみ／BBQ食材・ドリンクが別料金または持ち込み前提／グリル利用のみ無料など、食事・飲料が宿泊料金に包括的に含まれる『オールインクルーシブ』とは言えず、3件とも不採用とした。このセッションのWebSearch利用上限に達したため、追加候補（CODE ROOMS ITOSHIMA等）の数値的な口コミ評価の確認は打ち切っている。次サイクル以降、糸島市での再調査（別カテゴリでの紹介、または他地域でのオールインクルーシブ継続）を推奨する。",
+  "candidates": [
+    {
+      "id": "2026-10-27-glocal-hotel-itoshima",
+      "name": "グローカルホテル糸島",
+      "region": "福岡県糸島市泊844-1",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル（Mapple掲載の口コミ評価）", "score": 4.47, "scale": 5, "review_count": 465, "checked_date": "2026-10-27", "url": "https://www.mapple.net/pref/40230/hotel/" }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらん掲載では1泊大人2名18,000円〜（税込）。JTB掲載の『糸島新鮮食材の朝食ビュッフェ付き』プランも確認したが、いずれも朝食のみが付帯するプランで、オールインクルーシブ（食事・ドリンク・アクティビティ込み）と明記された料金は確認できなかった。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2021年8月開業、糸島市泊に位置する全85室・10タイプの客室を持つホテル。館内レストラン『太陽の皿』で糸島野菜を使った料理をビュッフェ形式で提供し、近隣の提携店『伊都ダイニング』も利用できる。大浴場もあり、駐車場は無料。",
+      "target_audience": ["家族", "カップル", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 10,
+        "unique_experience_score": 8,
+        "photogenic": 8,
+        "value_for_price": 4,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 59,
+      "recommendation_reason": "楽天トラベル評価4.47（465件）と口コミ評価自体は高いが、複数のクエリで検索した限り、食事・ドリンク・アクティビティが宿泊料金に包括的に含まれる『オールインクルーシブ』と呼べるプランの存在を確認できず、確認できたのは朝食ビュッフェ付きプランのみだった。独立した2情報源での数値確認も今回はできていない。今回のカテゴリ条件『オールインクルーシブ』の適合性が確認できないため不採用。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "オールインクルーシブプランの有無確認が主目的だったため、低評価レビューの体系的な確認までは行っていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "グローカルホテル糸島 公式ディレクトリページ (gltjp.com)", "url": "https://www.gltjp.com/ja/directory/item/18770/" },
+        { "type": "booking_site", "title": "グローカルホテル糸島 - じゃらんnet", "url": "https://www.jalan.net/yad326485" },
+        { "type": "review_site", "title": "糸島市のホテル一覧（楽天トラベル口コミ評価掲載） - Mapple", "url": "https://www.mapple.net/pref/40230/hotel/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "地域（糸島市）は条件に合致し口コミ評価も高いが、オールインクルーシブという今回のカテゴリ条件を満たすプランの存在を確認できなかったため不採用。"
+    },
+    {
+      "id": "2026-10-27-chikyu-mirai-itoshima",
+      "name": "糸島グランピングビレッジ 地球ミライ",
+      "region": "福岡県糸島市二丈松末1982-10",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "2022年3月の開業時の紹介記事が中心で、現時点（2026年10月）の正確な料金はこのセッションのWebSearchでは確認できなかった。夕食（BBQコース4種から選択）・朝食（パニーニセット）は宿泊プランに含まれると紹介されているが、ドリンクが料金に含まれるかは確認できていない。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2022年3月19日開業、糸島市二丈松末の海沿いに立つ4棟限定・全室オーシャンビューのドーム型グランピングテント（エアコン完備）。夕食は『特選黒毛和牛BBQコース』『糸島のジビエBBQコース』など4種類から選べ、朝食はパニーニセット。宿泊者は車で約3分の温泉『きららの湯』に無料で入浴できる。",
+      "target_audience": ["カップル", "家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 14,
+        "photogenic": 12,
+        "value_for_price": 3,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 37,
+      "recommendation_reason": "夕食BBQコース・朝食・近隣温泉の無料入浴という食事込みの要素はあり独自性も高いが、ドリンクが料金に含まれるかを確認できず、施設自体も『オールインクルーシブ』を公式に名乗っているわけではない。加えて楽天トラベル・じゃらん等の数値的な口コミ評価・件数も今回のWebSearchでは確認できず、原則6・7のファクトチェックを満たせないため不採用。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "数値的な口コミ件数・評価自体を確認できなかったため、低評価レビューの内容確認には至っていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "糸島グランピングビレッジ地球ミライ 紹介記事 - Camp Hack (nap-camp.com)", "url": "https://camphack.nap-camp.com/special/play/vol8" },
+        { "type": "other", "title": "糸島グランピングビレッジ 地球ミライ - Time Out Tokyo", "url": "https://www.timeout.jp/tokyo/ja/things-to-do/itoshima-glamping-sdgs-village-chikyu-mirai" },
+        { "type": "other", "title": "糸島グランピングビレッジ地球ミライ 紹介記事 - いこーよ", "url": "https://report.iko-yo.net/articles/15987" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "地域（糸島市）・グランピングとしての独自性はあるが、今回のカテゴリ条件『オールインクルーシブ』に該当する食事・飲料込みプラン（特にドリンク込み）を確認できず、数値的な口コミ評価・件数も確認できなかったため不採用。"
+    },
+    {
+      "id": "2026-10-27-ubusuna-kubikai-itoshima",
+      "name": "ubusuna空火海（KUBIKAI）",
+      "region": "福岡県糸島市福吉",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "じゃらん掲載で1泊大人2名57,600円〜。BBQ付き夕食プランは36,700円〜（1名表示）・73,400円〜（2名表示）とみられる掲載もあったが表示の見方が不明確。BBQグリルの利用は無料だが、BBQ食材・もつ鍋等は有料注文または持ち込みが前提で、ドリンクも料金に含まれるとの記載は確認できなかった。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "糸島市福吉、JR筑肥線福吉駅から徒歩約5分、福岡空港から車で約45分に位置する1日1組限定のプライベートプール付きヴィラ。KUBIKAI ZERO（空火海ゼロ館）・KUBIKAI THALASSO（空火海タラソ館）の2棟があり、無料のBBQグリルを利用できる。",
+      "target_audience": ["カップル", "記念日", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 13,
+        "photogenic": 11,
+        "value_for_price": 3,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 33,
+      "recommendation_reason": "1日1組限定のプライベートプール付きヴィラという独自性は高いが、BBQグリルの無料利用はあるものの食材・ドリンクは持ち込みまたは別料金が前提で、宿泊料金に食事・飲料が包括的に含まれる『オールインクルーシブ』とは言えない。姉妹施設の口コミも1件のみで件数不足のため数値評価も確認できず、今回は不採用。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "姉妹施設（ubusuna空火海）の口コミが1件のみで、低評価レビューの傾向を確認できるだけの件数がなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "ubusuna空火海 料金・宿泊プラン - じゃらんnet", "url": "https://www.jalan.net/yad395073/plan/" },
+        { "type": "booking_site", "title": "KUBIKAI (空火海) - 489ban予約ページ", "url": "https://reserve.489ban.net/client/planb-fuk/0/detail/1162917" },
+        { "type": "review_site", "title": "ubusuna空火海 - 一休.com", "url": "https://www.ikyu.com/00052178/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "地域（糸島市）には合致するが、食事・飲料が料金に包括的に含まれる『オールインクルーシブ』の確認ができず、今回のカテゴリ条件を満たさないため不採用。"
+    }
+  ]
+}

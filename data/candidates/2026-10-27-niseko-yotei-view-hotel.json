@@ -1,0 +1,189 @@
+{
+  "cycle_date": "2026-10-27",
+  "theme": "北海道ニセコ（虻田郡倶知安町・ニセコ町エリア）の絶景ホテル（羊蹄山ビュー）",
+  "season_rationale": "10月下旬のニセコ・倶知安エリアは積雪前の晴天率が高く、空気が澄んで『蝦夷富士』と呼ばれる羊蹄山（標高1898m）がくっきり望める時期にあたる。紅葉も見頃の終盤に差しかかり、グリーンシーズン最後の落ち着いた時期として、冬のスキーリゾートとしてのイメージが強いニセコの『絶景』の側面を訴求できる。既存データでは北海道の『絶景ホテル』カテゴリは阿寒湖（2026-10-24）・洞爺湖（2026-09-22）・富良野・美瑛（2026-10-21）で扱われているが、ニセコ（虻田郡倶知安町・ニセコ町エリア）は本サイクルが初めての切り口。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-24-akan-view-hotel", "region": "北海道阿寒湖（阿寒湖温泉）", "category": "絶景ホテル" },
+    { "post_id": "2026-09-22-toyako-view-hotel", "region": "北海道洞爺湖温泉", "category": "絶景ホテル" },
+    { "post_id": "2026-10-21-furano-biei-view-hotel", "region": "北海道富良野・美瑛エリア", "category": "絶景ホテル" },
+    { "post_id": "2026-10-26-kawaguchiko-view-hotel", "region": "山梨県南都留郡富士河口湖町（河口湖畔）", "category": "絶景ホテル" },
+    { "post_id": "2026-10-25-chuzenjiko-view-hotel", "region": "栃木県日光市中禅寺湖", "category": "絶景ホテル" }
+  ],
+  "duplication_note": "`data/candidates/` と `captions/` を `grep -il \"niseko|ニセコ|倶知安\"` で確認した結果、北海道ニセコ（虻田郡倶知安町・ニセコ町エリア）に関する既存候補・キャプションは1件も存在しなかった（1ヶ月以上前のデータも含め確認済み）。北海道内の『絶景ホテル』カテゴリ自体は阿寒湖・洞爺湖・富良野・美瑛で既出だが、いずれも地域が異なるため重複に該当しない。",
+  "research_note": "ニセコ・倶知安エリアの『絶景ホテル』候補としてWebSearchで計5件を調査した。(1)『スカイニセコ（Skye Niseko）』(倶知安町ひらふ地区最上部)、(2)『東山ニセコビレッジ、ザ・リッツ・カールトン・リザーブ』(ニセコ町曽我)、(3)『坐忘林（ザボリン）』(ニセコ温泉郷の森の中の個室温泉旅館)、(4)『鶴雅別荘 杢の抄』(ニセコ町昆布温泉)、(5)『AYA Niseko』(倶知安町ひらふ地区、デザイン性の高いスキーイン宿)。このセッションのネットワーク環境では主要予約サイト（jalan.net、公式サイト skyeniseko.com 等）への直接WebFetchはEGRESS_BLOCKED（DNS解決不可）となったため、数値評価はWebSearchのスニペット経由で取得した情報源として明記のうえ採用した。坐忘林は『国内外から高い評価』といった定性的な紹介は複数確認できたが、一休.com・じゃらん・楽天トラベル等での具体的な口コミ件数・点数をこのセッションのWebSearchでは確認できなかったため、推測で数値を補うことはせず（原則7）、候補データとしては不採用・未採点のまま候補リストから除外した。鶴雅別荘 杢の抄も、ニフティ温泉の口コミが2013年投稿の3件・3.5点と古く少数で、別サイト（gutabi）の2020年投稿4.00点も1件のみと、現在の評価として十分な件数の独立情報源に到達できなかったため、同様に候補リストから除外した。AYA Niseko は海外OTA集計で9.0/10（426件）等と高評価だが、検索で確認できた紹介内容はデザイン性・スキーインアクセスが中心で、本サイクルのテーマである『羊蹄山などの眺望』を売りとする具体的な記述が確認できなかったため、『絶景ホテル』カテゴリとしての切り口が弱いと判断し候補リストから除外した。スカイニセコは楽天トラベル（4.6／5点、64件）・Booking.com（9.4／10点、257件）・HotelsCombined集約（9.6／10点、225件）という3つの独立した情報源で、いずれも推奨ライン（5点換算4.2以上相当）を上回る高評価を確認できたため採用した。東山ニセコビレッジ、ザ・リッツ・カールトン・リザーブは羊蹄山ビューや風呂・客室自体の評価は高いものの、主要国内レビューサイトのフォートラベル（16件・3.36、原則6の4.0基準未満）に加え、海外の複数の独立したレビュー記事（One Mile at a Time）でブランド基準に対する一貫した不満（『disappointing』『misbranded』等）が確認でき、ネガティブレビューの重みを考慮して不採用とした。",
+  "candidates": [
+    {
+      "id": "2026-10-27-skye-niseko",
+      "name": "スカイニセコ（Skye Niseko）",
+      "region": "北海道虻田郡倶知安町（ニセコひらふ地区の最上部）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 64,
+          "checked_date": "2026-10-27",
+          "url": "https://travel.rakuten.com/gbr/en-us/hotel_info_item/cnt_japan/sub_hokkaido/cty_kutchan_town/10123456796038/"
+        },
+        {
+          "source": "Booking.com",
+          "score": 9.4,
+          "scale": 10,
+          "review_count": 257,
+          "checked_date": "2026-10-27",
+          "url": "https://sp.booking.com/hotel/jp/skye-niseko.en-gb.html"
+        },
+        {
+          "source": "HotelsCombined（集約評価）",
+          "score": 9.6,
+          "scale": 10,
+          "review_count": 225,
+          "checked_date": "2026-10-27",
+          "url": "https://www.hotelscombined.com.sg/Hotel/Skye_Niseko.htm"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な宿泊料金はこのセッションのWebSearchでは確認できなかった（公式サイトskyeniseko.comへの直接アクセスがEGRESS_BLOCKEDのため）。ニセコひらふ地区上部に位置する105室規模のラグジュアリーコンドミニアムホテルとして、冬季スキーシーズンを中心に上位価格帯で紹介されている。冬季の駐車場料金は5,000円/日（じゃらん掲載情報、2026年時点）。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "ニセコひらふ地区の最上部（山頂付近）に位置し、スキー場に直結した真のスキーイン・スキーアウトを提供する点がニセコでも独自とされる。標高が高いため、ゲレンデ側と羊蹄山側の両方を遮るものなく一望でき、窓いっぱいに『蝦夷富士』こと羊蹄山が広がる客室が複数の口コミで紹介されている。全105室がスタジオ（約38〜39㎡）から大型ペントハウスまで揃うコンドミニアムスタイルで、地下深くから汲み上げた天然温泉を使った屋内浴場・屋外露天風呂、貸切温泉を完備。レストラン『Kumo』からも羊蹄山の眺望が楽しめる。2018年12月開業で、World Ski Awards 2019にノミネートされた実績がある。",
+      "renewal_or_news": "2018年12月開業。World Ski Awards 2019（Japan部門）にノミネートされた実績がある（worldskiawards.com掲載）。",
+      "target_audience": ["カップル", "記念日", "夫婦", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 82,
+      "recommendation_reason": "楽天トラベル（64件・4.6／5点換算）、Booking.com（257件・9.4／10点＝5点換算4.7相当）、HotelsCombined集約（225件・9.6／10点＝5点換算4.8相当）という3つの独立した情報源が、いずれも十分な件数を伴いながら推奨ライン（4.2以上）を大きく上回っており、評価の裏付けが厚い。ニセコひらふ地区最上部という立地から得られる、遮るものがない羊蹄山とゲレンデ両方の眺望、天然温泉の内湯・露天風呂・貸切温泉という体験は、冬季スキーリゾートとしてのイメージが強いニセコの『絶景』という切り口として説得力がある。具体的な宿泊料金が未確認であるため価格対体験価値の配点は保守的にとどめ、SNS話題性もWorld Ski Awardsノミネート等の実績はあるが国内一般層への浸透度は限定的と判断し保守的に配点した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一休.com（タイ語版）の口コミでは、バスルーム・トイレのアクセシビリティやトイレットペーパーが貼り付きやすいといった設備面の小さな指摘があったが、投稿者自身は全体として『優れた施設』と評価していた。別の一休口コミ（本文一部のみ確認）では『以前のマネージャー時代の方がサービスが良かった』との言及があったが詳細は未確認。口コミサイト（こころから）の一部投稿では、時期によりバー等の施設が閉まっていたとの言及があった。Yahoo!トラベルの項目別評価では温泉・お風呂が4.11と他項目（客室4.74、施設4.79、接客4.7、食事4.7）よりやや低めだった。安全・衛生面や重大なサービス欠陥の指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "Skye Niseko - Booking.com（257件・9.4/10）",
+          "url": "https://sp.booking.com/hotel/jp/skye-niseko.en-gb.html"
+        },
+        {
+          "type": "booking_site",
+          "title": "Skye Niseko - 楽天トラベル（64件・4.6/5）",
+          "url": "https://travel.rakuten.com/gbr/en-us/hotel_info_item/cnt_japan/sub_hokkaido/cty_kutchan_town/10123456796038/"
+        },
+        {
+          "type": "review_site",
+          "title": "スカイニセコ - Yahoo!トラベル（口コミ・項目別評価）",
+          "url": "https://travel.yahoo.co.jp/00002602"
+        },
+        {
+          "type": "other",
+          "title": "Skye Niseko - HotelsCombined（集約評価225件・9.6/10）",
+          "url": "https://www.hotelscombined.com.sg/Hotel/Skye_Niseko.htm"
+        },
+        {
+          "type": "press",
+          "title": "Skye Niseko (Japan) - World Ski Awards 2019 候補",
+          "url": "https://worldskiawards.com/vote/skye-niseko-japan-2019"
+        },
+        {
+          "type": "press",
+          "title": "Skye Niseko in the \"Aspen of Asia\" - Metropolis Japan",
+          "url": "https://metropolisjapan.com/skye-niseko/"
+        }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-27-ritz-carlton-reserve-niseko",
+      "name": "東山ニセコビレッジ、ザ・リッツ・カールトン・リザーブ（The Higashiyama Niseko Village, a Ritz-Carlton Reserve）",
+      "region": "北海道虻田郡ニセコ町曽我",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル",
+          "score": 3.36,
+          "scale": 5,
+          "review_count": 16,
+          "checked_date": "2026-10-27",
+          "url": "https://4travel.jp/dm_hotel-11852313"
+        },
+        {
+          "source": "Relux",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 11,
+          "checked_date": "2026-10-27",
+          "url": "https://rlx.jp/25444/review/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "過去の紹介記事（ファッションプレス掲載時点）では羊蹄スイートが¥190,050〜（夏季・朝食付き）と紹介されていたが、記事掲載時点の情報であり現在の料金・空室状況とは異なる可能性が高い。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "ニセコビレッジ内、ニセコアンヌプリの麓に位置し、羊蹄山が最も美しく望める立地の一つとされる。全50室中6室が専用温泉付きの『羊蹄スイート』で、世界に5軒しかない『リッツ・カールトン・リザーブ』ブランドの日本初進出施設としてYTLホテルズが運営する。",
+      "renewal_or_news": "2020年12月15日開業。",
+      "target_audience": ["カップル", "記念日", "夫婦", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 6,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 3,
+        "sns_buzz": 6,
+        "access_and_freshness": 2
+      },
+      "score": 59,
+      "recommendation_reason": "羊蹄山ビューの客室・ラグジュアリーな風呂や接客自体への評価（フォートラベルの項目別で風呂4.67・客室4.58、Reluxの接客4.6・風呂4.5）は高く、世界5軒目・日本初の『リッツ・カールトン・リザーブ』ブランドという話題性もある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "海外の宿泊ブログ・フォーラム（One Mile at a Time）で複数回にわたり『disappointing』『misbranded』と評され、リッツ・カールトン・リザーブというブランド基準に対してジム・スパが『modest』『basic』、サービスが一貫しない等の指摘があり、別記事では『Park Hyattの方が良い』との比較評まで見られた。TripAdvisorのレビューをホテル比較記事内で『Motel 6のよう』と評する投稿も引用されている（執筆者自身はその比較を『言い過ぎ』としつつも全体的な失望感には同意）。一休.com（2026年8月投稿）では、到着時に出迎えのスタッフがおらず自身で駐車し荷物を運んだとの報告があった。フォートラベルでもアクセスの評価が2.90と項目別で最も低い。安全・衛生面の重大な指摘は確認できなかったが、ブランド基準に対する不満が複数の独立したソースで一致している。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "The Higashiyama Niseko Village, a Ritz-Carlton Reserve - 公式サイト Hotel Stories",
+          "url": "https://www.ritzcarlton.com/ja/hotels/ctsrz-higashiyama-niseko-village-a-ritz-carlton-reserve/hotel-stories/"
+        },
+        {
+          "type": "review_site",
+          "title": "東山ニセコビレッジ、ザ・リッツ・カールトン・リザーブ - フォートラベル（16件・3.36）",
+          "url": "https://4travel.jp/dm_hotel-11852313"
+        },
+        {
+          "type": "review_site",
+          "title": "東山ニセコビレッジ、ザ・リッツ・カールトン・リザーブ - Relux（11件・4.4）",
+          "url": "https://rlx.jp/25444/review/"
+        },
+        {
+          "type": "press",
+          "title": "北海道ニセコに「ザ・リッツ・カールトン・リザーブ」開業 - Fashion Press",
+          "url": "https://www.fashion-press.net/news/67984"
+        },
+        {
+          "type": "other",
+          "title": "Review: Ritz-Carlton Reserve Niseko Higashiyama, Japan (Underwhelming) - One Mile at a Time",
+          "url": "https://onemileatatime.com/community/marriott/review-ritz-carlton-reserve-niseko-higashiyama-japan-underwhelming/"
+        },
+        {
+          "type": "other",
+          "title": "一休.com 口コミ（到着時対応に関する報告）",
+          "url": "https://www.ikyu.com/th-th/00002874/review/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要国内レビューサイト（フォートラベル、16件）の総合満足度が3.36で原則6の4.0基準を満たさず、Relux（4.4）という2件目の独立情報源はあるものの、海外の複数の独立したレビュー記事・フォーラムでブランド基準に対する一貫した不満（『disappointing』『misbranded』、アメニティ・サービスの弱さ）が確認でき、一休.comの口コミでも到着時対応の不備が報告されている。羊蹄山ビューや風呂・客室自体の魅力は高いが、ネガティブレビューの重みを考慮し原則6・10に基づき不採用とした。"
+    }
+  ]
+}

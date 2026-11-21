@@ -1,0 +1,107 @@
+{
+  "cycle_date": "2026-10-25",
+  "theme": "離島リゾート（北海道礼文島）の新規調査",
+  "season_rationale": "離島リゾートカテゴリでは沖縄（宮古島・下地島）、鹿児島（屋久島・甑島）、長崎（壱岐・対馬・五島）、新潟/島根（佐渡島・隠岐諸島）と調査が続いてきたが、北海道の離島（利尻・礼文）は本リポジトリで一度も対象になっていなかった。北海道自体は阿寒湖（絶景ホテル）・トマム（オールインクルーシブ）・観光列車・札幌（カフェ企画）と既出だが、いずれも離島リゾートではない。礼文島は『日本最北の有人離島』『花の浮島』として知られ、独自の高山植物やウニ・昆布などの海産、利尻富士を望む景観など『まだ知られていない良さ』を伝えやすい要素を持つため、依頼により新規地域として着手した。なお礼文島は定期航路や宿泊施設の営業体制が季節で変わる地域であり（例: ゲストハウス『星観荘』は4月下旬〜10月末運営と確認）、10月下旬の調査時点では晩秋〜冬季の営業体制変化に注意が必要と判断し、各候補の営業期間確認状況を個別に明記した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-24-akan-view-hotel", "region": "北海道阿寒湖温泉", "category": "絶景ホテル", "note": "北海道の既出事例だが離島リゾートではない。" },
+    { "post_id": "2026-10-24-tomamu-all-inclusive", "region": "北海道トマム", "category": "オールインクルーシブ", "note": "北海道の既出事例だが離島リゾートではない。" },
+    { "post_id": "2026-10-23-hokkaido-kanko-ressha", "region": "北海道（観光列車）", "category": "列車・船", "note": "北海道の既出事例だが離島リゾートではない。" },
+    { "post_id": "2026-10-24-sapporo-gentei-event", "region": "北海道札幌市", "category": "その他（カフェ企画）", "note": "北海道の既出事例だが離島リゾートではない。" },
+    { "post_id": "2026-10-20-sado-oki-resort", "region": "新潟県佐渡島／島根県隠岐諸島", "category": "離島リゾート", "note": "隠岐のEntôが82点でselected。" },
+    { "post_id": "2026-10-24-iki-island-resort", "region": "長崎県壱岐島", "category": "離島リゾート", "note": "平山旅館が79点でselected。" },
+    { "post_id": "2026-10-22-tsushima-remote-island-resort", "region": "長崎県対馬市", "category": "離島リゾート", "note": "候補全て不採用（最高51点）。" },
+    { "post_id": "2026-10-23-koshikishima-remote-island-resort", "region": "鹿児島県甑島", "category": "離島リゾート", "note": "候補全て不採用（最高53点）。" },
+    { "post_id": "2026-10-23-yakushima-remote-island-resort-recheck", "region": "鹿児島県屋久島", "category": "離島リゾート", "note": "Samana Hotel Yakushimaが77点でselected。" },
+    { "post_id": "2026-10-22-miyakojima-remote-island-resort-recheck2", "region": "沖縄県宮古島市下地島", "category": "離島リゾート", "note": "シギラミラージュが81点でselected。" },
+    { "post_id": "2026-10-18-goto-retreat-ray", "region": "長崎県五島市（福江島）", "category": "離島リゾート", "note": "候補のみで選定なし。" }
+  ],
+  "duplication_note": "data/candidates・captions配下の全件（2026-09-14〜2026-10-24、1ヶ月以上前を含む）を『礼文』『れぶん』『rebun』『利尻』で確認した結果、北海道の離島（礼文島・利尻島）を対象とした候補・投稿は一件も存在せず、地域として完全に新規であることを確認した。離島リゾートというカテゴリ自体は沖縄・鹿児島・長崎・新潟/島根で既出だが、北海道の離島は今回が初めてであり重複にはあたらない。",
+  "candidates": [
+    {
+      "id": "2026-10-25-hana-rebun",
+      "name": "礼文温泉 花れぶん",
+      "region": "北海道礼文郡礼文町香深（礼文島・香深港フェリーターミナル周辺）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 5.0, "scale": 5, "review_count": 299, "checked_date": "2026-10-25", "url": "https://www.jalan.net/yad310605/" },
+        { "source": "楽天トラベル", "score": 4.9, "scale": 5, "review_count": 206, "checked_date": "2026-10-25", "url": "https://travel.rakuten.co.jp/ranking/onsen/hokkaido/wakkanai_0001_0_4_0_0.html" },
+        { "source": "icotto.jp", "score": 4.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-25", "url": "https://icotto.jp/hotels/3292" }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベルの最安料金表示は1室1泊16,000円〜（税込17,600円〜）。じゃらん経由の情報では1泊2名利用で41,800円〜46,200円という価格帯も確認でき、部屋タイプ（露天風呂付き客室か否か）・プランによる差が大きい。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "日本最北の有人島・礼文島にある、利尻礼文地域でも最大級とされる和風モダンホテル。香深港フェリーターミナルから徒歩8分（フェリー到着時間を伝えると送迎バスを利用できる）。4階フロア全体に広がる大浴場『花海の湯』は内風呂・露天風呂ともに温泉で、海を隔てて利尻富士を一望できる。一部客室には利尻富士ビューの部屋付き露天風呂もある。ロビーや客室前には生花が飾られ、女将をはじめとするスタッフの接客を評価する口コミが多い。食事は北海道・礼文島ならではの海鮮料理が中心。",
+      "renewal_or_news": "2026年に入ってからも複数の口コミサイトで投稿が継続しており、現在も通常営業していることを確認した。ただし礼文島は冬期に定期航路・観光施設の運航体制が変わる地域であり、本セッションのWebSearchでは花れぶん自体の冬季休業情報は確認できなかったため、制作直前に公式サイト・予約サイトで最新の営業期間を再確認する必要がある。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 83,
+      "recommendation_reason": "じゃらんnet5.0（299件）、楽天トラベル4.9という2つの独立した情報源で、件数・評価とも非常に高い水準の支持を確認できた。日本最北の有人島という立地で、湯に浸かりながら利尻富士を望める大浴場・部屋付き露天風呂、女将の行き届いた接客、生花を飾るおもてなしなど『独自体験』『写真映え』の訴求材料が揃っている。離島リゾートカテゴリでこれまで沖縄・鹿児島・長崎・新潟/島根と本州以南の島が続いていたため、北海道最北の離島という対照的な地域はカテゴリの幅を広げる意味でも良い選択。本リポジトリで初めて取り上げる地域であり、知名度が高いとは言えない礼文島という立地そのものをHidden Gemとして扱うのが適切と判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "WebSearchで『残念』『不便』等のネガティブワードを組み合わせて検索したが、花れぶん自体への明確な不満点は確認できなかった。唯一見つかった準ネガティブな言及は、礼文島滞在が1泊しか取れず忙しかったという口コミだが、これは旅程上の都合であり施設への不満ではない。独立した複数の情報源（じゃらんnet5.0・299件、楽天トラベル4.9）でも高評価が一貫しており、衛生・安全上の重大な指摘は確認されなかった。なお、icotto.jpの口コミ（4.0）は1件のみでサンプル数が少なく、参考情報として扱った。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "礼文温泉 花れぶん - じゃらんnet（5.0・299件）", "url": "https://www.jalan.net/yad310605/" },
+        { "type": "booking_site", "title": "礼文温泉 花れぶん - 楽天トラベル 温泉旅館・ホテル(立地)人気ランキング掲載（評価4.9・お客さまの声206件・最安16,000円〜）", "url": "https://travel.rakuten.co.jp/ranking/onsen/hokkaido/wakkanai_0001_0_4_0_0.html" },
+        { "type": "review_site", "title": "礼文温泉 花れぶん - icotto（口コミ4.0・1件）", "url": "https://icotto.jp/hotels/3292" },
+        { "type": "other", "title": "礼文温泉 花れぶん - JTB（口コミ・アンケート総合95点）", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/1502005/review/" },
+        { "type": "other", "title": "礼文温泉 花れぶん - 近畿日本ツーリスト 施設紹介（大浴場『花海の湯』・立地説明）", "url": "https://yado.knt.co.jp/st/S010023/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-25-shimanoyado-rebunshiri",
+      "name": "しまのやど れぶんしり REBUNSHIRE",
+      "region": "北海道礼文郡礼文町香深（礼文島・香深港フェリーターミナル徒歩5分）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "cocolocala", "score": 5.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-25", "url": "https://www.cocolocala.jp/hotels/242" }
+      ],
+      "price_range_jpy": {
+        "note": "cocolocala経由の表示で1名あたり21,300円〜という価格帯を確認した。1泊2食の正式な室料は今回の検索では確定できなかった。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2019年7月にリニューアルオープンした、香深港フェリーターミナルから徒歩5分の宿。『港を目前に臨むアットホームな宿』として紹介されている。温泉は近隣の町営温泉と同じ源泉を使用しているとされる。",
+      "target_audience": ["一人旅", "カップル", "家族"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 3,
+        "unique_experience_score": 10,
+        "photogenic": 7,
+        "value_for_price": 6,
+        "sns_buzz": 2,
+        "access_and_freshness": 4
+      },
+      "score": 42,
+      "recommendation_reason": "2019年リニューアルで室内が清潔という口コミや港への近接性は評価できるが、口コミ件数が極端に少なく（cocolocala1件・skyticket0件）、独立した2情報源での4.0以上評価確認（原則7）ができなかった。4travel.jpでは2022年の投稿で部屋の清潔さ・立地の良さを評価する声があった一方、女性用浴場が混雑時に利用しづらいという指摘もあり、花れぶんほどの独自性・写真映え訴求材料も確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "4travel.jpの口コミ（2022年6月投稿）で、女性用浴場は一人で使う分には良いが、先客がいると待つ必要があり不便という指摘があった。衛生・安全上の重大な指摘ではないためdisqualifying issueには該当しないと判断したが、口コミ総数自体が極端に少なく（cocolocala1件・skyticket0件）信頼性の高い評価確認ができなかった点が不採用の主因。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "しまのやど れぶんしり - じゃらんnet", "url": "https://www.jalan.net/yad337673" },
+        { "type": "review_site", "title": "しまのやど れぶんしり - フォートラベル（口コミ）", "url": "https://4travel.jp/dm_hotel-11796040" },
+        { "type": "other", "title": "しまのやど れぶんしり - cocolocala（口コミ5.0・1件）", "url": "https://www.cocolocala.jp/hotels/242" },
+        { "type": "other", "title": "しまのやど れぶんしり - Skyticket（口コミ0件）", "url": "https://skyticket.jp/hotel/hokkaido/bl_10078/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数が極端に少なく（cocolocala1件・skyticket0件）、原則7の独立2情報源・信頼性要件を満たせないため、総合スコア42点で不採用とした。"
+    }
+  ],
+  "cycle_conclusion": "北海道礼文島を対象に離島リゾートカテゴリで調査した。礼文温泉 花れぶんは、じゃらんnet5.0（299件）・楽天トラベル4.9という2つの独立情報源で高評価・高信頼性を確認でき、利尻富士を望む温泉と女将のもてなしという独自性を併せ持つ、本リポジトリ初登場の地域のHidden Gemとして83点でselectedとした。しまのやど れぶんしりは2019年リニューアルで立地も良いが、口コミ件数が極端に少なく独立した信頼性要件を満たせないため42点で不採用とした。このほか『ホテル礼文荘』『民宿やざわ』『ペンションう～に～』『ゲストハウス星観荘』についてもWebSearchで調査したが、営業期間や特徴の言及は得られたものの、独立した数値評価（スコア・口コミ件数）をこのサイクルの検索結果からは確認できず、捏造禁止の原則に従い構造化候補としては採用しなかった（WebSearchの利用上限に達したため、今サイクルでの追加確認は打ち切った）。これらは次回サイクルで、じゃらん・楽天トラベル等の施設ページを直接確認した上で再調査することを推奨する。captions/2026-10-25-hana-rebun.jsonを新規作成する。"
+}

@@ -1,0 +1,133 @@
+{
+  "cycle_date": "2026-09-18",
+  "theme": "神奈川県横浜市のホテルで開催中の期間限定アフタヌーンティー／グルメイベント（リサーチ＋キャプションのみ、画像構成なし）",
+  "season_rationale": "9月中旬〜11月は横浜みなとみらい・山下公園エリアの主要ホテルが『秋の味覚』『ハロウィン』をテーマにした期間限定アフタヌーンティーを一斉に展開する時期にあたり、少し贅沢な秋の街歩き旅の切り口として投稿タイミングに適している（原則30）。同種の『その他（期間限定イベント）』カテゴリは既に大阪府大阪市（シェラトン都ホテル大阪）で使用済みのため、依頼指定に基づき今回は神奈川県横浜市で新規に候補を調査した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-18-fufu-karuizawa", "region": "長野県北佐久郡軽井沢町（中軽井沢・星野温泉エリア）", "category": "サウナ" },
+    { "post_id": "2026-09-14-sheraton-yosweets", "region": "大阪府大阪市天王寺区（上本町）", "category": "その他（期間限定イベント）" },
+    { "post_id": "2026-09-20-mizu-no-oto", "region": "神奈川県足柄下郡箱根町（小涌谷）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館" }
+  ],
+  "duplication_note": "captions/ 直近は長野県軽井沢（サウナ）、その前の神奈川県関連投稿は posts/2026-09-20-mizu-no-oto（箱根・温泉旅館）のみで、横浜市・カテゴリ『その他（期間限定グルメイベント）』の投稿は data/candidates・captions のいずれにも存在しない。同一県内ではあるが箱根（温泉旅館）と横浜（都市型グルメイベント）はエリア・カテゴリとも異なるため、原則29の連続回避に抵触しない。依頼指定どおり大阪以外・横浜市限定で新規調査した。",
+  "research_constraints_note": "本サイクルは調査後半でこのセッションのWebSearch回数上限（200回/セッション）に到達し、Google/Tripadvisor/楽天トラベル/じゃらん等の口コミ評価・件数を確認するための追加検索が実行できなかった。加えてWebFetchは本セッションのネットワーク環境で対象ホテル公式サイト・PR TIMES・Tripadvisor・楽天トラベル・じゃらん・ホテルズドットコム・Googleマップ・Wikipedia等、試行したほぼ全てのドメインでEGRESS_BLOCKEDとなり、直接本文を確認できなかった。そのため本サイクルの3候補はいずれも、WebSearchのスニペットから確認できたプレスリリース・公式情報（開催期間・提供場所・一部価格）のみを根拠としており、施設全体の独立した口コミ評価・件数（review_scores）を原則7の水準で確認できていない。存在しない評価点・口コミ件数を捏造しないため、score_breakdownのreview_rating／review_reliabilityは3候補とも0点として扱い、この制約を理由に3候補とも不採用（rejected）とした。捏造を避けた結果として、今回のサイクルではcaptionファイルを作成していない。",
+  "candidates": [
+    {
+      "id": "2026-09-18-hilton-yokohama-marron-tea",
+      "name": "ヒルトン横浜 秋彩る マロンアフタヌーンティー（Bar & Lounge Melody）",
+      "region": "神奈川県横浜市西区（みなとみらい）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "『秋彩る マロンアフタヌーンティー』の具体的な価格は、今回参照できたプレスリリース（PR TIMES／value-press）・公式サイト（hiltonyokohama.jp）のいずれのWebSearchスニペットにも記載がなく、WebFetchもEGRESS_BLOCKEDのため公式ページ本文を直接確認できなかった。価格は未確認のまま。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "みなとみらいのヒルトン横浜『Bar & Lounge Melody』で提供される秋限定アフタヌーンティー。栗を主役に、パッションフルーツなど酸味・香りのある果実を掛け合わせた『栗×果実』構成で、『栗のムラングシャンティ』『栗とパッションのオペラ』等、栗の多彩な魅力を楽しめるメニュー構成。",
+      "renewal_or_news": "2026年9月1日(火)〜10月31日(土)の期間限定で提供中（PR TIMES・value-pressの複数プレスリリースで開催期間を確認済み）。",
+      "target_audience": ["カップル", "女子旅", "ホテル好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 12,
+        "photogenic": 11,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 5
+      },
+      "score": 38,
+      "recommendation_reason": "栗×果実という組み合わせは映え要素・季節感ともに悪くないが、価格情報が未確認（WebFetchブロックのため公式ページ本文を確認できず）であることに加え、ホテル全体の口コミ評価・件数を独立した2情報源で確認できなかった（原則7未達）。価格・口コミという判断材料が欠けたまま採用することはできない。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "本セッションではWebSearch回数上限到達とWebFetchのEGRESS_BLOCKEDが重なり、Google/Tripadvisor/楽天トラベル等の個別レビュー本文を一切確認できなかった。ネガティブレビューの有無・重大性を判断する材料がないため、checked=falseとして正直に記録する（存在しない安全確認を捏造しない）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "【ヒルトン横浜】栗スイーツを愛する大人へ贈る『秋彩る マロンアフタヌーンティー』を提供 | ヒルトン横浜のプレスリリース", "url": "https://prtimes.jp/main/html/rd/p/000000058.000115530.html" },
+        { "type": "press", "title": "【ヒルトン横浜】栗スイーツを愛する大人へ贈る『秋彩る マロンアフタヌーンティー』を9/1(火)より提供 - みなとみらいPRセンターのプレスリリース", "url": "https://www.value-press.com/pressrelease/379101" },
+        { "type": "official", "title": "アフタヌーンプラン｜【公式】ヒルトン横浜", "url": "https://hiltonyokohama.jp/plans/restaurants/afternoon" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score_breakdown合計38点で採用ライン（75点）を大きく下回る。主因はreview_rating／review_reliabilityが検証不能により0点であること、および価格が未確認であること（research_constraints_note参照）。"
+    },
+    {
+      "id": "2026-09-18-westin-yokohama-halloween-tea",
+      "name": "ウェスティンホテル横浜 ハロウィンアフタヌーンティー（ロビーラウンジ／シュガー・マーチャント）",
+      "region": "神奈川県横浜市西区（みなとみらい）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "平日（9/17時点の料金として確認）大人6,650円／子供3,325円（税・サービス料込み）。提供は3部制（①11:30〜／②13:45〜／③16:00〜、各100分）。土日祝は別料金体系（Bonvoyポイント利用時8,200/9,200ポイント相当との記載もあり）の可能性があり、検索結果内でも表記にばらつきが見られたため最終価格は要確認。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "みなとみらい23階、ウェスティンホテル横浜のロビーラウンジ『シュガー・マーチャント』で提供される『ちょっぴり不気味で愛らしい』ハロウィン限定アフタヌーンティー。津久井味噌とキャラメルを合わせたタルトショコラ、ブラックアップルとノワゼットプラリネのベリームース等、秋の味覚とハロウィンの世界観を掛け合わせたスイーツ構成。同時期にデザートビュッフェやヴーヴ・クリコとのコラボイベント『YELLOWEEN』も開催中で、ハロウィンシーズンの企画として厚みがある。",
+      "renewal_or_news": "2026年9月17日(木)〜10月31日(土)の期間限定で提供中（PR TIMES・value-pressのプレスリリースで開催期間を確認済み）。",
+      "target_audience": ["カップル", "女子旅", "友人", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 14,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 5
+      },
+      "score": 45,
+      "recommendation_reason": "ハロウィンというタイムリーなテーマ性、みなとみらい高層階の眺望、3候補中唯一価格が具体的に確認できた点（大人6,650円）で3候補中もっとも情報の裏付けが厚い。ただし土日祝の料金表記にばらつきがあり最終価格が未確定であること、何よりホテル全体の口コミ評価・件数を独立した2情報源で確認できなかった（原則7未達）ため、採用ラインには届かない。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "本セッションではWebSearch回数上限到達とWebFetchのEGRESS_BLOCKEDが重なり、Google/Tripadvisor/一休.com等の個別レビュー本文を一切確認できなかった。ネガティブレビューの有無・重大性を判断する材料がないため、checked=falseとして正直に記録する（存在しない安全確認を捏造しない）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "ちょっぴり不気味で愛らしい「ハロウィンアフタヌーンティー」9/17(木)から登場！ - みなとみらいPRセンターのプレスリリース", "url": "https://www.value-press.com/pressrelease/380592" },
+        { "type": "press", "title": "【ウェスティンホテル横浜】ハロウィン限定メニューとイベントを開催 遊び心あふれるアフタヌーンティーやデザートビュッフェ、ヴーヴ・クリコとの「YELLOWEEN」が登場", "url": "https://prtimes.jp/main/html/rd/p/000002812.000011305.html" },
+        { "type": "other", "title": "ウェスティンホテル横浜から「ハロウィンアフタヌーンティー」が登場。ブキミかわいいスイーツ＆セイボリー - OZmall", "url": "https://www.ozmall.co.jp/restaurant/afternoontea/article/46735/" },
+        { "type": "official", "title": "期間限定プラン | シュガー・マーチャント/ロビーラウンジ | ウェスティンホテル横浜", "url": "https://lobbylounge.westinyokohama.com/specials" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score_breakdown合計45点で採用ライン（75点）を下回る。3候補中もっとも情報の裏付けは厚いが、review_rating／review_reliabilityが検証不能により0点であることが主因（research_constraints_note参照）。"
+    },
+    {
+      "id": "2026-09-18-newgrand-autumn-tea",
+      "name": "ホテルニューグランド 秋のアフタヌーンティー（ロビーラウンジ ラ・テラス）",
+      "region": "神奈川県横浜市中区（山下公園前）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "7,590円（税・サービス料込み）。17時以降の利用は季節限定ドリンク（巨峰のカクテル、またはノンアルコールカクテル）1杯サービス。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "1927年開業、山下公園前の歴史あるクラシックホテル『ホテルニューグランド』本館1階ロビーラウンジ『ラ・テラス』で提供される紅葉モチーフの秋のアフタヌーンティー。セイボリーとスイーツを紅葉の彩りで構成し、17時以降は季節限定カクテル1杯がサービスされる。",
+      "renewal_or_news": "2026年11月1日(日)〜11月30日(月)の期間限定で提供予定（公式サイト・複数メディアで開催期間を確認済み）。調査時点（2026年9月18日）では開催開始前で、投稿タイミングとしてはやや先行した紹介になる。",
+      "target_audience": ["カップル", "記念日", "夫婦", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 13,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 42,
+      "recommendation_reason": "1927年開業の歴史的建造物という独自の雰囲気は魅力的だが、開催期間が11月1日〜30日とまだ1カ月以上先で『今すぐ』の訴求力に欠けること、そして他候補同様にホテル全体の口コミ評価・件数を独立した2情報源で確認できなかった（原則7未達）ため、採用ラインには届かない。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "本セッションではWebSearch回数上限到達とWebFetchのEGRESS_BLOCKEDが重なり、Google/Tripadvisor/一休.com等の個別レビュー本文を一切確認できなかった。ネガティブレビューの有無・重大性を判断する材料がないため、checked=falseとして正直に記録する（存在しない安全確認を捏造しない）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "ホテルニューグランド、「秋のアフタヌーンティー」を期間限定で販売！秋の訪れを贅沢に感じる特別な時間", "url": "https://www.gourmetbiz.net/257457/" },
+        { "type": "official", "title": "【ラ・テラス】秋のアフタヌーンティー｜レストラン＆バー｜【公式】ホテルニューグランド｜横浜 山下公園前のホテル", "url": "https://www.hotel-newgrand.co.jp/menu/afternoontea_autumn/" },
+        { "type": "other", "title": "見た目も秋色に染まる贅沢ティータイム！ホテルニューグランド「秋のアフタヌーンティー」", "url": "https://dtimes.jp/post-1380782/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score_breakdown合計42点で採用ライン（75点）を下回る。review_rating／review_reliabilityが検証不能により0点であることに加え、開催開始が11月1日からと投稿時点でやや先行しすぎる点も減点要因（research_constraints_note参照）。"
+    }
+  ]
+}

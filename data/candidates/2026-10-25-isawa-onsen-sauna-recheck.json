@@ -1,0 +1,127 @@
+{
+  "cycle_date": "2026-10-25",
+  "theme": "山梨県石和温泉（笛吹市）のサウナ施設",
+  "season_rationale": "10月下旬は朝晩の気温が下がり、サウナの発汗と外気浴による『ととのう』体験が心地よい季節。山梨県石和温泉×カテゴリ『サウナ』は2026-10-18に一度調査済みで、その際クア・アンド・ホテル石和健康ランド（score79）が選定され、スパランドホテル内藤・銘石の宿かげつは不採用となっている。既選定候補はDiscoveryレーンでも再採点・再除外しない方針のため、今回は重複回避のため同地域・同カテゴリで未調査の施設を新たに調査した。直近2026-10-24には鳥取県三朝温泉・富山県立山というカテゴリ『サウナ』の投稿があるが地域が異なるため連続とはみなさない。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-18-isawa-onsen-sauna", "region": "山梨県笛吹市石和温泉", "category": "サウナ", "note": "同一地域・同一カテゴリ。クア・アンド・ホテル石和健康ランド(score79)が選定済み。スパランドホテル内藤・銘石の宿かげつは不採用。" },
+    { "post_id": "2026-10-24-misasa-onsen-sauna", "region": "鳥取県三朝温泉", "category": "サウナ" },
+    { "post_id": "2026-10-24-toyama-tateyama-sauna", "region": "富山県立山", "category": "サウナ" },
+    { "post_id": "2026-10-23-atami-nasu-sauna-recheck2", "region": "静岡県熱海・栃木県那須", "category": "サウナ" }
+  ],
+  "duplication_note": "石和温泉×サウナは2026-10-18に調査済みで、クア・アンド・ホテル石和健康ランドが選定済み（制作承認済み、Discoveryレーンでも再採点・再除外しない）。そのため今回は同カテゴリ・同地域で未調査だった別施設を新規に調査した：ホテルふじ、ホテル千石、石和名湯館糸柳。このうちホテル千石は、じゃらん・楽天トラベル・フォートラベル等の主要サイトで信頼できる評価点・口コミ件数をWeb検索の範囲では確認できず（JTB掲載ページでは『お客様アンケート評価・るるぶトラベル評価とも集計中』と表示）、唯一見つかった数値（るるぶ系の立地3.6/客室3.2/サービス3.2/施設3.1）も『宿泊施設に備わっていると予測される快適さを示す提携サイト予測値』であり実ユーザー口コミの件数ではないと明記されていたため、捏造禁止の原則に従い review_scores を数値として構造化せず、候補データとしてスコアリングしないこととした（調査自体は実施済み）。残る2施設（ホテルふじ、石和名湯館糸柳）は独立2情報源以上の口コミ点数を確認してスコアリングしたが、いずれも主要レビュー4.0未満・score75未満のため不採用。",
+  "candidates": [
+    {
+      "id": "2026-10-25-hotel-fuji-isawa",
+      "name": "ホテルふじ",
+      "region": "山梨県笛吹市石和町川中島（石和温泉）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル集計（icotto.jp掲載）",
+          "score": 3.6,
+          "scale": 5,
+          "review_count": 273,
+          "checked_date": "2026-10-25",
+          "url": "https://icotto.jp/hotels/757"
+        },
+        {
+          "source": "ニフティ温泉",
+          "score": 3.2,
+          "scale": 5,
+          "review_count": 7,
+          "checked_date": "2026-10-25",
+          "url": "https://onsen.nifty.com/isawaonsen-onsen/onsen005241/kuchikomi/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では1泊2食の正確な価格帯は確定できなかった。夕食は70種類以上の創作バイキングという情報が旅色（紹介ページ）で確認できた。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "貸切のアウトドアサウナがあり、セルフロウリュと天然地下水の水風呂でクールダウンできる点が最大の特徴。露天風呂エリアに水風呂があり、サウナ後すぐに外気浴できる構成。夕食は70種類以上の創作バイキングで、JR石和温泉駅から送迎車で約5分。",
+      "target_audience": ["温泉好き", "ホテル好き", "家族"],
+      "score_breakdown": {
+        "review_rating": 11,
+        "review_reliability": 9,
+        "unique_experience_score": 14,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 53,
+      "recommendation_reason": "貸切アウトドアサウナ＋セルフロウリュ＋天然地下水水風呂という組み合わせは石和温泉エリアでは独自性が高い。しかし確認できた口コミはフォートラベル集計3.6（273件）・ニフティ温泉3.2（7件、2015年投稿中心で鮮度が低い）のみで、いずれも採用ライン4.0に届かず、scoreも53点に留まるため、現時点では採用基準を満たさない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icotto掲載の2023年11月宿泊者レビューでは、食事は好評だったが客室の風呂が『昭和の雰囲気』のタイル風呂からユニットバスに変更されており風呂の評価は3.0、露天風呂についても立地に対して『少し残念』という旨の言及があった。ニフティ温泉の評価は2015年投稿が中心で件数も7件と少なく、最新の設備状況を反映していない可能性がある。衛生・安全面での重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "石和温泉 ホテルふじ - icotto（口コミ・フォートラベル集計）", "url": "https://icotto.jp/hotels/757" },
+        { "type": "review_site", "title": "ホテルふじ 口コミ - ニフティ温泉", "url": "https://onsen.nifty.com/isawaonsen-onsen/onsen005241/kuchikomi/" },
+        { "type": "other", "title": "ホテルふじ（石和温泉）紹介ページ - 旅色", "url": "https://tabiiro.jp/yado/s/100992-fuefuki-hotel-fuji/" },
+        { "type": "booking_site", "title": "ホテルふじ - 近畿日本ツーリスト", "url": "https://yado.knt.co.jp/st/S190013/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "確認できた主要レビューがいずれも4.0未満（フォートラベル集計3.6/273件、ニフティ温泉3.2/7件）で、score(53)も採用ライン75点に届かないため見送った。"
+    },
+    {
+      "id": "2026-10-25-isawa-meiyukan-itoyanagi",
+      "name": "石和名湯館 糸柳",
+      "region": "山梨県笛吹市石和町（石和温泉）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "ニフティ温泉",
+          "score": 3.7,
+          "scale": 5,
+          "review_count": 13,
+          "checked_date": "2026-10-25",
+          "url": "https://onsen.nifty.com/isawaonsen-onsen/onsen002140/kuchikomi/0000239287/"
+        },
+        {
+          "source": "フォートラベル",
+          "score": 3.33,
+          "scale": 5,
+          "review_count": 25,
+          "checked_date": "2026-10-25",
+          "url": "https://4travel.jp/dm_hotel-10046449"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "日帰り入浴の薬石浴『嵐の湯』は3,300円。宿泊の1泊2食価格帯はWeb検索の範囲では確定できなかった。日帰り利用は時期・宿泊状況により終日不可の場合があり事前確認が必要。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "創業140年の老舗旅館で、15種類の薬石を温泉の熱で温めた本格ストーンスパ『嵐の湯』（薬石浴）と、ドライヒートのサウナルームを備える点が独自性。かけ流しの自噴温泉と、クラシカルな吹き抜け構造の貸切風呂も特徴。料理長こだわりの創作会席料理・朝食ビュッフェも評価されている。",
+      "renewal_or_news": "薬石浴『嵐の湯』は2020年に新設されたことがWeb検索で確認できた。",
+      "target_audience": ["温泉好き", "夫婦", "記念日"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 8,
+        "unique_experience_score": 15,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 58,
+      "recommendation_reason": "薬石浴『嵐の湯』とドライサウナを組み合わせた本格的なストーンスパ体験、140年の老舗建築と吹き抜け貸切風呂は写真映え・独自性の両面で魅力的である。しかし確認できた口コミはニフティ温泉3.7（13件）・フォートラベル3.33（25件）のいずれも採用ライン4.0に届かず、件数も少ないためscoreも58点に留まり、現時点では採用基準を満たさない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ニフティ温泉の項目別評価では、お湯3.0・施設4.0・飲食4.0に対しサービス2.5と他項目より低く、接客面に課題がある可能性が示唆された。フォートラベルの満足度も3.33（25件）と中位に留まる。衛生・安全面での重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "石和名湯館 糸柳 口コミ - ニフティ温泉", "url": "https://onsen.nifty.com/isawaonsen-onsen/onsen002140/kuchikomi/0000239287/" },
+        { "type": "review_site", "title": "石和名湯館 糸柳 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10046449" },
+        { "type": "official", "title": "石和名湯館 糸柳 - 山梨県観光協会公式サイト", "url": "https://www.yamanashi-kankou.jp/kankou/stay/p4_1312.html" },
+        { "type": "other", "title": "創業140年の老舗宿「石和名湯館 糸柳」クラシカルな吹き抜け貸切風呂", "url": "https://co-trip.jp/article/548636/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "確認できた主要レビューがいずれも4.0未満（ニフティ温泉3.7/13件、フォートラベル3.33/25件）で、score(58)も採用ライン75点に届かないため見送った。"
+    }
+  ]
+}

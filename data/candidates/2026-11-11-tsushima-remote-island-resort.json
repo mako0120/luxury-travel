@@ -1,0 +1,127 @@
+{
+  "cycle_date": "2026-11-11",
+  "theme": "離島リゾート（長崎県対馬市）の再調査",
+  "season_rationale": "ユーザー指定により、カテゴリ『離島リゾート』・地域『長崎県対馬市』で再調査を実施。対馬は2026-10-22サイクルで一度調査済み（data/candidates/2026-10-22-tsushima-remote-island-resort.json）だが、同サイクルではSOAR RESORT（48点）・対馬グランドホテル（51点）・ホテル対馬（26点）の3件がいずれも不採用となり、加えて開業直後で口コミが未蓄積のためTSUSHIMA RESORT（対馬リゾート、グランピング19室）とSloth Glamping（星空と海のリゾート）は採点対象外として除外されていた。本サイクルでは1ヶ月以上前のデータも含め既存candidates/captionsを確認した上で、前回『評価データなし』で除外されたこの2件について約3週間後の時点で口コミが蓄積されたかどうかを重点的に再調査した。",
+  "prior_posts_checked": [
+    {
+      "post_id": "2026-10-22-tsushima-remote-island-resort",
+      "region": "長崎県対馬市",
+      "category": "離島リゾート",
+      "note": "SOAR RESORT（48点・不採用）、対馬グランドホテル（51点・主要レビュー4.0未満のため即不採用）、ホテル対馬（26点・口コミ件数過少のため不採用）。いずれも不採用でcaptions未作成。TSUSHIMA RESORT・Sloth Glampingは当時口コミデータなしのため採点対象外。"
+    },
+    { "post_id": "2026-10-20-sado-oki-resort", "region": "新潟県佐渡島／島根県隠岐諸島", "category": "離島リゾート", "note": "隠岐諸島Entô（82点）がselected、captions/2026-10-20-ento-oki.json採用済み。対馬とは別地域のため重複なし。" },
+    { "post_id": "2026-10-18-goto-retreat-ray", "region": "長崎県五島市（福江島）", "category": "離島リゾート", "note": "同じ長崎県だが五島列島で対馬とは別島。重複なし。" },
+    { "post_id": "2026-10-19-hotel-denhaag-htb", "region": "長崎県佐世保市ハウステンボス町", "category": "オールインクルーシブ", "note": "同じ長崎県だがカテゴリ・施設とも別。重複なし。" }
+  ],
+  "duplication_note": "data/candidates・captions配下の全件を『対馬』『tsushima』でgrep確認した結果、対馬を対象とした候補は2026-10-22サイクルのみで、該当3施設（SOAR RESORT・対馬グランドホテル・ホテル対馬）はいずれも不採用のまま再掲しない（スコア・判定を変更する新情報は今回確認できていないため、重複調査を避けて再採点は行わなかった）。本サイクルは、前回『評価データが存在しないため採点対象外』として除外したTSUSHIMA RESORT（対馬リゾート）とSloth Glamping（星空と海のリゾート）の2件について、約3週間後の現時点で口コミ・評価データが蓄積されたかを新規にWebSearchで調査し、確認できたデータに基づいて初めて採点を行った（このセッションのWebSearch回数上限に達したため、創業者・運営者のインタビューや具体的な価格の追加調査、および他カテゴリへの範囲拡大はこれ以上行っていない）。",
+  "candidates": [
+    {
+      "id": "2026-11-11-tsushima-resort-glamping",
+      "name": "TSUSHIMA RESORT（対馬リゾート）",
+      "region": "長崎県対馬市美津島町竹敷",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Dinogo（海外口コミアグリゲーター、ページ上部表示）",
+          "score": 7.8,
+          "scale": 10,
+          "review_count": 33,
+          "checked_date": "2026-11-11",
+          "url": "https://dinogo.com/hotels/567849-tsushima-resort"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは1泊あたりの具体的な料金を確定できなかった。じゃらん・楽天トラベルに宿泊プランの掲載自体は確認できたが、料金表示までは確認できていない。",
+        "as_of_search_date": "2026-11-11",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "対馬市美津島町竹敷、浅茅湾（あそうわん）沿いに位置する19〜20室程度のグランピング型リゾート。客室はシングル・ダブル・スイートに加え、海側のベランダから釣りができるタイプの部屋もある。施設発着の『あそう湾プライベートクルーズ』（90分／120分、1グループ貸切、万関橋・金田城・和多都美神社などを船上から巡る）を提供する点が特徴。対馬空港から車で約15〜20分。",
+      "renewal_or_news": "海外OTA（Trip.comなど）の表示に『Opened in 2025』との記載が複数見られたが、公式サイトや公式発表による開業年の確認はこのセッションではできなかった。",
+      "target_audience": ["カップル", "家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 4,
+        "unique_experience_score": 12,
+        "photogenic": 8,
+        "value_for_price": 3,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 45,
+      "recommendation_reason": "前回サイクル（2026-10-22）では口コミ・評価データが一切確認できず採点対象外としていたが、今回Dinogo（海外アグリゲーター）で7.8/10（33件）という表示を確認できた。ただし同じページ内の口コミ内訳セクションでは6件・7.0点という異なる集計が表示されており、内部的に数値が一致しない不整合があるため信頼性は低い。5点満点換算では3.9点相当で、原則6の最低ライン（主要レビュー4.0以上）にそもそも届いていない。一休.com（0031010）やtour.ne.jp（約3.5/5）でも低めの評価が確認できたが、いずれも口コミ件数の表示が確認できず、review_scoresの正式な項目としては採用できなかった（推測での件数補完は行っていない）。あそう湾プライベートクルーズという独自体験はあるが、総合スコア45点は採用ライン（75点）に大きく届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Dinogo上の口コミに、比田勝方面ではなく自衛隊関連施設の柵沿いの道を通ってアクセスする立地への不満（政治的な論調を含む意見）を記す3/5の口コミが1件あった。同ページには1/5の口コミも存在するが、本文内容までは確認できなかった。衛生・安全上の重大な問題が複数の独立情報源で一致して確認されたわけではないが、口コミ件数・内訳自体の整合性に疑問があり、信頼できる評価確認ができていない状態である。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "TSUSHIMA RESORT(対馬リゾート) - じゃらんnet", "url": "https://www.jalan.net/yad370297/" },
+        { "type": "other", "title": "対馬リゾート/TSUSHIMA RESORT - 一休.com（口コミ個別掲載、総合件数は確認できず）", "url": "https://www.ikyu.com/en-us/00031010/" },
+        { "type": "review_site", "title": "TSUSHIMA RESORT - Dinogo（口コミ集計7.8/10・33件表示、内訳セクションは6件/7.0点で不整合あり）", "url": "https://dinogo.com/hotels/567849-tsushima-resort" },
+        { "type": "other", "title": "対馬リゾート/TSUSHIMA RESORT - tour.ne.jp（クチコミ評価約3.5/5表示、件数は表示崩れで確認不可）", "url": "https://www.tour.ne.jp/j_hotel/68493/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "確認できた評価（Dinogo 7.8/10を5点満点換算すると約3.9点、一休.com約3.69/5、tour.ne.jp約3.5/5）はいずれも原則6の最低ライン（主要レビューサイト評価4.0以上）に届かない。加えてDinogoの口コミ件数表示に内部的な不整合があり信頼性が低く、総合スコアも45点で採用ライン（75点）に届かないため不採用。"
+    },
+    {
+      "id": "2026-11-11-sloth-glamping-tsushima",
+      "name": "Sloth Glamping（星空と海のリゾート）",
+      "region": "長崎県対馬市上対馬町",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "Hotels.com",
+          "score": 9.8,
+          "scale": 10,
+          "review_count": 16,
+          "checked_date": "2026-11-11",
+          "url": "https://www.hotels.com/ho4104153088/"
+        },
+        {
+          "source": "Trip.com",
+          "score": 9.4,
+          "scale": 10,
+          "review_count": 24,
+          "checked_date": "2026-11-11",
+          "url": "https://sg.trip.com/hotels/tsushima-hotel-detail-52173424/sloth-glamping-tsushima/review.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは1泊あたりの具体的な料金を確定できなかった。じゃらん・楽天トラベルに宿泊プランの掲載自体は確認できたが、料金表示までは確認できていない。",
+        "as_of_search_date": "2026-11-11",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "対馬市上対馬町、比田勝港から車で約5分（対馬やまねこ空港からは車で約90分）の一棟独立型コテージ＋キャンプ場。海と星空を望む立地で、カセットコンロの貸出やフロントでのアルコール販売など手ぶらで楽しめる設備、BBQ・焚き火体験が名物。周辺にスーパーや食堂がほとんどないため食材の事前準備が必要という、離島らしい静かな滞在地。",
+      "renewal_or_news": "このセッションのWebSearchでは開業年や直近のリニューアル情報は確認できなかった。",
+      "target_audience": ["カップル", "記念日", "友人"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 8,
+        "unique_experience_score": 14,
+        "photogenic": 9,
+        "value_for_price": 4,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 65,
+      "recommendation_reason": "前回サイクル（2026-10-22）では評価データが一切確認できず採点対象外としていたが、今回はHotels.com（9.8/10・16件）とTrip.com（9.4/10・24件）という独立した2つの海外OTAで高評価・一定件数の口コミを確認でき、newt.net（総合4.5/5、清潔度4.8、設備・サービス4.7、件数非表示）でも同様の高評価傾向が裏付けられた。5点満点換算では4.7〜4.9点相当で原則6の最低ライン（4.0以上）は十分満たす。上対馬という知名度の低いエリアで、海と星空を望む一棟コテージという独自性もあり、原則8のHidden Gem要件（口コミ数は少なめだが独自性・伝える価値がある）に合致すると判断しis_hidden_gem=trueとした。ただし、料金が今回のWebSearchでは確定できず『価格に対する体験価値』を正しく評価できないこと、公式サイトでの運営者・開業経緯・利用可能な公式素材の確認がこのセッションではできなかったこと、口コミ件数自体も16〜24件とまだ少なく、国内の主要レビューサイト（フォートラベル・じゃらん等）での評価件数が確認できていないことから、総合スコアは65点にとどまり、採用ライン（75点）には届かない。次サイクルで公式サイト・料金・運営者の想いを追加確認できれば、採用候補として有望。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できた口コミは概ね好意的で、スタッフの配慮・部屋の清潔さ・星空の美しさを評価する声が多かった。一方で、近隣にスーパー・食堂がほとんどなく、食材の買い出しに車で15分程度かかる、夕方には品薄になっているという利便性に関する指摘があった。衛生・安全上の重大な問題は複数情報源で一致して確認されておらず、disqualifying issueとまでは判断しなかった。なお、今回確認できた口コミはいずれも好意的な内容に偏っており、国内の主要レビューサイトでの★3以下の投稿は未確認であるため、今後のためにその点は限界として明記する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "Sloth Glamping <tsushima> - Hotels.com（9.8/10・16件）", "url": "https://www.hotels.com/ho4104153088/" },
+        { "type": "booking_site", "title": "Sloth Glamping - Trip.com（9.4/10・24件）", "url": "https://sg.trip.com/hotels/tsushima-hotel-detail-52173424/sloth-glamping-tsushima/review.html" },
+        { "type": "other", "title": "SLOTH GLAMPING - newt.net（総合4.5/5、清潔度4.8、設備・サービス4.7、件数は非表示）", "url": "https://newt.net/hotel/jpn/e380163" },
+        { "type": "review_site", "title": "Sloth Glamping - cocolocala（個別口コミ・好意的）", "url": "https://www.cocolocala.jp/hotels/466777" },
+        { "type": "booking_site", "title": "星空と海のリゾート Sloth glamping - じゃらんnet", "url": "https://www.jalan.net/yad364962" }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "口コミ評価（Hotels.com 9.8/10・Trip.com 9.4/10、5点満点換算で4.7〜4.9点）自体は原則6の基準を満たすが、総合スコア65点が採用ライン（75点）に届かない。主な不足要因は、料金・価値評価が未確認、公式サイト・運営者情報が未確認、国内主要レビューサイトでの評価確定が未確認であること。これらを次サイクルで補えれば採用候補になり得るため、selectedではなくshortlistedとした。"
+    }
+  ],
+  "cycle_conclusion": "長崎県対馬市・離島リゾートカテゴリの再調査を行い、前回サイクル（2026-10-22）で評価データなしのため採点対象外としていたTSUSHIMA RESORT（対馬リゾート、45点・不採用）とSloth Glamping（星空と海のリゾート、65点・shortlisted）の2件を新たに調査・採点した。TSUSHIMA RESORTは確認できた評価がいずれも4.0未満かつ件数表示に不整合があり不採用。Sloth Glampingは海外OTA2件で高評価（4.7〜4.9点相当）かつHidden Gemとしての独自性が確認できたが、料金・公式運営者情報・国内レビューサイトでの評価確定が今回確認できず、総合スコア65点で採用ライン（75点）に届かないためshortlisted（selectedではない）とした。2026-10-22サイクルで既に不採用となったSOAR RESORT・対馬グランドホテル・ホテル対馬については、スコアを変動させる新情報が今回確認できなかったため重複調査・再採点は行わず、本サイクルの候補には含めていない（prior_posts_checkedに記録のみ）。selected候補が存在しないため、本サイクルではcaptions/の新規作成は行わない。次サイクルで対馬を再調査する場合は、Sloth Glampingの公式サイト・運営者の開業経緯・具体的な料金・国内主要レビューサイト（じゃらん・フォートラベル等）での口コミ件数確定を優先的に確認するのが有効と考えられる。"
+}

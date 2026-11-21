@@ -1,0 +1,175 @@
+{
+  "cycle_date": "2026-10-25",
+  "theme": "グルメ旅館×山形県赤湯温泉（依頼指定の地域・カテゴリ）",
+  "season_rationale": "赤湯温泉は置賜地方（米沢・南陽エリア）に位置し、10月下旬〜11月上旬は周辺の紅葉が見頃に近づく時期にあたる。また米沢牛の産地に近く、秋は新米・米沢牛など『グルメ旅館』カテゴリで訴求しやすい食材のシーズンでもある。今回調査した候補の中では「上杉の御湯 御殿守」が本場米沢牛を使った会席を提供しており、季節訴求と合致する。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-21-zao-onsen-kokusaihotel", "region": "山形県山形市蔵王温泉", "category": "温泉旅館", "note": "同じ山形県だが蔵王温泉で地域が異なり、カテゴリも温泉旅館のため重複なし" },
+    { "post_id": "2026-10-19-kaga-onsenkyo-gourmet-ryokan", "region": "石川県加賀市（山代温泉・山中温泉）", "category": "グルメ旅館", "note": "カテゴリは同じグルメ旅館だが地域が異なり重複なし" },
+    { "post_id": "2026-10-24-yamanaka-onsen-gourmet-ryokan", "region": "石川県加賀市山中温泉", "category": "グルメ旅館", "note": "直近サイクルのグルメ旅館カテゴリ。地域が異なり重複なし" },
+    { "post_id": "2026-09-14-gourmet-ryokan", "region": "熊本県黒川温泉", "category": "グルメ旅館", "note": "過去サイクルのグルメ旅館カテゴリ。地域が異なり重複なし" }
+  ],
+  "duplication_note": "data/candidates/ 全件（2026-09-14〜2026-10-24）およびcaptions/全件を『赤湯』『山形』『グルメ旅館』で確認した。地域『山形県赤湯温泉』はこれまでのサイクルで一度も調査対象になっておらず、本サイクルの候補（上杉の御湯 御殿守／升形屋旅館／旅館 大文字屋／丹泉ホテル）はいずれも新規。同じ山形県内では2026-10-21サイクルで蔵王温泉（山形市）を『温泉旅館』カテゴリで調査済みだが、エリア（蔵王 vs 赤湯）・カテゴリ（温泉旅館 vs グルメ旅館）が異なるため重複に該当しない。",
+  "research_note": "本サイクルはWeb検索を通じて赤湯温泉の主要旅館4軒（丹泉ホテル、旅館大文字屋、升形屋旅館、上杉の御湯御殿守）を調査した。調査後半でセッション共有のWebSearch呼び出し上限に達したため、升形屋旅館については独立した2つ目の数値口コミソース（じゃらん等）および公式サイトでの料金・プラン詳細を確認できなかった。升形屋旅館はRakuten系アグリゲータで4.33（452件）という良好な数値が確認できる一方、原則7（独立2情報源必須）を満たせないため、本サイクルでは『shortlisted』とし、次サイクル以降にWebSearch上限リセット後の追加確認を推奨する。選定候補『上杉の御湯 御殿守』はじゃらん（4.8・1,137件）とスカイチケット（4.7・382件）という2つの独立した数値ソースで4.0以上かつ大きな件数規模を確認できたため、原則6・7を満たすと判断した。",
+  "candidates": [
+    {
+      "id": "2026-10-25-gotenmori-akayu",
+      "name": "上杉の御湯 御殿守",
+      "region": "山形県南陽市赤湯989（赤湯温泉）。山形新幹線「赤湯」駅からタクシーで約6分、東北中央自動車道「南陽高畠」ICから車で約5分。",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.8, "scale": 5, "review_count": 1137, "checked_date": "2026-10-25", "url": "https://www.jalan.net/yad321384/" },
+        { "source": "スカイチケット（口コミ集計）", "score": 4.7, "scale": 5, "review_count": 382, "checked_date": "2026-10-25", "url": "https://skyticket.jp/hotel/detail/property_12704/" }
+      ],
+      "price_range_jpy": {
+        "note": "第三者予約サイト（近畿日本ツーリスト）掲載の参考値で、大人1名あたり19,800円〜39,900円という表示を確認した。別記事では大人1名の参考価格として17,600円〜という表示もあり、プラン・時期により変動する。公式サイトの直接確認はできていない。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する。予約時に公式サイト・予約サイトで最新料金の確認を推奨。"
+      },
+      "unique_experience": "米沢藩主・上杉家の別荘「赤湯御殿」を前身とし、380年余りの歴史を持つ老舗旅館。館内は「東湯」「西湯」に分かれ、日本最大級とされる大石くりぬき風呂「龍神の湯」、東露天岩風呂、源泉枡風呂、青森ひば丸太風呂、源泉樽風呂など全12種類の風呂を巡る『館内湯めぐり』ができる（毎日湯を入れ替える源泉）。食事は本場米沢牛をはじめ山形の厳選食材を使った季節の和食・郷土料理。上杉家ゆかりの史料を展示する「時の倉」や談話室「朧」など、歴史的背景を楽しめる館内施設もある。",
+      "renewal_or_news": "複数のAllAbout記事（2026年3月17日・7月13日・8月8日付など）で『楽天トラベル売れ筋ランキング 米沢・赤湯・高畠・長井エリア1位』として継続的に紹介されており、人気・情報の鮮度が継続的に確認できる。",
+      "target_audience": ["カップル", "記念日", "夫婦", "グルメ旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 14,
+        "unique_experience_score": 18,
+        "photogenic": 11,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 84,
+      "recommendation_reason": "じゃらん4.8（1,137件）・スカイチケット集計4.7（382件）という2つの独立した情報源で、いずれも4.0以上かつ1,000件規模を含む大きな件数で評価が安定しており、原則6・7を満たす（独立2情報源必須）。380年余りの歴史を持つ上杉家ゆかりの老舗という背景、全12種類の風呂を巡る湯めぐり、本場米沢牛の会席という『グルメ旅館』に合致する独自性の高さも評価した。山形県赤湯温泉という地域・『上杉の御湯 御殿守』という施設は本リポジトリで初めて調査対象となった新規候補。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icotto掲載の2024年4月投稿（3.5点）で、桜の時期だったため料金がやや高めだったという価格面の指摘を確認した。それ以外に、清潔感・安全性・接客に関わる重大な欠陥を指摘する口コミは今回の調査範囲では確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "赤湯温泉 上杉の御湯 御殿守 口コミ・評価（総合4.8・1,137件） - じゃらんnet", "url": "https://www.jalan.net/yad321384/" },
+        { "type": "other", "title": "上杉の御湯 御殿守 口コミ集計（4.7・382件） - スカイチケット", "url": "https://skyticket.jp/hotel/detail/property_12704/" },
+        { "type": "press", "title": "【楽天トラベル売れ筋1位】山形県「赤湯温泉 上杉の御湯 御殿守」は多様なお風呂で湯めぐりを満喫できる温泉宿 - All About", "url": "https://news.allabout.co.jp/articles/o/125814/" },
+        { "type": "review_site", "title": "赤湯温泉 上杉の御湯 御殿守（フォートラベル由来口コミ掲載） - icotto", "url": "https://icotto.jp/hotels/173" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-25-masugataya-akayu",
+      "name": "升形屋旅館",
+      "region": "山形県南陽市赤湯250-1（赤湯温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル（旅行ポータル掲載の集計値）", "score": 4.33, "scale": 5, "review_count": 452, "checked_date": "2026-10-25", "url": "https://www.mapple.net/region/a0202060200/hotel/" }
+      ],
+      "price_range_jpy": {
+        "note": "本サイクルでは具体的な料金帯を確認できなかった。WebSearch上限に達したため公式サイト・主要予約サイトでの直接確認は次サイクルに持ち越す。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "源泉かけ流しの宿で、看板犬が出迎え、犬と一緒に宿泊できる点が紹介されている。ビジネス利用も歓迎とされ、観光・グルメ訴求としての独自性は本サイクルの調査範囲では十分に確認できていない。",
+      "target_audience": ["夫婦", "カップル", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 7,
+        "unique_experience_score": 10,
+        "photogenic": 6,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 53,
+      "recommendation_reason": "楽天トラベル系集計で4.33（452件）という良好な数値が確認できる点は評価できるが、本サイクルではこの1ソースしか確認できておらず、原則7が求める『独立2情報源必須』を満たせない。WebSearch呼び出し上限に達したため、じゃらん・フォートラベル等での追加確認、公式サイトでの料金・グルメ要素（米沢牛等）の確認ができなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "個別の口コミ本文・低評価レビューの内容は検索結果からは確認できず、具体的な問題点の有無を判断できなかった。これは『問題なし』の確認ではなく、調査が未完了であることを意味する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "赤湯温泉ホテル一覧（升形屋旅館 楽天トラベル口コミ評価4.33・452件表示） - mapple.net", "url": "https://www.mapple.net/region/a0202060200/hotel/" },
+        { "type": "booking_site", "title": "升形屋旅館 掲載ページ - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/2450A04/" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-25-daimonjiya-akayu",
+      "name": "旅館 大文字屋",
+      "region": "山形県南陽市赤湯（赤湯温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル（icotto経由集計）", "score": 3.23, "scale": 5, "review_count": 10, "checked_date": "2026-10-25", "url": "https://icotto.jp/hotels/7199" }
+      ],
+      "price_range_jpy": {
+        "note": "本サイクルでは具体的な料金帯を確認できなかった。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "江戸時代中期創業、伊能忠敬が宿泊したと伝わる源泉かけ流しの老舗旅館。硫黄の香りがする湯や、昭和レトロな建物の雰囲気が口コミで言及されている。",
+      "target_audience": ["温泉好き", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 3,
+        "unique_experience_score": 10,
+        "photogenic": 5,
+        "value_for_price": 4,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 36,
+      "recommendation_reason": "伊能忠敬ゆかりの老舗・源泉かけ流しという歴史的独自性はあるものの、総合満足度3.23（フォートラベル/icotto集計・10件）と採用ライン4.0を下回り、口コミ件数も少ない。フロント対応の遅さや駐車場の狭さなど運営面への指摘も確認されたため、本サイクルでは不採用と判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フロント対応の遅さ、駐車場の狭さ、一部宿泊客のマナーに関する指摘が複数の口コミで確認された。清潔感・安全性に関わる最重大な欠陥ではないが、サービス品質への不満が複数見られる。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "review_site", "title": "赤湯温泉 旅館 大文字屋 口コミ（総合3.23・10件） - icotto", "url": "https://icotto.jp/hotels/7199" },
+        { "type": "other", "title": "赤湯温泉エリア情報（旅館大文字屋 伊能忠敬ゆかり・源泉かけ流しの紹介） - ニフティ温泉", "url": "https://onsen.nifty.com/yamagata/st-akayu/" },
+        { "type": "booking_site", "title": "赤湯温泉 OSN_50051（旅館大文字屋 施設紹介掲載） - じゃらんnet", "url": "https://www.jalan.net/onsen/OSN_50051/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合満足度3.23（フォートラベル/icotto集計・10件）で採用ライン4.0未満。口コミ件数も10件と少なく、フロント対応・駐車場等への運営面の指摘も確認されたため、原則6・10の基準を満たさない。"
+    },
+    {
+      "id": "2026-10-25-tansen-hotel-akayu",
+      "name": "赤湯温泉 丹泉ホテル",
+      "region": "山形県南陽市赤湯988（赤湯温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル（icotto経由集計）", "score": 3.2, "scale": 5, "review_count": 39, "checked_date": "2026-10-25", "url": "https://icotto.jp/hotels/7193" }
+      ],
+      "price_range_jpy": {
+        "note": "本サイクルでは具体的な料金帯を確認できなかった。",
+        "as_of_search_date": "2026-10-25",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "開湯930年と伝わる源泉かけ流しの湯と、米沢牛・40年続く名物の餅が紹介されている。犬同伴可で、入口には犬用の足湯もある。",
+      "target_audience": ["温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 9,
+        "review_reliability": 5,
+        "unique_experience_score": 11,
+        "photogenic": 6,
+        "value_for_price": 4,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 39,
+      "recommendation_reason": "開湯930年の源泉かけ流し湯や米沢牛・名物の餅といった独自性はあるが、総合満足度3.2（フォートラベル/icotto集計・39件）と採用ライン4.0を下回る。アクセス評価（3.20）も他項目より低く、JR赤湯駅から距離があり移動にタクシーが推奨される点も確認された。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2015〜2019年頃の投稿で、自動車学校の合宿利用客が多く夜間賑やかだったという指摘があった。清潔感・安全性に関わる重大な指摘ではないが、静穏さを求める利用者には影響しうる。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "赤湯温泉 丹泉ホテル 口コミ（総合3.2・39件） - icotto", "url": "https://icotto.jp/hotels/7193" },
+        { "type": "other", "title": "赤湯温泉 丹泉ホテル 口コミ - ニフティ温泉", "url": "https://onsen.nifty.com/akayu-yamagata-onsen/onsen000734/kuchikomi/" },
+        { "type": "booking_site", "title": "赤湯温泉 丹泉ホテル 施設ページ - じゃらんnet", "url": "https://www.jalan.net/yad380193" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合満足度3.2（フォートラベル/icotto集計・39件）で採用ライン4.0未満。アクセス評価も低く、原則6の基準を満たさない。"
+    }
+  ]
+}

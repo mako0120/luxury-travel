@@ -1,0 +1,182 @@
+{
+  "cycle_date": "2026-11-10",
+  "theme": "オールインクルーシブ",
+  "season_rationale": "対象は宮崎県宮崎市（シーガイアエリア、一ツ葉・山崎町浜山周辺）。宮崎市は年間を通じて温暖だが、11月上旬は台風シーズンが完全に過ぎて海況・天候が安定し、真夏の強い日差しや混雑を避けつつ日向灘沿いの黒松林リゾートエリアを快適な気候で楽しめる時期にあたる。このタイミングで『オールインクルーシブ』という業態がシーガイアエリアでどの程度成立しているかを調査した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-22-takachiho-gorge-activity", "region": "宮崎県高千穂町", "category": "アクティビティ" },
+    { "post_id": "2026-10-28-nichinan-glamping", "region": "宮崎県日南市（日南海岸エリア）", "category": "グランピング（全3件rejected）" },
+    { "post_id": "2026-11-04-nishimera-glamping", "region": "宮崎県西米良村", "category": "グランピング" },
+    { "post_id": "2026-11-09-all-inclusive-nichinan", "region": "宮崎県日南市（日南海岸エリア）", "category": "オールインクルーシブ（selectedなし）" },
+    { "post_id": "2026-11-09-all-inclusive-karatsu", "region": "佐賀県唐津市", "category": "オールインクルーシブ" },
+    { "post_id": "2026-11-08-all-inclusive-yaese", "region": "沖縄県島尻郡八重瀬町", "category": "オールインクルーシブ（selectedなし）" }
+  ],
+  "duplication_note": "data/candidates全件（2026-09-14〜2026-11-09、1ヶ月以上前のファイルを含む）とcaptions全件を『宮崎』『Miyazaki』『シーガイア』『Seagaia』『宮崎市』『一ツ葉』で全文検索した。宮崎県に関する既存候補は高千穂・日南・西米良など別地域・別カテゴリのもののみで、カテゴリ『オールインクルーシブ』×地域『宮崎市（シーガイアエリア）』の組み合わせでの調査・候補化は本サイクルが初回であり、重複は発生していない。",
+  "search_scope_limitation": "本セッションではWebFetchがgoogle.com / seagaia.co.jp / sheratonmiyazaki.com 等、試行した全ドメインに対してDNS解決エラー（getaddrinfo ENOTFOUND、セッションのネットワーク許可ドメイン外）で失敗し、個別ページを直接開けなかったため、調査はWebSearchが返すスニペット要約のみに依拠している。さらに調査の途中でセッション単位のWebSearch呼び出し回数の上限に達し、(1) THE MEIBIA MIYAZAKIの口コミ評価点を独立した第二情報源で確認すること、(2) ラグゼ一ツ葉／コテージ・ヒムカの営業終了を公式発表・報道等の独立した第二情報源で裏付けること、(3) フェニックス・シーガイア・リゾート（旧シェラトン・グランデ・オーシャンリゾート）の『1泊5食付きプラン』における飲料・アクティビティの包括範囲をseagaia.co.jp本体で詳細確認すること、ができなかった。これらの制約により、得られた情報のみで誠実に、保守的に採点した。",
+  "candidates": [
+    {
+      "id": "2026-11-10-phoenix-seagaia-ocean-tower-ai",
+      "name": "フェニックス・シーガイア・リゾート オーシャン・タワー（旧シェラトン・グランデ・オーシャンリゾート）",
+      "region": "宮崎県宮崎市山崎町浜山（シーガイアエリア／フェニックス・シーガイア・リゾート内）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらんnet",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 4778,
+          "checked_date": "2026-11-10",
+          "url": "https://www.jalan.net/yad347110/"
+        },
+        {
+          "source": "フォートラベル(4travel.jp) 客室評価（全体の単一平均スコアは本セッションでは確認できず、部門別評価の一つとして記載）",
+          "score": 4.39,
+          "scale": 5,
+          "review_count": 384,
+          "checked_date": "2026-11-10",
+          "url": "https://4travel.jp/dm_hotel-10053138"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "シーガイア美味しいとこどりプラン（1泊5食付き：夕食・昼食・朝食・ティータイム・バータイム）は2017年販売開始、累計36,000室以上の利用実績があり現在は全国販売。単品のガーデンビュッフェ夕食は1名16,300円～と案内されているが、プラン全体のオールインクルーシブ型金額・飲料の包括範囲は公式サイトの該当ページ（期間限定）で変動するため、本セッションのWebSearchでは確定できなかった。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "フェニックス・シーガイア・リゾートの中核をなす高さ約154mのタワーで全室オーシャンビュー。2017年から展開する『1泊5食付き シーガイア美味しいとこどりプラン』は夕食・昼食・朝食に加えティータイム・バータイムまで含む珍しい多食構成で、累計36,000室以上の利用実績があり現在は九州限定から全国販売に拡大している。ただし飲み放題（アルコール含む）や館内アクティビティまで一律料金に含む『オールインクルーシブ』型プランであることは公式情報で確認できず、厳密な意味でのオールインクルーシブとは言い切れない。",
+      "target_audience": ["カップル", "夫婦", "家族", "絶景好き", "ホテル好き"],
+      "renewal_or_news": "2025年6月6日付で、23年間続いたマリオット・インターナショナルとの提携（シェラトン・ブランド）を終了し、『シェラトン・グランデ・オーシャンリゾート』から『フェニックス・シーガイア・オーシャン・タワー』に改称。運営会社も『マイステイズ・ホテル・マネジメント』から2025年7月1日付で『アイコニア・ホスピタリティ株式会社』へ社名変更している。",
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 12,
+        "unique_experience_score": 10,
+        "photogenic": 11,
+        "value_for_price": 4,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 68,
+      "recommendation_reason": "『1泊5食付き シーガイア美味しいとこどりプラン』は夕食・昼食・朝食・ティータイム・バータイムを含む人気プランで、レビュー評価自体は良好（じゃらん4.4/4,778件）。しかし飲み放題や館内アクティビティまで一律料金に含む『オールインクルーシブ』業態であることを公式情報で確認できず、score（68点）も75点基準に届かないため不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベル（口コミ384件）では客室4.39・接客対応4.13に対しアクセス3.32と低め。建物・設備の経年（築30年超）、朝食時の混雑、肉料理中心で和食が少ないとの指摘が複数見られた。結婚式口コミ（mwed.jp、総合4.61/1615件）の中にも一部スタッフの配慮不足やウェルカムスペース不足を指摘する声があったが、衛生・安全面での重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "フェニックス・シーガイア・リゾート『1泊5食付き シーガイア美味しいとこどりプラン』英語版LP",
+          "url": "https://en.seagaia.co.jp/lp/5meals/"
+        },
+        {
+          "type": "press",
+          "title": "フェニックス・シーガイア・リゾート プレスリリース（宿泊施設の名称変更に関するお知らせ, 2024年12月5日付）",
+          "url": "https://seagaia.co.jp/downloads/22035/241205_PSR_release"
+        },
+        {
+          "type": "review_site",
+          "title": "フェニックス・シーガイア・オーシャン・タワー - じゃらんnet",
+          "url": "https://www.jalan.net/yad347110/"
+        },
+        {
+          "type": "review_site",
+          "title": "シェラトン・グランデ・オーシャンリゾート（現オーシャン・タワー）口コミ - フォートラベル",
+          "url": "https://4travel.jp/dm_hotel-10053138"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "飲み放題・館内アクティビティ等を一律料金に包括する『オールインクルーシブ』型プランであることが公式情報で確認できず、score（68点）も75点基準に届かないため不採用。"
+    },
+    {
+      "id": "2026-11-10-the-meibia-miyazaki-ai",
+      "name": "THE MEIBIA MIYAZAKI（ザ・メイビア宮崎）",
+      "region": "宮崎県宮崎市橘通周辺（宮崎駅徒歩約10分、シーガイアエリア外）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "オールインクルーシブプラン（和食×宮崎牛鉄板焼き／フレンチ×宮崎牛鉄板焼きの2種）の具体的な料金は、本セッションのWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "宮崎市内のライフスタイルアートホテルで、ラウンジ・客室・レストランでの飲食（アルコール・ソフトドリンク含む）が宿泊料金に含まれる全プラン『オールインクルーシブ』型が特徴。夕食・朝食時のフリードリンクには宮崎・都農ワインやローカルクラフトビールが含まれ、『和食×宮崎牛鉄板焼き』『フレンチ×宮崎牛鉄板焼き』の2プランがある。宮崎市内で確認できた、業態定義に明確に合致するオールインクルーシブ型宿泊施設の数少ない一例。",
+      "target_audience": ["カップル", "記念日", "友人"],
+      "renewal_or_news": "確認できなかった。",
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 15,
+        "photogenic": 6,
+        "value_for_price": 3,
+        "sns_buzz": 3,
+        "access_and_freshness": 1
+      },
+      "score": 28,
+      "recommendation_reason": "飲食（アルコール含む）が宿泊料金に含まれる、宮崎市内で確認できた数少ない明確な『オールインクルーシブ』型プランだが、所在地が宮崎駅周辺のシティホテルであり、指定地域『宮崎市（シーガイアエリア）』の範囲外のため不採用。独立した口コミ評価点も本セッションでは確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本セッションのWebSearchでは当該施設単独の口コミ件数・評価点を独立した二次情報源で確認できなかった。重大な指摘は見当たらなかったが、これは十分な調査によるものではなく、確認不足というのが実態である。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "THE MEIBIA MIYAZAKI オールインクルーシブプラン（和食×宮崎牛鉄板焼き）予約詳細",
+          "url": "https://reserve.489ban.net/client/gt-miyazaki/0/detail/856063"
+        },
+        {
+          "type": "booking_site",
+          "title": "THE MEIBIA MIYAZAKI オールインクルーシブプラン（フレンチ×宮崎牛鉄板焼き）予約詳細",
+          "url": "https://reserve.489ban.net/client/gt-miyazaki/0/detail/856061"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "所在地が指定地域『宮崎市（シーガイアエリア）』の範囲外（宮崎駅周辺）のため不採用。業態としての合致度は高いが地域条件を満たさない。"
+    },
+    {
+      "id": "2026-11-10-luxe-hitotsuba-cottage-himuka-ai",
+      "name": "ラグゼ一ツ葉／コテージ・ヒムカ",
+      "region": "宮崎県宮崎市（一ツ葉、フェニックス・シーガイア・リゾート南側）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": true,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "施設が営業を終了している可能性が高く、現在の料金情報は確認できなかった。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "フェニックス・シーガイア・リゾートの南に位置するコンドミニアム形式の施設として言及されていたが、本セッションのWebSearchで確認した掲載ページには『閉鎖しました』との案内があり、独自体験の現況は評価できなかった。",
+      "target_audience": ["家族", "友人"],
+      "renewal_or_news": "確認できなかった。",
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 5,
+        "photogenic": 3,
+        "value_for_price": 0,
+        "sns_buzz": 0,
+        "access_and_freshness": 0
+      },
+      "score": 8,
+      "recommendation_reason": "複数の宿泊予約サイト掲載ページで『閉鎖しました』と案内されており、現在営業していない可能性が高いため調査継続せず不採用（原則7: 営業状況確認）。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "施設の掲載ページ（yado.knt.co.jp）に『閉鎖しました』との記載がある。この記載を裏付ける独立した第二の情報源（公式発表・報道等）は、本セッションのWebSearch呼び出し回数の制約により確認できなかった。口コミ自体の評価点も確認できなかった。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "ラグゼ一ツ葉／コテージ・ヒムカ 施設情報（『閉鎖しました』表記あり）",
+          "url": "https://yado.knt.co.jp/st/S450078/"
+        },
+        {
+          "type": "other",
+          "title": "宮崎・一ツ葉エリア ホテル一覧",
+          "url": "https://icotto.jp/hotels-3764/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "営業終了（閉鎖）の可能性が高いため不採用。独立した第二情報源での確定はできなかったが、保守的に不採用とした（原則7）。"
+    }
+  ]
+}

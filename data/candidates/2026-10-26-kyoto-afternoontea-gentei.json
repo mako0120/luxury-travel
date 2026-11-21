@@ -1,0 +1,110 @@
+{
+  "cycle_date": "2026-10-26",
+  "theme": "カテゴリ『その他（期間限定イベント・アフタヌーンティー等）』×地域『京都府京都市』",
+  "season_rationale": "11月にかけて京都市内は紅葉シーズンを迎え、市内のラグジュアリーホテルが秋限定のアフタヌーンティーを展開し、二条城などでは紅葉ライトアップイベントが始まる時期。依頼によりカテゴリ『その他（期間限定イベント・アフタヌーンティー等）』・地域『京都市』を指定して調査した。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-10-25-naha-gentei-event", "region": "沖縄県那覇市", "category": "その他" },
+    { "candidate_id": "2026-10-24-sapporo-gentei-event", "region": "北海道札幌市", "category": "その他" },
+    { "caption_id": "2026-10-23-moomin-afternoontea-meriken-kobe", "region": "兵庫県神戸市", "category": "その他" },
+    { "candidate_id": "2026-10-22-osaka-afternoon-experience", "region": "大阪府大阪市", "category": "その他" },
+    { "candidate_id": "2026-10-21-hiroshima-afternoontea", "region": "広島県広島市", "category": "その他" },
+    { "candidate_id": "2026-10-20-sendai-gentei-event", "region": "宮城県仙台市", "category": "その他" },
+    { "candidate_id": "2026-10-22-kyoto-bunka-taiken", "region": "京都府京都市中京区（二条城前）", "category": "文化体験", "note": "カテゴリが異なる（文化体験＝宿泊施設）。本サイクルはカテゴリ『その他』の日帰りアフタヌーンティー・イベントが対象で、対象施設・体験内容とも重複しない。" },
+    { "candidate_id": "2026-09-14-hoshinoya-kyoto", "region": "京都府京都市西京区（嵐山）", "category": "文化体験", "note": "1か月以上前・カテゴリ・エリア・体験内容が異なり重複なし。" },
+    { "candidate_id": "2026-09-14-sagano-torokko", "region": "京都府京都市（嵯峨野）〜亀岡市", "category": "列車・船", "note": "1か月以上前・カテゴリが異なり重複なし。" }
+  ],
+  "duplication_note": "data/candidates・captions配下の全履歴（2026-09-14〜2026-10-25）を『京都』『kyoto』で検索し重複有無を確認した。京都府京都市を扱った既存案件はhoshinoya-kyoto（嵐山の屋形舟の宿、文化体験）・sagano-torokko（嵯峨野トロッコ列車、列車・船）・kyoto-bunka-taiken（HOTEL THE MITSUI KYOTO等、二条城前の宿泊施設、文化体験）の3件のみで、いずれもカテゴリが『文化体験』または『列車・船』であり、カテゴリ『その他』（日帰りのアフタヌーンティー・期間限定イベント）で京都市を扱った既存投稿は確認されなかった。また『その他』カテゴリ自体は直近5サイクル連続（仙台10/20→広島10/21→大阪10/22→神戸10/23→札幌10/24→那覇10/25）で異なる地域を扱っており、本サイクルの地域（京都市）はこれらと重複しない。",
+  "research_notes": "本サイクルでは京都市内のホテル系秋アフタヌーンティー2件（パーク ハイアット 京都「SUNLIT」、フォーシーズンズホテル京都「秋のフルーツアフタヌーンティー」）を主要候補として調査・採点した。加えて3件目として二条城の秋季夜間ライトアップ『NAKED meets 二条城 2026』（2026年10月23日〜12月5日開催、18:00〜22:00、早割1,600円〜）も調査した。アソビュー上の口コミは好意的な声（ライトアップ・プロジェクションマッピングの美しさ）と批判的な声（『内容が年々縮小している』『本丸の別料金分が値段の割に期待外れ』）が混在しており、口コミ件数として1,814件という表示を確認したが、信頼できる総合評価点（平均星数）はこのセッションのWebSearch予算（本サイクル中盤で上限に到達）の範囲では確認できなかった。candidate.schema.jsonのreview_scoresはscore/scale/review_countの数値を要求するため、平均評価点を確認できない状態で数値を推測・捏造することは避け、本ファイルには正式な候補（candidates配列）としては記載せず、本欄に調査済み事項として記録する。次サイクル以降、WebSearch予算に余裕がある時点でアソビュー公式ページまたはGoogleマップの『元離宮二条城』『NAKED meets 二条城』の平均評価点を直接確認できれば、改めて候補化を検討する。",
+  "candidates": [
+    {
+      "id": "2026-10-26-parkhyatt-kyoto-sunlit-autumntea",
+      "name": "パーク ハイアット 京都「ザ リビングルーム」秋のアフタヌーンティー SUNLIT / AFTERGLOW",
+      "region": "京都府京都市東山区（高台寺・二寧坂エリア）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "skyticket（ホテル全体の宿泊口コミ）", "score": 4.9, "scale": 5, "review_count": 540, "checked_date": "2026-10-26", "url": "https://skyticket.jp/hotel/detail/property_981201/" },
+        { "source": "Trip.com（ホテル全体の宿泊口コミ）", "score": 9.7, "scale": 10, "review_count": 78, "checked_date": "2026-10-26", "url": "https://ph.trip.com/hotels/kyoto-hotel-detail-42370779/park-hyatt-kyoto/review.html" },
+        { "source": "TripAdvisor（第三者予約サイト経由の集計表示。ミラーサイト間で4.9/5件数551件と4.5/5件数551件の表示差異があり要再確認）", "score": 4.9, "scale": 5, "review_count": 551, "checked_date": "2026-10-26", "url": "https://www.logitravel.com/hoteles/japon/prefectura-de-kioto/kioto/park-hyatt-kyoto--hotel-3869181" }
+      ],
+      "price_range_jpy": {
+        "note": "秋のアフタヌーンティー「SUNLIT」6,600円（1名、税・サービス料込み目安）。1階「ザ リビングルーム」で提供、日本茶とのペアリング付き。夕方には一部内容を変えたイブニングハイティー「AFTERGLOW」も別途提供（価格・提供時間は公式サイトで要確認）。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "東山・高台寺に近い二寧坂の石畳沿いに建つ「パーク ハイアット 京都」1階ラウンジ「ザ リビングルーム」で提供される秋限定アフタヌーンティー。旬の果物・食材を贅沢に使用した構成に、日本茶とのペアリングを組み合わせているのが特徴。日中は「SUNLIT」、夕方には一部メニューを変えたイブニングハイティー「AFTERGLOW」が用意され、時間帯によって異なる表情を楽しめる二部構成になっている。",
+      "renewal_or_news": "2026年9月19日(土)〜11月30日(月)の期間限定で提供される秋シーズンメニュー。前年(2025年)も同時期に秋のアフタヌーンティーを提供しており、季節ごとの定番企画として継続している。ホテル自体はコンデナスト・トラベラー『2025年リーダーズ・チョイス・アワード』で英国版1位・米国版3位に選出されたとホテル側が発表している。",
+      "target_audience": ["カップル", "夫婦", "女子旅", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 12,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 81,
+      "recommendation_reason": "skyticket 4.9点(540件)・Trip.com 9.7/10(78件)・TripAdvisor集計4.9点(551件、第三者サイト経由のため要再確認)という3つの独立情報源でいずれも推奨ライン4.0を大きく上回る評価と十分な件数を確認した（原則6・7）。これらはホテル全体の宿泊口コミであり本企画単体のものではない点は留意事項だが、東山・二寧坂という立地の「ザ リビングルーム」で、昼はSUNLIT・夕方はAFTERGLOWという二部構成の秋アフタヌーンティーを日本茶ペアリング付きで提供する構成は独自性が高く、コンデナスト・トラベラー『2025年リーダーズ・チョイス・アワード』（英国版1位・米国版3位）という第三者評価の話題性もある。2026年9月19日〜11月30日という現行シーズンの提供情報を確認でき、総合81点は採用ライン（75点）を上回ると判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "TripadvisorのAI要約・各レビューでは、周辺（二寧坂・高台寺エリア）の混雑、ジム・大浴場設備が限定的という指摘があったが、清潔感・接客・安全性・予約トラブルに関する重大かつ複数の指摘は確認できなかった。なおTripAdvisor集計値はミラーサイト間で4.9点/551件と4.5点/551件という表示差異があり、正確な現行値は公式Tripadvisorページでの再確認が望ましい。disqualifying_issues_foundはfalseと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "パーク ハイアット 京都「ザ リビングルーム」夏アフタヌーンティー SUNLIT / AFTERGLOW発表 - PR TIMES（同名企画の前シーズン版）", "url": "https://prtimes.jp/main/html/rd/p/000000080.000070995.html" },
+        { "type": "other", "title": "秋のアフタヌーンティー SUNLIT（2026年9月19日〜11月30日）詳細 - ウォーカープラス", "url": "https://www.walkerplus.com/event/ar0726e394088/" },
+        { "type": "press", "title": "「パーク ハイアット 京都」で楽しめる秋限定スイーツ - Precious.jp", "url": "https://precious.jp/articles/-/62628" },
+        { "type": "booking_site", "title": "パーク ハイアット 京都 宿泊口コミ - skyticket", "url": "https://skyticket.jp/hotel/detail/property_981201/" },
+        { "type": "review_site", "title": "Park Hyatt Kyoto reviews - Trip.com", "url": "https://ph.trip.com/hotels/kyoto-hotel-detail-42370779/park-hyatt-kyoto/review.html" },
+        { "type": "other", "title": "Park Hyatt Kyoto - Tripadvisor集計（第三者サイト経由）", "url": "https://www.logitravel.com/hoteles/japon/prefectura-de-kioto/kioto/park-hyatt-kyoto--hotel-3869181" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-26-fourseasons-kyoto-autumn-afternoontea",
+      "name": "フォーシーズンズホテル京都「秋のフルーツアフタヌーンティー」",
+      "region": "京都府京都市東山区（三十三間堂・東福寺エリア）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル（ホテル全体の宿泊口コミ）", "score": 3.41, "scale": 5, "review_count": 35, "checked_date": "2026-10-26", "url": "https://4travel.jp/dm_hotel-11615926" },
+        { "source": "Kayak（ゲストレビュー集計。スナップショットにより9.2/10・363件と9.4/10・413件の表示差異あり、低い方を採用）", "score": 9.2, "scale": 10, "review_count": 363, "checked_date": "2026-10-26", "url": "https://www.kayak.com/Kyoto-Hotels-Four-Seasons-Hotel-Kyoto.2604874.ksp" },
+        { "source": "Trip.com（ホテル全体の宿泊口コミ）", "score": 8.5, "scale": 10, "review_count": 61, "checked_date": "2026-10-26", "url": "https://www.trip.com/t/OgT61U7wUR2" }
+      ],
+      "price_range_jpy": {
+        "note": "平日7,000円・土日祝7,800円（1名、税・サービス料込み）。1階「エンバ・キョウト・グリル ラウンジ」にて提供。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "三十三間堂・東福寺に近い日本庭園付きの邸宅型ラグジュアリーホテル。1階「エンバ・キョウト・グリル ラウンジ」で、世界大会優勝パティシエ青木裕介氏監修のもと、シャインマスカット・いちじく・柿・洋ナシなど秋の果物を贅沢に使用したアフタヌーンティーを提供する。",
+      "renewal_or_news": "2026年9月1日(火)より開始、11月30日(月)までの期間限定。過去（2024年版）は提供フロアが3階「ザ・ラウンジ&バー」だったが、2026年版は1階に変更されている。",
+      "target_audience": ["カップル", "夫婦", "女子旅", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 7,
+        "unique_experience_score": 15,
+        "photogenic": 11,
+        "value_for_price": 5,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 63,
+      "recommendation_reason": "ブランド力・庭園の美しさ・著名パティシエ監修という独自性は高く評価できるが、総合63点で採用ライン（75点）には届かないと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの満足度3.41点(35件)はコストパフォーマンス項目が特に低く(3.18点)、推奨ライン4.0を下回る。一方Kayak・Trip.comなど海外系アグリゲーターは9点前後(10点満点、5点換算で4.25〜4.7)と大きく異なり、同じKayakでもスナップショットにより9.2/10(363件)と9.4/10(413件)という数値差異が見られ、評価の一貫性・信頼性に欠ける。TripadvisorのAI要約でも朝食への不満・価格の高さを指摘する声があった。清潔感・接客・安全性に関する重大な単一の指摘はなく、disqualifying_issues_foundはfalseとしたが、口コミの信頼性不足が不採用の主因。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "Four Seasons Hotel Kyoto 公式プレスルーム「Autumn Afternoon Tea」発表", "url": "https://press.fourseasons.com/jp/kyoto/hotel-news/2026/autumn-afternoon-tea2" },
+        { "type": "review_site", "title": "フォーシーズンズホテル京都 クチコミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-11615926" },
+        { "type": "other", "title": "Four Seasons Hotel Kyoto - Kayak（ゲストレビュー集計）", "url": "https://www.kayak.com/Kyoto-Hotels-Four-Seasons-Hotel-Kyoto.2604874.ksp" },
+        { "type": "review_site", "title": "Four Seasons Hotel Kyoto reviews - Trip.com", "url": "https://www.trip.com/t/OgT61U7wUR2" },
+        { "type": "press", "title": "フォーシーズンズホテル京都「京の秋 アフタヌーンティー」- Fashion Press（過去季節版の参考記事）", "url": "https://www.fashion-press.net/news/107129" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score_breakdown合計63点で採用ライン（75点）に届かず。最大の要因はreview_reliability（7/15点）：フォートラベル3.41点(35件、コストパフォーマンス3.18点)と海外系アグリゲーター9点台(10点満点)との間に大きな差があり、同一サイト(Kayak)内でもスナップショット間で数値差異(9.2/10・363件 vs 9.4/10・413件)が見られるため、評価の一貫性・信頼性に欠けると判断した。ブランド力・庭園・著名パティシエ監修という独自性自体は高く、口コミ件数や評価の再確認が取れれば再検討の余地がある。"
+    }
+  ]
+}

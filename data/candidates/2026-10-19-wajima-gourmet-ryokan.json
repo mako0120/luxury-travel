@@ -1,0 +1,169 @@
+{
+  "cycle_date": "2026-10-19",
+  "theme": "石川県輪島市（輪島温泉）のグルメ旅館",
+  "season_rationale": "10月下旬〜11月は能登の冬の味覚（甘エビ・ズワイガニ漁は11月上旬解禁）を控える時期で、『少し贅沢な旅』としての食の訴求がしやすい。輪島市は2024年1月の能登半島地震・火災で特に大きな被害を受けた地域であり、2026年10月時点で復興途上にあることを踏まえ、営業状況・安全性・口コミの最新性を特に重点的に確認する必要がある地域として調査した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-18-yamanokami-yukaen", "region": "岩手県花巻市（花巻温泉郷）", "category": "温泉旅館" },
+    { "post_id": "2026-10-18-qua-hotel-isawa-kenkoland", "region": "山梨県笛吹市（石和温泉）", "category": "サウナ" },
+    { "post_id": "2026-10-18-kurobe-gorge-torokko", "region": "富山県黒部市（黒部峡谷）", "category": "列車・船" },
+    { "post_id": "2026-10-18-miyajima-seaside-hotel", "region": "広島県廿日市市（宮島）", "category": "絶景ホテル" },
+    { "post_id": "2026-10-18-nara-hotel", "region": "奈良県奈良市（奈良公園）", "category": "文化体験" },
+    { "post_id": "2026-10-18-kitakobushi-shiretoko", "region": "北海道斜里郡斜里町（知床・ウトロ温泉）", "category": "アクティビティ" },
+    { "post_id": "2026-10-18-kaike-shogetsu", "region": "鳥取県米子市（皆生温泉）", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "直近の実選定投稿（花巻温泉郷＝温泉旅館、石和温泉＝サウナ、黒部峡谷＝列車・船、宮島＝絶景ホテル、奈良＝文化体験、知床＝アクティビティ）とは地域・カテゴリとも重複しない。カテゴリ『グルメ旅館』は直近では2026-10-18に鳥取県皆生温泉で選定済みだが、間に6カテゴリを挟んでおり連続はしていない（原則29）。地域の石川県は過去の候補・投稿データに一度も登場していない新規エリア。",
+  "candidates": [
+    {
+      "id": "2026-10-19-wajima-yashio",
+      "name": "夕映えの宿 輪島温泉 八汐",
+      "region": "石川県輪島市（輪島温泉・輪島港と袖ヶ浜を望む高台）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル",
+          "score": 3.29,
+          "scale": 5,
+          "review_count": 17,
+          "checked_date": "2026-10-19",
+          "url": "https://4travel.jp/dm_hotel-10054204"
+        },
+        {
+          "source": "Relux",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 11,
+          "checked_date": "2026-10-19",
+          "url": "https://rlx.jp/21840/review/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では部屋タイプ別の正確な1泊2食価格帯は確定できなかった。貸切露天風呂（和風・洋風）は有料・要予約との掲載があった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "輪島港と袖ヶ浜を望む高台に立ち、日本海を望む客室や夕日の眺めが評価されている。貸切露天風呂（和風・洋風の2種、海が見えるタイプあり）があり、食事は海の幸を中心にした会席料理。",
+      "renewal_or_news": "2024年1月の能登半島地震後、2024年9月・11月時点の口コミには『一日も早い復興を祈りつつ』『また再開されますように』という趣旨の投稿が見られ、当時休業していた可能性を示唆する内容があった。Web検索（本サイクル）では2026年時点の最新の営業再開状況を確証できる一次情報（公式発表・直近の宿泊口コミ）は見つけられなかった。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 5,
+        "unique_experience_score": 11,
+        "photogenic": 8,
+        "value_for_price": 4,
+        "sns_buzz": 2,
+        "access_and_freshness": 1
+      },
+      "score": 46,
+      "recommendation_reason": "日本海・夕日を望む高台の立地と海側の貸切露天風呂という独自性はあるが、フォートラベル3.29（17件）とRelux4.4（11件）で評価が大きく割れており、いずれも件数が少なく信頼度が低い（原則6・7）。加えて2024年の地震後に営業状況を懸念する口コミが見られ、2026年10月時点での最新の営業再開状況をWeb検索では確証できなかったため、安全・最新性の観点からも見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルでは満足度3.29（17件）と低め。町の中心から離れていること、貸切露天風呂が有料・時間制限ありで『海が見える貸切風呂にすぎない』という不満、建物の古さを指摘する声があった。2024年9月・11月の口コミには能登半島地震の影響で休業していたことを示唆する記述もあり、重大な懸念材料とした。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "輪島温泉 八汐 クチコミ（フォートラベル／満足度3.29・17件）", "url": "https://4travel.jp/dm_hotel-10054204" },
+        { "type": "review_site", "title": "輪島温泉 八汐 クチコミ（Relux／総合4.4・11件）", "url": "https://rlx.jp/21840/review/" },
+        { "type": "review_site", "title": "輪島温泉 八汐 宿泊口コミ（食事4.0・風呂3.5） - icotto", "url": "https://icotto.jp/hotels/1079" },
+        { "type": "other", "title": "輪島温泉 八汐 施設紹介（貸切露天風呂・立地） - 近畿日本ツーリスト", "url": "https://yado.knt.co.jp/st/S170002/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア46点で採用ライン（75点）に届かず、主要レビューサイトの評価も3.29（フォートラベル17件）と割れており4.0以上を安定して満たせない。加えて2024年の能登半島地震後の営業状況について、2026年10月時点の最新の再開情報をWeb検索で確証できなかったため見送った。"
+    },
+    {
+      "id": "2026-10-19-wajima-koshuen",
+      "name": "能登輪島温泉 ホテルこうしゅうえん（旧ホテル高州園）",
+      "region": "石川県輪島市（輪島温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル",
+          "score": 3.54,
+          "scale": 5,
+          "review_count": 69,
+          "checked_date": "2026-10-19",
+          "url": "https://4travel.jp/dm_hotel-10054212"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な1泊2食価格帯は確定できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "輪島温泉を代表する老舗旅館として紹介され、活鮑の陶板焼きを含む創作会席（部屋食）や、囲炉裏付き個室での囲炉裏懐石など、グルメ旅館としての独自メニューを持つ。大浴場は広く24時間入浴可という評価もあった。",
+      "renewal_or_news": "icottoの2023年10月の口コミでは『能登半島地震で大きな被害を受け、今も変則的な営業（復興関係工事業者に臨時提供）を余儀なくされている』旨の記載があった。さらにcocolocalaの2026年2月投稿では『2025年7月1日に閉館しました』『Googleマップでは臨時休業表記だが実際は完全閉館』という趣旨の記述があり、同ページの別の投稿（2025年6月）では『震災前に宿泊した方が、再開されたと聞いた』という矛盾する内容もあった。",
+      "target_audience": ["グルメ旅", "夫婦", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 8,
+        "unique_experience_score": 13,
+        "photogenic": 7,
+        "value_for_price": 4,
+        "sns_buzz": 2,
+        "access_and_freshness": 0
+      },
+      "score": 52,
+      "recommendation_reason": "活鮑陶板焼きや囲炉裏懐石など料理面の独自性はあるが、フォートラベル満足度3.54（69件）で採用ライン（4.0）に届かない。さらに閉館・休業を示す投稿が複数見られ、2026年10月時点で通常営業しているかをWeb検索では確証できなかったため、営業継続性の観点から見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルで満足度3.54（69件）、項目別では風呂4.03・接客対応3.81。『昔のホテルなので移動に時間がかかる』という指摘があった。より重大な点として、2025年7月1日閉館という投稿（cocolocala・2026年2月）と、震災後も変則営業を余儀なくされているという投稿（icotto・2023年10月）があり、営業継続性そのものに疑義がある（原則8 Hidden Gemルール『最近営業している（休業・廃業していない）』の要件を満たせない）。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "review_site", "title": "ホテルこうしゅうえん クチコミ（フォートラベル／満足度3.54・69件）", "url": "https://4travel.jp/dm_hotel-10054212" },
+        { "type": "review_site", "title": "能登輪島温泉 ホテルこうしゅうえん（旧:ホテル高州園）施設紹介・口コミ（震災後の変則営業に関する記述） - icotto", "url": "https://icotto.jp/hotels/1077" },
+        { "type": "other", "title": "ホテルこうしゅうえん 宿泊口コミ（2025年7月1日閉館との投稿・再開を聞いたとの投稿が混在） - cocolocala", "url": "https://www.cocolocala.jp/hotels/10255" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア52点で採用ライン（75点）に届かず、評価も3.54（フォートラベル69件）で4.0未満。加えて『2025年7月1日閉館』とする投稿があり、現在営業しているか自体に強い疑義があるため、原則8（最近営業していること）の要件を満たせず見送った（disqualifying_issues_found=trueに該当）。"
+    },
+    {
+      "id": "2026-10-19-wajima-ebisuya",
+      "name": "恵比須屋旅館",
+      "region": "石川県輪島市河井町（輪島市街の中心部）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル（楽天トラベル提供の口コミを含む）",
+          "score": 3.01,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-19",
+          "url": "https://4travel.jp/dm_hotel-10054190"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では価格帯の情報は確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "輪島市街の中心部（河井町）に位置する旅館。確認できた唯一の口コミ（2007年8月投稿・評価4.5）は輪島朝市に近い立地を評価する内容だったが、約19年前の情報であり現状の参考にはなりにくい。",
+      "target_audience": ["一人旅", "文化体験"],
+      "score_breakdown": {
+        "review_rating": 6,
+        "review_reliability": 1,
+        "unique_experience_score": 5,
+        "photogenic": 3,
+        "value_for_price": 2,
+        "sns_buzz": 0,
+        "access_and_freshness": 1
+      },
+      "score": 18,
+      "recommendation_reason": "確認できた口コミがフォートラベル掲載の1件（2007年投稿）のみで、原則7（最低2種類以上の独立した情報源）を満たせない。輪島朝市の大火（2024年）で被害を受けたエリアに近く、2026年時点の最新の営業状況・口コミをWeb検索では確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できた唯一の口コミは2007年投稿で評価4.5だが、19年前の情報であり接客・清潔感・設備老朽化等の最新状況は判断できない。2026年時点の口コミ・営業状況を示す情報源をWeb検索では見つけられなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "恵比須屋旅館<輪島> クチコミ（フォートラベル／満足度3.01・1件・2007年投稿）", "url": "https://4travel.jp/dm_hotel-10054190" },
+        { "type": "booking_site", "title": "恵比須屋旅館<輪島> 施設情報 - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/5333001/5333001.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア18点で採用ラインに遠く及ばず、独立した口コミ情報源も1件（19年前）しか確認できなかったため、原則7・原則6のいずれも満たせず見送った。"
+    }
+  ],
+  "cycle_result": "該当なし。輪島市のグルメ旅館カテゴリでは、採用ライン（75点・主要レビュー4.0以上）を満たし、かつ2026年10月時点の営業継続を確証できる候補が見つからなかった。2024年の能登半島地震・大火の影響で、口コミの最新性・信頼件数が低い施設が多く、ホテルこうしゅうえんのように閉館情報が見られる施設もあった。指示に基づき、石川県加賀温泉郷（山代温泉・山中温泉）で再調査を行った（2026-10-19-kaga-onsenkyo-gourmet-ryokan.json）。"
+}

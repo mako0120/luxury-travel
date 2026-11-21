@@ -1,0 +1,210 @@
+{
+  "cycle_date": "2026-11-01",
+  "theme": "カテゴリ『グルメ旅館』×地域『静岡県賀茂郡南伊豆町・下賀茂温泉』",
+  "season_rationale": "11月は紅葉シーズンの終盤かつ南伊豆の冬の味覚（伊勢海老・金目鯛漁の最盛期に向かう時期）が始まる直前にあたり、下賀茂温泉エリアで年末年始の宿泊検討が動き出すタイミング。南伊豆町下賀茂は同じ南伊豆町内の弓ヶ浜・湊地区（休暇村南伊豆、季一遊等）と比べて取り上げられる機会が少なく、まだ知られていない良い宿を発見する余地が大きいと判断し本サイクルの対象地域とした。",
+  "prior_posts_checked": [
+    {
+      "post_id": "2026-10-25-all-inclusive-shimoda",
+      "region": "静岡県下田市・南伊豆町（下賀茂含む）",
+      "category": "オールインクルーシブ",
+      "note": "カテゴリ『オールインクルーシブ』での下田・南伊豆エリア調査サイクル。『源泉一途 南伊豆（旧 花のおもてなし南楽、2026年6月1日下賀茂でリブランドオープン）』が他候補検討リストに記録されているが、オールインクルーシブ料金体系の有無のみを簡易確認した段階で、採点・creator_story調査・decision判定（selected/shortlisted/rejected）は一切行われていない。本サイクルではカテゴリ『グルメ旅館』として同施設を独立に一次調査・採点し直した。『下田大和館』『黒船ホテル』『リブマックスリゾート伊豆下田』はいずれも下田市内でカテゴリ非適合または75点未満のためrejected済みだが、下賀茂温泉エリア自体（グルメ旅館カテゴリ）は未調査だった。"
+    },
+    {
+      "post_id": "2026-10-26-all-inclusive-atami / 2026-10-26-all-inclusive-ibusuki / 2026-10-23-all-inclusive-unzen-shimabara / 2026-10-25-all-inclusive-noboribetsu",
+      "region": "各地（熱海・指宿・雲仙島原・登別）",
+      "category": "オールインクルーシブ",
+      "note": "いずれも『静岡県下田市・南伊豆町』を重複回避の記録として参照しているのみで、下賀茂温泉エリアの施設調査・採点内容を含まない。本サイクルの重複対象外。"
+    }
+  ],
+  "duplication_note": "data/candidates・captions配下の既存全件（過去1ヶ月以上前のファイルも含め全件）をファイル名・本文で『南伊豆』『下賀茂』『賀茂郡』で検索した結果、該当は2026-10-23〜2026-10-26の『オールインクルーシブ』カテゴリ調査サイクル5件のみだった。これらはカテゴリが異なり、下賀茂温泉エリアの施設についてカテゴリ『グルメ旅館』としての採点・decision確定は行われていないため、本サイクルは重複にあたらないと判断した。2026-10-25サイクルのother_candidates_consideredで名前のみ挙がっていた『源泉一途 南伊豆』は、本サイクルで初めて独立に一次調査・採点・creator_story調査を実施した。",
+  "other_candidates_considered": [
+    "休暇村南伊豆（南伊豆町湊地区。会席料理・ビュッフェは評価が高いが下賀茂温泉エリアではなく湊地区のため、地域条件『下賀茂温泉』から対象外とした）",
+    "南伊豆弓ヶ浜温泉 季一遊（同じく湊・弓ヶ浜地区であり下賀茂温泉エリアではないため対象外）",
+    "弓ヶ浜温泉 くつろぎと料理の御宿 花さと（女将の手作り懐石が評価4.77と高評価だが、所在地が湊地区であり下賀茂温泉エリアの地域条件を満たさないため対象外）",
+    "宿彩湯食笑門の宿 石廊館（コストパフォーマンスの良い純和風旅館として紹介されているが、料理面での独自性を示す一次情報が乏しく、口コミ件数・評価の数値情報も確認できなかったため、詳細採点の対象からは見送った）"
+  ],
+  "candidates": [
+    {
+      "id": "2026-11-01-gensen-itto-minamiizu",
+      "name": "源泉一途 南伊豆",
+      "region": "静岡県賀茂郡南伊豆町下賀茂（下賀茂温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "じゃらん（口コミ・施設ページ）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 451,
+          "checked_date": "2026-11-01",
+          "url": "https://www.jalan.net/yad318967/"
+        },
+        {
+          "source": "Skyticket（下賀茂温泉エリア比較ページ）",
+          "score": 4.1,
+          "scale": 5,
+          "review_count": 194,
+          "checked_date": "2026-11-01",
+          "url": "https://skyticket.jp/hotel/japan/onsen/shimogan_onsen/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "1人1泊2食付き28,700円〜（2人1室利用時）。庭園露天風呂付き客室・特別室・貴賓室等上位タイプは別途料金。開業記念プランとして『源泉力をめぐる全14種の湯旅と、南伊豆の生簀料理を愉しむ一夜』等あり。",
+        "as_of_search_date": "2026-11-01",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2026年6月1日、旧『下賀茂温泉 花のおもてなし南楽』の建物をリブランドして開業した、源泉力に特化した新ホテルブランド『源泉一途（GENSEN ITTO）』の第1号店。2本の自家源泉を使い分け、2つの大浴場と7か所の貸切風呂、庭園露天風呂付き客室（全39室中一部）を備える。料理面では『源泉匠味』を掲げ、生簀から直接引き揚げた新鮮な魚介を使った会席・生簀料理プランを用意しており、装飾を排し素材の本質を追求した造りを打ち出している。泉質・湯量などは高崎商科大学特任教授・熊倉浩靖氏ら第三者認定審査員による認証を経ており、温泉とグルメの両方を軸にした『グルメ旅館』としての訴求力がある。",
+      "renewal_or_news": "2026年6月1日、旧『花のおもてなし南楽』からコアグローバルマネジメント株式会社の新ブランド『源泉一途』第1号店としてリブランドオープン。開業はPR TIMES・トラベルボイス・トラベルWatch・浜松経済新聞等の複数の独立報道で確認済み。",
+      "target_audience": ["カップル", "記念日", "夫婦", "グルメ旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 10,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 8,
+        "access_and_freshness": 5
+      },
+      "score": 79,
+      "recommendation_reason": "2026年6月のリブランド直後で現時点ではSNS上の一般認知がまだ広がっていない『まだ知られていない良い場所』にあたる。口コミ評価はじゃらん4.0（451件）・Skyticket4.1（194件）で採用ライン（4.0）以上を確保しているが、じゃらんの451件やYahoo!トラベルの3.88〜3.96という数字は同一施設IDを旧名称『花のおもてなし南楽』時代から引き継いでいる可能性が高く、リブランド後（2026年6月以降）単独の口コミ件数・評価としては確認しきれていない。この不確実性を踏まえてreview_rating・review_reliabilityはやや保守的に採点した。下賀茂温泉の2本の自家源泉・7か所の貸切風呂・生簀料理という『温泉×グルメ』両面の独自性は明確で、運営会社コアグローバルマネジメントの公式サイト（gensen-itto.jp/minamiizu/）・公式プレスリリース・複数の独立報道機関による開業記事で一次情報を確認できた。じゃらんの宿泊プランは2027年3月31日まで予約受付中であることも確認し、現在営業中であることを確認済み。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "リブランド後（2026年6月以降）の具体的なネガティブ投稿は検索範囲内では確認できなかった。旧名称『花のおもてなし南楽』時代のニフティ温泉口コミ（最終投稿2021年9月、5件のみ）では総合3.6、飲食2.0と低めの評価が残っており、Yahoo!トラベルの評価（客室・アメニティ3.96、施設・設備3.88、接客・サービス3.92）も4点に届かない水準だった。これらが具体的にリブランド前後どちらの期間の投稿を集計したものかは特定できなかったため、ネガティブな傾向が完全に解消したと断定はできない点を留意点として記録する。サイト側も『現在の施設のサービスと異なる場合がございます』と注意書きしており、重大な清潔感・安全性に関する指摘は確認されていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "【6月1日開業】源泉力特化型新ブランド第1号店『源泉一途 南伊豆』が誕生。生簀から引き揚げる圧倒的な鮮度を誇る海の幸で、静岡・南伊豆の自然を味わい尽くす。 - PR TIMES", "url": "https://prtimes.jp/main/html/rd/p/000000208.000034663.html" },
+        { "type": "press", "title": "【新ブランド】温泉の魅力を再定義する“源泉力特化型ホテルブランド”『源泉一途』(GENSEN ITTO) 2026年夏、静岡 南伊豆と岩手 雫石に2施設開業決定 - PR TIMES", "url": "https://prtimes.jp/main/html/rd/p/000000177.000034663.html" },
+        { "type": "press", "title": "新たな温泉ホテルブランド「源泉一途」、南伊豆と岩手・雫石に開業へ、既存施設をリブランド - トラベルボイス", "url": "https://www.travelvoice.jp/20260126-159106" },
+        { "type": "review_site", "title": "源泉一途 南伊豆(2026年6月1日リブランドオープン) - じゃらん", "url": "https://www.jalan.net/yad318967/" },
+        { "type": "review_site", "title": "源泉一途 南伊豆 (Gensen Itto Minami-Izu) - るるぶトラベル", "url": "https://www.rurubu.travel/hotel/japan/izu/gensen-itto-minami-izu" },
+        { "type": "press", "title": "源泉にこだわる新ブランド1号店「源泉一途 南伊豆」6月開業。庭園露天風呂付きなど39室 - トラベルWatch", "url": "https://travel.watch.impress.co.jp/docs/news/2082847.html" },
+        { "type": "official", "title": "【新ブランド】温泉の魅力を再定義する“源泉力特化型ホテルブランド”『源泉一途』(GENSEN ITTO) - コアグローバルマネジメント株式会社 公式ニュース", "url": "https://cgman.jp/newstopics/9349/" },
+        { "type": "official", "title": "源泉一途 南伊豆 公式サイト", "url": "https://gensen-itto.jp/minamiizu/" },
+        { "type": "booking_site", "title": "源泉一途 南伊豆 宿泊プラン一覧（開業記念プラン含む、予約受付2027年3月31日まで）- じゃらん", "url": "https://www.jalan.net/yad318967/plan/" }
+      ],
+      "decision": "selected",
+      "creator_story": {
+        "text": "運営会社はコアグローバルマネジメント株式会社（代表取締役社長：中野正純氏）。同社は2026年夏、源泉の力に特化した新ホテルブランド『源泉一途（GENSEN ITTO）』を立ち上げ、その第1号店として旧『下賀茂温泉 花のおもてなし南楽』を2026年6月1日にリブランドオープンさせた。プレスリリース・報道によれば、ブランドの狙いは『温泉の魅力を再定義する』ことにあり、泉質・湯量などを高崎商科大学特任教授・熊倉浩靖氏ら第三者認定審査員が審査した『確かな源泉力』を持つ温泉のみを採用し、『源泉体験』『源泉匠味（地元食材と源泉の力を活かした料理）』『源泉趣楽（温泉卵・湯の花づくりなどの体験）』といった要素（五源）を核に、湯・食・癒（温泉・レストラン・施設サービス）を通じて心と体を解きほぐす宿泊体験を提供することを掲げている。南伊豆の施設については、下賀茂温泉の歴史ある自家源泉（2本）を『現代的に再編集』し、庭園露天風呂付き客室や7か所の貸切風呂、生簀から引き揚げた新鮮な魚介を活かした『源泉匠味』の生簀料理プランを用意しているとされる。なお、代表の中野正純氏は『一夜限りのビジホサミット』等のイベントに登壇し『選ばれるホテル』の条件やブランド戦略について語った記録はPR TIMES上で確認できたが、南伊豆の施設改修方針や開業の思いを個別に語った具体的な発言・インタビューコメントは、今回確認できた一次資料・報道の範囲では見当たらなかった。確認できなかった点はそのまま『確認できなかった』こととして記録し、発言内容の推測・創作は行っていない。",
+        "sources": [
+          { "type": "press", "title": "【6月1日開業】源泉力特化型新ブランド第1号店『源泉一途 南伊豆』が誕生 - PR TIMES", "url": "https://prtimes.jp/main/html/rd/p/000000208.000034663.html" },
+          { "type": "press", "title": "【新ブランド】温泉の魅力を再定義する“源泉力特化型ホテルブランド”『源泉一途』(GENSEN ITTO) - PR TIMES", "url": "https://prtimes.jp/main/html/rd/p/000000177.000034663.html" },
+          { "type": "official", "title": "コアグローバルマネジメント株式会社 公式ニュース", "url": "https://cgman.jp/newstopics/9349/" },
+          { "type": "press", "title": "新たな温泉ホテルブランド「源泉一途」、南伊豆と岩手・雫石に開業へ - トラベルボイス", "url": "https://www.travelvoice.jp/20260126-159106" },
+          { "type": "press", "title": "【一夜限りのビジホサミット】コアグローバルマネジメント代表取締役 中野正純が登壇 - PR TIMES", "url": "https://prtimes.jp/main/html/rd/p/000000202.000034663.html" }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-01-hotel-kawachiya-shimokamo",
+      "name": "ホテル河内屋",
+      "region": "静岡県賀茂郡南伊豆町下賀茂（下賀茂温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらん（口コミ）",
+          "score": 4.3,
+          "scale": 5,
+          "review_count": 458,
+          "checked_date": "2026-11-01",
+          "url": "https://www.jalan.net/yad311775/"
+        },
+        {
+          "source": "るるぶトラベル",
+          "score": 3.9,
+          "scale": 5,
+          "review_count": 171,
+          "checked_date": "2026-11-01",
+          "url": "https://www.rurubu.travel/hotel/japan/izu/hotel-kawachiya"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "食事なし和室プラン（2名1室）で1泊16,318円〜との掲載を確認。1泊2食付きプランの確定料金は検索範囲内では特定できなかった。",
+        "as_of_search_date": "2026-11-01",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "大浴場・露天風呂ともに100%自家源泉かけ流しで、竹製の温泉冷却装置『湯雨竹（ゆめたけ）』（大分県別府市ひょうたん温泉発祥の仕組みとされる）を伊豆半島で初めて導入した旅館と紹介されている（複数の口コミ・紹介サイトで確認）。永禄年間にトビが傷を癒す姿から発見されたという温泉由来の言い伝えがある。料理面では金目鯛の丸ごと姿煮、伊勢海老、鮑など伊豆の新鮮な海の幸を使った会席料理を名物として掲げている。",
+      "target_audience": ["カップル", "家族", "記念日", "グルメ旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 11,
+        "unique_experience_score": 14,
+        "photogenic": 9,
+        "value_for_price": 7,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 69,
+      "recommendation_reason": "口コミ評価自体はじゃらん4.3（458件）・るるぶ3.9と良好で、金目鯛・伊勢海老・鮑を使った会席料理と伊豆半島初導入とされる湯雨竹という独自性もある。ただしSNS上の話題性・最新のリニューアル情報が確認できず、運営者・女将等の『どんな思いで宿を手がけているか』を示す確認可能な一次情報（公式サイト上の沿革・インタビュー等）も見当たらなかったため、採点ライン75点には届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2026年6月の口コミ2件で、木造建築のため隣室の話し声が壁越しに聞こえるとの指摘を確認。2024年4月の口コミでは、大浴場で他の宿泊客のマナー（会話・笑い声）により入浴時間が台無しになったという指摘もあった（施設側の問題というより利用客間のマナーに関する指摘）。清潔感・安全性に関わる重大な指摘は確認されていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "河内屋 源泉かけ流し100%の湯宿 - じゃらん", "url": "https://www.jalan.net/yad311775/" },
+        { "type": "review_site", "title": "ホテル河内屋 (Hotel Kawachiya) - るるぶトラベル", "url": "https://www.rurubu.travel/hotel/japan/izu/hotel-kawachiya" },
+        { "type": "review_site", "title": "ホテル 河内屋の温泉情報、お得なクーポン、口コミ情報 - ニフティ温泉", "url": "https://onsen.nifty.com/shimogamo-onsen/onsen002786/" },
+        { "type": "booking_site", "title": "ホテル河内屋 - 楽天トラベル", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/27984" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score_breakdown合計69点で採用ライン（75点）未満のため不採用。口コミ評価は4.0以上を確保しており品質面に問題はないが、話題性・最新性・運営者の思いを示す一次情報の不足が主な要因。"
+    },
+    {
+      "id": "2026-11-01-sekkai-bettei-kagiya",
+      "name": "石花海 別邸 かぎや",
+      "region": "静岡県賀茂郡南伊豆町下賀茂（下賀茂温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "Skyticket（下賀茂温泉エリア比較ページ）",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 29,
+          "checked_date": "2026-11-01",
+          "url": "https://skyticket.jp/hotel/japan/onsen/shimogan_onsen/"
+        },
+        {
+          "source": "ニフティ温泉",
+          "score": 5.0,
+          "scale": 5,
+          "review_count": 4,
+          "checked_date": "2026-11-01",
+          "url": "https://onsen.nifty.com/shimogamo-onsen/onsen002787/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付き（2名1室利用時、1名あたり）標準和室29,700円〜、露天風呂付き客室37,400円〜38,500円〜。ヒリゾ浜への送迎（乗船所まで）が付く季節限定プランもある。",
+        "as_of_search_date": "2026-11-01",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "南伊豆・下賀茂温泉の山あいに佇む純和風旅館（別邸）。100%源泉かけ流しの湯量豊富な温泉と、地魚の盛り合わせ・鮑の踊り焼き・金目鯛料理など伊豆の海の幸を使った会席料理が特徴。伊豆半島最南端の石廊崎へ車で約20分というアクセスの良さもある。周辺海岸ではアカウミガメの産卵・保護活動が行われている。",
+      "renewal_or_news": "南側の客室タイプ（和モダン）は2021年10月に改装済みとの予約サイト記載を確認。",
+      "target_audience": ["カップル", "記念日", "夫婦", "グルメ旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 6,
+        "unique_experience_score": 13,
+        "photogenic": 10,
+        "value_for_price": 7,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 64,
+      "recommendation_reason": "評価そのものはSkyticket4.4（29件）・ニフティ温泉5.0（4件）といずれも高く、cocolocalaの口コミでも従業員対応の良さが挙げられており、ネガティブな投稿は検索範囲内で確認できなかった。一方で口コミ件数が各サイトとも極端に少なく（最大29件）信頼性の評価が難しいこと、公式サイトの所在・現在の営業状況・価格の最新性を独立した一次情報で確認できなかったことから、原則6の採用ライン（75点）には届かないと判断した。Hidden Gem候補として要件（公式情報確認・現在営業・独自性・伝える価値）のうち『公式情報が確認できる』の確証が弱く、今回はshortlisted（継続ウォッチ）とする。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "検索範囲内では明確なネガティブ口コミは確認できなかった。ただし送迎バスが伊豆急下田駅発15時・16時の2便のみで16時以降は対応できないという運用上の制約がある。重大な清潔感・安全性に関する指摘は確認されていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "石花海 別邸 かぎや(旧 旅館かぎや)の温泉情報、お得なクーポン、口コミ情報 - ニフティ温泉", "url": "https://onsen.nifty.com/shimogamo-onsen/onsen002787/" },
+        { "type": "review_site", "title": "石花海別邸かぎや - cocolocala", "url": "https://www.cocolocala.jp/hotels/15145" },
+        { "type": "booking_site", "title": "石花海 別邸 かぎや 宿泊プラン一覧 - 489ban.net", "url": "https://reserve.489ban.net/client/senoumi-kagiya/0/detail/215858" }
+      ],
+      "decision": "shortlisted"
+    }
+  ]
+}

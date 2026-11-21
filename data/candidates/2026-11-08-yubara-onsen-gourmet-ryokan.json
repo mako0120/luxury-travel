@@ -1,0 +1,269 @@
+{
+  "cycle_date": "2026-11-08",
+  "theme": "グルメ旅館（岡山県真庭市・湯原温泉エリア）",
+  "season_rationale": "11月上旬は湯原温泉周辺でも紅葉が進み始め、岡山ブランド牛（千屋牛など）や境港・瀬戸内からの海の幸を使った、秋から冬にかけての会席料理の訴求力が高まる時期にあたる。JR中国勝山駅・米子自動車道湯原ICを起点にアクセスできるエリアで、紅葉と温泉旅館のグルメを組み合わせたPRに向く季節であるため、今サイクルで『グルメ旅館』カテゴリの湯原温泉エリアを調査した。",
+  "prior_posts_checked": [],
+  "duplication_note": "data/candidates/ と captions/ の全件（1ヶ月以上前のファイルを含む）を『湯原』『湯原温泉』『真庭』『Yubara』『Maniwa』『岡山』『Okayama』で横断検索した。『湯原』『Yubara』を含む候補・キャプションファイルはこれまで一件も存在しない。『真庭』は data/candidates/2026-10-27-hiruzen-shiogama-glamping.json（真庭市蒜山高原エリア・グランピングカテゴリ）でヒットしたが、同じ真庭市内でも湯原温泉とは別エリア・別カテゴリであり重複にはあたらない。『岡山』は data/candidates/2026-10-29-okayama-city-other.json（岡山市中心部・その他カテゴリ）等でヒットしたが、いずれも湯原温泉エリア・グルメ旅館カテゴリとは異なる。よって今サイクルのテーマ・地域・カテゴリの組み合わせは既存候補・既存キャプションと重複しない。",
+  "research_limitation_note": "(1) 本セッションではWebFetchがwww.jalan.net・rlx.jp（Relux）に対してDNS解決エラー（getaddrinfo ENOTFOUND）で失敗し、個別の宿ページを直接開けなかった。そのため本候補群の情報はすべてWebSearchが返すスニペット要約経由であり、各予約サイトの口コミ本文・正確な総合評価点数の多くを直接確認できていない。(2) 調査の途中で本セッション（ターン）のWebSearch呼び出し上限に到達し、一休.com・Yahoo!トラベルでの数値評価、じゃらんでの『我無らん』『八景』『湯の蔵つるや』の具体的な評価点数・口コミ件数など、追加で確認したかった項目の一部を確認できないまま候補を確定した。(3) 上記の制約により、楽天トラベル以外の独立した大型レビューサイトで4.0以上（5点満点換算）の数値評価を確認できた候補が一つもなく、今サイクルは『独立2情報源必須』の基準を満たす候補がなかったため、selected候補なしとした。(4) selected候補が存在しないため、本サイクルでは設計者・運営者のcreator_story調査（出典付き）は実施していない。最有力候補の我無らんについては、次サイクルでじゃらん等の二次情報源の数値評価が確認でき選定に至った場合、創業者・運営者の思いについて追加調査が必要。(5) 料金（プラン別の正確な金額）は変動情報のため、制作直前に公式サイト・予約サイトで再確認が必要。",
+  "other_candidates_considered": [
+    {
+      "name": "元禄旅籠 油屋",
+      "region": "岡山県真庭市湯原温泉",
+      "category": "グルメ旅館（宿泊棟『夢酔庵』と温泉・食事棟『食湯館』の2館構成、地下源泉のかけ流し温泉）",
+      "note": "映画『千と千尋の神隠し』の油屋と同じ屋号を持つ旅館として旅行メディアで紹介されることがあるが、スタジオジブリ側が公式に認めたモデルではなく（公式モデルは江戸東京たてもの園の『子宝湯』とされる）、不確かな都市伝説的な紹介のため、creator_story等で実体験的・確定事実として扱うのは避けるべき対象。口コミ面では、Yahoo!トラベルは口コミ1件のため施設総合点数が非表示、icottoの表記（『3.249件』）は評価と件数の区切りが不明瞭で数値として採用できず、本セッションのWebSearchでは信頼できる数値評価を確認できなかった。日帰り入浴の口コミでは建物のレトロな雰囲気やランチが好意的に紹介されており、独自性自体は高いため、次サイクルでじゃらん・楽天トラベルの数値評価を直接確認できれば再調査の価値がある。"
+    },
+    {
+      "name": "足温泉 いづみ家 / 湯快感 花やしき / 旅館 かじか荘",
+      "region": "岡山県真庭市湯原温泉エリア",
+      "category": "グルメ旅館（それぞれクロヒメダイ・山水地鶏の陶板焼き、季節の会席料理、地鶏の燻製や鍋物を使った郷土料理が紹介されている）",
+      "note": "観光情報サイト（マップル等）の紹介文で料理の特徴は確認できたが、本サイクルではWebSearch呼び出し上限に到達する前に、じゃらん・楽天トラベル・フォートラベル等での具体的な評価点数・口コミ件数まで深掘りできなかった。数値評価が未確認のため、今サイクルでは候補データ化を見送り、次サイクルでの調査対象として記録する。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-11-08-yubara-onsen-gamuran",
+      "name": "湯原温泉 我無らん（GAMURAN）",
+      "region": "岡山県真庭市湯原温泉（湯原温泉街内、JR中国勝山駅・米子自動車道湯原ICが最寄りの起点）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "楽天トラベル（湯原温泉エリア一覧ページ・評価順表示）",
+          "score": 4.77,
+          "scale": 5,
+          "review_count": 311,
+          "checked_date": "2026-11-08",
+          "url": "https://travel.rakuten.co.jp/onsen/okayama/OK00736.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベルの宿泊プランページでは最安料金10,000円〜（消費税込11,000円〜）と案内されていた。プラン別・季節別の正確な料金、じゃらん掲載の料金は本セッションのWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "湯原温泉街にありながら全5〜6室限定（情報源により5室・6室と表記が分かれる）のバリスタイルの温泉宿。客室はそれぞれ異なるテーマ・内装でデザインされ、全室に源泉かけ流しの温泉風呂が付いている（ユニットバス内の湯も源泉とされる）。食事は境港から直送する海の幸をはじめ地元食材をふんだんに使った和食ベースの創作会席。温泉街の一般的な大型旅館とは一線を画す、デザイン性の高いブティック的なグルメ旅館であることが独自性。",
+      "renewal_or_news": "本セッションのWebSearchでは、2025〜2026年の具体的なリニューアル・新プラン情報は確認できなかった。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 10,
+        "unique_experience_score": 19,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 80,
+      "recommendation_reason": "湯原温泉街にありながら全5〜6室限定でバリスタイルの内装、客室ごとに異なるテーマデザイン、全室に源泉かけ流しの温泉風呂が付くという独自性の高い宿。境港直送の海の幸を使った創作会席も特徴で、楽天トラベルの湯原温泉エリア一覧ページでは評価4.77（311件）とエリア内でも上位の高評価を確認できた。一方、じゃらんにも施設ページ（yad356775）は存在するが本セッションのWebSearchでは評価点数を取得できず、フォートラベルの口コミ（5件）も個別の好意的なコメントは確認できたもののサイトとしての集計評価（アグリゲート値）は確認できなかった。独立2情報源での4.0以上確認という今サイクルの基準には届かないため、selectedではなくshortlistedとする。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本セッションのWebSearchで確認できた範囲（フォートラベルの個別口コミ、楽天トラベルの宿泊プランページ紹介文）では、低評価・衛生面・接客トラブル・営業停止を示す投稿は見当たらなかった。ただしWebFetchが使えずじゃらん・楽天トラベルの個別の低評価レビュー本文までは直接確認できておらず、じゃらん側の総合評価点数・口コミ件数も本セッションでは取得できなかった。制作検討時には低評価側の口コミ本文の直接確認が望ましい。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "湯原温泉 我無らん −GAMELAN− 宿泊施設情報（楽天トラベル）",
+          "url": "https://travel.rakuten.co.jp/HOTEL/56699/56699.html"
+        },
+        {
+          "type": "booking_site",
+          "title": "湯原温泉 我無らん −GAMELAN− 料金・宿泊プラン（じゃらん）",
+          "url": "https://www.jalan.net/yad356775/plan/"
+        },
+        {
+          "type": "other",
+          "title": "湯原温泉 我無らん 施設紹介（icotto）",
+          "url": "https://icotto.jp/hotels/4444"
+        }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "楽天トラベル以外の独立した大型レビューサイトでの4.0以上（5点満点換算）の数値評価を本セッション内で確認できなかったため、原則6・7の『独立2情報源必須』を満たせず、今サイクルではselectedではなくshortlistedとした。次サイクルでじゃらん・フォートラベルの集計評価を直接確認できれば、選定候補として有力。"
+    },
+    {
+      "id": "2026-11-08-yubara-onsen-hakkei",
+      "name": "湯原温泉 八景",
+      "region": "岡山県真庭市湯原温泉（JR中国勝山駅から車で約20〜30分）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル（湯原温泉エリア一覧ページ・評価順表示）",
+          "score": 4.58,
+          "scale": 5,
+          "review_count": 163,
+          "checked_date": "2026-11-08",
+          "url": "https://travel.rakuten.co.jp/onsen/okayama/OK00736.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションのWebSearchでは、プラン別の正確な一泊料金を数字として確認できなかった。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "朝・夕食あわせて約50種類の野菜を使った山里料理が特徴の宿。里山の和モダンな内装で、野菜を主役にした心づくしの料理を提供する点が他の湯原温泉の宿と異なる独自性。",
+      "renewal_or_news": "本セッションのWebSearchでは、2025〜2026年の具体的なリニューアル・新プラン情報は確認できなかった。",
+      "target_audience": ["カップル", "夫婦", "女子旅", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 9,
+        "unique_experience_score": 15,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 68,
+      "recommendation_reason": "朝夕あわせて約50種類の野菜を使った山里料理が特徴で、楽天トラベルの湯原温泉エリア一覧では評価4.58（163件）と高評価。独自性のある食事コンセプトを持つ。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icotto掲載の2025年4月投稿（一人旅客）では総合満足度3.0・接客対応2.5という低めの評価があり、建物の古さと一人旅客への接客対応への不満が書かれていた。一方フォートラベルの個別口コミでは4.0・4.5の評価も見られ、評価は分かれている。深刻な衛生・安全上の問題や営業停止を示す情報は確認できなかったが、接客対応面には懸念が残る。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "湯原温泉 八景 〜50種類以上の野菜が味わえる料理のお宿〜（じゃらん）",
+          "url": "https://www.jalan.net/yad310477/photo/"
+        },
+        {
+          "type": "booking_site",
+          "title": "湯原温泉エリア一覧（楽天トラベル、評価順表示）",
+          "url": "https://travel.rakuten.co.jp/onsen/okayama/OK00736.html"
+        },
+        {
+          "type": "review_site",
+          "title": "八景のクチコミ・感想（フォートラベル）",
+          "url": "https://4travel.jp/dm_hotel-10051087"
+        },
+        {
+          "type": "other",
+          "title": "湯原温泉 八景 施設紹介（icotto）",
+          "url": "https://icotto.jp/hotels/6013"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "楽天トラベルの評価は4.58（163件）と高いが、icotto掲載の一人旅客の投稿では総合満足度3.0・接客対応2.5という低めの評価があり、接客面に懸念が残る。フォートラベルの個別口コミは4.0〜4.5だが、サイトとしての集計評価（アグリゲート値）は本セッションのWebSearchでは確認できなかった。独立2情報源での4.0以上確認ができず、かつ接客面のネガティブレビューが存在するため、今サイクルでは不採用（rejected）とする。50種以上の野菜を使った山里料理という独自性は高く、接客面の改善状況を含め次サイクルでのrecheckの価値はある。"
+    },
+    {
+      "id": "2026-11-08-yubara-onsen-tsuruya",
+      "name": "湯原温泉 湯の蔵 つるや",
+      "region": "岡山県真庭市湯原温泉（JR中国勝山駅からバスで約30分）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル（湯原温泉エリア一覧ページ・評価順表示）",
+          "score": 4.55,
+          "scale": 5,
+          "review_count": 521,
+          "checked_date": "2026-11-08",
+          "url": "https://travel.rakuten.co.jp/onsen/okayama/OK00736.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションのWebSearchでは、プラン別の正確な一泊料金を数字として確認できなかった。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "大正4年（1915年）創業の造り酒屋を改装した全15室の和風旅館。館内の温泉はすべて源泉かけ流しで、地酒の試飲サービスがある点が特徴。酒蔵建築を活かした歴史的な佇まいが独自性。",
+      "renewal_or_news": "本セッションのWebSearchでは、2025〜2026年の具体的なリニューアル・新プラン情報は確認できなかった。",
+      "target_audience": ["カップル", "夫婦", "温泉好き", "グルメ旅", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 11,
+        "unique_experience_score": 16,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 68,
+      "recommendation_reason": "大正4年創業の造り酒屋を改装した歴史的な建物と地酒の試飲サービスという独自性を持ち、楽天トラベルの湯原温泉エリア一覧では評価4.55・521件という大きなレビュー件数を確認できた。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの2018年投稿では接客・サービス評価が1点と低く、隣室の音が気になったという指摘があった。同サイトの別の投稿（2018年4.5、2014年3.5、2012年4.0）は投稿時期・投稿者によって評価の差が大きい。営業停止・休業を示す情報は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "湯原温泉エリア一覧（楽天トラベル、評価順表示）",
+          "url": "https://travel.rakuten.co.jp/onsen/okayama/OK00736.html"
+        },
+        {
+          "type": "review_site",
+          "title": "湯の蔵つるやのクチコミ・感想（フォートラベル）",
+          "url": "https://4travel.jp/dm_hotel-10051079"
+        },
+        {
+          "type": "other",
+          "title": "湯原温泉 湯の蔵つるや 施設紹介（icotto）",
+          "url": "https://icotto.jp/hotels/6830"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "楽天トラベルの評価（4.55・521件）は高く件数も大きいが、フォートラベルの個別口コミは投稿時期・投稿者により評価差が大きく（接客評価1点の投稿を含む）、サイトとしての集計評価は本セッションのWebSearchでは確認できなかった。独立2情報源での4.0以上確認ができないため、今サイクルでは不採用（rejected）とする。大正4年創業の造り酒屋を改装した建物・地酒の試飲サービスという歴史的ストーリー性は高く、接客面のばらつきが現在どの程度改善されているか公式情報・直近口コミを確認できれば再評価の価値がある。"
+    },
+    {
+      "id": "2026-11-08-yubara-onsen-kikunoyu",
+      "name": "湯原国際観光ホテル 菊乃湯",
+      "region": "岡山県真庭市湯原温泉",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル（みんなの満足度）",
+          "score": 3.32,
+          "scale": 5,
+          "review_count": 27,
+          "checked_date": "2026-11-08",
+          "url": "https://4travel.jp/dm_hotel-10051080"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらん系の紹介では1泊2食付12,960円〜との案内があったが、本セッションのWebSearchでは公式サイト上の現在の正確な料金は確認できなかった。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "岡山ブランド牛（千屋牛・奈義牛等）のステーキ会席を選べる点、ペット専用フロアや露天風呂付客室がある点が特徴とされる。",
+      "renewal_or_news": "本セッションのWebSearchでは、2025〜2026年の具体的なリニューアル・新プラン情報は確認できなかった。",
+      "target_audience": ["家族", "カップル", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 8,
+        "unique_experience_score": 12,
+        "photogenic": 8,
+        "value_for_price": 7,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 56,
+      "recommendation_reason": "岡山ブランド牛のステーキ会席やペット専用フロアなど特徴はあるが、評価面で今サイクルの基準を満たせなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの『みんなの満足度』は3.32（27件）で、原則6の主要レビュー4.0基準を下回る。個別口コミには『お風呂はあと一歩』という声があった。Yahoo!トラベルの満足度は4.14と相対的に高いが、口コミ件数が確認できず独立2情報源での4.0以上確認という基準は満たせない。重大な安全・衛生上の懸念は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "湯原国際観光ホテル 菊之湯（Yahoo!トラベル）",
+          "url": "https://travel.yahoo.co.jp/00909711"
+        },
+        {
+          "type": "review_site",
+          "title": "菊之湯のクチコミ・感想（フォートラベル）",
+          "url": "https://4travel.jp/dm_hotel-10051080"
+        },
+        {
+          "type": "other",
+          "title": "湯原温泉 湯原国際観光ホテル 菊之湯 施設紹介（icotto）",
+          "url": "https://icotto.jp/hotels/7870"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "フォートラベルの『みんなの満足度』が3.32（27件）で主要レビュー4.0基準（原則6）を下回り、独立2情報源での4.0以上確認ができないため、今サイクルでは不採用（rejected）とする。"
+    }
+  ]
+}

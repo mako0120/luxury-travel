@@ -1,0 +1,140 @@
+{
+  "cycle_date": "2026-10-17",
+  "theme": "沖縄県八重山郡竹富町（西表島）の離島リゾート",
+  "season_rationale": "西表島は国立公園・世界自然遺産エリアのため夏季ほど混雑せず、10月中旬〜11月は台風ピークが過ぎて気候が安定し、ジャングルトレッキングや星空観賞に適した『狙い目』の時期。西表島ホテルでは実際に2026年9月1日〜11月30日の期間限定で、早朝ジャングルヨガやハーブ鍋を組み込んだ『西表ジャングルリセット滞在』プランが販売されており、今の時期ならではの訴求material価値がある。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-ana-intercontinental-ishigaki", "region": "沖縄県石垣市真栄里（マエサトビーチ）", "category": "離島リゾート" },
+    { "post_id": "2026-10-17-kumejima-resort（候補のみ・全件rejected）", "region": "沖縄県島尻郡久米島町", "category": "離島リゾート" },
+    { "post_id": "2026-10-16-kai-sengokuhara", "region": "神奈川県箱根町仙石原", "category": "絶景ホテル" },
+    { "post_id": "2026-09-22-amami-yagijima-hotel", "region": "鹿児島県奄美市名瀬", "category": "離島リゾート" },
+    { "post_id": "2026-09-18-hilton-okinawa-miyako", "region": "沖縄県宮古島市平良（トゥリバー地区）", "category": "離島リゾート" }
+  ],
+  "duplication_note": "石垣島・久米島・宮古島・奄美大島とは異なる島（沖縄県八重山郡竹富町・西表島）を対象に調査した。候補として検討した施設はいずれも過去の投稿・候補（captions/, posts/, data/candidates/ 内の既存エントリ）と重複しない。離島リゾートカテゴリは2026-10-17サイクルで石垣島を既に採用済みのため、同カテゴリの連続にはなるが、依頼により竹富町・西表島を対象に調査した。",
+  "candidates": [
+    {
+      "id": "2026-10-17-hoshino-iriomote-hotel",
+      "name": "西表島ホテル by 星野リゾート",
+      "region": "沖縄県八重山郡竹富町上原（西表島・西表石垣国立公園内）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.56, "scale": 5, "review_count": 149, "checked_date": "2026-10-17", "url": "https://travel.rakuten.co.jp/HOTEL/177935/review.html" },
+        { "source": "フォートラベル", "score": 4.19, "scale": 5, "review_count": 217, "checked_date": "2026-10-17", "url": "https://4travel.jp/dm_hotel-11288278" }
+      ],
+      "price_range_jpy": {
+        "note": "2024年発表時点の参考価格は2泊24,000円〜（2名1室利用時1名あたり、食事別、税・サービス料込）。このセッションのWebSearchでは現時点の正確な宿泊料金は確定できなかった。なお期間限定プラン『西表ジャングルリセット滞在』（2026年9月1日〜11月30日販売、2泊3日）は1名57,000円〜（サービス料込）。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "西表島の約90%を占めるジャングル（西表石垣国立公園・2021年ユネスコ世界自然遺産登録エリア）に抱かれた島内最大規模（全139室、全室42平米以上）のリゾートホテル。コンセプトは『イリオモテヤマネコが棲む島のエコツーリズムリゾート』で、日本初のダークスカイ・インターナショナル認定『星空保護区』にも指定された地域にあり、満天の星空観賞プログラムを実施。2024年10月には敷地内ジャングルを舞台にした『イリオモテジャングル図書館』（地元スタッフが司書を務める）もオープンし、カヤック・トレッキング・シュノーケリングなど西表島定番のアクティビティに加えホテル独自プログラムを一年通して提供している。",
+      "renewal_or_news": "2024年10月『イリオモテジャングル図書館』オープン。2026年9月1日〜11月30日は早朝ジャングルヨガ・ハーブ鍋などを組み込んだ季節限定プラン『西表ジャングルリセット滞在』を販売中（調査時点で販売期間内）。2026年6月20日〜9月26日の土曜限定では1日1組の『ティンガーラディナークルーズ』も実施された。",
+      "target_audience": ["カップル", "記念日", "絶景好き", "家族"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 12,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 5
+      },
+      "score": 81,
+      "recommendation_reason": "楽天トラベル4.56（149件）・フォートラベル4.19（217件）という性質の異なる2つの独立した情報源でいずれも4.0以上・十分な件数の高評価を確認できた。世界自然遺産の国立公園内という立地、日本初の星空保護区認定、イリオモテヤマネコをテーマにしたエコツーリズム、2024年開業のジャングル図書館など独自性が強く、2026年9月〜11月販売中の季節限定プラン『西表ジャングルリセット滞在』があり『今の時期ならではの訴求material価値』もある。アクセス（上原港から送迎車約10分、石垣島から船約45分）や大浴場の評価はやや低めだが、安全・衛生上の重大な問題ではないため採用ラインに達した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの項目別評価で『アクセス』3.25・『風呂』3.45と他項目（接客対応4.05・客室4.08）より低い。個別の口コミでは、雨天時に自転車が使えず外出しにくかった、帰りのバス案内が分かりにくかったという指摘（2012〜2015年頃）がある一方、バスターミナル・離島ターミナルへのアクセスの良さや飲食店が徒歩圏内という評価もある。楽天トラベルでは『温泉・お風呂』項目が3.60と他項目（清潔さ4.60・ロケーション4.57）より低めだが、星空・景色・スタッフの気配りを評価する声が多い。いずれも利便性・好みに関する指摘であり、清潔感・接客・設備老朽化等の重大な複数情報源一致の問題は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "西表島ホテル by 星野リゾート 公式サイト", "url": "https://hoshinoresorts.com/ja/hotels/iriomote/" },
+        { "type": "review_site", "title": "星野リゾート 西表島ホテル - フォートラベル（口コミ）", "url": "https://4travel.jp/dm_hotel-11288278" },
+        { "type": "booking_site", "title": "西表島ホテル - 楽天トラベル（クチコミ）", "url": "https://travel.rakuten.co.jp/HOTEL/177935/review.html" },
+        { "type": "press", "title": "西表島ホテル by 星野リゾート『イリオモテジャングル図書館』オープン - ことりっぷ", "url": "https://co-trip.jp/article/661471" },
+        { "type": "other", "title": "西表島ホテル by 星野リゾート『西表ジャングルリセット滞在』 - るるぶ&more", "url": "https://rurubu.jp/andmore/article/25314" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-17-hoshinoya-taketomi",
+      "name": "星のや竹富島",
+      "region": "沖縄県八重山郡竹富町竹富島",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "icotto（口コミ集計）", "score": 3.8, "scale": 5, "review_count": 379, "checked_date": "2026-10-17", "url": "https://icotto.jp/hotels-316/" }
+      ],
+      "price_range_jpy": {
+        "note": "集計サイトでは1泊1名あたり約56,500円という表示があったが、キャンペーン価格の可能性があり現在の正確な料金はこのセッションのWebSearchでは確定できなかった。朝食は別料金（フルブレックファスト形式）。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2012年開業。竹富島の集落景観を再現した木造平屋建ての客室（全48棟）、琉球石灰岩の石垣によるプライベート感、水牛車、満天の星空が特徴。星野リゾートの最高級ブランド『星のや』として知名度・ブランド力が高い。",
+      "target_audience": ["カップル", "記念日", "夫婦", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 8,
+        "unique_experience_score": 19,
+        "photogenic": 14,
+        "value_for_price": 5,
+        "sns_buzz": 9,
+        "access_and_freshness": 3
+      },
+      "score": 72,
+      "recommendation_reason": "ブランド力・独自性・写真映え・SNS話題性は非常に高いが、このセッションのWebSearchでは数値評価と件数がセットで確認できる独立した情報源を1件（icotto 3.8／379件）しか確定できず、原則7が求める『最低2種類以上の独立した情報源』を満たせなかった（Travelistは4.7表示のみで件数不明、フォートラベルのホテル本体ページの満足度・件数も検索結果からは確認できなかった）。また客室がコンパクト、朝食が別料金、敷地内の施設が少ないといった価格対体験価値への指摘もあり、総合スコアは72点で採用ライン（75点）に届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "敷地内の施設（レストラン等）が少ないという指摘、客室が想定より狭い・コンパクトという指摘、ルームサービスが1時間遅れたという2025年3月の投稿がある。一方で集落の雰囲気やプライベート感、朝食・スタッフ対応を評価する声も多い。重大な衛生・安全上の問題は確認されなかったが、独立した数値評価情報源が1件しか確定できなかったことと、価格対体験価値への指摘を踏まえてスコアに反映した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "星のや竹富島 口コミ・評価 - icotto", "url": "https://icotto.jp/hotels-316/" },
+        { "type": "other", "title": "星のや竹富島 - travelist", "url": "https://travelist.jp/hotel/detail/6162375/" },
+        { "type": "other", "title": "星のや竹富島 口コミ - cocolocala", "url": "https://www.cocolocala.jp/hotels/30894" },
+        { "type": "other", "title": "星のや竹富島 - ミシュランガイド", "url": "https://guide.michelin.com/jp/ja/hotels-stays/okinawa-prefecture/hoshinoya-taketomi-island-9172" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価＋件数がセットで確認できる独立した情報源を原則7が求める2件以上、このセッションのWebSearchでは確定できなかったこと、および価格対体験価値への指摘を踏まえ、総合スコア72点で採用ライン75点に届かず見送った。"
+    },
+    {
+      "id": "2026-10-17-haimurubushi-kohama",
+      "name": "はいむるぶし",
+      "region": "沖縄県八重山郡竹富町小浜島",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 4.0, "scale": 5, "review_count": 20, "checked_date": "2026-10-17", "url": "https://4travel.jp/dm_hotel-10039060" }
+      ],
+      "price_range_jpy": {
+        "note": "フォートラベルの口コミ投稿例では宿泊サイト経由で2泊1室103,000円という情報があったが、1名あたり・2名あたりの区分や現在の正確な料金はこのセッションのWebSearchでは確定できなかった。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "小浜島に位置し、2025年7月15日にロビー・レストラン・一部客室をリニューアルオープン、サウナ・スパ棟も新設された。広い敷地にプール・大浴場等を備える大型リゾート。",
+      "renewal_or_news": "2025年7月15日リニューアルオープン（ロビー・レストラン・一部客室改修、サウナ・スパ棟新設）。",
+      "target_audience": ["カップル", "記念日", "家族"],
+      "score_breakdown": {
+        "review_rating": 13,
+        "review_reliability": 6,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 5
+      },
+      "score": 59,
+      "recommendation_reason": "2025年7月のリニューアルという新しさはあるが、楽天トラベル側では総合評価の表示元が二次転載サイトのみで件数が確認できず、フォートラベル側も『満足度の高いクチコミ:4点〜(20件)』という表示の解釈が曖昧で、全体の総合満足度・総口コミ件数を明確な1次情報として確定できなかった。リニューアル後の口コミも少なく、原則7の信頼できる独立した評価の確認が不十分なため、総合スコア59点にとどまった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2015年の口コミでは敷地内の移動が大変でカート付きプランを勧める指摘があった。2015年の別の口コミでは台風接近時に屋外アクティビティが全て使えなくなり退屈しやすいという指摘もあった。リニューアル後（2025年7月以降）の口コミはこのセッションのWebSearchでは十分な件数を確認できなかった。衛生・安全上の重大な問題は確認されていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "はいむるぶし - フォートラベル（口コミ）", "url": "https://4travel.jp/dm_hotel-10039060" },
+        { "type": "booking_site", "title": "はいむるぶし - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/53418/" },
+        { "type": "other", "title": "はいむるぶし 口コミ集計（gpoint経由・楽天トラベル転載）", "url": "https://travel.gpoint.co.jp/daredoko/t4460/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "リニューアル直後で信頼できる独立した総合評価・件数を原則7の水準で確定できなかったため、総合スコア59点で見送った。"
+    }
+  ]
+}

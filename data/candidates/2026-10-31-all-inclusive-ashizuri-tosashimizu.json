@@ -1,0 +1,240 @@
+{
+  "cycle_date": "2026-10-31",
+  "theme": "オールインクルーシブ（高知県土佐清水市・足摺岬エリア）",
+  "season_rationale": "足摺岬は四国最南端に位置し、本州側の紅葉シーズンとは異なり冬でも比較的温暖で、晩秋から初冬にかけて太平洋の黒潮を望む夜空の澄んだ日が増え、星空観察ツアーを売りにする宿にとっては好条件が続く時期にあたる。また、今回selectedとしたTheMana Villageの1棟貸しヴィラ『BASE』タイプ（滞在中ドリンク・軽食が使い放題のプラン）は楽天トラベル掲載情報で2025年12月16日〜2027年3月31日が設定期間とされており、2026年10月末時点はまさにこのプランが予約可能な時期に当たる。これらを踏まえ、年末年始や冬の旅行検討が始まるこの時期に紹介する意義があると判断した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-25-shimanto-river-cruise / 2026-10-25-shimanto-kankou-yuransen", "region": "高知県四万十市（四万十川下流域）", "category": "列車・船" },
+    { "post_id": "2026-10-28-shimantocho-furusato-koryu-rafting", "region": "高知県高岡郡四万十町（四万十川中流域）", "category": "アクティビティ" }
+  ],
+  "duplication_note": "data/candidates・captions全履歴（1ヶ月以上前の分も含め『土佐清水』『足摺』『あしずり』『Ashizuri』『Tosashimizu』『高知』でgrep確認）を確認した結果、高知県を扱った既存の候補・キャプションは四万十川流域のアクティビティ・列車・船カテゴリ（2026-10-25 四万十川観光遊覧船、2026-10-28 四万十町ふるさと交流センターのラフティング）のみであった。いずれもエリアは四万十市・四万十町（四万十川中流〜下流域）であり、カテゴリもアクティビティ・列車・船である。今回の依頼対象であるカテゴリ『オールインクルーシブ』・エリア『土佐清水市（足摺岬エリア）』は、候補・キャプションいずれにも過去に一度も登場しておらず、完全新規の地域・カテゴリの組み合わせである。",
+  "candidates": [
+    {
+      "id": "2026-10-31-themana-village-ashizuri",
+      "name": "TheMana Village（ザ マナ ヴィレッジ、旧：足摺パシフィックホテル花椿）",
+      "region": "高知県土佐清水市足摺岬783（あしずり温泉郷、足摺宇和海国立公園内）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "skyticket（ホテル詳細ページ property_841829）",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 553,
+          "checked_date": "2026-10-31",
+          "url": "https://skyticket.jp/hotel/detail/property_841829/"
+        },
+        {
+          "source": "Relux（施設レビューページ、総合評価）",
+          "score": 4.3,
+          "scale": 5,
+          "review_count": 19,
+          "checked_date": "2026-10-31",
+          "url": "https://rlx.jp/25751/review/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "近畿日本ツーリスト（KNT）掲載の旅行代金では、おとな1名様あたり16,500円〜123,200円という幅のあるプラン構成が確認できた（プラン・客室タイプ・時期により大きく変動）。別の観光情報サイトでは1泊1人あたり参考価格15,000円〜という表示もあった。『早割90』プラン（90日前予約で割引、現地払い、2026年7月24日〜11月30日設定）も確認できたが、本セッションでは客室タイプ別の正確な最新料金表は確認できなかった。",
+        "as_of_search_date": "2026-10-31",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "四国最南端・足摺岬の国立公園内に立つ老舗旅館『足摺パシフィックホテル花椿』を、2019年の事業承継を経て『アジア屈指の滞在型リゾートビレッジ』として段階的に再生した施設。全室オーシャンビューとされ、2022年2月には太平洋を望む断崖のイタリアンレストラン『Azzurrissimo』をプレオープン。長期滞在向けにキッチン・専用露天風呂・屋外テラス付きスイートを順次増室しており、1棟貸しヴィラ『BASE』タイプでは滞在中ジュース・アルコール飲料・お菓子・コーヒー等が『使い放題』というフード&ドリンクの特典が付き、足摺半島・四万十エリアで釣り・サーフィン・BBQを楽しむ拠点として位置づけられている。この『BASE』タイプの滞在中フリーフロー特典が、本施設におけるオールインクルーシブ的要素の中心である（全室・全プラン共通の包括的オールインクルーシブではなく、villa『BASE』タイプ限定の特典である点に留意）。",
+      "renewal_or_news": "2019年に地元企業から事業承継後、2室のスイートルーム整備→2022年2月のレストランプレオープン→長期滞在向けスイートの増室→1棟貸しヴィラ『BASE』タイプ導入という段階的リニューアルが継続中。楽天トラベル掲載の『BASE』朝食付きプランの設定期間は2025年12月16日〜2027年3月31日で、2026年10月時点でも予約販売が継続していることをikyu（2026年7月宿泊レビュー）・楽天トラベルランキング（2026年6月更新）で確認した。",
+      "target_audience": ["カップル", "記念日", "夫婦", "女子旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 10,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 3
+      },
+      "score": 77,
+      "recommendation_reason": "skyticket（4.6点・553件）とRelux（4.3点・19件）という独立した2つの情報源で、いずれも採用ライン（4.0以上）を上回る（review_rating 22/25）。skyticketの件数は十分だがReluxは19件と少なく、review_reliabilityは10/15とした。老舗旅館を段階的にアジア屈指の滞在型リゾートへ再生したストーリー、全室オーシャンビュー、断崖のイタリアンレストラン、1棟貸しヴィラ『BASE』の滞在中フリーフロー特典という組み合わせの独自性を17/20と評価した。一方、全館共通の包括的オールインクルーシブではなく一部プラン限定である点、SNS上の話題性が限定的な点（Japan.travel・KATEIGAHO・Michelin Guide掲載はあるが爆発的な話題性ではない）を踏まえsns_buzzは7/10、value_for_priceは料金幅の不確実性から6/10とした。総合77点でselectedとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "cocolocalaに2026年6月投稿の低評価（1.0点）があり、3泊4日の滞在で満足度が低く予定より早く帰った、チェックイン後に荷物を自分で客室まで運ぶ必要があった、という具体的な不満が確認できた。icottoの口コミ（2020年2月、旧名称時代）では建物の古さ（手入れはされている）、大浴場までの廊下の長さ、夕食量の多さ（少食の人は注意）が指摘されていた。一方フォートラベル（2022年4月投稿）では露天風呂からの景観を『四国で1、2位を争うレベル』と高く評価する声もあった。重大な衛生・安全上の問題や、予約対応トラブルの多発を示す情報は本セッションの検索範囲では確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "TheMana Village 口コミ評価4.6（553件） - skyticket",
+          "url": "https://skyticket.jp/hotel/detail/property_841829/"
+        },
+        {
+          "type": "review_site",
+          "title": "TheMana Village レビュー総合4.3/5（19件） - Relux",
+          "url": "https://rlx.jp/25751/review/"
+        },
+        {
+          "type": "review_site",
+          "title": "TheMana Village（旧:足摺パシフィックホテル花椿）口コミ・施設情報 - icotto",
+          "url": "https://icotto.jp/hotels/3964"
+        },
+        {
+          "type": "review_site",
+          "title": "TheMana Village 口コミ（2026年6月投稿を含む） - cocolocala",
+          "url": "https://www.cocolocala.jp/hotels/22953"
+        },
+        {
+          "type": "booking_site",
+          "title": "TheMana Village「BASE」1棟貸しヴィラ・朝食付きプラン（使い放題BASEアイテム：ジュース・アルコール・お菓子・コーヒー） - 楽天トラベル",
+          "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/74616"
+        },
+        {
+          "type": "other",
+          "title": "TheMana Village（Tosashimizu）施設情報 - Michelin Guide",
+          "url": "https://guide.michelin.com/jp/ja/hotels-stays/Tosashimizu/themana-village-15451"
+        },
+        {
+          "type": "press",
+          "title": "老舗旅館をアジア屈指の滞在型リゾートビレッジに再生｜新しい地方創生のモデルとなる『TheMana Village』が高知県土佐清水市にオープン - 時事ドットコム",
+          "url": "https://www.jiji.com/jc/article?k=000000007.000074373&g=prt"
+        },
+        {
+          "type": "other",
+          "title": "四国地方の宿泊施設改修工事に関する資料（TheMana Village 長期滞在型スイート増室等） - 国土交通省四国運輸局",
+          "url": "https://wwwtb.mlit.go.jp/shikoku/content/000314286.pdf"
+        }
+      ],
+      "decision": "selected",
+      "creator_story": {
+        "text": "この施設の建築・内装デザインを個人として担当した設計者名を挙げたコンセプト発言や、改修方針そのものを体系的に説明した一次資料は、本セッションの検索範囲（WebSearch経由。公式サイト www.themanavillage.com、時事ドットコム（jiji.com）、PR Times（prtimes.jp）、高知新聞EINEE（kochinews.co.jp）、楽天トラベル（travel.rakuten.co.jp）、Relux（rlx.jp）など、関係が深いと見られる主要ドメインの多くは、本セッションのネットワーク制限によりWebFetchで直接ページを開くことができず、検索エンジンの要約・スニペット経由での確認に限られた）では確認できなかった。\n\n確認できた準一次的な情報（検索エンジンの要約経由）は次の内容である。運営は株式会社Catalystグループ（土佐清水リゾート合同会社、代表社員：株式会社Catalyst、職務執行者：高野由之氏）で、2019年に地元企業から老舗旅館『足摺パシフィックホテル花椿』の事業を承継し、『アジア屈指の滞在型リゾートビレッジ』『新しい地方創生のモデル』として再生することを掲げ、2022年に『TheMana Village』として再始動したとされる（時事ドットコム・PR Timesのプレスリリース見出しより）。改修は段階的で、まず2室のスイートルームを整備し、2022年2月10日に太平洋を望むイタリアンレストラン『Azzurrissimo』をプレオープンした後、長期滞在向けにキッチン・専用露天風呂・屋外テラス付きスイートの増室や、1棟貸しヴィラ『BASE』タイプ（滞在中ドリンク・お菓子等が使い放題）を順次追加してきたことが、国土交通省四国運輸局の資料や楽天トラベルのプラン掲載から確認できる。\n\n代表・高野由之氏個人の思いについては、高知新聞（EINEE）が報じた、施設で開催されるイベント『ざまなフェス』に関する記事の検索結果要約に、花火のような一度限りの催しだけでは地方創生として不十分だという考えや、イタリア・アマルフィ海岸を視察した経験と比較して足摺の海の魅力を語ったとされる記述が含まれていた。しかし記事本文を直接開いて一次情報として引用することは、本セッションのネットワーク制限によりできなかったため、本人の発言をそのままの言葉として引用することは避ける。したがって、設計・改修に込めた具体的な思いや発言内容については『検索結果の要約レベルでは方向性（地方創生・足摺の海の価値を伝えたいという志向）がうかがえるが、一次情報として直接確認できなかった』こととし、推測や発言の創作は行わない。",
+        "sources": [
+          {
+            "type": "press",
+            "title": "老舗旅館をアジア屈指の滞在型リゾートビレッジに再生｜新しい地方創生のモデルとなる『TheMana Village』が高知県土佐清水市にオープン - 時事ドットコム",
+            "url": "https://www.jiji.com/jc/article?k=000000007.000074373&g=prt"
+          },
+          {
+            "type": "press",
+            "title": "足摺は「世界に誇れる自然、食文化」 土佐清水市のホテル「TheMana Village」で9/20に「ざまなフェス」 花火、よさこい「継続開催に感謝」 - 高知新聞 EINEE",
+            "url": "https://www.kochinews.co.jp/article/detail/897259"
+          },
+          {
+            "type": "other",
+            "title": "四国地方の宿泊施設改修工事に関する資料（TheMana Village 長期滞在型スイート増室等） - 国土交通省四国運輸局",
+            "url": "https://wwwtb.mlit.go.jp/shikoku/content/000314286.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-10-31-ashizuri-kokusai-hotel",
+      "name": "足摺国際ホテル",
+      "region": "高知県土佐清水市足摺岬（あしずり温泉郷）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "icotto（あしずり温泉郷 足摺国際ホテル口コミ集計、2026年の検索結果スニペットに基づく概算値。原文表示が「3.5841件」のように数字が連結されており、スコア3.58・件数41件という解釈に基づく。正確な表示は未確認）",
+          "score": 3.58,
+          "scale": 5,
+          "review_count": 41,
+          "checked_date": "2026-10-31",
+          "url": "https://icotto.jp/hotels/9755"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本サイクルでは客室タイプ別の正確な最新料金を確認できなかった。",
+        "as_of_search_date": "2026-10-31",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "足摺岬に立地し、海側客室から太平洋を見渡せる。オリジナルツアーのスターウォッチング（星空観察）が名物として紹介されており、JTBの宿泊客アンケートでは総合86点（夕食87点、100点満点换算）という掲載があった。",
+      "target_audience": ["夫婦", "記念日", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 6,
+        "unique_experience_score": 10,
+        "photogenic": 9,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 46,
+      "recommendation_reason": "星空観察ツアーや太平洋を望む海側客室という魅力はあるが、本セッションで確認できた口コミ数値（icotto経由、3.58/5相当・41件）は主要レビュー4.0以上の採用ラインに届かない。また、宿泊料金に食事・ドリンク・アクティビティ等を包括的に含む『オールインクルーシブ』型プランを公式に提供していることを示す情報は本セッションでは確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "検索結果の要約では、チェックイン時の丁寧だが過度でない接客への好意的な感想が見られた一方、評価点自体が4.0未満にとどまっており、具体的な低評価コメントの全文は本セッションでは確認できなかった。重大な衛生・安全上の指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "あしずり温泉郷 足摺国際ホテル(高知県 旅館) - icotto",
+          "url": "https://icotto.jp/hotels/9755"
+        },
+        {
+          "type": "other",
+          "title": "ホテル・旅館情報（足摺エリア、足摺国際ホテルのスターウォッチングツアー紹介を含む） - JTB国内旅行",
+          "url": "https://www.jtb.co.jp/kokunai_jr/t/godate_1013/390601/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビュー評価（icotto経由3.58/5相当）が採用ライン（4.0以上）に届かず、かつ公式にオールインクルーシブ型プランを提供していることを確認できなかったため、カテゴリ『オールインクルーシブ』の候補としては見送った。"
+    },
+    {
+      "id": "2026-10-31-ashizuri-sunnyside-hotel",
+      "name": "あしずり温泉郷 足摺サニーサイドホテル",
+      "region": "高知県土佐清水市足摺岬（あしずり温泉郷）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "icotto（足摺サニーサイドホテル個別口コミ、2020年前後の投稿1件に基づく）",
+          "score": 3.0,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-31",
+          "url": "https://icotto.jp/hotels/7399"
+        },
+        {
+          "source": "フォートラベル（施設クチコミページ）",
+          "score": 3.5,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-31",
+          "url": "https://4travel.jp/dm_hotel-10051912"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本サイクルでは正確な最新料金を確認できなかった。",
+        "as_of_search_date": "2026-10-31",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全室オーシャンビュー、星空ビューの露天風呂が自慢とされる温泉ホテル。大浴場・露天風呂・温泉を備える。",
+      "target_audience": ["夫婦", "絶景好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 6,
+        "review_reliability": 3,
+        "unique_experience_score": 9,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 35,
+      "recommendation_reason": "全室オーシャンビュー・星空ビューの露天風呂という魅力はあるが、確認できた口コミは件数が極めて少なく（各サイト1件程度）、評価も3.0〜3.5点と採用ライン（4.0以上）に届かない。建物の古さ・階段の多さを指摘する声もあり、オールインクルーシブ型プランの提供も確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ある口コミ（3.0点）では、施設は古いがスタッフは親切という評価がありつつ、建物が古く階段が多いことを指摘していた。重大な衛生・安全上の問題の指摘は確認されなかったが、全体として口コミ件数・信頼性が乏しい。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "あしずり温泉郷 足摺サニーサイドホテル - icotto",
+          "url": "https://icotto.jp/hotels/7399"
+        },
+        {
+          "type": "review_site",
+          "title": "足摺サニーサイドホテル クチコミ情報 - フォートラベル",
+          "url": "https://4travel.jp/dm_hotel-10051912"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数が極めて少なく信頼性に乏しい上、評価も採用ライン（4.0以上）に届かず、オールインクルーシブ型プランの提供も確認できなかったため見送った。"
+    }
+  ]
+}

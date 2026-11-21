@@ -1,0 +1,135 @@
+{
+  "cycle_date": "2026-11-01",
+  "theme": "鹿児島県徳之島（天城町・伊仙町・徳之島町）のオールインクルーシブ（再調査枠）",
+  "season_rationale": "依頼により『オールインクルーシブ』カテゴリの本日2サイクル目として、沖縄県久米島町（2026-11-01-all-inclusive-kumejima.json、該当なし）とは別地域の鹿児島県徳之島3町（天城町・伊仙町・徳之島町）を対象に調査した。11月上旬は徳之島でも海水温が下がり始めるが、気候は比較的温暖でダイビング等は継続可能な時期。data/candidates・captions配下を全件grepで確認したが、徳之島・天城町・伊仙町を対象とした候補・投稿はこのサイクルが初めてで、重複は発生していない。徳之島は喜界島・沖永良部島と並ぶ奄美群島の離島で、空港周辺（亀津・亀徳）に中規模ホテルが集まる一方、全食事・ドリンク込みの『オールインクルーシブ』型プランを前面に出す施設は確認できなかった。",
+  "prior_posts_checked": [
+    { "post_id": "2026-11-01-all-inclusive-kumejima（該当なし）", "region": "沖縄県島尻郡久米島町", "category": "オールインクルーシブ" }
+  ],
+  "duplication_note": "data/candidates全件・captions全件（1ヶ月以上前を含む）をgrepで『徳之島』『天城町』『伊仙町』『tokunoshima』で確認したが、一件も該当がなかった。徳之島を対象とした候補調査・キャプション作成は本サイクルが初めてであり、重複は発生していない。",
+  "candidates": [
+    {
+      "id": "2026-11-01-hotel-lexton-tokunoshima-ai",
+      "name": "ホテル・レクストン徳之島",
+      "region": "鹿児島県大島郡徳之島町亀津7459",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらん", "score": 3.8, "scale": 5, "review_count": 121, "checked_date": "2026-11-01", "url": "https://www.jalan.net/yad367645/" },
+        { "source": "フォートラベル", "score": 3.29, "scale": 5, "review_count": 20, "checked_date": "2026-11-01", "url": "https://4travel.jp/dm_hotel-10053286" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは2名1泊あたりの具体的料金は確定できなかった。全食事・ドリンク込みの『オールインクルーシブ』専用プランは公式・予約サイトのいずれでも確認できなかった。",
+        "as_of_search_date": "2026-11-01",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "徳之島町亀津の市街地中心部に位置し、1階に24時間営業のレストラン（ジョイフル）、2階に宿泊者無料の全自動洗濯機を備えるなど、観光・ビジネス両用の利便性を重視したホテル。ビーチフロントではなく、リゾート的な独自体験や全食事・ドリンク込みのプランはこのセッションのWebSearchでは確認できなかった。",
+      "target_audience": ["友人"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 12,
+        "unique_experience_score": 3,
+        "photogenic": 3,
+        "value_for_price": 4,
+        "sns_buzz": 1,
+        "access_and_freshness": 2
+      },
+      "score": 43,
+      "recommendation_reason": "じゃらん3.8（121件）・フォートラベル3.29（20件）という2つの独立した情報源を確認できたが、いずれも主要レビューサイトの評価4.0未満（原則6により即不採用の水準）。市街地中心部のビジネス・観光拠点としての利便性はあるが、オールインクルーシブカテゴリが求める全食事・ドリンク込みプランやリゾート的な独自体験は確認できず、総合スコアは43点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの項目別評価でバリアフリーが3.00と低め。深刻な衛生・安全上の問題を指摘する口コミは複数情報源で確認できなかったが、ビーチフロントのリゾートではなく市街地のビジネスホテルという性格が強く、ラグジュアリー旅先としての訴求力に乏しい。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ホテル・レクストン徳之島 - じゃらんnet", "url": "https://www.jalan.net/yad367645/" },
+        { "type": "review_site", "title": "ホテル・レクストン徳之島 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10053286" },
+        { "type": "booking_site", "title": "ホテル・レクストン徳之島 - チケットぴあ旅行", "url": "https://tour.l-tike.com/hotels/domestic/hotel/1077049/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立2情報源（じゃらん3.8／フォートラベル3.29）いずれも主要レビュー評価4.0未満のため原則6により即不採用。全食事・ドリンク込みのオールインクルーシブ型プランも確認できず、採用ライン75点には届かない。"
+    },
+    {
+      "id": "2026-11-01-hotel-sunset-resort-tokunoshima-ai",
+      "name": "ホテルサンセットリゾート",
+      "region": "鹿児島県大島郡天城町与名間610-1",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.32, "scale": 5, "review_count": 16, "checked_date": "2026-11-01", "url": "https://4travel.jp/dm_hotel-10053287" }
+      ],
+      "price_range_jpy": {
+        "note": "近畿日本ツーリスト掲載でおとな1名あたり6,380円〜9,680円という参考価格を確認したが、これは通常の食事付きプラン料金で、全食事・ドリンク込みの『オールインクルーシブ』専用プランの存在は公式・予約サイトのいずれでもこのセッションのWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-11-01",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "徳之島空港から車で約7分のビーチサイドに位置し、徳之島唯一とされるサウナ付き展望大浴場（階段状に連なる3段の大浴場）と、夕景が見えるレストランが特徴。宿泊者向けにアマミノクロウサギ観察ツアーが半額になる案内もある。ただし全食事・ドリンクが料金に含まれる『オールインクルーシブ』型プランの存在はこのセッションのWebSearchでは確認できなかった。",
+      "renewal_or_news": "日本旅行(NTA)掲載ページでは2025年5月〜2026年4月を集計期間とする評価が『収集中』となっており、2026年11月時点で新たな大規模リニューアル・休業情報は確認できなかった。",
+      "target_audience": ["カップル", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 17,
+        "review_reliability": 4,
+        "unique_experience_score": 10,
+        "photogenic": 9,
+        "value_for_price": 6,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 52,
+      "recommendation_reason": "フォートラベル3.32（16件）という数値評価は確認できたが、このセッションのWebSearchでは独立した2つ目の数値評価情報源（じゃらん・楽天トラベル等）を確認できず、原則7が求める評価の信頼性水準に届かない。夕景が見えるレストランや段々状の大浴場など独自性はあるが、主要レビュー評価自体が4.0未満で原則6の基準にも届かず、全食事・ドリンク込みのオールインクルーシブ型プランも確認できないため、総合スコアは52点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミで、部屋の湿気臭さ・芳香剤の香りの強さ、大浴場が『スーパー銭湯のよう』という辛口の指摘があった。項目別評価ではバリアフリーが1.75と特に低い。ビーチまで高低差のある坂を3〜5分歩く必要がある点も指摘されている。深刻な衛生・安全上の重大問題として複数情報源で一致して確認されたわけではないため、disqualifying issueとまでは判断しなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ホテルサンセットリゾート（徳之島） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10053287" },
+        { "type": "booking_site", "title": "ホテルサンセットリゾート - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/32081/32081.html" },
+        { "type": "other", "title": "徳之島・天城 宿泊施設エリア情報 - 近畿日本ツーリスト", "url": "https://yado.knt.co.jp/areamap/1130706200005/" },
+        { "type": "other", "title": "ホテルサンセットリゾート 宿情報 - 日本旅行(NTA)", "url": "https://www.nta.co.jp/nta_yado/hotel/9738-302/info" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "唯一確認できた数値評価（フォートラベル3.32）が主要レビュー4.0未満かつ独立2情報源目を確認できず、原則6・7のいずれも満たさない。全食事・ドリンク込みのオールインクルーシブ型プランも確認できず、採用ライン75点には届かない。"
+    },
+    {
+      "id": "2026-11-01-hotel-grand-ocean-resort-tokunoshima-ai",
+      "name": "ホテルグランドオーシャンリゾート",
+      "region": "鹿児島県大島郡徳之島町亀津（亀徳新港徒歩10分）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.24, "scale": 5, "review_count": 11, "checked_date": "2026-11-01", "url": "https://4travel.jp/dm_hotel-10056927" }
+      ],
+      "price_range_jpy": {
+        "note": "JTB掲載の『のんびり素泊まりプラン』など食事なしプランの存在は確認できたが、全食事・ドリンク込みの『オールインクルーシブ』専用プランや具体的な2名1泊料金は、このセッションのWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-11-01",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "徳之島町亀津の市街地・海沿いに位置し、亀徳新港から徒歩10分。夕朝食付きプランでは夕食のステーキのボリューム、朝食の鶏飯ビュッフェが好評との口コミがある。一方で空港からは車で約40分とアクセスが不便で、全食事・ドリンク込みのオールインクルーシブ型プランの存在はこのセッションのWebSearchでは確認できなかった。",
+      "target_audience": ["友人", "家族"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 3,
+        "unique_experience_score": 5,
+        "photogenic": 6,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 39,
+      "recommendation_reason": "フォートラベル3.24（11件、徳之島21件中5位）という評価を確認できたが、独立した2つ目の数値評価情報源はこのセッションのWebSearchでは確認できず、主要レビュー評価自体も4.0未満。空港からのアクセスが車で約40分と不便な点や『リゾート感が薄い』という口コミ指摘もあり、全食事・ドリンク込みのオールインクルーシブ型プランも確認できないため、総合スコアは39点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミで、浴室の清掃・匂いへの不満、空港から離れていてレンタカーがないと不便という指摘、『リゾート感の薄さ』『食事が硬い』という指摘があった。項目別評価ではアクセスが3.00と低い。深刻な衛生・安全上の重大問題として複数情報源で一致して確認されたわけではないため、disqualifying issueとまでは判断しなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ホテルグランドオーシャンリゾート - フォートラベル", "url": "https://4travel.jp/dm_hotel-10056927" },
+        { "type": "booking_site", "title": "ホテルグランドオーシャンリゾート - じゃらんnet", "url": "https://www.jalan.net/yad304356/" },
+        { "type": "review_site", "title": "ホテルグランドオーシャンリゾート クチコミ詳細 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10056927/tips" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "唯一確認できた数値評価（フォートラベル3.24）が主要レビュー4.0未満かつ独立2情報源目を確認できず、原則6・7のいずれも満たさない。空港アクセスの不便さや『リゾート感が薄い』という口コミ指摘もあり、全食事・ドリンク込みのオールインクルーシブ型プランも確認できず、採用ライン75点には届かない。"
+    }
+  ],
+  "cycle_conclusion": "『オールインクルーシブ』カテゴリ・鹿児島県徳之島（天城町・伊仙町・徳之島町）を対象に3施設（ホテル・レクストン徳之島、ホテルサンセットリゾート、ホテルグランドオーシャンリゾート）を調査した。いずれも主要レビューサイトの評価が4.0未満（原則6により即不採用の水準）で、かつ全食事・ドリンク込みを明示する『オールインクルーシブ』型プランの存在を公式サイト・予約サイトのいずれでも確認できなかった。徳之島の宿泊施設は空港・港周辺の中規模ビジネス・観光ホテルが中心で、オールインクルーシブカテゴリの核となる価値提案を満たす施設は本サイクルでは発見できず、selected候補なし。なお一棟貸しヴィラ（オーシャンヴィラ徳之島、Private Villa isola等）も存在を確認したが、数値付きの口コミ評価が確認できず、信頼できる評価データとして候補化できなかった。captions/の新規作成は行わない。本日の『オールインクルーシブ』再調査枠は久米島（該当なし）・徳之島（該当なし）のいずれも選定に至らなかった。"
+}

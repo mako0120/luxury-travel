@@ -1,0 +1,142 @@
+{
+  "cycle_date": "2026-10-21",
+  "theme": "アクティビティカテゴリ（岐阜県高山市・飛騨高山〜乗鞍高原エリアの体験型観光）",
+  "season_rationale": "10月下旬は乗鞍岳・北アルプス山系で紅葉が山麓へ下りきる一方、標高2,000m超の山頂付近では初冠雪の便りが出始める時期で、山麓の紅葉と高所の雪化粧を同時に楽しめる『三段紅葉』的なタイミング（原則30）。新穂高ロープウェイは標高2,156mの西穂高口駅まで一気に上がるため、同じ日でも紅葉と初冬の空気を両方体感できる、この時期ならではの訴求ができる。",
+  "prior_posts_checked": [
+    { "caption_id": "2026-10-20-westin-sendai-date-hightea-blackpurple", "region": "宮城県仙台市青葉区花京院", "category": "その他" },
+    { "caption_id": "2026-10-20-vision-glamping-yamanakako", "region": "山梨県南都留郡山中湖村", "category": "グランピング" },
+    { "caption_id": "2026-10-20-fuji-panoramic-ropeway", "region": "山梨県南都留郡富士河口湖町（河口湖畔・天上山公園）", "category": "アクティビティ" },
+    { "caption_id": "2026-10-19-yunohana-jozankeiden", "region": "北海道札幌市南区定山渓温泉", "category": "サウナ" },
+    { "caption_id": "2026-10-19-machiya-club-omihachiman", "region": "滋賀県近江八幡市", "category": "文化体験" },
+    { "caption_id": "2026-10-18-kitakobushi-shiretoko", "region": "北海道斜里郡斜里町ウトロ東（知床）", "category": "アクティビティ" },
+    { "candidate_id": "2026-09-22-hida-takayama-culture（本陣平野屋 花兆庵など）", "region": "岐阜県高山市（高山陣屋・古い町並み周辺の宿）", "category": "文化体験", "note": "約1ヶ月前（2026-09-22）に同じ高山市内の『古い町並み』エリアを文化体験カテゴリで取り上げ済み。今回の新穂高・乗鞍方面は市街地から離れた山岳部で、体験の性質（宿泊×歴史文化 vs 山岳ロープウェイ×絶景アクティビティ）も異なるため、地域・カテゴリとも重複にはあたらないと判断した。" }
+  ],
+  "duplication_note": "地域: 岐阜県高山市の山岳部（新穂高・奥飛騨温泉郷）は、過去のdata/candidates・captionsを横断確認した範囲では初登場（約1ヶ月前の2026-09-22サイクルで同じ高山市内『古い町並み』エリアの旅館を文化体験カテゴリで扱ったが、新穂高は市街地から車・バスで1時間以上離れた山岳エリアで、体験内容も宿泊中心と山岳アクティビティ中心とで明確に異なる）。直近5投稿（知床10/18・定山渓10/19・近江八幡10/19・山中湖10/20・仙台10/20）とも地域重複なし。カテゴリ: 『アクティビティ』は直近の2026-10-20（富士山パノラマロープウェイ）、2026-10-18（知床）でも使用しているため3サイクル中2回がロープウェイ系になる点は認識している。ただし今回の依頼で地域・カテゴリが明示指定されており、新穂高ロープウェイは『日本唯一の2階建てゴンドラ』『ミシュラン・グリーンガイド・ジャポン二つ星』という富士山パノラマロープウェイとは異なる独自性を持つため、体験の種類としては許容範囲と判断した。次回サイクルでは温泉旅館・グルメ旅館等、ロープウェイ系以外を優先したい。",
+  "research_constraints": "このセッションはWebSearchツールの実行回数上限（ターン共有の検索予算）に途中で到達したため、新穂高ロープウェイの公式サイト（運営：奥飛観光開発株式会社）そのものや、他の候補（休暇村乗鞍高原・奥飛騨クマ牧場）の追加の数値根拠確認が完了できなかった。CLAUDE.mdの制約どおり、jalan.net・4travel.jp・tripadvisor.jp・cocolocala.jp等の主要旅行系ドメインへの直接WebFetchはいずれもEGRESS_BLOCKED（DNS解決不可）となり、WebSearchのスニペット経由で得られる情報のみを情報源とした。",
+  "candidates": [
+    {
+      "id": "2026-10-21-shinhotaka-ropeway",
+      "name": "新穂高ロープウェイ",
+      "region": "岐阜県高山市奥飛騨温泉郷新穂高（飛騨高山エリア・北アルプス山麓）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.3, "scale": 5, "review_count": 1739, "checked_date": "2026-10-21", "url": "https://www.jalan.net/kankou/spt_21626ee4570112104/kuchikomi/" },
+        { "source": "フォートラベル", "score": 3.82, "scale": 5, "review_count": 133, "checked_date": "2026-10-21", "url": "https://4travel.jp/dm_shisetsu/10000477" },
+        { "source": "いこーよ", "score": 3.9, "scale": 5, "review_count": 5, "checked_date": "2026-10-21", "url": "https://iko-yo.net/facilities/23439/experiences" }
+      ],
+      "price_range_jpy": {
+        "note": "ロープウェイ往復（第一・第二区間通し）で大人3,000円程度〜・子供1,500円程度〜という掲載が検索範囲で確認できた。区間・時期・プランにより変動するため要確認。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "標高1,117mの新穂高温泉駅から、乗り継ぎを含め標高2,156mの西穂高口駅まで一気に登る、日本で唯一の2階建てゴンドラを採用したロープウェイ。山頂展望台からは西穂高岳・槍ヶ岳・笠ヶ岳など北アルプスの名峰を360度の大パノラマで一望でき、『ミシュラン・グリーンガイド・ジャポン』では二つ星として掲載されている。中間駅のしらかば平には足湯・露天風呂・パン屋もあり、山岳体験と温泉地らしい寛ぎを同時に楽しめる構成が独自性。トリップアドバイザーでは1,018件の口コミのうち『とても良い』564件・『良い』333件と、約9割が好意的な評価を寄せている。",
+      "renewal_or_news": "このセッションのWeb検索範囲では、2026年の具体的なリニューアル情報・新設施設までは確認できなかった。10月下旬は山麓の紅葉と山頂付近の初冠雪が重なりやすい時期で、季節の変わり目ならではの『三段紅葉』的な景観が狙える。",
+      "target_audience": ["カップル", "家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 13,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 81,
+      "recommendation_reason": "じゃらんnet4.3（1,739件）、フォートラベル3.82（133件）、いこーよ3.9（5件）という3つの独立した情報源を確認し、最大値（じゃらん4.3）は採用ライン4.0以上を十分に満たした（原則6・7）。じゃらんの件数が1,700件超と非常に多く、信頼度も高い。トリップアドバイザーでも1,018件中約9割が好意的評価。『日本唯一の2階建てゴンドラ』『ミシュラン・グリーンガイド・ジャポン二つ星』という独自性は、同じロープウェイ系候補の中でも際立っている。一方でフォートラベルの項目別評価ではコストパフォーマンス3.25・混雑の少なさ2.96と低めで、価格・混雑面はやや弱み。公式サイト（運営：奥飛観光開発株式会社）そのものの一次情報はこのセッションのWebFetch制約（EGRESS_BLOCKED）で直接確認できなかったため、今後フォローアップでの一次情報確認が望ましい。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの項目別評価でコストパフォーマンス3.25・人混みの少なさ2.96と他項目より低め。トリップアドバイザーの口コミにも『晴天でも午前中がお勧め（午後は雲が出やすい）』『混雑時は注意』『終点の食堂は激混みだった』『天候に左右される絶景』といった声が複数確認された。一方で安全面・清潔感に関する重大な指摘は確認されず、景観そのものへの満足度は非常に高い（トリップアドバイザー1,018件中897件が『とても良い』『良い』）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "新穂高ロープウェイのクチコミ一覧 - じゃらんnet", "url": "https://www.jalan.net/kankou/spt_21626ee4570112104/kuchikomi/" },
+        { "type": "review_site", "title": "新穂高ロープウェイ クチコミ・アクセス・周辺情報｜新穂高温泉 - フォートラベル", "url": "https://4travel.jp/dm_shisetsu/10000477" },
+        { "type": "other", "title": "晴天でも午前中がお勧め - 新穂高ロープウェイの口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g298113-d1407432-r305127834-Shin_Hotaka_Ropeway-Takayama_Gifu_Prefecture_Tokai_Chubu.html" },
+        { "type": "other", "title": "新穂高ロープウェイ｜岐阜県観光公式サイト「岐阜の旅ガイド」", "url": "https://www.kankou-gifu.jp/spot/1212/" },
+        { "type": "sns", "title": "新穂高ロープウェイの口コミ一覧 - いこーよ", "url": "https://iko-yo.net/facilities/23439/experiences" },
+        { "type": "other", "title": "新穂高ロープウェイ 奥飛観光開発株式会社（名鉄グループ）", "url": "https://www.meitetsu.co.jp/profile/bc/meitetsu_wao/story/07" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-21-okuhida-bear-park",
+      "name": "奥飛騨クマ牧場",
+      "region": "岐阜県高山市奥飛騨温泉郷神坂（新穂高エリア近郊）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "いこーよ", "score": 4.5, "scale": 5, "review_count": 9, "checked_date": "2026-10-21", "url": "https://iko-yo.net/facilities/4626/events" },
+        { "source": "GLTJP", "score": 4.06, "scale": 5, "review_count": 6, "checked_date": "2026-10-21", "url": "https://www.gltjp.com/ja/directory/item/11685/" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションでは入園料・体験料の具体的な数値までは確認できなかった。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "約100頭余りのクマを飼育する『クマのテーマパーク』。子グマの抱っこ体験やエサやり体験ができ、いこーよの高山・奥飛騨エリア家族向けランキングで1位に挙げられている。アソビューでは口コミ件数1,397件と非常に多い母数を持つ。",
+      "target_audience": ["家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 5,
+        "unique_experience_score": 12,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 48,
+      "recommendation_reason": "子グマとの触れ合い体験自体の独自性は高く、アソビューの口コミ件数1,397件という大きな母数も確認できた。しかし星評価の数値が確認できたいこーよ（4.5・9件）・GLTJP（4.06・6件）はいずれも件数が少なく、原則6・7が求める『十分な件数を伴った数値評価』を満たせなかった。アソビューの平均評価点はこのセッションのWebSearch予算の制約により確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "餌やり体験自体への満足度は高い口コミが多い一方、『入口から熊のエリアまで上り坂が多く、ベビーカー利用者には大変』という指摘があった。清潔感・安全性に関わる重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "sns", "title": "奥飛騨クマ牧場の口コミ・イベント情報 - いこーよ", "url": "https://iko-yo.net/facilities/4626/events" },
+        { "type": "other", "title": "奥飛騨クマ牧場 - GLTJP", "url": "https://www.gltjp.com/ja/directory/item/11685/" },
+        { "type": "booking_site", "title": "奥飛騨クマ牧場 - アソビュー！", "url": "https://www.asoview.com/leisure/grp8/location/220205/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "いこーよ4.5(9件)・GLTJP4.06(6件)はいずれも件数が少なく、原則6・7が求める『件数とセットの信頼度』を満たせない。アソビュー掲載の口コミ1,397件という大きな母数はあるが、本セッションのWebSearch予算の制約により星評価の数値そのものを確認できなかったため、今サイクルは数値的根拠不足として見送った。次サイクル以降、アソビューの評価数値を確認できれば再評価の価値がある。"
+    },
+    {
+      "id": "2026-10-21-kyukamura-norikura-kogen",
+      "name": "休暇村乗鞍高原",
+      "region": "長野県松本市安曇乗鞍高原（乗鞍高原温泉・乗鞍スキー場近接）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "このセッションでは具体的な宿泊料金帯までは確認できなかった。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "北アルプスを望む高原に建つヨーロッパ風の山岳リゾート。乗鞍スキー場まで車で約3分、三本滝・善五郎の滝・番所大滝の『乗鞍三大滝巡り』の起点になる立地で、紅葉期は三本滝から番所大滝までほぼ1カ月にわたり紅葉を楽しめるとされる。バイキング形式の夕食が評価されている口コミも見られた。",
+      "target_audience": ["家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 10,
+        "photogenic": 8,
+        "value_for_price": 0,
+        "sns_buzz": 3,
+        "access_and_freshness": 4
+      },
+      "score": 25,
+      "recommendation_reason": "乗鞍三大滝巡りの起点となる立地やビュッフェへの好意的な口コミは確認できたが、主要レビューサイトの具体的な数値評価・件数のペアをこのセッションのWebSearch予算内では確認できなかった（フォートラベルで『満足度の高いクチコミ6件・4.0点以上』という断片的な表示を確認したが、施設全体の平均点・総件数としては使えなかった）。原則6・7の基準を満たす根拠が不足するため見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2026年6月の口コミで夕食の川魚料理に物足りなさを感じたという2.0点の投稿があった一方、2026年3月には5.0点の好意的な投稿もあり、評価が分かれている。フロントの対応・温泉自体には好意的な声が多い。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "休暇村乗鞍高原 クチコミ・評価 - cocolocala", "url": "https://www.cocolocala.jp/hotels/164836" },
+        { "type": "review_site", "title": "休暇村乗鞍高原 クチコミ・アクセス・周辺情報 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10045221" },
+        { "type": "other", "title": "乗鞍高原（紅葉情報）- るるぶ&more", "url": "https://rurubu.jp/andmore/spot/80018734/koyo" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "施設の数値評価（score・scale・review_count）をこのセッションのWebSearch予算内で確認できず、原則6・7の基準を満たす根拠が不足するため見送った。"
+    }
+  ]
+}

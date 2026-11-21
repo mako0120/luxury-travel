@@ -1,0 +1,131 @@
+{
+  "cycle_date": "2026-10-17",
+  "theme": "群馬県利根郡みなかみ町のアクティビティ型高原リゾート",
+  "season_rationale": "みなかみ町は紅葉と高原の爽涼な気候が重なる10月中旬〜11月上旬が、フォレストジップライン等のグリーンシーズン・アクティビティが営業する最後のタイミングにあたる（フォレストジップラインの営業期間は例年4月下旬〜11月上旬）。カテゴリ『アクティビティ』は直近では2026-09-22（屋久島・縄文杉トレッキング）以来で、前回投稿（石垣島・離島リゾート、2026-10-17同日先行サイクル）・前々回（箱根・絶景ホテル、2026-10-16）とは地域・カテゴリともに重複しない（原則29）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-ana-intercontinental-ishigaki", "region": "沖縄県石垣市真栄里", "category": "離島リゾート" },
+    { "post_id": "2026-10-16-kai-sengokuhara", "region": "神奈川県箱根町仙石原", "category": "絶景ホテル" },
+    { "post_id": "2026-09-22-sankara-yakushima", "region": "鹿児島県熊毛郡屋久島町", "category": "アクティビティ" },
+    { "post_id": "2026-09-18-shima-tsuruya", "region": "群馬県吾妻郡中之条町（四万温泉）", "category": "サウナ" }
+  ],
+  "duplication_note": "群馬県自体は2026-09-18に四万温泉エリア（サウナ・温泉旅館カテゴリ）で登場しているが、みなかみ町は同じ群馬県内でも異なるエリア・異なるカテゴリ（アクティビティ）であり、直近2投稿（石垣島・離島リゾート／箱根・絶景ホテル）とも地域・カテゴリが重複しないため、原則29上の問題はないと判断した。",
+  "candidates": [
+    {
+      "id": "2026-10-17-minakami-kogen-hotel200",
+      "name": "水上高原ホテル200（トゥーハンドレッド）",
+      "region": "群馬県利根郡みなかみ町（水上高原）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらん", "score": 4.2, "scale": 5, "review_count": 1259, "checked_date": "2026-10-17", "url": "https://www.jalan.net/yad348796/kuchikomi/" },
+        { "source": "icotto", "score": 3.8, "scale": 5, "review_count": 395, "checked_date": "2026-10-17", "url": "https://icotto.jp/hotels-1405/" }
+      ],
+      "price_range_jpy": {
+        "note": "和洋中バイキング付きプランで1名15,900円〜26,700円（2名1室利用時、期間・時期により変動、検索時点でのKNT掲載情報）。るるぶトラベルでは夕朝食付き1泊1室2名合計21,600円〜の期間限定表示もあった。宿泊者はフォレストジップライン（通常1回4,500円前後）が割引料金（500円引き、または宿泊者価格3,900円との掲載もあり）で利用できる。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "標高1000m・白樺林に囲まれた200万坪の広大な敷地に、全長約1.3kmの『水上高原フォレストジップライン』（身長130cm以上）、小さな子ども向けの『ツリートレッキング』（身長90cm以上）、夏季のゴルフ・フィールドプレイ、屋外温水プールなどを備えた高原リゾート。1つのホテル敷地内でジップライン・トレッキング・ゴルフ・プールを横断的に楽しめる構成は、みなかみ町の他の宿泊施設にはない規模感。上毛高原駅・水上駅から無料シャトルバス（要事前予約）もあり、アクティビティ目的の滞在として完結しやすい。",
+      "renewal_or_news": "フォレストジップラインの営業期間は例年4月下旬〜11月上旬で、今回の投稿タイミング（10月中旬）はグリーンシーズン営業終盤にあたる。具体的なリニューアル情報は今回のWeb検索範囲では確認できなかった。",
+      "target_audience": ["家族", "友人", "カップル", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 13,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 78,
+      "recommendation_reason": "じゃらん4.2（1,259件）・icotto3.8（395件）という、性質の異なる2つの独立した情報源でともに十分な口コミ母数を確認でき、主要レビューサイト評価は最高でじゃらん4.2と採用ライン4.0以上を満たす（原則6・7）。じゃらんは1,259件という大きな母数を伴っており信頼性が高い。参考情報としてOZmallでも4.70（件数は検索範囲では確認できず参考値）、JTBのるるぶトラベル評価でも4.2という掲載があり、傾向は一致している。200万坪の敷地内でジップライン・ツリートレッキング・ゴルフ・プールを横断的に楽しめる『アクティビティ完結型リゾート』という構成は、みなかみ町の他の宿にはない独自性があり、カテゴリ『アクティビティ』との適合度も高い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "じゃらん等の口コミでは、夕食朝食ブッフェ・部屋からの群馬・新潟の山々の眺め・温泉への好意的な声が多かった。一方で、チェックイン時に玄関脇でゴルフ客が喫煙しており不快だったという指摘が1件確認できた。icotto（3.8/395件）はじゃらんよりやや低めの評価で、2021年の口コミで『少し古い』という言及もあった。いずれも清潔感・安全性に関わる重大な指摘が複数確認されたわけではなく、天候による景色の見え方への言及も含まれていたため、disqualifying issueとは判断しなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "水上温泉郷 水上高原ホテル200(トゥーハンドレッド) - じゃらんnet", "url": "https://www.jalan.net/yad348796/" },
+        { "type": "review_site", "title": "水上高原ホテル200 口コミ - じゃらんnet", "url": "https://www.jalan.net/yad348796/kuchikomi/" },
+        { "type": "booking_site", "title": "水上高原ホテル200 - OZmall", "url": "https://www.ozmall.co.jp/travel/stay/gunma/area/area_1004/hotel/list/" },
+        { "type": "other", "title": "水上高原フォレストジップライン - るるぶ&more", "url": "https://rurubu.jp/andmore/spot/80085013" },
+        { "type": "review_site", "title": "水上温泉郷 水上高原ホテル200(群馬県 リゾートホテル) - icotto", "url": "https://icotto.jp/hotels-1405/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-17-canyons-minakami",
+      "name": "キャニオンズ（みなかみ）／キャニオンズみなかみベース",
+      "region": "群馬県利根郡みなかみ町",
+      "category": "アクティビティ",
+      "is_hidden_gem": true,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "キャニオニング（フォックスキャニオニングプラン）1名10,500円〜。宿泊は単独予約不可でツアー予約時のオプション。直営ロッジ『アルパインロッジみなかみ』は1名3,000円（平日）〜4,000円（土曜・祝前日）、敷地内グランピング『キャニオンズリバーサイドオアシス』はテント1張20,000円〜。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "みなかみ町のラフティング・キャニオニングの老舗オペレーターで、ツアーと宿泊（ロッジまたはグランピング）を一体で提供している点が独自。みなかみのアクティビティショップの中では知名度が高い。",
+      "target_audience": ["友人", "一人旅", "カップル"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 3,
+        "unique_experience_score": 14,
+        "photogenic": 9,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 40,
+      "recommendation_reason": "ツアーと宿泊を一体化した体験設計は独自性があるが、asoview上の口コミが9件のみで数値評価も取得できず、Web検索の範囲では独立した2件目の情報源（楽天トラベル・じゃらん・Tripadvisor等）も確認できなかった（原則7未達）。穴場候補として検討したが、原則8の『複数情報源が存在する』を満たせず不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ件数自体が少なく（9件）、ポジティブ・ネガティブいずれの傾向も判断できる母数がなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "口コミ(9) キャニオンズ(みなかみ) - asoview", "url": "https://www.asoview.com/item/activity/pln1000000017/" },
+        { "type": "other", "title": "accommodation package - Canyons", "url": "https://admin.canyons.jp/tour-areas/minakami/accommodation-package" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数が少なく（asoview9件）、独立した2件目の数値評価情報源を確認できなかったため、原則7（複数の独立情報源での裏付け）を満たせず見送った。"
+    },
+    {
+      "id": "2026-10-17-tenjin-mountain-resort",
+      "name": "テンジンマウンテンリゾート（谷川岳ベースプラザ グランピング）",
+      "region": "群馬県利根郡みなかみ町谷川岳",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では現在の正確な料金帯を確認できなかった。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "谷川岳ロープウェイ山麓にあるグランピング施設とされ、ドーム型テント・貸切利用可能な大浴場・サウナ等を備えるとの言及があったが、施設名が一致するか確証を得られなかった。",
+      "target_audience": ["カップル", "友人"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 0,
+        "photogenic": 0,
+        "value_for_price": 0,
+        "sns_buzz": 0,
+        "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "谷川岳エリアのグランピング施設としてスニペットは確認できたが、施設名・口コミが一致するか確証を得られず、評価の数値根拠（review_scores）を一切確認できなかったため、採点・採用の判断材料が不足していると判断した。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "施設の同一性を確認できなかったため、ネガティブレビューの精査自体を実施していない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "谷川岳エリアのグランピング施設に関する検索スニペット（施設名未確定）", "url": "https://www.cocolocala.jp/hotels/448273" },
+        { "type": "other", "title": "谷川温泉 OSN_S_0607 - じゃらん", "url": "https://www.jalan.net/onsen/OSN_S_0607.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "施設名・口コミの同一性を確証できず、数値評価の根拠（review_scores）を確認できなかったため、情報不足により不採用とした。"
+    }
+  ]
+}

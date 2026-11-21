@@ -1,0 +1,141 @@
+{
+  "cycle_date": "2026-10-22",
+  "theme": "グルメ旅館×熊本県黒川温泉（直近投稿の地域重複回避ローテーション枠）",
+  "season_rationale": "黒川温泉の紅葉は例年10月下旬〜11月中旬が見頃。10月下旬の投稿は紅葉シーズン本番に向けて宿選びを後押しするタイミングとして原則30に合致する。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-21-yuda-onsen-kokian", "region": "山口県山口市湯田温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-20-gero-suimeikan", "region": "岐阜県下呂市（下呂温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-20-bettei-haruki-beppu", "region": "大分県別府市（別府温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-10-20-aso-canyon-terrace-lodge", "region": "熊本県阿蘇郡南阿蘇村", "category": "絶景ホテル" },
+    { "post_id": "2026-10-19-lavista-kusatsu-hills", "region": "群馬県吾妻郡草津町（草津温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-10-18-kaike-shogetsu", "region": "鳥取県米子市皆生温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-17-ureshino-taishoya", "region": "佐賀県嬉野市嬉野温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-09-14-yamamizuki-kurokawa", "region": "熊本県阿蘇郡南小国町（黒川温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-onsen-kurokawa (rejected: okyakuya-kurokawa)", "region": "熊本県阿蘇郡南小国町（黒川温泉）", "category": "温泉旅館" }
+  ],
+  "duplication_note": "data/candidates/ 全件（2026-09-14〜2026-10-21、約95件）およびcaptions/全件（2026-09-14〜2026-10-21、約78件）・posts/全件（2026-09-14〜2026-09-20の3件）を確認した。直近2件（2026-10-21山口・湯田温泉／2026-10-20岐阜・下呂温泉）は本サイクルと同じ『グルメ旅館』カテゴリだが、地域は黒川温泉と重複しない。地域『黒川温泉』は約5週間前の2026-09-14サイクルで一度取り上げられており（選定:山あいの宿 山みず木＝温泉旅館カテゴリ、不採用:歴史の宿 御客屋）、その2施設は本サイクルの調査対象から除外し、未取り上げの別施設のみを新規候補とした。黒川温泉という地域自体の再登場は約5週間の間隔と約95件の投稿を挟んでおり、直近の連続投稿（原則29が主眼とする『連続』）には該当しないと判断したが、カテゴリ『グルメ旅館』が2026-10-20・2026-10-21と2日連続していた直後に3日連続となる点は認識している（本サイクルの地域・カテゴリは依頼側で指定されたため、このまま実施し、次サイクル以降は温泉旅館以外・グルメ旅館以外のカテゴリに振り直すことを推奨する）。",
+  "candidates": [
+    {
+      "id": "2026-10-22-fumoto-ryokan-kurokawa",
+      "name": "黒川温泉 ふもと旅館",
+      "region": "熊本県阿蘇郡南小国町満願寺（黒川温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらん", "score": 4.6, "scale": 5, "review_count": 954, "checked_date": "2026-10-22", "url": "https://www.jalan.net/yad323983/" },
+        { "source": "フォートラベル（みんなの満足度）", "score": 3.38, "scale": 5, "review_count": 29, "checked_date": "2026-10-22", "url": "https://4travel.jp/dm_hotel-10038664" },
+        { "source": "ニフティ温泉", "score": 3.3, "scale": 5, "review_count": 18, "checked_date": "2026-10-22", "url": "https://onsen.nifty.com/kurokawaonsen-onsen/onsen004274/kuchikomi/" }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらんに掲載プランが6件あり、名物『鍬焼き』を含む1泊2食プランに加え、肥後牛サーロインへのグレードアッププランも用意されている。ただし本調査では個々のプラン料金（具体的な税込金額）を確実な一次情報として確定できなかった。一部検索結果で『2万円台〜』という表示を見かけたが、他施設（いこい旅館・奥の湯）の料金情報と同じ検索経路で混在が疑われたため、価格断定は避ける。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する。予約時に公式情報・予約サイトで最新料金の確認を推奨。"
+      },
+      "unique_experience": "全14室の旅館ながら、水深150cmの立湯やくり抜き巨岩風呂を含む全15の湯処を持ち、じゃらん掲載情報によれば『黒川温泉最多11の貸切風呂』を備える。眼下に川を望む露天風呂があり、日帰り入浴にも対応。夕食の目玉は名物『鍬焼き』（肥後牛・黒毛和牛を鍬形の鉄板で焼く郷土料理）で、肥後牛サーロインへのアップグレードプランも用意されている。黒川温泉の中でも『風呂の多さ×郷土料理のライブ感』を両立させている点が、グルメ旅館カテゴリとしての独自性になる。",
+      "renewal_or_news": "じゃらん掲載文で『別館客室が7月に全面リニューアル』と案内されている（具体的な年は本調査のスニペットでは特定できなかったが、直近の設備更新であることが示唆される）。",
+      "target_audience": ["カップル", "記念日", "夫婦", "グルメ旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 12,
+        "unique_experience_score": 17,
+        "photogenic": 11,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 77,
+      "recommendation_reason": "じゃらんでは954件という大きな母数に対して4.6（夕食4.8・風呂4.7・接客4.6・清潔感4.4という項目別評価も高水準）と、件数・内容ともに信頼度の高い評価が確認できる（原則6）。フォートラベルの項目別評価（風呂4.37・接客4.14・食事4.19）もじゃらんの傾向と一致しており、複数の独立情報源で『風呂』と『食事』の評価が揃っている（原則7）。15の湯処・黒川温泉最多クラスの貸切風呂数・名物鍬焼きという『ここでしかできない体験』の説得力が強く、グルメ旅館カテゴリに合致する。黒川温泉という地域自体は5週間前に一度取り上げているが、施設としては未取り上げの新規候補であり、直近2投稿（下呂・湯田温泉）とは地域が重複しない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ニフティ温泉には2009〜2012年頃の古い投稿で『露天風呂が1つしか使えず洗い場もない』『葉や虫が浮いていた』という清潔感への指摘があったが、13年以上前の情報であり、直近のじゃらん清潔感評価（4.4／954件）とは傾向が異なるため、現状を反映したものとは考えにくい。フォートラベルでは『女性用露天風呂へは急な石階段を登る必要があり負担が大きい』『塀に囲まれた浴場に閉塞感がある』という指摘も確認したが、これは施設の構造上の特性であり、清潔感・接客・料理に関する重大な問題ではない。清潔感・安全性に関わる現行の重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "黒川温泉 ふもと旅館 - じゃらんnet（クチコミ総合4.6・954件）", "url": "https://www.jalan.net/yad323983/" },
+        { "type": "booking_site", "title": "黒川温泉 ふもと旅館 宿泊プラン（鍬焼き・肥後牛サーロインプラン）- じゃらんnet", "url": "https://www.jalan.net/yad323983/plan/" },
+        { "type": "review_site", "title": "黒川温泉 ふもと旅館のクチコミ・感想 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10038664" },
+        { "type": "review_site", "title": "ふもと旅館 - 黒川｜ニフティ温泉", "url": "https://onsen.nifty.com/kurokawaonsen-onsen/onsen004274/kuchikomi/" },
+        { "type": "other", "title": "黒川温泉 ふもと旅館 施設情報（客室数・温泉掛け流し）- JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/8332A09/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-22-ikoi-ryokan-kurokawa",
+      "name": "黒川温泉 いこい旅館",
+      "region": "熊本県阿蘇郡南小国町（黒川温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "icotto（口コミ比較サイト）", "score": 3.85, "scale": 5, "review_count": 89, "checked_date": "2026-10-22", "url": "https://icotto.jp/hotels/157" }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベル経由の最安値として『1室1泊あたり概ね2万円前後（約20,900円）』という表示を確認したが、同じ検索結果内で評価数値（4.72〜4.74）の施設帰属に疑義があったため、価格情報についても同様に断定は避ける。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "入口に足湯と囲炉裏があり、温泉卵を楽しめる。内風呂・露天風呂・貸切風呂が13ヶ所あり、名湯『美人湯』と地元食材の会席料理が特徴。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 7,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 58,
+      "recommendation_reason": "足湯・囲炉裏・美人湯・会席料理という要素は魅力的だが、信頼できる数値評価がicotto（3.85／89件）のみで、楽天トラベル上の『4.72〜4.74』という評価は複数回の検索で他施設情報との混在が疑われ、独立した2情報源による確認（原則7）が十分に取れなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2021年12月投稿で総合評価3.0、『宿は古いながらも整備されている』という指摘を確認。建物の古さが体験価値に影響する可能性がある。清潔感・安全性に関わる重大な指摘は確認されなかったが、評価データの信頼性自体に懸念が残る。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "黒川温泉 いこい旅館 - icotto", "url": "https://icotto.jp/hotels/157" },
+        { "type": "other", "title": "黒川温泉 いこい旅館 関連情報 - 楽天トラベル系アグリゲータ（評価の施設帰属に疑義あり）", "url": "https://travel.gpoint.co.jp/daredoko/04b01b-a002-d005/wek/all/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア58点で採用ライン（75点）未満。信頼できる独立した数値評価がicotto（3.85／89件）1件にとどまり、もう一方の高評価（楽天トラベル系4.72〜4.74）は検索結果内で他施設情報と混在している疑いがあり、原則7（最低2種独立情報源）を十分な確度で満たせなかった。建物の古さを指摘する声もあり、次サイクル以降、楽天トラベル・Googleの評価を施設名・住所で直接照合できれば再評価する。"
+    },
+    {
+      "id": "2026-10-22-okunoyu-kurokawa",
+      "name": "黒川温泉 旅館 奥の湯",
+      "region": "熊本県阿蘇郡南小国町（黒川温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.17, "scale": 5, "review_count": 1, "checked_date": "2026-10-22", "url": "https://travel.gpoint.co.jp/daredoko/04b01b-dffv/" }
+      ],
+      "price_range_jpy": {
+        "note": "本調査では具体的な料金帯を確定できなかった。全26室、チェックイン15時・チェックアウト10時という情報のみ確認。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "家族風呂・露天風呂・プールを含む多彩な湯処を持つ。先付けで肉を紙に包み塩をまぶして焼く等、調理の工夫に触れた口コミがあった。全26室。",
+      "target_audience": ["家族", "夫婦", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 7,
+        "unique_experience_score": 15,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 59,
+      "recommendation_reason": "多彩な風呂と調理の工夫に一定の魅力はあるが、楽天トラベルの評価4.17も実際の口コミ件数が検索結果上で確認できず（『集計中』表示や他施設情報との混在の可能性）、原則7が求める確度の高い独立情報源が確保できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "外国人スタッフによる食事の配膳時、品名の説明が不十分だったという指摘を確認。清潔感・安全性に関わる重大な指摘は確認されなかったが、評価データの信頼性自体に懸念が残る。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "黒川温泉 旅館 奥の湯 関連情報 - 楽天トラベル系アグリゲータ（口コミ件数不明）", "url": "https://travel.gpoint.co.jp/daredoko/04b01b-dffv/" },
+        { "type": "other", "title": "黒川温泉 旅館 奥の湯 施設情報・客室数 - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/8332012/review/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア59点で採用ライン（75点）未満。評価の母数・出典が不明確で、原則7（最低2種独立情報源による確度の高い確認）を満たせなかった。次サイクル以降、Google・じゃらん等で明確に施設紐付けされた評価を確認できれば再評価する。"
+    }
+  ]
+}

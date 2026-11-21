@@ -1,0 +1,129 @@
+{
+  "cycle_date": "2026-11-01",
+  "theme": "グランピング（三重県志摩市・伊勢志摩国立公園エリア／本カテゴリの再調査枠）",
+  "season_rationale": "調査日は2026-11-02。本日同カテゴリ『グランピング』で広島県宮島エリア（厳島周辺）を先に調査したが該当なし（`data/candidates/2026-11-01-miyajima-hatsukaichi-glamping.json`）だったため、指示に従い別地域として三重県志摩市（伊勢志摩国立公園エリア）を調査した。11月上旬の志摩市は紅葉・観光の本格シーズンに入る直前で、海水温が下がり始めて朝晩が冷え込むため、ドーム型テントや一棟貸しヴィラでの焚き火・BBQ・温浴設備のあるグランピング体験の魅力が増す時期にあたる。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-11-01-miyajima-hatsukaichi-glamping", "region": "広島県廿日市市・宮島エリア", "category": "グランピング（本日同カテゴリ・別地域、該当なし）" },
+    { "candidate_id": "2026-10-19-iseshima-everglades", "region": "三重県志摩市磯部町穴川", "category": "グランピング（約2週間前・同地域、rejected 68点）" },
+    { "candidate_id": "2026-10-19-lakehouse-toyako-glamping", "region": "北海道虻田郡洞爺湖町", "category": "グランピング（約2週間前・別地域、rejected）" },
+    { "post_id": "2026-09-18-shima-kanko-hotel-classic / shima-tsuruya", "region": "三重県志摩市", "category": "絶景ホテル・温泉旅館（約1.5ヶ月前・別カテゴリ）" }
+  ],
+  "duplication_note": "data/candidates・captions配下の既存ファイル全件（1ヶ月以上前のものを含む）を『志摩』『伊勢志摩』『Shima』『Iseshima』『NEMU』『グランピング』で横断検索した結果、三重県志摩市を『グランピング』カテゴリで扱った既存候補は2026-10-19サイクル（`data/candidates/2026-10-19-iseshima-glamping.json`）の『伊勢志摩エバーグレイズ』（志摩市磯部町穴川、rejected 68点）と『グランオーシャン伊勢志摩』（実際は伊勢市二見町、評価データ不足で除外）の2件のみであることを確認した。本サイクルではこの2件とは異なる3施設（THE GLAMPING PLAZA 伊勢志摩BASE、NEMU RESORT NEMU フォレストヴィラ、志摩グリーンアドベンチャー グランピングフィールド）を新規に調査し、重複は発生していない。三重県志摩市自体は約1.5ヶ月前（2026-09-18）に`captions/2026-09-18-shima-kanko-hotel-classic.json`等（絶景ホテル・温泉旅館）が存在するが、カテゴリが異なるため重複にはあたらない。",
+  "research_limitation_note": "本セッションのネットワーク環境では、jalan.net・nemuresort.com・489ban.net（予約システム）等の施設公式ページ・予約サイトへのWebFetchが引き続き利用できず（EGRESS_BLOCKED/ネットワーク許可範囲外）、WebSearchのスニペット経由の情報に限定された。このため、(1) THE GLAMPING PLAZA 伊勢志摩BASEについては楽天トラベルの項目別ランキング（設備・アメニティ4.67点・40件）以外に、原則7が求める『独立した2件目の数値評価』を確認できなかった（Booking.comの評価は検索結果のキャッシュにより8.9〜9.5と表示が揺れ、件数も7件と少なく、安定した数値として採用できないと判断した）。(2) NEMU RESORT『NEMU フォレストヴィラ』については、Relux（4.3/5・100件）・Skyticket（4.6・977件のクチコミまとめ）という2件の数値評価を確認できたが、いずれも『NEMU RESORT HOTEL NEMU』という施設全体（通常客室含む）に対する集計であり、ヴィラ（グランピング商品）単体の評価ではない可能性が高く、かつ2026年4月のリニューアル前後の口コミが混在している可能性もある。本リポジトリの先例（`data/candidates/2026-10-31-myoko-kogen-glamping-recheck.json`でホテル本体の評価をグランピング商品の独立評価として数えなかった判断）に合わせ、この点はreview_reliabilityを保守的に減点する形で反映した。(3) 志摩グリーンアドベンチャー グランピングフィールドはフォートラベルの口コミが1件（満足度3.07）のみで、原則2（主要レビュー4.0未満は原則不採用）に該当するため、スコアリング前のスクリーニング段階で不採用とした。",
+  "candidates": [
+    {
+      "id": "2026-11-01-iseshima-base-glamping-dome",
+      "name": "THE GLAMPING PLAZA 伊勢志摩BASE",
+      "region": "三重県志摩市阿児町神明（伊勢志摩国立公園内、近鉄鵜方駅より車で約7分）",
+      "category": "グランピング",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "楽天トラベル 人気ホテル・旅館ランキング（三重県 民宿・ペンション：設備・アメニティ）",
+          "score": 4.67,
+          "scale": 5,
+          "review_count": 40,
+          "checked_date": "2026-11-02",
+          "url": "https://travel.rakuten.co.jp/ranking/pension/mie/24_0006_0_2_0_0.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "観光三重の施設紹介ではデラックスドーム4名1室利用時18,800円〜（大人1名）、開業時のImpress Watch記事では標準ドーム4名1室利用時16,600円〜（大人1名）という記載を確認した。宿泊・食事・ドリンク等を含むインクルーシブ型プランで、時期・ドームタイプにより変動する。",
+        "as_of_search_date": "2026-11-02",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "伊勢志摩国立公園内に位置する、ドーム型テント7棟限定のグランピング施設（2023年4月開業）。宿泊・食事・ドリンクを含むオールインクルーシブ型のサービスで、松阪牛や英虞湾の海の幸を使ったBBQ、レセプションでのFREE BAR（ドリンク飲み放題）が特徴。各ドームは冷暖房完備で、テントに不慣れな層でも利用しやすい。",
+      "renewal_or_news": "2023年4月に開業した比較的新しい施設で、2024年8月時点でも運営会社（プラザクリエイト）のIR資料等で言及があり、2026年11月時点でも各予約サイトに掲載があることから営業継続中と確認できた。大規模な改修・リニューアル情報は本セッションのWebSearchでは確認できなかった。",
+      "target_audience": ["家族", "友人", "カップル"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 6,
+        "unique_experience_score": 13,
+        "photogenic": 11,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 64,
+      "recommendation_reason": "伊勢志摩国立公園内のドーム型グランピング×オールインクルーシブ（FREE BAR・松阪牛BBQ）という組み合わせは一定の独自性と写真映えがあり、楽天トラベルの項目別ランキング（設備・アメニティ4.67点・40件）では高評価を確認できた。しかし本セッションでは原則7が求める『独立した2件目の数値評価』（じゃらん・なっぷ等の総合評価）を安定した形で確認できず（Booking.comはキャッシュにより8.9〜9.5と表示が揺れ件数も7件と少ないため不採用）、口コミ件数・情報源の独立性の面で保守的に採点した結果、総合64点で採用ライン（75点）に届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本セッションの検索範囲では、衛生・安全・接客トラブル等の重大な低評価レビューは確認できなかった。ただし楽天トラベルの評価は『設備・アメニティ』『風呂』という項目別ランキングのスコアであり、施設全体の総合評価・総口コミ件数は確認できていない。じゃらんの施設ページにも評価点数の表示は見当たらず、口コミ内容を網羅的に確認できたわけではない点は留意事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "THE GLAMPING PLAZA 伊勢志摩BASE - 観光三重（三重県観光連盟公式サイト）", "url": "https://www.kankomie.or.jp/spot/25118" },
+        { "type": "press", "title": "伊勢志摩国立公園内にグランピング施設「伊勢志摩BASE」開業 - Impress Watch トラベルウォッチ", "url": "https://travel.watch.impress.co.jp/docs/news/1492642.html" },
+        { "type": "review_site", "title": "楽天トラベル 人気ホテル・旅館ランキング（三重県 民宿・ペンション：設備・アメニティ 4.67／40件）", "url": "https://travel.rakuten.co.jp/ranking/pension/mie/24_0006_0_2_0_0.html" },
+        { "type": "other", "title": "宿・ホテル情報 THE GLAMPING PLAZA 伊勢志摩BASE - じゃらんnet（施設概要・空室情報、評価点表示なし）", "url": "https://www.jalan.net/yad308284/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score_breakdown合計64点で採用ライン（75点）に届かず、また原則7（独立2情報源での数値評価）を安定した形で満たせなかったため不採用。評価自体が低いという根拠ではなく、情報源の確実性・独立性が不足していることが主因。"
+    },
+    {
+      "id": "2026-11-01-nemu-resort-forest-villa",
+      "name": "NEMU RESORT「NEMU フォレストヴィラ」",
+      "region": "三重県志摩市浜島町迫子2692-3（伊勢志摩国立公園内、近鉄鵜方駅より車で約15分）",
+      "category": "グランピング",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "Relux（リラックス）レビュー総合点",
+          "score": 4.3,
+          "scale": 5,
+          "review_count": 100,
+          "checked_date": "2026-11-02",
+          "url": "https://rlx.jp/21963/review/"
+        },
+        {
+          "source": "Skyticket（クチコミのまとめ、NEMU RESORT HOTEL NEMU全体）",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 977,
+          "checked_date": "2026-11-02",
+          "url": "https://skyticket.jp/hotel/detail/property_16974/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "2025年1月の『フォレストヴィラ3周年記念プラン』紹介記事（2022年開業の旧8棟時点）では、2名1室利用時の1名分料金が17,000円〜（税・サービス料込み、素泊まり）とされていた。2026年4月18日のリニューアルで新設された追加10棟（新フォレストヴィラ）・8棟（ヒルズヴィラ）を含む現行の料金体系は、公式予約サイトへの直接アクセスができなかったため本セッションでは確認できなかった。",
+        "as_of_search_date": "2026-11-02",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "伊勢志摩国立公園内、約250ha（東京ドーム約61個分）の敷地を持つNEMU RESORT内の一棟貸しヴィラ。隣棟との距離を10m以上確保したプライベート性の高い造りで、専用庭付き。4棟（旧8棟中）は愛犬同伴可。食事はヴィラ併設のウッドデッキでのBBQ、または丘の上のオープンテント『里山ラウンジ』での伊勢志摩食材のフレンチと星空という、アウトドアリゾート型の体験が選べる。2026年4月18日のリニューアルで『フォレストヴィラ』10棟・海と大自然を望む『ヒルズヴィラ』8棟が新設され、ピックルボールコートも誕生した。",
+      "renewal_or_news": "2026年4月18日、三井不動産と伊勢志摩リゾートマネジメント株式会社（代表取締役社長 相良孝介氏）が共同でNEMU RESORTの大規模リニューアルオープンを実施。公式コンセプトは『伊勢志摩の恵みあふれる「里・海・森を育てるリゾート」』で、キーワードは『自然』『体験』『学び』。同年7月18日には絶景プール付きの新施設『ヒルトップハウス』も開業予定として発表されている。",
+      "target_audience": ["カップル", "記念日", "家族", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 5,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 8,
+        "access_and_freshness": 4
+      },
+      "score": 69,
+      "recommendation_reason": "一棟貸しの森・海を望むプライベートヴィラ×ウッドデッキBBQ／丘上オープンテントでのフレンチという体験の独自性は高く、2026年4月の大規模リニューアルによりメディア露出（PR TIMES・Impress Watch・Travel Voice等）も豊富で話題性がある。Relux（4.3／100件）・Skyticket（4.6／977件）という2つの独立サイトで高評価を確認できたものの、いずれも『NEMU RESORT HOTEL NEMU』という施設全体（通常のホテル客室を含む）の集計であり、ヴィラ単体の評価かどうかは確認できず、リニューアル前後の口コミが混在している可能性もある。この点を本リポジトリの先例（妙高高原サイクルでの同種の判断）に沿って保守的にreview_reliability軸で減点した結果、総合69点で採用ライン（75点）に届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Reluxの個別クチコミ（2025年8月9日投稿）では部屋・夕食・接客・その他設備がいずれも3点という、他の投稿より低めの評価が1件確認できた。icottoの2021年投稿（満足度3.0）では『部屋は広いが周辺にコンビニがなく買い出しが必要』という利便性面の指摘があった。衛生・安全上の重大な問題を示す言及は本セッションの検索範囲では確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "NEMU RESORT 公式サイト", "url": "https://www.nemuresort.com/" },
+        { "type": "press", "title": "伊勢志摩の恵みあふれる里・海・森を育てる環境共生型リゾート「NEMU RESORT」2026年4月18日リニューアルオープン - PR TIMES", "url": "https://prtimes.jp/main/html/rd/p/000001035.000051782.html" },
+        { "type": "official", "title": "NEMU RESORTに「NEMU フォレストヴィラ」が誕生！ - 観光三重（三重県観光連盟公式サイト）", "url": "https://www.kankomie.or.jp/report/1180" },
+        { "type": "review_site", "title": "NEMU RESORT HOTEL NEMU レビュー総合点4.3／100件 - Relux", "url": "https://rlx.jp/21963/review/" },
+        { "type": "booking_site", "title": "NEMU RESORT HOTEL NEMU 総合4.6・977件のクチコミまとめ - Skyticket", "url": "https://skyticket.jp/hotel/detail/property_16974/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "score_breakdown合計69点で採用ライン（75点）に届かず不採用。評価の高さ自体は複数サイトで確認できたが、その評価がグランピング商品（ヴィラ）単体のものか施設全体（通常客室含む）のものか区別できない点を原則7の観点から保守的に減点したことが主因。将来、ヴィラ単体の口コミ・評価が個別に確認できる状況になれば再調査の価値がある。"
+    }
+  ],
+  "other_candidates_considered": [
+    {
+      "name": "志摩グリーンアドベンチャー グランピングフィールド",
+      "category": "グランピング併設アクティビティパーク",
+      "note": "三重県志摩市（元ゴルフ場跡地）に2024年7月開業。ラグジュアリー棟・ドッグラン付き棟・レギュラー棟の全17棟のグランピング施設だが、フォートラベルに確認できる口コミは1件のみで満足度3.07（『清潔感はあるが宿泊費は安くない』という内容）。原則2（主要レビュー4.0未満は原則不採用）に該当するため、スコアリング前のスクリーニング段階で不採用とした。口コミ件数が増え4.0以上の評価が複数確認できる状況になれば再調査の価値がある。"
+    }
+  ]
+}

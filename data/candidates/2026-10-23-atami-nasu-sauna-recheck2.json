@@ -1,0 +1,209 @@
+{
+  "cycle_date": "2026-10-23",
+  "theme": "サウナ（静岡県熱海温泉・栃木県那須温泉）再調査（2回目・最終）",
+  "season_rationale": "カテゴリ『サウナ』は1回目（2026-10-23サイクル、大分県別府温泉、data/candidates/2026-10-23-beppu-sauna.json）で該当なしだったため、依頼に基づき地域を静岡県熱海温泉・栃木県那須温泉に変更して2回目（上限）の再調査を実施した。10月下旬は熱海・那須とも朝晩の気温が下がり始め、発汗後の外気浴や高原の冷気の中で『ととのう』体感が際立つ季節（原則30）。本サイクルを以ってサウナカテゴリの再調査は上限に達するため、これ以上の追加調査は行わない。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-23-beppu-sauna", "region": "大分県別府市", "category": "サウナ（1回目再調査・該当なし）" },
+    { "post_id": "2026-10-22-tokachigawa-onsen-sauna", "region": "北海道河東郡音更町十勝川温泉", "category": "サウナ" },
+    { "post_id": "2026-10-21-sounkyo-sauna / sounkyo-hotel-taisetsu-sauna", "region": "北海道上川郡上川町層雲峡温泉", "category": "サウナ" },
+    { "post_id": "2026-10-20-izu-ochiairo-sauna", "region": "静岡県伊豆市湯ケ島", "category": "サウナ" },
+    { "post_id": "2026-10-19-jozankei-sauna", "region": "北海道札幌市定山渓", "category": "サウナ" },
+    { "post_id": "2026-10-18-isawa-onsen-sauna", "region": "山梨県笛吹市石和温泉", "category": "サウナ" },
+    { "post_id": "2026-10-17-iwaki-yumoto-sauna / tsukioka-sauna", "region": "福島県いわき市湯本温泉・新潟県月岡温泉", "category": "サウナ" },
+    { "post_id": "2026-10-17-atami-sekaie", "region": "静岡県熱海市伊豆山", "category": "絶景ホテル（熱海・既出だがカテゴリ違い）" },
+    { "post_id": "2026-10-20-nasu-awaji-glamping", "region": "栃木県那須郡那須町・兵庫県南あわじ市等", "category": "グランピング（那須・既出だがカテゴリ違い、該当なし）" },
+    { "post_id": "2026-09-18-gunma-sauna / karuizawa-sauna", "region": "群馬県・長野県軽井沢", "category": "サウナ" },
+    { "post_id": "2026-09-14-sauna", "region": "（初回サウナ候補）", "category": "サウナ" }
+  ],
+  "duplication_note": "data/candidates（135件）・captions（101件）を1ヶ月以上前の分も含めファイル名・本文（grepによる『熱海/atami』『那須/nasu』全件）で横断確認した。(1) 静岡県熱海市は2026-10-17サイクルでカテゴリ『絶景ホテル』として調査済みで、『ATAMI せかいえ』がcaptions/2026-10-17-atami-sekaie.jsonとして制作対象（selected）になっている。亀の井ホテル熱海・オーベルジュフォンテーヌブロー熱海も同サイクルで調査済みだが不採用。いずれも今回調査した施設（オーシャンスパFuua、佳ら久）とは名称が異なり、カテゴリも『絶景ホテル』対『サウナ』で異なるため重複ではない。(2) 栃木県那須（那須高原・那須町）は2026-10-20サイクルでカテゴリ『グランピング』として調査済みで、『那須りんどう湖グランピング&キャンプ場』が候補として調査されたが不採用（該当なし）。今回調査した施設（Kito NASU、ホテル・フロラシオン那須、那須ユートピア等）とは名称が異なり、カテゴリも『グランピング』対『サウナ』で異なるため重複ではない。(3) 大分県別府温泉のサウナ候補（やまなみの湯・ひょうたん温泉・地獄蒸しSAUNA伴）とも施設名・地域が異なり重複しない。以上より、本サイクルで調査した施設は全てdata/candidates・captionsに過去一度も登場していない新規施設であることを確認した。",
+  "research_note": "熱海温泉エリアでは『オーシャンスパ Fuua』（日帰り複合温泉、館内のロウリュキャンプでフィンランド式アウフグース体験）と『熱海・伊豆山 佳ら久』（2023年12月開業、全57室露天風呂付きラグジュアリー旅館、7階に2種のドライサウナ）を調査した。那須温泉エリアでは『Kito NASU』（薪サウナ付き一棟貸切ヴィラ）、『ホテル・フロラシオン那須』（自家源泉かけ流しの大浴場サウナ、サウナー人気施設として言及あり）を調査し、加えて『那須天然温泉・サウナ 弓乃』『那須ユートピア（美野沢アートヴィレッジ、2026年1月にプライベートサウナ付きヴィラ5棟へリニューアル）』『貸切宿 さうなす』の3件は数値評価が一切確認できず、情報不足のため正式な候補エントリとせず別途記録した。特に『オーシャンスパ Fuua』は、館内の『展望サウナ』（5階男性浴場・7階女性浴場）が2026年9月28日からリニューアル工事のため休止中で、2026年12月中旬の予定とされるリニューアルオープンまで利用できないことを確認した（3階『ロウリュキャンプ』は工事区画と異なる場所だが、工事期間中の営業継続を明記した情報は本セッションでは確認できなかった）。本日（2026-10-23）時点で看板設備の一部が稼働していない可能性があるため、保守的に評価した。4件すべてが75点基準に届かず、かつ情報不足3件も数値根拠を欠くため、本サイクルも該当なしとした。",
+  "candidates": [
+    {
+      "id": "2026-10-23-atami-ocean-spa-fuua-sauna",
+      "name": "オーシャンスパ Fuua（フーア）",
+      "region": "静岡県熱海市（ATAMI BAY RESORT KORAKUEN内）",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "ニフティ温泉", "score": 4.5, "scale": 5, "review_count": 53, "checked_date": "2026-10-23", "url": "https://onsen.nifty.com/atami-onsen/onsen016402/" },
+        { "source": "ITmedia nlab 温泉ランキング記事（県内人気温泉として4.4pt/1,560件と紹介）", "score": 4.4, "scale": 5, "review_count": 1560, "checked_date": "2026-10-23", "url": "https://nlab.itmedia.co.jp/research/articles/3084608/amp/" }
+      ],
+      "price_range_jpy": {
+        "note": "入館料は大人3,080円〜、小人2,310円〜（2026年の案内ベース）。17時以降『アフター5』大人2,310円〜、20時以降『アフター8』大人1,110円〜。別途入湯税大人1人150円。ロウリュキャンプ（館内着で男女一緒に参加できる予約制アウフグース体験）は通常は入館料に含まれ、特別熱波師イベント時も無料（入館料のみ）。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する。料金はイベント告知（2026年3月・5月時点）を参照したもので、現在の正式な料金表は公式サイトで要確認。"
+      },
+      "unique_experience": "相模湾を見下ろす日本最大級の露天立ち湯が代名詞の複合型日帰り温泉。3階『ロウリュキャンプ』では館内着のまま男女一緒に、タオルで熱風を起こす本格的なフィンランド式アウフグース発汗体験ができ、2025年10月の開業以来初の特別熱波師イベント以降、2026年3月（開業7周年）・5月・7月19日・9月20日と、プロの熱波師を招いた無料アウフグースイベントを継続的に開催している。",
+      "renewal_or_news": "2026年9月28日(月)より、5階男性浴場・7階女性浴場にある『展望サウナ』がリニューアル工事のため休止中で、2026年12月中旬のリニューアルオープンを予定している（かけ流し露天湯の休止は10月16日に終了済み）。ロウリュキャンプは3階の別区画のイベントだが、工事期間中の営業継続を明記した情報は本セッションでは確認できなかった。",
+      "target_audience": ["温泉好き", "カップル", "友人", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 9,
+        "unique_experience_score": 12,
+        "photogenic": 9,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 65,
+      "recommendation_reason": "ニフティ温泉4.5（53件）・ITmedia紹介記事4.4pt（1,560件）という性質の異なる2つの独立した情報源で高評価と十分な件数を確認でき（原則6・7）、プロの熱波師を招いた無料アウフグースイベントを2025年秋から2026年9月まで継続的に開催している点は話題性・独自性として評価できる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ニフティ温泉の口コミでは、館内着と岩盤浴着が同一仕様である点に抵抗を感じる人がいるかもしれないという指摘があったが、清潔感・接客・安全性に関する重大な指摘は見当たらなかった。混雑そのものを問題視する口コミ本文は本セッションの検索範囲では確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "オーシャンスパ Fuua 口コミ・評価 - ニフティ温泉", "url": "https://onsen.nifty.com/atami-onsen/onsen016402/" },
+        { "type": "other", "title": "ITmedia nlab 温泉人気ランキング記事（Fuua 4.4pt/1,560件への言及）", "url": "https://nlab.itmedia.co.jp/research/articles/3084608/amp/" },
+        { "type": "press", "title": "オーシャンスパ Fuua 展望サウナ・かけ流し露天湯 リニューアル工事に関するお知らせ", "url": "https://san-tatsu.jp/pressrelease/552491/" },
+        { "type": "press", "title": "オーシャンスパ Fuua 熱波師を招いた特別アウフグースイベント開催告知", "url": "https://sp.jorudan.co.jp/onsen/news/jrd_250918_1/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "2つの独立情報源での評価・件数は原則6・7を満たすが、看板設備の一つである『展望サウナ』が2026年9月28日からリニューアル工事で休止中（12月中旬再開予定）であり、サウナ体験の中核部分が本日時点で一部利用できない可能性が高いという営業状況上の不確実性を保守的に評価し、score_breakdownを下げた結果65点で採用ライン（75点）に届かず不採用とした。リニューアルオープン後に再調査する価値がある。"
+    },
+    {
+      "id": "2026-10-23-atami-izusan-karaku-sauna",
+      "name": "熱海・伊豆山 佳ら久",
+      "region": "静岡県熱海市伊豆山",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Travelist", "score": 4.8, "scale": 5, "review_count": 0, "checked_date": "2026-10-23", "url": "https://travelist.jp/hotel/detail/7010067/" },
+        { "source": "るるぶトラベル（総合4.7、客室5.0・サービス5.0・食事5.0・施設4.8の内訳）", "score": 4.7, "scale": 5, "review_count": 0, "checked_date": "2026-10-23", "url": "https://www.rurubu.travel/hotel/japan/atami/atami-izusan-karaku" }
+      ],
+      "price_range_jpy": {
+        "note": "開業記念プラン（2023年12月2日〜2024年1月31日限定）は1泊2名利用1名あたり58,300円〜。最上級『佳ら久スイート』は朝夕食付き1泊2名利用1名あたり140,000円〜（税サ込・入湯税別）という記事記載を確認。いずれも時期限定・参考値で現在の正式料金は要確認。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "オリックス不動産が2023年12月2日に開業した全57室のラグジュアリー旅館（箱根『佳ら久』に続く2軒目）。全室に温泉露天風呂が付き、7階には明るい木目調のドライサウナが2種類（サ活記録では89度・82度）、専用の水風呂（16.2度・15.6度）、寝湯を備える。相模湾を見下ろす展望露天風呂も併設。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 5,
+        "unique_experience_score": 13,
+        "photogenic": 11,
+        "value_for_price": 4,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 59,
+      "recommendation_reason": "Travelist4.8・るるぶトラベル4.7という2つの第三者比較サイトでの評価は高く、7階に2種のドライサウナ・専用水風呂を備えるという設備の充実度も確認できた。ただし両サイトとも口コミ件数が表示されておらず、ミシュランガイドのページも『まだ確認済みの滞在はありません』として検証済みレビューがないなど、原則7が求める『件数を伴う独立した評価』を満たす根拠が薄い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本セッションの検索では低評価レビューやサウナに関する具体的な不満の声は見つからなかった。ただし件数の明記された口コミそのものが乏しく、ネガティブ情報を網羅的に確認できたとは言えない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "熱海・伊豆山 佳ら久 総合評価4.8 - Travelist", "url": "https://travelist.jp/hotel/detail/7010067/" },
+        { "type": "other", "title": "熱海・伊豆山佳ら久 (Atami Izusan Karaku) 総合4.7 - るるぶトラベル", "url": "https://www.rurubu.travel/hotel/japan/atami/atami-izusan-karaku" },
+        { "type": "press", "title": "【オリックス不動産】全客室露天風呂完備、相模湾一望のラグジュアリー旅館リゾート「熱海・伊豆山 佳ら久」12月2日(土)開業", "url": "https://digitalpr.jp/r/79636" },
+        { "type": "other", "title": "熱海・伊豆山 佳ら久 ドライサウナ・水風呂の紹介記事", "url": "https://aumo.jp/articles/4066427" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "評価サイトの点数自体は高いが、件数を伴う独立2情報源（原則7）を確認できず、また全57室の大型ラグジュアリー旅館内の付帯設備としてのサウナであり、ANA Intercontinental Beppu等と同様に『サウナ体験そのものを目的化した施設』というカテゴリの核心からは一歩外れる。保守的な採点で59点とし、現サイクルでは不採用。カテゴリ『絶景ホテル』『グルメ旅館』としての再評価の方が適性が高い可能性がある。"
+    },
+    {
+      "id": "2026-10-23-nasu-kito-sauna",
+      "name": "Kito NASU",
+      "region": "栃木県那須郡那須町高久甲565-25",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "Airbnb", "score": 4.87, "scale": 5, "review_count": 38, "checked_date": "2026-10-23", "url": "https://www.airbnb.com/rooms/899634677617011923" },
+        { "source": "楽天トラベル（件数が少なく参考値）", "score": 5.0, "scale": 5, "review_count": 3, "checked_date": "2026-10-23", "url": "https://travel.rakuten.co.jp/HOTEL/188309/gallery.html" }
+      ],
+      "price_range_jpy": {
+        "note": "宿泊料金そのものは本セッションのWeb検索では確定できなかった（Airbnbは日付指定後に価格表示される仕様）。薪サウナ『Kino SAUNA』は宿泊料とは別の有料オプション（5,500円・税込）として案内されている。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "那須の森に囲まれた1日1組限定の一棟貸切ヴィラ。薪でじんわり温める有料オプションのプライベートサウナ『Kino SAUNA』（サウナ温度90度・水風呂22度、ロウリュ・外気浴あり）と薪ストーブを備え、サウナ体験そのものを目的化した貸別荘という独自性がある。",
+      "target_audience": ["カップル", "友人", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 7,
+        "unique_experience_score": 16,
+        "photogenic": 9,
+        "value_for_price": 3,
+        "sns_buzz": 5,
+        "access_and_freshness": 2
+      },
+      "score": 61,
+      "recommendation_reason": "Airbnb4.87（38件）という信頼できる件数の高評価を確認でき（原則6）、薪サウナ・薪ストーブという独自性の高いサウナ体験を目的化した一棟貸切ヴィラである点も評価できる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Reluxの個別レビュー（2024年6月宿泊）では総合的に満足度が高い一方、シャワーの水圧が弱いという指摘が1件あった。清潔感・安全性に関する重大な指摘は見当たらなかったが、口コミ総数自体が少なく（楽天3件・Relux1件）、全体像の把握はできていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "Kito NASU, an adult hideaway with a sauna - Airbnb", "url": "https://www.airbnb.com/rooms/899634677617011923" },
+        { "type": "booking_site", "title": "Kito NASU - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/188309/gallery.html" },
+        { "type": "review_site", "title": "CASUAL ? 貸別荘（Kito NASU） 口コミ - Relux", "url": "https://rlx.jp/806164/review/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "Airbnbでの評価は十分な件数で高評価だが、第二の独立情報源（楽天トラベル3件・Relux1件）は件数が少なすぎて原則7の裏付けとしては弱い。加えて定員表記（8名/4組の布団という記載）や正確な宿泊料金が本セッションでは確定できず、保守的に61点とし不採用とした。価格・定員の正確な情報が確認できれば再評価の価値がある。"
+    },
+    {
+      "id": "2026-10-23-nasu-florasion-sauna",
+      "name": "ホテル・フロラシオン那須",
+      "region": "栃木県那須郡那須町高久丙",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.4, "scale": 5, "review_count": 1965, "checked_date": "2026-10-23", "url": "https://www.jalan.net/yad329973" },
+        { "source": "ニフティ温泉", "score": 4.8, "scale": 5, "review_count": 23, "checked_date": "2026-10-23", "url": "https://onsen.nifty.com/nasu-onsen/onsen010799/" }
+      ],
+      "price_range_jpy": {
+        "note": "日帰り入浴は14:00〜20:00、入浴料1,500円〜（クーポン適用で大人950円などの表記もあり）。宿泊料金は本セッションでは未確認。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "敷島温泉『碧ノ湯』の自家源泉を無加水・無加温でかけ流す大浴場・露天風呂にサウナ（サ活記録では84度・90度、水風呂17度、外気浴あり）を備えた那須高原のリゾートホテル。ニフティ温泉の紹介記事では『那須で水風呂が楽しめる人気施設』の一つとして名前が挙がっており、サウナ愛好者からの支持がうかがえる。",
+      "target_audience": ["温泉好き", "家族", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 10,
+        "unique_experience_score": 11,
+        "photogenic": 9,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 62,
+      "recommendation_reason": "じゃらん4.4（1,965件）という非常に件数の多い評価と、ニフティ温泉4.8（23件）という2つの独立した情報源で基準（4.0以上）を上回る評価を確認できた（原則6・7）。自家源泉かけ流しとサウナー人気という裏付けもある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icotto掲載の2022年8月家族利用の口コミ（評価3.5）で、部屋の清掃が不十分・空調音が大きいという指摘があったが、サウナ・浴場そのものへの言及はなかった。サウナに特化した低評価レビューは本セッションの検索範囲では見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ホテル・フロラシオン那須 クチコミ総合4.4（1,965件） - じゃらんnet", "url": "https://www.jalan.net/yad329973" },
+        { "type": "review_site", "title": "ホテル・フロラシオン那須 口コミ・評価 - ニフティ温泉", "url": "https://onsen.nifty.com/nasu-onsen/onsen010799/" },
+        { "type": "other", "title": "ホテル・フロラシオン那須 口コミ（2022年8月、評価3.5） - icotto", "url": "https://icotto.jp/hotels/205" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "評価の件数・点数自体は原則6・7を満たすが、サウナは大浴場に付帯する一般的な設備であり、別府市の既出候補（ANAインターコンチネンタル別府等）と同様に『サウナ体験そのものを目的化した施設』というカテゴリの核心的独自性には届かないと保守的に判断し、62点として不採用とした。"
+    }
+  ],
+  "excluded_insufficient_data": [
+    {
+      "name": "那須天然温泉・サウナ 弓乃",
+      "region": "栃木県那須町（東北道那須ICから車で約5分、川沿い）",
+      "category": "サウナ",
+      "reason": "源泉かけ流し露天風呂・ジャグジー・ミストサウナを備えた貸切温泉として1件の紹介記事（楽天トラベル情報をもとにしたまとめ記事）でのみ言及があったが、じゃらん・4travel・Googleマップ等での口コミ・評価点は一切確認できず、記事内のアクセス情報（車で5分 vs 15分）にも食い違いがあった。原則6・7を満たす数値的根拠が得られず、正式な候補エントリとはしなかった。"
+    },
+    {
+      "name": "那須ユートピア（美野沢アートヴィレッジ）",
+      "region": "栃木県那須郡那須町（那須IC約30分）",
+      "category": "サウナ",
+      "reason": "2026年1月31日付のプレスリリースで、プライベートサウナ付きヴィラ5棟・貸切サウナ2時間付きの教室ルーム2室へのリニューアルが発表され、専用屋外テラス・採暖室も完備するという『サウナ体験そのものを目的化した』施設として独自性が高い。ただしGoogleマップ・楽天トラベル・じゃらんいずれの数値評価もWeb検索では確認できず、原則6・7を満たす根拠が得られなかった。リニューアル直後で口コミが蓄積されていない可能性があり、次回以降の再調査候補として記録する。"
+    },
+    {
+      "name": "貸切宿 さうなす",
+      "region": "栃木県那須塩原市",
+      "category": "サウナ",
+      "reason": "サウナ専門サイトのサ活データ上で一棟貸し宿泊施設（宿泊者限定、水風呂20度・外気浴あり）として存在は確認できたが、施設の正式名称・住所・公式サイト・数値評価のいずれも本セッションのWeb検索では特定できなかった。原則6・7を満たす根拠が得られず除外した。"
+    }
+  ]
+}

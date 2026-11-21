@@ -1,0 +1,149 @@
+{
+  "cycle_date": "2026-11-07",
+  "theme": "文化体験カテゴリ（島根県津和野町エリア）",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-10-20-kumagawa-railway", "region": "山口県（新山口〜津和野）", "category": "列車・船", "note": "SLやまぐち号（新山口〜津和野）の候補。津和野は『SLの終着駅』としてのみ言及されており、津和野町内の文化体験施設としては未調査だったため重複なし。" },
+    { "candidate_id": "2026-10-21-yuda-onsen-gourmet-ryokan", "region": "山口県湯田温泉", "category": "グルメ旅館", "note": "同じ山口県だが湯田温泉・グルメ旅館カテゴリで、津和野・文化体験とは地域・カテゴリとも異なるため重複なし。" },
+    { "candidate_id": "2026-11-05-ichibata-dentetsu-izumo-taisha", "region": "島根県出雲市", "category": "列車・船", "note": "同じ島根県だが出雲市（一畑電鉄・出雲大社）で、津和野町とは別エリア・別カテゴリのため重複なし。" },
+    { "candidate_id": "2026-11-05-dazaifu-bunka-taiken-recheck", "region": "福岡県太宰府市", "category": "文化体験", "note": "同じ文化体験カテゴリだが福岡県太宰府市で地域が異なるため重複なし。" },
+    { "candidate_id": "2026-11-05-dewasanzan-bunka-taiken", "region": "山形県鶴岡市・出羽三山エリア", "category": "文化体験", "note": "同じ文化体験カテゴリだが山形県鶴岡市で地域が異なるため重複なし。" },
+    { "candidate_id": "2026-11-06-koyasan-bunka-taiken", "region": "和歌山県伊都郡高野町", "category": "文化体験", "note": "同じ文化体験カテゴリだが和歌山県高野町で地域が異なるため重複なし。" }
+  ],
+  "duplication_note": "data/candidates/ と captions/ の全ファイルを、ファイル名・本文（grep）で『津和野』『Tsuwano』『太皷谷』『稲成』『殿町』の文字列について、1か月以上前（2026年10月分を含む）まで遡って確認した。一致したのは2026-10-20-kumagawa-railway.json（SLやまぐち号＝新山口〜津和野の列車候補、山口県側・列車体験カテゴリとして津和野を終着駅として触れているのみ）と2026-10-21-yuda-onsen-gourmet-ryokan.json（duplication_noteの文中で同じ山口県として触れているのみ）の2件で、いずれも津和野町内の施設・文化体験としての調査ではない。太皷谷稲成神社・津和野城跡・殿町通りを対象にした既存candidate/captionファイルは0件であることを確認した。",
+  "research_constraints": "本セッションでは、WebFetchによるtrip.com（殿町通りのTripAdvisorレビュー集計確認用）およびairial.travel（津和野城跡・太皷谷稲成神社の集計評価の出典確認用）への直接アクセスがいずれもDNS解決不可（ネットワーク許可リスト外）で失敗し、本文を直接確認できなかった。そのため該当ページの内容はWebSearchのAI要約スニペット経由での確認に限定されている。また、太皷谷稲成神社の創建に関わった具体的な藩主名・個人の発言を一次資料で確認するための追加検索を行う前に、本セッションで共有されるWebSearch回数の上限（ターンあたりの上限、他エージェントの使用分も含む）に到達し、それ以上の深堀り検索ができなくなった。確認できない数値・人名・引用は推測せず、確認できなかった旨を各候補のrecommendation_reason・negative_review_check・creator_storyに明記した。",
+  "candidates": [
+    {
+      "id": "2026-11-07-taikodani-inari-jinja",
+      "name": "太皷谷稲成神社（たいこだにいなりじんじゃ）",
+      "region": "島根県鹿足郡津和野町後田409（JR山口線 津和野駅から徒歩約25〜30分、または車・タクシーで約10分）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet（施設ページ・クチコミ集計）", "score": 4.2, "scale": 5, "review_count": 306, "checked_date": "2026-11-07", "url": "https://www.jalan.net/kankou/spt_32501ag2130012145/" },
+        { "source": "Airial Travel（旅行アグリゲーターの集計評価、出典レビューサイトの明記はページ上では確認できず）", "score": 4.3, "scale": 5, "review_count": 3002, "checked_date": "2026-11-07", "url": "https://airial.travel/attractions/japan/tsuwano/taikodani-inari-shrine-tsuwano-7LZJFVbd" }
+      ],
+      "price_range_jpy": {
+        "note": "参拝無料。駐車場（約100台）も無料との案内があるが、現行の正確な収容台数・最新運用は本セッションでは未確認。例年、初詣期間（1月）は神社へ上がる車道が交通規制で通行止めとなり、麓の駐車場利用に切り替わるとの案内がある。",
+        "as_of_search_date": "2026-11-07",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "山口線沿線の城下町・津和野を見下ろす高台に鎮座し、麓から社殿まで約1,000本の朱塗りの鳥居が連なる『千本鳥居』のトンネルを登って参拝する神社。日本五大稲荷の一社に数えられ、全国的にも珍しく『願望成就』の意味を込めて『稲成』と表記する。鳥居のトンネルを抜けた先に広がる津和野の町並みと山々の眺望は、京都・伏見稲荷の雰囲気をより小規模で静かに体験できる場として紹介されており、参拝者が比較的少ない時間帯を選べば、鳥居のトンネルをゆっくり独り占めできる点が独自の魅力。",
+      "renewal_or_news": "本セッションでは、特定の改修・新企画等の『今だけ』のニュース性は確認できなかった。1773年の創建以来、日本五大稲荷の一社として長期的に安定した信仰・観光の対象になっているという位置づけ。",
+      "target_audience": ["一人旅", "夫婦", "カップル", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 13,
+        "unique_experience_score": 18,
+        "photogenic": 14,
+        "value_for_price": 9,
+        "sns_buzz": 8,
+        "access_and_freshness": 4
+      },
+      "score": 87,
+      "recommendation_reason": "じゃらんnet（4.2/5・306件）とAirial Travel（4.3/5・約3,002件）という2つの独立した情報源でいずれも5点満点換算4.2〜4.3と高く安定した評価を得ている（原則6・7）。約1,000本の朱塗りの鳥居が連なる参道を登って参拝するという体験は、京都・伏見稲荷に次ぐ規模感を持ちながら参拝者は比較的少なく、鳥居のトンネルをゆっくり楽しめる点に独自性がある。参拝・駐車場ともに無料で体験価値も高い。一方で、具体的な創建時の藩主個人の人物像・発言を示す一次資料は本セッションでは確認できなかった（creator_story参照）。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "4travel等の口コミでは、営業時間終了間際でも参拝客が多く駐車場が混雑したという声や、麓から石段の参道を約15分登る必要があり体力的に大変という声が確認できた。初詣期間（1月）は神社へ上がる車道が交通規制で通行止めになるとの案内もある。検索範囲では『営業停止』『詐欺』『重大な安全・衛生問題』等の決定的な欠格事項は見つからなかった。口コミ件数自体は比較的多いが、個別の低評価コメント本文まではWebSearch予算の制約により全件は精査できていない。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "山口県観光情報サイト（yamaguchi-tourism.jp）の解説によれば、太皷谷稲成神社は1773年、当時の津和野藩主が津和野城とその城下・領民の安寧を祈願し、京都・伏見稲荷大社の稲荷大神を城山（太皷谷）に勧請したことに始まると伝わる。『稲荷』ではなく『願望成就』の意味を込めて『稲成』と表記するようになった経緯も、複数の観光紹介記事（じゃらんニュース、たびまが等）で一致して紹介されている。日本五大稲荷の一社として、江戸期から現在まで一貫して地域の信仰の中心であり続けてきたことがうかがえる。ただし、創建を発願した藩主個人の実名・役職や、その時どのような言葉で願いを語ったかを示す一次性の高い記録（本人の発言として確実に引用できる史料・インタビュー）は、本セッションのWeb検索（WebSearch予算の制約、およびairial.travel等へのWebFetchがネットワーク許可リスト外で失敗したことによる確認範囲の限界）では確認できなかった。藩主名・発言の推測や創作は行わない。",
+        "sources": [
+          { "type": "other", "title": "太皷谷稲成神社の創建由来（1773年・津和野藩主による伏見稲荷勧請） - 山口県観光情報サイト", "url": "https://yamaguchi-tourism.jp/business/material/detail_13715.html" },
+          { "type": "other", "title": "太皷谷稲成神社 完全ガイド（『稲成』表記の由来等） - じゃらんニュース", "url": "https://www.jalan.net/news/article/451241/" },
+          { "type": "other", "title": "太皷谷稲成神社の参拝ルート・歴史紹介 - たびまが", "url": "https://tabi-mag.jp/sm0100/" }
+        ]
+      },
+      "sources": [
+        { "type": "booking_site", "title": "太皷谷稲成神社 - じゃらんnet（アクセス・クチコミ）", "url": "https://www.jalan.net/kankou/spt_32501ag2130012145/" },
+        { "type": "review_site", "title": "Taikodani Inari Shrine - Airial Travel（集計評価）", "url": "https://airial.travel/attractions/japan/tsuwano/taikodani-inari-shrine-tsuwano-7LZJFVbd" },
+        { "type": "other", "title": "太皷谷稲成神社の創建由来 - 山口県観光情報サイト", "url": "https://yamaguchi-tourism.jp/business/material/detail_13715.html" },
+        { "type": "other", "title": "太皷谷稲成神社 完全ガイド - じゃらんニュース", "url": "https://www.jalan.net/news/article/451241/" },
+        { "type": "other", "title": "太皷谷稲成神社 参拝ルート紹介 - たびまが", "url": "https://tabi-mag.jp/sm0100/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-11-07-tsuwano-castle-ruins",
+      "name": "津和野城跡（津和野城址）",
+      "region": "島根県鹿足郡津和野町後田（津和野城跡観光リフト乗り場経由、JR津和野駅から徒歩・車でリフト乗り場まで約10〜15分、リフトで山頂付近まで約10分＋徒歩）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet（『津和野城址』施設ページ・クチコミ集計）", "score": 4.1, "scale": 5, "review_count": 167, "checked_date": "2026-11-07", "url": "https://www.jalan.net/kankou/sta_022330/g2_35/" },
+        { "source": "Airial Travel（旅行アグリゲーターの集計評価）", "score": 4.5, "scale": 5, "review_count": 187, "checked_date": "2026-11-07", "url": "https://airial.travel/attractions/japan/tsuwano/tsuwano-castle-ruins-OgijXcYu" }
+      ],
+      "price_range_jpy": {
+        "note": "城跡自体の見学は無料。観光リフト利用は往復大人700円・小学生500円との案内がある（最新の正式料金は要確認）。リフトは例年12月〜2月頃に点検等で運休期間が発生する可能性があり、情報源間で運休の範囲（全期間か平日のみか）に食い違いがあり、本セッションでは今期（2026年12月〜2027年2月）の正式な運休日程を確認できなかった。",
+        "as_of_search_date": "2026-11-07",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "鎌倉時代に吉見氏が築き、江戸時代に津和野藩主・亀井家が明治維新まで治めたという山城の跡。観光リフトで山上近くまで上がり、本丸跡まで歩くと、津和野の城下町と周囲の山々を一望できる。石垣が山の稜線に沿って連なる景観や、秋から冬にかけて城下に雲海・朝霧が広がる時期の眺めが見どころとして紹介されている。",
+      "renewal_or_news": "本セッションでは『今だけ』性を裏付ける具体的な改修・新企画等のニュースは確認できなかった。長年、津和野観光の代表的な眺望スポットとして安定した評価を得ている。",
+      "target_audience": ["一人旅", "夫婦", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 11,
+        "unique_experience_score": 14,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 74,
+      "recommendation_reason": "じゃらんnet（4.1/5・167件）とAirial Travel（4.5/5・187件）という2つの独立した情報源でいずれも5点満点換算4.1〜4.5と高評価であり、山城からの眺望という独自の体験価値も高い（原則6・7）。ただし、観光リフトの冬期運休範囲について情報源間で食い違いがあり、今期の正式な運休日程を本セッションでは確認できなかったこと、口コミには『高齢者にはかなりキツイ山道』という声もあることから、score_breakdownの合計は74点と75点基準にわずかに届かなかった。レビュー自体は良好なため、次サイクル以降、リフトの最新運行スケジュールが確認できた時点でselected候補として再評価することを推奨する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "じゃらんの口コミには『高齢者にはかなりキツイ山道』という声があり、リフト降り場から本丸跡までは徒歩での移動が必要で、歩きやすい靴を推奨する案内もある。リフトの冬期運休（12月〜2月頃、機械点検等）について情報源間で運休範囲（全期間か平日のみか）の食い違いがあり、最新の正式スケジュールは本セッションでは確認できなかった。検索範囲では『営業停止』『詐欺』『重大な安全・衛生問題』等の決定的な欠格事項は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "津和野城址 - じゃらんnet（クチコミ）", "url": "https://www.jalan.net/kankou/sta_022330/g2_35/" },
+        { "type": "review_site", "title": "Tsuwano Castle Ruins - Airial Travel（集計評価）", "url": "https://airial.travel/attractions/japan/tsuwano/tsuwano-castle-ruins-OgijXcYu" },
+        { "type": "other", "title": "津和野城跡の歴史・見どころ - 山口県観光情報サイト", "url": "https://yamaguchi-tourism.jp/spot/detail_13716.html" },
+        { "type": "other", "title": "津和野城跡（国指定史跡）- 文化庁 国指定文化財等データベース", "url": "https://online.bunka.go.jp/db/heritages/detail/163551" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-11-07-tonomachi-dori",
+      "name": "殿町通り（津和野町）",
+      "region": "島根県鹿足郡津和野町後田殿町（JR津和野駅から徒歩約10分）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "GLTJP（レビューページ掲載の集計評価）", "score": 3.13, "scale": 5, "review_count": 2, "checked_date": "2026-11-07", "url": "https://www.gltjp.com/en/directory/review/12391/" }
+      ],
+      "price_range_jpy": {
+        "note": "公道・公共の通りであり見学無料。",
+        "as_of_search_date": "2026-11-07",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "白壁の土塀と掘割が続き、鯉が泳ぐ水路沿いに武家屋敷跡や津和野カトリック教会が並ぶ、津和野観光のメインストリート。『山陰の小京都』と呼ばれる街並みの中心で、6月頃には掘割沿いに約2,000株のハナショウブが咲くとの紹介もある。",
+      "target_audience": ["一人旅", "夫婦", "友人", "女子旅"],
+      "score_breakdown": {
+        "review_rating": 8,
+        "review_reliability": 3,
+        "unique_experience_score": 14,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 53,
+      "recommendation_reason": "白壁・掘割・鯉・武家屋敷跡・津和野カトリック教会といった街並みの要素は複数の観光情報サイト（Mapple、GLTJP、trip.com等）で一致して紹介されており、景観・文化的価値そのものは確からしい。しかし、本セッションで確認できた唯一の数値評価はGLTJPの『3.13/5・レビュー2件』のみで、原則6・7が求める十分な件数・複数の独立した数値評価源を満たせなかった。trip.comの紹介ページにはTripAdvisor経由の『131件』というレビュー数の言及があったが、星評価の数値はWebSearchのスニペットでは確認できず、airial.travel・trip.comへの直接WebFetchもネットワーク許可リスト外で失敗したため、確証の取れる数値として採用しなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "決定的なネガティブ事項は検索範囲では見つからなかったが、口コミ件数・評価そのものを十分な件数の独立した数値情報源で確認できておらず、ネガティブレビューの傾向についても本セッションでは十分な精査ができていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "Tonomachi Dori / Honmachi Dori - GLTJP レビュー集計", "url": "https://www.gltjp.com/en/directory/review/12391/" },
+        { "type": "other", "title": "殿町通り（津和野観光地区）紹介 - Mapple", "url": "https://www.mapple.net/region/a0601070201/spot/" },
+        { "type": "other", "title": "Explore near Tonomachi: Where to Stay, Eat, and Visit - trip.com", "url": "https://www.trip.com/travel-guide/attraction/tsuwano/tonomachi-61241181/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価を確認できた情報源が1件（GLTJP・3.13/5・レビュー2件）のみで、原則6・7が求める複数の独立した信頼できる数値評価源を本セッションでは満たせなかった。trip.com経由でTripAdvisorのレビュー件数（131件）への言及はあったが、星評価の具体的な数値は確認できず、airial.travel・trip.comへの直接WebFetchもネットワーク許可リスト外（DNS解決不可）で失敗し、本セッションのWebSearch予算の制約もあって追加確認ができなかった。景観・文化的価値自体は複数の観光情報サイトで一致して紹介されており、次サイクル以降、TripAdvisor・Googleマップ本体への直接アクセスが可能な環境で数値評価を再確認できれば、再評価を推奨する。"
+    }
+  ]
+}

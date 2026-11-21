@@ -1,0 +1,106 @@
+{
+  "cycle_date": "2026-10-31",
+  "theme": "アクティビティ（奈良県吉野郡吉野町・吉野山）",
+  "season_rationale": "調査日は2026-10-31。吉野山最大の訴求点である桜（一目千本）は4月の『下千本・中千本・上千本・奥千本』の順で見頃を迎える季節であり、本調査時点では完全にオフシーズン。紅葉も吉野山では例年11月上旬〜中旬が見頃とされ、10月31日時点ではまだ色づき始め〜序盤の段階とみられる（要現地最新確認）。この時期は、桜季限定・紅葉季限定のイベント・企画ツアーの多くが未開催または終了しており、通年で催行されているアクティビティに絞って調査した。",
+  "prior_posts_checked": [
+    {
+      "post_id": "2026-09-18-nara-culture",
+      "region": "奈良県奈良市高畑町（奈良公園内・春日大社一の鳥居脇）",
+      "category": "文化体験",
+      "note": "同じ奈良県だが奈良市内の宿泊・文化体験であり、地域（吉野町・吉野山）・カテゴリ（アクティビティ）とも異なり重複なし。"
+    },
+    {
+      "post_id": "2026-10-18-nara-culture",
+      "region": "奈良県奈良市（高畑町・ならまち）",
+      "category": "文化体験",
+      "note": "同上。奈良市内の文化体験3件（selected: nara-hotel／shortlisted: kaze-no-naramachi／rejected: edosan-nara）で、吉野郡は対象外。地域・カテゴリとも重複なし。"
+    },
+    {
+      "post_id": "2026-10-29-tenkawa-dorogawa-glamping",
+      "region": "奈良県吉野郡天川村（洞川温泉エリア）",
+      "category": "グランピング",
+      "note": "同じ吉野郡だが天川村・洞川温泉エリアのグランピングであり、吉野町・吉野山とは町が異なり、カテゴリもグランピングで異なる。重複なし。"
+    },
+    {
+      "post_id": "2026-10-29-hakusan-geopark-activity",
+      "region": "石川県白山市",
+      "category": "アクティビティ",
+      "note": "本文中に『白山吉野オートキャンプ場』（石川県白山市鳥越地区の施設名の一部に『吉野』を含む）という表記があり全文grepでヒットしたが、奈良県吉野郡とは無関係の同名施設。地域・都道府県とも異なり重複なし。"
+    }
+  ],
+  "duplication_note": "依頼時点の指定は『カテゴリ：アクティビティ／地域：奈良県吉野郡吉野町・吉野山』。重複回避のため data/candidates/・captions/ の全履歴（2026-09-14〜2026-10-30、1ヶ月以上前の分も含む）を『吉野』『Yoshino』『吉野山』『吉野町』で全件grepした。ヒットした10件程度はいずれも(1)奈良県吉野郡内でも天川村・川上村など別の町、(2)奈良市内の文化体験、(3)他県の同名施設・地名（石川県白山市の『白山吉野オートキャンプ場』、福井県三国の地名的言及等）であり、吉野町・吉野山そのものをアクティビティカテゴリで扱った候補・投稿は過去に一度も存在しない。\n\n本サイクルで調査した候補のうち、以下は数値付きの口コミ評価を独立2情報源で確認できなかった、または対象地域（吉野町・吉野山）に該当しないため、正式なcandidatesエントリとしては登録していない（捏造禁止を優先）。\n(a)『柿の葉寿司 手作り体験』: 吉野地域の郷土料理として作り体験の存在は複数の記事で言及されているが、吉野町内で体験そのものを現在ネット予約できる具体的な事業者・料金・日程を示す一次情報がWebSearchの範囲では見つからなかった（VELTRA掲載の柿の葉寿司関連商品は『吉野下市』表記で下市町寄りの通販商品が中心で、吉野町での体験予約ページとは確認できなかった）。\n(b)『吉野山 E-BIKEサイクリングツアー』: 環境省の国立公園体験ページに吉野山在住のカフェ店主がガイドする3時間のe-bikeツアーが掲載されているが、料金・予約方法・運営事業者名が明記されておらず、WebFetchでのenv.go.jp直接取得はネットワーク許可設定上ブロックされて本文確認ができなかった。じゃらん掲載の『吉野アウトドアクラブUP!』（E-Bikeで吉野山周辺を案内、評価5.0・口コミ1件）は環境省ページと同一事業者か確認できず、かつ事業者の所在地表記が下市町（吉野郡下市町）であり、口コミも1件のみで原則7の独立2情報源・十分な件数という基準を満たさない。\n(c)『ラフティング・キャニオニング（ココロ アウトドアツアー／Sha La Rafting）』: WebSearchで『吉野エリア』のラフティング事業者として多数の口コミ（182〜183件、152〜153件）が確認できたが、所在地・集合場所を確認したところ、ココロ アウトドアツアーは奈良県吉野郡大淀町、Sha La Raftingは奈良県五條市であり、いずれも依頼対象の『吉野町・吉野山』ではなく隣接する別の市町であったため対象外とした。\n\n唯一、数値付きの口コミ評価を独立2情報源（Tripadvisor・じゃらん）で確認できたのは(d)『吉野山ロープウェイ』であり、本ファイルの正式なcandidatesエントリとしてscoreを算出した。ただし両情報源とも評価が4.0未満であったため、原則6の基準（主要レビュー4.0未満は原則不採用）によりrejectedとした。以上の事実に基づき、本サイクルは『該当なし（selected候補なし）』として報告する。",
+  "candidates": [
+    {
+      "id": "2026-10-31-yoshinoyama-ropeway",
+      "name": "吉野山ロープウェイ（吉野大峯ケーブル自動車）",
+      "region": "奈良県吉野郡吉野町（千本口駅〜吉野山駅）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Tripadvisor（海外版 Attraction Review）",
+          "score": 3.2,
+          "scale": 5,
+          "review_count": 107,
+          "checked_date": "2026-10-31",
+          "url": "https://www.tripadvisor.com/Attraction_Review-g1121327-d1386051-Reviews-Yoshinoyama_Ropeway-Yoshino_cho_Yoshino_gun_Nara_Prefecture_Kinki.html"
+        },
+        {
+          "source": "じゃらんnet（クチコミ一覧）",
+          "score": 3.8,
+          "scale": 5,
+          "review_count": 53,
+          "checked_date": "2026-10-31",
+          "url": "https://www.jalan.net/kankou/spt_29441ee4570112095/kuchikomi/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "片道大人500円・小人250円という掲載と、大人片道450円・往復800円という掲載の両方が確認でき、情報源間で料金表記に差異があった（検索時点で統一できず）。",
+        "as_of_search_date": "2026-10-31",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "千本口駅と吉野山駅を結ぶ全長349m・高低差103m・最大勾配27度を約3分で登る、現存する日本最古のロープウェイ。2012年に機械遺産に認定されており、昭和レトロな車両・駅舎の雰囲気も含め歴史的価値が高い。近鉄吉野駅からすぐというアクセスの良さも特徴。",
+      "renewal_or_news": "情報源間で通常運行日の記載が一致しない（『火・水・木運休』とする記事と『金・土・日・月のみ運行』とする記事が混在）。桜・紅葉シーズンは毎日運行との記載もあるが、過去には車両故障による長期運休例（2018年）もあり、運行スケジュールの最新性確認が課題。",
+      "target_audience": [
+        "家族",
+        "友人",
+        "絶景好き"
+      ],
+      "score_breakdown": {
+        "review_rating": 17,
+        "review_reliability": 12,
+        "unique_experience_score": 16,
+        "photogenic": 9,
+        "value_for_price": 8,
+        "sns_buzz": 5,
+        "access_and_freshness": 2
+      },
+      "score": 69,
+      "recommendation_reason": "日本最古のロープウェイ・機械遺産という史跡性と近鉄吉野駅からのアクセスの良さは独自性として評価できるものの、Tripadvisor（3.2点・107件）・じゃらん（3.8点・53件）のいずれも原則6が求める5点満点換算4.0以上を満たさず、口コミ件数も十分にある（穴場扱いの対象外）ため、Hidden Gem例外も適用できない。実際の口コミにも『揺れが大きい』『徒歩のほうが早い』『従業員対応への不満』といった具体的な不満が複数見られ、スコアも69点と75点基準に届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorの口コミでは、桜の時期の大行列・混雑、ゴンドラの揺れや老朽感への指摘、従業員対応への不満、ペット同伴時の注意喚起などが具体的に述べられている。悪い評価（Poor/Terrible）が口コミ全体の107件中18件（Poor 8・Terrible 10）を占め、一定数のネガティブ評価が存在することを確認した。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "Yoshinoyama Ropeway - All You SHOULD Know Before Going 2026 (with Reviews) - Tripadvisor",
+          "url": "https://www.tripadvisor.com/Attraction_Review-g1121327-d1386051-Reviews-Yoshinoyama_Ropeway-Yoshino_cho_Yoshino_gun_Nara_Prefecture_Kinki.html"
+        },
+        {
+          "type": "review_site",
+          "title": "吉野山ロープウェイのクチコミ一覧 - じゃらんnet",
+          "url": "https://www.jalan.net/kankou/spt_29441ee4570112095/kuchikomi/"
+        },
+        {
+          "type": "other",
+          "title": "吉野ロープウェイが「機械遺産」に認定 - マイナビニュース",
+          "url": "https://news.mynavi.jp/article/20180327-yoshino/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "Tripadvisor（3.2/5・107件）・じゃらん（3.8/5・53件）いずれも主要レビュー4.0未満であり、かつ知名度・口コミ件数ともに十分にあるためHidden Gem例外の対象外。score_breakdown合計も69点で原則6の75点基準に届かないため不採用。"
+    }
+  ]
+}

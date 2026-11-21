@@ -1,0 +1,168 @@
+{
+  "cycle_date": "2026-10-20",
+  "theme": "岐阜県下呂温泉のグルメ旅館",
+  "season_rationale": "10月下旬は秋の行楽シーズンで、飛騨牛をはじめとする飛騨の秋の味覚（きのこ・栗等）を使った会席料理の訴求がしやすい時期。下呂温泉は日本三名泉の一つとされ、紅葉シーズンの温泉旅としても検討needsが高まる。",
+  "prior_posts_checked": [
+    { "caption_id": "2026-10-19-gatehotel-yokohama-grape-afternoontea", "region": "神奈川県横浜市中区山下町", "category": "その他" },
+    { "caption_id": "2026-10-19-hotel-denhaag-htb", "region": "長崎県佐世保市ハウステンボス町", "category": "オールインクルーシブ" },
+    { "caption_id": "2026-10-19-ibusuki-ginsho", "region": "鹿児島県指宿市", "category": "絶景ホテル" },
+    { "caption_id": "2026-10-19-lavista-kusatsu-hills", "region": "群馬県吾妻郡草津町（草津温泉）", "category": "温泉旅館" },
+    { "caption_id": "2026-10-19-machiya-club-omihachiman", "region": "滋賀県近江八幡市", "category": "文化体験" },
+    { "caption_id": "2026-10-19-yunohana-jozankeiden", "region": "北海道札幌市南区（定山渓温泉）", "category": "サウナ" },
+    { "caption_id": "2026-10-18-kaike-shogetsu", "region": "鳥取県米子市（皆生温泉）", "category": "グルメ旅館" },
+    { "caption_id": "2026-10-17-ureshino-taishoya", "region": "佐賀県嬉野市（嬉野温泉）", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "直近の実選定キャプション（横浜=その他、ハウステンボス=オールインクルーシブ、指宿=絶景ホテル、草津=温泉旅館、近江八幡=文化体験、定山渓=サウナ）とは地域・カテゴリとも重複しない。カテゴリ『グルメ旅館』は10/17（佐賀県嬉野温泉）・10/18（鳥取県皆生温泉）で選定済みのため、地域は岐阜県下呂温泉を新規に調査する（原則29）。なお10/19サイクルでは石川県輪島市（能登半島地震の影響で候補なし）・石川県加賀温泉郷（山代温泉・山中温泉、いずれも採用ライン未達）でグルメ旅館を再調査したが該当なしで終わっており、下呂温泉はこれらとも重複しない新規地域。",
+  "candidates": [
+    {
+      "id": "2026-10-20-gero-suimeikan",
+      "name": "下呂温泉 水明館",
+      "region": "岐阜県下呂市幸田（下呂温泉・JR高山本線「下呂」駅から徒歩約3分）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "jcation",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 634,
+          "checked_date": "2026-10-20",
+          "url": "https://jcation.com/hotel/detail-885/"
+        },
+        {
+          "source": "るるぶトラベル",
+          "score": 4.2,
+          "scale": 5,
+          "review_count": 264,
+          "checked_date": "2026-10-20",
+          "url": "https://www.rurubu.travel/city/japan/gero"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付きで15,000円〜という掲載が複数サイトで確認できたが、4館（青嵐荘・臨川閣・飛泉閣・山水閣）のうち部屋タイプ・食事プラン（和食会席／フレンチ／中華）により大きく変動する。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "下呂駅徒歩3分という好アクセスに4つの館（青嵐荘・臨川閣・飛泉閣・山水閣）を持つ大型老舗旅館で、下呂の街並みを見下ろす「展望大浴場」、檜造りでサウナも備える「下留の湯」、緑と巨岩に囲まれた野趣あふれる「野天風呂」の3大浴場を、宿泊する館にかかわらず全て利用できる湯めぐりが最大の独自性。食事も飛騨牛を使った和食会席・フレンチ・中華料理から選べるプランがあり、グルメ旅館としての幅がある。",
+      "renewal_or_news": "山水閣の「リニューアル和洋室」プラン（2026年7月27日〜2027年3月31日設定）、飛泉閣の和洋室リニューアル（2022年12月オープン、2026年6月の口コミでも言及あり）、飛騨牛付き会席の新プラン（2026年8月14日〜2027年3月31日設定）など、直近の改装・新プラン情報が複数確認できた。また「じゃらんアワード2025 OF THE YEAR 売れた宿大賞 東海エリア101〜300室部門」で12年連続1位という実績がある（旅行会社販売ページ記載）。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 7,
+        "access_and_freshness": 5
+      },
+      "score": 85,
+      "recommendation_reason": "jcation4.5（634件）・るるぶトラベル4.2（264件）という2つの独立した情報源でいずれも採用ライン4.0以上を安定して満たし、件数も数百件規模で信頼度が高い。3大浴場の湯めぐり＋飛騨牛を含む選べる会席という『ここでしかできない体験』があり、じゃらんアワード12年連続1位という継続的な話題性・信頼性の裏付けもある。下呂駅徒歩3分とアクセスも良く、直近のリニューアル・新プラン情報も複数確認できたため選定した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2026年3月の宿泊レビューでは、和洋室の水回り（特にトイレ周り）の古さ・築年数の影響や、展望風呂の設備が『昭和風』に感じられたという指摘があった。別の口コミでは客室の温泉がやや狭い、7月に客室エアコンの効きが弱かったという声、夕食・朝食の評価が『普通』という声もあった。古い掲示板の投稿では一部大浴場が『騒がしく落ち着かない』という厳しい感想も見られたが投稿時期が不明で現状との関連は薄い。いずれも清潔感・接客・料理に関わる重大な欠陥ではなく、複数の高評価口コミと比較しても除外基準（原則10）に該当する重大な問題とは判断しなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "下呂温泉 水明館 口コミ・評価（jcation／総合4.5・634件）", "url": "https://jcation.com/hotel/detail-885/" },
+        { "type": "booking_site", "title": "下呂温泉 水明館（るるぶトラベル／クチコミ264件・4.2）", "url": "https://www.rurubu.travel/city/japan/gero" },
+        { "type": "other", "title": "下呂温泉 水明館 施設紹介（飛騨牛会席・3大浴場・じゃらんアワード12年連続1位） - All About", "url": "https://news.allabout.co.jp/articles/o/108086/" },
+        { "type": "booking_site", "title": "水明館 プラン一覧（山水閣リニューアル和洋室・飛騨牛付き会席プラン） - KNT", "url": "https://yado.knt.co.jp/planlist/S210044/" },
+        { "type": "review_site", "title": "下呂温泉 水明館 口コミ（2026年3月投稿・客室水回り・エアコンへの指摘） - cocolocala", "url": "https://www.cocolocala.jp/hotels/14081" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-20-gero-sasara",
+      "name": "下呂温泉 紗々羅",
+      "region": "岐阜県下呂市（下呂温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル",
+          "score": 3.32,
+          "scale": 5,
+          "review_count": 22,
+          "checked_date": "2026-10-20",
+          "url": "https://4travel.jp/dm_hotel-10048482"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では部屋タイプ別の正確な1泊2食価格帯は確定できなかった。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "飛騨牛を含む会席料理や客室露天風呂、展望大浴場が評価されている。All Aboutの紹介記事では楽天トラベル平均評価4.0超えの施設として取り上げられていた。",
+      "target_audience": ["夫婦", "記念日", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 5,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 55,
+      "recommendation_reason": "飛騨牛会席・客室露天風呂という独自性はあるが、フォートラベルでは満足度3.32（22件）と件数が少なく評価も採用ライン4.0に届かない。楽天トラベル平均評価4.0超えという紹介記事はあったが具体的な件数を確認できず、独立2情報源での信頼確認（原則7）が不十分なため見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルでの満足度3.32（22件、下呂温泉77件中17位という記載あり）。具体的な低評価コメントの詳細はWeb検索の範囲では確認できなかったが、件数・評価自体が他候補に比べて見劣りする。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "下呂温泉 紗々羅 クチコミ（フォートラベル／満足度3.32・22件）", "url": "https://4travel.jp/dm_hotel-10048482" },
+        { "type": "other", "title": "下呂温泉 紗々羅 施設紹介（飛騨牛・楽天トラベル評価4.0超え） - All About", "url": "https://news.allabout.co.jp/articles/o/128631/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア55点で採用ライン（75点）に届かず、フォートラベルの評価3.32（22件）も採用ライン4.0未満のため見送った。"
+    },
+    {
+      "id": "2026-10-20-gero-ogawaya",
+      "name": "下呂温泉 小川屋",
+      "region": "岐阜県下呂市（下呂温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル",
+          "score": 3.81,
+          "scale": 5,
+          "review_count": 111,
+          "checked_date": "2026-10-20",
+          "url": "https://4travel.jp/dm_hotel-10048504"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な1泊2食価格帯は確定できなかった。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "飛騨牛やしいたけ料理を含む和懐石、和食バイキングの朝食が特徴。フォートラベルでは下呂温泉77件中ホテル満足度ランキング2位との記載があった。チェックインから検食までの接客対応を評価する声（ozmallでは5.00評価の口コミ）もあった。",
+      "target_audience": ["夫婦", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 10,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 65,
+      "recommendation_reason": "フォートラベル満足度3.81（111件）・食事3.56と、水明館に次ぐ候補として件数・内容ともに一定の信頼性があるが、主要レビュー評価が4.0未満で、総合スコアも65点と採用ライン（75点）に届かないため見送った。次点の比較候補として記録する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルで満足度3.81（111件）、食事3.56。重大な欠陥を示す具体的な低評価コメントはWeb検索の範囲では確認できなかったが、評価・件数ともに水明館より見劣りする。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "下呂温泉 小川屋 クチコミ（フォートラベル／満足度3.81・111件、食事3.56）", "url": "https://4travel.jp/dm_hotel-10048504" },
+        { "type": "other", "title": "下呂温泉 小川屋 施設紹介（飛騨牛・しいたけ料理・和食バイキング朝食） - All About", "url": "https://news.allabout.co.jp/articles/o/114196/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア65点で採用ライン（75点）に届かず、主要レビュー評価も3.81（フォートラベル111件）で4.0未満のため見送った。"
+    }
+  ],
+  "cycle_result": "選定: 下呂温泉 水明館（85点）。岐阜県下呂温泉のグルメ旅館カテゴリで3件を調査し、水明館がjcation4.5（634件）・るるぶトラベル4.2（264件）の2つの独立情報源で採用ライン（75点・主要レビュー4.0以上）を満たした。紗々羅（55点・フォートラベル3.32/22件）・小川屋（65点・フォートラベル3.81/111件）は評価・件数とも水明館に及ばず不採用。"
+}

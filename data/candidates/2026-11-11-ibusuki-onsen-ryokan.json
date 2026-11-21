@@ -1,0 +1,213 @@
+{
+  "cycle_date": "2026-11-11",
+  "theme": "温泉旅館（鹿児島県指宿市・指宿温泉エリア）",
+  "season_rationale": "指宿は冬でも温暖な気候だが、11月中旬は朝晩の冷え込みが増し始め、砂むし温泉や内湯・露天風呂の『あたたまる』価値が伝わりやすくなる時期。年末年始の記念日・温泉旅行の検討が始まるタイミングにも合う。",
+  "prior_posts_checked_note": "data/ captions/ 配下を『指宿』『いぶすき』で横断検索した（1ヶ月以上前のファイルを含む）。ヒットしたのは data/candidates/2026-10-19-ibusuki-view-hotel.json（絶景ホテル：指宿温泉 夫婦露天風呂の宿 吟松=selected／鹿児島 砂むし温泉 指宿白水館=shortlisted／指宿ロイヤルホテル=rejected／別邸 天降る丘=rejected）、data/candidates/2026-10-26-all-inclusive-ibusuki.json（オールインクルーシブ：指宿白水館／指宿ロイヤルホテル／指宿海上ホテルいずれもrejected）、captions/2026-10-19-ibusuki-ginsho.json（吟松のキャプション、公開済み）、および同日2026-11-11付の他カテゴリファイル data/candidates/2026-11-11-ibusuki-no-tamatebako.json（列車・船カテゴリ、JR九州「指宿のたまて箱」=selected。宿泊施設ではないため本サイクルと対象が重複しない）。本サイクルで調査した3施設（いぶすき秀水園／こらんの湯 錦江楼／休暇村 指宿）は、上記のいずれにも一度も登場していない新規施設であることを確認した。",
+  "research_limitation_note": "本セッションではWebFetchが4travel.jp・icotto.jp・travel.rakuten.co.jp・summer.walkerplus.com等、調査対象の個別サイトに対して名前解決エラー（getaddrinfo ENOTFOUND＝セッションのネットワーク許可外）で一貫して失敗し、公式サイト本文や口コミ個別ページを直接開くことができなかった。また本サイクルの後半でこのセッションのWeb検索呼び出し回数の上限に達したため、各施設についてじゃらんnet・楽天トラベルの総合評価・口コミ件数など、本来確認したかった数値の追加検索ができなかった。そのため本ファイルの情報はすべてWebSearchが返すスニペット要約経由の確認にとどまり、一部の評価値（特に『こらんの湯 錦江楼』のReluxの評価・件数）はスニペットの記述をそのまま引用したものであり、本セッションでは該当ページのURLが対象施設のものであることを一次ページ本文で直接確認できていない。Production移行時には、公式サイト・じゃらんnet・楽天トラベルへの直接アクセスで、最新の評価・口コミ件数・料金・空室状況を必ず再確認することを強く推奨する。",
+  "candidates": [
+    {
+      "id": "2026-11-11-ibusuki-koran-no-yu-kinkoro",
+      "name": "指宿温泉 こらんの湯 錦江楼",
+      "region": "鹿児島県指宿市（指宿温泉エリア。JR指宿枕崎線 宮ヶ浜駅から徒歩約10分）",
+      "category": "温泉旅館",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "Relux（レビュー総合点。本セッションではWebFetchがネットワーク制約により失敗したため、WebSearchのスニペット要約経由で確認した参考値。ページ本文での直接確認はできていない）",
+          "score": 4.2,
+          "scale": 5,
+          "review_count": 28,
+          "checked_date": "2026-11-11",
+          "url": "https://rlx.jp/22641/review/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Trip.com掲載情報では、露天風呂付き客室を含むプランの最安値表示が13,999円〜（1名あたり、時期・部屋タイプにより変動）と確認できたが、一泊二食の正確な統一料金帯は本セッションでは確認できなかった。日帰り入浴は大人660円・子供330円（平日15:00〜21:00、土日祝13:00〜21:00、最終入場20:00）という情報も確認できた。",
+        "as_of_search_date": "2026-11-11",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "自家源泉を持ち、源泉かけ流しで美肌成分メタケイ酸を基準の6倍超含むとされる『指宿随一の美肌の湯』が最大の特徴。客室の一部に露天風呂付き和室があり、カップル・夫婦が二人だけの湯あみを楽しめる。砂むし温泉施設までの無料送迎があるという口コミもあり、砂むし体験と組み合わせやすい。指宿温泉エリアの中では知名度・口コミ件数ともに大きくなく、SNSでの話題性も本セッションでは確認できなかったが、自家源泉ならではの泉質の独自性と客室露天風呂という『人に伝える価値』のある要素を持つ。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 9,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 8,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 76,
+      "recommendation_reason": "Relux（4.2／28件）という独立情報源で、主要レビュー4.0以上の基準を満たした（原則6）。自家源泉で美肌成分メタケイ酸を基準の6倍超含むとされる泉質の独自性、露天風呂付き客室でのプライベートな湯あみ、砂むし温泉施設への無料送迎といった体験価値を評価した。一方で、口コミ件数・SNS話題性は指宿エリアの有名宿（吟松・白水館等）と比べて小さく、本セッションでは公式サイトや複数の大規模レビューサイトでの数値を直接確認できなかったため、知名度・検証の厚みの面では十分な裏付けとは言えない。これらの事情を踏まえ、口コミ数・知名度は小さいが独自性と伝える価値がある宿として、原則8（Hidden Gemルール）の対象とし、is_hidden_gem=trueとして選定する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの個別口コミ（アグリゲートではなく個別投稿単位）では、2021年投稿で3.5点（砂むし施設までの無料送迎や食事の満足度を評価）、2022年投稿で4.0点（リゾート感・ゆっくりとした時間の流れを評価）という内容を確認した。重大な衛生・安全上の指摘、営業休止・施設トラブルの情報は本セッションでは見当たらなかった。ただし本セッションではWebFetchがネットワーク制約により4travel.jp等の個別口コミページを直接開けず、アグリゲート評価・総口コミ件数は確認できていない点、Reluxの評価・件数についても対象施設のページであることをページ本文で直接確認できていない点は正直に記載する。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "本セッションのWebSearchでは、こらんの湯 錦江楼の設計者・運営者・創業者個人が、開業の経緯や改修方針、経営・温泉への思いをどのように語っているかを示す一次インタビュー記事や、公式サイトの『ごあいさつ』にあたるページ本文は見つけられなかった。確認できたのは、宿の自家源泉が『美肌成分メタケイ酸を基準の6倍超含む』『指宿随一の美肌の湯』であるという施設紹介的な記述（旅行情報サイト・予約サイト経由の二次情報）のみであり、これが宿自身の公式サイトの文言そのものか、誰の言葉として語られたものかは、本セッションでは一次ページ本文を直接確認できなかったため特定できていない。また、本セッションではWebFetchがネットワーク制約（4travel.jp・icotto.jp等への接続不可）により宿の公式サイト本文を直接確認できず、WebSearchのスニペット経由の情報にとどまる。したがって、創業・改修の経緯や運営者個人の思いの詳細については『出典で確認できなかった』こととし、推測や発言の創作は行っていない。Production移行時には、公式サイトへの直接アクセスまたは電話確認での再調査を推奨する。",
+        "sources": []
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "こらんの湯 錦江楼 レビュー - Relux",
+          "url": "https://rlx.jp/22641/review/"
+        },
+        {
+          "type": "other",
+          "title": "指宿温泉 こらんの湯 錦江楼 - icotto（施設紹介・客室露天風呂の案内）",
+          "url": "https://icotto.jp/hotels/389"
+        },
+        {
+          "type": "booking_site",
+          "title": "こらんの湯 錦江楼 - じゃらんnet",
+          "url": "https://www.jalan.net/yad361122/"
+        },
+        {
+          "type": "booking_site",
+          "title": "こらんの湯 錦江楼 - 一休.com",
+          "url": "https://www.ikyu.com/00030819/"
+        },
+        {
+          "type": "other",
+          "title": "koran no yu kinkouro - Trip.com（客室タイプ・料金表示）",
+          "url": "https://jp.trip.com/hotels/ibusuki-hotel-detail-1648870/koran-no-yu-kinkouro/"
+        }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-11-11-ibusuki-kyukamura",
+      "name": "指宿温泉 休暇村 指宿",
+      "region": "鹿児島県指宿市（指宿温泉エリア。JR指宿駅から送迎あり、要事前予約）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "ニフティ温泉（施設クチコミ）",
+          "score": 4.2,
+          "scale": 5,
+          "review_count": 4,
+          "checked_date": "2026-11-11",
+          "url": "https://onsen.nifty.com/ibusuki-onsen/onsen004842/kuchikomi/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "日帰り入浴は大人550円・小学生330円、館内の砂むし温泉『癒砂（ゆさ）』は大人1,800円・小学生900円（びわの葉入りは+100円）、貸切半露天風呂『癒湯（ゆゆ）』は45分2,200〜2,500円（情報源により差があり事前予約制）という情報を確認した。一泊二食の宿泊料金は本セッションでは正確な数値を確認できなかった。",
+        "as_of_search_date": "2026-11-11",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "ホテル内で砂むし温泉『癒砂』を体験できる公共の宿（国民休暇村）。2023年11月のプレスリリースにより、貸切半露天風呂『癒湯』がリニューアルされ、入浴付き宿泊プランの販売が開始されたことを確認した。全室オーシャンビューを基調とし、鹿児島産うなぎや黒牛溶岩焼しゃぶを使ったハーフバイキング型の夕食プランもある。",
+      "target_audience": ["家族", "友人", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 4,
+        "unique_experience_score": 15,
+        "photogenic": 11,
+        "value_for_price": 7,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 66,
+      "recommendation_reason": "ニフティ温泉4.2点は4.0以上だが、口コミ件数が4件と非常に少なく信頼性が低い。icotto（家族旅行の口コミで4.5点）・cocolocala（2026年投稿で5.0点と4.0点の個別評価）等でも好意的な言及はあったが、いずれも集計件数が確認できない個別投稿にとどまり、独立した大規模レビューサイトでの数値確認（原則7）ができなかった。2023年の貸切半露天風呂リニューアルという最新性はあるが、総合score66点は採用ライン（75点）に届かないため、今回のサイクルでは選定を見送り、次回サイクルでじゃらんnet・楽天トラベル等の数値を追加確認した上での再検討候補として記録する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "cocolocalaの口コミでは、近くにコンビニがない、部屋が暑くエアコンで冷えるまで時間がかかったという指摘があった。重大な衛生・安全上の懸念や営業休止の情報は見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "指宿温泉 休暇村 指宿の温泉情報・口コミ - ニフティ温泉",
+          "url": "https://onsen.nifty.com/ibusuki-onsen/onsen004842/kuchikomi/"
+        },
+        {
+          "type": "press",
+          "title": "休暇村指宿 貸切半露天風呂「癒湯」リニューアルのお知らせ - 休暇村協会プレスリリース",
+          "url": "https://www.qkamura.or.jp/qkamura/data/press_data/pdf/press_pdf_1_20240408_134312.pdf"
+        },
+        {
+          "type": "booking_site",
+          "title": "休暇村 指宿 - じゃらんnet",
+          "url": "https://www.jalan.net/yad304520/"
+        },
+        {
+          "type": "other",
+          "title": "指宿温泉 休暇村 指宿 - icotto",
+          "url": "https://icotto.jp/hotels/390"
+        }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-11-11-ibusuki-shusuien",
+      "name": "いぶすき秀水園",
+      "region": "鹿児島県指宿市湯の浜5-27-27（指宿温泉エリア。JR指宿駅から送迎車で約5分、要事前連絡）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル（施設クチコミ）",
+          "score": 3.49,
+          "scale": 5,
+          "review_count": 49,
+          "checked_date": "2026-11-11",
+          "url": "https://4travel.jp/dm_hotel-10053243"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "KNT予約ページでは『島津の棟 和室 和食会席』等10プラン・37タイプの掲載が確認できたが、具体的な料金（1名あたりの代金）は本セッションでは確認できなかった。",
+        "as_of_search_date": "2026-11-11",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "『プロが選ぶ日本のホテル・旅館100選』の料理部門で長年連続1位を受賞している会席料理が最大の売り。大浴場『秀水の湯』はナトリウム・塩化物泉（源泉60℃を加水）で、天然砂むし温泉『砂楽』へは徒歩約3〜5分の立地。",
+      "target_audience": ["夫婦", "記念日", "グルメ旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 17.5,
+        "review_reliability": 8,
+        "unique_experience_score": 17,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 68.5,
+      "recommendation_reason": "『日本のホテル・旅館100選』料理部門での長年連続1位という強い独自性・知名度があり、るるぶトラベル総合4.8・JTBアンケート総合88点など一部サイトでは非常に高評価だが、本セッションで口コミ件数を確認できた唯一の独立情報源であるフォートラベル（3.49・49件）は主要レビュー4.0未満であり、原則6（4.0未満は原則不採用）に該当する。このため、cocolocala・jcation等の最近の口コミで『料理が多すぎる』『一部野菜が生焼け』『温泉階へのエレベーターがない』といった指摘が複数見られる点も踏まえ、今回のサイクルでは不採用とする。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icotto（2023年6月投稿、2.5点）で『料理を売りにしているが実際はそうでもなかった』『野菜の炊き合わせの火の通りが不十分』という指摘、jcation（2025年投稿）で『温泉階までエレベーターがない』『部屋のエアコンを調整できない』という指摘を確認した。重大な衛生・安全上の指摘ではないが、料理面・設備面で複数の独立した口コミに共通する不満点があり、料理部門の受賞歴という強みと矛盾する評価のばらつきが見られた。また、受賞の連続年数がサイトにより34年・39年・40年と表記が一致しておらず、一部情報の鮮度・一貫性に疑問が残る。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "いぶすき秀水園 公式サイト",
+          "url": "http://www.syusuien.co.jp"
+        },
+        {
+          "type": "review_site",
+          "title": "いぶすき秀水園のクチコミ情報 - フォートラベル",
+          "url": "https://4travel.jp/dm_hotel-10053243"
+        },
+        {
+          "type": "booking_site",
+          "title": "いぶすき 秀水園のご紹介・プラン一覧 - KNT（近畿日本ツーリスト）",
+          "url": "https://www.knt.co.jp/highclass/yado/planlist/S460031/"
+        },
+        {
+          "type": "other",
+          "title": "いぶすき秀水園 口コミ（2025年投稿含む） - jcation",
+          "url": "https://jcation.com/hotel/detail-4082/"
+        },
+        {
+          "type": "other",
+          "title": "いぶすき秀水園 お客様アンケート評価 - JTB",
+          "url": "https://www.jtb.co.jp/kokunai-hotel/htl/8621006/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数を確認できた唯一の独立情報源（フォートラベル3.49・49件）が主要レビュー4.0未満であり、原則6に基づき不採用。料理部門での受賞歴という強い独自性はあるが、複数の最近の口コミで料理・設備面の具体的な不満が確認できたこと、受賞連続年数の表記が情報源間で一致していないことも踏まえ、現時点では選定を見送る。"
+    }
+  ]
+}

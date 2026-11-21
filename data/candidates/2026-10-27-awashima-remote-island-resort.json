@@ -1,0 +1,158 @@
+{
+  "cycle_date": "2026-10-27",
+  "theme": "離島リゾート（新潟県岩船郡粟島浦村・粟島）の新規調査",
+  "season_rationale": "離島リゾートカテゴリでは佐渡・隠岐（2026-10-20、隠岐Entôが82点でselected）、宮古島・対馬（2026-10-22）、屋久島・甑島（2026-10-23）、壱岐（2026-10-24）、礁文島（2026-10-25）、八丈島（2026-10-26）と、いずれも正式なリゾートホテルを持つ島を調査してきた。本サイクルは同じ新潟県内だが佐渡・隠岐とは別の離島である粟島を対象とした。粟島は村上市・岩船港から高速船55分／フェリー90〜105分で渡る人口300人台（約338人、内浦・釜谷の2集落）の極小離島で、島内に正式ホテルはなく、約20軒の家族経営の民宿（多くが漁家民宿）のみという、これまで調査した離島リゾートとは対照的な『民宿のみの超小規模離島』という切り口を持つ。東海岸・内浦の朝日、西海岸・釜谷の夕日、わっぱ煮などの郷土料理、サイクリングや穴釣り体験が特徴で、本リポジトリで一度も取り上げていない完全新規の地域。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-26-hachijojima-remote-island-resort", "region": "東京都八丈島", "category": "離島リゾート", "note": "リードパークリゾート八丈島が77点でselected。粟島とは別地域・別島で重複なし。" },
+    { "post_id": "2026-10-25-rebun-island-resort", "region": "北海道礁文島", "category": "離島リゾート", "note": "花れぶんが採用。粟島とは無関係。" },
+    { "post_id": "2026-10-24-iki-island-resort", "region": "長崎県壱岐島", "category": "離島リゾート", "note": "平山旅館が79点でselected。粟島とは無関係。" },
+    { "post_id": "2026-10-23-yakushima-remote-island-resort-recheck", "region": "鹿児島県屋久島", "category": "離島リゾート", "note": "Samana Hotel Yakushimaが77点でselected。" },
+    { "post_id": "2026-10-23-koshikishima-remote-island-resort", "region": "鹿児島県甑島", "category": "離島リゾート", "note": "候補3件すべて不採用。" },
+    { "post_id": "2026-10-22-miyakojima-remote-island-resort-recheck2", "region": "沖縄県宮古島市下地島", "category": "離島リゾート", "note": "シギラミラージュが81点でselected。" },
+    { "post_id": "2026-10-22-tsushima-remote-island-resort", "region": "長崎県対馬市", "category": "離島リゾート", "note": "候補3件すべて不採用。" },
+    { "post_id": "2026-10-20-sado-oki-resort", "region": "新潟県佐渡島／島根県隠岐諸島", "category": "離島リゾート", "note": "隠岐のEntôが82点でselected。同じ新潟県だが佐渡島であり、粟島とは別の島。" }
+  ],
+  "duplication_note": "data/candidates・captions配下の全件（2026-09-14〜2026-10-26、1ヶ月以上前を含む）を『粟島』『あわしま』『awashima』で検索・確認した結果、本サイクル以前に粟島（新潟県岩船郡粟島浦村）を対象とした候補・投稿は一件も存在せず、地域・施設とも完全に新規であることを確認した。離島リゾートカテゴリ自体は佐渡・隠岐・宮古島・対馬・屋久島・甑島・壱岐・礁文島・八丈島と継続調査しているが、いずれも粟島とは別の島であり重複にはあたらない。",
+  "candidates": [
+    {
+      "id": "2026-10-27-masuya-awashima",
+      "name": "民宿ますや",
+      "region": "新潟県岩船郡粟島浦村内浦112（粟島・内浦地区、内浦港から近い立地）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "主要な口コミ・予約サイト（フォートラベル粟島浦村エリア宿一覧ほか）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-27",
+          "url": "https://4travel.jp/dm_hotel_list-kuchoson-agurijima.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "民宿ますや自体の具体的な宿泊料金は検索では確認できなかった。同じ粟島の他の家族経営民宿（民宿与平・民宿源左エ門）では1泊2食付8,800円（税込・大人1名）という例があり、参考値として近い水準と推測されるが、ますや自体の料金として断定はできない。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "かつて女将が切り盛りし常連客に愛された民宿だったが、女将が亡くなった後に一度営業が難しくなり、息子の本保正義さんが2024年夏、高校時代の親友を頼って営業を再開させた『再生の宿』。内浦港から近く、サイクリングと穴釣り体験を組み合わせた島旅の拠点として新潟県観光協会の公式ブログ（2025年7月、16,727ビュー）で紹介されている。",
+      "renewal_or_news": "2024年夏に営業を再開し、2025年7月時点の新潟県観光協会公式ブログで『温かい思い出と共に再生した宿』として紹介されている。このセッションのWebSearchでは、フォートラベル上では2026-10-27時点でも口コミ投稿が確認できず(0件)、楽天トラベル・じゃらん・Yahoo!トラベル・一休.com等の主要OTAへの掲載も確認できなかった。",
+      "target_audience": ["家族", "友人", "一人旅", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 3,
+        "review_reliability": 2,
+        "unique_experience_score": 14,
+        "photogenic": 9,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 43,
+      "recommendation_reason": "再開の経緯（女将の死去後、息子が高校時代の友人を頼って2024年に再生）という物語性と、サイクリング・穴釣り体験という体験価値は新潟県観光協会公式ブログ（独立した一次的な観光協会発信）で確認でき、Hidden Gemとしての魅力はある。しかし主要な口コミ・予約プラットフォーム（フォートラベル・楽天トラベル・じゃらん等）のいずれにも数値化された評価が一件も見つからず、独立した2情報源での評価4.0以上確認ができないため、現サイクルの採用基準（75点・主要レビュー4.0以上・独立2情報源）を満たさない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの粟島浦村エリア宿一覧ページを含む複数の口コミ・予約サイトを確認したが、民宿ますやに対する投稿済みの口コミは2026-10-27時点で見つからず（0件）、衛生・安全上の指摘を含む負のレビューも確認されなかった。ただし『口コミが無い＝ネガティブ情報が無い』だけであり、独立した評価による裏付けができていない点は別途の制約として扱う。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "『ただいま』と言える新潟の離島『粟島』へ。民宿『ますや』と巡る大人の島旅 - 新潟県観光協会公式ブログ（2025年7月23日・16,727ビュー）", "url": "https://niigata-kankou.or.jp/blog/detail_1322.html" },
+        { "type": "review_site", "title": "フォートラベル 粟島浦村（村上・岩船エリア）宿一覧 - 評価未投稿の施設が多数（民宿ますや含む）", "url": "https://4travel.jp/dm_hotel_list-kuchoson-agurijima.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "物語性・体験価値はあるが、主要な口コミ・予約サイトに数値評価が一件も存在せず、独立2情報源での4.0以上確認ができないため、score43点で採用ライン（75点）に届かない。"
+    },
+    {
+      "id": "2026-10-27-tosa-awashima",
+      "name": "民宿渡佐",
+      "region": "新潟県岩船郡粟島浦村（粟島）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "主要な口コミ・予約サイト（フォートラベル・楽天トラベル・じゃらん等を検索したが掲載ページ自体が見つからなかった）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-27",
+          "url": "https://4travel.jp/dm_hotel_list-kuchoson-agurijima.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な宿泊料金は検索では確認できなかった。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2代目当主がその日の朝に獲った魚を使った『わっぱ煮プラン』（焼いた石を汁に入れて煮る、浜の漁師のまかない料理が起源とされる郷土料理）が人気の民宿。島の海産物・農産物・民芸品（島の在来大豆を使った菓子シリーズが人気商品）を扱う直売所も併設し、レンタサイクルで島を一周する旅の拠点としても新潟県観光協会公式ブログで紹介されている。",
+      "target_audience": ["グルメ旅", "友人", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 1,
+        "review_reliability": 1,
+        "unique_experience_score": 13,
+        "photogenic": 7,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 32,
+      "recommendation_reason": "『その日の朝に獲れた魚のわっぱ煮』という独自の郷土料理体験と直売所運営は新潟県観光協会の2つの独立した公式記事（コース紹介記事・ブログ記事）で確認でき、独自性はある。しかしフォートラベル・楽天トラベル・じゃらんなど主要な口コミ・予約サイトのいずれにも施設ページ自体が見つからず、数値評価による検証が一切できないため、現サイクルの採用基準を満たさない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "主要な口コミ・予約サイトに施設ページが見つからず、負の口コミも確認されなかった（投稿自体が存在しない状態）。衛生・安全上の指摘は確認されていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "村上新発田エリアの方言に親しむ旅へ〜新潟の音を探しに〜（民宿渡佐『わっぱ煮プラン』紹介） - 新潟県観光協会公式サイト", "url": "https://niigata-kankou.or.jp/course/44727" },
+        { "type": "official", "title": "レンタサイクルで、粟島の絶景を見ながら島内を一周（民宿渡佐の直売所紹介） - 新潟県観光協会公式ブログ", "url": "https://niigata-kankou.or.jp/blog/detail_398.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "わっぱ煮・直売所という独自性はあるが、主要な口コミ・予約サイトに施設ページ自体が確認できず数値評価による独立2情報源での検証ができないため、score32点で採用ラインに届かない。"
+    },
+    {
+      "id": "2026-10-27-yohei-awashima",
+      "name": "民宿与平",
+      "region": "新潟県岩船郡粟島浦村内浦（粟島）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "主要な口コミ・予約サイト（フォートラベル・楽天トラベル・じゃらん等を検索したが掲載ページ自体が見つからなかった）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-27",
+          "url": "https://4travel.jp/dm_hotel_list-kuchoson-agurijima.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "新潟県公式ページ（2025年2月25日更新）によると1泊2食付8,800円（税込・大人1名）。和室4室・定員20名、タオル・洗濯機の設備ありと記載されている。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "家族経営の素朴な民宿で、小学生以下を対象とした魚捕り体験がある。島の暮らしに触れられる人情味のある宿として新潟県の農家民宿紹介ページで案内されている。",
+      "target_audience": ["家族", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 1,
+        "review_reliability": 1,
+        "unique_experience_score": 10,
+        "photogenic": 6,
+        "value_for_price": 6,
+        "sns_buzz": 1,
+        "access_and_freshness": 3
+      },
+      "score": 28,
+      "recommendation_reason": "子供向けの魚捕り体験や家族的な宿の雰囲気は新潟県公式ページで確認できる一方、情報源が実質1系統（県の農家民宿紹介ページ）のみで、主要な口コミ・予約サイトでの掲載・評価が一切確認できず、独立2情報源での検証ができない。離島リゾートとしての写真映え・独自体験の強さも他候補に比べて限定的。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "主要な口コミ・予約サイトに施設ページが見つからず、負の口コミも確認されなかった（投稿自体が存在しない状態）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "民宿与平（農家民宿・魚捕り体験・1泊2食8,800円） - 新潟県公式ページ（2025年2月25日更新）", "url": "https://www.pref.niigata.lg.jp/green2rhythm/370135.html" },
+        { "type": "review_site", "title": "フォートラベル 粟島浦村（村上・岩船エリア）宿一覧 - 民宿与平の掲載・口コミは確認できず", "url": "https://4travel.jp/dm_hotel_list-kuchoson-agurijima.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "県公式ページ以外に独立した情報源・評価が確認できず、独立2情報源での4.0以上確認ができないこと、写真映え・独自体験の強さも限定的であることから、score28点で採用ラインに届かない。"
+    }
+  ],
+  "cycle_conclusion": "新潟県粟島浦村・粟島を対象に離島リゾートカテゴリで3件（民宿ますや、民宿渡佐、民宿与平）を調査・採点した。粟島は人口300人台で正式ホテルを持たない超小規模離島で、約20軒の家族経営民宿が中心という、これまで調査した離島リゾート（大型リゾートホテルのある島）とは対照的な地域だった。民宿ますやは再生の物語とサイクリング・穴釣り体験という魅力があり新潟県観光協会公式ブログでの紹介も確認できたが43点、民宿渡佐はわっぱ煮・直売所という独自性があるが32点、民宿与平は家族向けの素朴な魅力があるが28点で、いずれも主要な口コミ・予約サイト（フォートラベル・楽天トラベル・じゃらん・Yahoo!トラベル・一休.com等）に数値化された評価が実質存在せず、独立2情報源での4.0以上確認という本サイクルの採用基準を満たせなかった。3件とも不採用のため、captions/配下の新規作成は行わない。粟島は公的な観光協会・自治体の発信は確認できる一方でオンライン上の口コミ基盤が極めて薄いHidden Gem候補地であり、将来的に民宿側のオンライン予約・口コミ掲載が進んだ段階、または夏季（6〜8月の最盛期）の最新営業状況・料金を宿に直接確認できた段階で再調査する価値がある。"
+}

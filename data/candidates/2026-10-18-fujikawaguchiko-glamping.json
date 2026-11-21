@@ -1,0 +1,146 @@
+{
+  "cycle_date": "2026-10-18",
+  "theme": "山梨県富士吉田市・富士河口湖町エリアのグランピング施設（再調査）",
+  "season_rationale": "本サイクルは同日実施済みの『長野県茅野市蓼科高原のグランピング』調査（data/candidates/2026-10-18-tateshina-glamping.json、該当なし）の再調査として、指示されたテーマ（カテゴリ『グランピング』）を保ちつつ地域を富士吉田市・富士河口湖町エリアに変更して実施。10月下旬の富士北麓は紅葉が見頃を迎え、空気が澄んで富士山がよく見える時期にあたり、焚き火・クラウドテラスなど屋外体験を伴うグランピングが『秋の特別感』を出しやすい季節（原則30）。実際に対象施設では2026年9月11日〜12月2日の期間限定で秋季グランピングプログラムが展開されており、本サイクル時点（10/18）はちょうどその提供期間内。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-18-tateshina-glamping", "region": "長野県茅野市蓼科高原", "category": "グランピング（該当なし／不採用）" },
+    { "post_id": "2026-10-18-qua-hotel-isawa-kenkoland", "region": "山梨県笛吹市石和町（石和温泉）", "category": "サウナ" },
+    { "post_id": "2026-10-18-yamanokami-yukaen", "region": "岩手県花巻市（花巻温泉郷）", "category": "温泉旅館" },
+    { "post_id": "2026-10-18-nara-hotel", "region": "奈良県奈良市高畑町", "category": "文化体験" },
+    { "post_id": "2026-10-18-miyajima-seaside-hotel", "region": "広島県廿日市市宮島町", "category": "絶景ホテル" },
+    { "post_id": "2026-10-18-kurobe-gorge-torokko", "region": "富山県黒部市（黒部峡谷）", "category": "列車・船" },
+    { "post_id": "2026-10-18-kaike-shogetsu", "region": "鳥取県米子市皆生温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-18-goto-retreat-ray", "region": "長崎県五島市（福江島）", "category": "離島リゾート" },
+    { "post_id": "2026-10-17-shirahama-glamping / captions/2026-10-17-luanapark-shirahama", "region": "和歌山県西牟婁郡白浜町", "category": "グランピング" },
+    { "post_id": "2026-09-22-hokkaido-glamping / captions/2026-09-22-north-glamper-furano", "region": "北海道富良野市", "category": "グランピング" },
+    { "post_id": "2026-09-18-fujinomiya-glamping / captions/2026-09-18-satoyama-vacation-fujinomiya", "region": "静岡県富士宮市", "category": "グランピング" },
+    { "post_id": "2026-09-14-glamping / captions/2026-09-14-lanature-glamping", "region": "栃木県佐野市", "category": "グランピング" }
+  ],
+  "duplication_note": "既存の `data/candidates/`・`captions/`・`posts/` を確認した結果、山梨県富士吉田市・富士河口湖町エリア（河口湖・富士北麓）を対象にした既存の候補・投稿は確認できなかった（`grep -r 河口湖|富士吉田|星のや富士` で既存ヒットなし）。唯一の近似ヒットは `captions/2026-09-14-hoshinoya-kyoto.json`（星のや京都＝京都府嵐山、別施設・別ブランド拠点・別地域）および `data/candidates/2026-09-14-bunka-taiken.json` 内の同候補データで、いずれも本候補『星のや富士』とは施設・地域ともに異なるため重複に該当しない。既存グランピング4件（佐野市・富士宮市・富良野市・白浜町）、同日調査済みの蓼科高原（該当なし）とも地域が異なる。サウナカテゴリで石和温泉（山梨県笛吹市）の候補が同日に存在するが、カテゴリ・地域（石和温泉と河口湖町は同一県内だが別エリア）ともに異なるため重複とはしない。",
+  "research_note": "富士吉田市・富士河口湖町エリアのグランピング系施設として『星のや富士』（富士河口湖町）、『セルフINNグランピングトレーラー ツーリストヴィラ河口湖』（富士河口湖町）、『PICA富士西湖』（富士河口湖町）の3件を調査した。このセッションのネットワーク環境では楽天トラベル（travel.rakuten.co.jp）・じゃらん（jalan.net）・なっぷ（nap-camp.com）・いこーよ（iko-yo.net）・jcation（jcation.com）・ふるなび（furunavi.jp）への直接WebFetchはすべてEGRESS_BLOCKED（DNS解決不可）となったため、各サイトの数値評価・口コミ件数はWebSearchのスニペットから取得した（原則運用の注記どおり、情報源として明記のうえ採用）。星のや富士はjcation（Expedia系口コミ集計、352件・4.8）とふるなび（ふるさと納税の宿泊ギフト券レビュー、24件・4.6）という2つの独立した数値情報源で推奨ライン4.2以上を確認できた一方、いこーよ（1件・3.7）は件数が少なすぎるため参考情報にとどめ採点には使用していない。セルフINNグランピングトレーラー ツーリストヴィラ河口湖はjcation（53件・4.7）とskyticket（121件・4.8）の2情報源で高評価だったが、写真と実物の相違を指摘する1.0点の口コミ（cocolocala.jp掲載）や備品不足の指摘があり、かつ『ここでしかできない体験』の独自性が星のや富士に比べて弱いため総合スコアは75点に届かなかった。PICA富士西湖はフォートラベル（10件・3.24、富士五湖エリア658軒中49位）が主要レビューサイト評価4.0未満のため原則6を満たさず不採用とした。",
+  "candidates": [
+    {
+      "id": "2026-10-18-hoshinoya-fuji",
+      "name": "星のや富士",
+      "region": "山梨県南都留郡富士河口湖町大石（河口湖畔）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "jcation（Expedia系口コミ集計）", "score": 4.8, "scale": 5, "review_count": 352, "checked_date": "2026-10-18", "url": "https://jcation.com/hotel/detail-7867/" },
+        { "source": "ふるなび（星のや富士 宿泊ギフト券の返礼品レビュー）", "score": 4.6, "scale": 5, "review_count": 24, "checked_date": "2026-10-18", "url": "https://furunavi.jp/review_list.aspx?pid=239716" }
+      ],
+      "price_range_jpy": {
+        "note": "2015年の星野リゾート日本初グランピングリゾートとして開業。具体的な2026年時点の宿泊料金はこのセッションのWebSearchでは確認できなかったが、星野リゾート『星のや』ブランドの中でも上位価格帯に位置する高級グランピングとして知られる。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "河口湖畔の山腹に広がる約6ヘクタールの敷地に、富士山と河口湖を望むキャビンエリアと、松林の中に設けられた『クラウドテラス』エリアを配置。クラウドテラスでは焚き火を囲みながら過ごせる滞在プランが用意され、2026年9月11日〜12月2日は『秋の森 グランピング滞在』として、月見ラウンジや木の実・キノコを探すディスカバーウォークなど秋限定の体験を提供中。宿泊に必要な道具一式が入ったリュックを1人1個選べる仕組みで、キャンプ経験がなくても本格的なグランピングを体験できる点が強み。",
+      "target_audience": ["カップル", "記念日", "夫婦", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 11,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 5,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 81,
+      "recommendation_reason": "jcation（Expedia系集計、352件・4.8）とふるなび（ふるさと納税レビュー、24件・4.6）という2つの独立した数値情報源で推奨ライン4.2以上（5点換算）を確認。星野リゾートが『日本初のグランピングリゾート』と位置づける施設で、富士山・河口湖を望むキャビンと松林のクラウドテラスという唯一無二の立地、焚き火を囲む滞在体験は『ここでしかできない』価値が明確。2026年9月11日〜12月2日の『秋の森 グランピング滞在』が本サイクル時点（10/18）でちょうど提供中であり季節性も合致する。さらに『Hotel & Lodge Awards 2026』で世界の100 Finalistsに選出されたという話題性も確認できた。なお、いこーよ（1件・3.7）は口コミ件数が少なすぎるため参考情報にとどめ、具体的な宿泊料金が未確認であることから価格対体験価値の配点は保守的にとどめた。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本施設単独に対する具体的な低評価レビューはこのセッションのWebSearchでは確認できなかった。星野リゾート全体を論じる記事（ビジネスジャーナル）では『星野リゾートは低品質という誤解』とのタイトルで一部に不満を持つ利用者がいる旨の言及があるが、取り上げられているのは別施設（リゾナーレ熱海等）の事例であり、星のや富士固有の重大な問題指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "星のや富士【公式】| HOSHINOYA Fuji", "url": "https://hoshinoresorts.com/ja/hotels/hoshinoyafuji/" },
+        { "type": "press", "title": "【星のや富士】'秋澄む'森に没入。富士北麓で自然の心地よさに浸る「秋の森 グランピング滞在」を提案", "url": "https://prtimes.jp/main/html/rd/p/000002283.000033064.html" },
+        { "type": "other", "title": "星のや富士 - jcation（口コミ352件・総合4.8、Expedia系集計）", "url": "https://jcation.com/hotel/detail-7867/" },
+        { "type": "other", "title": "星のや富士 宿泊ギフト券 レビュー一覧 - ふるなび（24件・総合4.6）", "url": "https://furunavi.jp/review_list.aspx?pid=239716" },
+        { "type": "other", "title": "星のや富士 - いこーよ（施設概要・口コミ1件）", "url": "https://iko-yo.net/facilities/27073" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-18-self-inn-glamping-trailer-tourist-villa-kawaguchiko",
+      "name": "セルフINNグランピングトレーラー ツーリストヴィラ河口湖",
+      "region": "山梨県南都留郡富士河口湖町小立",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "jcation", "score": 4.7, "scale": 5, "review_count": 53, "checked_date": "2026-10-18", "url": "https://jcation.com/hotel/detail-15255/" },
+        { "source": "skyticket", "score": 4.8, "scale": 5, "review_count": 121, "checked_date": "2026-10-18", "url": "https://skyticket.jp/hotel/detail/property_1076661/" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な宿泊料金はこのセッションのWebSearchでは確認できなかった。トレーラー型グランピング15棟・1棟貸切で、BBQ利用料（清掃代含む）は別途必要という施設側の口コミ返信が確認できた。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "河口湖駅からタクシーで約10分、中央自動車道河口湖IC・富士吉田ICから約10分の立地に、トレーラー型グランピング15棟を配置。受付スタッフとの接触がない『セルフIN』方式で、各棟に簡易キッチン・冷蔵庫・コンロを備え、ハンモックやテントの持ち込みも可能。1棟貸切でBBQができる点が特徴。",
+      "target_audience": ["家族", "友人", "カップル"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 10,
+        "unique_experience_score": 12,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 69,
+      "recommendation_reason": "jcation（53件・4.7）とskyticket（121件・4.8）の2つの独立情報源で推奨ライン4.2以上を確認でき、アクセスの良さと『セルフINによる非接触』『トレーラー1棟貸切BBQ』という使いやすさは評価できる。しかし星のや富士と比較すると『ここでしかできない』独自性が弱く、写真と実物の相違を指摘する低評価口コミ（cocolocala.jp、1.0点）や備品不足の指摘があり、価格対体験価値・SNS話題性の配点も伸び悩んだ結果、総合スコアは69点で採用ライン（75点）に届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "cocolocala.jp掲載の口コミに『写真詐欺もいいとこ なんも見えない住宅街にあるコンテナに寝ることになります』という1.0点の投稿があり、掲載写真と実際の景観の印象差を指摘している（同ページには5.0点の投稿も複数あり、評価は分散）。また別の口コミでは備え付けのコップが2個のみで人数分なかったという不満、2023年の口コミには施設側から『BBQの利用料（清掃代含）は別途かかる』との返信があった。安全・衛生面の重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "セルフINNグランピングトレーラー ツーリストヴィラ河口湖 - jcation（53件・総合4.7）", "url": "https://jcation.com/hotel/detail-15255/" },
+        { "type": "booking_site", "title": "セルフINNグランピングトレーラー ツーリストヴィラ河口湖 - skyticket（121件・総合4.8）", "url": "https://skyticket.jp/hotel/detail/property_1076661/" },
+        { "type": "other", "title": "セルフINNグランピングトレーラー ツーリストヴィラ河口湖 - cocolocala（口コミ・施設側返信）", "url": "https://www.cocolocala.jp/hotels/207790" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価自体は2情報源とも4.2以上で原則7・6の数値基準は満たすが、独自性（unique_experience）が弱く、写真と実物の相違を指摘する低評価口コミや備品不足の指摘を踏まえて各項目を採点した結果、総合スコアが69点で採用ライン75点に届かないため不採用。"
+    },
+    {
+      "id": "2026-10-18-pica-fuji-saiko",
+      "name": "PICA富士西湖",
+      "region": "山梨県南都留郡富士河口湖町西湖（西湖畔）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.24, "scale": 5, "review_count": 10, "checked_date": "2026-10-18", "url": "https://4travel.jp/dm_hotel-10046337" },
+        { "source": "jcation", "score": 4.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-18", "url": "https://jcation.com/hotel/detail-6286/" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な宿泊料金はこのセッションのWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "西湖畔に位置する老舗グランピング施設ブランド『PICA』の一施設。湖畔・森に囲まれたロケーションでカヌー等のアクティビティとグランピングを組み合わせられる点が特徴として紹介されている。",
+      "target_audience": ["家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 5,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 56,
+      "recommendation_reason": "フォートラベルの口コミ（10件・3.24、富士五湖エリア658軒中49位）が主要レビューサイト評価として確認できた唯一の相対的に件数のある情報源だが、4.0を下回っており原則6を満たさない。jcationの4.0は口コミ1件のみで信頼性が低く、2件目の有効な裏付けとはみなせない。西湖畔の立地やPICAブランドの実績自体は一定の魅力があるが、数値評価の基準を満たさないため採用ラインに届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミ内容の詳細（低評価の具体的理由）までは本セッションのWebSearchでは確認できなかったが、総合満足度3.24・658軒中49位という順位は他のグランピング候補と比べて見劣りする。安全・衛生面の重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "PICA富士西湖 - フォートラベル（口コミ10件・総合3.24・富士五湖エリア49位/658軒）", "url": "https://4travel.jp/dm_hotel-10046337" },
+        { "type": "other", "title": "PICA富士西湖 - jcation（口コミ1件・4.0）", "url": "https://jcation.com/hotel/detail-6286/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイト（フォートラベル）の評価が3.24で原則6の4.0基準を満たさず、2件目の数値情報源（jcation）も口コミ1件のみで信頼性が低いため不採用。"
+    }
+  ]
+}

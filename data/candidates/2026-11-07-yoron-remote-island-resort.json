@@ -1,0 +1,240 @@
+{
+  "cycle_date": "2026-11-07",
+  "theme": "離島リゾート（鹿児島県大島郡与論町・与論島）の新規調査",
+  "season_rationale": "離島リゾートカテゴリではこれまで伊豆諸島・トカラ列島・沖縄離島・沖永良部島などを調査してきたが、奄美群島最南端の与論島はまだ一度も対象としていなかった。与論島はギリシャ・ミコノス島と姉妹都市関係にあり『東洋の楽園』と呼ばれる白砂・エメラルドグリーンの海（百合ヶ浜の砂洲等）を持ち、本リポジトリの空白地域として調査優先度が高いと判断した。",
+  "prior_posts_checked": [],
+  "duplication_note": "data/candidates・captions配下の全件を『与論』『与論島』『Yoron』『yoron』のキーワードで検索した結果、与論島を対象とした候補・投稿は一件も存在しないことを確認した（1ヶ月以上前の2026-09〜10月分も含めて検索）。地域・施設とも完全に新規である。",
+  "research_limitation_note": "本サイクルではWebSearchを用いて与論島の宿泊施設（プリシアリゾートヨロン、イチョーキ・ヴィラ、ホテルヨロン島ビレッジ）を中心に調査した。じゃらんnet・公式サイト（pricia.co.jp）・リソルホールディングス公式リリース（resol.jp）・1moku.co.jp・ryukyushimpo.jp等への直接WebFetchは、本セッションの外部ネットワーク許可設定の範囲外でDNS解決不可であったため、これらのサイトの内容はいずれもWebSearchの統合要約経由での確認に限られ、ページ本体を直接閲覧して検証することはできなかった。また、検索中に『与論島パークホテル』が閉鎖済みである旨の言及（4travel.jp記載、独立した第二の確認ソースは本サイクルでは見つからなかった）があったため、候補としては扱わず参考情報として記録するにとどめた。本サイクルの後半でWebSearchの利用上限に達したため、プリシアリゾートヨロンの創業者・設計者個人の発言や開業当初の経緯についての追加調査はこれ以上実施できなかった。",
+  "candidates": [
+    {
+      "id": "2026-11-07-pricia-resort-yoron",
+      "name": "プリシアリゾートヨロン",
+      "region": "鹿児島県大島郡与論町立長（与論島・兼母海岸/サンセットビーチ）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル 人気ホテル・旅館ランキング（鹿児島県 沖永良部島・与論島エリア、総合）",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 199,
+          "checked_date": "2026-11-07",
+          "url": "https://travel.rakuten.co.jp/ranking/kagoshima/okinoerabu_0007_0_3_0_0.html"
+        },
+        {
+          "source": "skyticket ホテル詳細ページ（クチコミまとめ）",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 809,
+          "checked_date": "2026-11-07",
+          "url": "https://skyticket.jp/hotel/detail/property_10959/"
+        },
+        {
+          "source": "るるぶトラベル（奄美大島エリア掲載、与論島）",
+          "score": 4.2,
+          "scale": 5,
+          "review_count": 18,
+          "checked_date": "2026-11-07",
+          "url": "https://www.rurubu.travel/area/japan/amamioshima/yoron"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "2024年のプレスリリース系情報ではスタンダードツイン（2名1室利用時）の1名1泊料金が18,315円〜という記載があったが夕食の有無は不明。一覧サイトの参考平均料金は1泊¥51,865（時期・部屋タイプ未特定）。公式サイト・電話（0997-97-5060）での最新確認が必要で、1泊2食付きの正確な料金は本サイクルのWeb検索では確認できなかった。",
+        "as_of_search_date": "2026-11-07",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "与論島最大級のリゾートホテル。与論島とギリシャ・ミコノス島の姉妹都市関係をモチーフに、白と青を基調としたギリシャ風コテージ・本館があり、兼母海岸（通称サンセットビーチ）に直結する。2023年の大規模リニューアルで1日1組限定のスイートヴィラを含む客室・エントランス・レストランを刷新し、マリンアクティビティ・プールも併設する。与論空港から車で約5分という好アクセスも特徴。",
+      "renewal_or_news": "2021年7月にオーシャンビュールームの先行リニューアルが行われ、2023年6月に本館・客室（1日1組限定スイートヴィラ含む）・エントランス・レストラン等の大規模リニューアルを実施（複数のプレスリリース転載・旅行会社記事で確認）。",
+      "target_audience": [
+        "カップル",
+        "記念日",
+        "夫婦",
+        "女子旅",
+        "絶景好き"
+      ],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 5
+      },
+      "score": 82,
+      "recommendation_reason": "楽天トラベル4.5（199件）・skyticket4.6（809件）・るるぶトラベル4.2（18件）と、3つの独立した情報源でいずれも4.0以上・十分な件数の評価を確認できた。与論島最大級の規模とギリシャ・ミコノス島モチーフの白×青の建築、ビーチ直結という独自性があり、2023年リニューアルで情報も新しい。本リポジトリで一度も扱っていない与論島という地域自体も価値がある。価格の具体的な最新情報・SNS話題性の確証はやや限定的。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一部の口コミで部屋のカビ臭さ・湿気（空気清浄機の設置希望）、事前の虫・塩害への不安（宿泊してみると問題なかったとの声）、朝食会場での名前確認漏れといった細かな運用面の指摘があった。いずれも重大な欠陥や営業上の問題ではなく、全体としては好意的な評価（オーシャンビュー・朝食・スタッフ対応）が優勢だった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "press",
+          "title": "ペニンシュラ・プレスリリース転載（ミコノス島モチーフ・2023年リニューアル内容）",
+          "url": "https://ryukyushimpo.jp/prtimes/entry-3256003.html"
+        },
+        {
+          "type": "booking_site",
+          "title": "楽天トラベル 人気ホテル・旅館ランキング（鹿児島県 沖永良部島・与論島、総合）",
+          "url": "https://travel.rakuten.co.jp/ranking/kagoshima/okinoerabu_0007_0_3_0_0.html"
+        },
+        {
+          "type": "booking_site",
+          "title": "skyticket プリシアリゾート ヨロン 施設詳細・クチコミ",
+          "url": "https://skyticket.jp/hotel/detail/property_10959/"
+        },
+        {
+          "type": "other",
+          "title": "KNTツアープラネット 与論島・プリシアリゾートヨロン宿泊レポート",
+          "url": "https://www.knt.co.jp/tabiplanet/kokunai/240116/"
+        },
+        {
+          "type": "other",
+          "title": "fashionsnap.com 2021年リニューアル第一弾（オーシャンビュールーム）関連記事",
+          "url": "https://www.fashionsnap.com/article/2021-07-20/pricia-renewal/"
+        }
+      ],
+      "decision": "selected",
+      "creator_story": {
+        "text": "プリシアリゾートヨロンは、与論島とギリシャ・ミコノス島が姉妹都市関係にあることをモチーフに、白と青を基調としたギリシャ風の外観・コテージを採用している。報道記事（2021年7月、fashionsnap.com）によれば、リニューアル第一弾としてオーシャンビュールームが登場した当時はコロナ禍で観光客が半減していた状況が背景にあり、リニューアルを機に島全体の生活・経済の活性化に貢献したいという方向性が示されていた。2023年6月には、1日1組限定のスイートヴィラを含む客室・エントランス・レストラン等の本格的な大規模リニューアルが行われたことが、プレスリリース転載記事（ryukyushimpo.jp）および旅行会社の紹介記事で確認できる。運営はホテル・ゴルフ場等を全国展開するリゾートソリューション（リソルグループ）の直営。他方で、設計を担当した具体的な建築家・デザイナーの氏名、施設の当初の開業年や前身施設の名称、改修に込めた経営者個人の発言・思いについては、本サイクルで確認できた出典（プレスリリース転載・旅行会社の紹介記事・ランキングサイト）の範囲では確認できなかった。一部の宿泊施設情報サイトに『建築年月1987年6月』という記載があったが、これがプリシアリゾートヨロン本体を指すものかどうかも出典上確認できず、推測や創作は行わずここに留める。公式サイト（pricia.co.jp）やリソルホールディングスの直接の発表資料は、本セッションのネットワーク制約により直接閲覧できなかった。",
+        "sources": [
+          {
+            "type": "other",
+            "title": "fashionsnap.com 与論島リゾート『プリシアリゾートヨロン』が旅館寝具・コロナ禍の観光活性化を背景にリニューアル（2021年7月）",
+            "url": "https://www.fashionsnap.com/article/2021-07-20/pricia-renewal/"
+          },
+          {
+            "type": "press",
+            "title": "プレスリリース転載記事（ミコノス島モチーフ・2023年リニューアル内容、与論町・姉妹都市関係について）",
+            "url": "https://ryukyushimpo.jp/prtimes/entry-3256003.html"
+          },
+          {
+            "type": "other",
+            "title": "icotto プリシアリゾートヨロン公式PR記事（ミコノス島モチーフの白・青デザイン、2023年リニューアル内容）",
+            "url": "https://icotto.jp/presses/21682"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-07-ichoki-villa-yoron",
+      "name": "イチョーキ・ヴィラ",
+      "region": "鹿児島県大島郡与論町・与論島（茶花地区近郊）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "icotto（宿泊施設口コミ集計）",
+          "score": 3.32,
+          "scale": 5,
+          "review_count": 17,
+          "checked_date": "2026-11-07",
+          "url": "https://icotto.jp/hotels/1942"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な料金プランは本サイクルでは直接確認できなかった。",
+        "as_of_search_date": "2026-11-07",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "赤い屋根が特徴のコテージタイプの宿で、ビーチとダイビングショップに近く、茶花の繁華街まで徒歩約15分という立地。新しい建物で清潔という評価がある一方、港が目の前にあり海側の眺めを期待すると肩透かしになるという指摘や、ツインルームが狭め、夜間の駐車場が早い者勝ちといった指摘もある。",
+      "target_audience": [
+        "カップル",
+        "一人旅"
+      ],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 5,
+        "unique_experience_score": 8,
+        "photogenic": 6,
+        "value_for_price": 4,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 37,
+      "recommendation_reason": "茶花繁華街・ビーチへのアクセスの良さという独自性はあるが、icottoの評価が3.32/5（17件）と原則7の『主要レビュー4.0未満は原則不採用』基準に抵触する。独立した第二の情報源での集計評価（件数付き）も本サイクルでは確認できず、原則7の独立2情報源要件も満たせない。総合スコア37点で不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "海側の眺めを期待すると肩透かしになる、ツインルームが狭くスーツケース2つを広げにくい、ソファベッドの寝心地が微妙、夜間の駐車場が早い者勝ちといった複数の指摘があった。重大な欠陥ではないが、ラグジュアリー旅行メディアとして紹介するには弱い。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "icotto イチョーキ・ヴィラ（与論島）口コミ・評価3.32（17件）",
+          "url": "https://icotto.jp/hotels/1942"
+        },
+        {
+          "type": "booking_site",
+          "title": "じゃらんnet イチョーキ・ヴィラ",
+          "url": "https://www.jalan.net/yad384918/"
+        },
+        {
+          "type": "review_site",
+          "title": "フォートラベル イチョーキ・ヴィラ クチコミ・評価",
+          "url": "https://4travel.jp/dm_hotel-11616600"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイトの評価が3.32/5（17件）で原則7の4.0未満基準に抵触し、独立2情報源での件数付き評価検証も満たせない。総合スコア37点で不採用。"
+    },
+    {
+      "id": "2026-11-07-hotel-yoron-village",
+      "name": "ホテルヨロン島ビレッジ",
+      "region": "鹿児島県大島郡与論町・与論島（島北部）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "icotto（施設ページの評価・件数表示。表示形式に不確かさがあり、集計評価として扱うには注意が必要）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-11-07",
+          "url": "https://icotto.jp/hotels/1938"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "料金情報は本サイクルでは直接確認できなかった。",
+        "as_of_search_date": "2026-11-07",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "ペンション棟とホテル棟からなる施設で、島の北部に位置し茶花の空港・港からは離れている。料理の評判が良いという口コミがある一方、夕食の席準備やフロント対応への不満も見られる。独自の体験・設備面の具体的な裏付けは本サイクルでは乏しかった。",
+      "target_audience": [
+        "家族",
+        "友人"
+      ],
+      "score_breakdown": {
+        "review_rating": 8,
+        "review_reliability": 3,
+        "unique_experience_score": 6,
+        "photogenic": 4,
+        "value_for_price": 3,
+        "sns_buzz": 1,
+        "access_and_freshness": 1
+      },
+      "score": 26,
+      "recommendation_reason": "料理への好意的な口コミはあるが、主要予約・レビューサイトでの件数付き集計評価を独立2情報源で確認できず、原則7の要件を満たせない。フロント対応・夕食の席準備への不満も見られた。総合スコア26点で不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "料理は好評だが、夕食時の席準備やフロント対応に関する不満の口コミが見られた。評価の集計データ自体が不確かで、全体像の検証は限定的。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "icotto ホテルヨロン島ビレッジ（与論島）口コミ・評価",
+          "url": "https://icotto.jp/hotels/1938"
+        },
+        {
+          "type": "booking_site",
+          "title": "楽天トラベル ホテルヨロン島ビレッジ",
+          "url": "https://travel.rakuten.co.jp/HOTEL/67822/67822.html"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "件数付き集計評価を独立2情報源で確認できず原則7を満たせない。フロント対応等への不満も見られ、総合スコア26点で不採用。"
+    }
+  ]
+}

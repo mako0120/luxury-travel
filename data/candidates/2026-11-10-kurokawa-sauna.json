@@ -1,0 +1,163 @@
+{
+  "cycle_date": "2026-11-10",
+  "theme": "サウナ（熊本県阿蘇郡南小国町 黒川温泉エリア）再調査：同日カテゴリ『サウナ』は別地域（大分県別府市）で既に調査済み（data/candidates/2026-11-10-beppu-sauna.json、該当なし）のため、依頼に基づき地域を黒川温泉エリアへ切り替えた1回限りの再調査サイクル",
+  "season_rationale": "11月中旬の黒川温泉・南小国町エリアは紅葉がほぼ終盤を迎え、朝晩の冷え込みが一段と強まる時期。発汗後に山あいの冷たい外気に当たる『ととのう』体感や、森閑とした環境でのサウナ体験が際立つ季節であり、年末にかけての『温活・サウナ活』需要の高まりとも合致する。",
+  "prior_posts_checked": [
+    { "post_id": "2026-11-10-beppu-sauna", "region": "大分県別府市（別府温泉）", "category": "サウナ" },
+    { "post_id": "2026-11-09-matsumoto-shirahone-sauna", "region": "長野県松本市（白骨温泉）", "category": "サウナ" },
+    { "post_id": "2026-10-22-gourmet-ryokan-kurokawa", "region": "熊本県阿蘇郡南小国町（黒川温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-09-14-onsen-kurokawa", "region": "熊本県阿蘇郡南小国町（黒川温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-10-20-bettei-haruki-beppu", "region": "大分県別府市（別府温泉）", "category": "温泉旅館" }
+  ],
+  "duplication_note": "data/candidates/ 全件（2026-09-14〜2026-11-10、約300件、1ヶ月以上前のものも含めて確認）およびcaptions/全件を、地域キーワード『黒川』『kurokawa』『南小国』およびカテゴリ『サウナ』で横断確認した。地域『黒川温泉』は過去2回取り上げ済みだが、いずれもサウナ特化ではない：(1) 2026-09-14サイクル（data/candidates/2026-09-14-onsen-kurokawa.json）＝温泉旅館カテゴリで『山あいの宿 山みず木』（選定）・『歴史の宿 御客屋』（不採用）を調査。(2) 2026-10-22サイクル（data/candidates/2026-10-22-gourmet-ryokan-kurokawa.json）＝グルメ旅館カテゴリで『ふもと旅館』（選定）・『いこい旅館』（不採用）・『旅館 奥の湯』（不採用）を調査。本サイクルはこれら5施設とは異なる、サウナ体験そのものを主役とする施設（Deepspot プライベートサウナ&宿／森のサウナ in吉原ごんべえ村／Rakuten STAY VILLA 阿蘇黒川）を新規調査対象とした。また同日に『サウナ』カテゴリで別府市（data/candidates/2026-11-10-beppu-sauna.json）を調査済みで該当なしだったため、依頼に基づき地域を黒川温泉エリアへ切り替えた、本日1回限りの再調査サイクルである。カテゴリ『サウナ』の連続（2026-11-09松本→2026-11-10別府→2026-11-10黒川）という点は認識しているが、地域を毎回変えており、かつ依頼側の明示的指定によるものである。",
+  "candidates": [
+    {
+      "id": "2026-11-10-deepspot-minamioguni-sauna",
+      "name": "Deepspot プライベートサウナ&宿",
+      "region": "熊本県阿蘇郡南小国町満願寺（黒川温泉中心部から車で約10分、別荘地内の森の中）",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "Airbnb（宿泊者レビュー。黒川温泉周辺の別荘宿として掲載）",
+          "score": 4.86,
+          "scale": 5,
+          "review_count": 7,
+          "checked_date": "2026-11-10",
+          "url": "https://www.airbnb.com.sg/kumamoto-region-japan/stays/sauna"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "サウナ単体利用は2時間制で1〜2名10,000円・3名13,500円という表示をサウナ検索サイトで確認した。一方、一棟貸切の『宿』としての宿泊料金は本セッションでは確定できなかった（公式サイトdeepspot.select-shop.xyzはこのセッションのネットワーク制限によりWebFetchできず、検索結果の範囲でも宿泊料金の具体的数値は見つからなかった）。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する。予約時に公式サイト・予約サイトで最新料金の確認を推奨。"
+      },
+      "unique_experience": "事前予約制・完全個室のプライベートサウナで、サウナ室100℃・水風呂17℃・外気浴スペースを備える、森の中の一棟貸し施設。サウナ単体利用（2時間制）と宿泊利用の両方に対応している点が特徴で、黒川温泉中心部からは車で約10分という近さながら、他人と一切鉢合わせしない貸切性の高さが『サウナ体験そのもの』を目的化した設計になっている。",
+      "renewal_or_news": "開業時期は本セッションでは確認できなかった。",
+      "target_audience": ["一人旅", "カップル", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 3,
+        "unique_experience_score": 16,
+        "photogenic": 8,
+        "value_for_price": 6,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 51,
+      "recommendation_reason": "完全貸切・個室という『サウナ体験の目的化』という独自性は本サイクルの候補の中で最も明確だが、評価の母数が極端に少なく（Airbnb7件のみ、サウナ検索サイト『サウナイキタイ』上は実利用記録（サ活）が1件で数値評価自体が存在しない）、原則7が求める独立2情報源での確度の高い確認ができなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Airbnb上の口コミは、プライベート利用のため他人を気にせず使えた点や、外気浴スペース・水風呂からの景色への好意的な短いコメントが中心で、明確な否定的指摘は本セッションでは確認できなかった。一方、『森の中にあって分かりにくいため地図アプリで近隣のコインランドリーを経由地に設定することを勧める』という利用者の声があり、アクセス面での分かりにくさが指摘されている。母数が7件と極めて少ないため、評価自体の信頼性は低い。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "Deepspot プライベートサウナ&宿 掲載（イキタイ・サ活件数） - サウナイキタイ", "url": "https://sauna-ikitai.com/saunas/80399" },
+        { "type": "review_site", "title": "Deepspot プライベートサウナ&宿 掲載（口コミ・評価） - Airbnb", "url": "https://www.airbnb.com.au/aso-district-japan/stays/sauna" },
+        { "type": "other", "title": "10 minutes by car from Kurokawa Onsen, a private i... - Trip.com（施設概要・設備・ルール）", "url": "https://tw.trip.com/hotels/minamioguni-hotel-detail-122925892/10-minutes-by-car-from-kurokawa-onsen-a-private-i" },
+        { "type": "other", "title": "Deepspot プライベートサウナ&一棟貸切宿 - Rexby（旅行記）", "url": "https://www.rexby.com/globalandbeyondtravel/ttd/private-aso-mountain-retreat" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア51点で採用ライン（75点）に遠く届かない。独自性（完全貸切・個室でのサウナ体験目的化）は評価できるが、評価の母数が極端に少なく（Airbnb7件のみ）、独立2情報源での確度の高い確認（原則7）ができなかった。開業時期・宿泊料金・運営者情報も本セッションでは確認できず（公式サイトがこのセッションのネットワーク制限で参照不能）、Googleマップ等での評価件数が増え、運営者情報が確認できた段階で再評価する。"
+    },
+    {
+      "id": "2026-11-10-mori-no-sauna-gonbemura",
+      "name": "森のサウナ in 吉原ごんべえ村",
+      "region": "熊本県阿蘇郡南小国町大字満願寺吉原（黒川温泉と同じ南小国町満願寺地区内。黒川温泉中心部からは山道を挟んだ別エリアのキャンプ場内）",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "なっぷ（nap-camp.com）。ごんべえ村キャンプ場全体の口コミ件数は155〜157件確認できたが、サウナ単体の数値評価・平均点は本セッションのWeb検索では見当たらなかった",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-11-10",
+          "url": "https://www.nap-camp.com/kumamoto/10652/reviews"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "サウナ単体の利用料金は本セッションでは確定できなかった。キャンプ場の入村料は大人450円・子ども200円・ペット300円（2025年7月時点の掲載）、オートキャンプサイト1区画3,500円という情報を確認した。併設の岩風呂（温泉ではなく沸かし湯、家族風呂形式）は1時間1,500円・6名まで・1日5組限定という情報もあったが、サウナ自体の価格はこれとは別の可能性がある。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "阿蘇五山を望む森に囲まれたキャンプ場『吉原ごんべえ村』内にある、フィンランド式の薪ストーブサウナ。3時間完全貸切・前日までの完全予約制で、セルフロウリュが楽しめる。敷地内には鹿の鳴き声が聞こえる自然環境や放し飼いのポニーもあり、キャンプ場としての牧歌的な雰囲気の中で非日常のサウナ体験ができる点が独自性となる。開業経緯について検索結果間で説明がやや異なり、一方は『オーナーが農作業の合間に作ったキャンプ場』、別の記述では『サウナ好きのオーナーが土地を買い取ってキャンプ場を開き、その一部をプライベートサウナにした』とされており、どちらが正確な経緯かは本セッションの一次情報では確定できなかった。",
+      "renewal_or_news": "サウナ自体の開業時期は本セッションでは確認できなかった。",
+      "target_audience": ["友人", "家族", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 8,
+        "review_reliability": 3,
+        "unique_experience_score": 17,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 51,
+      "recommendation_reason": "フィンランド式薪ストーブ・セルフロウリュ・完全貸切3時間という体験の独自性は高く、牧歌的なキャンプ場の自然環境（鹿・ポニー・星空）との組み合わせも魅力的。ただしサウナ単体の口コミ・数値評価がほぼ存在せず（キャンプ場全体の口コミ155件強はサウナそのものの感想ではない）、原則7（独立2情報源での確度の高い確認）を満たせなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "キャンプ場全体の口コミでは、自然環境・星空・動物とのふれあいへの好意的な声が多かった一方、『入り口がGoogleマップで急な坂道の方に案内され、マニュアル車では怖かった』というアクセス上の具体的な注意点が複数の投稿で確認できた。サウナ単体への否定的な口コミは本セッションでは確認できなかったが、そもそもサウナ単体のレビューがほとんど存在しないため、評価自体の確度は低い。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "吉原ごんべえ村 施設情報・口コミ一覧（森のサウナ併設） - なっぷ(nap-camp.com)", "url": "https://www.nap-camp.com/kumamoto/10652" },
+        { "type": "review_site", "title": "吉原ごんべえ村 口コミ一覧 - なっぷ(nap-camp.com)", "url": "https://www.nap-camp.com/kumamoto/10652/reviews" },
+        { "type": "other", "title": "ごんべえ村 施設詳細（アクセス・開設経緯） - ウォーカープラス", "url": "https://www.walkerplus.com/spot/ar1043s14368/data.html" },
+        { "type": "other", "title": "ごんべえ村 料金情報 - ウォーカープラス", "url": "https://www.walkerplus.com/spot/ar1043s14368/price.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア51点で採用ライン（75点）に届かない。体験としての独自性（薪ストーブ・セルフロウリュ・完全貸切）は高いが、サウナ単体の数値評価・口コミがほぼ存在せず独立2情報源での確度の高い確認ができなかった。運営者の開業経緯についても出典間で説明が一致せず、一次情報（公式サイト等）による確定ができなかったため、creator_story相当の情報も本セッションでは『確認できなかった』の域を出ない。サウナ単体の口コミ・評価が増え、開業経緯を一次情報で確認できた段階で再評価する。"
+    },
+    {
+      "id": "2026-11-10-rakutenstay-villa-asokurokawa",
+      "name": "Rakuten STAY VILLA 阿蘇黒川",
+      "region": "熊本県阿蘇郡南小国町満願寺6843-16（黒川温泉中心部から車で約10分、標高約800m地点の山腹）",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "Dinogo（宿泊比較サイト。海外OTA系の集計レビュー）",
+          "score": 8.6,
+          "scale": 10,
+          "review_count": 32,
+          "checked_date": "2026-11-10",
+          "url": "https://dinogo.com/hotels/570356-rakuten-stay-villa-aso-kurokawa"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "大人2名1泊・1室あたりの参考価格として税込約25,615円〜33,044円（Skyticket掲載、ルームタイプにより変動）、別の予約サイト（Vrbo）では1泊約34,936円（合計約38,730円）という表示もあった。1室の定員は最大6名程度（ダブルベッド2台＋布団2組等）で、全5棟・1日5組限定。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する。予約時に各予約サイトで最新料金の確認を推奨。"
+      },
+      "unique_experience": "阿蘇の森に囲まれた標高約800mの山腹に建つ、1日5組限定・全5棟の独立型ヴィラ。2022年7月28日に宿泊受け入れを開始し、公式には『森と融け合う時間』というコンセプトが掲げられている。すべての棟に天然温泉風呂と各棟専用のプライベートサウナが備えられており、客室単位で温泉とサウナの両方を独占的に楽しめる構成が特徴。自然木を多用したナチュラルな内装と、森へ続くウッドデッキ・大きな窓からの森林の眺めも魅力。ペット同伴可。なお、サウナの具体的な温度・ロウリュの有無・水風呂の水温など詳細仕様は、このセッションのネットワーク制限で公式サイト本文を直接確認できなかったため確定できなかった。",
+      "renewal_or_news": "2022年7月28日開業。2026年11月時点でも複数の予約サイト（楽天STAY公式・一休・Skyticket・Vrbo・Dinogo等）に現役で掲載・販売されており、営業継続中であることを確認した。",
+      "target_audience": ["カップル", "家族", "夫婦", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 6,
+        "unique_experience_score": 16,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 68,
+      "recommendation_reason": "全5棟すべてに専用の天然温泉風呂とプライベートサウナを備える構成は、黒川温泉エリアでは珍しく、客室単位でサウナ体験そのものを目的化した設計という点で『サウナ』カテゴリとしての独自性が高い。Dinogo（8.6点／32件、5点満点換算で約4.3）という数値評価に加え、Vrbo（10段階中9.0）も好意的な評価を示しており、定性的には複数サイトで一致する高評価が確認できる。黒川温泉中心部から車で約10分というアクセスの良さ、2022年開業から2026年時点まで複数の予約サイトで現役掲載されている運営継続性も確認できた。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本セッションで確認できた評価（Dinogo・Vrbo）はいずれも高評価で、否定的な口コミ本文は見つからなかった。ただしこれらは楽天トラベル本体・じゃらん・一休等の国内主要予約サイトの口コミ欄とは別の集計サイトであり、口コミ本文そのものを直接確認できていないため、ネガティブ要素の有無についての確度は限定的である。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "熊本県阿蘇郡の山腹に「Rakuten STAY VILLA 阿蘇黒川」オープン。1日5組限定の宿 - Travel Watch（Impress）", "url": "https://travel.watch.impress.co.jp/docs/news/1426979.html" },
+        { "type": "booking_site", "title": "Rakuten STAY 阿蘇エリア紹介ページ（阿蘇黒川の天然温泉・プライベートサウナ記載）", "url": "https://stay.rakuten.co.jp/discover/area/aso-onsen/" },
+        { "type": "other", "title": "Rakuten STAY VILLA 阿蘇黒川 施設詳細・料金 - Skyticket", "url": "https://skyticket.jp/hotel/detail/property_1400580/" },
+        { "type": "review_site", "title": "Rakuten STAY VILLA 阿蘇黒川 評価8.6（32件） - Dinogo", "url": "https://dinogo.com/hotels/570356-rakuten-stay-villa-aso-kurokawa" },
+        { "type": "other", "title": "Rakuten STAY VILLA 阿蘇黒川 掲載（評価9.0） - Vrbo", "url": "https://www.vrbo.com/pdp/lo/78745490" }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "総合スコア68点で採用ライン（75点）に届かない。独自性・アクセス・運営継続性は評価できるが、数値評価の独立確認がDinogo（32件）1件にとどまり、定性的に一致するVrbo（9.0）は口コミ件数を確認できず原則7（独立2情報源での確度の高い確認）を完全には満たせなかった。サウナの温度・ロウリュ・水風呂等の具体的仕様、および運営会社・設計担当者の開業時の思い（creator_story相当の情報）も、このセッションのネットワーク制限により公式サイト本文を直接確認できず『確認できなかった』の域を出ない。楽天トラベル・じゃらん等の国内主要サイトで口コミ件数・評価を直接確認でき、公式サイトから開業コンセプトの詳細を確認できた段階で再評価・選定を検討する。"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "cycle_date": "2026-10-30",
+  "theme": "離島リゾート（鹿児島県鹿児島郡十島村・悪石島／トカラ列島）の再調査枠",
+  "season_rationale": "本日は離島リゾートカテゴリの再調査枠として、まず東京都御蔵島村・御蔵島を調査したが、宿泊施設の口コミ・評価データが独立2情報源で確認できず該当なしだったため、別地域での再調査としてトカラ列島・悪石島（鹿児島県鹿児島郡十島村）を対象に選定した。悪石島は来訪神『ボゼ』（2018年にユネスコ無形文化遺産に登録された『来訪神：仮面・仮装の神々』の一つ）で知られ、硫黄質の温泉・火山性の険しい景観・人口約60〜80人規模の集落という独自性の強いHidden Gem候補地だが、本リポジトリでは十島村・トカラ列島・悪石島のいずれも過去に一度も取り上げていない完全新規地域であり、調査優先度が高いと判断した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-30-mikurajima-remote-island-resort", "region": "東京都御蔵島村・御蔵島", "category": "離島リゾート", "note": "本日同カテゴリで先に調査済み。候補3件すべて主要OTA掲載なし・評価データ不安定で不採用。御蔵島（伊豆諸島）であり、悪石島（トカラ列島・鹿児島県）とは全く別地域。" },
+    { "post_id": "2026-10-23-koshikishima-remote-island-resort", "region": "鹿児島県甑島", "category": "離島リゾート", "note": "候補3件すべて不採用。甑島は同じ鹿児島県の離島だが、トカラ列島・悪石島とは別の島嶼群・別自治体。" },
+    { "post_id": "2026-10-29-kozushima-remote-island-resort", "region": "東京都神津島村・神津島", "category": "離島リゾート", "note": "伊豆諸島であり無関係の別地域。" },
+    { "post_id": "2026-10-27-niijima-remote-island-resort", "region": "東京都新島村・新島", "category": "離島リゾート", "note": "伊豆諸島であり無関係の別地域。" },
+    { "post_id": "2026-10-28-iheya-remote-island-resort", "region": "沖縄県島尻郡伊平屋村・伊平屋島", "category": "離島リゾート", "note": "沖縄県の離島であり無関係の別地域。" },
+    { "post_id": "2026-10-24-iki-island-resort", "region": "長崎県壱岐市・壱岐島", "category": "離島リゾート", "note": "長崎県の離島であり無関係の別地域。" }
+  ],
+  "duplication_note": "data/candidates・captions配下の全件（1ヶ月以上前の2026-09-14分を含む既存ファイル全体）を『悪石島』『十島村』『トカラ』『tokara』『Akuseki』のキーワードで検索した結果、該当する候補・投稿は一件も存在せず、地域・施設とも完全に新規であることを確認した。離島リゾートカテゴリとしては鹿児島県の離島は甑島・屋久島・種子島・奄美大島系を既に調査済みだが、いずれも十島村・トカラ列島とは別の自治体・別の島嶼群であり重複にはあたらない。",
+  "research_limitation_note": "悪石島は人口約60〜80人規模の極小離島で、フェリーとしま2が鹿児島本港から週2便（約10時間30分）のみというアクセス制約が非常に強い。宿泊施設は十島村観光協会の地図・パンフレットで南海荘・民宿いこいの森・民宿浜坂荘・西荘・民宿あおば・旅の宿十和丸などの名称が確認できるが、じゃらんnet・楽天トラベル・Booking.com等の主要OTAには悪石島の宿泊施設の掲載が検索範囲では一件も確認できなかった。口コミが確認できたのは南海荘についてフォートラベルに掲載された2013年投稿の1件（3.5/5）のみで、件数・鮮度ともに独立した評価検証（原則7：最低2件以上の独立情報源）を満たすには明らかに不十分だった。他の民宿（いこいの森・浜坂荘・西荘・あおば・十和丸）については名称以外の情報（料金・営業状況・口コミ）が検索範囲では確認できなかった。また村営の『悪石島コミューン』（移住・ワーケーション体験施設）は観光目的の宿泊については島内の民宿案内に誘導しているため、一般観光客向け宿泊施設としての評価対象には位置づけられない。以上より、本サイクルでは調査した3件すべてを評価データ不足により不採用とした。ユーザーが事前に想定していた通り、超小規模離島では主要OTA掲載・独立2情報源での評価検証が困難であり、スコアの捏造・緩和は行っていない。",
+  "candidates": [
+    {
+      "id": "2026-10-30-nankaiso-akusekijima",
+      "name": "南海荘",
+      "region": "鹿児島県鹿児島郡十島村・悪石島（山の上の集落）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "フォートラベル『南海荘』口コミページ（2013年6月投稿のボゼ祭見学時の宿泊記、1件のみ）",
+          "score": 3.5,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-30",
+          "url": "https://4travel.jp/dm_hotel-11557249"
+        },
+        {
+          "source": "じゃらんnet・楽天トラベル（『悪石島』エリアでの宿泊施設掲載自体が検索範囲では確認できず、評価点を取得できなかった）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-30",
+          "url": "https://www.navitime.co.jp/category/06/46304/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "公式の料金ページ・OTA掲載が確認できず、具体的な宿泊料金は検索範囲では確認できなかった。十島村観光ガイドPDFに電話番号（09912-3-2080）の記載はあるが、料金表記はない。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "悪石島の集落の山側（高台）に位置し、島を見渡せる立地の民宿とされる。フォートラベルの2013年の宿泊記では、人口80人程度という島の規模感や、来訪神『ボゼ』の祭を見るために訪れた旅行者を『田舎の親戚の家に来たような』親切な対応で迎えたことが紹介されている。宿の前には島内で唯一とされる自動販売機があるという言及もある。同記事では大浴場・露天風呂（混浴ありとの記載）の存在も触れられているが、これは口コミサイト側の施設情報であり、現在の営業状況・設備は公式には確認できていない。",
+      "renewal_or_news": "直近のリニューアル・新プラン等の具体的な最新ニュースは検索範囲では確認できなかった。確認できた口コミ自体も2013年投稿で13年以上前のものであり、現在の営業状況・サービス内容が同じかは不明。",
+      "target_audience": ["一人旅", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 8,
+        "review_reliability": 2,
+        "unique_experience_score": 14,
+        "photogenic": 8,
+        "value_for_price": 3,
+        "sns_buzz": 3,
+        "access_and_freshness": 1
+      },
+      "score": 39,
+      "recommendation_reason": "来訪神『ボゼ』で知られる悪石島で、集落の高台から島を見渡せる民宿として独自性はある。しかし確認できた評価は2013年投稿の1件（3.5/5）のみで、じゃらんnet・楽天トラベル等の主要OTAにも掲載が確認できず、原則7の独立2情報源での評価検証を満たせなかった。総合スコア39点で採用ライン（75点）に遠く届かず不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "具体的な衛生・安全・営業上の重大な指摘は検索範囲では見当たらなかった。唯一確認できた口コミ（2013年、1件）はむしろ好意的な内容だったが、件数・鮮度ともに評価の信頼性を検証するには不十分であり、これが不採用の主因となっている。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "南海荘のクチコミ情報（2013年投稿、ボゼ祭見学時の宿泊記） - フォートラベル", "url": "https://4travel.jp/dm_hotel-11557249" },
+        { "type": "other", "title": "十島村観光ガイド（悪石島ウォーキングガイド、南海荘の電話番号・立地記載） - tokara.jp", "url": "https://www.tokara.jp/resource/kankoimages/walking_guide_akuseki_R803.pdf" },
+        { "type": "other", "title": "十島村の宿泊施設一覧（悪石島エリア） - NAVITIME", "url": "https://www.navitime.co.jp/category/06/46304/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "島の高台から見渡せる民宿としての独自性・ボゼ文化との結びつきはあるが、確認できる評価が2013年の1件のみで件数・鮮度ともに著しく不足し、主要OTAにも掲載がないため原則7の独立2情報源検証を満たせず、総合スコア39点で不採用。宿泊施設側で情報発信・OTA掲載が進んだ段階での再調査が望ましい。"
+    },
+    {
+      "id": "2026-10-30-ikoinomori-akusekijima",
+      "name": "民宿いこいの森",
+      "region": "鹿児島県鹿児島郡十島村・悪石島（フェリー待合所付近）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "フォートラベル・じゃらんnet・楽天トラベルいずれも『民宿いこいの森』の個別ページ・口コミが検索範囲では確認できなかった",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-30",
+          "url": "https://www.tokara.jp/resource/kankoimages/R803_takara.pdf"
+        },
+        {
+          "source": "十島村観光パンフレット（施設名・位置のみ記載、口コミ・評価点の記載なし）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-30",
+          "url": "https://www.tokara.jp/resource/kankoimages/walking_guide_akuseki_R803.pdf"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "公式の料金ページ・OTA掲載が確認できず、具体的な宿泊料金は検索範囲では確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "十島村観光パンフレット上では、フェリー待合所のすぐ近くに位置する民宿として地図に記載されている。ただし、名称・位置以外の情報（内装・食事・接客・温泉設備など、人へ伝える価値となる具体的な魅力）は検索範囲では確認できなかった。",
+      "renewal_or_news": "リニューアル・新プラン等の情報、さらには現在営業しているかどうか自体も検索範囲では確認できなかった。",
+      "target_audience": ["一人旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 10,
+        "photogenic": 5,
+        "value_for_price": 0,
+        "sns_buzz": 0,
+        "access_and_freshness": 1
+      },
+      "score": 16,
+      "recommendation_reason": "フェリー待合所近くという利便性のある立地の民宿だが、口コミ・評価・料金・営業状況のいずれも検索範囲では確認できず、独自の魅力を裏付ける情報が乏しい。原則7の独立2情報源での評価検証を満たせず、総合スコア16点で不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ自体が検索範囲で見つからず、ネガティブ・ポジティブいずれの評判も確認できなかった。評価情報が皆無であること自体が不採用の主因。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "十島村観光パンフレット（施設位置図、悪石島・民宿いこいの森の記載） - tokara.jp", "url": "https://www.tokara.jp/resource/kankoimages/R803_takara.pdf" },
+        { "type": "other", "title": "悪石島ウォーキングガイド - tokara.jp", "url": "https://www.tokara.jp/resource/kankoimages/walking_guide_akuseki_R803.pdf" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "名称・位置以外の情報（口コミ・料金・営業状況）が検索範囲では一切確認できず、評価の裏付けとなる情報が皆無のため、原則7を満たせず総合スコア16点で不採用。"
+    },
+    {
+      "id": "2026-10-30-akusekijima-commune",
+      "name": "悪石島コミューン（島暮らし体験・ワーケーション施設）",
+      "region": "鹿児島県鹿児島郡十島村・悪石島",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "Internet Watch記事（2025年1月の無料ワーケーションモニターツアーに関する報道、口コミ評価点の記載なし）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-30",
+          "url": "https://internet.watch.impress.co.jp/docs/news/1647102.html"
+        },
+        {
+          "source": "フォートラベル・じゃらんnet・楽天トラベルいずれも当施設の口コミ・評価点の掲載が検索範囲では確認できなかった",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-30",
+          "url": "https://internet.watch.impress.co.jp/docs/news/1487899.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "記事（2022年頃掲載）では通常利用時の料金が1人1泊2,000円〜と紹介されているが、記事掲載時点の情報であり、2026年10月現在の料金は公式に確認できなかった。食事提供なし。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2020年に移住体験ツアー用に建てられた施設で、コロナ禍の中断後、ワーケーション受け入れを開始したと報じられている。約12畳の居室2部屋にゲーミングデスク・ゲーミングチェアを備え、Wi-Fiを使った快適なリモートワークができる点が特徴とされる。十島村役場は2025年1月に無料モニターツアー（4泊5日の島内滞在＋移動2泊を含む6泊7日、フェリー代・宿泊費・アクティビティ費無料）を実施し、船釣り・ハイキング・子牛へのミルクやり・島らっきょう収穫等の体験が組まれていた。一方で、記事によれば観光目的の滞在については施設側が島内の民宿を案内しているとされ、一般的な観光宿泊施設としての位置づけではない。",
+      "renewal_or_news": "2025年1月に十島村役場主催の無料ワーケーションモニターツアーが実施されたことが報じられている（応募は2024年12月27日締切で既に終了）。2026年10月時点で同様の募集が継続しているかは検索範囲では確認できなかった。",
+      "target_audience": ["一人旅", "友人"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 12,
+        "photogenic": 5,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 28,
+      "recommendation_reason": "離島ワーケーションという独自性のある取り組みで、Internet Watch等のメディアに複数回取り上げられている点は評価できる。しかし観光客の宿泊目的には施設側が島内の民宿案内に誘導しており、一般観光宿泊施設としての口コミ・評価データが存在しない。原則7の独立2情報源での評価検証を満たせず、総合スコア28点で不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一般観光客向けの口コミ自体が存在せず、ネガティブな評判も確認できなかった。ただし施設の性質上（観光目的には非推奨、ワーケーション・移住体験が主目的）、本カテゴリ（離島リゾート）の一般観光客向け宿泊施設としての採用基準には合致しないと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "トカラ列島・悪石島でワーケーションモニターツアー、十島村役場が参加者募集（2025年1月実施） - Internet Watch", "url": "https://internet.watch.impress.co.jp/docs/news/1647102.html" },
+        { "type": "press", "title": "離島ワーケーション施設『悪石島コミューン』に関する記事（料金・設備紹介） - Internet Watch", "url": "https://internet.watch.impress.co.jp/docs/news/1487899.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "ワーケーション施設としての独自性・メディア掲載はあるが、一般観光客向け口コミ・評価データが存在せず、施設側も観光目的の滞在には島内の民宿を案内しているため、本カテゴリ（離島リゾート）の一般観光宿泊施設として評価する前提条件を満たさない。原則7を満たせず総合スコア28点で不採用。"
+    }
+  ]
+}

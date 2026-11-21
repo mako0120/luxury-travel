@@ -1,0 +1,217 @@
+{
+  "cycle_date": "2026-10-20",
+  "theme": "温泉旅館（大分県別府市・別府温泉）",
+  "season_rationale": "10月下旬は朝夕の気温が下がり始め、別府の湯けむりのありがたさが増す時期。鉄輪・明礬など別府八湯の湯けむりは秋の澄んだ空気の中で特に映え、11月以降の紅葉・冬本番に向けて温泉旅行を検討し始める層に向けて今紹介する意義がある（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-19-ibusuki-ginsho", "region": "鹿児島県指宿市湯の浜5-26-29", "category": "絶景ホテル" },
+    { "post_id": "2026-10-19-machiya-club-omihachiman", "region": "滋賀県近江八幡市（八幡堀・近江商人のまちなか）", "category": "文化体験" },
+    { "post_id": "2026-10-19-yunohana-jozankeiden", "region": "北海道札幌市南区定山渓温泉（定山渓温泉街西端）", "category": "サウナ" },
+    { "post_id": "2026-10-19-hotel-denhaag-htb", "region": "長崎県佐世保市ハウステンボス町", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-19-gatehotel-yokohama-grape-afternoontea", "region": "神奈川県横浜市中区山下町（山下公園前）", "category": "その他" },
+    { "post_id": "2026-10-19-lavista-kusatsu-hills", "region": "群馬県吾妻郡草津町（草津温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-10-18-yamanokami-yukaen", "region": "岩手県花巻市下シ沢字中野（花巻温泉郷・豊沢川渓谷沿い）", "category": "温泉旅館" },
+    { "post_id": "2026-10-17-shichijuyae", "region": "栃木県日光市鬼怒川温泉大原", "category": "温泉旅館" },
+    { "post_id": "2026-09-18-sansou-murata-yufuin", "region": "大分県由布市湯布院町川上（由布院温泉）", "category": "温泉旅館（旧スコープ・posts/）" },
+    { "post_id": "2026-09-18-yufuin-no-mori", "region": "福岡県福岡市（博多）〜大分県由布市・別府市", "category": "列車・船" }
+  ],
+  "duplication_note": "依頼時点の候補地域は『大分県別府温泉または由布院温泉』（温泉旅館カテゴリ）。直近3日（2026-10-17鬼怒川・10-18花巻・10-19草津）は温泉旅館カテゴリが連続していたため、依頼メッセージでも重複回避が意識されていた。由布院温泉は2026-09-18に『山荘 無量塔』『由布院 no 森（列車）』として既に取り上げ済み（約1ヶ月前）であり、温泉旅館カテゴリとしての大分県起用実績がすでにあるため、今回は同県内でも体験の切り口が異なる別府温泉（鉄輪・明礬など『別府八湯』の湯治・貸切源泉文化が中心、由布院の建築・デザイン重視とは異なる）を選定した。別府温泉としての投稿はcaptions/・posts/のいずれにも存在せず地域としては新規。",
+  "candidates": [
+    {
+      "id": "2026-10-20-bettei-haruki-beppu",
+      "name": "別邸はる樹",
+      "region": "大分県別府市（別府温泉・春木川沿い、別府駅から車で約13分）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "jcation（口コミ集計：清潔度4.7・スタッフ対応4.8・設備4.3・コンディション4.6）",
+          "score": 4.7,
+          "scale": 5,
+          "review_count": 157,
+          "checked_date": "2026-10-20",
+          "url": "https://jcation.com/hotel/detail-7537/"
+        },
+        {
+          "source": "Kayak（Booking.com系メタサーチ集計・『Beppu Haruki』）",
+          "score": 9.0,
+          "scale": 10,
+          "review_count": 309,
+          "checked_date": "2026-10-20",
+          "url": "https://www.kayak.sg/Beppu-Hotels-Beppu-Haruki.2373868.ksp"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "2名1泊・税・サービス料込みで40,860円〜という表示を楽天トラベルの検索スニペットで確認（プラン・時期により変動）。夕朝食とも部屋食の2食付きプランが基本。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全6室のみという規模で、各室に源泉掛け流しの貸切風呂（半露天タイプを含む）を備える。夕朝食はすべて部屋食で、女性料理長による創作和食を提供。12歳以下は宿泊不可の大人向け設計で、春木川のせせらぎが聞こえる静寂な環境が特徴。運営の関屋リゾートは120年以上の歴史を持ち、2026年には部屋や好きな場所で食べられる新朝食スタイル『お座敷ピクニック』の提供も開始している。",
+      "renewal_or_news": "2026年、客室や敷地内の好きな場所で食事できる新朝食スタイル『お座敷ピクニック』を通年提供開始（プレスリリース・テレビ東京プラス外部提供記事で確認）。",
+      "target_audience": ["夫婦", "記念日", "カップル", "温泉好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 12,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 82,
+      "recommendation_reason": "全6室・源泉掛け流しの客室貸切風呂・大人専用という『ここでしかできない』密度の高い体験設計が、国内アグリゲーター（jcation：157件・4.7）と海外メタサーチ（Kayak＝Booking.com系集計：309件・9.0/10≒5点換算4.5）という2つの独立した情報源でいずれも採用ライン（4.0以上）を大きく上回る評価で一致している。規模の小さい宿にもかかわらずレビュー件数が150〜300件規模と一定の信頼度があり、2026年の新朝食サービス導入という鮮度の高い話題性もある。由布院とは異なる『別府・大人の隠れ宿』という切り口で地域分散にも合致する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "jcationの項目別評価では『設備・アメニティ』が4.3と他項目（4.6〜4.8）よりやや低く、全6室・部屋食中心という構成のため館内設備の選択肢の少なさを指摘する余地はあると見られる。Kayak/Momondo側の集計コメントでも『一部低めの評価も含まれる』との要約があったが、具体的な清潔感・接客・予約トラブルに関する重大な指摘は今回確認できたスニペットの範囲では見当たらなかった（WebSearchの検索回数上限により、個別レビュー本文までの深掘りは一部制限された）。12歳以下不可のため家族旅行には不向きという制約はターゲット層の限定であり、除外基準には該当しない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "別邸はる樹 施設詳細・口コミ集計（157件・4.7） - jcation", "url": "https://jcation.com/hotel/detail-7537/" },
+        { "type": "booking_site", "title": "Beppu Haruki (SEKIYA RESORT 別邸はる樹) レビュー集計（309件・9.0/10） - Kayak", "url": "https://www.kayak.sg/Beppu-Hotels-Beppu-Haruki.2373868.ksp" },
+        { "type": "booking_site", "title": "SEKIYA RESORT 別邸はる樹 宿泊プラン一覧 - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/109022/109022_std.html" },
+        { "type": "press", "title": "関屋リゾート『別邸はる樹』新朝食スタイル『お座敷ピクニック』提供開始 - テレビ東京プラス（外部提供）", "url": "https://www.tv-tokyo.co.jp/plus/external-pr/entry/274179.html" },
+        { "type": "other", "title": "別府温泉 別邸はる樹 施設紹介", "url": "https://icotto.jp/hotels/4863" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-20-suginoi-hotel-soramaru",
+      "name": "別府温泉 杉乃井ホテル（宙館）",
+      "region": "大分県別府市観海寺（別府温泉・観海寺温泉）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル（mapple.net集計）",
+          "score": 4.62,
+          "scale": 5,
+          "review_count": 12576,
+          "checked_date": "2026-10-20",
+          "url": "https://www.mapple.net/region/a0703010200/hotel/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "フラッグシップ棟『宙館』は1泊1部屋18,800円〜という表示をWebSearchのスニペットで確認（時期・部屋タイプにより変動）。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "別府湾を見下ろす高台の大型リゾートで、宙館宿泊者専用の展望露天風呂『宙湯』、大展望露天風呂『棚湯』、温泉遊園地『アクアガーデン』など規模の大きさを活かした温泉・眺望体験が特徴。",
+      "target_audience": ["家族", "夫婦", "絶景好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 14,
+        "unique_experience_score": 14,
+        "photogenic": 13,
+        "value_for_price": 8,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 79,
+      "recommendation_reason": "楽天トラベルで12,576件という極めて大規模なクチコミに支えられた4.62という高評価で、原則6・7の信頼度基準は十分に満たす。別府湾を望む展望露天風呂『棚湯』は絶景体験として独自性が高い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "今回のWebSearchでは個別の低評価レビュー本文までは確認できなかったが、『棚湯』は過去にリニューアル休業していた時期がある旨の情報があり、現在の営業状況は要確認。清潔感・安全性に関する重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "【大分県の人気ホテル】「別府温泉 杉乃井ホテル」が選ばれる理由 - All About", "url": "https://news.allabout.co.jp/articles/o/112921/" },
+        { "type": "other", "title": "別府温泉 杉乃井ホテル 施設情報・クチコミ評価集計 - mapple.net", "url": "https://www.mapple.net/region/a0703010200/hotel/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "評価・口コミ件数は申し分ないが、客室数1,000室超の大型リゾートであり『ちょっと奮発した非日常』という本アカウントのトーンよりも大規模観光ホテルの色が強い。絶景ホテル・オールインクルーシブ的な切り口としては魅力的なため、温泉旅館カテゴリの今サイクルでは見送り、別カテゴリでの再検討候補として保留する。"
+    },
+    {
+      "id": "2026-10-20-okamotoya-ryokan-myoban",
+      "name": "岡本屋旅館",
+      "region": "大分県別府市明礬（別府明礬温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "ニフティ温泉",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 19,
+          "checked_date": "2026-10-20",
+          "url": "https://onsen.nifty.com/myouban-onsen/detail/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "今回のセッションでは1泊2名あたりの具体的な料金数値をWebSearchのスニペットから確認できなかった。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "別府八湯の一つ・明礬温泉の橋を眺めながらの夕食など、情緒ある湯治場の雰囲気が特徴。",
+      "target_audience": ["一人旅", "温泉好き", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 6,
+        "unique_experience_score": 13,
+        "photogenic": 9,
+        "value_for_price": 6,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 54,
+      "recommendation_reason": "明礬温泉らしい情緒は独自性があるが、今回確認できた情報源間で評価にばらつきが大きい（ニフティ温泉4.6／19件、jcation4.9／7件という高評価の一方、icotto3.0、cocolocala2.0という低評価の投稿も確認された）。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icotto（3.0）・cocolocala（2.0）の低めの評価投稿が確認されており、具体的な指摘内容までは今回のWebSearchでは確認できなかったものの、サイト間で評価の一致度が低く信頼度の判断が難しい。Reluxでは『評価が所定件数に満たない為総合点は算出されません』とされ、件数自体も少ない。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "review_site", "title": "岡本屋旅館 クチコミ評価4.6（19件） - ニフティ温泉", "url": "https://onsen.nifty.com/myouban-onsen/detail/" },
+        { "type": "other", "title": "岡本屋旅館 口コミ・レビュー7件・4.9 - jcation", "url": "https://jcation.com/hotel/detail-7427/" },
+        { "type": "other", "title": "岡本屋旅館 施設情報 - icotto", "url": "https://icotto.jp/hotels-2850/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数が少なく（最大19件程度）、かつサイト間で評価が4.6〜4.9の高評価から2.0〜3.0の低評価まで大きくばらついており、原則6・7（件数とセットの信頼度・複数情報源の一致）を満たさないため不採用。穴場候補（原則8）としても『複数情報源が存在する』の要件を十分に満たせず見送った。"
+    },
+    {
+      "id": "2026-10-20-ana-intercontinental-beppu",
+      "name": "ANAインターコンチネンタル別府リゾート&スパ",
+      "region": "大分県別府市（別府湾を望む高台）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 43,
+          "checked_date": "2026-10-20",
+          "url": "https://www.ana.co.jp/domestic/theme/premium_stay/anaihgbeppu/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "今回のセッションでは1泊2名あたりの具体的な料金数値をWebSearchのスニペットから確認できなかった。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "別府湾を一望する高台に立つ国際ブランドのリゾート&スパ。室内・屋外両方の温泉、クラブラウンジ、客室露天風呂付きアップグレードなどが評価されている。",
+      "target_audience": ["夫婦", "記念日", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 10,
+        "unique_experience_score": 15,
+        "photogenic": 14,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 77,
+      "recommendation_reason": "国際ブランド水準のホスピタリティと別府湾の眺望、Trip.com集計（約155〜180件規模で9.7/10相当）・楽天トラベル（43件・4.6）という複数情報源で高評価が一致。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Trip.comの個別レビューで『食事メニューにもう少し工夫が欲しい』（5点中4点）、2020年投稿で『5スターの水準にはまだ届かない部分がある』（5点中3点）という指摘を確認した。フロントの案内に誤りがあったという口コミも1件あったが、清潔感・安全性に関わる重大な指摘ではなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "ANAインターコンチネンタル別府リゾート&スパ 公式プレミアムステイ案内 - ANA", "url": "https://www.ana.co.jp/domestic/theme/premium_stay/anaihgbeppu/" },
+        { "type": "booking_site", "title": "ANAインターコンチネンタル別府リゾート&スパ 宿泊情報 - JTB", "url": "https://www.jtb.co.jp/kokunai_hotel/htl/8410119/" },
+        { "type": "review_site", "title": "Ana InterContinental Beppu Resort & Spa レビュー - Trip.com", "url": "https://ph.trip.com/hotels/beppu-hotel-detail-27391867/ana-intercontinental-beppu-resort-spa/review.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "評価・体験ともに高水準だが、国際チェーン系の『絶景リゾート&スパ』であり、今サイクルで指定された『温泉旅館』カテゴリとしての趣旨（和の湯治文化・旅館らしい体験）には合致しないため見送り。絶景ホテルカテゴリでの再検討候補として保留する。"
+    }
+  ]
+}

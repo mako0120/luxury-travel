@@ -1,0 +1,202 @@
+{
+  "cycle_date": "2026-10-30",
+  "theme": "アクティビティ（長野県木曽路・妻籠宿・馬籠宿エリアの街道歩き・トレッキング体験／本カテゴリ再調査枠）",
+  "season_rationale": "本日すでに秋田県男鹿半島をアクティビティカテゴリで調査したが該当なしだったため、別地域として長野県木曽路（妻籠宿・馬籠宿エリア）の街道歩き・トレッキング体験を再調査。妻籠宿・馬籠宿を結ぶ中山道・馬籠峠（約8km）は『妹籠・馬籠間の江戸時代の宿場町を歩いて結ぶ』という体験そのものが観光資源であり、ガイド付きウォーキングツアーが名古屋・松本発で複数運行されている。10月下旬は紅葉前の落ち着いたシーズンで、11月上旬〜中旬の紅葉本番に向けた予約検討が始まる時期にあたる。",
+  "prior_posts_checked": [
+    {
+      "candidate_id": "2026-10-21-tsumago-magome-culture",
+      "region": "長野県木曽郡南木曽町吾妻（妻籠宿・馬籠宿エリア）",
+      "category": "文化体験",
+      "note": "同じ妻籠宿・馬籠宿エリアだが、2026-10-21のサイクルは『文化体験』カテゴリで、エリア内の温泉宿（ホテル富貴の森・TAOYA木曽路・滝見の家）を対象にした調査だった。今回は依頼により『アクティビティ』カテゴリで、宿泊施設ではなく妻籠宿〜馬籠宿間の街道歩き・トレッキングのガイドツアー自体を対象とするため、対象施設・体験が異なり重複しないと判断した。"
+    },
+    {
+      "candidate_id": "2026-10-30-oga-hantou-namahage-geopark-activity",
+      "region": "秋田県男鹿市",
+      "category": "アクティビティ",
+      "note": "本日同カテゴリで先に調査したサイクル。地域が全く異なり（秋田県 vs 長野県）重複なし。すべて該当なし（rejected）で終わったため、別地域での再調査枠として本サイクルを実施した。"
+    },
+    {
+      "candidate_id": "2026-09-22-honjin-hiranoya-kachoan",
+      "region": "岐阜県高山市（飛騨高山）",
+      "category": "文化体験",
+      "note": "中山道沿いの宿場町文化圏という点では近いが、所在地（飛騨高山）・対象（宿）とも異なり重複なし。"
+    }
+  ],
+  "duplication_note": "依頼時点の指定は『カテゴリ：アクティビティ／地域：長野県木曽路（妻籠宿・馬籠宿エリアの街道歩き・トレッキング体験）』。重複回避のため data/candidates/・captions/ の全履歴（1ヶ月以上前の分も含む）を『木曽』『妻籠』『馬籠』『Tsumago』『Magome』『Kiso』で全件grepした。ヒットしたのは (1) 2026-10-21-tsumago-magome-culture（文化体験カテゴリ・温泉宿3件）、(2) 2026-09-22-fukui-gourmet等の福井関連記事中の無関係な『木』を含む語の誤ヒット、(3) 高山市（飛騨高山）・加賀市等の中山道沿い宿場町文化圏の無関係candidateのみで、アクティビティカテゴリとしての妻籠宿・馬籠宿間の街道歩き・トレッキング体験を対象にした既存candidate・captionは一件も存在しないことを確認した。よって地域・カテゴリとも新規であり重複なしと判断した。",
+  "candidates": [
+    {
+      "id": "2026-10-30-kisoji-nakasendo-trail-tour-nagoya",
+      "name": "木曽路・中山道トレイルツアー（Full-Day Kisoji Nakasendo Trail Tour from Nagoya）／運営：株式会社ツーリズムデザイナーズ（Tourism Designers Co., Ltd.）",
+      "region": "長野県木曽郡南木曽町（妻籠宿）〜岐阜県中津川市（馬籠宿）／名古屋発日帰り",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Trip.com（旅行予約サイトの口コミ集計）",
+          "score": 5.0,
+          "scale": 5,
+          "review_count": 27,
+          "checked_date": "2026-10-30",
+          "url": "https://sg.trip.com/things-to-do/detail/64443707/"
+        },
+        {
+          "source": "Pelago（シンガポール航空グループ運営の体験予約サイト・口コミ集計）",
+          "score": 5.0,
+          "scale": 5,
+          "review_count": 37,
+          "checked_date": "2026-10-30",
+          "url": "https://www.pelago.com/en-US/activity/pvrec3xw9-full-day-kisoji-nakasendo-trail-tour-from-nagoya-nagoya/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "海外旅行予約サイト（Travelocity・Expedia）の表示ではおとな1名あたり約443〜498米ドル（掲載サイト・日付により変動、日本円で概算約6.6万〜7.5万円程度）という表示を確認。日本語公式サイトでの正確な料金は確認できなかった。催行会社公式サイト（tourismdesigners.com）への到達は本セッションのネットワーク許可設定上できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "名古屋駅発の終日（約8時間20分）ガイド付きツアーで、国家資格を持つ英語ガイドの案内により、江戸時代の宿場町として保存された妻籠宿・馬籠宿の町並みを巡り、両宿をつなぐ中山道（木曽路）の一部、約3.3kmを実際に歩く。単なる観光バスツアーではなく、歴史的な街道を『自分の足で歩いて宿場町をつなぐ』という体験そのものを主軸にしている点が独自性。",
+      "renewal_or_news": "Expedia掲載情報によると、中山道の一部区間で災害復旧工事が行われているため、ウォーキング体験が中止となり、該当区間がバス移動に代替される可能性があるとの注記があった（2026年10月30日確認）。最新の催行状況は予約直前に要確認。",
+      "target_audience": ["夫婦", "カップル", "友人", "一人旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 12,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 77,
+      "recommendation_reason": "Trip.com（5.0・27件）とPelago（5.0・37件）という2つの独立した海外旅行予約プラットフォームでいずれも最高評価かつ一定数の口コミ件数を確認でき、原則6・7（評価と件数をセットで見る・独立2情報源）を満たした。妻籠宿・馬籠宿という保存状態の良い宿場町を、国家資格ガイドの解説付きで実際に歩いて結ぶという体験は、单なる『町を見る』観光ではなく『街道を歩く』アクティビティとしての独自性が明確。一方で、実際に街道上を歩く距離は約3.3kmとやや短く（終日ツアーの大半は移動・解説・自由散策に充てられる）、料金も1名あたり約6.6万〜7.5万円台と高めであるため、unique_experience_scoreとvalue_for_priceはやや控えめに評価した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本ツアー自体に対する明確なネガティブレビューはWeb調査（WebSearch）の範囲では見つからなかった。Trip.comに掲載された個別コメントはガイドを称賛する内容のみだった。類似する中山道関連の別ツアー・別事業者（責任ある旅行会社経由の自力踏破パッケージ等）では、メール対応の遅さや地図の使いにくさを指摘するレビューが見られたが、これは本candidateとは異なる事業者・プランであり、本ツアーの評価には含めていない。なお、口コミ総数（27件・37件）はホテル等に比べると少なめであり、評価の安定性には一定の留保が必要。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "Full-Day Kisoji Nakasendo Trail Tour from Nagoya - Trip.com（評価5.0・27件）", "url": "https://sg.trip.com/things-to-do/detail/64443707/" },
+        { "type": "booking_site", "title": "Full-Day Kisoji Nakasendo Trail Tour from Nagoya - Pelago（評価5.0・37件）", "url": "https://www.pelago.com/en-US/activity/pvrec3xw9-full-day-kisoji-nakasendo-trail-tour-from-nagoya-nagoya/" },
+        { "type": "booking_site", "title": "Full-Day Kisoji Nakasendo Trail Tour from Nagoya - Travelocity（料金・距離3.3km・所要8時間20分の掲載情報）", "url": "https://www.travelocity.com/things-to-do/full-day-kisoji-nakasendo-trail-tour-from-nagoya.a3887324.activity-details" },
+        { "type": "other", "title": "株式会社ツーリズムデザイナーズ 企業紹介 - 経済産業省中部経済産業局", "url": "https://www.chubu.meti.go.jp/c51ryutu/column_chubu/img/tourismdesigners/kigyou2.pdf" },
+        { "type": "other", "title": "名古屋市政策シンポジウム記録（株式会社ツーリズムデザイナーズ 代表取締役 田尾大介氏 経歴紹介）", "url": "https://www.city.nagoya.jp/somu/cmsfiles/contents/0000163/163134/symposiumtheme4transcript.pdf" }
+      ],
+      "creator_story": {
+        "text": "本ツアーの催行会社は株式会社ツーリズムデザイナーズ（名古屋市西区那古野）。名古屋市政策シンポジウムの記録によると、代表取締役は田尾大介氏で、2013年に訪日外国人向けの着地型ツアー・観光プロデュースを手がける旅行会社として同社を設立し、2015年からは名古屋駅近くの円頓寺商店街で飲食・宿泊施設を運営、2018年からは同商店街の理事長も務めているという経歴が確認できた。しかし、このWebSearchの範囲では、田尾氏本人または同社が『木曽路・中山道トレイルツアー』という企画をどのような思い・コンセプトで立案し、妻籠宿・馬籠宿という宿場町をツアーに選んだ経緯（例えば、宿場町の保存景観への思い入れや、訪日客に中山道の歴史をどう伝えたいかという意図）を直接語ったインタビュー・公式サイトのコンセプト文には行き着けなかった。公式サイト（tourismdesigners.com）自体も本セッションのネットワーク許可設定上閲覧できなかったため、本ツアー固有の開発経緯・思いについては確認できなかった旨を明記する。推測や発言の創作は行わない。",
+        "sources": [
+          { "type": "other", "title": "株式会社ツーリズムデザイナーズ 企業紹介 - 経済産業省中部経済産業局", "url": "https://www.chubu.meti.go.jp/c51ryutu/column_chubu/img/tourismdesigners/kigyou2.pdf" },
+          { "type": "other", "title": "名古屋市政策シンポジウム記録（代表取締役 田尾大介氏 経歴紹介）", "url": "https://www.city.nagoya.jp/somu/cmsfiles/contents/0000163/163134/symposiumtheme4transcript.pdf" }
+        ]
+      },
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-30-shoryudo-magome-tsumago-ryujin-falls",
+      "name": "中部昇龍道ツアー 妻籠宿・馬籠宿・龍神の滝（名古屋発日帰りバスツアー＋街道歩き）",
+      "region": "長野県木曽郡南木曽町（妻籠宿）〜岐阜県中津川市（馬籠宿・龍神の滝）／名古屋発",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Klook（旅行体験予約サイトの口コミ集計）",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 27,
+          "checked_date": "2026-10-30",
+          "url": "https://www.klook.com/en-AU/activity/149363-shoryudo-one-day-tour-magome-ryujin-falls-from-nagoya/"
+        },
+        {
+          "source": "Trip.com（同系統の妻籠・馬籠・龍神の滝ツアー掲載ページの口コミ集計）",
+          "score": 5.0,
+          "scale": 5,
+          "review_count": 20,
+          "checked_date": "2026-10-30",
+          "url": "https://ca.trip.com/things-to-do/detail/104321086"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Expedia掲載では妻籠宿・馬籠宿・龍神の滝を巡る名古屋発日帰りツアーがおとな1名あたり約68米ドル（概算約1万円程度）と、他候補に比べて大幅に手頃な価格帯だった。催行会社はExpedia上で『イーエストラベル株式会社』相当の表記があったが、正式名称・公式サイトは本セッションの調査範囲では確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "妻籠宿・馬籠宿間の街道を徒歩約8km・約3時間で結ぶ区間に加え、水遊びもできる龍神の滝への立ち寄りを組み合わせた名古屋発日帰りツアー。中山道の宿場町巡りと渓谷の滝という『歩く＋自然体験』を一度に楽しめる構成が独自性。",
+      "target_audience": ["夫婦", "カップル", "家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 11,
+        "unique_experience_score": 13,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 74,
+      "recommendation_reason": "Klook（4.5・27件）とTrip.com掲載の同系統ツアー（5.0・20件）という独立2情報源でいずれも4.0超の評価を確認し、Klook版は予約実績600件以上とSNS話題性・利用実績の面で3候補中最も高かった。料金も1名あたり約68米ドルと手頃で価格対体験価値は高い。一方、終日ツアーの中で街道を歩く区間は8km・約3時間とされるものの、龍神の滝観光やバス移動の比重も大きく『街道歩き・トレッキング』としての純度はkisoji-nakasendo-trail-tour-nagoyaよりやや薄いと判断し、また催行会社の正式名称・公式情報を十分に確認できなかった点を踏まえ、僅差でshortlistedとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Klook掲載のレビューでは『時間管理がしっかりしていた』『コストパフォーマンスが良い』といった好意的なコメントが中心で、明確なネガティブレビューは確認されなかった。WAUG掲載の体験記では『馬籠宿の方が商業的な雰囲気が強い』という比較コメントがあったが、これは施設・企画への不満ではなく、2つの宿場町の性格の違いを説明するもの。重大な指摘は見当たらない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "Departing from Nagoya: Chubu Shoryudo - Tsumago-juku & Magome-juku & Ryujin Waterfall Tour - Klook（評価4.5・27件、予約600件以上）", "url": "https://www.klook.com/en-AU/activity/149363-shoryudo-one-day-tour-magome-ryujin-falls-from-nagoya/" },
+        { "type": "booking_site", "title": "Nagoya Shoryudo 1-day tour: Magome + Tsumago-juku + Ryujin Waterfall Hidden Exploration - Trip.com（評価5.0・20件）", "url": "https://ca.trip.com/things-to-do/detail/104321086" },
+        { "type": "other", "title": "妻籠宿・馬籠宿・龍神の滝 名古屋発バスツアー体験記 - WAUG", "url": "https://www.waug.com/en/activities/153901" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-30-nakasendo-hike-nagoya-snowmonkey",
+      "name": "中山道トレイル8kmハイキングツアー（1-Day Tour from Nagoya: Hiking the Historic Nakasendo Trail）／運営：Snow Monkey Resorts Tours（Machinovate Japan Ltd.）",
+      "region": "長野県木曽郡南木曽町（妻籠宿）〜岐阜県中津川市（馬籠宿）／名古屋発",
+      "category": "アクティビティ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "Klook（旅行体験予約サイトの口コミ集計、livejapan.com掲載情報経由で確認）",
+          "score": 4.9,
+          "scale": 5,
+          "review_count": 17,
+          "checked_date": "2026-10-30",
+          "url": "https://www.klook.com/en-US/activity/122999-1-day-tour-from-nagoya-hiking-the-historic-nakasendo-trail/"
+        },
+        {
+          "source": "Airbnb体験（Experiences）",
+          "score": 5.0,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-30",
+          "url": "https://www.airbnb.ca/experiences/6923362"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "海外予約サイトの表示ではおとな1名あたり約188〜201米ドル（概算約2.8万〜3万円程度）。催行会社自社サイト（snowmonkeyresorts.com）では団体日帰りツアーが29,300円という表示も別経路で確認できたが、本セッションのネットワーク許可設定上、同サイトへの直接アクセスはできなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "妻籠宿から馬籠宿まで中山道・馬籠峠を実際に約8km通して歩く、3候補の中で最も『トレッキング』としての純度が高いツアー。英語ガイド同行で十分な休憩時間を取りながら歩く構成とされ、健脚度の高い旅行者向けの本格的な街道歩き体験。",
+      "renewal_or_news": "確認できなかった（直近のリニューアル・新企画の情報は今回のWeb調査では見つけられなかった）。",
+      "target_audience": ["一人旅", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 5,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 64,
+      "recommendation_reason": "妻籠〜馬籠間を約8km通して歩く『本格トレッキング』という点では3候補中最も独自性・アクティビティ性が高く、料金も比較的手頃だった。しかし評価の根拠がKlook上の17件と、件数が表示されないAirbnbの1件のみに限られ、原則7の『最低2種類以上の独立情報源』を数値的エビデンスとして十分な件数で満たせていない。Expedia上で『10/10 Exceptional』という表示も確認できたが、根拠となる口コミ件数が確認できず、正式なreview_scoresには含めなかった。独立2情報源の信頼性が不十分であることと、採用基準の75点にも届かないことから、今回は不採用と判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できた口コミ（Klook17件・Airbnb1件）はいずれも好意的な内容のみで、明確なネガティブレビューは見当たらなかった。ただし件数自体が少なく、ネガティブ傾向の有無を判断する材料としては不十分。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "1-Day Tour from Nagoya: Hiking the Historic Nakasendo Trail - Klook（評価4.9・17件）", "url": "https://www.klook.com/en-US/activity/122999-1-day-tour-from-nagoya-hiking-the-historic-nakasendo-trail/" },
+        { "type": "booking_site", "title": "From Nagoya: Hiking the Historic Nakasendo Trail - Airbnb Experiences", "url": "https://www.airbnb.ca/experiences/6923362" },
+        { "type": "other", "title": "Nakasendo Tours and Charters - Snow Monkey Resorts（催行会社自社ツアー紹介ページ、livejapan.com等の第三者掲載経由で内容確認）", "url": "https://www.snowmonkeyresorts.com/smr/kiso-valley/nakasendo-tours-and-charters/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミの根拠件数が極端に少なく（Klook17件・Airbnb1件）、原則7の『独立2情報源』を数値的エビデンスとして十分な信頼度で満たせなかった。score（64点）も採用基準の75点に届かない。トレッキングとしての独自性は高いため、今後口コミが蓄積された時点での再評価の余地がある。"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "cycle_date": "2026-09-14",
+  "theme": "第5サイクル（ローテーション枠）：秋の温泉旅館・九州未着手エリア（黒川温泉ほか阿蘇周辺）",
+  "season_rationale": "黒川温泉は例年10月下旬〜11月中旬が紅葉の見頃（丸鈴橋周辺・川沿い遊歩道など）で、9月中旬の投稿は『紅葉シーズンに向けて今のうちに予約・保存してもらう』タイミングとして原則30に合致する。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-20-mizu-no-oto", "region": "神奈川県箱根町（小涌谷）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-cycl-yamanakako", "region": "山梨県南都留郡山中湖村", "category": "サウナ" },
+    { "post_id": "2026-09-14-kinmedai-kokorone", "region": "静岡県伊東市（宇佐美温泉）", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "直近の既存成果物は温泉旅館×2（島根・玉造／神奈川・箱根小涌谷）、サウナ×1（山梨）、グルメ旅館×1（静岡・伊東）で、地域は中国地方・関東・中部に集中していた。並行して他エージェントが絶景ホテル／離島リゾート／オールインクルーシブ／文化体験／グランピング／アクティビティ／列車・船／大阪イベント枠を担当しているため、本サイクルは原則29に沿って『九州エリアの温泉旅館』を選定し、地域重複を避けつつカテゴリは季節性の高い温泉旅館を維持した。",
+  "candidates": [
+    {
+      "id": "2026-09-14-yamamizuki-kurokawa",
+      "name": "黒川温泉 山あいの宿 山みず木",
+      "region": "熊本県阿蘇郡南小国町（黒川温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Google ホテル", "score": 4.5, "scale": 5, "review_count": 1522, "checked_date": "2026-09-14", "url": "https://www.google.co.jp/travel/hotels/entity/CgsItrXVwMqOgZG4ARAB" },
+        { "source": "Yahoo!トラベル", "score": 4.54, "scale": 5, "review_count": 54, "checked_date": "2026-09-14", "url": "https://travel.yahoo.co.jp/00001801/" }
+      ],
+      "price_range_jpy": {
+        "note": "2名1泊で税込44,000円〜という表示をJTB掲載プランで確認（1泊2食か等の条件・部屋タイプにより変動する可能性が高い）。全21室で部屋ごとに趣が異なるため、料金差も大きいと推測される。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全21室すべてが異なる造りの客室で、田の原川沿いの渓流を望む露天風呂が名物。初夏には蛍が舞い、秋は川沿いの紅葉が楽しめる。全室に客室風呂を完備し、姉妹館『新明館』（黒川温泉で露天風呂・洞窟風呂文化発祥の宿）の湯も無料で行き来できるため、実質2つの宿の湯めぐりが楽しめる点が独自性として強い。",
+      "renewal_or_news": "直近の大規模リニューアル情報は今回のセッションでは確認できなかったが、Google/Yahoo!トラベルともに継続的に新しい口コミが投稿されており、営業状況の鮮度は確認できた。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "女子旅"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 81,
+      "recommendation_reason": "Googleホテルで1,522件という大きな母数に対して4.5、さらに独立したYahoo!トラベルでも4.54（54件）と、複数の独立情報源で一致した高評価が確認できる（原則6・7）。姉妹館込みの湯めぐり・渓流沿いの露天風呂・全室異なる造りという『ここでしかできない体験』の説得力が強く、九州エリア×紅葉シーズンという時季・地域の両面で他の既存投稿（島根・箱根・山梨・伊豆）と重複しない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Web検索で確認できた範囲では、(1)食事の提供タイミングが遅く料理が冷めていた、(2)食事会場が寒かった、(3)仲居のご当地知識対応が不十分だった、(4)川沿いの露天風呂は評判が良い一方で風呂の種類自体は少なく人工的との指摘、(5)女性用浴場の一部が工事中で入浴できなかった、という声を確認した。清潔感・安全性に関わる重大な指摘は確認されず、いずれも『体験の一部への改善要望』の範囲にとどまると判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "黒川温泉の旅館 山みず木オフィシャルサイト【阿蘇・熊本】", "url": "https://yamamizuki.com/" },
+        { "type": "official", "title": "アクセス｜黒川温泉の旅館 山みず木オフィシャルサイト", "url": "https://www.yamamizuki.com/access/" },
+        { "type": "official", "title": "黒川温泉公式サイト｜山みず木｜熊本・阿蘇の温泉地", "url": "https://www.kurokawaonsen.or.jp/oyado/innInfo.php?intYKey=22" },
+        { "type": "review_site", "title": "黒川温泉 山あいの宿 山みず木（Yamamizuki） - Google ホテル", "url": "https://www.google.co.jp/travel/hotels/entity/CgsItrXVwMqOgZG4ARAB" },
+        { "type": "review_site", "title": "黒川温泉 山あいの宿 山みず木 - 宿泊予約・クチコミ - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00001801/" },
+        { "type": "booking_site", "title": "黒川温泉 山あいの宿 山みず木 - じゃらんnet", "url": "https://www.jalan.net/yad356096/" },
+        { "type": "other", "title": "山みず木 宿泊予約プラン・料金一覧【JTB】", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/8332007/plan/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-14-okyakuya-kurokawa",
+      "name": "黒川温泉 歴史の宿 御客屋",
+      "region": "熊本県阿蘇郡南小国町（黒川温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.91, "scale": 5, "review_count": 474, "checked_date": "2026-09-14", "url": "https://travel.rakuten.co.jp/HOTEL/80591/review.html" },
+        { "source": "HIS旅プロ", "score": 3.42, "scale": 5, "review_count": 31, "checked_date": "2026-09-14", "url": "https://www.his-vacation.com/hotel/23058/map/" }
+      ],
+      "price_range_jpy": {
+        "note": "2名税込44,000円〜（じゃらん表示）、平日1泊2食21,450円〜という表示も確認。プラン・時期による差が大きい。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "享保7年（1722年）創業、黒川温泉で最も古い老舗宿で、肥後細川藩の御用宿だった歴史を持つ。鉄分を多く含み透明→緑→オレンジと色が変化する自家源泉が特徴で、露天風呂『代官の湯』『古の湯』など計7つの湯を持つ。",
+      "target_audience": ["夫婦", "記念日", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 9,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 2
+      },
+      "score": 70,
+      "recommendation_reason": "楽天トラベル単体では4.91／474件という極めて高い数値だが、他の独立情報源（HIS旅プロ3.42／31件）およびTripadvisor・ニフティ温泉のテキスト口コミでは評価が割れている。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ニフティ温泉の御客屋ページで『建物やお風呂は風情があるが、料理がとにかく不味かった』という明確な否定的コメントを確認した。加えてTripadvisorの黒川温泉関連レビュー（御客屋に言及していると見られるもの）でも『料理がホームページと異なっていた』『お風呂が狭く清掃が行き届いていなかった』『接客がおもてなしとは程遠かった』という趣旨の指摘があったが、このTripadvisorレビューが御客屋単独の施設ページに紐づくものかは今回のセッションで完全には特定できなかった（黒川温泉エリア全体のレビューページ経由で見つかったため）。料理・清掃という原則10のチェック項目に該当する指摘が独立した2情報源（楽天以外）で見られた点を踏まえ、value_for_priceとreview_reliabilityを抑えた。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "黒川温泉公式サイト｜歴史の宿 御客屋｜熊本・阿蘇の温泉地", "url": "https://www.kurokawaonsen.or.jp/oyado/innInfo.php?intYKey=3" },
+        { "type": "review_site", "title": "黒川温泉 歴史の宿 御客屋 に実際に泊まった方のクチコミ・レビュー - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/80591/review.html" },
+        { "type": "review_site", "title": "御客屋旅館 - 黒川｜ニフティ温泉", "url": "https://onsen.nifty.com/kurokawaonsen-onsen/onsen004337/" },
+        { "type": "booking_site", "title": "歴史の宿 御客屋 - 宿泊予約は＜じゃらんnet＞", "url": "https://www.jalan.net/yad328302/" },
+        { "type": "review_site", "title": "黒川温泉 歴史の宿 御客屋の地図・住所【HIS旅プロ】", "url": "https://www.his-vacation.com/hotel/23058/map/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア70点で採用ライン（75点）未満。楽天トラベルの評価は極めて高いが、料理・清掃面についてニフティ温泉およびTripadvisor系レビューで独立して否定的な指摘が見られ（原則10）、原則6・7が求める『件数とセットの信頼度』『複数独立情報源での一致』を満たしきれないと判断した。次サイクル以降、じゃらん・一休等でも数値評価を確認でき、かつ最近の口コミで料理面の改善が確認できれば再評価する。"
+    },
+    {
+      "id": "2026-09-14-kai-aso",
+      "name": "星野リゾート 界 阿蘇",
+      "region": "大分県玖珠郡九重町（瀬の本温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Tripadvisor", "score": 4.2, "scale": 5, "review_count": 127, "checked_date": "2026-09-14", "url": "https://www.tripadvisor.jp/ShowUserReviews-g1121560-d1165628-r567357826-Hoshino_Resorts_KAI_Aso-Kokonoe_machi_Kusu_gun_Oita_Prefecture_Kyushu.html" }
+      ],
+      "price_range_jpy": {
+        "note": "2名1室・税込122,100円〜、大人2名1泊夕朝食付きで125,600円〜という表示も確認。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "約8,000坪の敷地に全12棟の露天風呂付き離れのみという贅沢な構成。瀬の本温泉を全棟の露天風呂に引き、床暖房完備。『カルデラBAR』でのマイカルデラづくりなど阿蘇くじゅう国立公園ならではの体験プログラムを持つ。",
+      "target_audience": ["カップル", "記念日", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 9,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 4,
+        "sns_buzz": 6,
+        "access_and_freshness": 2
+      },
+      "score": 67,
+      "recommendation_reason": "全12棟すべて露天風呂付き離れという体験の独自性は高く、星野リゾート『界』ブランドとしての知名度もある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorに『ガッカリな対応。調子に乗ってきた星野リゾート』『とてもがっかりしました』という見出しの低評価レビューを複数確認。接客・サービスの一貫性への不満が具体的な指摘として複数件見られ、以前の運営時と比べたサービス低下を指摘する声もあった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "星野リゾート 界 阿蘇 - Tripadvisor", "url": "https://www.tripadvisor.jp/ShowUserReviews-g1121560-d1165628-r567357826-Hoshino_Resorts_KAI_Aso-Kokonoe_machi_Kusu_gun_Oita_Prefecture_Kyushu.html" },
+        { "type": "booking_site", "title": "星野リゾート 界 阿蘇 - じゃらんnet", "url": "https://www.jalan.net/yad350508/" },
+        { "type": "official", "title": "森のテラス露天風呂で涼む - 界 阿蘇 | 星野リゾート【公式】", "url": "https://hoshinoresorts.com/jp/cards/06vix86au5r/?realpath=%2Fcards%2F4rwqv6fskz0j" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア67点で採用ライン（75点）未満。Tripadvisor評価4.2自体は許容範囲だが、件数127件に対して接客サービスの一貫性を問う否定的レビューが複数見られ（原則10）、かつ2名1泊12万円台という価格帯に対する体験価値（value_for_price）を高く評価しづらいと判断した。"
+    }
+  ]
+}

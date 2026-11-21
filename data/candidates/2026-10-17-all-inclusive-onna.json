@@ -1,0 +1,140 @@
+{
+  "cycle_date": "2026-10-17",
+  "theme": "沖縄県国頭郡恩納村のオールインクルーシブ施設（名護市で該当なしのため範囲を恩納村まで拡大して再調査）",
+  "season_rationale": "前回サイクル（2026-10-17-all-inclusive-nago）で『沖縄県名護市』×『オールインクルーシブ』の組み合わせに該当なしだったため、指示に基づき地域を隣接する沖縄県国頭郡恩納村まで拡大して再調査した。カヌチャベイホテル&ヴィラズの『オールインクルーシブプラン』の有無も改めて確認した。直近投稿（2026-10-17 石垣島・久米島＝離島リゾート、2026-09-22 サホロ＝オールインクルーシブ）とは地域・カテゴリの組み合わせが重複しないテーマ。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-all-inclusive-nago", "region": "沖縄県名護市", "category": "オールインクルーシブ（該当なし）" },
+    { "post_id": "2026-10-17-ishigaki-resort", "region": "沖縄県石垣市", "category": "離島リゾート" },
+    { "post_id": "2026-10-17-kumejima-resort", "region": "沖縄県久米島町", "category": "離島リゾート" },
+    { "post_id": "2026-10-16-kai-sengokuhara", "region": "神奈川県箱根町仙石原", "category": "絶景ホテル" },
+    { "post_id": "2026-09-22-clubmed-sahoro-karikachi", "region": "北海道上川郡新得町", "category": "オールインクルーシブ" },
+    { "post_id": "2026-09-18-clubmed-tomamu-unkai", "region": "北海道占冠村トマム", "category": "オールインクルーシブ" },
+    { "post_id": "2026-09-14-clubmed-ishigaki-kabira", "region": "沖縄県石垣市川平", "category": "オールインクルーシブ" }
+  ],
+  "research_note": "このセッションのネットワーク環境では旅行系ドメイン（aquasense.jp公式サイト本体、tabiiro.jp等）へのWebFetchがEGRESS_BLOCKED（DNS解決不可）となり、WebSearchのスニペットから得られる情報を情報源として明記している。カヌチャベイホテル&ヴィラズについては、今回あらためて『オールインクルーシブ プラン』で検索したが、朝食付き・素泊まり・レンタカー付き・屋内プール利用券付きプランのみが確認でき、オールインクルーシブという名称・内容のプランは今回も確認できなかった（前回サイクルの結論を再確認）。また同ホテルの所在地は沖縄県名護市安部であり、今回の地域条件『恩納村』にも合致しない。恩納村内では、ANAインターコンチネンタル万座ビーチリゾートが複数の『沖縄オールインクルーシブ特集』記事の周辺で名前が挙がったが、個別に検索した結果、同ホテル自体のオールインクルーシブプランの料金・内容は確認できなかった（確認できたのはクリスマスディナーブッフェやサンセットビアガーデン等の単発イベント料金のみ）。一方、AQUASENSE Hotel & Resort（恩納村字冨着）については、公式サイト（aquasense.jp）のURL構造・検索結果に残る公式ページタイトル『【New Plan】POOL SUITE(プールスイート) オールインクルーシブプラン』から、同ホテルがPOOL SUITE（プールスイート、全4室）限定で公式に『オールインクルーシブプラン』を提供していることを確認できた（室内ドリンク・夕食・朝食・OPEN AIR BAR利用・スパークリングワイン1本/日等が含まれる旨の記載）。旅行メディアtabiiro.jpの『沖縄のオールインクルーシブの宿5選』にも掲載されている。ただし全77室のうち対象はプールスイート4室限定であり、全館共通プランではないため、キャプションではその点を明記する。",
+  "candidates": [
+    {
+      "id": "2026-10-17-kanucha-bay-hotel-villas-recheck",
+      "name": "カヌチャベイホテル&ヴィラズ（カヌチャリゾート）",
+      "region": "沖縄県名護市安部",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Relux", "score": 4.4, "scale": 5, "review_count": 1, "checked_date": "2026-10-17", "url": "https://rlx.jp/23754/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "朝食付きプラン・素泊まりプラン・レンタカー付きプラン・屋内プール利用券付き素泊まりプラン等は確認できたが、オールインクルーシブ料金は確認できなかった。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "沖縄県名護市安部に広がる大型複合リゾート。本格ゴルフコース・複数プール・ビーチ・マングローブの川・やんばるの森を備える。1997年開業。",
+      "target_audience": ["家族", "カップル", "友人"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 4,
+        "unique_experience_score": 10,
+        "photogenic": 9,
+        "value_for_price": 4,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 49,
+      "recommendation_reason": "今回あらためて『オールインクルーシブ プラン』で検索したが、朝食付き・素泊まり・レンタカー付き・屋内プール利用券付きプランのみが確認でき、オールインクルーシブという名称・内容のプランは確認できなかった（前回サイクルの結論を再確認）。加えて所在地が沖縄県名護市安部であり、今回の地域条件『恩納村』にも合致しない。口コミ件数も数値で裏取りできる独立2情報源が今回確認できなかった。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "今回はオールインクルーシブプランの有無の再確認が主目的だったため、低評価レビューの体系的な確認までは行っていない。前回サイクルではReluxの夕食評価がやや低い（4.0）という言及のみ確認している。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "カヌチャリゾート 公式サイト", "url": "https://www.kanucha.jp/" },
+        { "type": "booking_site", "title": "カヌチャベイホテル&ヴィラズ - じゃらんnet", "url": "https://www.jalan.net/yad346040/" },
+        { "type": "review_site", "title": "カヌチャベイホテル&ヴィラズ - Relux", "url": "https://rlx.jp/23754/review/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "オールインクルーシブという今回のカテゴリ条件を満たすプランの存在を今回も確認できなかった。加えて所在地（名護市）が今回の地域条件『恩納村』にも合致しないため不採用。"
+    },
+    {
+      "id": "2026-10-17-ana-intercontinental-manza-onna",
+      "name": "ANAインターコンチネンタル万座ビーチリゾート by IHG",
+      "region": "沖縄県国頭郡恩納村瀬良垣",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Trip.com", "score": 8.9, "scale": 10, "review_count": 400, "checked_date": "2026-10-17", "url": "https://jp.trip.com/hotels/onna-manza-beach/hotels-c35725m8165999/" },
+        { "source": "4travel.jp", "score": 4.3, "scale": 5, "review_count": 447, "checked_date": "2026-10-17", "url": "https://4travel.jp/dm_hotel_tips/10145649" }
+      ],
+      "price_range_jpy": {
+        "note": "個別イベント（クリスマスディナーブッフェ大人7,000円、サンセットビアガーデン&BBQ大人7,500円フリードリンク込み等）の価格は確認できたが、オールインクルーシブ宿泊プランそのものの料金は確認できなかった。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "沖縄本島中部・万座毛に隣接する大型リゾート。複数の『沖縄オールインクルーシブ特集』記事の周辺でも名前が挙がる知名度の高い施設。クラブラウンジやマリンアクティビティクーポン（瀬良垣あしび〜クーポン）等が充実。",
+      "target_audience": ["家族", "カップル", "記念日"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 12,
+        "unique_experience_score": 8,
+        "photogenic": 12,
+        "value_for_price": 4,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 65,
+      "recommendation_reason": "口コミ評価・件数は複数の独立情報源（Trip.com 8.9/10・400件、4travel 447件）で確認でき信頼度は高い。ただし今回個別に検索した限り、同ホテル自体の『オールインクルーシブ』と呼べる宿泊プラン（食事・ドリンクが宿泊料金に包括的に含まれるプラン）の料金・内容は確認できず、確認できたのはクリスマスディナーブッフェやサンセットビアガーデン等の単発有料イベントのみだった。今回のカテゴリ条件『オールインクルーシブ』を満たす確証が得られないため不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "4travel.jp・楽天トラベル等にクラブラウンジのサービスや客室清掃への不満を書いた口コミが一部あるが、重大な指摘が複数の独立情報源で一致しているわけではない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ANAインターコンチネンタル万座ビーチリゾート by IHG - Trip.com", "url": "https://jp.trip.com/hotels/onna-manza-beach/hotels-c35725m8165999/" },
+        { "type": "review_site", "title": "ANAインターコンチネンタル万座ビーチリゾート by IHGのクチコミ一覧 - フォートラベル", "url": "https://4travel.jp/dm_hotel_tips/10145649" },
+        { "type": "other", "title": "ANAインターコンチネンタル万座ビーチリゾート - るるぶ", "url": "https://rurubu.jp/andmore/spot/80043238" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "地域（恩納村）は合致するが、オールインクルーシブという今回のカテゴリ条件を満たす宿泊プランの存在を確認できなかったため不採用。"
+    },
+    {
+      "id": "2026-10-17-aquasense-onna",
+      "name": "AQUASENSE Hotel & Resort（アクアセンス ホテル&リゾート）",
+      "region": "沖縄県国頭郡恩納村字冨着",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Relux", "score": 4.4, "scale": 5, "review_count": 28, "checked_date": "2026-10-17", "url": "https://rlx.jp/25804/review/" },
+        { "source": "Trip.com", "score": 9.2, "scale": 10, "review_count": 121, "checked_date": "2026-10-17", "url": "https://sg.trip.com/hotels/onna-hotel-detail-91189931/aquasense-hotel-resort/review.html" }
+      ],
+      "price_range_jpy": {
+        "note": "公式サイトのプラン『POOL SUITE(プールスイート) オールインクルーシブプラン』が45,500円〜として確認できたが、1名/1室どちらの表示かはこのセッションのWebSearchスニペットからは断定できなかった。食事なしプランは2名税込27,930円〜という表示もあり、プラン・時期により変動する。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全77室が東シナ海を望むオーシャンビュー＆屋外ジェットバス付きのリゾートホテル。そのうち専用温水プール付きの『POOL SUITE（プールスイート、全4室）』限定で、公式に『オールインクルーシブプラン』を提供（室内ドリンク＝ビール・ホワイトエール飲み放題＋追加オーダー可、スパークリングワイン1本/日、夕食・朝食、OPEN AIR BAR利用等が含まれる）。沖縄の宿泊施設でオールインクルーシブ型プランを公式に掲げる施設は多くなく、旅行メディアtabiiro.jpの『沖縄のオールインクルーシブの宿5選』にも掲載されている。レストラン『RYUKYU CHINESE Bon Fire』では琉球食材と中華を組み合わせた朝食ブッフェ・夕食コースを提供。",
+      "renewal_or_news": "2026年1月、新サービス『AQUA CLUB LOUNGE』（紹興酒・泡盛等を含むドリンク提供ラウンジ）の開始が旅行業界メディアhotelbank.jpで取材・報道されている。",
+      "target_audience": ["カップル", "記念日", "ホテル好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 10,
+        "unique_experience_score": 16,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 75,
+      "recommendation_reason": "Relux（4.4/5・28件）とTrip.com（9.2/10・121件、5点換算で約4.6）という性質の異なる2つの独立情報源でいずれも高評価。全室オーシャンビュー＆屋外ジェットバスに加え、プールスイート限定で公式に『オールインクルーシブプラン』（ドリンク・夕食・朝食込み）を提供している点は沖縄の宿泊施設の中でも独自性が高く、2026年1月には新ラウンジサービスの開始も報じられており話題性・情報鮮度の面でも『今』紹介する理由がある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icottoの口コミ（2024年12月・1件）で3.5の評価があり、低層階の部屋では海が遠く感じられたという指摘があった。Trip.comの口コミでも、大浴場までの距離が遠い・サウナが狭いという声があったが、清潔感や接客・安全性に関わる重大な指摘が複数の独立情報源で一致して確認されたわけではない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "AQUASENSE Hotel & Resort 公式サイト『【New Plan】POOL SUITE(プールスイート) オールインクルーシブプラン』", "url": "https://www.aquasense.jp/plan/poolsuite_allinclusive/" },
+        { "type": "review_site", "title": "AQUASENSE Hotel & Resort クチコミ(28件) - Relux", "url": "https://rlx.jp/25804/review/" },
+        { "type": "review_site", "title": "Aquasense Hotel & Resort review - Trip.com", "url": "https://sg.trip.com/hotels/onna-hotel-detail-91189931/aquasense-hotel-resort/review.html" },
+        { "type": "other", "title": "【取材】沖縄県恩納村の「アクアセンス ホテル & リゾート」で絶景とともに愉しむ新サービス「AQUA CLUB LOUNGE」開始 - hotelbank.jp", "url": "https://hotelbank.jp/area-analysis/okinawa-aquasense-aquaclublounge2601start/" }
+      ],
+      "decision": "selected"
+    }
+  ]
+}

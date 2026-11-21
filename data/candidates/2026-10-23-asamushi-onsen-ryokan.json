@@ -1,0 +1,188 @@
+{
+  "cycle_date": "2026-10-23",
+  "theme": "温泉旅館（青森県青森市浅虫温泉）",
+  "season_rationale": "浅虫温泉は陸奥湾に面した「東北の熱海」と呼ばれる古くからの温泉地で、11月に入ると紅葉が終わり冬入り前の閑散期に向かう時期。青森市中心部からも青い森鉄道で約20分とアクセスが良く、12月以降は雪見温泉や冬の陸奥湾の魚介（ホタテ・あんこうなど）が楽しめる季節への入り口にあたる。紅葉シーズンの喧騒が落ち着き、年末年始前にゆったり温泉旅を検討する層に向けて紹介する意義があるタイミングと判断した（原則4：最新性の確認）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-22-wakura-onsen-notoraku", "region": "石川県七尾市和倉温泉", "category": "温泉旅館" },
+    { "post_id": "2026-10-21-zao-onsen-kokusaihotel", "region": "山形県山形市蔵王温泉", "category": "温泉旅館" },
+    { "post_id": "2026-10-20-bettei-haruki-beppu", "region": "大分県別府市（別府温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-10-21-yuda-onsen-gourmet-ryokan", "region": "山口県山口市湯田温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-20-gero-onsen-gourmet-ryokan", "region": "岐阜県下呂温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-22-gourmet-ryokan-kurokawa", "region": "熊本県黒川温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-22-tokachigawa-onsen-sauna", "region": "北海道十勝川温泉", "category": "サウナ" },
+    { "post_id": "2026-10-19-kusatsu-onsen-ryokan", "region": "群馬県吾妻郡草津町（草津温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-10-18-yamanokami-yukaen", "region": "岩手県花巻温泉郷", "category": "温泉旅館" },
+    { "post_id": "2026-09-22-gero-onsen", "region": "岐阜県下呂温泉", "category": "温泉旅館（旧スコープ）" },
+    { "post_id": "2026-09-18-yufuin-onsen", "region": "大分県由布院温泉", "category": "温泉旅館（旧スコープ）" }
+  ],
+  "duplication_note": "依頼時点の指定は『カテゴリ：温泉旅館／地域候補：青森県浅虫温泉』。重複回避のため、captions/・data/candidates/の全履歴（2026-09-14〜2026-10-22の全件、1ヶ月以上前の分も含めて『浅虫』『asamushi』『青森』で全件grep確認）を確認した結果、青森県・浅虫温泉はこれまで一度も候補・採用いずれにも登場しておらず、地域としては完全に新規。\n\n一方でカテゴリ『温泉旅館』は直近3日連続（2026-10-20別府温泉→10-21蔵王温泉→10-22和倉温泉）で選定されており、本サイクルで浅虫温泉の施設を選ぶと4日連続で同カテゴリが続くことになる。原則（地域・カテゴリの連続回避）の観点では望ましくない連続だが、地域（浅虫温泉・青森県）とカテゴリの指定自体が依頼で明示されているため、今回はその指定に従い調査を実施した。カテゴリの連続については完了報告で明示し、次サイクル以降は温泉旅館以外のカテゴリ（絶景ホテル・グランピング・アクティビティ等）を優先することを推奨する。",
+  "candidates": [
+    {
+      "id": "2026-10-23-tsubakikan",
+      "name": "創業400年 自家源泉かけ流し 棟方志功ゆかりの宿 椿館",
+      "region": "青森県青森市浅虫内野（浅虫温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらん クチコミ集計",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 57,
+          "checked_date": "2026-10-23",
+          "url": "https://www.jalan.net/yad380010/"
+        },
+        {
+          "source": "楽天トラベル クチコミ集計（mapple.net掲載値）",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 596,
+          "checked_date": "2026-10-23",
+          "url": "https://www.mapple.net/station/282438/hotel/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付・大人1名21,175円〜39,900円程度（近畿日本ツーリスト掲載の目安額。部屋タイプ・時期・プランにより変動）",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "創業400年、敷地内に9本の自家源泉を持ち、加水のみで源泉かけ流しの温泉を提供する浅虫温泉の老舗旅館。青森出身の板画家・棟方志功画伯にゆかりがあり、館内に作品を展示するギャラリー「棟方志功ギャラリー」を併設。2024年春に食事処「ダイニング椿の箱」とギャラリーをリニューアルし、中庭を望む会場で郷土会席料理を提供する。貸切風呂（無料・4月下旬〜10月、要予約）もある。",
+      "renewal_or_news": "2024年春に食事処「ダイニング椿の箱」と棟方志功ギャラリーをリニューアルオープン。じゃらん・楽天トラベルいずれも2026年に入ってからの口コミ投稿が継続しており、情報の鮮度は確認できた。",
+      "target_audience": ["夫婦", "記念日", "カップル", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 16,
+        "photogenic": 11,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 5
+      },
+      "score": 80,
+      "recommendation_reason": "じゃらん（4.6点・57件）と楽天トラベル（4.6点・596件規模）という2つの独立した情報源で、いずれも主要レビュー4.0以上かつ十分な件数を確認できた。創業400年・自家源泉9本かけ流し・棟方志功ゆかりのギャラリーという『ここでしかできない』歴史と文化の掛け合わせがあり、2024年春のリニューアルで食事処とギャラリーが新しくなっている情報鮮度もある。青森県浅虫温泉はこのアカウントで過去一度も取り上げていない地域で、地域分散の観点からも新規性が高い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベル提供のカテゴリ別評価（icotto経由）では、バリアフリー3.06・客室3.56が他項目（接客対応4.23・食事4.00前後）より低めで、建物自体は年季が入っているとの指摘が複数の口コミで見られる。2026年6月の投稿でも『年季の入った旅館だが清潔に保たれている』という趣旨の内容が中心で、重大な衛生・安全上の問題や予約トラブルの多発は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "創業400年 自家源泉かけ流し 棟方志功ゆかりの宿 椿館 - じゃらんnet（クチコミ4.6・57件）", "url": "https://www.jalan.net/yad380010/" },
+        { "type": "other", "title": "浅虫温泉駅周辺ホテル一覧（椿館 楽天トラベルクチコミ4.6・596件） - 昭文社マップル", "url": "https://www.mapple.net/station/282438/hotel/" },
+        { "type": "other", "title": "浅虫温泉 椿館 施設情報・フォートラベル提供カテゴリ別評価 - icotto", "url": "https://icotto.jp/hotels/9526" },
+        { "type": "booking_site", "title": "椿館（浅虫温泉）宿泊プラン・料金 - 近畿日本ツーリスト", "url": "https://yado.knt.co.jp/areamap/1020104100001/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-23-asamushi-sakura-kanko",
+      "name": "絶景の宿 浅虫さくら観光ホテル",
+      "region": "青森県青森市浅虫（浅虫温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル クチコミ集計",
+          "score": 4.12,
+          "scale": 5,
+          "review_count": 717,
+          "checked_date": "2026-10-23",
+          "url": "https://travel.rakuten.co.jp/ranking/onsen/aomori/aomori_0007_0_3_0_0.html"
+        },
+        {
+          "source": "icotto/フォートラベル提供 個別口コミ（2026年投稿分の最低評価）",
+          "score": 2.0,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-23",
+          "url": "https://icotto.jp/hotels/4937"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "今回のWebSearchでは具体的な1泊2食の料金数値は確認できなかった。公式サイト・各予約サイトで要確認。",
+        "as_of_search_date": "2026-10-23"
+      },
+      "unique_experience": "浅虫温泉で唯一、陸奥湾の波打ち際に建つホテルで全室オーシャンビュー。最上階には陸奥湾を一望する展望露天風呂があり、ロビーでは夜に津軽三味線の生演奏がある。2024年12月にロビーをリニューアルし、ねぶたアートを展示。",
+      "renewal_or_news": "2024年12月にロビーリニューアル、ねぶたアート展示を追加。",
+      "target_audience": ["夫婦", "カップル", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 8,
+        "unique_experience_score": 15,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 64,
+      "recommendation_reason": "全室オーシャンビュー・展望露天風呂・津軽三味線の生演奏という景観体験は独自性が高いが、料理への不満（『出来合いに感じた』『再訪は考えない』）や客室の清掃面（窓ガラスの汚れ）、施設の古さを指摘する口コミが複数の情報源で見られ、評価のばらつきが大きい。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icotto/フォートラベル経由の個別口コミで、料理が『出来合いのものに感じられ、再訪は考えない』とする2.0点の投稿、客室の窓ガラスの汚れを指摘する2.0点の投稿が確認された。別の口コミでは施設の古さを指摘しつつも景色には癒されたとする声もあり、評価は投稿者によって大きく分かれている。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "booking_site", "title": "絶景の宿 浅虫さくら観光ホテル 施設情報 - じゃらんnet", "url": "https://www.jalan.net/yad323677/" },
+        { "type": "review_site", "title": "絶景の宿 浅虫さくら観光ホテル クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-10034515" },
+        { "type": "other", "title": "浅虫温泉 絶景の宿 浅虫さくら観光ホテル 施設紹介・口コミ - icotto", "url": "https://icotto.jp/hotels/4937" },
+        { "type": "other", "title": "青森県 温泉旅館・ホテル（総合）人気ランキング - 楽天トラベル", "url": "https://travel.rakuten.co.jp/ranking/onsen/aomori/aomori_0007_0_3_0_0.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "景観・体験の独自性はあるが、料理・清掃面について具体的な不満を述べる低評価の口コミが複数の独立した情報源（icotto/フォートラベル）で確認され、評価のばらつきが大きく原則6（主要レビュー4.0以上を複数の独立情報源で満たす）を安定して満たせないと判断し、今回は不採用とした。"
+    },
+    {
+      "id": "2026-10-23-hotel-akitaya",
+      "name": "ホテル秋田屋 夕陽と陸奥湾を望む展望温泉",
+      "region": "青森県青森市浅虫（浅虫温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "icotto 口コミ集計",
+          "score": 3.38,
+          "scale": 5,
+          "review_count": 29,
+          "checked_date": "2026-10-23",
+          "url": "https://icotto.jp/hotels/9527"
+        },
+        {
+          "source": "楽天トラベル クチコミ集計（gpoint掲載値）",
+          "score": 3.97,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-23",
+          "url": "https://travel.gpoint.co.jp/daredoko/h19315/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "今回のWebSearchでは具体的な1泊2食の料金数値は確認できなかった。",
+        "as_of_search_date": "2026-10-23"
+      },
+      "unique_experience": "国道4号線沿いに建ち、展望露天風呂から陸奥湾に沈む夕陽を望める。陸奥湾の魚介（ホタテなど）を使った食事が評判。",
+      "renewal_or_news": "特筆すべき最新のリニューアル・ニュースは確認できなかった。",
+      "target_audience": ["夫婦", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 11,
+        "review_reliability": 7,
+        "unique_experience_score": 13,
+        "photogenic": 9,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 53,
+      "recommendation_reason": "展望露天風呂からの夕陽と陸奥湾の魚介料理は魅力的だが、icottoの口コミ集計が3.38点（29件）と原則6の採用基準（4.0以上）に届かず、国道沿いで一晩中車の騒音が気になるという具体的な指摘もあり、現時点では紹介を見送る。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2023年10月の家族旅行の口コミ（総合2.5）では、客室の評価が2.0と低く、国道4号線沿いで一晩中車の騒音が気になった、建物の古さが感じられたという具体的な指摘があった。温泉の泉質自体は高評価だが、客室・騒音面での不満が複数確認された。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "booking_site", "title": "ホテル秋田屋 夕陽と陸奥湾を望む展望温泉 - じゃらんnet", "url": "https://www.jalan.net/yad323968/" },
+        { "type": "review_site", "title": "浅虫温泉 ホテル秋田屋 クチコミ（3.38・29件） - icotto", "url": "https://icotto.jp/hotels/9527" },
+        { "type": "other", "title": "ホテル秋田屋 夕陽と陸奥湾を望む展望温泉のクチコミ＆詳細（楽天トラベル3.97） - gpoint だれどこ", "url": "https://travel.gpoint.co.jp/daredoko/h19315/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "icotto口コミ集計が3.38点（29件）で原則6の基準（主要レビュー4.0以上）を満たさず、国道沿いの車の騒音や客室の古さを指摘する具体的な口コミもあったため、今回は不採用とした。"
+    }
+  ]
+}

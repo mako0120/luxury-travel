@@ -1,0 +1,172 @@
+{
+  "cycle_date": "2026-10-24",
+  "theme": "オールインクルーシブ×北海道トマム（重複確認サイクル）",
+  "season_rationale": "10月下旬は北海道の冬季リゾート（スキー場・オールインクルーシブ含む）の早期予約・早割検討が本格化する時期にあたるため、『北海道トマム×オールインクルーシブ』を今サイクルのテーマとして調査した。ただし調査の結果、トマムエリアで真のオールインクルーシブ（食事・ドリンク・アクティビティ込み）条件を満たす施設は、2026-09-18サイクルで既にdecision: selectedとして採用・キャプション化済みの『クラブメッド・北海道 トマム』が実質唯一であることを再確認した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-18-clubmed-tomamu", "region": "北海道勇払郡占冠村", "category": "オールインクルーシブ", "note": "decision: selected。captions/2026-09-18-clubmed-tomamu-unkai.json としてキャプション化済み。" },
+    { "post_id": "2026-09-18-clubmed-sahoro", "region": "北海道上川郡新得町（狩勝高原）", "category": "オールインクルーシブ", "note": "decision: shortlisted（同一トマムエリアではないため重複対象外）" },
+    { "post_id": "2026-09-14-unkai-terrace-tomamu", "region": "北海道勇払郡占冠村（トマム）", "category": "アクティビティ", "note": "雲海テラス単体の絶景体験としてキャプション化済み。同一エリアだが別カテゴリ（アクティビティ）のため今回のオールインクルーシブ調査とは重複しない。" }
+  ],
+  "duplication_note": "既存データ（1ヶ月以上前を含む）を確認した結果、北海道トマム地域でオールインクルーシブ（食事・ドリンク・アクティビティ込みの料金体系）に該当する施設は『クラブメッド・北海道 トマム』のみであり、これは2026-09-18サイクルで既にdecision: selectedとして採用済み・captions/2026-09-18-clubmed-tomamu-unkai.jsonとしてキャプション化済み。CLAUDE.mdの『登録済み候補を制作工程で再採点・再除外してはいけない』の精神に基づき、本サイクルでは同施設を再評価・再選定せず、重複として扱う（下記candidates配列ではdecision: rejectedとして重複記録のみ残す）。星野リゾート トマム系施設（トマム ザ・タワー、リゾナーレトマム）についても新たに調査したが、いずれも提供プランが『朝食券・夕食券付き』中心でドリンク・アクティビティ込みの真のオールインクルーシブではなく、今サイクルのテーマ対象には該当しないため不採用とした。結果として本サイクルでは新規selected候補は0件。",
+  "other_candidates_considered": [
+    "星野リゾート トマム ザ・タワー（食事券付きプランのみでオールインクルーシブ非該当のため不採用）",
+    "星野リゾート リゾナーレトマム（食事券付きプランのみでオールインクルーシブ非該当のため不採用）"
+  ],
+  "candidates": [
+    {
+      "id": "2026-10-24-clubmed-tomamu-duplicate-check",
+      "name": "クラブメッド・北海道 トマム",
+      "region": "北海道勇払郡占冠村",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Tripadvisor",
+          "score": 4.8,
+          "scale": 5,
+          "review_count": 3358,
+          "checked_date": "2026-09-18",
+          "url": "https://www.tripadvisor.jp/Hotel_Review-g1120868-d13101783-Reviews-Club_Med_Tomamu_Hokkaido-Shimukappu_mura_Yufutsu_gun_Hokkaido.html"
+        },
+        {
+          "source": "一休.com",
+          "score": 4.08,
+          "scale": 5,
+          "review_count": 29,
+          "checked_date": "2026-09-18",
+          "url": "https://www.ikyu.com/00030824/review/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "2026-09-18サイクル時点の調査では『大人2名1室・夕朝食付きプランで1泊36,800円〜』という表示を確認したが、これがドリンク・アクティビティ込みのオールインクルーシブ料金かは未確定。本サイクルでは重複確認のため価格の再調査は行っていない。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "標高1,088m以上に位置する名物『雲海テラス』を擁する、北海道占冠村のクラブメッド・リゾート。オールインクルーシブプランには世界各国の料理・北海道グルメのビュッフェ、バーベキューディナー、プレミアムアルコールのテイスティング、キッズプログラム、冬季はゴンドラ・リフト・スキー／スノーボードスクールまで追加料金なしで含まれる（詳細はdata/candidates/2026-09-18-all-inclusive-hokkaido.json参照）。",
+      "renewal_or_news": "本サイクルでは再調査していない。詳細はdata/candidates/2026-09-18-all-inclusive-hokkaido.jsonを参照。",
+      "target_audience": ["家族", "カップル", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 19,
+        "photogenic": 14,
+        "value_for_price": 7,
+        "sns_buzz": 9,
+        "access_and_freshness": 4
+      },
+      "score": 89,
+      "recommendation_reason": "2026-09-18サイクルで既にTripadvisor4.8（3,358件）・一休.com4.08（29件）という2つの独立情報源で高評価を確認し、score89点でdecision: selectedとして採用・キャプション化済み（captions/2026-09-18-clubmed-tomamu-unkai.json）。本サイクルはトマム×オールインクルーシブという同テーマでの重複確認が目的であり、新規採点は行わず既存データを参照した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2026-09-18サイクルで確認済み。一休.comの口コミ『子どもがいない人には全く不向き』（賑やかさ・館内でのアルコール販売なし）はあったが、清潔感・安全性に関わる重大な指摘ではない。本サイクルでは再確認していない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "北海道 トマム 日本｜クラブメッド公式サイト", "url": "https://www.clubmed.co.jp/r/%E5%8C%97%E6%B5%B7%E9%81%93%E3%83%88%E3%83%9E%E3%83%A0/s" },
+        { "type": "official", "title": "日本一に輝く、クラブメッド・北海道トマム | オールインクルーシブ・リゾートならクラブメッド", "url": "https://www.clubmed.co.jp/l/tripadvisor-award-tomamu" },
+        { "type": "review_site", "title": "クラブメッド 北海道トマム【2026年最新の料金比較・口コミ・宿泊予約】- トリップアドバイザー", "url": "https://www.tripadvisor.jp/Hotel_Review-g1120868-d13101783-Reviews-Club_Med_Tomamu_Hokkaido-Shimukappu_mura_Yufutsu_gun_Hokkaido.html" },
+        { "type": "review_site", "title": "クラブメッド・北海道 トマム - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00030824/review/" },
+        { "type": "other", "title": "data/candidates/2026-09-18-all-inclusive-hokkaido.json（既存調査データ）", "url": "https://www.clubmed.co.jp/r/%E5%8C%97%E6%B5%B7%E9%81%93%E3%83%88%E3%83%9E%E3%83%A0/s" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "2026-09-18サイクルで同一施設を既にdecision: selectedとして採用し、captions/2026-09-18-clubmed-tomamu-unkai.jsonとしてキャプション化済み。CLAUDE.md『登録済み候補を制作工程で再採点・再除外してはいけない』の精神および今回の重複回避指示に基づき、本サイクルでは再採点・再選定せず重複として不採用とする（スコアによる除外ではなく、既対応済みの記録）。今回の再調査でもトマムエリアの真のオールインクルーシブ施設は本施設が実質唯一であることを確認した。"
+    },
+    {
+      "id": "2026-10-24-tomamu-the-tower",
+      "name": "トマム ザ・タワー by 星野リゾート",
+      "region": "北海道勇払郡占冠村",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらんnet",
+          "score": 3.8,
+          "scale": 5,
+          "review_count": 2035,
+          "checked_date": "2026-10-24",
+          "url": "https://www.jalan.net/yad341204"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "2026年シーズンの朝食付きプランで1名あたり16,100円〜25,300円程度（部屋タイプ・時期により変動）。確認できた範囲ではドリンク・アクティビティ込みのオールインクルーシブ料金プランは存在せず、基本は朝食券（一部プランは夕食券も）付きの食事券方式。2026年4月1日チェックイン分からは宿泊税（1人1泊200〜1,000円）が別途かかる。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "標高1,088mの名物『雲海テラス』へのゴンドラアクセスを持つ、星野リゾート トマムの中核宿泊棟。全室スイート、インドア人工ウェーブプール『ミナミナビーチ』、木林の湯などの施設を擁するが、提供プランは基本的に食事券付き中心で、ドリンク・アクティビティ込みのオールインクルーシブ料金体系ではないことを確認した。",
+      "renewal_or_news": "2026年10月1日〜11月30日の間、ザ・タワーのエレベーター更新工事が実施され、館内の一部通行に制約が出る可能性がある。",
+      "target_audience": ["家族", "カップル", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 14,
+        "unique_experience_score": 14,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 74,
+      "recommendation_reason": "じゃらんnet3.8（2,035件）と大規模な口コミ件数を持ち、雲海テラスへのアクセスという立地の強みはあるものの、評価自体は採用ライン（4.0以上）をわずかに下回り、スコアも74点で採用基準（75点）に届かない。また提供プランがドリンク・アクティビティ込みの真のオールインクルーシブではないため、今サイクルのテーマ『オールインクルーシブ×トマム』の対象には該当しない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミで建物の老朽化・サービス低下を指摘する厳しい投稿（1.0点、2019年）を確認。また雲海テラスは天候条件次第で体験できないことがあるため『夏に訪れる目的をよく考えるべき』という指摘、温泉・お風呂の評価がYahoo!トラベルで3.62と他項目より低いことも確認した。2026年10〜11月はエレベーター更新工事中である点も滞在への影響として留意。清潔感・安全性に関わる重大な複数独立指摘ではないが、施設の経年変化は留意点として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "星野リゾート トマム 公式サイト", "url": "https://www.snowtomamu.jp/" },
+        { "type": "review_site", "title": "トマム ザ・タワー by 星野リゾート - じゃらんnet", "url": "https://www.jalan.net/yad341204" },
+        { "type": "review_site", "title": "トマム ザ・タワー by 星野リゾート - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00002585" },
+        { "type": "booking_site", "title": "トマム ザ・タワー by 星野リゾート プラン一覧 - ぐうたび", "url": "https://www.gutabi.jp/hotel/base/293/plan/index/504264" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "スコア74点で採用基準（75点）未達、かつ主要レビュー評価（じゃらんnet3.8）も採用ライン4.0をわずかに下回る。加えて提供プランがドリンク・アクティビティ込みの真のオールインクルーシブではないため、今サイクルのテーマ対象外。"
+    },
+    {
+      "id": "2026-10-24-risonare-tomamu",
+      "name": "星野リゾート リゾナーレトマム",
+      "region": "北海道勇払郡占冠村字中トマム",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル（口コミ集計・gpoint経由で確認）",
+          "score": 4.33,
+          "scale": 5,
+          "review_count": 49,
+          "checked_date": "2026-10-24",
+          "url": "https://travel.gpoint.co.jp/daredoko/a099-f041/wek/all/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "1部屋1泊39,270円〜（2026年6月時点の掲載情報で確認）。提供プランは朝食券付きが中心で、ドリンク・アクティビティ込みのオールインクルーシブ料金プランは確認できなかった。",
+        "as_of_search_date": "2026-10-24",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "星野リゾート トマムの敷地内にある、リビング付きスイートを中心としたリゾートホテル。広大なファームエリアでの季節体験イベント（2026年夏は『ファームdeとうきびフェス』、7月1日〜8月31日開催予定）が特徴だが、提供プランは基本的に朝食券付き中心で、ドリンク・アクティビティ込みのオールインクルーシブ料金体系ではないことを確認した。",
+      "target_audience": ["家族", "カップル", "記念日"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 9,
+        "unique_experience_score": 14,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 72,
+      "recommendation_reason": "楽天トラベル4.33（gpoint経由・49件相当）は採用ラインを超えるが、件数規模が小さく一次情報での再確認もできておらず信頼性に乏しい。スコアも72点で採用基準（75点）に届かない。また提供プランがドリンク・アクティビティ込みの真のオールインクルーシブではないため、今サイクルのテーマ『オールインクルーシブ×トマム』の対象には該当しない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミでは『高級リゾートとは名ばかりのお粗末な内容』という厳しい評価と、雲海や北海道らしい景色に満足したという好意的な評価が混在していることを確認。別の口コミでは朝食ビュッフェの混雑時の席配置・品切れへの不満も見られた。清潔感・安全性に関わる重大な複数独立指摘ではないが、体験品質のばらつきは留意点として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "星野リゾート リゾナーレトマム 公式サイト", "url": "https://risonare.com/tomamu/" },
+        { "type": "review_site", "title": "リゾナーレトマム 口コミ・評価（楽天トラベル集計） - gpoint", "url": "https://travel.gpoint.co.jp/daredoko/a099-f041/wek/all/" },
+        { "type": "review_site", "title": "リゾナーレ トマムのクチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel_tips/11967895" },
+        { "type": "other", "title": "リゾナーレトマム 施設情報 - JTB", "url": "https://www.jtb.co.jp/kokunai_hotel/htl/1578020/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "スコア72点で採用基準（75点）未達。参照した口コミ件数（約49件相当）が小規模で信頼性にも限界があり、かつ提供プランがドリンク・アクティビティ込みの真のオールインクルーシブではないため、今サイクルのテーマ対象外。"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "cycle_date": "2026-10-20",
+  "theme": "カテゴリ『オールインクルーシブ』×地域候補『沖縄県宮古島または新潟県妙高高原』",
+  "season_rationale": "指示された2地域のうち、まず新潟県妙高高原でオールインクルーシブ施設をWebSearchで調査したが、『オールインクルーシブ』を明記する施設は確認できず、同種のキーワードで見つかったのは妙高ではなく那須高原の施設だった（妙高高原エリアで挙がったのは『リゾートプロジェクト妙高高原』『森のロッジ妙高』『妙高山里の湯宿 香風館』『アパホテル&リゾート上越妙高』等の一般的な宿泊施設のみ）。次点として沖縄県宮古島を調査した結果、オールインクルーシブ型のプラン・施設を複数確認できたため、本サイクルは宮古島に絞って候補調査を行った。直近投稿（10/17 恩納村AQUASENSE、10/18 読谷村グランドメルキュール沖縄残波岬、10/19 ハウステンボス ホテルデンハーグ）とは地域が異なり、連続投稿回避（原則29）の観点でも適切。宮古島は11月以降も海水温が高く『少し贅沢な秋冬の沖縄離島旅』として需要期にあたる。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-aquasense-onna", "region": "沖縄県国頭郡恩納村字冨着", "category": "オールインクルーシブ（既出・別施設）" },
+    { "post_id": "2026-10-18-grand-mercure-okinawa-zanpa", "region": "沖縄県中頭郡読谷村字儀間", "category": "オールインクルーシブ（既出・別施設）" },
+    { "post_id": "2026-10-19-hotel-denhaag-htb", "region": "長崎県佐世保市ハウステンボス町", "category": "オールインクルーシブ（既出・別施設）" },
+    { "post_id": "2026-09-18-hilton-okinawa-miyako", "region": "沖縄県宮古島市平良（トゥリバー地区）", "category": "離島リゾート（宮古島だが別カテゴリ・別施設）" },
+    { "candidate_id": "2026-10-19-irabu-island-resort", "region": "沖縄県宮古島市伊良部（伊良部島）", "category": "離島リゾート（宮古島エリアだが別カテゴリ、未選定候補）" }
+  ],
+  "research_note": "captions/とdata/candidates/の直近エントリを確認した上で、まず妙高高原を調査（成果なし、上記season_rationale参照）。続いて宮古島で『オールインクルーシブ』を軸にWebSearchを実施し、(1) ザ シギラ（シギラセブンマイルズリゾート内、専任バトラー付きの全室プライベートプール・スイートヴィラ、食事・エステ・ゴルフ・サンセットクルーズ等込み）、(2) JIVANA宮古島（旧アヤンナ宮古島、伊良部島の全7室オールスイートヴィラ、2食+ランチ1回・フリードリンク・エステを含むプラン）、(3) ホテルシギラミラージュ（同リゾート内の大型ホテル、朝食付き情報はあるがオールインクルーシブの明記なし）の3件を調査した。ザ シギラはSkyticket集計（4.2/5・43件）とSLH掲載のTripadvisor評価（4.5/5・13件）という独立した2情報源でいずれも5点満点換算4.0超、宮古島ホテルランキング記事（jcation）でも総合1位評価を得ており、負のレビューも1件のみ（施設の古さ・相部屋食堂への不満）で重大な指摘の一致は確認されなかったため、本サイクルのBEST候補として選定した。JIVANA宮古島は独自性（全室プライベートプール・ミシュランキー受賞）は高いが、フォートラベルで『評価なし・口コミ0件』であり、原則6・7（レビュー評価4.0以上・独立2情報源での裏取り）を満たすか判断できず不採用。ホテルシギラミラージュはオールインクルーシブと明記されたプランの存在を確認できず、カテゴリ条件に合致しないと判断し不採用。なお、ローズウッド宮古島（デイリークレジット方式でオールインクルーシブではない）やキャノピーbyヒルトン沖縄宮古島リゾート（2026年4月開業予定・朝食付きプランのみ確認）も検索で見つかったが、『オールインクルーシブ』の定義に合致しないため候補から除外し、このJSONには含めていない。このセッションのネットワーク環境では shigira.com・travel.rakuten.co.jp・skyticket.jp・jcation.com等へのWebFetchがEGRESS_BLOCKED/ENOTFOUNDとなったため、これらの情報はWebSearchのスニペットを情報源として明記している。また、本ターンのWebSearch利用上限に達したため、ローズウッド宮古島の口コミ評価など一部の追加裏取りは完了できていない。",
+  "candidates": [
+    {
+      "id": "2026-10-20-the-shigira-miyako",
+      "name": "ザ シギラ（THE SHIGIRA）",
+      "region": "沖縄県宮古島市新城（シギラセブンマイルズリゾート内）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Skyticket（口コミ集計）", "score": 4.2, "scale": 5, "review_count": 43, "checked_date": "2026-10-20", "url": "https://skyticket.jp/hotel/detail/property_16593/" },
+        { "source": "Tripadvisor（SLH掲載値）", "score": 4.5, "scale": 5, "review_count": 13, "checked_date": "2026-10-20", "url": "https://slh.com/hotels/the-shigira" }
+      ],
+      "price_range_jpy": {
+        "note": "専任バトラー・食事・エステ・ゴルフ・サンセットクルーズ等を宿泊料金に含むオールインクルーシブ型のスイートヴィラ。複数の予約サイトで示された参考料金は、cocolocala掲載¥292,423〜（条件不明）、travelist掲載の大人1名/1室/1泊『オーシャンビュー プレミアスイートヴィラ(2ベッドルーム)』¥404,200〜、jcation掲載の大人2名1室2日間合計¥470,362（割引後、税・サービス料込み、1名あたり約¥235,181）など、部屋タイプ・人数・時期によって数十万円単位で変動する。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "シギラセブンマイルズリゾート内の最上位ブランドで、全棟プライベートプール付きのオールスイートヴィラ。専任バトラーが食事・ゴルフ・エステ・サンセットクルーズまで一括でアレンジするオールインクルーシブ型。",
+      "renewal_or_news": "宮古島ホテルランキング記事（jcation）で総合評価1位として紹介されており、シギラセブンマイルズリゾート内の最上位ブランドとして運営が継続している。本セッションではshigira.com等公式サイトへの直接アクセスがEGRESS_BLOCKED等で確認できず、OTA・口コミサイトのスニペット情報を情報源としている。",
+      "target_audience": ["カップル", "記念日", "夫婦", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 10,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 78,
+      "recommendation_reason": "宮古島・シギラセブンマイルズリゾート内の最上位ヴィラブランドで、専任バトラーが食事・ゴルフ・エステ・サンセットクルーズまで一括アレンジする全室プライベートプール付きオールインクルーシブ。Skyticket集計で4.2/5(43件)、SLH掲載のTripadvisor評価で4.5/5(13件)という独立した2情報源でいずれも5点満点換算4.0超、宮古島ホテルランキング記事(jcation)でも総合1位評価。既出のAQUASENSE(恩納村)・グランドメルキュール沖縄残波岬(読谷村)・ホテルデンハーグ(ハウステンボス)とは地域（宮古島）もブランドも異なり、連続投稿回避(原則29)の観点でも良い選択。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "cocolocalaに1件、評価1.0の口コミ(2026年3月14日投稿)があり、『旧館の設備が古い・新館もデザインが古く写真映えしない』『高いけどお得という料金の見せ方がむしろ魅力を下げる』『シギラリゾート内の大食堂で他施設の宿泊客と同じ場所で食事をするのが不快だった』という指摘があった。一方で同ページ・他サイトの口コミの多くは専任バトラーの対応や食事・エステへの満足度を高く評価しており、清潔感・接客・安全面での重大な指摘が複数の独立情報源で一致して確認されたわけではない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ザ シギラ 宿泊プラン・クチコミまとめ - skyticket", "url": "https://skyticket.jp/hotel/detail/property_16593/" },
+        { "type": "booking_site", "title": "The Shigira - Small Luxury Hotels of the World（Tripadvisor評価4.5/13件を掲載）", "url": "https://slh.com/hotels/the-shigira" },
+        { "type": "review_site", "title": "ザ シギラ クチコミ・料金 - cocolocala", "url": "https://www.cocolocala.jp/hotels/176923" },
+        { "type": "other", "title": "宮古島ホテルランキング記事内『ザ シギラ』紹介 - jcation", "url": "https://jcation.com/hotel/detail-2281/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-20-jivana-miyako",
+      "name": "JIVANA宮古島（ジバナ宮古島、旧アヤンナ宮古島）",
+      "region": "沖縄県宮古島市伊良部佐和田（伊良部島）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "フォートラベル(4travel.jp)", "score": 0, "scale": 5, "review_count": 0, "checked_date": "2026-10-20", "url": "https://4travel.jp/dm_hotel-11367452" }
+      ],
+      "price_range_jpy": {
+        "note": "全7室オールスイートヴィラ(全室プライベート温水プール付き)。プレスリリースによるオールインクルーシブプラン(2食+滞在中1回のランチ、20種類以上のフリードリンク、客室エステ等含む)は通常の単品料金より最大28%程度お得とされるが、具体的な1泊料金はこのセッションのWebSearchスニペットからは確認できなかった。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "伊良部島・佐和田の海を望む全7室オールスイート・プライベートプール付きヴィラ。『ミシュランキーホテルセレクション2026』で1ミシュランキーを受賞(企業発表)。2食+ランチ1回・フリードリンク20種類以上・客室エステを含むオールインクルーシブプランを提供。",
+      "renewal_or_news": "2024年頃に『アヤンナ宮古島』から『JIVANA宮古島(ジバナ宮古島)』へ名称変更されたとみられる(複数の予約サイト・紹介記事で旧名称との対応が確認できる)。",
+      "target_audience": ["カップル", "記念日", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 4,
+        "review_reliability": 2,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 49,
+      "recommendation_reason": "全室プライベートプール付きのオールスイートヴィラでミシュランキー受賞という独自性は高いが、主要レビューサイト(フォートラベル)では『評価なし・口コミ0件』、他の予約サイトでも口コミ件数・点数が確認できず、原則6(主要レビューサイト評価4.0以上)・原則7(独立2情報源での評価確認)を満たすか判断できない。穴場候補(原則8)として検討したが、『強い独自性』は満たす一方、評価の裏取りが実質ゼロのため今回は不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルでは『みんなの満足度:評価なし』『口コミ0件』と表示されており、ポジティブ・ネガティブいずれの具体的な口コミも確認できなかった。重大な指摘は見つかっていないが、母数が無いため判断不能。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ジバナ宮古島(旧アヤンナ宮古島) クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-11367452" },
+        { "type": "press", "title": "アヤンナ宮古島 オールインクルーシブプラン提供開始 - 琉球新報/PR TIMES", "url": "https://ryukyushimpo.jp/prtimes/entry-3575639.html" },
+        { "type": "other", "title": "ミシュランキーホテルセレクション2026受賞関連記事", "url": "https://koubo.jp/article/88346" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独自性・公式発表は確認できるが、主要レビューサイトでの評価件数が実質ゼロで信頼度を判断できず(原則6・7)、総合スコアも75点未満のため不採用。"
+    },
+    {
+      "id": "2026-10-20-shigira-mirage-miyako",
+      "name": "ホテルシギラミラージュ",
+      "region": "沖縄県宮古島市新城（シギラセブンマイルズリゾート内）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "朝食ビュッフェ付きプラン(スーペリアルーム1泊88,000円〜との記載あり)の情報は確認できたが、夕食・飲料・アクティビティ等まで含む『オールインクルーシブ』料金プランの明記はこのセッションのWebSearchスニペットからは確認できなかった。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "シギラセブンマイルズリゾート内、ベイサイド棟・ヒルサイド棟合計120室の大型リゾート。レストラン『蜃気楼』での和定食等、口コミでは一部好意的な投稿もある。",
+      "target_audience": ["家族", "カップル"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 8,
+        "photogenic": 9,
+        "value_for_price": 0,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 23,
+      "recommendation_reason": "シギラリゾート内の大型施設で立地は良いが、『オールインクルーシブ』と明記された料金プランの存在を確認できず、口コミの数値的な裏取り(原則7)も今回のセッションでは完了できなかったため、今回のカテゴリ条件には合致しないと判断した。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "オールインクルーシブプランの有無確認を優先したため、低評価レビューの網羅確認には着手していない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "ホテルシギラミラージュ 宿泊料金・朝食情報 - ANA国内ツアー", "url": "https://www.ana.co.jp/domtour/theme/premium_stay/shigiramirage/" },
+        { "type": "review_site", "title": "ホテルシギラミラージュ クチコミ - cocolocala", "url": "https://www.cocolocala.jp/hotels/30807" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "オールインクルーシブという今回のカテゴリ条件を満たすプランの明記を確認できず、口コミの数値的な裏取りも完了していないため不採用。"
+    }
+  ]
+}

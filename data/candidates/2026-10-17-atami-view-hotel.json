@@ -1,0 +1,135 @@
+{
+  "cycle_date": "2026-10-17",
+  "theme": "静岡県熱海市の絶景温泉ホテル（伊豆山・相模湾ビュー）",
+  "season_rationale": "熱海は10月中旬以降、日中の残暑が和らぎ夜の空気が澄むため、海一望の露天風呂から相模湾を眺める体験が心地よくなる季節。直近の投稿は2026-10-16箱根（絶景ホテル・仙石原）、2026-10-17石垣島（離島リゾート）で、熱海は候補データ内に一度も登場していない新規地域であり、カテゴリも直前の投稿（離島リゾート）とは異なるため連続重複の懸念はない（原則29）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-ana-intercontinental-ishigaki", "region": "沖縄県石垣市真栄里（マエサトビーチ）", "category": "離島リゾート" },
+    { "post_id": "2026-10-16-kai-sengokuhara", "region": "神奈川県足柄下郡箱根町仙石原", "category": "絶景ホテル" },
+    { "post_id": "2026-09-22-nonokaze-resort-toya", "region": "北海道虻田郡洞爺湖町", "category": "絶景ホテル" }
+  ],
+  "duplication_note": "静岡県熱海市は data/candidates・captions に一度も登場していない新規地域。カテゴリ『絶景ホテル』は箱根（仙石原・山岳高原×大涌谷温泉）・洞爺湖（湖畔ビュー）で既出だが、いずれも地域・景観の切り口（熱海＝相模湾を見下ろす海岸段丘の温泉リゾート）が異なり、かつ直前の投稿（石垣島・離島リゾート）とはカテゴリが連続していないため、原則29の重複防止には抵触しないと判断した。",
+  "candidates": [
+    {
+      "id": "2026-10-17-atami-sekaie",
+      "name": "ATAMI せかいえ",
+      "region": "静岡県熱海市伊豆山",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Skyticket", "score": 4.8, "scale": 5, "review_count": 1183, "checked_date": "2026-10-17", "url": "https://skyticket.jp/hotel/detail/property_12021/" },
+        { "source": "Kayak", "score": 9.4, "scale": 10, "review_count": 156, "checked_date": "2026-10-17", "url": "https://www.kayak.ie/Atami-Hotels-Atami-Sekaie.3651215.ksp" }
+      ],
+      "price_range_jpy": {
+        "note": "海外向け掲載情報では大人2名1室利用時1名あたり39,886円〜という目安を確認。2026年9月14日開始の『スリープリトリート滞在』プランは1室2名1泊2食（税・サービス料込、入湯税別）142,780円〜という表示があった。いずれも参考値で、現在の正確な料金・プラン内容は要確認。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "静岡県熱海市伊豆山、相模湾を望む高台に建つ全25室の温泉リゾート。全室がオーシャンビューで、源泉掛け流しの露天風呂付き。『せかいえ棟』と『月の道棟』の2棟構成で、宿泊棟によって和食（つくし）・肉料理など異なる食事体験ができる。伊豆山温泉は鎌倉時代から『長寿に効験がある』として親しまれてきた古湯。",
+      "renewal_or_news": "2026年9月14日から、寝具・安眠ブランド『TENTIAL』とのコラボによる『スリープリトリート滞在』プランを開始。季節の和食・自家源泉の湯・香り・寝具で五感から睡眠の質を整える内容で、専用枕の貸し出しやアロマミストが付く。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 12,
+        "unique_experience_score": 19,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 5
+      },
+      "score": 84,
+      "recommendation_reason": "Skyticket4.8（1,183件）・Kayak9.4/10（156件）と、性質の異なる2つの独立した情報源でいずれも非常に高い評価と十分なレビュー件数を確認できた（原則6・7）。全25室がオーシャンビュー・源泉掛け流し露天風呂付きという点、2棟構成で異なる食事体験ができる点が独自性として強く、2026年9月開始の『スリープリトリート滞在』という新プランで情報の新しさも確認できた。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "cocolocalaに掲載された個別口コミの中に、夕食の内容について『食事が酷すぎる』とする2.0点の投稿が1件確認できた一方、清潔感・接客・安全性に関する重大な指摘は見つからなかった。このセッションのWebSearch予算の制約上、低評価側のレビュー本文を網羅的には確認できていない点は留意事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "ATAMI せかいえ - Skyticket", "url": "https://skyticket.jp/hotel/detail/property_12021/" },
+        { "type": "booking_site", "title": "Atami Sekaie - Kayak", "url": "https://www.kayak.ie/Atami-Hotels-Atami-Sekaie.3651215.ksp" },
+        { "type": "other", "title": "A Hidden Luxury, ATAMI Sekaie - halalmedia", "url": "https://halalmedia.jp/archives/31839/japan-hot-spring-resort-atami-sekaie/" },
+        { "type": "press", "title": "ATAMI Sekaie Launches \"Sleep Retreat Plan\" Pairing Hot Springs, Cuisine and Wellness", "url": "https://haveagood-holiday.com/en/articles/atami-sekaie-sleep-retreat-plan" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-17-kamenoi-hotel-atami",
+      "name": "亀の井ホテル 熱海",
+      "region": "静岡県熱海市熱海",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル（亀の井ホテル熱海 別館）", "score": 3.29, "scale": 5, "review_count": 20, "checked_date": "2026-10-17", "url": "https://4travel.jp/dm_hotel-10058854" }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベルの売れ筋ランキング1位という記事はあったが、具体的な価格は今回のWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "熱海市街と相模灘を望む絶景の温泉ホテルリゾート。2026年3月20日に別館がリニューアルオープンし、約77㎡の露天風呂付客室を新設。本館・別館で部屋タイプが異なり、キッズルームなどファミリー向け設備もある。",
+      "target_audience": ["カップル", "家族", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 3,
+        "unique_experience_score": 10,
+        "photogenic": 9,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 44,
+      "recommendation_reason": "熱海市街・相模灘を望む絶景と2026年3月の別館リニューアル（露天風呂付客室の新設）は話題性があるが、本館・別館で口コミが混在しており、確認できた数値評価はフォートラベル（別館）3.29（20件）のみだった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの項目別評価でアクセスが2.82と低く、温泉街まで徒歩で行けない点を残念がる声が複数あった。本館では子供向け設備（プレミアムキッズルームのおもちゃ等）への不満も見られた。清潔感・接客・安全性に関する重大な指摘は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "亀の井ホテル 熱海 別館 - tour.l-tike.com", "url": "https://tour.l-tike.com/hotels/domestic/hotel/2094019/" },
+        { "type": "review_site", "title": "亀の井ホテル 熱海 別館 クチコミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10058854" },
+        { "type": "press", "title": "亀の井ホテル 熱海 別館 2026年3月20日リニューアルオープン", "url": "https://kyodonewsprwire.jp/release/202603256279" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "本館・別館で口コミが混在し評価の全体像が不明瞭なうえ、確認できた唯一の数値評価がフォートラベル（別館）3.29（20件）で、原則6の『主要レビューサイト評価4.0以上』を満たさず、原則7が求める十分な件数を伴う独立2情報源も確認できなかったため除外した。"
+    },
+    {
+      "id": "2026-10-17-auberge-fontainebleau-atami",
+      "name": "オーベルジュ フォンテーヌ・ブロー熱海",
+      "region": "静岡県熱海市",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "tour.ne.jp", "score": 4.6, "scale": 5, "review_count": 1, "checked_date": "2026-10-17", "url": "https://www.tour.ne.jp/j_hotel/39402/" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な価格情報は今回のWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-10-17",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全12室に源泉露天風呂付き客室があるオーベルジュ。接客・料理・温泉への満足度を評価する声が多い。Yahoo!トラベルの項目別評価では客室4.49・施設4.32・接客4.68・お食事4.62・温泉4.63・満足度4.59（件数非掲載）という表示があった。",
+      "target_audience": ["カップル", "記念日", "グルメ旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 2,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 48,
+      "recommendation_reason": "全12室源泉露天風呂付きという独自性と、Yahoo!トラベルの項目別評価の高さは魅力だが、件数の明記された数値評価がtour.ne.jpの4.6（1件）のみで、食べログ3.33は飲食店評価のため前提が異なり、評価サイト間で点数の傾向にもばらつきがあった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "cocolocalaの個別口コミでは場所がわかりにくいという指摘が見られたが、清潔感・接客・安全性に関する重大な指摘は見つからなかった。ただし確認できた口コミ総数自体が極端に少なく、評価の全体像を把握できていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "オーベルジュ フォンテーヌ・ブロー熱海 - cocolocala", "url": "https://www.cocolocala.jp/hotels/14511" },
+        { "type": "booking_site", "title": "オーベルジュ フォンテーヌ・ブロー熱海 - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/151233/review.html" },
+        { "type": "other", "title": "オーベルジュ フォンテーヌ・ブロー熱海 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00002258" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "件数が明記された独立2情報源の数値評価を確認できず（原則7未達）、除外した。"
+    }
+  ]
+}

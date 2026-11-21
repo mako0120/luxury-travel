@@ -1,0 +1,237 @@
+{
+  "cycle_date": "2026-11-21",
+  "theme": "その他（広島県福山市鞆の浦エリア）",
+  "season_rationale": "11月下旬の鞆の浦は、夏場の海水浴・花火シーズンの混雑が落ち着き、港町の古い町並みや史跡をゆっくり歩きやすい気候になる時期にあたる。瀬戸内海の眺望も空気が澄んで見通しが良くなる季節であり、対潮楼や常夜灯など『眺め』を売りにするスポットの訪問時期として適していると判断した。",
+  "duplication_note": "依頼により、data/candidates・captions配下の既存ファイル全件（1ヶ月以上前のものを含む）を『鞆』『福山』『tomo』『fukuyama』で検索し、重複有無を確認した。該当したのは data/candidates/2026-10-23-setouchi-cruise-sanjyu-plus3.json 内の1件のみで、これは『列車・船』カテゴリのクルーズ調査サイクルで、鞆の浦〜仙酔島間の市営渡船『平成いろは丸』を事前スクリーニング対象に含めた際の記録（4travel単一情報源・星3.5相当で原則6・7の基準を満たさず rejected）だった。本サイクルの対象カテゴリは『その他』であり、同じ施設（渡船）を重複調査する意味はないため対象から除外し、今回は鞆の浦エリアの史跡・博物館系スポットを新たに調査した。したがって『その他』カテゴリで鞆の浦エリアを対象にした候補・キャプションはこれまで作成されていないことを確認した。",
+  "research_notes": "本サイクルはWebSearchで鞆の浦エリアの『その他』カテゴリ候補を5件調査した（依頼の最低3件を超える件数）。WebFetchで4travel.jpの個別ページ（総合評価の直接確認）を試みたが、本セッションのネットワーク許可外のホスト（getaddrinfo ENOTFOUND）としてアクセスできなかったため、WebSearchのスニペットで確認できた数値のみを採用した。また本ターンのWebSearch呼び出し回数上限に達したため、沼名前神社など追加候補の調査はできなかった。\n\n調査した5件はいずれも、原則6（主要レビュー4.0以上・5点満点換算）を満たす独立数値評価を確認できなかったため、深掘り採点（score_breakdown）には進まず、スクリーニング段階でのrejected記録とした。\n\n1. 福禅寺 対潮楼: 4travel（口コミ92件）で評価3.6を確認。独立した数値評価としては本調査で最も件数が多かったが、基準の4.0を下回る。\n2. 太田家住宅（重要文化財）: 4travelの個別口コミ投稿で4.5点・3.0点と評価が割れており、ページ全体の総合評価（アグリゲート値）は確認できなかった。\n3. いろは丸展示館: 4travelに口コミ57件の掲載があることは確認できたが、個別投稿で3.0〜4.0点とばらつきがあり、総合評価の数値は確認できなかった。\n4. 鞆の浦 常夜灯: GLTJP観光ディレクトリ（中国語版ページ）で評価3.72・口コミ4件の表示を確認。件数が少なく基準の4.0も下回る。\n5. 阿伏兎観音（磐台寺）: GLTJP観光ディレクトリで評価3.95・口コミ1件の表示を確認。件数が1件のみで独立2情報源の確保もできず、基準の4.0もわずかに下回る。\n\nいずれも観光案内サイト・自治体資料等で現在公開中であること自体は確認できたが、数値評価が基準を満たさない、または件数が少なく信頼性が低いため、本サイクルでのselected候補は0件とした。実在しない数値の捏造は行っていない。",
+  "candidates": [
+    {
+      "id": "2026-11-21-taichoro-fukuzenji",
+      "name": "福禅寺 対潮楼（たいちょうろう）",
+      "region": "広島県福山市鞆町鞆2（福禅寺内・鞆の浦）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "4travel（福禅寺 對潮楼 施設クチコミ）",
+          "score": 3.6,
+          "scale": 5,
+          "review_count": 92,
+          "checked_date": "2026-11-21",
+          "url": "https://4travel.jp/dm_shisetsu/10008573"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "拝観料は大人300円との情報が複数サイトで見られたが、子供料金・団体料金等の詳細は本調査では確認できなかった。",
+        "as_of_search_date": "2026-11-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "江戸中期創建とされる福禅寺の客殿。座敷の窓枠が額縁のようになり、仙酔島・弁天島・弟島を望む瀬戸内海の景観を切り取る『眺め』が最大の見どころ。江戸時代に来日した朝鮮通信使がこの眺望を『日東第一形勝（日本で最も美しい景勝地）』と称したという歴史的エピソードが複数の観光サイトで紹介されている。坂本龍馬の海援隊といろは丸事件の交渉の場になったという逸話も伝わる。",
+      "renewal_or_news": "本調査では直近のリニューアル・新規情報は確認できなかった。",
+      "target_audience": ["カップル", "夫婦", "絶景好き", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 0,
+        "photogenic": 0,
+        "value_for_price": 0,
+        "sns_buzz": 0,
+        "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "確認できた独立数値評価（4travel・口コミ92件で3.6）が本調査の採用基準（主要レビュー4.0以上、5点満点換算）を下回ったため、深掘り採点には進まず不採用とした。歴史的な逸話（朝鮮通信使の『日東第一形勝』、いろは丸事件の交渉の場）や額縁のような眺望自体は独自性が高く、将来的に別の情報源で4.0以上の評価が確認できれば再調査の価値がある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "4travelの口コミでは、座敷からの眺めを絶賛する声が多い一方、眺望以外に際立ったポイントがないという指摘や、本堂へは行かずに對潮楼のみを目的に訪れる人が多いという傾向への言及があった。段差があり足元に注意が必要との指摘もあったが、安全面・営業継続に関わる重大な指摘は見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "福禅寺 對潮楼 施設クチコミ・評価3.6（92件） - 4travel", "url": "https://4travel.jp/dm_shisetsu/10008573" },
+        { "type": "other", "title": "対潮楼・福禅寺の歴史解説 - dive-hiroshima.com", "url": "https://dive-hiroshima.com/explore/2233" },
+        { "type": "other", "title": "福禅寺 対潮楼 施設情報 - GLTJP（広島県公式観光ガイド系ディレクトリ）", "url": "https://www.gltjp.com/ja/directory/item/16430/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立情報源で確認できた数値評価（4travel 3.6／92件）が原則6の基準（主要レビュー4.0以上）を満たさないため不採用。"
+    },
+    {
+      "id": "2026-11-21-ota-family-residence",
+      "name": "太田家住宅（重要文化財）",
+      "region": "広島県福山市鞆町鞆842（鞆の浦）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "4travel（口コミ投稿A：歴史を感じる建物）", "score": 4.5, "scale": 5, "review_count": 1, "checked_date": "2026-11-21", "url": "https://4travel.jp/dm_shisetsu/10005425" },
+        { "source": "4travel（口コミ投稿B：立派な佇まい）", "score": 3.0, "scale": 5, "review_count": 1, "checked_date": "2026-11-21", "url": "https://4travel.jp/dm_shisetsu/10005425" }
+      ],
+      "price_range_jpy": {
+        "note": "本調査では正確な入館料・開館時間を確認できなかった。",
+        "as_of_search_date": "2026-11-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "江戸時代中期〜後期に中村家が増築し、明治以降に太田家が引き継いだ商家建築群。1991年に国の重要文化財に指定され、主屋・保命酒醸造蔵など9棟が現存する。鞆の名産『保命酒』を製造・保管していた酒蔵の設備や道具がそのまま残る点が貴重とされる。",
+      "renewal_or_news": "本調査では直近のリニューアル・新規情報は確認できなかった。",
+      "target_audience": ["夫婦", "一人旅", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 0,
+        "photogenic": 0,
+        "value_for_price": 0,
+        "sns_buzz": 0,
+        "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "4travelの個別口コミ投稿は4.5点・3.0点と評価が割れており、施設全体の信頼できる総合評価（アグリゲート値・十分な件数）を確認できなかった。原則6（主要レビュー4.0以上）を満たすと判断できる材料がないため、深掘り採点には進まず不採用とした。重要文化財としての価値・保命酒醸造蔵の保存状態という独自性自体は高く、総合評価が確認できる情報源が見つかれば再調査の価値がある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "地元ボランティアが気さくに対応してくれるという好意的な声があった一方、内部がやや暗い雰囲気という指摘があった。安全面・営業継続に関わる重大な指摘は見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "太田家住宅 施設クチコミ - 4travel", "url": "https://4travel.jp/dm_shisetsu/10005425" },
+        { "type": "other", "title": "太田家住宅（主屋・炊事場・西蔵等） 国指定文化財等データベース - 文化庁", "url": "https://online.bunka.go.jp/heritages/detail/144445" },
+        { "type": "other", "title": "重要文化財 太田家住宅 施設情報 - GLTJP", "url": "https://www.gltjp.com/ja/directory/item/17052/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "個別口コミの評価が割れ（4.5／3.0）、信頼できる総合評価が確認できず、原則6の基準を満たすと判断できないため不採用。"
+    },
+    {
+      "id": "2026-11-21-irohamaru-tenjikan",
+      "name": "いろは丸展示館",
+      "region": "広島県福山市鞆町鞆843-1（鞆の浦・常夜灯付近）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "4travel（口コミ投稿A：見ごたえのある展示）", "score": 4.0, "scale": 5, "review_count": 1, "checked_date": "2026-11-21", "url": "https://4travel.jp/dm_shisetsu/10015524" },
+        { "source": "4travel（口コミ投稿B：常夜灯ついでの立ち寄り）", "score": 3.0, "scale": 5, "review_count": 1, "checked_date": "2026-11-21", "url": "https://4travel.jp/dm_shisetsu/10015524" }
+      ],
+      "price_range_jpy": {
+        "note": "入館料200円、所要時間約30分との情報を複数サイトで確認。開館時間は10〜17時（入館16:30まで）とする情報と、当面の間金・土・日曜・祝日のみ営業とする情報が混在しており、本調査では最新の営業日を確定できなかった。",
+        "as_of_search_date": "2026-11-21",
+        "disclaimer": "価格・営業時間は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "坂本龍馬の海援隊が関わった『いろは丸事件』をテーマにした展示館。江戸時代の蔵を活用した建物（国登録有形文化財）で、いろは丸の70分の1模型や、沈没船から引き揚げられたドアノブ・古伊万里の茶碗・硯などの遺物を展示。2階には龍馬の人形があり、着物や袴を着けて記念撮影できるコーナーもある。",
+      "renewal_or_news": "営業日が『金・土・日曜・祝日のみ』に変更されたとする情報があり、通年営業ではなくなっている可能性がある。来訪前に公式情報での確認が必須。",
+      "target_audience": ["家族", "友人", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 0,
+        "photogenic": 0,
+        "value_for_price": 0,
+        "sns_buzz": 0,
+        "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "4travelには口コミが57件あることを確認したが、個別投稿のスコアは3.0〜4.0とばらつきがあり、ページ全体の総合評価（アグリゲート値）はWebSearchのスニペットからは確認できなかった（WebFetchは本セッションのネットワーク許可外で4travel.jpにアクセスできなかった）。原則6を満たすと判断できる数値的根拠がないため不採用とした。また営業日が週末・祝日のみに縮小している可能性があり、営業状況の面でも追加確認が必要。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "展示量がそれほど多くなく『無理に観光するほどではない』という声がある一方、いろは丸事件を詳しく知れる、2階の龍馬コーナーが見どころという好意的な声もあった。安全面に関わる重大な指摘は見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "いろは丸展示館 施設クチコミ（全57件） - 4travel", "url": "https://4travel.jp/dm_shisetsu/10015524" },
+        { "type": "other", "title": "いろは丸展示館 スポット情報 - rurubu.jp", "url": "https://rurubu.jp/andmore/spot/80034594" },
+        { "type": "other", "title": "いろは丸展示館 紹介記事 - tabi-mag.jp", "url": "https://tabi-mag.jp/hm0195/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数は確認できたが総合評価の数値が確認できず、原則6の基準（主要レビュー4.0以上）を満たすと判断できないため不採用。営業日縮小の可能性もあり情報鮮度にも懸念。"
+    },
+    {
+      "id": "2026-11-21-tomonoura-joyato",
+      "name": "鞆の浦 常夜灯",
+      "region": "広島県福山市鞆町鞆（鞆の浦・雁木のある波止場）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "GLTJP（外国人向け観光ディレクトリ・中国語版ページ表示）",
+          "score": 3.72,
+          "scale": 5,
+          "review_count": 4,
+          "checked_date": "2026-11-21",
+          "url": "https://www.gltjp.com/zh-hans/directory/item/11280/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "常夜灯自体は屋外のランドマークで入場無料・見学自由。",
+        "as_of_search_date": "2026-11-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "1859年（安政6年）建立とされる、現存する常夜灯としては日本最大級とされる灯台型の灯籠。江戸時代に北前船の往来で栄えた鞆の浦の港を今も見守る象徴的な建造物で、雁木（階段状の船着き場）・波止・焚場とともに国の重要文化的景観・史跡を構成する。鞆の浦のシンボルとして観光写真・ポスターに頻繁に使われる。",
+      "renewal_or_news": "本調査では直近のリニューアル・新規情報は確認できなかった。",
+      "target_audience": ["カップル", "夫婦", "絶景好き", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 0,
+        "photogenic": 0,
+        "value_for_price": 0,
+        "sns_buzz": 0,
+        "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "確認できた数値評価（GLTJP中国語版ページ・口コミ4件で3.72）は件数が極めて少なく、原則6の基準（主要レビュー4.0以上）も下回るため、独立性・信頼性の両面で選定基準を満たさないと判断し、深掘り採点には進まず不採用とした。鞆の浦のシンボルとしての知名度・景観的価値自体は高いため、より件数の多い独立情報源が見つかれば再調査の価値がある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本調査で確認できた口コミ件数が少なく、ネガティブな指摘内容を十分に確認できなかった。重大な指摘は見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "鞆の浦のシンボル『常夜燈』 施設情報・口コミ3.72（4件） - GLTJP（中国語版）", "url": "https://www.gltjp.com/zh-hans/directory/item/11280/" },
+        { "type": "other", "title": "鞆の浦 常夜灯 紹介記事 - tabi-mag.jp", "url": "https://tabi-mag.jp/hm0196/" },
+        { "type": "other", "title": "鞆の浦 常夜灯 周辺情報 - co-trip.jp", "url": "https://co-trip.jp/post/500518" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価の件数が4件と極めて少なく、原則7の独立2情報源・十分な信頼性の確保ができず、評価値（3.72）も原則6の基準4.0を下回るため不採用。"
+    },
+    {
+      "id": "2026-11-21-abuto-kannon",
+      "name": "阿伏兎観音（磐台寺）",
+      "region": "広島県福山市沼隈町能登原（鞆の浦から南西へ車で約20分）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "GLTJP（外国人向け観光ディレクトリ・表示形式「3.95 1」を評価3.95・口コミ1件として採用。ページ表記の意味自体は厳密には確定できていない）",
+          "score": 3.95,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-11-21",
+          "url": "https://www.gltjp.com/ja/directory/item/16491/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本調査では正確な拝観料・開門時間を確認できなかった。",
+        "as_of_search_date": "2026-11-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "瀬戸内海を見下ろす岬の断崖に建つ観音堂（磐台寺観音堂）。『子授け・安産』の守り神として信仰を集めており、崖に張り出した構造から瀬戸内海の多島美を一望できる。国の重要文化財に指定されている。",
+      "renewal_or_news": "本調査では直近のリニューアル・新規情報は確認できなかった。",
+      "target_audience": ["夫婦", "一人旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 0,
+        "photogenic": 0,
+        "value_for_price": 0,
+        "sns_buzz": 0,
+        "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "確認できた数値評価はGLTJP1件のみで、原則7の独立2情報源を満たさず、かつ表示自体の意味（評価点か件数かの対応関係）も厳密には確定できなかった。評価値として採用した3.95も原則6の基準4.0をわずかに下回るため、深掘り採点には進まず不採用とした。また鞆の浦の中心部からは距離があり、本サイクルの対象エリア（鞆の浦エリア）との厳密な一致にも留保がある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "床が斜めになっている箇所や欄干が低い箇所があり、参拝時に足元への注意が必要との案内があった。安全面の重大な指摘ではなく注意喚起の範囲。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "阿伏兎観音 施設情報・口コミ3.95（1件） - GLTJP", "url": "https://www.gltjp.com/ja/directory/item/16491/" },
+        { "type": "other", "title": "阿伏兎観音（磐台寺） 施設情報（中国語簡体字版） - GLTJP", "url": "https://www.gltjp.com/zh-hans/directory/item/16491/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価の情報源が1件のみで原則7の独立2情報源を満たさず、評価値（3.95）も原則6の基準4.0を下回るため不採用。鞆の浦エリアとの地理的一致にも留保あり。"
+    }
+  ],
+  "conclusion": "広島県福山市鞆の浦エリアの『その他』カテゴリについて、福禅寺対潮楼・太田家住宅・いろは丸展示館・鞆の浦常夜灯・阿伏兎観音（磐台寺）の5件を調査した。いずれも公式観光情報・自治体資料等で現在公開中であることは確認できたが、原則6（主要レビュー4.0以上・5点満点換算）を満たす信頼できる独立数値評価を確認できなかった（4travel・GLTJP等で確認できた最高値は対潮楼の3.6／92件）。実在しない数値を捏造しないため、いずれも深掘り採点（score_breakdown）には進まず、本サイクルでのselected候補は0件とした。captions/ への新規キャプション制作も見送り。本ターンのWebSearch呼び出し回数上限に達したため、沼名前神社など鞆の浦エリアの他候補の追加調査は次回以降のセッションに引き継ぐことを推奨する。"
+}

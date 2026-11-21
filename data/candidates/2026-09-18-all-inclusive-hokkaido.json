@@ -1,0 +1,186 @@
+{
+  "cycle_date": "2026-09-18",
+  "theme": "オールインクルーシブ第2弾：北海道の雪山オールインクルーシブリゾート（クラブメッド）",
+  "season_rationale": "9月中旬時点では、クラブメッド・北海道の各リゾートはいずれも冬季クローズ中（ゲレンデ営業は例年12月上旬〜翌4月上旬）。まさに『冬の旅を決める』検討本格化の直前期にあたり、早割・早期予約キャンペーンが動き出すタイミングでもあるため、雪山×オールインクルーシブの紹介には適した時期と判断した（原則30：冬＝雪・温泉）。前回のオールインクルーシブ回（2026-09-14・沖縄県石垣市川平）は『夏の離島×海』だったため、今回は『冬の北海道×山岳雪景色』と季節・地域・体験の方向性を明確に変え、連続感を避けた。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-18-fufu-karuizawa", "region": "長野県北佐久郡軽井沢町（中軽井沢）", "category": "サウナ" },
+    { "post_id": "2026-09-14-clubmed-ishigaki-kabira", "region": "沖縄県石垣市川平", "category": "オールインクルーシブ" },
+    { "post_id": "2026-09-14-yamamizuki-kurokawa", "region": "熊本県阿蘇郡南小国町（黒川温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-unkai-terrace-tomamu", "region": "北海道勇払郡占冠村（星野リゾート トマム／候補データのみ、キャプション化はされていない）", "category": "絶景ホテル" }
+  ],
+  "duplication_note": "直近のキャプションは軽井沢×サウナ（2026-09-18）、その前は黒川温泉×温泉旅館・石垣島×オールインクルーシブ等（いずれも2026-09-14）で、地域・カテゴリともに今回の『北海道×オールインクルーシブ』とは重複しない。なお2026-09-14に『絶景ホテル』カテゴリの候補調査でトマム（雲海テラス／星野リゾート トマム）を扱った実績があるが、それは客室単体の絶景ホテルとしての評価であり、今回調査した『クラブメッド・北海道 トマム』は同じ占冠村エリアながら別施設・別カテゴリ（食事・ドリンク・アクティビティ込みのオールインクルーシブ）のため、原則29上問題ないと判断した。",
+  "other_candidates_considered": [],
+  "candidates": [
+    {
+      "id": "2026-09-18-clubmed-tomamu",
+      "name": "クラブメッド・北海道 トマム",
+      "region": "北海道勇払郡占冠村",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Tripadvisor",
+          "score": 4.8,
+          "scale": 5,
+          "review_count": 3358,
+          "checked_date": "2026-09-18",
+          "url": "https://www.tripadvisor.jp/Hotel_Review-g1120868-d13101783-Reviews-Club_Med_Tomamu_Hokkaido-Shimukappu_mura_Yufutsu_gun_Hokkaido.html"
+        },
+        {
+          "source": "一休.com",
+          "score": 4.08,
+          "scale": 5,
+          "review_count": 29,
+          "checked_date": "2026-09-18",
+          "url": "https://www.ikyu.com/00030824/review/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "検索スニペットでは『大人2名1室・夕朝食付きプランで1泊36,800円〜』という表示を確認したが、これが食事・ドリンク・アクティビティすべて込みのオールインクルーシブ料金なのか、朝夕食のみのプランなのかは今回のセッションでは明確に確認できなかった（WebFetchがEGRESS_BLOCKEDのため公式・予約サイト本文を直接確認できず）。予約前に公式サイト・予約サイトで最新のプラン内容・料金の確認が必要。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "標高1,088m以上に位置する名物『雲海テラス』を擁する、北海道占冠村のクラブメッド・リゾート。雲海テラスは条件が揃えば眼下に雲の海が広がる絶景スポットとして国内外から絶景目当ての旅行者が訪れる、日本でも有数のフォトジェニックな自然現象体験。オールインクルーシブプランには世界各国の料理・北海道グルメのビュッフェ、バーベキューディナー、プレミアムアルコールのテイスティング、キッズプログラム、冬季はゴンドラ・リフト・スキー／スノーボードスクールまで追加料金なしで含まれる。",
+      "renewal_or_news": "クラブメッド公式サイトに『日本一に輝く、クラブメッド・北海道トマム』という特設ページ（tripadvisor-award-tomamu）があり、Tripadvisor関連の表彰を受けたことが告知されている（具体的な賞の名称・受賞時期までは今回のセッションでは検索スニペットから特定できなかった）。ゲレンデは例年12月上旬〜4月上旬に営業しており、今シーズンに向けた季節性のある話題として扱える。",
+      "target_audience": ["家族", "カップル", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 19,
+        "photogenic": 14,
+        "value_for_price": 7,
+        "sns_buzz": 9,
+        "access_and_freshness": 4
+      },
+      "score": 89,
+      "recommendation_reason": "Tripadvisor4.8（3,358件）・一休.com4.08（29件）という2つの独立した予約・口コミサイトでいずれも採用ライン（4.0以上、推奨4.2以上）を上回る高評価。何より『雲海テラス』という他施設にはない唯一無二の絶景体験を、食事・ドリンク・アクティビティ込みのオールインクルーシブという枠組みで楽しめる点が最大の差別化ポイントで、写真・動画映え、SNS話題性ともに今サイクルの候補の中で最も強い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一休.comの口コミ『子どもがいない人には全く不向き』では、レストランやバーが子ども中心で賑やかになりがちで落ち着けないこと、客室にアルコールを持ち込めず館内にもアルコール販売場所がないことが不満点として挙げられている。ただしこれは『大人だけの静かな滞在』を求める層とのミスマッチであり、清潔感・安全性に関わる重大な指摘ではないため除外基準には該当しないと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "北海道 トマム 日本｜クラブメッド公式サイト", "url": "https://www.clubmed.co.jp/r/%E5%8C%97%E6%B5%B7%E9%81%93%E3%83%88%E3%83%9E%E3%83%A0/s" },
+        { "type": "official", "title": "日本一に輝く、クラブメッド・北海道トマム | オールインクルーシブ・リゾートならクラブメッド", "url": "https://www.clubmed.co.jp/l/tripadvisor-award-tomamu" },
+        { "type": "review_site", "title": "クラブメッド 北海道トマム【2026年最新の料金比較・口コミ・宿泊予約】- トリップアドバイザー", "url": "https://www.tripadvisor.jp/Hotel_Review-g1120868-d13101783-Reviews-Club_Med_Tomamu_Hokkaido-Shimukappu_mura_Yufutsu_gun_Hokkaido.html" },
+        { "type": "review_site", "title": "クラブメッド・北海道 トマム - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00030824/review/" },
+        { "type": "review_site", "title": "子どもがいない人には全く不向き - クラブメッド・北海道 トマムのクチコミ - 一休.com", "url": "https://www.ikyu.com/00030824/review/1001589312/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-18-clubmed-sahoro",
+      "name": "クラブメッド・北海道 サホロ",
+      "region": "北海道上川郡新得町（狩勝高原）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Tripadvisor",
+          "score": 4.7,
+          "scale": 5,
+          "review_count": 2473,
+          "checked_date": "2026-09-18",
+          "url": "https://www.tripadvisor.com/Hotel_Review-g1025638-d601595-Reviews-Club_Med_Sahoro_Hokkaido-Shintoku_cho_Kamikawa_gun_Hokkaido.html"
+        },
+        {
+          "source": "楽天トラベル",
+          "score": 5.0,
+          "scale": 5,
+          "review_count": 60,
+          "checked_date": "2026-09-18",
+          "url": "https://travel.rakuten.co.jp/HOTEL/74714/review.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "大人2名1室1泊あたり最安91,000円（1名あたり45,500円）〜最大180,000円程度という表示を確認（食事・軽食、昼食・夕食時のワイン＆ビール、バーの各種アルコール、ソフトドリンク、アクティビティ込みのオールインクルーシブ料金）。2025年10月9日までの予約で最大35%OFFとなるフラッシュセールも確認したが、これは前シーズン（2025-26）の情報であり、現時点（2026年9月）で同内容のキャンペーンが有効かは未確認。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "日本新八景のひとつ『狩勝峠』の中腹に位置する、上川郡新得町のクラブメッド・リゾート。高い晴天率と良質なパウダースノーが特徴で、直近シーズンにはメインレストラン『The Daichi』と居酒屋風レストラン『Mina Mina』が全面リニューアル。オールインクルーシブには食事・軽食（チェックイン日夕食〜チェックアウト日昼食）、昼食・夕食時のワイン＆ビール、バーの各種アルコール、ソフトドリンク、キッズプログラム、夜のエンターテインメントショー、冬季はゴンドラ・リフト・スキー／スノーボードスクールも追加代金なしで含まれる。",
+      "renewal_or_news": "2025年12月4日からの営業開始にあわせ、メインレストラン『The Daichi』・居酒屋風『Mina Mina』が全面リニューアルされたとPR TIMESのプレスリリースで確認。2026年12月上旬〜2027年4月上旬のゲレンデ営業期間（予定）も公式系情報として確認した。",
+      "target_audience": ["家族", "カップル", "友人"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 13,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 81,
+      "recommendation_reason": "Tripadvisor4.7（2,473件）・楽天トラベル5.0（60件）という2つの独立した情報源で高評価を確認。狩勝峠という独自の立地・晴天率とレストラン全面リニューアルという鮮度のある話題性を持つ、採用ラインを明確に超える有力候補。ただし雲海テラスのような唯一無二の絶景要素を持つトマムと比べると独自性・SNS話題性でやや劣り、新千歳空港から約160分というアクセスの遠さもマイナス要因。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorの個別口コミで、閑散期の食事内容について『現地らしいものが少なく冷凍物のような味気なさで、決して安くないオールインクルーシブとしては期待外れだった』という指摘（『食事がひどい』）や、悪天候による飛行機欠航時のスタッフ間の情報共有不足・対応の混乱を指摘する『アクシデント対応は最悪』という口コミを確認した。清潔感・安全性に関わる重大な指摘ではないが、食事の質のばらつきと緊急時対応は留意点として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "北海道 サホロ 日本｜クラブメッド公式サイト", "url": "https://www.clubmed.co.jp/r/%E5%8C%97%E6%B5%B7%E9%81%93%E3%82%B5%E3%83%9B%E3%83%AD/w" },
+        { "type": "press", "title": "クラブメッド・北海道 サホロ、この冬レストランが一新！ | 株式会社クラブメッドのプレスリリース", "url": "https://prtimes.jp/main/html/rd/p/000000072.000041509.html" },
+        { "type": "review_site", "title": "クラブメッド 北海道サホロ【2026年最新の料金比較・口コミ・宿泊予約】- トリップアドバイザー", "url": "https://www.tripadvisor.com/Hotel_Review-g1025638-d601595-Reviews-Club_Med_Sahoro_Hokkaido-Shintoku_cho_Kamikawa_gun_Hokkaido.html" },
+        { "type": "review_site", "title": "クラブメッド 北海道 サホロ に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/74714/review.html" },
+        { "type": "review_site", "title": "食事がひどい - クラブメッド 北海道サホロの口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g1025638-d601595-r70717985-Club_Med_Sahoro_Hokkaido-Shintoku_cho_Kamikawa_gun_Hokkaido.html" }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "総合スコア81点で採用ラインは満たしているが、雲海テラスという唯一無二の絶景体験を持つクラブメッド・北海道トマム（89点）と比べて独自体験・SNS話題性・アクセスの面で劣るため、今サイクルはトマムを優先選定した。次回以降の北海道回で改めて候補とする。"
+    },
+    {
+      "id": "2026-09-18-clubmed-kiroro-grand",
+      "name": "クラブメッド・キロロ グランド",
+      "region": "北海道余市郡赤井川村",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Tripadvisor",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 992,
+          "checked_date": "2026-09-18",
+          "url": "https://www.tripadvisor.com/Hotel_Review-g325584-d25367100-Reviews-Club_Med_Kiroro_Grand-Akaigawa_mura_Yoichi_gun_Hokkaido.html"
+        },
+        {
+          "source": "Trip.com",
+          "score": 4.2,
+          "scale": 5,
+          "review_count": 46,
+          "checked_date": "2026-09-18",
+          "url": "https://us.trip.com/hotels/akaigawa-hotel-detail-107951613/club-med-kiroro-grand/review.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な1泊あたりの料金は今回のセッションでは検索スニペットから明確に取得できなかった。オールインクルーシブプランには宿泊・毎日変わるワールドビュッフェ形式のテーマディナー・バーの各種ドリンク（アルコール含む）・軽食・アクティビティプログラムが含まれるとの記載を確認。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2023年12月開業と、北海道のクラブメッド・リゾートの中で最も新しい、余市郡赤井川村（キロロエリア）のリゾート。2歳以上を対象としたキッズ施設を完備し、4歳以上は追加料金なしでスキーレッスン等のプログラムに参加できるなど、ファミリー向け設計が徹底されている。オールインクルーシブにはドリンク・バーアルコール・軽食、毎日変わるワールドビュッフェ形式のテーマディナー、アクティビティプログラムが含まれる。",
+      "target_audience": ["家族", "カップル"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 10,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 74,
+      "recommendation_reason": "2023年開業という新しさとキッズ施設の充実度は魅力だが、Tripadvisor4.0（992件）・Trip.com4.2（46件、5点換算）という評価はいずれも他2候補（トマム・サホロ）より低く、口コミ件数・運用実績の蓄積も少ない。総合スコアも74点で採用ライン（75点）にわずかに届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorの口コミ『残念でした』のほか、2年連続で宿泊したゲストによる『昨年と比べてサービス・ゲスト体験の印象が明らかに違う。アップセル（追加課金の勧誘）の圧力が強くなり、より商業的・事務的な雰囲気になった』という指摘を確認した。清潔感・安全性に関わる重大な指摘ではないが、サービス品質の変化に関する留意点として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "クラブメッド・キロロ グランド【JTB】＜キロロ・仁木・余市＞", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/1586006/" },
+        { "type": "review_site", "title": "CLUB MED KIRORO GRAND - Prices & Hotel Reviews (Hokkaido, Japan) - Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-g325584-d25367100-Reviews-or10-Club_Med_Kiroro_Grand-Akaigawa_mura_Yoichi_gun_Hokkaido.html" },
+        { "type": "review_site", "title": "46 Club Med Kiroro Grand Reviews, Ratings & Prices | Trip.com", "url": "https://us.trip.com/hotels/akaigawa-hotel-detail-107951613/club-med-kiroro-grand/review.html" },
+        { "type": "review_site", "title": "クラブメッド・キロロ グランドの口コミ・評判 - 宿泊予約は＜じゃらん＞", "url": "https://www.jalan.net/yad361775/kuchikomi/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア74点で採用ライン（75点）にわずかに届かず不採用とした。評価点自体（Tripadvisor4.0・Trip.com4.2換算）は他2候補より低く、開業から日が浅いため口コミ蓄積も少ない。またアップセル圧力の増加を指摘する複数年連続宿泊者のレビューも確認しており、次回以降さらに口コミが蓄積した段階で再評価したい。"
+    }
+  ]
+}

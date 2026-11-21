@@ -1,0 +1,202 @@
+{
+  "cycle_date": "2026-10-27",
+  "theme": "離島リゾート（東京都新島村・新島）の新規調査（本日実施した新潟県粟島浦村・粟島の調査が候補3件すべて不採用だったため、再調査枠として別地域の東京都新島村・新島を対象とした）",
+  "season_rationale": "離島リゾートカテゴリでは佐渡・隠岐（2026-10-20）、宮古島・対馬（2026-10-22）、屋久島・甑島（2026-10-23）、壱岐（2026-10-24）、礁文島（2026-10-25）、八丈島（2026-10-26）、粟島（2026-10-27午前枠、該当なし）と継続調査してきた。本枠は同じ東京都の伊豆諸島でありながら八丈島とは別島の新島を対象とした。新島は竹芝からの高速船で約2時間半、調布飛行場から飛行機で約35分という『近いのに非日常』な立地で、新島産コーガ石のモヤイ像（渋谷のモヤイ像の贈り主）、約7km続く白砂の羽伏浦海岸、水着で入れる無料の露天風呂『湯の浜露天風呂』などの独自資源を持つ地域。一方で正式な大型リゾートホテルは確認できず、ゲストハウス・民宿・個人経営の小規模旅館が中心という、粟島と似た『小規模宿泊地』の特性を持つことが本調査で判明した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-27-awashima-remote-island-resort", "region": "新潟県岩船郡粟島浦村・粟島", "category": "離島リゾート", "note": "本日午前枠。候補3件（民宿ますや・民宿渡佐・民宿与平）すべて不採用。新島とは無関係の別地域。" },
+    { "post_id": "2026-10-26-hachijojima-remote-island-resort", "region": "東京都八丈島", "category": "離島リゾート", "note": "リードパークリゾート八丈島が77点でselected。同じ東京都の伊豆諸島だが八丈島であり、新島とは別の島で重複なし。" },
+    { "post_id": "2026-10-25-rebun-island-resort", "region": "北海道礁文島", "category": "離島リゾート", "note": "花れぶんが採用。新島とは無関係。" },
+    { "post_id": "2026-10-24-iki-island-resort", "region": "長崎県壱岐島", "category": "離島リゾート", "note": "平山旅館が79点でselected。新島とは無関係。" },
+    { "post_id": "2026-10-23-yakushima-remote-island-resort-recheck", "region": "鹿児島県屋久島", "category": "離島リゾート", "note": "samana hotel Yakushimaが77点でselected。" },
+    { "post_id": "2026-10-23-koshikishima-remote-island-resort", "region": "鹿児島県甑島", "category": "離島リゾート", "note": "候補3件すべて不採用。" },
+    { "post_id": "2026-10-22-miyakojima-remote-island-resort-recheck2", "region": "沖縄県宮古島市下地島", "category": "離島リゾート", "note": "シギラミラージュが81点でselected。" },
+    { "post_id": "2026-10-22-tsushima-remote-island-resort", "region": "長崎県対馬市", "category": "離島リゾート", "note": "候補3件すべて不採用。" },
+    { "post_id": "2026-10-20-sado-oki-resort", "region": "新潟県佐渡島／島根県隠岐諸島", "category": "離島リゾート", "note": "隠岐のEntôが82点でselected。" }
+  ],
+  "duplication_note": "data/candidates・captions配下の全件（2026-09-14〜2026-10-27、1ヶ月以上前を含む）を『新島』『にいじま』『niijima』『池太』『iketa』『大野屋』『グランドホテル』で検索・確認した結果、本サイクル以前に新島（東京都新島村）を対象とした候補・投稿は一件も存在せず、地域・施設とも完全に新規であることを確認した。離島リゾートカテゴリ自体は佐渡・隠岐・宮古島・対馬・屋久島・甑島・壱岐・礁文島・八丈島・粟島と継続調査しているが、いずれも新島とは別の島であり重複にはあたらない。",
+  "candidates": [
+    {
+      "id": "2026-10-27-guesthouse-iketa-niijima",
+      "name": "ゲストハウス池太（GUEST HOUSE IKETA）",
+      "region": "東京都新島村本村6-3-3付近（新島本村の中心部、新島港から車で約4分）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "楽天トラベル（宿泊客クチコミ・レビュー）",
+          "score": 4.50,
+          "scale": 5,
+          "review_count": 19,
+          "checked_date": "2026-10-27",
+          "url": "https://travel.rakuten.co.jp/HOTEL/179987/review.html"
+        },
+        {
+          "source": "Expedia（Guesthouse IKETA）",
+          "score": 9.2,
+          "scale": 10,
+          "review_count": 36,
+          "checked_date": "2026-10-27",
+          "url": "https://www.expedia.com/h44501558.Hotel-Information"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "予約サイトの参考表示では、新館の個室（定員2名）が大人1名あたり8,100円〜（素泊まり・自炊可）。新館2階フロア貸切（定員7名）は55,000円〜、離れ貸切（定員8名）は62,800円〜。別の予約サイト（skyticket系）では2名1室1泊12,906円〜、Cocolocalaでは14,028円〜の表示もあり、サイト・時期・部屋タイプにより差が大きい。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "新島本村の中心部にある、新館・離れの2棟構成の素泊まり専用ゲストハウス（2017年7月に新館を新設）。全室に無線LAN・冷蔵庫・ドライヤー・湯沸かしポットを備え、共用キッチンで自炊ができるほか、新館2階や離れをフロア貸切できるため団体・グループ旅行にも対応する。長栄寺や新島村博物館、前浜海岸まで徒歩圏内で、約7km続く白砂の羽伏浦海岸や、水着で24時間無料入浴できる『湯の浜露天風呂』へのアクセスも良い。東京都の離島ながら調布飛行場から飛行機で約35分という近さも特徴。",
+      "renewal_or_news": "2017年7月に新館を新設して運営を続けており、楽天トラベルでは2025年11月投稿、Cocolocalaでは2026年4月・7月投稿の口コミが確認でき、情報の鮮度は高い。",
+      "target_audience": ["一人旅", "友人", "女子旅"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 10,
+        "unique_experience_score": 11,
+        "photogenic": 6,
+        "value_for_price": 7,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 60,
+      "recommendation_reason": "楽天トラベル4.50（19件）・Expedia9.2/10（36件、5点満点換算で約4.6相当）という独立した2つの情報源でいずれも高評価（4.0以上相当）を確認できた。新島本村の中心部という便利な立地、自炊可能なキッチン、フロア貸切によるグループ対応など、口コミでは『フェリー欠航時に代替の送迎を手配してもらえた』『部屋は清潔でキッチン・洗濯機・ドライヤーがあった』といった接客・設備面の評価が多い。一方でExpedia上の一部レビューでは『設備は簡素（薄い布団、共用の浴室・トイレ）』『温水が出ず近くの公共温泉を利用した』、Trip.comの別レビューでは『古い建物で部屋に髪の毛が落ちていた』という指摘もあり、オンサイトの温泉・レストラン・絶景ビューなど『贅沢旅』ブランドが重視する写真映え・独自体験の要素は薄い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Expediaの口コミ（36件中、評価10が21件・8が13件という内訳）はおおむね好意的だが、一部に『設備が簡素』『共用の浴室・トイレで薄い布団』『給湯が不安定で公共温泉を利用した』という指摘があった。Trip.comのイタリア語レビューでは『古い建物』『部屋に髪の毛が落ちていた』という指摘も確認した。いずれも単発的な指摘であり、衛生・安全上の重大な問題が複数の独立情報源で一致して確認されたわけではないため、disqualifying_issues_foundには該当しないと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "ゲストハウス池太 口コミ・レビュー（総合4.50・19件） - 楽天トラベル",
+          "url": "https://travel.rakuten.co.jp/HOTEL/179987/review.html"
+        },
+        {
+          "type": "other",
+          "title": "Guesthouse IKETA Niijima reviews (9.2/10, 36 reviews) - Expedia",
+          "url": "https://www.expedia.com/h44501558.Hotel-Information"
+        },
+        {
+          "type": "other",
+          "title": "ゲストハウス池太 施設情報・設備（本村、新館・離れ構成） - skyticket",
+          "url": "https://skyticket.jp/hotel/detail/property_1083776/"
+        },
+        {
+          "type": "review_site",
+          "title": "ゲストハウス池太 最新口コミ（2026年4月・7月投稿） - cocolocala",
+          "url": "https://www.cocolocala.jp/hotels/7979"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "楽天トラベル・Expediaという独立2情報源での評価は採用ライン（4.0以上相当）を満たすが、オンサイトの温泉・レストラン・絶景ビューなど独自体験・写真映えの要素が薄く、一部レビューで設備の簡素さ・古さも指摘されていることから、score60点で採用ライン（75点）に届かず不採用とする。"
+    },
+    {
+      "id": "2026-10-27-oonoya-niijima",
+      "name": "旅館大野屋",
+      "region": "東京都新島村本村6-4-17付近（新島本村の中心部）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "フォートラベル（新島ホテル満足度ランキング19件中）",
+          "score": 3.17,
+          "scale": 5,
+          "review_count": 2,
+          "checked_date": "2026-10-27",
+          "url": "https://4travel.jp/dm_hotel-10041217"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な宿泊料金は検索では確認できなかった。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "新島で『民宿』ではなく『旅館』を名乗る施設として口コミで紹介されており、本村の中心部に位置するため買い物・移動の便が良い。フォートラベルの項目別評価では食事が4.00と比較的高く、格式のある旅館としての雰囲気を評価する声がある。",
+      "target_audience": ["夫婦", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 4,
+        "review_reliability": 2,
+        "unique_experience_score": 8,
+        "photogenic": 5,
+        "value_for_price": 5,
+        "sns_buzz": 1,
+        "access_and_freshness": 2
+      },
+      "score": 27,
+      "recommendation_reason": "島の中心部という立地の良さと、食事の評価の高さ（フォートラベル項目別4.00）には一定の独自性があるが、口コミ件数がフォートラベル上でわずか2件（総合満足度3.17）のみで、他の主要な口コミ・予約サイト（じゃらん・楽天トラベル）の評価ページも確認できず、独立した2情報源での4.0以上の裏付けが取れない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミは2件のみで、項目別評価では風呂2.50・バリアフリー3.00と低めだった。投稿自体も古く最新の運営状況の確証は薄いが、衛生・安全上の重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "旅館大野屋（新島）口コミ・満足度3.17（2件、新島ホテル満足度ランキング掲載） - フォートラベル",
+          "url": "https://4travel.jp/dm_hotel-10041217"
+        },
+        {
+          "type": "other",
+          "title": "新島村の宿一覧（旅館大野屋ほか掲載） - mapple",
+          "url": "https://www.mapple.net/pref/13363/hotel/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数がわずか2件・評価3.17（5点満点換算）で採用基準（4.0以上）に届かず、独立2情報源での高評価の裏付けも取れないため、score27点で不採用。"
+    },
+    {
+      "id": "2026-10-27-niijima-grand-hotel",
+      "name": "新島グランドホテル",
+      "region": "東京都新島村字山津山川371付近（本村と羽伏浦海岸の中間、新島空港・新島港に近い）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "フォートラベル（新島ホテル満足度ランキング19件中14位）",
+          "score": 2.90,
+          "scale": 5,
+          "review_count": 5,
+          "checked_date": "2026-10-27",
+          "url": "https://4travel.jp/dm_hotel-10041215"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "現在の具体的な宿泊料金は検索では確認できなかったが、楽天トラベルに宿泊プラン・部屋一覧のページが存在し、現時点でも予約自体は可能とみられる。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "新島では数少ない大型ホテル型施設で、大浴場・露天風呂（混浴あり）・プール・サウナ・送迎サービスを備える。口コミでは料理の品数が多く美味しいこと、レンタサイクル、足湯と露天風呂が楽しめることが評価されている。",
+      "renewal_or_news": "確認できた口コミは2012年・2017年投稿が中心で最新の運営実態の確証は薄いが、楽天トラベルには現在も宿泊プラン・部屋一覧ページが存在しており、予約自体は可能な状態と見られる。",
+      "target_audience": ["家族", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 3,
+        "review_reliability": 1,
+        "unique_experience_score": 9,
+        "photogenic": 6,
+        "value_for_price": 5,
+        "sns_buzz": 1,
+        "access_and_freshness": 2
+      },
+      "score": 27,
+      "recommendation_reason": "大浴場・露天風呂・プール・サウナを備えるという設備面では新島の他候補より『リゾートホテル』らしい独自性があるが、フォートラベルの口コミはみんなの満足度2.90（5件）と採用ラインに届かず、投稿も2012年・2017年と古いため、現在の運営実態・品質を裏付ける新しい独立情報源が確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミ（5件）では、項目別評価のアクセス2.83・バリアフリー2.00が低く、2017年投稿では『建物はすこし古く、レトロな感じ』という指摘があった。重大な衛生・安全上の指摘ではないが、評価の低さと情報の古さが課題として残る。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "新島グランドホテル 口コミ・満足度2.90（5件、新島ホテル満足度ランキング14位） - フォートラベル",
+          "url": "https://4travel.jp/dm_hotel-10041215"
+        },
+        {
+          "type": "booking_site",
+          "title": "新島グランドホテル 施設情報・宿泊プラン一覧 - 楽天トラベル",
+          "url": "https://hotel.travel.rakuten.co.jp/hinfo/5286/hotelmap/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "設備面（露天風呂・プール・サウナ）の独自性はあるが、口コミ評価2.90（5件）で採用ラインに届かず、情報も古いため、score27点で不採用。"
+    }
+  ],
+  "cycle_conclusion": "東京都新島村・新島を対象に離島リゾートカテゴリで3件（ゲストハウス池太、旅館大野屋、新島グランドホテル）を調査・採点した。新島は正式な大型リゾートホテルを持たず、ゲストハウス・個人経営の旅館・やや古い大型ホテルが中心という、本日午前枠で調査した粟島（新潟県）と同様に『小規模宿泊地』の性格が強い地域だった。ゲストハウス池太は楽天トラベル4.50（19件）・Expedia9.2/10（36件）という独立2情報源での高評価と、本村中心部の立地・自炊可能な設備という実用面の強みがあり60点、旅館大野屋は島内唯一の『旅館』としての格式と食事評価の高さがあるが口コミが2件のみで27点、新島グランドホテルは露天風呂・プール・サウナという設備面の独自性があるが口コミ評価2.90（5件）かつ投稿が古く27点で、いずれも採用ライン（75点）に届かず不採用とした。captions/配下の新規作成は行わない。新島は公的な観光資源（羽伏浦海岸・湯の浜露天風呂・モヤイ像）の魅力は大きい一方、宿泊施設側のオンライン評価基盤が薄いHidden Gem候補地であり、将来的にゲストハウス池太等の口コミ件数が増え評価の裏付けが厚くなった段階、または夏季（7〜8月の最盛期）の最新の運営状況・写真素材を直接確認できた段階で再調査する価値がある。"
+}

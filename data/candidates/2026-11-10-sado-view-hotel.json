@@ -1,0 +1,149 @@
+{
+  "cycle_date": "2026-11-10",
+  "theme": "絶景ホテル（新潟県佐渡市・尖閣湾/大佐渡エリア）",
+  "season_rationale": "11月上旬は佐渡観光のピーク（夏の海水浴・秋の紅葉シーズン）が落ち着き始める時期。七浦海岸・尖閣湾周辺は冬特有の強い西風が吹き始める前の、空気が澄んで夕景・星空が見やすいタイミングであり、『静かな季節に行きたい穴場の絶景宿』として訴求しやすい（docs/operating-principles.md 原則6 Hidden Gem）。",
+  "prior_posts_checked": [
+    {
+      "candidate_id": "2026-10-20-sado-oki-resort",
+      "region": "新潟県佐渡市／島根県隠岐諸島",
+      "category": "離島リゾート",
+      "note": "data/candidates/2026-10-20-sado-oki-resort.json を確認。『HOTEL OOSADO（新潟県佐渡市相川春日崎）』はshortlisted（score77）、『国際佐渡観光ホテル八幡館（佐渡市八幡）』はrejected（score55）として既に調査済み。"
+    }
+  ],
+  "duplication_note": "data/candidates・captions配下の全件（2026-09-14〜2026-11-09、1ヶ月以上前を含む）を『佐渡』『sado』『絶景』でgrep確認。佐渡を含む既存候補は2026-10-20-sado-oki-resort.json（離島リゾートカテゴリ）のみで、絶景ホテルカテゴリでの佐渡調査はこれまで実施されていない。本サイクルのWeb調査で見つかった『ホテル大佐渡（相川鹿伏288-2、能面のロビー装飾・インフィニティ風の水盤）』は、所在地（春日崎に隣接する鹿伏）・外観特徴（オーシャンフロント客室・水のテラス）が既存候補『HOTEL OOSADO』と一致しており、英名表記の揺れによる同一施設と判断。再調査・再除外はせず、今回の候補リストからは除外した（既存shortlisted判定を維持）。新たに『HOTEL AZUMA（ホテル吾妻）』『いさりびの宿 道遊』『ホテルファミリーオ佐渡相川』の3件を新規候補として調査した。",
+  "candidates": [
+    {
+      "id": "2026-11-10-isaribi-no-yado-douyu",
+      "name": "いさりびの宿 道遊",
+      "region": "新潟県佐渡市相川鹿伏333-1（尖閣湾・大佐渡エリア／景勝地『春日崎』、佐渡弥彦米山国定公園・七浦海岸沿い。両津港から車で約40〜45分、小木港から約60分、バス停『相川支所』から車で約5分）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "じゃらん", "score": 4.5, "scale": 5, "review_count": 147, "checked_date": "2026-11-10", "url": "https://www.jalan.net/yad345422/" },
+        { "source": "楽天トラベル系データ（まっぷるトラベルガイド掲載）", "score": 4.29, "scale": 5, "review_count": 265, "checked_date": "2026-11-10", "url": "https://www.mapple.net/region/a0302010200/hotel/" }
+      ],
+      "price_range_jpy": {
+        "note": "全8〜9室の小規模宿。Web検索（スニペット経由）では具体的な1泊料金の数値は確認できなかった。公式サイト・予約サイトで日付を指定して要確認。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "佐渡弥彦米山国定公園に指定される七浦海岸の景勝地『春日崎』に立つ全8〜9室のみの小さな温泉宿。全客室・大浴場・ロビーから日本海と夕陽を一望できる造りで、宿名は佐渡金山を象徴する遺構『道遊の割戸』に由来する。『地球環境に優しい宿』『料理でもてなす宿』を経営理念とし、佐渡産の有機栽培米（ササニシキ）や農薬・化学肥料不使用の野菜を生産者から直接仕入れ、漁師から直接仕入れる魚介を使い、化学調味料・遺伝子組換え食品を使わない食事を提供する方針を明確にしている。知名度は高くないが、客室数が少ないぶん『全室オーシャンビュー＋オーガニック食材』という組み合わせを徹底できている点が独自性として強い。",
+      "renewal_or_news": "平成11年（1999年）7月開業。本セッションのWeb検索では、2025〜2026年の直近のリニューアル・新プラン等の鮮度の高いニュースは確認できなかった。",
+      "target_audience": ["カップル", "夫婦", "一人旅", "絶景好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 12,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 79,
+      "recommendation_reason": "じゃらん4.5（147件）・楽天トラベル系データ4.29（265件、まっぷる経由）という独立した2つの主要サイトでいずれも採用ライン（4.0）を上回る評価が確認できた。全室8〜9室のみという小規模な宿でありながら『全室・大浴場・ロビーから日本海と夕陽を一望』『佐渡金山由来の宿名』『地球環境に優しい宿・料理でもてなす宿という明確な経営理念とオーガニック食材への強いこだわり』という組み合わせは、同じ七浦海岸沿いの他候補（HOTEL AZUMA、ホテルファミリーオ佐渡相川）にはない独自性。口コミ件数自体は大型リゾートほど多くないが合計412件と小規模宿としては十分な母数があり、Hidden Gemルール（公式情報確認可・営業継続中・独自性あり・伝える価値あり）を満たすと判断し、本サイクルのBEST候補として選定した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "cocolocala掲載の注目口コミ（2025年9月投稿、評価4.0）では、天気が良ければ夕焼けが絶景で消灯後の星空も美しいという高評価と共に、料理が自然派志向（五分づき米が基本）で好みが分かれるため白米の選択肢があるとよいという意見、荷物の運搬に関する不満の言及が一部あった。ただし清潔感・接客・予約トラブル等に関わる重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "宿名『道遊』は、佐渡金山の象徴的な遺構である露天掘りの大きな割れ目『道遊の割戸』に由来する。運営方針としては『地球環境に優しい宿』『料理でもてなす宿』を明確な経営理念として掲げており、佐渡産の有機栽培米（ササニシキ）、農薬・化学肥料を使わない野菜を生産者から直接仕入れ、化学調味料・遺伝子組換え食品を使わない食事を提供する方針を取っている。ただし、この経営理念・宿名の由来を実際にどのような個人（創業者・女将・設計者等）がどんな思いで定め、開業に至ったのかについては、本調査で参照できた情報源（旅行メディア・観光協会掲載情報）からは個人名・経歴・インタビュー等を確認できなかった。公式サイトでの直接確認、または運営者への取材が必要。",
+        "sources": [
+          { "type": "other", "title": "いさりびの宿 道遊 施設紹介（開業経緯・経営理念・食材へのこだわり） - tabiiro.jp", "url": "https://tabiiro.jp/yado/s/103697-sado-isaribinoyado-douyuu/" },
+          { "type": "other", "title": "相川温泉 いさりびの宿 道遊 - 新潟県観光協会", "url": "https://niigata-kankou.or.jp/spot/detail_42689.html" }
+        ]
+      },
+      "sources": [
+        { "type": "booking_site", "title": "相川温泉 いさりびの宿 道遊 クチコミ（じゃらん総合4.5・147件） - じゃらんnet", "url": "https://www.jalan.net/yad345422/" },
+        { "type": "other", "title": "相川・尖閣湾エリア ホテル一覧（楽天トラベル系クチコミ4.29・265件掲載） - まっぷるトラベルガイド", "url": "https://www.mapple.net/region/a0302010200/hotel/" },
+        { "type": "other", "title": "いさりびの宿 道遊 施設紹介（開業経緯・経営理念・こだわり） - tabiiro.jp", "url": "https://tabiiro.jp/yado/s/103697-sado-isaribinoyado-douyuu/" },
+        { "type": "other", "title": "相川温泉 いさりびの宿 道遊 - 新潟県観光協会", "url": "https://niigata-kankou.or.jp/spot/detail_42689.html" },
+        { "type": "review_site", "title": "いさりびの宿 道遊 口コミ（2025年9月投稿4.0など） - cocolocala", "url": "https://www.cocolocala.jp/hotels/9680" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-11-10-hotel-azuma-sado",
+      "name": "HOTEL AZUMA（ホテル吾妻）",
+      "region": "新潟県佐渡市相川大浦（尖閣湾・大佐渡エリア／佐渡国定公園七浦海岸沿い。両津港から路線バス約60分またはタクシー約50分）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル系データ（まっぷるトラベルガイド掲載）", "score": 4.32, "scale": 5, "review_count": 289, "checked_date": "2026-11-10", "url": "https://www.mapple.net/region/a0302010200/hotel/" },
+        { "source": "フォートラベル", "score": 3.36, "scale": 5, "review_count": 25, "checked_date": "2026-11-10", "url": "https://4travel.jp/dm_hotel-10039394" }
+      ],
+      "price_range_jpy": {
+        "note": "全52室。Web検索（スニペット経由）では具体的な1泊料金の数値は確認できなかった。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "佐渡国定公園・七浦海岸に立つ全52室のホテル。日本海に沈む夕日と漁火を望め、天気が良ければ日本アルプスまで見えるとされる。新館『夕映亭』には夕日に最も近い大浴場『夕映えの湯』（24時間利用）と、露天風呂付きオーシャンテラス客室がある。2020年春にリニューアルオープン。",
+      "renewal_or_news": "2020年春にリニューアルオープン。本セッションのWeb検索では2025〜2026年の新しい話題性ニュースは確認できなかった（1月・2月は大浴場・露天風呂がメンテナンス休止になる点に注意）。",
+      "target_audience": ["夫婦", "カップル", "記念日", "絶景好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 11,
+        "unique_experience_score": 13,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 69,
+      "recommendation_reason": "まっぷる経由の楽天トラベル系データでは4.32（289件）と高評価だが、独立したフォートラベル（25件）は3.36と4.0を下回り、評価がサイト間で分散している。露天風呂付きオーシャンテラス客室や24時間の『夕映えの湯』は魅力的だが、同エリアの他候補と比べて『ここでしかできない』体験としての差別化・最新性にやや乏しく、総合スコア69点で採用ライン（75点）に届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベル（25件）の評価3.36はやや低めで、ある口コミでは『建物自体は新しくないが改修されており客室は清潔』『大浴場が23時終了なので注意』という指摘があった。別の口コミでは夜のライトアップ鑑賞の送迎時間が短い（10分）という要望もあった。一方で『ホテルからの海の眺めは最高』『スタッフの対応が親切』という好評も複数あり、清潔感や予約トラブル等の重大な欠陥の指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "相川・尖閣湾エリア ホテル一覧（楽天トラベル系クチコミ・HOTEL AZUMA 4.32・289件掲載） - まっぷるトラベルガイド", "url": "https://www.mapple.net/region/a0302010200/hotel/" },
+        { "type": "review_site", "title": "HOTEL AZUMA<佐渡島>クチコミ&詳細（フォートラベル3.36・25件）", "url": "https://4travel.jp/dm_hotel-10039394" },
+        { "type": "booking_site", "title": "HOTEL AZUMA 施設情報（お客様アンケート評価85点） - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/3131003/" },
+        { "type": "other", "title": "HOTEL AZUMA（ホテル吾妻）施設・プラン紹介（七浦海岸・夕映えの湯・2020年リニューアル） - 近畿日本ツーリスト", "url": "https://yado.knt.co.jp/st/S150065/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア69点で採用ライン（75点）に届かず、フォートラベル（25件）の評価3.36が主要レビューサイト間で分散している点、2020年リニューアル以降の新しい話題性が確認できない点から、いさりびの宿 道遊（79点）には総合力で及ばず見送った。"
+    },
+    {
+      "id": "2026-11-10-hotel-familio-sado-aikawa",
+      "name": "ホテルファミリーオ佐渡相川",
+      "region": "新潟県佐渡市相川（尖閣湾・大佐渡エリア／尖閣湾まで約4.6〜4.7km）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "skyticket（クチコミまとめ）", "score": 4.5, "scale": 5, "review_count": 236, "checked_date": "2026-11-10", "url": "https://skyticket.jp/hotel/detail/property_984402/" }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索（スニペット経由）では具体的な1泊料金の数値は確認できなかった。",
+        "as_of_search_date": "2026-11-10",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "尖閣湾から車で約10分圏内、海沿いに立つホテル。部屋のバルコニーから海を望める造りで、2023年11月の宿泊者投稿では眺望が評価されている一方、大浴場は小さめで露天風呂がなく、温泉目的だと物足りない可能性があるとの指摘もあった。",
+      "target_audience": ["家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 17,
+        "review_reliability": 7,
+        "unique_experience_score": 9,
+        "photogenic": 9,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 54,
+      "recommendation_reason": "skyticketのクチコミまとめでは4.5（236件）と良好だが、rurubu.travelの内訳評価ではサービス4.0・部屋の快適さ3.8・施設設備3.7・食事3.7・総合3.4と中位にとどまり、数値付きレビューとして独立2情報源の確認（原則7）が本調査では不十分だった。大浴場に露天風呂がなく、絶景ホテルとして打ち出すための景観・温泉面の独自性も他候補より弱いため、総合スコア54点で見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2023年11月の宿泊者投稿では、海沿いでバルコニーからの眺めは良いとされる一方、大浴場が小さめで露天風呂がないため温泉目的だと物足りない可能性があると指摘されていた。rurubu.travelの内訳評価でも施設・設備3.7、食事3.7と中位評価。重大な欠陥（衛生・安全・予約トラブル等）の指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "ホテルファミリーオ佐渡相川 クチコミまとめ（4.5・236件） - skyticket", "url": "https://skyticket.jp/hotel/detail/property_984402/" },
+        { "type": "other", "title": "ホテルファミリーオ 佐渡相川 評価内訳（サービス/部屋/設備/食事） - rurubu.travel", "url": "https://www.rurubu.travel/hotel/japan/sado/hotel-familio-sadoaikawa" },
+        { "type": "other", "title": "ホテルファミリーオ佐渡相川 施設情報 - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/3131551/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア54点で採用ライン（75点）に届かず、数値付きの独立2情報源（原則7）の確認が実質不十分だった点、大浴場に露天風呂がなく絶景ホテルとしての独自性が他候補より弱い点から不採用とした。"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "cycle_date": "2026-10-26",
+  "theme": "温泉旅館（群馬県伊香保温泉）",
+  "season_rationale": "伊香保温泉は11月に入ると石段街周辺の紅葉が見頃を迎え、榛名山・水沢観音など近隣観光と組み合わせやすくなる一方、年末年始の予約が本格化する前の比較的落ち着いた時期にあたる。これまで本リポジトリでは群馬県の温泉旅館カテゴリとして草津温泉・四万温泉・水上温泉を扱ってきたが、同じ群馬三名泉の一つである伊香保温泉の温泉旅館そのものは未扱いであり、地域を初めて深掘りする意図で選定した（原則4：最新性の確認）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-19-kusatsu-onsen-ryokan", "region": "群馬県吾妻郡草津町（草津温泉）", "category": "温泉旅館", "note": "同じ群馬県・温泉旅館カテゴリだが草津温泉で地域が異なる" },
+    { "post_id": "2026-09-18-gunma-sauna", "region": "群馬県（四万温泉・水上温泉エリア）", "category": "サウナ", "note": "群馬県だがサウナカテゴリで地域・カテゴリとも異なる" },
+    { "post_id": "2026-10-22-minakami-glamping", "region": "群馬県利根郡みなかみ町", "category": "グランピング", "note": "群馬県だがみなかみ町・グランピングカテゴリで無関係" },
+    { "post_id": "2026-10-17-minakami-activity", "region": "群馬県利根郡みなかみ町", "category": "アクティビティ", "note": "群馬県だがみなかみ町・アクティビティカテゴリで無関係" }
+  ],
+  "duplication_note": "依頼時点の指定は『カテゴリ：温泉旅館／地域：群馬県伊香保温泉』。重複回避のため captions/・data/candidates/ の全履歴（2026-09-14〜2026-10-25、1ヶ月以上前の分も含む）を『伊香保』『ikaho』『群馬』で全件grepした結果、伊香保温泉所在の施設がこれまで一度も候補・採用として登場していないことを確認した（群馬県内では草津温泉・四万温泉・水上温泉エリアの候補のみ既存で、いずれも伊香保温泉とは地域が異なる）。地域・カテゴリとも完全に新規。",
+  "selection_correction_note": "調査エージェントは岸権旅館（77点）とホテル木暮（83点）の2件を同時に『selected』として記録し、captions/にも両者分（ikaho-kishigon-ryokan・ikaho-hotel-kogure）を作成していたが、1サイクル1カテゴリ1施設の運用ルールに従い、後続のセッション側でスコアの高いホテル木暮（83点）を本採用（decision: selected）、岸権旅館（77点）を次点（decision: shortlisted）に訂正した。岸権旅館分のキャプションファイルは本採用から外れたため、このサイクルではコミットしていない。",
+  "candidates": [
+    {
+      "id": "2026-10-26-ikaho-kishigon-ryokan",
+      "name": "岸権旅館",
+      "region": "群馬県渋川市伊香保町伊香保（石段街中腹）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "skyticket 伊香保温泉エリアまとめページ掲載値",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 1047,
+          "checked_date": "2026-10-26",
+          "url": "https://skyticket.jp/hotel/gunma/bl_100019/"
+        },
+        {
+          "source": "フォートラベル みんなの満足度",
+          "score": 3.91,
+          "scale": 5,
+          "review_count": 97,
+          "checked_date": "2026-10-26",
+          "url": "https://4travel.jp/dm_hotel-10043571"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "近畿日本ツーリスト系宿泊情報サイトの掲載で1泊2食付き17,750円〜・休前日21,050円〜という目安額が確認できたが、対象期間・部屋タイプが明示されておらず一次情報（公式サイト）での確証は取れていない。予約時に公式/予約サイトで最新金額の確認が必須。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "天正4年(1576年)創業という伊香保温泉でも最古級の歴史を持つ老舗旅館。本館のほか離れに総檜造りの露天風呂「権左衛門の湯」を備え、大浴場・露天風呂・貸切風呂・足湯を合わせて13の湯を持つ。黄金の湯を掛け流しで引き込み、客室からは赤城山・榛名山を望める部屋もある。石段街の中腹という散策しやすい立地も特徴。",
+      "renewal_or_news": "予約サイトの一部掲載情報で2026年9月〜2027年1月頃に大浴場改修を行うとの案内が見つかったが、施設名が明記されておらず岸権旅館のものと断定できなかったため、確証のある最新ニュースとしては扱わない（推測しない）。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 12,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 77,
+      "recommendation_reason": "skyticket(4.4点・1,047件)、フォートラベル(3.91点・97件)という2つの独立した情報源のうち主要サイトで採用ライン（4.0以上）を満たし、件数規模も十分で評価が安定している。天正4年(1576年)創業という稀有な歴史、離れの総檜造り露天風呂「権左衛門の湯」を含む13の湯、石段街中腹という散策しやすい立地が揃っており、『知られていないが歴史と湯量で勝負できる老舗』として伝えやすい。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベル97件中、夕食の質に対する不満（あまり美味しくなかったという投稿）や、駐車場が旅館から離れている点を指摘する声、風呂が『ややぬるめ』という意見が確認された。2.5点の低評価投稿も1件あったが、全体では風呂(4.36)・接客対応(4.23)が高評価で、『悪い』『とても悪い』の比率は限定的。衛生・安全上の重大な問題や予約対応トラブルの多発は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "岸権旅館 クチコミ（満足度3.91・97件） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10043571" },
+        { "type": "other", "title": "伊香保温泉エリア 口コミ評価の高いホテル一覧（岸権旅館 4.4・1,047件） - skyticket", "url": "https://skyticket.jp/hotel/gunma/bl_100019/" },
+        { "type": "other", "title": "岸権旅館 施設紹介（創業天正4年・風呂13・権左衛門の湯） - GLTJP", "url": "https://www.gltjp.com/ja/directory/item/14924/" },
+        { "type": "other", "title": "岸権旅館 プラン情報（1泊2食17,750円〜の目安額掲載） - 近畿日本ツーリスト 宿予約", "url": "https://yado.knt.co.jp/planlist/S100030/?fgid=a4126" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-26-ikaho-hotel-kogure",
+      "name": "伊香保温泉 ホテル木暮",
+      "region": "群馬県渋川市伊香保町伊香保135",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル クチコミ集計（施設ページ掲載値）",
+          "score": 4.72,
+          "scale": 5,
+          "review_count": 1906,
+          "checked_date": "2026-10-26",
+          "url": "https://travel.rakuten.co.jp/HOTEL/6266/review.html"
+        },
+        {
+          "source": "フォートラベル みんなの満足度",
+          "score": 3.79,
+          "scale": 5,
+          "review_count": 73,
+          "checked_date": "2026-10-26",
+          "url": "https://4travel.jp/dm_hotel-10043534"
+        },
+        {
+          "source": "Googleマップ クチコミ（itmedia nlab調査記事掲載値、2025年4月11日時点）",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 1977,
+          "checked_date": "2026-10-26",
+          "url": "https://nlab.itmedia.co.jp/research/articles/3195803/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "今回のWeb調査では公式一次情報での具体的な1泊2食料金を確認できなかった。第三者掲載サイトに21,060円〜という表示があったが施設名の明記がなく断定できないため、推測はせず予約時に公式サイト・予約サイトでの確認が必要。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "創業400年超の老舗で、伊香保の源泉『黄金の湯』総湧出量の約4分の1（毎分約1,000〜1,100リットル）を保有する。1300坪、北関東最大級とされる湯殿を持ち、大浴場『千楽』『千遊』には源泉かけ流しの露天風呂・展望風呂・泡風呂・サウナを備える。展望大浴場からは上州の山々を望める。夕食は上州の旬の食材を使った創作和会席。",
+      "renewal_or_news": "itmedia(nlab)によるGoogleマップクチコミ調査記事（2025年4月11日時点）で伊香保温泉エリア1位（4.4pt・1,977件）として紹介されており、2025年以降も話題性・評価の高さが継続していることが確認できる。",
+      "target_audience": ["夫婦", "記念日", "家族", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 14,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 83,
+      "recommendation_reason": "楽天トラベル(4.72点・1,906件)、Googleマップ調査値(4.4点・1,977件)、フォートラベル(3.79点・73件)という3つの独立した情報源のうち主要2つで採用ライン（4.0以上）を大きく上回り、件数規模も非常に大きく評価が安定している。黄金の湯の総湧出量の4分の1を保有する点、北関東最大級とされる1300坪の湯殿、展望大浴場からの上州の山々の眺めという『伝えやすい絵』が揃っており、Googleマップ調査で伊香保温泉エリア1位という話題性の裏付けもある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベル73件中『悪い』1件・『とても悪い』0件と比率は低く、項目別でもアクセス(3.77)・バリアフリー(3.78)が他項目よりやや低い程度で、風呂(4.67)・客室(4.30)・食事(4.24)・接客対応(4.19)は高評価。衛生・安全上の重大な問題や予約対応トラブルの多発は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "伊香保温泉 ホテル木暮 クチコミ（満足度3.79・73件） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10043534" },
+        { "type": "other", "title": "伊香保温泉 ホテル木暮 クチコミ（総合評価4.72・1,906件） - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/6266/review.html" },
+        { "type": "other", "title": "伊香保温泉エリア Googleマップクチコミ調査（ホテル木暮1位・4.4pt・1,977件、2025年4月11日時点） - ねとらぼ調査隊(itmedia nlab)", "url": "https://nlab.itmedia.co.jp/research/articles/3195803/" },
+        { "type": "other", "title": "【伊香保温泉の人気ホテル】「伊香保温泉 ホテル木暮」は北関東最大級の湯殿と黄金の湯が自慢の宿 - All About NEWS", "url": "https://news.allabout.co.jp/articles/o/114653/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-26-ikaho-kounkan",
+      "name": "香雲館",
+      "region": "群馬県渋川市伊香保町伊香保175-1",
+      "category": "温泉旅館",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "ねとらぼ調査隊(itmedia nlab) 伊香保温泉人気ランキング記事掲載値",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 155,
+          "checked_date": "2026-10-26",
+          "url": "https://nlab.itmedia.co.jp/research/articles/3064600/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "今回のWeb調査では公式一次情報での具体的な1泊2食料金を確認できなかった。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全10室で全客室に内湯・露天風呂を備えるとされる（旅行相談サイトの回答情報であり公式一次情報での確証は未確認）。本館大浴場も利用できると紹介されており、食事・もてなしの評判は良い。",
+      "target_audience": ["夫婦", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 8,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 62,
+      "recommendation_reason": "ねとらぼ調査隊の記事では4.4pt・155件で伊香保温泉3位と紹介されており数字自体は良好だが、フォートラベルでは同施設（または同系列の本館）とみられるページで3.25点という大きく異なる評価も見つかり、どちらが現在の香雲館を正しく表しているか一次情報で確証が取れなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベル上では3.25点という評価も確認されたが、対象ページが香雲館本体か、系列の本館『塚越屋七兵衛』かが一次情報で明確に確認できず、評価の帰属に疑問が残った。cocolocala等の投稿では食事量が多くないという指摘もあった。衛生・安全上の重大な問題は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "伊香保温泉人気ランキング（香雲館 4.4pt・155件・3位） - ねとらぼ調査隊(itmedia nlab)", "url": "https://nlab.itmedia.co.jp/research/articles/3064600/" },
+        { "type": "review_site", "title": "香雲館（または系列本館 塚越屋七兵衛）クチコミ（満足度3.25点、対象ページの帰属が一次情報で確証できず） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10220201" },
+        { "type": "other", "title": "伊香保温泉 香雲館のクチコミ&詳細", "url": "https://travel.gpoint.co.jp/daredoko/h7388/" },
+        { "type": "other", "title": "香雲館 施設ページ（本館大浴場に関する投稿を含む） - cocolocala", "url": "https://www.cocolocala.jp/hotels/5104" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "ねとらぼ調査隊の数値（4.4pt・155件）自体は採用ラインを満たすが、同じ施設（または同系列の本館『塚越屋七兵衛』）とみられる別ページでフォートラベル3.25点という大きく異なる評価が見つかり、どちらが現在の香雲館そのものを正しく表しているか一次情報（公式サイト等）で確証が取れなかった。別館としての立ち位置や客室数・設備についても一次情報での確証が乏しく、原則7（ファクトチェック：正確に確認できない数字は推測しない）に基づき、今回は見送りとした。公式サイトでの運営体制・客室情報が確認できれば再評価の余地がある。"
+    }
+  ]
+}

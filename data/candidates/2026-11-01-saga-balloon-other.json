@@ -1,0 +1,289 @@
+{
+  "cycle_date": "2026-11-01",
+  "theme": "その他（佐賀県佐賀市・佐賀インターナショナルバルーンフェスタ関連の宿泊・体験）",
+  "season_rationale": "2026佐賀インターナショナルバルーンフェスタは2026年10月30日(金)〜11月3日(火・祝)の5日間、佐賀市嘉瀬川河川敷で開催されることをJR九州の案内・観光メディア複数で確認した（研究日2026年11月1日〜2日時点では会期中）。本サイクルではまずこの大会に直接関連する宿泊施設・搭乗体験・期間限定プランを調査したが、(1) 来場者向けの熱気球搭乗体験は本体フェスタでは提供されていないことが複数ソースで確認され、(2) 会場周辺ホテルのバルーンフェスタ限定プラン（ビュールーム・限定グルメ等）は本セッションの検索範囲では一次情報を確認できなかった。そのため原則6・7（最新事実確認・推測禁止）に従い、これらは『確認できなかった』ものとして記録し、カテゴリ『その他』の趣旨に合う代替候補として、佐賀市内でバルーンと直接関係するユニーク施設『佐賀バルーンミュージアム』を追加調査した。",
+  "prior_posts_checked": [],
+  "duplication_note": "data/candidates・captions配下の既存ファイル全件（1ヶ月以上前のものを含む）を『佐賀』『佐賀市』『バルーン』『balloon』『saga』で横断検索した。captions配下で一致したのは2026-09-14-sagano-torokko.json（京都・嵯峨野トロッコ列車。地名『嵯峨野』の文字列一致で佐賀県とは無関係）と2026-10-17-ureshino-taishoya.json（佐賀県嬉野市の宿。嬉野温泉の候補で、佐賀市・バルーンフェスタとは無関係）のみ。data/candidates配下で一致したファイルのうち『バルーン』が本文に現れたのは2026-09-14-scenic-activity.json（北海道上士幌町の『バルーンのまち』・熱気球フェスティバル。佐賀県とは無関係）のみで、他のヒットは『嬉野』『sagano』等の文字列の偶然一致であった。佐賀県佐賀市・佐賀インターナショナルバルーンフェスタを対象とした既存候補・制作済みキャプションは見つからず、本サイクルの調査対象は既存候補と重複しない。",
+  "research_limitation_note": "本セッションのネットワーク許可リストの制約によりWebFetchは佐賀関連サイト（asoview.com、gltjp.com、sagabai.com、sibf.jp等）に対して軒並み失敗（ENOTFOUND）し、すべてWebSearchのスニペット経由での確認となった。これにより、(1) 会場周辺ホテルのバルーンフェスタ限定宿泊プランの有無を一次情報で確認できず、(2) 佐賀バルーンミュージアムの国内主要口コミサイト（じゃらん・4travel等）上の具体的な点数・件数を確認できず、確認できたのは海外向け予約サイト（Trip.com・Expedia）の評価のみ、(3) SAGAバルーンチャレンジシリーズ（嘉瀬川河川敷での別競技会。例年1月開催）の2026年度の係留体験搭乗の実施有無を確認できなかった。これらは各候補のrecommendation_reason / rejection_reasonに個別に明記している。",
+  "candidates": [
+    {
+      "id": "2026-11-01-sibf-2026-boarding-experience-unavailable",
+      "name": "2026佐賀インターナショナルバルーンフェスタ 来場者向け熱気球搭乗体験（確認結果：提供なし）",
+      "region": "佐賀県佐賀市嘉瀬町荻野周辺（嘉瀬川河川敷バルーン会場）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "renewal_or_news": "2026佐賀インターナショナルバルーンフェスタは2026年10月30日(金)〜11月3日(火・祝)の5日間開催。研究日（2026年11月1日〜2日）時点では開催中で、入場は無料。JR九州は会期中、長崎本線鍋島駅〜久保田駅間に臨時駅『バルーンさが駅』を営業している。夜間係留イベント『ラ・モンゴルフィエ・ノクチューン』はあるが、イベント情報サイトiwafuは『来場者向けのバルーン搭乗体験は行っていません』と明記しており、本セッションの検索範囲でも一般来場者が実際に熱気球に搭乗できるプログラムは確認できなかった。",
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "会場入場は無料。嘉瀬川河川敷バルーン会場北駐車場は有料（1台2,000円程度）。搭乗体験自体が提供されていないため、搭乗料金は存在しない。",
+        "as_of_search_date": "2026-11-02",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "着想としては、100機超のバルーンが集まるアジア最大級の国際熱気球大会で実際に熱気球に搭乗できれば非常に独自性の高い体験になり得るが、確認できた一般来場者向けプログラムは観覧（早朝一斉離陸・夜間係留『ノクチューン』等）のみで、搭乗体験そのものは本体フェスタの一般向けプログラムには存在しない。",
+      "target_audience": [
+        "家族",
+        "友人",
+        "カップル"
+      ],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 5,
+        "photogenic": 5,
+        "value_for_price": 0,
+        "sns_buzz": 0,
+        "access_and_freshness": 0
+      },
+      "score": 10,
+      "recommendation_reason": "熱気球に実際に搭乗できれば独自性・映えともに非常に高い体験となり得るため着想として調査したが、2026年大会において一般来場者向けの搭乗体験が提供されているという一次情報を確認できなかった（iwafu等が明確に『行っていません』と記載）。原則7（推測しない）に従い、存在しない体験として候補化は見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "搭乗体験自体が提供されていないため、体験に対する口コミ・ネガティブレビューの収集対象が存在しない。大会そのもの（観覧イベント）に関する重大な低評価は本セッションの検索範囲では見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "2026佐賀インターナショナルバルーンフェスタ イベントページ（搭乗体験の有無についての記載あり） - iwafu",
+          "url": "https://www.iwafu.com/jp/events/1062182"
+        },
+        {
+          "type": "other",
+          "title": "佐賀インターナショナルバルーンフェスタ 開催概要（日程・臨時駅） - 日本旅行業協会(nta.co.jp)イベント情報",
+          "url": "https://www.nta.co.jp/kokunai/special/eventinfo/10639268.htm"
+        },
+        {
+          "type": "press",
+          "title": "2026佐賀インターナショナルバルーンフェスタ開催案内 プレスリリース",
+          "url": "https://san-tatsu.jp/pressrelease/553250/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "着想段階の体験であり、2026年大会で一般来場者向けに実際に提供されているという一次情報を確認できなかったため（iwafu等が搭乗体験の提供なしを明記）、原則7（推測で候補化しない）に基づき不採用とした。"
+    },
+    {
+      "id": "2026-11-01-hotel-new-otani-saga-balloon-period",
+      "name": "ホテルニューオータニ佐賀（バルーンフェスタ期間の宿泊先として調査・期間限定プランは確認できず）",
+      "region": "佐賀県佐賀市城内（佐賀城跡の水堀沿い、JR佐賀駅から車で約5〜8分）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "renewal_or_news": "佐賀県を代表するシティホテルで、佐賀城跡の水堀と楠の自然に囲まれた立地。研究日時点でバルーンフェスタ開催期間（2026年10月30日〜11月3日）に合わせた限定の宿泊プラン・バルーンビュールーム・限定グルメ等の告知は、本セッションの検索範囲では確認できなかった。",
+      "review_scores": [
+        {
+          "source": "楽天トラベル（佐賀県高級ホテル・旅館ランキング掲載の総合評価）",
+          "score": 4.34,
+          "scale": 5,
+          "review_count": 888,
+          "checked_date": "2026-11-02",
+          "url": "https://travel.rakuten.co.jp/ranking/sales/package/premium/saga/"
+        },
+        {
+          "source": "Trip.com（ホテルページの口コミ評価）",
+          "score": 8.7,
+          "scale": 10,
+          "review_count": 270,
+          "checked_date": "2026-11-02",
+          "url": "https://jp.trip.com/hotels/scenic/city/jp/saga.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベル掲載の最安料金目安は5,910円〜（税込6,500円〜、時期・部屋タイプにより変動）。バルーンフェスタ期間は需要増によりこの目安より高騰する可能性が高い。",
+        "as_of_search_date": "2026-11-02",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "佐賀城跡の水堀を望む、佐賀市内では数少ないシティホテルという立地の独自性はあるが、バルーンフェスタと直接結び付いた期間限定の体験・プラン（例：会場方向が見える客室プラン、限定ディナー等）は本セッションの検索範囲では確認できなかった。口コミでは建物の歴史を感じさせる点や静かな環境、清掃の行き届いた点が好意的に紹介されている。",
+      "target_audience": [
+        "夫婦",
+        "カップル",
+        "記念日"
+      ],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 13,
+        "unique_experience_score": 6,
+        "photogenic": 8,
+        "value_for_price": 6,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 59,
+      "recommendation_reason": "楽天トラベル4.34（888件）・Trip.com 8.7/10（270件）と、ホテル単体の評価・口コミ件数はいずれも高く独立2情報源で裏付けられている。しかし本サイクルのテーマである『バルーンフェスタ関連の期間限定プラン・体験』という観点では、会場や大会と直接結び付いた限定性のある訴求material（期間限定プラン、ビュープラン等）を確認できず、独自体験スコアが低くなった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "大きな低評価の傾向は確認できなかった。一部の口コミ（cocolocala、2026年5月投稿）では評価3.0の投稿もあり、全てが最高評価というわけではないが、安全性・衛生面での重大な指摘は見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "佐賀県 高級ホテル・旅館ランキング（ホテルニューオータニ佐賀 総合4.34・888件） - 楽天トラベル",
+          "url": "https://travel.rakuten.co.jp/ranking/sales/package/premium/saga/"
+        },
+        {
+          "type": "booking_site",
+          "title": "佐賀県のホテル一覧（ホテルニューオータニ佐賀 8.7/10・270件） - Trip.com",
+          "url": "https://jp.trip.com/hotels/scenic/city/jp/saga.html"
+        },
+        {
+          "type": "review_site",
+          "title": "ホテルニューオータニ佐賀 宿泊者口コミ（2026年5月投稿） - cocolocala",
+          "url": "https://www.cocolocala.jp/hotels/23498"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "ホテル自体の評価・口コミ件数は高水準で裏付けられているが、本サイクルのテーマ（バルーンフェスタ関連の期間限定宿泊プラン・体験）に合致する一次情報を確認できず、独自体験・話題性・鮮度の観点で score_breakdown の合計が59点にとどまり原則6（75点基準）に届かないため不採用とした。ホテル自体の品質は高いため、別テーマ（絶景ホテル等）のサイクルでの再調査候補として記録する。"
+    },
+    {
+      "id": "2026-11-01-saga-balloon-museum",
+      "name": "佐賀バルーンミュージアム",
+      "region": "佐賀県佐賀市松原2丁目2-27（JR佐賀駅から徒歩約17分、またはバスで『県庁前』下車徒歩1分）",
+      "category": "その他",
+      "is_hidden_gem": true,
+      "renewal_or_news": "2016年に開館した、熱気球をテーマにした国内初（唯一）の常設ミュージアム。1980年から続く佐賀インターナショナルバルーンフェスタ（2026年は10月30日〜11月3日開催）の『バルーンのまち』としての歴史・文化を年間を通じて体感できる施設で、2022年12月には体感コーナーがリニューアルされ、Microsoft Azure Kinect DKを使った新ギミックが導入された。",
+      "review_scores": [
+        {
+          "source": "Trip.com（佐賀県の観光スポットランキング内の評価）",
+          "score": 4.9,
+          "scale": 5,
+          "review_count": 65,
+          "checked_date": "2026-11-02",
+          "url": "https://ph.trip.com/toplist/tripbest/saga-prefecture-best-things-to-do-10070014589090"
+        },
+        {
+          "source": "Expedia（施設ページの口コミ評価）",
+          "score": 8.0,
+          "scale": 10,
+          "review_count": 21,
+          "checked_date": "2026-11-02",
+          "url": "https://www.expedia.com/Saga-Balloon-Museum-Saga.d553248635975090984.Vacation-Attraction"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "観覧料は大人500円、小・中・高校生200円、未就学児無料。営業時間は10:00〜17:00（入館は16:30まで）、月曜休館（祝日の場合は翌日休）・年末年始(12/31〜1/1)休館。クレジットカード不可の案件あり、現金推奨。研究日（2026年11月2日）は月曜のため休館日に該当する可能性が高く、訪問はフェスタ会期中の他日（10/30・11/1・11/3等）を推奨する。",
+        "as_of_search_date": "2026-11-02",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "国内で唯一の熱気球専門ミュージアムで、館内には日本初の有人飛行に成功した熱気球『イカロス5号』の実物（オレンジ色の球皮・金属製フレームのゴンドラ）が『気球の殿堂』で展示されている。入口には20メートル級の熱気球オブジェ、バルーンで彩られた階段、280インチのスーパーハイビジョンシアター、自分の顔が気球に浮かぶプロジェクションマッピング、パイロット気分を味わえるフライトシミュレーターなど体験型展示が揃い、屋内施設のため天候に左右されずに佐賀の『バルーンのまち』としての歴史・文化を体感できる。",
+      "target_audience": [
+        "家族",
+        "友人",
+        "一人旅",
+        "カップル"
+      ],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 9,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 76,
+      "recommendation_reason": "佐賀インターナショナルバルーンフェスタ（会場の熱気球搭乗体験は確認できなかった）の代わりに、『バルーンのまち佐賀』を年間を通じて体感できる国内唯一の熱気球専門ミュージアムとして調査した。Trip.com 4.9/5（65件）・Expedia 8.0/10＝5点換算4.0（21件）という独立2情報源をいずれも5点換算4.0以上で確認できた。日本初の有人飛行熱気球の実物展示、20m級の気球オブジェ、フライトシミュレーター等、写実的かつ体験型の見どころが多く、観覧料500円という価格対体験価値も高い。一方、国内大手口コミサイト（じゃらん・4travel等）上の具体的な点数は本セッションの検索範囲では確認できず、確認できた評価が海外向け予約サイト中心という情報の薄さから、Hidden Gemとして扱う。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本セッションの検索範囲では、口コミ本文（低評価・『狭い』『物足りない』等の指摘）までは直接確認できなかったが、見つかった紹介記事・ブログでは否定的な内容は見当たらなかった。屋外のバルーンそのものが見られない（展示が中心）という点を残念がる感想が一部あり、これは体験の性質上の注意点として明記する。安全性・衛生面・接客対応での重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "佐賀バルーンミュージアム 施設紹介（住所・料金・営業時間） - 佐賀市観光協会公式サイト sagabai.com",
+          "url": "https://sagabai.com/balloon-museum/main/356.html"
+        },
+        {
+          "type": "review_site",
+          "title": "Saga Prefecture Best Things to Do（佐賀バルーンミュージアム 4.9/5・65件） - Trip.com",
+          "url": "https://ph.trip.com/toplist/tripbest/saga-prefecture-best-things-to-do-10070014589090"
+        },
+        {
+          "type": "review_site",
+          "title": "Saga Balloon Museum（8.0/10・21件） - Expedia",
+          "url": "https://www.expedia.com/Saga-Balloon-Museum-Saga.d553248635975090984.Vacation-Attraction"
+        },
+        {
+          "type": "booking_site",
+          "title": "佐賀バルーンミュージアム 口コミ49件掲載ページ - アソビュー!",
+          "url": "https://www.asoview.com/leisure/grp8/location/410250/"
+        },
+        {
+          "type": "other",
+          "title": "佐賀バルーンミュージアム 施設・展示紹介（イカロス5号展示・フライトシミュレーター等） - tabi-mag.jp",
+          "url": "https://tabi-mag.jp/sx0236"
+        },
+        {
+          "type": "other",
+          "title": "Saga Balloon Museum 施設紹介 - 公益社団法人九州観光機構(visit-kyushu.com)",
+          "url": "https://www.visit-kyushu.com/en/see-and-do/spots/saga-balloon-museum/"
+        }
+      ],
+      "decision": "selected",
+      "rejection_reason": "",
+      "creator_story": {
+        "text": "佐賀バルーンミュージアムは、佐賀市で3回目となる熱気球世界選手権が2016年に開催されたことを契機に、季節や天候を問わず熱気球の魅力に親しめる場所を目指して開館したとされる（Microsoft Japan公式ブログの紹介記事で確認）。年1回の『佐賀インターナショナルバルーンフェスタ』の魅力を年間を通じて伝えたいという、佐賀市・運営団体としての開館の狙いは複数の紹介記事で確認できた。また2022年12月には体感コーナーがリニューアルされ、Microsoft Azure Kinect DKを使った非接触型の展示が導入されたことも確認した。しかし、開館を企画した佐賀市の担当者や学芸員が『どんな思いで』この施設を立ち上げたかを直接語った一次的な発言・インタビュー記録、または建物の設計者・展示デザインの意図を語った資料は、本セッションの検索範囲（WebFetchがネットワーク制約で使えずWebSearchのスニペット経由）では確認できなかった。推測や発言の創作は行っていない。",
+        "sources": [
+          {
+            "type": "press",
+            "title": "デジタルバルーンで空を飛ぶ。84万人の熱狂を誰もが体感できるAzure Kinect DKによる展示コンテンツ制作 - Microsoft Japan公式ブログ",
+            "url": "https://blogs.windows.com/japan/2023/04/28/saga-balloon-museum-azure-kinect-dk/"
+          },
+          {
+            "type": "other",
+            "title": "Saga Balloon Museum 施設紹介 - 公益社団法人九州観光機構(visit-kyushu.com)",
+            "url": "https://www.visit-kyushu.com/en/see-and-do/spots/saga-balloon-museum/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-01-saga-balloon-challenge-series-tethered-ride-unconfirmed",
+      "name": "SAGAバルーンチャレンジシリーズ 熱気球係留体験搭乗（2026年度日程は確認できず）",
+      "region": "佐賀県佐賀市嘉瀬町（嘉瀬川河川敷、受付は佐賀市防災ステーション）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "renewal_or_news": "本体の『佐賀インターナショナルバルーンフェスタ』（秋開催）とは別に、嘉瀬川河川敷では『SAGAバルーンチャレンジシリーズ』という競技会が複数回開催されている。2025年1月11日(土)・12日(日)の第3戦・第4戦では、佐賀市防災ステーションで6:30頃から受付し、先着200名限定で『熱気球係留体験搭乗』が行われた（料金：大人1,000円、小学生500円、天候により中止・人数減の可能性あり）。ただし同シリーズの2026年度（2026年秋〜2027年冬）の開催日程・係留体験搭乗の実施有無は、本セッションの検索範囲では確認できなかった。",
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "2025年1月開催時の実績：大人1,000円、小学生500円（係留体験搭乗、先着200名）。2026年度の料金・実施有無は確認できていない。",
+        "as_of_search_date": "2026-11-02",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "実際に熱気球に（係留の範囲で）搭乗できるという、本体フェスタでは得られない体験。ただし開催は例年1月前後とみられ、研究サイクルが対象とする2026年秋の佐賀インターナショナルバルーンフェスタ（10/30〜11/3）とは別日程・別イベントである可能性が高く、2026年度の具体的な開催告知は確認できなかった。",
+      "target_audience": [
+        "家族",
+        "友人"
+      ],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 8,
+        "photogenic": 6,
+        "value_for_price": 3,
+        "sns_buzz": 2,
+        "access_and_freshness": 0
+      },
+      "score": 19,
+      "recommendation_reason": "実際の係留搭乗という独自性の高い体験だが、確認できたのは2025年1月開催分の実績のみで、2026年度の開催日程・実施有無が本セッションの検索範囲では確認できず、原則4・7（最新事実確認・推測禁止）を満たせない。また本サイクルが対象とする2026年秋のバルーンフェスタ（10/30〜11/3）とは別日程の可能性が高く、今回のテーマとの直接的な関連も確定できない。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "2026年度の開催自体が未確認のため、口コミ・ネガティブレビューの収集は実施していない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "SAGAバルーンチャレンジシリーズ第3戦・第4戦（2025年1月11日・12日、係留体験搭乗の案内あり） - tabi-mag.jp",
+          "url": "https://tabi-mag.jp/sagabaiioon-3/"
+        },
+        {
+          "type": "other",
+          "title": "SAGAバルーンチャレンジシリーズ第3戦・第4戦 続報 - tabi-mag.jp",
+          "url": "https://tabi-mag.jp/sagabaiioon-4/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "2026年度の開催日程・係留体験搭乗の実施有無を示す一次情報を本セッションの検索範囲では確認できず、原則4・7（最新事実確認・推測禁止）を満たせないため不採用とした。"
+    }
+  ]
+}

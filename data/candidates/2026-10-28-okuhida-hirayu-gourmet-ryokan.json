@@ -1,0 +1,244 @@
+{
+  "cycle_date": "2026-10-28",
+  "theme": "岐阜県高山市奥飛騨温泉郷（平湯・新平湯エリア）のグルメ旅館",
+  "season_rationale": "11月に向けて北アルプス山麓は紅葉から初冬へ移行する時期で、露天風呂から笠ヶ岳など山岳景観を望める奥飛騨温泉郷は季節の訴求力が高い。選定した匠の宿 深山桜庵は2025年4月にリニューアルオープンしており、最新状態を紹介する価値がある。岐阜県内では高山市街（文化体験）・下呂温泉（グルメ旅館・温泉旅館）が既出だが、奥飛騨温泉郷（平湯・新平湯エリア）としては本サイクルが初出の組み合わせ。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-10-27-arai-ryokan-shuzenji", "region": "静岡県伊豆市修善寺温泉", "category": "グルメ旅館" },
+    { "candidate_id": "2026-10-27-nyuto-onsenkyo-tsurunoyu", "region": "秋田県仙北市（乳頭温泉郷）", "category": "温泉旅館" },
+    { "candidate_id": "2026-10-27-sansousou-tsuchiyu", "region": "福島県福島市土湯温泉町", "category": "サウナ" },
+    { "candidate_id": "2026-10-26-ikaho-hotel-kogure", "region": "群馬県渋川市伊香保町（伊香保温泉）", "category": "温泉旅館" },
+    { "candidate_id": "2026-10-26-iizaka-matsuriya-yuzaemon", "region": "福島県福島市飯坂町（飯坂温泉）", "category": "グルメ旅館" },
+    { "candidate_id": "2026-10-20-gero-suimeikan", "region": "岐阜県下呂市（下呂温泉）", "category": "グルメ旅館" },
+    { "candidate_id": "2026-09-22-honjin-hiranoya-kachoan", "region": "岐阜県高山市（高山陣屋・古い町並み周辺）", "category": "文化体験" },
+    { "candidate_id": "2026-09-22-gero-suihouen", "region": "岐阜県下呂市（下呂温泉）", "category": "温泉旅館" }
+  ],
+  "duplication_note": "依頼地域『岐阜県高山市奥飛騨温泉郷（平湯・新平湯エリア）』・カテゴリ『グルメ旅館』は、過去データ（2026-09-14〜2026-10-27の全candidates/captions）を確認した結果、一度も登場していない新規の組み合わせ。岐阜県内では高山市街の文化体験（2026-09-22-hida-takayama-culture／本陣平野屋花兆庵）と下呂温泉のグルメ旅館・温泉旅館（2026-09-22-gero-onsen、2026-09-22-gero-suihouen、2026-10-20-gero-onsen-gourmet-ryokan／下呂温泉 水明館）が既出だが、下呂温泉と奥飛騨温泉郷（平湯・新平湯）は同じ岐阜県飛騨地域内でも地理的に異なる温泉地であり、重複とはみなさない。",
+  "candidates": [
+    {
+      "id": "2026-10-28-miyama-ouan-hirayu",
+      "name": "匠の宿 深山桜庵（共立リゾート）",
+      "region": "岐阜県高山市奥飛騨温泉郷平湯299（平湯温泉。平湯温泉バスターミナル・平湯温泉駅から徒歩約7分、JR高山駅から濃飛バスで約60分、送迎あり）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル",
+          "score": 3.85,
+          "scale": 5,
+          "review_count": 98,
+          "checked_date": "2026-10-28",
+          "url": "https://4travel.jp/dm_hotel-10061391"
+        },
+        {
+          "source": "Relux",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 33,
+          "checked_date": "2026-10-28",
+          "url": "https://rlx.jp/25252/review/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "公式予約サイト経由の参考価格として大人1名1万8,960円〜という情報を確認（室数・プラン・食事内容により大きく変動）。正確な料金は予約サイト・公式サイトで制作直前に要確認。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "北アルプス・笠ヶ岳を望む露天風呂（大浴場は源泉かけ流し）と、囲炉裏を囲んで味わう飛騨牛中心の会席料理が核になる『匠の宿』。無料の貸切内風呂2種（花暦の湯・夢想の湯）、夜は無料の名物『夜鳴きそば』も提供される。母屋のほか杉の抄・松の抄・檜の抄・一位の抄、離れの姫子松の抄と棟ごとに趣が異なり、姫子松の抄は源泉かけ流しの専用露天風呂付き。2025年4月にリニューアルオープンしている。",
+      "renewal_or_news": "2025年4月にリニューアルオープン。じゃらんの施設ページでも『2025年4月リニューアルOPEN』と明記されており、同時期にラウンジが有料化されるなど館内サービス内容の変更があった（検索日2026-10-28時点）。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "グルメ旅", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 12,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 5
+      },
+      "score": 81,
+      "recommendation_reason": "Reluxの4.0点（33件）とフォートラベルの3.85点（98件）という独立した2つの情報源を確認し、Reluxは採用基準の4.0以上（5点換算）を満たす。項目別でも風呂4.6・部屋4.4など温泉旅館としての核となる体験評価が高い。笠ヶ岳を望む露天風呂、囲炉裏の飛騨牛会席、無料の貸切風呂・夜鳴きそばなど『グルメ旅館』として写真・体験両面で伝えやすい独自性が多く、2025年4月リニューアルで情報の鮮度も高い。総合スコア81点で採用ライン（75点）を上回ったため選定した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icottoに掲載された2023年4月宿泊者の個別口コミ（満足度3.5）では、温泉自体には満足したものの若手男性従業員の対応に不満が書かれていた。フォートラベルの項目別評価でもアクセスが3.37と他項目（風呂4.48・客室4.44）より低め。2025年4月からラウンジが有料化されており、以前は無料だった設備の変更点として事前案内が必要。いずれも接客個別事例・設備条件の変更であり、衛生・安全上の重大・組織的な欠陥を示す指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "共立リゾートによる宿の公式紹介ページでは、『木と歩き、木と育ち、木こそ我が人生』と語る飛騨の匠が『後世へ残すべき建物』として精魂込めてつくりあげた宿、と紹介されている。館内は母屋のほか『杉の抄』『松の抄』『檜の抄』『一位の抄』、離れの『姫子松の抄』という棟ごとに異なる飛騨の天然木を用いた構成で、立派な梁や大胆な木組みなど飛騨の民家を思わせる造りが特徴とされる。じゃらんの施設ページでは2025年4月にリニューアルオープンしたことが明記されている。ただし、設計を手がけた特定個人（建築家）の名前、開業当初の経緯、今回のリニューアルの方針について運営会社（共立リゾート／共立メンテナンス）が語った公式プレスリリースや個人インタビューは、今回調査した範囲では確認できなかった。上記の『飛騨の匠』という言葉は宿の紹介文に掲載された表現であり、特定の個人の発言として一次資料で裏取りできたものではないため、これ以上の経緯や人物像の推測・創作は行わない。",
+        "sources": [
+          {
+            "type": "official",
+            "title": "匠の宿 深山桜庵（共立リゾート）のご紹介 ― 公式宿紹介ページ（『木と歩き、木と育ち、木こそ我が人生』という飛騨の匠の言葉、杉の抄・松の抄・檜の抄・一位の抄・姫子松の抄の棟構成）",
+            "url": "https://yado.knt.co.jp/st/S210002/"
+          },
+          {
+            "type": "booking_site",
+            "title": "匠の宿 深山桜庵(共立リゾート) 2025年4月リニューアルOPEN ― じゃらんnet",
+            "url": "https://www.jalan.net/yad308347"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "匠の宿 深山桜庵（共立リゾート）のご紹介 ― 公式宿紹介ページ",
+          "url": "https://yado.knt.co.jp/st/S210002/"
+        },
+        {
+          "type": "booking_site",
+          "title": "匠の宿 深山桜庵(共立リゾート) 2025年4月リニューアルOPEN ― じゃらんnet",
+          "url": "https://www.jalan.net/yad308347"
+        },
+        {
+          "type": "review_site",
+          "title": "匠の宿 深山桜庵 口コミ・評価（フォートラベル／満足度3.85・98件、風呂4.48・客室4.44・アクセス3.37）",
+          "url": "https://4travel.jp/dm_hotel-10061391"
+        },
+        {
+          "type": "review_site",
+          "title": "匠の宿 深山桜庵 クチコミ（Relux／総合4.0・33件、風呂4.6・部屋4.4・夕食4.0）",
+          "url": "https://rlx.jp/25252/review/"
+        },
+        {
+          "type": "press",
+          "title": "【岐阜県の人気ホテル】「匠の宿 深山桜庵」は北アルプスを望む露天風呂と飛騨牛が魅力 ― All About",
+          "url": "https://news.allabout.co.jp/articles/o/110523/"
+        },
+        {
+          "type": "other",
+          "title": "匠の宿 深山桜庵 施設ページ・個別口コミ（icotto）",
+          "url": "https://icotto.jp/hotels/501"
+        }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-28-misenso-shin-hirayu",
+      "name": "美山荘",
+      "region": "岐阜県高山市奥飛騨温泉郷（新平湯温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "tour.ne.jp（旅行比較サイト集計）",
+          "score": 3.9,
+          "scale": 5,
+          "review_count": 3,
+          "checked_date": "2026-10-28",
+          "url": "https://www.tour.ne.jp/j_hotel/24092/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では1泊2食の具体的な金額を確定できなかった。男女別内湯と庭園露天風呂を備える中規模旅館。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "飛騨牛の陶板焼きや女将の手作り料理、夕食の朴葉焼き、朝食の鱒の味噌漬けなどが口コミで好評な新平湯温泉の旅館。庭園露天風呂を備える。",
+      "target_audience": ["夫婦", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 5,
+        "unique_experience_score": 12,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 49,
+      "recommendation_reason": "飛騨牛陶板焼きや女将手作り料理など食事面の個別評価は好意的だが、確認できた数値評価はいずれも採用基準（主要レビュー4.0以上）に届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "じゃらんの施設ページに掲載された項目別評価では、風呂3.9・接客サービス3.7・清潔感3.7に対し、部屋3.3・夕食3.5・朝食3.0と食事関連の評価が全体的に採用基準の4.0を下回っていた（口コミ件数は確認できず）。tour.ne.jp集計も3.9点だが件数3件と少なく、サンプルの信頼性は限定的。衛生・接客上の重大・組織的な欠陥を示す指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "奥飛騨温泉郷 新平湯温泉 美山荘 クチコミ・評価（じゃらんnet／風呂3.9・接客3.7・清潔感3.7・部屋3.3・夕食3.5・朝食3.0）",
+          "url": "https://www.jalan.net/yad384580/kuchikomi/"
+        },
+        {
+          "type": "other",
+          "title": "奥飛騨温泉郷 新平湯温泉 美山荘（tour.ne.jp／クチコミ評価3.9・3件）",
+          "url": "https://www.tour.ne.jp/j_hotel/24092/"
+        },
+        {
+          "type": "review_site",
+          "title": "美山荘 口コミ（フォートラベル）",
+          "url": "https://4travel.jp/dm_hotel-10037499"
+        },
+        {
+          "type": "other",
+          "title": "新平湯温泉エリアの宿一覧（mapple.net）",
+          "url": "https://www.mapple.net/region/a0404040305/hotel/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合49点で採用ライン（75点）に届かず、確認できた数値評価（じゃらん施設ページの項目別評価、tour.ne.jp3.9点・3件）がいずれも採用基準（主要レビュー4.0以上）を満たさないため不採用とした。"
+    },
+    {
+      "id": "2026-10-28-okuhida-sansouan-kyoya",
+      "name": "料理旅館 奥飛騨山草庵 饗家",
+      "region": "岐阜県高山市奥飛騨温泉郷一重ヶ根212-84（新平湯温泉。JR高山駅から濃飛バス新穂高ロープウェイ行きで約1時間14分、禅通寺前下車徒歩約5分）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "旅工房だれどこ（楽天トラベル集計経由）",
+          "score": 4.75,
+          "scale": 5,
+          "review_count": 12,
+          "checked_date": "2026-10-28",
+          "url": "https://travel.gpoint.co.jp/daredoko/22b019-d077/all/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では1泊2食の具体的な金額を確定できなかった。1日5組限定の小規模料理旅館で高価格帯とみられるが正確な料金は未確認。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "築約150年の豪農の民家を移築・改装した1日5組限定の料理旅館。貸切風呂4カ所を備え、奥飛騨懐石中心の創作和食が名物。",
+      "target_audience": ["夫婦", "記念日", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 4,
+        "unique_experience_score": 17,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 56,
+      "recommendation_reason": "1日5組限定・築150年の古民家・貸切風呂4カ所という独自性は高いが、現行の信頼できる数値評価の裏取りが不十分。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できる現行の数値評価は旅工房だれどこ経由の楽天トラベル集計（4.75点・12件）のみで、他にフォートラベルの2009年投稿（4.0点、母屋の洋室や喫茶コーナーが『中途半端に改装された印象』という指摘あり）と2014年投稿（5.0点）という古く件数も少ない個別口コミしか確認できなかった。直近（2026年）の口コミ件数が少なく、現在の設備・サービス水準を正確に裏取りできない点がリスク。衛生・安全上の重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "料理旅館 奥飛騨山草庵 饗家 ― ぎふ旅ネット（岐阜県観光連盟公式サイト）施設紹介",
+          "url": "https://www.kankou-gifu.jp/reserve/detail_115.html"
+        },
+        {
+          "type": "other",
+          "title": "料理旅館 奥飛騨山草庵 饗家 施設情報（旅工房だれどこ／楽天トラベル集計 総合4.75・12件）",
+          "url": "https://travel.gpoint.co.jp/daredoko/22b019-d077/all/"
+        },
+        {
+          "type": "review_site",
+          "title": "奥飛騨山草庵 饗家 口コミ（フォートラベル／2009年投稿4.0・2014年投稿5.0、各個別口コミ）",
+          "url": "https://4travel.jp/dm_hotel_tips/10131453"
+        },
+        {
+          "type": "booking_site",
+          "title": "料理旅館 奥飛騨山草庵 饗家(きょうや) ― じゃらんnet",
+          "url": "https://www.jalan.net/yad377124/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "確認できる現行の数値評価が楽天トラベル系集計（4.75点・12件）のみで、他の裏付けはフォートラベルの2009年・2014年の古い個別口コミ（各1件）のみのため、原則7が求める独立した複数の現行評価の裏取りができなかった。独自性（150年古民家・1日5組限定）は高いが、総合スコア56点で採用ライン（75点）に届かず不採用とした。"
+    }
+  ],
+  "cycle_result": "選定: 匠の宿 深山桜庵（共立リゾート、平湯温泉、81点）。岐阜県高山市奥飛騨温泉郷（平湯・新平湯エリア）のグルメ旅館カテゴリで3件（深山桜庵・美山荘・饗家）を調査した。深山桜庵はReluxの4.0点（33件）とフォートラベルの3.85点（98件）という独立した2情報源を確認し、Reluxが採用ライン4.0以上を満たす。笠ヶ岳を望む露天風呂、囲炉裏の飛騨牛会席、無料の貸切風呂・夜鳴きそばという独自体験に加え、2025年4月リニューアルで情報の鮮度も高いため選定した。美山荘（49点）は飛騨牛陶板焼きなど食事の個別評価は好意的だが、じゃらんの項目別評価（夕食3.5・朝食3.0）や件数の少ない集計（tour.ne.jp3.9点・3件）がいずれも採用基準4.0に届かず不採用。饗家（56点）は築150年の古民家・1日5組限定という独自性は高いが、現行の信頼できる数値評価が楽天トラベル系集計（12件）のみで、他はフォートラベルの2009年・2014年の古い個別口コミしか確認できず、原則7の裏取りが不十分なため不採用とした。"
+}

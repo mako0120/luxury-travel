@@ -1,0 +1,184 @@
+{
+  "cycle_date": "2026-10-22",
+  "theme": "温泉旅館（石川県七尾市和倉温泉）",
+  "season_rationale": "11月に入ると北陸では加能ガニ（ズワイガニ）漁が解禁となり、紅葉と合わせて北陸温泉旅行の検討が高まる時期に入る直前のタイミング。また和倉温泉は2024年1月の能登半島地震で温泉街全体が被災し、2026年10月時点でも加盟旅館20軒のうち通常営業再開は一部にとどまり、観光協会は2028年の全館再開を目標に復興を進めている最中（原則4：最新性の確認）。『今、実際に営業している宿』を見極めて紹介することが、単なる観光紹介以上に意味を持つタイミングだと判断した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-21-zao-onsen-kokusaihotel", "region": "山形県山形市蔵王温泉", "category": "温泉旅館" },
+    { "post_id": "2026-10-20-bettei-haruki-beppu", "region": "大分県別府市（別府温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-10-19-kusatsu-onsen-ryokan", "region": "群馬県吾妻郡草津町（草津温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-10-21-tsumago-magome-culture", "region": "長野県（中山道 妻籠宿・馬籠宿）", "category": "文化体験" },
+    { "post_id": "2026-10-21-toba-all-inclusive", "region": "三重県鳥羽市", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-21-shinhotaka-ropeway", "region": "岐阜県高山市", "category": "アクティビティ" },
+    { "post_id": "2026-10-20-gero-onsen-gourmet-ryokan", "region": "岐阜県下呂温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-19-kaga-onsenkyo-gourmet-ryokan", "region": "石川県加賀温泉郷（山代温泉・山中温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-19-wajima-gourmet-ryokan", "region": "石川県輪島市（輪島温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-09-14-machiya-kanazawa", "region": "石川県金沢市", "category": "文化体験" },
+    { "post_id": "2026-10-18-yamanokami-yukaen", "region": "岩手県花巻温泉郷", "category": "温泉旅館" },
+    { "post_id": "2026-10-17-ureshino-gourmet-ryokan", "region": "佐賀県嬉野温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-09-22-gero-onsen", "region": "岐阜県下呂温泉", "category": "温泉旅館（旧スコープ）" },
+    { "post_id": "2026-09-18-yufuin-onsen", "region": "大分県由布院温泉", "category": "温泉旅館（旧スコープ）" }
+  ],
+  "duplication_note": "依頼時点の指定は『カテゴリ：温泉旅館／地域候補：石川県和倉温泉』。captions/・data/candidates/・posts/ の全履歴（2026-09-14〜2026-10-21、1ヶ月以上前の分も含めて『和倉』『wakura』『石川県』で全件grep確認）を確認した結果、『和倉温泉』そのものが候補・採用いずれにも登場したことは一度もなく、地域としては完全に新規。石川県自体は2026-09-14（金沢町家・文化体験）、2026-10-19（加賀温泉郷・輪島温泉、いずれもグルメ旅館）で3回登場しているが、カテゴリ・温泉地はすべて異なる。\n\n一方でカテゴリ『温泉旅館』は直近3日連続（2026-10-19草津温泉→10-20別府温泉→10-21蔵王温泉）で選定されており、本サイクルで和倉温泉の施設を選ぶと4日連続で同カテゴリが続くことになる。原則29（地域・カテゴリの連続回避）の観点では望ましくない連続だが、地域（和倉温泉・石川県）とカテゴリの指定自体がリクエストで明示されているため、今回はその指定に従い調査を実施した。カテゴリの連続については本サイクルの完了報告で明示し、次サイクル以降は温泉旅館以外のカテゴリを優先することを推奨する。",
+  "candidates": [
+    {
+      "id": "2026-10-22-notoraku",
+      "name": "日本の宿 のと楽",
+      "region": "石川県七尾市和倉町（和倉温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらん クチコミ集計",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 757,
+          "checked_date": "2026-10-22",
+          "url": "https://www.jalan.net/yad315470/"
+        },
+        {
+          "source": "フォートラベル みんなの満足度（総合）",
+          "score": 3.5,
+          "scale": 5,
+          "review_count": 55,
+          "checked_date": "2026-10-22",
+          "url": "https://4travel.jp/dm_hotel-10054151"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付・1名あたり15,400円〜43,500円程度（本館『日本の宿のと楽』、別棟『ホテル能登倶楽部』『ガーデン能登屋』の3棟・部屋タイプ・時期・プランにより変動。近畿日本ツーリスト(KNT)掲載の表示額に基づく）",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "七尾湾と能登島を望む14階建ての旅館で、最上階15階には対岸の能登島を一望できる貸切展望露天風呂（有料）がある。大浴場にも露天風呂・寝湯があり、オープンキッチンを備えたレストランでは能登の食材を使った和洋折衷バイキング（約50種）を提供。1974年創業、本館『日本の宿のと楽』のほか『ホテル能登倶楽部』『ガーデン能登屋』の計3つの宿泊棟から選べる。",
+      "renewal_or_news": "2024年1月の能登半島地震で被災し約10か月休業したが、2024年11月1日に営業再開。本館の一部は改修工事を継続しつつ、客室・大浴場・レストラン・宴会場は通常利用可能な体制で再開から約2年が経過している。2025年8月・2026年3月の口コミでは地震の影響で和倉温泉全体として稼働中の施設が少ない旨の言及も残るが、2026年5月時点の直近口コミでは客室からの海の眺めやロビーのサービスを評価する声が確認できた。",
+      "target_audience": ["夫婦", "記念日", "カップル", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 13,
+        "unique_experience_score": 14,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 79,
+      "recommendation_reason": "じゃらん集計で4.5点・757件という大規模かつ高評価の口コミに加え、フォートラベルでも直近(2026年5月・2025年8月投稿)は4.0点で、客室からの海の眺めや大浴場の広さが好評。最上階15階の貸切展望露天風呂から能登島と七尾湾を望めるという『ここでしかできない』景観体験があり、能登半島地震から約2年10か月、復興途上にある和倉温泉で実際に通常営業を続けている宿として紹介する意義もある。独立した2つの情報源（じゃらん・フォートラベル）でいずれも主要レビュー4.0以上の基準を満たした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "震災の影響で和倉温泉全体として稼働中の施設が少ない状況が2025年8月・2026年3月の口コミでも言及されており、周辺で一部施設が使用できない可能性がある。また送迎の連絡漏れ（2022〜2023年投稿）、水回りの古さ、館内の暗さ、洗面台周りの害虫といった個別の指摘も確認した。ただし重大な衛生・安全上の問題や予約トラブルの多発は確認されず、2025〜2026年の直近投稿は料理・大浴場・眺望への好意的な評価が中心だった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "和倉温泉「日本の宿 のと楽」、11月から営業再開へ、能登半島地震の被害で10カ月の休業を経て - トラベルボイス", "url": "https://www.travelvoice.jp/20240903-156257" },
+        { "type": "booking_site", "title": "日本の宿 のと楽 クチコミ集計（4.5・757件） - じゃらん", "url": "https://www.jalan.net/yad315470/" },
+        { "type": "review_site", "title": "和倉温泉 日本の宿のと楽 クチコミ（55件） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10054151" },
+        { "type": "other", "title": "日本の宿のと楽 施設紹介（15階貸切展望露天風呂・バイキング） - icotto", "url": "https://icotto.jp/hotels/7236" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-22-wakura-hakuro-kaishu",
+      "name": "白鷺の湯 能登 海舟",
+      "region": "石川県七尾市和倉町（和倉温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "icotto 口コミ",
+          "score": 2.0,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-22",
+          "url": "https://icotto.jp/hotels/9612"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "今回のWebSearchでは具体的な1泊2食の料金数値は確認できなかった（公式サイトはdormy-hotels.com系列だが、本セッションのネットワーク制限によりWebFetch不可、EGRESS_BLOCKED）。",
+        "as_of_search_date": "2026-10-22"
+      },
+      "unique_experience": "全98室中、多くの客室に天然温泉の露天風呂が付き、七尾湾を望む。2種の大浴場（大湯処）と3種の貸切風呂を備える、共立リゾート（共立メンテナンス）運営の宿。2021年3月にグランドオープンした比較的新しい施設。",
+      "renewal_or_news": "能登半島地震による長期休館を経て、2026年7月16日に約2年半ぶりに営業を再開したばかり。運営元は『震災前と同様のサービスを提供できない場合がある』『周辺で護岸工事が行われており工事車両の通行がある』と案内している。",
+      "target_audience": ["夫婦", "カップル", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 5,
+        "review_reliability": 2,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 5
+      },
+      "score": 51,
+      "recommendation_reason": "全室近くに露天風呂付き客室を備え、2026年7月に再開したばかりという鮮度の高い話題性はあるが、口コミ件数が極端に少なく（数値を確認できたのは1件・評価2.0のみ）、原則6・7の採用基準（評価4.0以上・独立2情報源）を満たせない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できた唯一の数値付き口コミ（icotto、評価2.0）は駐車場誘導の不手際とエレベーターの混雑を指摘していた。一休では規定件数に達しておらず施設総合点数が非表示（口コミ3件）、ニフティ温泉は投票0件で、肯定的な評価の蓄積が確認できなかった。運営側も震災前と同様のサービスを提供できない場合があると案内している。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "press", "title": "『白鷺の湯 能登 海舟』、2026年7月16日(木)営業再開 - PR TIMES", "url": "https://prtimes.jp/main/html/rd/p/000000456.000030012.html" },
+        { "type": "booking_site", "title": "白鷺の湯 能登 海舟（共立リゾート）−7月16日営業再開− - じゃらん", "url": "https://www.jalan.net/yad311395/" },
+        { "type": "review_site", "title": "白鷺の湯 能登 海舟 口コミ（1件・2.0） - icotto", "url": "https://icotto.jp/hotels/9612" },
+        { "type": "booking_site", "title": "白鷺の湯 能登 海舟 施設情報 - 一休.com", "url": "https://www.ikyu.com/00002916/?top=map" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "2026年7月16日に再開したばかりで口コミ件数が著しく少なく、数値を確認できた唯一のレビュー（icotto）も評価2.0だった。原則6（主要レビュー4.0以上）・7（独立2情報源での裏付け）を満たす十分な評価データが得られず、再開直後で運営側も震災前と同様のサービスを提供できない場合があると案内しているため、現時点では紹介を見送る。"
+    },
+    {
+      "id": "2026-10-22-wakura-biwansou",
+      "name": "ゆけむりの宿 美湾荘",
+      "region": "石川県七尾市和倉町（和倉温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "jcation 口コミ",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 36,
+          "checked_date": "2026-10-22",
+          "url": "https://jcation.com/hotel/detail-3656/"
+        },
+        {
+          "source": "るるぶトラベル 総合評価（件数非公開）",
+          "score": 4.2,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-10-22",
+          "url": "https://www.rurubu.travel/hotel/japan/nanao/yukemurinoyado-biwanso"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "今回のWebSearchでは具体的な1泊2食の料金数値は確認できなかった。予約サイト上の部屋タイプ名に『復興応援☆仮営業開始』という表記があり、通常より割安な仮営業プランが中心と見られる。",
+        "as_of_search_date": "2026-10-22"
+      },
+      "unique_experience": "和倉温泉公衆浴場『総湯』や辻口博啓美術館まで徒歩圏という立地が特徴で、接客・温泉への評価が高い老舗旅館。無料駐車場・シャトルサービスあり。",
+      "renewal_or_news": "能登半島地震で被災し、2025年12月19日時点の国土交通省資料・和倉温泉旅館協同組合の集計では加盟20軒中、通常営業再開は9軒・災害支援者向け宿泊として営業中は11軒とされる。美湾荘は予約サイト上で『解体・建設工事中での仮営業』を明記した部屋タイプが確認でき、2026年10月時点でも全面的な通常営業ではなく工事継続中の仮営業状態にあると見られる。",
+      "target_audience": ["温泉好き", "夫婦", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 10,
+        "unique_experience_score": 9,
+        "photogenic": 8,
+        "value_for_price": 7,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 60,
+      "recommendation_reason": "口コミ自体の評価（jcation 4.6/36件、るるぶ4.2）は採用基準を満たすが、現時点でも解体・建設工事中の仮営業状態にあると見られ、体験価値・情報鮮度・写真映えの面で通常営業の宿と同列に『少し贅沢な旅』として紹介するのは時期尚早と判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2025年12月時点で和倉温泉20軒中、通常営業再開は9軒にとどまるという旅館協同組合・国土交通省の集計があり、美湾荘自身も予約サイト上で『仮営業』『工事中』を明記した部屋タイプが確認できる。口コミ自体には重大な衛生・安全上の問題は見当たらないが、設備・アメニティを3.0とするjcationの個別評価もあり、工事中であることと合わせて体験価値への影響が懸念される。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "review_site", "title": "ゆけむりの宿 美湾荘 クチコミ（36件・総合4.6） - jcation", "url": "https://jcation.com/hotel/detail-3656/" },
+        { "type": "other", "title": "ゆけむりの宿美湾荘 施設評価（風呂4.4・サービス4.3） - るるぶトラベル", "url": "https://www.rurubu.travel/hotel/japan/nanao/yukemurinoyado-biwanso" },
+        { "type": "booking_site", "title": "ゆけむりの宿 美湾荘 宿泊プラン・施設情報 - 近畿日本ツーリスト(yado.knt.co.jp)", "url": "https://yado.knt.co.jp/st/S170012/" },
+        { "type": "press", "title": "令和6年能登半島地震 2年間の取組み（和倉温泉20軒中9軒が通常営業再開・11軒が災害支援者向け営業、令和7年12月19日時点） - 国土交通省北陸地方整備局", "url": "https://www.hrr.mlit.go.jp/bosai/R6notojishin/pdf/2nentorikumi.pdf" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価そのものは採用基準を満たすが、2026年10月時点でも工事継続中の仮営業状態にあると見られ、通常営業の宿と同条件で『少し贅沢な旅』として紹介するには時期尚早と判断し、今回は不採用とした。"
+    }
+  ]
+}

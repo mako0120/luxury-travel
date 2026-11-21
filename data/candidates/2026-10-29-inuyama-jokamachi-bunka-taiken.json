@@ -1,0 +1,214 @@
+{
+  "cycle_date": "2026-10-29",
+  "theme": "文化体験（愛知県犬山市：犬山城下町エリア）",
+  "season_rationale": "2026年10月末は紅葉シーズンの入口にあたり、国宝犬山城を含む犬山城下町エリアは観光需要が高まる時期。一方で複数の情報源から、桜・GW・夏休み・紅葉・年末年始は天守への入場待ち列や内部の渋滞が起きやすいと報告されており、『今の時期に実際に快適に体験できるか』を踏まえて候補を精査した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-nagoya-gentei-event", "region": "愛知県名古屋市中村区（名古屋駅エリア）", "category": "その他" },
+    { "post_id": "2026-10-28-gamagori-mikawa-bay-cruise", "region": "愛知県蒲郡市（三河湾遊覧船エリア）", "category": "列車・船" },
+    { "post_id": "2026-10-25-gujo-hachiman-bunka-taiken", "region": "岐阜県郡上市（郡上八幡）", "category": "文化体験" },
+    { "post_id": "2026-10-24-tono-bunka-taiken", "region": "岩手県遠野市", "category": "文化体験" },
+    { "post_id": "2026-10-26-hagi-jokamachi-bunka-taiken", "region": "山口県萩市（城下町）", "category": "文化体験" },
+    { "post_id": "2026-10-27-ine-funaya-bunka-taiken", "region": "京都府伊根町（伊根の舟屋）", "category": "文化体験" },
+    { "post_id": "2026-10-27-iya-ochiai-bunka-taiken", "region": "徳島県三好市（祖谷・落合集落）", "category": "文化体験" },
+    { "post_id": "2026-10-28-wajima-bunka-taiken", "region": "石川県輪島市（輪島塗・輪島朝市エリア）", "category": "文化体験" },
+    { "post_id": "2026-10-23-mikuni-tojinbo-bunka-taiken", "region": "福井県坂井市（三国・東尋坊）", "category": "文化体験" },
+    { "post_id": "2026-10-22-kyoto-bunka-taiken", "region": "京都府京都市", "category": "文化体験" },
+    { "post_id": "2026-09-14-bunka-taiken", "region": "（2026-09-14サイクル分・要個別確認）", "category": "文化体験" },
+    { "post_id": "2026-09-18-nara-culture", "region": "奈良県奈良市", "category": "文化体験" },
+    { "post_id": "2026-10-18-nara-culture", "region": "奈良県奈良市", "category": "文化体験" },
+    { "post_id": "2026-10-20-kurashiki-bikanchiku-culture", "region": "岡山県倉敷市（美観地区）", "category": "文化体験" },
+    { "post_id": "2026-10-21-tsumago-magome-culture", "region": "長野県（中山道 妻籠宿・馬籠宿）", "category": "文化体験" },
+    { "post_id": "2026-10-29-okayama-city-other", "region": "岡山県岡山市", "category": "その他" }
+  ],
+  "duplication_note": "依頼時点の指定は『カテゴリ：文化体験／地域：愛知県犬山市（犬山城下町エリア）』。data/candidates・captions配下の全履歴（1ヶ月以上前の2026-09-14分も含め『犬山』『inuyama』『愛知』でgrep確認）を確認した結果、愛知県関連の既存候補は2026-10-17（名古屋駅エリアのホテル期間限定企画・その他カテゴリ）と2026-10-28（蒲郡市・三河湾遊覧船・列車・船カテゴリ）の2件のみで、いずれも犬山市でも文化体験カテゴリでもなく、重複なし。本日2026-10-29には別サイクルで岡山市（その他カテゴリ）の候補ファイルが既に存在するが、地域・カテゴリとも異なるため無関係。前日2026-10-28は輪島市（文化体験）だったため、文化体験カテゴリ自体は連続するが、地域指定が依頼で明示されているため、その指定に従って調査した。",
+  "candidates": [
+    {
+      "id": "2026-10-29-inuyama-castle",
+      "name": "国宝犬山城",
+      "region": "愛知県犬山市犬山北古券（木曽川河畔・犬山城下町エリア）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "エキテン「木曽川河畔犬山城」掲載ページ",
+          "score": 4.35,
+          "scale": 5,
+          "review_count": 42,
+          "checked_date": "2026-10-29",
+          "url": "https://www.ekiten.jp/shop_5262552/review/"
+        },
+        {
+          "source": "いこーよ（親子おでかけ施設レビュー）",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 10,
+          "checked_date": "2026-10-29",
+          "url": "https://iko-yo.net/experiences/52411/memory_photos/97267"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "天守入場料は高校生以上1,000円・小中学生200円（団体割引あり）という情報を愛知県公式観光サイト等の複数の最新寄りの情報源で確認。一方、一部の旅行サイト・ブログでは大人550円・小中学生110円という表示もあったが、更新時期が不明で古い情報の可能性が高い。訪問直前に犬山城公式サイトでの再確認を推奨する。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "現存する木造天守の一つとされる国宝犬山城。木曽川沿いの高台に建ち、最上階から濃尾平野と木曽川の眺望を楽しめる。天守内部は現存の急な木造階段を実際に昇り降りできる点が特徴で、国宝の城としては例外的に2004年まで個人（成瀬家）が所有していたという稀有な歴史的経緯も独自の見どころ。",
+      "renewal_or_news": "2018年に城山が国の史跡に指定された。2026年10月末は紅葉シーズンの観光需要が高まる時期だが、同時に天守入口の行列・内部通路の渋滞が起きやすい時期でもあるため、production時には最新の混雑情報（公式サイト・SNS）と平日・早朝の訪問可否を併せて確認することを推奨する。",
+      "target_audience": ["家族", "友人", "一人旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 8,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 8,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 79,
+      "recommendation_reason": "エキテン（4.35点・42件）、いこーよ（4.4点・10件）という独立した2つの情報源でいずれも5点満点換算4.0以上を確認でき、原則6・7の採用基準を満たす。現存の木造天守に実際に昇れる体験としての独自性が高く、木曽川と城のコントラストは写真映えも良い。1,000円程度で国宝の内部に昇れる価格対価値も良好。紅葉シーズンの混雑という注意点はあるが、平日・時間帯の工夫で初見の人にも魅力を伝えやすいと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "数値付きの否定的な口コミは確認できなかったが、観光ガイド系サイトの複数記事で、天守入口前の階段付近での行列、内部通路が狭く昇り降りが分かれていないための渋滞、混雑時は入場まで30〜60分以上かかることがある、といった指摘が繰り返し見られた。混雑しやすい時期として桜・GW・夏休み・紅葉・年末年始が挙げられており、2026年10月末（紅葉シーズン）もこれに該当する。これは体験の質そのものへの否定的評価ではなく混雑に関する注意点であり、採用を妨げる指摘ではないと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "国宝・犬山城,犬山城下町 - 愛知県公式観光サイトAichi Now", "url": "https://aichinow.pref.aichi.jp/educations/detail/2993/" },
+        { "type": "official", "title": "犬山城跡保存活用計画（第1・2章） - 犬山市", "url": "https://www.city.inuyama.aichi.jp/_res/projects/default_project/_page_/001/012/508/1-2syou.pdf" },
+        { "type": "review_site", "title": "木曽川河畔犬山城 口コミ・評価 - エキテン", "url": "https://www.ekiten.jp/shop_5262552/review/" },
+        { "type": "review_site", "title": "犬山城 施設レビュー - いこーよ", "url": "https://iko-yo.net/experiences/52411/memory_photos/97267" },
+        { "type": "other", "title": "犬山城の混雑・待ち時間に関するガイド記事", "url": "https://banzokubiology.com/inuyama-castle-crowd/" },
+        { "type": "other", "title": "国宝犬山城 施設データ（料金・営業時間） - ウォーカープラス", "url": "https://www.walkerplus.com/spot/ar0623s05538/data.html" }
+      ],
+      "creator_story": {
+        "text": "犬山城の築城は天文6年(1537年)、織田信長の叔父とされる織田信康によるものとされる（犬山市の『犬山城跡保存活用計画』では天文年間(1532〜1555)初年頃という表現もあり、築城年には資料間で差がある）。元和3年(1617年)以降は尾張徳川家の付家老であった成瀬正成が城主となり、以後明治維新まで成瀬家が城主を務めた。現在の天守の姿は正成の時代の改修によるものとされる。1891年の濃尾地震で天守は被災し、1895年に『修理を行うこと』を条件として旧城主・成瀬正肥に無償で譲渡されたと記録されており、国宝に指定された城としては例外的に、以後2004年まで個人（成瀬家）の所有が続いた。2004年（平成16年）、財団法人犬山城白帝文庫（現・公益財団法人）が設立され、所有が個人から財団に移った。ただし、織田信康自身が築城にあたってどのような思いを持っていたか、また成瀬家や現在の公益財団法人犬山城白帝文庫が保存・運営にあたってどのような理念やメッセージを明文化しているかについては、今回のWeb検索で一次情報・公式な発言・声明を確認することはできなかった。確認できたのは、1895年の譲渡時に修理を条件としたことや、2004年に財団所有へ移行したという『所有・保存の経緯』を示す事実のみであり、関係者個人の意図や思いを示す発言は確認できなかったため、推測や創作は行っていない。",
+        "sources": [
+          { "type": "official", "title": "犬山城跡保存活用計画（第1・2章） - 犬山市", "url": "https://www.city.inuyama.aichi.jp/_res/projects/default_project/_page_/001/012/508/1-2syou.pdf" },
+          { "type": "official", "title": "犬山城 多言語解説 - 国土交通省 多言語観光情報整備支援サイト", "url": "https://www.mlit.go.jp/tagengo-db/common/001553956.pdf" }
+        ]
+      },
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-29-urakuen-joan",
+      "name": "日本庭園 有楽苑（国宝茶室「如庵」特別見学会）",
+      "region": "愛知県犬山市犬山御門先（犬山城下町・名鉄犬山遊園駅周辺）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル（個別投稿、2019年訪問分）", "score": 3.5, "scale": 5, "review_count": 1, "checked_date": "2026-10-29", "url": "https://4travel.jp/dm_shisetsu/10005026" },
+        { "source": "フォートラベル（個別投稿、2017年訪問分）", "score": 4.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-29", "url": "https://4travel.jp/dm_shisetsu/10005026" }
+      ],
+      "price_range_jpy": {
+        "note": "入苑料は大人1,500円、呈茶（抹茶）1服600円、国宝セット券2,000円という情報を確認。国宝茶室「如庵」内部の特別見学会は、入苑・呈茶・特別見学料込みで4,000円、ボランティアガイド案内付き・1日2回（10:30/14:00）の開催で事前応募制とされる。見学会の2026年10月以降の開催有無・日程は今回の検索では確認できなかった。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "織田有楽斎が建てた国宝茶室「如庵」（京都・待庵、蜜庵と並ぶ国宝三名席の一つ）を間近で見学でき、応募制の特別見学会では内部に実際に入室できる。建築史家・堀口捨己の監修による庭園（枯山水・飛び石・月見台の復元）も見どころで、犬山焼の茶器での呈茶体験もできる。",
+      "target_audience": ["一人旅", "夫婦", "記念日"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 4,
+        "unique_experience_score": 18,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 60,
+      "recommendation_reason": "国宝茶室の内部に入室できるという体験の独自性は非常に高く、堀口捨己による庭園復元という文化的背景も出典付きで確認できた。しかし口コミはフォートラベルの個別投稿（3.5点・4.0点、いずれも1件単位）しか確認できず、原則7が求める独立した複数サイトでの数値集計評価を満たせなかった。特別見学会の2026年10月以降の開催状況も確認できず、総合60点で採用ライン（75点）に届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できた個別口コミに明確な否定的内容はなく、庭園の手入れの良さを評価する声があった。一方で口コミの絶対数が少なく（確認できたのはフォートラベルの数件のみ）、信頼性の高い集計評価を確認できなかったこと自体が採用判断上のリスクと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "日本庭園 有楽苑 ご案内 - 名古屋鉄道", "url": "https://www.meitetsu.co.jp/urakuen/guide/index.html" },
+        { "type": "official", "title": "国宝茶室「如庵」特別見学会 - 名古屋鉄道", "url": "https://www.meitetsu.co.jp/pr/inuyama_cp/experience/index.html" },
+        { "type": "review_site", "title": "日本庭園 有楽苑 国宝茶室「如庵」 口コミ - フォートラベル", "url": "https://4travel.jp/dm_shisetsu/10005026" },
+        { "type": "official", "title": "日本庭園 有楽苑について - 国土交通省 多言語観光情報整備支援サイト", "url": "https://www.mlit.go.jp/tagengo-db/R4-00276.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合60点で採用ライン（75点）に届かず、口コミも個別投稿（3.5点・4.0点）のみで独立した複数サイトの集計評価という原則7の裏付けを満たせなかったため見送った。文化的独自性・体験価値は高いため、口コミ基盤や特別見学会の最新開催情報が整った際には再評価の価値がある。"
+    },
+    {
+      "id": "2026-10-29-donden-kan",
+      "name": "犬山城下町 どんでん館",
+      "region": "愛知県犬山市犬山東古券（犬山城下町）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル 犬山観光満足度ランキング掲載評点", "score": 3.38, "scale": 5, "review_count": 49, "checked_date": "2026-10-29", "url": "https://4travel.jp/dm_shisetsu/11309731" }
+      ],
+      "price_range_jpy": {
+        "note": "犬山城とのセット券で割引になるという口コミ情報があるが、2026年10月時点の正確な入館料・セット券料金は今回のWeb検索で一次情報を確認できなかった。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "犬山祭で曳かれる高さ約8メートルの車山（重要有形民俗文化財指定）を間近で展示し、光と音で祭りの一日の雰囲気を再現する『どんでんミュージアム』を併設。からくり人形の仕組みや祭り衣装の展示も見られる。",
+      "target_audience": ["家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 17,
+        "review_reliability": 6,
+        "unique_experience_score": 10,
+        "photogenic": 7,
+        "value_for_price": 6,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 51,
+      "recommendation_reason": "車山の迫力や光と音の演出は評価されているが、口コミ（3.38点・49件）が4.0未満で、『展示されている車山が2台のみで規模が小さい』という指摘も複数あり、総合51点で採用ラインに届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミでは、車山の迫力自体は高く評価される一方、『内部は狭く車山が2台しか展示されていないのが残念』『山車以外の展示物は少ない』という指摘が見られた。重大な欠陥ではないが、展示規模の小ささへの不満が複数確認できた。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "どんでん館 クチコミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_shisetsu/11309731" },
+        { "type": "official", "title": "どんでん館 多言語解説 - 国土交通省 多言語観光情報整備支援サイト", "url": "https://www.mlit.go.jp/tagengo-db/common/001553973.pdf" },
+        { "type": "other", "title": "犬山祭 車山に関する紹介 - 愛知県公式観光サイトAichi Now", "url": "https://aichinow.pref.aichi.jp/upload/pbstory_languages/c3fc7359f24b82e40dd0a75f1fa89af6.pdf" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ3.38点（49件）で4.0未満、総合51点で採用ラインに届かず、展示規模が小さいという指摘も複数あったため見送った。"
+    },
+    {
+      "id": "2026-10-29-kyu-isobe-jutaku",
+      "name": "旧磯部家住宅",
+      "region": "愛知県犬山市犬山東古券（犬山城下町）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらん観光ガイド", "score": 3.7, "scale": 5, "review_count": 29, "checked_date": "2026-10-29", "url": "https://www.jalan.net/kankou/sta_031382/g2_43/" }
+      ],
+      "price_range_jpy": {
+        "note": "紹介サイトでは入館無料、営業時間9:00〜17:00とされているが、休館日等の最新情報は今回のWeb検索では確証を得られなかった。",
+        "as_of_search_date": "2026-10-29",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "江戸時代から『柏屋』の屋号で呉服商を営んでいた町家建築。間口は約6.8メートルと狭いが奥に長く続く『うなぎの寝床』構造で、起り屋根（むくり屋根）は市内の町家で唯一現存するとされる。2004年に市へ寄贈され無料で公開されている。",
+      "target_audience": ["一人旅", "家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 6,
+        "unique_experience_score": 12,
+        "photogenic": 8,
+        "value_for_price": 9,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 58,
+      "recommendation_reason": "無料で見学できる価値や、係員の丁寧な説明が好評な点は評価できるが、口コミ（3.7点・29件）が4.0未満で、建物規模・体験の広がりも小さく、総合58点で採用ラインに届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "明確な否定的口コミは確認できなかったが、評価・口コミ件数ともに他候補に比べて目立つ話題性はなく、原則6の採用ラインに届かない水準だった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "旧磯部家住宅 口コミ・評価 - じゃらん観光ガイド", "url": "https://www.jalan.net/kankou/sta_031382/g2_43/" },
+        { "type": "official", "title": "旧磯部家住宅 - 国土交通省 多言語観光情報整備支援サイト", "url": "https://www.mlit.go.jp/tagengo-db/R1-00949.html" },
+        { "type": "other", "title": "旧磯部家住宅 紹介記事 - MATCHA", "url": "https://matcha-jp.com/jp/place-master/12157" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ3.7点（29件）で4.0未満、総合58点で採用ラインに届かず、話題性・独自性の面でも他候補を上回らなかったため見送った。"
+    }
+  ],
+  "cycle_result": "犬山市の文化体験カテゴリから『国宝犬山城』（79点）を選定。エキテン（4.35点・42件）、いこーよ（4.4点・10件）という独立した2つの情報源でいずれも5点満点換算4.0以上を確認でき、現存天守に実際に昇れる独自性・写真映え・価格対価値のいずれも良好と判断した。creator_storyとして築城・城主の変遷（織田信康→成瀬家→2004年の財団化）を出典付きで整理したが、築城者・運営者自身の『思い』を示す一次発言は確認できず、その旨を明記した。有楽苑（国宝茶室「如庵」特別見学会・60点）、どんでん館（51点）、旧磯部家住宅（58点）はいずれも口コミ評価が4.0未満、または口コミの信頼性・話題性が不足しており、総合スコアも75点に届かなかったため見送った。"
+}

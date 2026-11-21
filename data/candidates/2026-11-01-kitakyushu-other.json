@@ -1,0 +1,255 @@
+{
+  "cycle_date": "2026-11-01",
+  "theme": "その他（福岡県北九州市・期間限定イベント／アフタヌーンティー等の少し贅沢な体験）",
+  "season_rationale": "研究日（2026年11月1日〜11月2日）時点の北九州市は、夏季限定の体験型イベント（砂塵の迷宮、夜の動物園、ウルトラマン展等）が終了し、秋冬シーズンのイベントへ切り替わる時期にある。カテゴリ『その他』は期間限定イベント・アフタヌーンティー等を想定しているため、本サイクルでは現在開催中、または開催期間が明確な秋冬企画を中心に調査した。",
+  "prior_posts_checked": [],
+  "duplication_note": "data/candidates・captions配下の既存ファイル全件（1ヶ月以上前のものを含む）を『北九州』『小倉』『門司』『八幡』『若松』『戸畑』『kitakyushu』『kokura』『moji』で横断検索した。『北九州』が本文中に一致した既存ファイルは2026-10-24-all-inclusive-kaga-onsenkyo.json（石川県加賀温泉郷。本文中に無関係な『北九州』の文字列断片を含む）のみで、北九州市の施設・イベントではなかった。『小倉』『門司』『八幡』等も他地域の地名・施設名との偶然の文字列一致（例: 大分県『別邸はる樹』の資料内の無関係な漢字組み合わせ等）であり、福岡県北九州市を対象としたカテゴリ『その他』の既存候補・制作済みキャプションは見つからなかった。したがって本サイクルの調査対象（北九州市・その他）は既存候補と重複しない。",
+  "research_limitation_note": "WebSearchの呼び出し回数制限に調査中盤で一時到達し、北九州市内のホテル系アフタヌーンティー（例: リーガロイヤルホテル小倉、クラウンプラザホテル小倉等）について2026年の具体的な実施情報を十分に裏取りできなかった。また、本セッションのネットワーク許可リストの制約により、北九州市公式サイト（city.kitakyushu.lg.jp系ドメイン全般）・小倉城竹あかり公式サイト（kokurajotakeakari.com）・クロスロードふくおか（crossroadfukuoka.jp）・GLTJP（gltjp.com）へのWebFetchによる直接閲覧はできず、すべてWebSearchのスニペット経由での確認に留まった。これらの制約により、下記候補の一部は一次情報への到達が間接的である。",
+  "candidates": [
+    {
+      "id": "2026-11-01-kokurajo-takeakari",
+      "name": "小倉城竹あかり（第8回）",
+      "region": "福岡県北九州市小倉北区城内（小倉城・勝山公園一帯、JR西小倉駅から徒歩約10分）",
+      "category": "その他",
+      "is_hidden_gem": true,
+      "renewal_or_news": "2026年で第8回。2026年10月23日(金)〜11月3日(火・祝)の開催で、研究日（2026年11月1日〜2日）時点では開催中（雨天中止）。今年は入場門が小倉城虎ノ門口（リバーウォーク北九州側）に変更され、小倉城・小倉城庭園を含む一帯が有料エリアとなった点が例年との変更点。2019年に放置竹林対策として始まり、以降毎年秋冬に開催されている。",
+      "review_scores": [
+        {
+          "source": "いこーよ（イベントページの口コミ評価）",
+          "score": 4.2,
+          "scale": 5,
+          "review_count": 2,
+          "checked_date": "2026-11-02",
+          "url": "https://iko-yo.net/events/427841"
+        },
+        {
+          "source": "みんなのランキング（小倉城としての評価。竹あかり単体ではなく施設全体の評価）",
+          "score": 81.3,
+          "scale": 100,
+          "review_count": 6,
+          "checked_date": "2026-11-02",
+          "url": "https://ranking.net/items/621489"
+        },
+        {
+          "source": "GLTJP（施設紹介ページの口コミ評価。件数1件のため参考値）",
+          "score": 3.95,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-11-02",
+          "url": "https://www.gltjp.com/ja/directory/item/18187/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "観覧料1,000円（中学生以上。小学生以下は保護者同伴で無料）。小倉城天守閣・小倉城庭園の入場券を含む。開場18:00・閉場21:00（最終入場20:30）、雨天・荒天時は中止。",
+        "as_of_search_date": "2026-11-02",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "北九州市内の放置竹林問題の解消を目的に伐採された竹を使い、地域住民・企業・行政が協力して一つひとつ手作りした約3万個の竹灯籠・竹紙灯籠で、小倉城天守閣前広場や『歴史の道』、小倉まちなか（魚町界隈）一帯を照らす夜間イベント。歴史的な天守閣と竹明かりという自然素材・現代的なライトアップの組み合わせ、子どもたちが描いた絵入りの竹紙灯籠などが見どころで、イベント後の竹は肥料や竹炭として再利用される循環型の取り組みでもある。",
+      "target_audience": [
+        "カップル",
+        "記念日",
+        "家族",
+        "友人"
+      ],
+      "score_breakdown": {
+        "review_rating": 17,
+        "review_reliability": 4,
+        "unique_experience_score": 18,
+        "photogenic": 14,
+        "value_for_price": 8,
+        "sns_buzz": 5,
+        "access_and_freshness": 5
+      },
+      "score": 71,
+      "recommendation_reason": "放置竹林の竹を使い市民・企業・行政が手作りした約3万個の竹灯籠で小倉城を照らすという、環境保全と地域の『市民力』を背景に持つ独自性の高い夜間イベントで、歴史的な天守閣と竹明かりの組み合わせは写真・映像で見せる魅力が大きい。JR西小倉駅から徒歩10分とアクセスも良く、観覧料1,000円で天守閣・庭園の入場も含まれる点は価格に対する体験価値も高い。一方で、確認できた口コミはいこーよ2件・みんなのランキング6人・GLTJP1件のみと件数が極端に少なく、独立した信頼できる数値評価や、SNS上での話題性を示す一次情報を本セッションの検索範囲では十分に確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できた口コミ件数自体が非常に少ない（最大でも6件）が、いずれも『伝統的な城と竹という自然素材、現代的なライトアップの組み合わせが斬新』といった好意的な内容で、衛生・安全・運営上の重大な指摘は本セッションの検索範囲では見当たらなかった。会場に駐車場がない点、雨天・荒天時は中止となる点は、来場者にとって事前に知っておくべき注意点として確認できた。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "小倉城竹あかり 施設・イベント情報（日程・時間・料金） - クロスロードふくおか（福岡県公式観光サイト）",
+          "url": "https://www.crossroadfukuoka.jp/spot/12002"
+        },
+        {
+          "type": "other",
+          "title": "小倉城竹あかり イベントページ（口コミ・写真） - いこーよ",
+          "url": "https://iko-yo.net/events/427841"
+        },
+        {
+          "type": "other",
+          "title": "小倉城竹あかり 施設紹介・口コミ（3.95点/1件） - GLTJP",
+          "url": "https://www.gltjp.com/ja/directory/item/18187/"
+        },
+        {
+          "type": "other",
+          "title": "小倉城 ランキング・口コミ（81.3点/6人、北九州観光地ランキング1位） - みんなのランキング",
+          "url": "https://ranking.net/items/621489"
+        },
+        {
+          "type": "press",
+          "title": "小倉城竹あかり実行委員会とNPO法人抱樸との包括連携協定について（開催背景・実行委員会の活動に関するプレスリリース）",
+          "url": "https://resemom.jp/release/prtimes/20241023/125923.html"
+        },
+        {
+          "type": "official",
+          "title": "小倉城竹あかり（第8回）開催案内 - 北九州市広報資料（PDF）",
+          "url": "https://ssl.city.kitakyushu.lg.jp/files/001228723.pdf"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "写真映え・独自性（放置竹林対策として始まった竹灯籠3万個のライトアップというストーリー）は高く評価できるものの、口コミ件数が極端に少なく（最大6件）信頼性を数値で裏付けられる独立情報源が不足しており、SNS上の話題性を示す一次情報も確認できなかった。原則6（75点基準）に届かないため今回は不採用としたが、公式情報（開催期間・料金・会場）は明確かつ現在開催中であり、Hidden Gemとしての独自性・体験価値の要件自体は満たしている。口コミが今後蓄積された時点での再評価候補として記録する。"
+    },
+    {
+      "id": "2026-11-01-taiwan-fest-kitakyushu-2026",
+      "name": "台湾祭in北九州2026",
+      "region": "福岡県北九州市小倉北区船場町（船場広場、小倉井筒屋本館・新館間クロスロード）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "renewal_or_news": "北九州-台北（桃園）線の運航再開を記念し、台湾祭in北九州実行委員会が2026年9月26日(土)〜10月12日(月・祝)に開催。研究日（2026年11月1日〜2日）時点ではすでに終了している。",
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "入場無料（会場内の台湾夜市グルメ・物販は別途有料）。",
+        "as_of_search_date": "2026-11-02",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "台湾夜市グルメや物販、台湾式リラクゼーションを楽しめる期間限定イベントで、1,000個以上のランタンが彩る『ランタンロード』が設置された。北九州市長とスターフライヤー社長が登壇したオープニングセレモニーも行われた。",
+      "target_audience": [
+        "友人",
+        "家族",
+        "女子旅"
+      ],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 10,
+        "photogenic": 8,
+        "value_for_price": 3,
+        "sns_buzz": 4,
+        "access_and_freshness": 0
+      },
+      "score": 25,
+      "recommendation_reason": "1,000個以上のランタンロードや台湾夜市グルメという写真映えする要素はあるが、確認できた開催期間（2026年9月26日〜10月12日）が研究日時点で既に終了しており、原則6（現在営業・公開していること）を満たさない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "イベントが終了済みのため、口コミ・ネガティブレビューの収集は実施していない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "台湾祭in北九州2026 開催案内 - 北九州市広報資料（PDF）",
+          "url": "https://www.city.kitakyushu.lg.jp/files/001229754.pdf"
+        },
+        {
+          "type": "other",
+          "title": "台湾祭in北九州2026 お出かけレポート",
+          "url": "https://report.iko-yo.net/articles/34086"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "研究日（2026年11月1日〜2日）時点で開催期間（2026年9月26日〜10月12日）が終了済みであり、原則6（現在営業・公開していること）を満たさないため不採用とした。"
+    },
+    {
+      "id": "2026-11-01-mojiko-retro-roman-tosai",
+      "name": "門司港レトロ浪漫灯彩（イルミネーション）",
+      "region": "福岡県北九州市門司区門司港（門司港レトロ地区一帯）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "renewal_or_news": "2025年10月4日(土)〜2026年5月24日(日)の約8ヶ月間、季節により点灯時間を変えながら開催されている長期イルミネーション。研究日（2026年11月1日〜2日）時点では開催中。",
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "観覧無料。",
+        "as_of_search_date": "2026-11-02",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "門司港レトロ地区の歴史的建築物一帯を光で彩る長期開催のイルミネーション。無料で楽しめる夜の散策スポットとして定着している。",
+      "target_audience": [
+        "カップル",
+        "家族",
+        "友人"
+      ],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 6,
+        "photogenic": 8,
+        "value_for_price": 3,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 23,
+      "recommendation_reason": "門司港レトロの歴史的建築物とイルミネーションの組み合わせは写真映えするが、開催期間が約8ヶ月間と長く、無料であることも含め『期間限定イベント・少し贅沢な体験』というカテゴリ趣旨における特別感・限定性が薄い。独立した数値評価（口コミ件数付き）も本セッションの検索範囲では確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本セッションの検索範囲ではネガティブな口コミ・評価数値のいずれも確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "門司港レトロ浪漫灯彩 開催期間・見どころ紹介",
+          "url": "https://tabi-mag.jp/retro-illumi/"
+        },
+        {
+          "type": "other",
+          "title": "イルミネーション2025門司港レトロ浪漫灯彩 - るるぶ&more",
+          "url": "https://rurubu.jp/andmore/spot/20003388"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "開催期間が約8ヶ月間と長期・無料であり、カテゴリ『その他（期間限定イベント・少し贅沢な体験）』としての限定性・特別感に乏しいこと、また独立した数値評価を確認できなかったことから不採用とした。"
+    },
+    {
+      "id": "2026-11-01-kokura-illumination-202627-unconfirmed",
+      "name": "小倉イルミネーション（2026-27シーズン・開催未確定）",
+      "region": "福岡県北九州市小倉北区（小倉駅周辺・紫川河川敷一帯）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "renewal_or_news": "前年度（2025-26シーズン）は2025年11月21日〜2026年2月15日に開催されたことが確認できたが、2026-27シーズン（2026年秋冬）の具体的な開催日程を示す一次情報は本セッションの検索範囲では確認できなかった。研究日（2026年11月1日〜2日）時点ではまだ告知・開始されていない可能性が高い。",
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "例年、観覧無料。",
+        "as_of_search_date": "2026-11-02",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "小倉駅前や紫川河畔（鷗外橋等）を光で彩る北九州都心部の冬の風物詩。2001年に『ファンタスティックイルミネーションin小倉』として始まったとされる。",
+      "target_audience": [
+        "カップル",
+        "家族"
+      ],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 5,
+        "photogenic": 7,
+        "value_for_price": 0,
+        "sns_buzz": 2,
+        "access_and_freshness": 0
+      },
+      "score": 14,
+      "recommendation_reason": "紫川河畔のイルミネーションは例年人気だが、2026-27シーズンの開催日程を示す一次情報を本セッションの検索範囲では確認できず、原則4（変動情報の最新確認）・原則7（ファクトチェック）を満たせないため今回は評価対象から除外した。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "2026-27シーズンの開催自体が未確認のため、口コミ・ネガティブレビューの収集は実施していない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "小倉イルミネーション（2025-26シーズン）開催情報・見どころ",
+          "url": "https://tabi-mag.jp/kokura-illumi/"
+        },
+        {
+          "type": "other",
+          "title": "小倉イルミネーション2025 - るるぶ&more",
+          "url": "https://rurubu.jp/andmore/spot/20003665"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "2026-27シーズンの開催日程を示す一次情報を本セッションの検索範囲では確認できず、最新性を裏付けられないため不採用とした。"
+    }
+  ]
+}

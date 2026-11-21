@@ -1,0 +1,177 @@
+{
+  "cycle_date": "2026-11-09",
+  "theme": "サウナ（長野県松本市・白骨温泉エリア）",
+  "season_rationale": "松本市街地に近い『サウナ里山』は例年12月〜3月が冬季休業とされており、11月上旬は積雪前に薪ストーブサウナと北アルプスの眺望・松本市街の夜景を楽しめる今シーズン最後の時期にあたる。一方、白骨温泉エリアは『3日入れば3年風邪をひかない』と伝わる硫黄泉の一軒宿が中心で、11月は紅葉の終わりから初雪にかけての静かな秘湯シーズンだが、本サイクルの調査では同エリア内でサウナ設備を備えた現役施設を確認できなかった。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-11-05-matsumoto-city-other", "region": "長野県松本市（松本城）", "category": "その他", "note": "同じ松本市だが『その他／松本城』が対象で、カテゴリ『サウナ』とは無関係。重複なし。" },
+    { "candidate_id": "2026-10-18-kamikochi-activity", "region": "長野県松本市上高地", "category": "アクティビティ", "note": "同じ松本市域だが上高地のアクティビティが対象。サウナ関連の記述なし。重複なし。" },
+    { "candidate_id": "(全candidates/captions横断)", "region": "―", "note": "data/candidates・captions全件（1ヶ月以上前を含む）を『松本』『白骨』『shirahone』『matsumoto』『サウナ里山』『タビシロ』『tabishiro』でファイル名・本文横断検索したが、松本市・白骨温泉エリアを対象にしたサウナ候補・キャプションは一件も存在しなかった。" }
+  ],
+  "duplication_note": "上記の横断検索により、長野県松本市・白骨温泉エリアを対象にしたサウナ候補・キャプションはdata/candidates・captionsのいずれにも過去一件も存在しないことを確認した。本サイクルで調査したサウナ里山、タビシロサウナ（tabi-shiro sauna）、白骨温泉 湯元齋藤旅館、林檎の湯屋 おぶ〜、湯の華銭湯 瑞祥 松本館はいずれも既存データに登場していない新規調査対象。",
+  "research_constraints": "本セッションでは、sauna-ikitai.com、nap-camp.com、outdoorfield-matsumoto.jp（サウナ里山の公式ドメインと見られる）、moki-ss.co.jp、note.com、サウナ系ブログ等への直接WebFetchがいずれもDNS解決不可（ネットワーク許可リスト外）で失敗し、一次情報・口コミ本文を直接確認できなかった。調査中盤で、このセッション全体で共有されるWebSearch回数の上限に到達し、サウナ里山・タビシロサウナそれぞれのGoogleマップ/サウナイキタイ上の総合評価点（★の数値）、運営者・設計者個人の名前やコンセプトを語るインタビュー記事の追加検索ができなくなった。この制約により、両施設とも『設備・営業の実在』『個別の口コミ内容（好意的・一部ネガティブ）』は複数の独立情報源で確認できたが、信頼できる数値評価（review_scores）と、発言ベースの開業者ストーリー（creator_story相当の情報）はいずれも確認できなかった。確認できない数字・発言は推測・創作せず、price_range_jpy・review_scores・recommendation_reason等に『確認できなかった』旨を明記した。",
+  "other_candidates_considered": [
+    {
+      "name": "林檎の湯屋 おぶ〜",
+      "category": "サウナ（候補検討時点）",
+      "note": "松本市内の日帰り温浴施設としてサウナ設備を備えることは紹介記事（asoview）で確認できたが、郊外型の一般的な日帰り温浴施設であり、本リポジトリが重視する独自性・Hidden Gem性に乏しいと判断し、個別候補化は見送った。"
+    },
+    {
+      "name": "湯の華銭湯 瑞祥 松本館",
+      "category": "サウナ（候補検討時点）",
+      "note": "チェーン展開する『湯の華銭湯』グループの松本館。サウナ設備自体は確認できたが、全国チェーンの一般的な銭湯型施設であり、『まだ知られていない良さ』という観点での独自性が薄いため、個別候補化は見送った。"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2026-11-09-sauna-satoyama-matsumoto",
+      "name": "サウナ里山",
+      "region": "長野県松本市寿北9丁目5-12（アウトドアフィールド松本内）",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "サウナイキタイ掲載情報では1人3,000円からとされる。キャンプ利用料金等の詳細は本セッションでは確認できなかった。公式サイト（outdoorfield-matsumoto.jp/sauna と見られる）・電話（090-4412-4173）での要確認。",
+        "as_of_search_date": "2026-11-09",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "アウトドアフィールド松本内にある事前予約制のプライベートサウナ小屋2棟。国産モキ製の薪ストーブ（MS30）を使った90℃のドライサウナと20℃前後の水風呂、外気浴スペースを備え、昼は北アルプス（槍ヶ岳・穂高連峰方面）の山並み、夕方以降は松本市街地の夜景を眺めながら『ととのう』ことができる。キャンプ場運営の経験を持つ事業者が薪ストーブを選んだ経緯を紹介する施設事例記事（moki-ss.co.jp）もあり、キャンプとサウナを組み合わせた体験が独自性といえる。ただし水風呂の温度表記がサイトにより20℃・25℃と一致せず、サウナ室内・水風呂の具体的な写真は本セッションの検索範囲では十分に確認できなかった。",
+      "renewal_or_news": "開業時期・最新のリニューアル情報は本セッションでは確認できなかった。冬季（12月〜3月）休業の記載があり、11月は営業終了が近づく時期にあたる。",
+      "target_audience": ["友人", "一人旅", "夫婦", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 7,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 68,
+      "recommendation_reason": "サウナイキタイ（サ活19〜20件・イキタイ数119）、nap-camp（口コミ8件）、moki-ss.co.jpの施設事例記事という独立した複数の情報源で、薪ストーブサウナ2棟・水風呂・北アルプス方面の眺望・夜景という設備・体験内容の実在を確認できた。松本駅から車で約15分というアクセスの良さと『絶景×薪サウナ×キャンプ』という組み合わせの独自性は高いが、Google・じゃらん等での集計された総合評価点（★の数値）は本セッションのWebSearch予算上限により確認できず、信頼できるreview_scoresを記録できなかった。この数値評価の欠落により、100点満点で68点・Hidden Gemとして『shortlisted』にとどめた。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "nap-campの口コミ（8件）は『市街地から近いのに夜景が良い』『アルプスの山々が見える』など概ね好意的だが、『サイトまでの道が狭く急坂でガタガタ』『近くのゴルフ場の機械音が朝に気になった』という指摘があった。サウナイキタイのサ活投稿にも、貸切2棟のうち利用した1棟に仕切りがなく隣の利用者の気配が近かった、水風呂がぬるかったという内容が1件確認できた。安全上・衛生上の重大な指摘は本セッションの検索範囲では見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "サウナ里山 施設情報（住所・温度・水風呂・予約方式等） - サウナイキタイ",
+          "url": "https://sauna-ikitai.com/saunas/81383"
+        },
+        {
+          "type": "other",
+          "title": "市街を一望できる長野県松本市「サウナ里山」の魅力（薪ストーブ採用の経緯を含む施設事例） - モキ製作所",
+          "url": "https://www.moki-ss.co.jp/case/3248"
+        },
+        {
+          "type": "review_site",
+          "title": "サウナ里山[松本市]のサ活（サウナ記録・口コミ感想）一覧 - サウナイキタイ",
+          "url": "https://sauna-ikitai.com/saunas/81383/posts"
+        }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "設備・体験の独自性とアクセスの良さは確認できたが、Google/じゃらん等の集計評価点をWebSearch予算上限到達前に確認できず、信頼できるreview_scoresを記録できなかったため、原則6（スコア基準）を満たすか判断できる材料が不足している。次サイクルで公式サイト（outdoorfield-matsumoto.jp）への直接アクセスまたは追加の独立レビュー確認ができれば、選定候補に上げられる可能性が高い。"
+    },
+    {
+      "id": "2026-11-09-tabishiro-sauna-matsumoto",
+      "name": "タビシロサウナ（tabi-shiro sauna）",
+      "region": "長野県松本市城西1-3-6（ゲストハウス内プライベートサウナ）",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "利用者の記録では1名6,600円＋氷代400円という例が確認できたが、プラン・人数により変動する可能性がある。正確な現行料金表は本セッションでは確認できなかった。",
+        "as_of_search_date": "2026-11-09",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "松本市街のゲストハウス内にある完全貸切制のプライベートサウナ。セルフロウリュで約93〜98℃まで上がるサウナ室と、湧き水を利用した一桁台の水風呂、北アルプスの山並みを思わせる木の装飾を施した個室という組み合わせが特徴。『湧き水の宝庫と木工の匠』と評する紹介記事があり、地元の湧水と木工技術を活かした空間づくりが独自性になっていると見られるが、運営者個人の名前・発言による詳しいコンセプト説明は本セッションでは確認できなかった。YouTubeで『秘密にしたい！長野県の小さなフィンランド』と紹介される等、ごく少数ながら熱心な紹介記事・動画が存在する。",
+      "target_audience": ["カップル", "一人旅", "友人"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 8,
+        "unique_experience_score": 19,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 3
+      },
+      "score": 72,
+      "recommendation_reason": "サウナイキタイの施設ページ、note.comのサ活記録、サウナ温泉ブログ、nap-camp.comの松本サウナまとめ記事、YouTube動画という複数の独立した情報源で、完全プライベート・湧き水水風呂・木工を活かした内装という設備・体験内容の実在を確認できた。確認できた個別口コミはいずれも好意的でスタッフ対応・内装・料理への評価が高く、明確な欠点の指摘は本セッションの検索範囲では見当たらなかった。一方、Google等での集計評価点やレビュー件数、正確な現行料金・予約方法は本セッションのWebSearch予算上限到達前に確認できず、信頼できるreview_scoresを記録できなかった。この数値評価の欠落と営業条件の未確認により、100点満点で72点・Hidden Gemとして『shortlisted』にとどめた。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本セッションで確認できた個別の口コミ・サ活投稿（サウナイキタイ、note.com、サウナ温泉ブログ）はいずれも好意的で、スタッフの対応、サウナ室のロウリュ後の熱さ、湧き水水風呂の冷たさ、料理（サーモンわさびバター等）への評価が高かった。明確なネガティブ指摘は見当たらなかったが、これは口コミの絶対数が少ないことの裏返しでもあり、サンプル不足のため断定的な評価はできない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "タビシロサウナ（長野県松本市）施設情報 - サウナイキタイ",
+          "url": "https://sauna-ikitai.com/saunas/10800"
+        },
+        {
+          "type": "other",
+          "title": "松本のおすすめサウナ8選！定番人気から穴場まで厳選して紹介（タビシロサウナ言及） - nap-camp.com",
+          "url": "https://www.nap-camp.com/mag/67896"
+        },
+        {
+          "type": "sns",
+          "title": "【タビシロサウナ】秘密にしたい！長野県の小さなフィンランド - YouTube",
+          "url": "https://www.youtube.com/watch?v=oJ2OF27jzp8"
+        },
+        {
+          "type": "other",
+          "title": "湧き水の宝庫と木工の匠。松本市『タビシロ サウナ』後編 - サウナ温泉ととのいチャンネル",
+          "url": "https://sauna-onsen-totonoich.blog.jp/archives/25016409.html"
+        }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "完全プライベート・湧き水・木工内装という独自性と、確認できた口コミがいずれも好意的である点は評価できるが、Google等の集計評価点・正確な料金・予約方法をWebSearch予算上限到達前に確認できず、信頼できるreview_scoresを記録できなかったため、原則6・原則7を満たすか判断する材料が不足している。次サイクルで追加確認ができれば選定候補に上げられる可能性が高い。"
+    },
+    {
+      "id": "2026-11-09-saito-ryokan-shirahone",
+      "name": "白骨温泉 湯元齋藤旅館",
+      "region": "長野県松本市安曇白骨温泉",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "本セッションではサウナ目的の調査対象外と判断したため料金確認は行わなかった。",
+        "as_of_search_date": "2026-11-09",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "『3日入れば3年風邪をひかない』と伝わる白骨温泉の硫黄泉を楽しめる一軒宿。大浴場『薬師の湯』、露天風呂、貸切風呂を備えるが、公式の施設情報一覧で大浴場のサウナは『無』と明記されている。",
+      "target_audience": ["温泉好き", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 0,
+        "photogenic": 0,
+        "value_for_price": 0,
+        "sns_buzz": 0,
+        "access_and_freshness": 0
+      },
+      "score": 0,
+      "recommendation_reason": "白骨温泉エリアでサウナ設備を持つ施設を探す過程で確認した一軒宿だが、公式の施設情報一覧で大浴場にサウナ設備が『無』と明記されており、本サイクルのカテゴリ『サウナ』の必須要件（サウナ設備の実在）を満たさないため、サウナ候補としては不採用（スコアは付与せず0点扱い）とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "サウナ設備が存在しないため、サウナ利用に関する口コミ収集自体を行っていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "白骨温泉 湯元齋藤旅館 施設情報（大浴場「薬師の湯」サウナ無の記載） - 近畿日本ツーリスト（yado.knt.co.jp）",
+          "url": "https://yado.knt.co.jp/st/S200262/?use_kbn=1"
+        },
+        {
+          "type": "other",
+          "title": "白骨温泉 湯元齋藤旅館 - icotto",
+          "url": "https://icotto.jp/hotels/4375"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "公式の施設情報でサウナ設備が『無』と明記されており、カテゴリ『サウナ』の必須要件を満たさないため不採用。なお本サイクルの横断調査では、白骨温泉エリア内で現在営業中かつサウナ設備を備えることが確認できた施設は一件も見つからなかった（他に大浴場にサウナの記載がある宿の掲載ページも検索結果に現れたが、宿名・所在地を特定できず、白骨温泉のものかどうかも確認できなかったため候補化できなかった）。"
+    }
+  ]
+}

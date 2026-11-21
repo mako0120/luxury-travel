@@ -1,0 +1,182 @@
+{
+  "cycle_date": "2026-10-20",
+  "theme": "熊本県阿蘇地域の絶景ホテル（渓谷・高原ビュー）",
+  "season_rationale": "10月下旬の阿蘇地域は紅葉が進む時期で、立野渓谷や瀬の本高原の草原が秋色に染まる。朝晩は冷え込み空気が澄むため、山々の眺望や星空が一年で最も美しく見える時期の一つであり、年末年始に向けた記念日旅行・温泉旅行の検討が始まるタイミングにも合う。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-19-ibusuki-ginsho", "region": "鹿児島県指宿市", "category": "絶景ホテル" },
+    { "post_id": "2026-10-18-miyajima-seaside-hotel", "region": "広島県廿日市市宮島町", "category": "絶景ホテル" },
+    { "post_id": "2026-10-17-atami-sekaie", "region": "静岡県熱海市伊豆山", "category": "絶景ホテル" },
+    { "post_id": "2026-10-16-kai-sengokuhara", "region": "神奈川県足柄下郡箱根町仙石原", "category": "絶景ホテル" },
+    { "post_id": "2026-09-18-fufu-karuizawa", "region": "長野県北佐久郡軽井沢町", "category": "サウナ" }
+  ],
+  "duplication_note": "依頼時の候補地域は『長野県軽井沢町または熊本県阿蘇地域』だったが、軽井沢町はcaptions/2026-09-18-fufu-karuizawa.json（サウナ）で地域として既に登場済みのため、今回は熊本県阿蘇地域を選んだ。阿蘇地域（阿蘇市・南阿蘇村・南小国町を含む広域）はcaptions/・data/candidatesのいずれにも過去登場のない新規地域である。一方でカテゴリ『絶景ホテル』は直近4サイクル（10/16箱根・10/17熱海・10/18宮島・10/19指宿）で選定カテゴリとして連続しており、原則29（地域・カテゴリの連続回避）の観点では留意事項にあたる。本サイクルは依頼時に『絶景ホテル』カテゴリが明示的に指定されたためこのまま調査したが、箱根・熱海・瀬戸内・薩摩半島とは異なる阿蘇の山岳・渓谷・高原という景観軸を選ぶことで地域側の重複は避けた。次回サイクルでは温泉旅館・グルメ旅館・グランピング等、別カテゴリへの切り替えを推奨する。",
+  "candidates": [
+    {
+      "id": "2026-10-20-aso-canyon-terrace-lodge",
+      "name": "阿蘇CANYON TERRACE&LODGE（阿蘇キャニオンテラス&ロッジ）",
+      "region": "熊本県阿蘇郡南阿蘇村",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらん", "score": 4.3, "scale": 5, "review_count": 311, "checked_date": "2026-10-20", "url": "https://www.jalan.net/yad308608/kuchikomi/" },
+        { "source": "楽天トラベル（海外版リスティング）", "score": 4.2, "scale": 5, "review_count": 186, "checked_date": "2026-10-20", "url": "https://travel.rakuten.com/usa/en-us/hotel_info_item/cnt_japan/sub_kumamoto_prefecture/cty_minamiaso_village/10123456887325" },
+        { "source": "Trip.com", "score": 8.4, "scale": 10, "review_count": 19, "checked_date": "2026-10-20", "url": "https://ph.trip.com/hotels/minamiaso-hotel-detail-91391271/aso-canyon-terrace-lodge" }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベルのランキング掲載（2026年8月10日更新）では最安料金の目安が6,046円〜（税込6,650円〜）と表示されている。具体的な1泊2食プランの料金はWebSearchのスニペットからは確認できず、日付・人数を指定した上で予約サイトで要確認。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "熊本県阿蘇郡南阿蘇村、阿蘇外輪山の唯一の切れ目である立野渓谷を望むロケーションに2021年4月開業したリゾートホテル。ゴルフ場に併設され、登山・サイクリングの拠点としても使われる。名物の「あそぶらんこ」から阿蘇の絶景を楽しめるほか、セルフロウリュのサウナ・水風呂・外気浴、男女別の露天風呂、5種のシャンプーバーを備えた洗い場があり、2022年10月には男湯にウッドデッキが新設された。立野渓谷は秋には赤・黄・オレンジと多様な色に紅葉するとされる。",
+      "renewal_or_news": "2021年4月16日開業、2022年10月に男湯へウッドデッキを新設という設備更新情報があり、情報の鮮度は高い。",
+      "target_audience": ["カップル", "夫婦", "友人", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 8,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 83,
+      "recommendation_reason": "じゃらん4.3（311件）・楽天トラベル国際版4.2（186件）・Trip.com8.4/10＝5点満点換算4.2（19件）と、性質の異なる3つの独立した情報源でいずれも推奨ライン4.2以上を確認できた（原則6・7）。阿蘇外輪山の切れ目である立野渓谷を望むロケーション、名物『あそぶらんこ』、セルフロウリュサウナ×外気浴という『絶景×サウナ』の体験が阿蘇エリアの他宿と比べても独自性が高く、2021年開業・2022年設備更新という鮮度もある。楽天ランキング掲載の最安料金目安（6,046円〜）も『少し奮発すれば届く』価格帯感に合う。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "じゃらんの口コミでは朝食のご飯を残念とする指摘があった。また別サイトでは、看板が少なく分かりにくい場所にあること、ゴルフ場施設内にあるため駐車場やフロントをゴルフ利用者と共用し宿泊客として少し戸惑う可能性がある、という指摘を確認した。一方で客室数が少ないため夕食時も混雑せずゆったり過ごせたという好意的な声や、あか牛のすき焼きなど食事への満足、外のブランコが好評との声もあった。清潔感・接客・安全性に関わる重大な指摘は確認できず、除外基準（原則10）に該当する問題は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "阿蘇キャニオンテラス&ロッジ クチコミ・評価 - じゃらん", "url": "https://www.jalan.net/yad308608/kuchikomi/" },
+        { "type": "booking_site", "title": "Aso Canyon Terrace & Lodge - 楽天トラベル（海外版）", "url": "https://travel.rakuten.com/usa/en-us/hotel_info_item/cnt_japan/sub_kumamoto_prefecture/cty_minamiaso_village/10123456887325" },
+        { "type": "booking_site", "title": "Aso Canyon Terrace & Lodge - Trip.com", "url": "https://ph.trip.com/hotels/minamiaso-hotel-detail-91391271/aso-canyon-terrace-lodge" },
+        { "type": "review_site", "title": "阿蘇キャニオンテラス&ロッジ クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-11869785" },
+        { "type": "other", "title": "阿蘇キャニオンテラス&ロッジ 施設紹介 - icotto", "url": "https://icotto.jp/hotels/10607" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-20-senomoto-kogen-hotel",
+      "name": "黒川温泉 瀬の本高原ホテル（旧 三愛高原ホテル）",
+      "region": "熊本県阿蘇郡南小国町大字満願寺5644（瀬の本高原）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.33, "scale": 5, "review_count": 1057, "checked_date": "2026-10-20", "url": "https://travel.rakuten.co.jp/HOTEL/37963/37963_std.html" },
+        { "source": "ニフティ温泉（旧名称口コミ含む）", "score": 3.5, "scale": 5, "review_count": 4, "checked_date": "2026-10-20", "url": "https://onsen.nifty.com/cs/catalog/onsen_onsen-detail/catalog_onsen010153_1.htm" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な1泊2食の料金はWebSearchのスニペットからは確認できなかった。公式予約システム（489ban）にプランページがあるため、日付・人数を指定して要確認。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "熊本緑の百景第1位に選ばれた標高約1000mの草原地帯「瀬の本高原」に位置し、露天風呂『絶景鼻の湯』から阿蘇五岳の山並みを一望できる。夜は『360度の天然プラネタリウム』と称される星空が売りで、黒川温泉の西側エリアに立地する。",
+      "target_audience": ["夫婦", "カップル", "記念日", "絶景好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 12,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 2
+      },
+      "score": 76,
+      "recommendation_reason": "楽天トラベルで1,057件という大規模な口コミ数に対し4.33という高評価を獲得しており信頼度が高い（原則6）。標高約1000mの草原地帯に位置し、露天風呂『絶景鼻の湯』から阿蘇五岳を一望できる絶景、夜は360度の星空という独自性が強い。ただし、ニフティ温泉側の評価は件数4件と少なく補足情報にとどまる点、具体的な料金・直近のリニューアル情報が確認できない点、公共交通でのアクセスが不便な点で、阿蘇キャニオンテラス&ロッジと比べると情報の確からしさ・鮮度の面でやや劣るためshortlistとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "公共交通でのアクセスが不便（黒川温泉バス停から徒歩約60分、送迎バスは瀬の本・黒川バス停発1日1便のみで時間固定）という情報を確認した。日帰り入浴は露天風呂のみで内風呂は利用不可。星空が売りの宿だが、個人の投稿では曇っていて星が見えなかったという体験談もあった。また家族利用の口コミで『黒川温泉ですが温泉街の風情はない』という声があった。清潔感・接客に関する重大な指摘は確認できず、除外基準（原則10）に該当する問題は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "黒川温泉 瀬の本高原ホテル - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/37963/37963_std.html" },
+        { "type": "review_site", "title": "瀬の本高原ホテル（旧 三愛高原ホテル） 温泉情報・口コミ - ニフティ温泉", "url": "https://onsen.nifty.com/cs/catalog/onsen_onsen-detail/catalog_onsen010153_1.htm" },
+        { "type": "official", "title": "瀬の本高原ホテル 公式予約（489ban）", "url": "https://reserve.489ban.net/client/senomoto/0/detail/962647" },
+        { "type": "other", "title": "瀬の本高原ホテル スポット情報 - るるぶ.jp", "url": "https://rurubu.jp/andmore/spot/80040259" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-20-aso-no-tsukasa-villa-park",
+      "name": "阿蘇の司ビラパークホテル&スパリゾート（現 亀の井ホテル 阿蘇パークリゾート）",
+      "region": "熊本県阿蘇市",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "KAYAK（集計スコア）", "score": 8.0, "scale": 10, "review_count": 1424, "checked_date": "2026-10-20", "url": "https://www.kayak.co.jp/阿蘇市-ホテル-阿蘇の司ビラパークホテル-スパリゾート.397869.ksp" },
+        { "source": "icotto（個別口コミ・2023年3月投稿）", "score": 3.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-20", "url": "https://icotto.jp/hotels/2419" },
+        { "source": "cocolocala（個別口コミ・2026年9月投稿）", "score": 3.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-20", "url": "https://www.cocolocala.jp/hotels/24170" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な料金はWebSearchのスニペットからは確認できなかった。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "阿蘇五岳や外輪山を望む立地の温泉リゾートで、水着着用で利用できるスパ施設『クアリゾート・オメール』を併設。2024年3月にマイステイズ・ホテル・マネジメントが運営を開始し、別掲載元では『亀の井ホテル 阿蘇パークリゾート』の名称も使われている。",
+      "target_audience": ["家族", "友人", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 17,
+        "review_reliability": 6,
+        "unique_experience_score": 13,
+        "photogenic": 11,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 59,
+      "recommendation_reason": "お風呂からの山岳眺望・水着スパという独自性はあるが、じゃらん・楽天トラベルの総合評価を今回のWeb調査では確認できず、確認できたicotto（2023年3月投稿）・cocolocala（2026年9月投稿）の個別口コミはいずれも3.0と低い。KAYAKの集計スコアは8.0/10（1,424件）だが、国内主要レビューサイトの数値との裏取りが取れないため原則7（独立2情報源での確認）を十分には満たせないと判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "直近（2026年9月）の個別口コミで3.0という評価が確認されたが、具体的な不満点の記述まではWebSearchのスニペットからは確認できなかった。2024年3月に運営会社が変わっている点も含め、施設の現状について確度の高い情報が不足している。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "阿蘇市 ホテル 阿蘇の司ビラパークホテル-スパリゾート - KAYAK", "url": "https://www.kayak.co.jp/阿蘇市-ホテル-阿蘇の司ビラパークホテル-スパリゾート.397869.ksp" },
+        { "type": "review_site", "title": "阿蘇の司ビラパークホテル&スパリゾート 口コミ - icotto", "url": "https://icotto.jp/hotels/2419" },
+        { "type": "review_site", "title": "阿蘇の司ビラパークホテル&スパリゾート 口コミ - cocolocala", "url": "https://www.cocolocala.jp/hotels/24170" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "じゃらん・楽天トラベル等の主要レビューサイトの総合評価を今回の調査では確認できず、確認できた直近の個別口コミ（icotto・cocolocala）はいずれも3.0で推奨ライン4.0未満。KAYAKの集計スコアとの差が大きく、信頼できる総合評価の裏取りができないため除外した（原則6・7）。"
+    },
+    {
+      "id": "2026-10-20-aso-plaza-hotel",
+      "name": "阿蘇内牧温泉 阿蘇プラザホテル",
+      "region": "熊本県阿蘇市内牧（内牧温泉）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "icotto", "score": 3.3, "scale": 5, "review_count": 26, "checked_date": "2026-10-20", "url": "https://icotto.jp/hotels/1844" },
+        { "source": "ニフティ温泉（2007年投稿含む）", "score": 3.0, "scale": 5, "review_count": 4, "checked_date": "2026-10-20", "url": "https://onsen.nifty.com/asosanroku-onsen/onsen007152/kuchikomi/" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な料金はWebSearchのスニペットからは確認できなかった。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "屋上の展望露天風呂から阿蘇五岳を望める内牧温泉の旅館。楽天トラベルの口コミでは朝食・夕食・温泉への満足の声がある一方、大浴場に鏡や時計がないなど設備面の不満も見られる。",
+      "target_audience": ["夫婦", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 4,
+        "unique_experience_score": 13,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 54,
+      "recommendation_reason": "屋上展望露天風呂からの阿蘇五岳の眺めという独自性はあるが、確認できた評価はicotto3.3（26件）・ニフティ温泉3.0（4件、最新投稿2007年）といずれも推奨ライン4.0未満かつ件数・鮮度ともに乏しく、原則6の基準を満たせない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icottoの口コミ（2022年4月投稿）では、屋上露天風呂に洗い場がなく不便という指摘があった。楽天トラベル側の口コミでも、大浴場に鏡や時計がない点を残念とする声があった。清潔感・安全性に関わる重大な指摘ではないが、評価数値自体が基準未達のため選定しない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "阿蘇内牧温泉 阿蘇プラザホテル 口コミ - icotto", "url": "https://icotto.jp/hotels/1844" },
+        { "type": "review_site", "title": "阿蘇内牧温泉 阿蘇プラザホテル 口コミ - ニフティ温泉", "url": "https://onsen.nifty.com/asosanroku-onsen/onsen007152/kuchikomi/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイトの評価が推奨ライン4.0未満（原則6）で、口コミ件数・鮮度（最新投稿が2007年のものを含む）の面でも信頼性を確認できないため除外した。"
+    }
+  ]
+}

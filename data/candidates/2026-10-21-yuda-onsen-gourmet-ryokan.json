@@ -1,0 +1,176 @@
+{
+  "cycle_date": "2026-10-21",
+  "theme": "山口県湯田温泉のグルメ旅館",
+  "season_rationale": "10月下旬〜11月は山口県内陸部でも紅葉が進み始め、気候も安定して旅行需要が高まる時期。湯田温泉は中国地方の主要温泉地のひとつで、ふぐをはじめとした山口グルメとの組み合わせを訴求しやすい季節（原則30）。",
+  "prior_posts_checked": [
+    { "caption_id": "2026-10-20-westin-sendai-date-hightea-blackpurple", "region": "宮城県仙台市", "category": "その他" },
+    { "caption_id": "2026-10-20-vision-glamping-yamanakako", "region": "山梨県南都留郡山中湖村", "category": "グランピング" },
+    { "caption_id": "2026-10-20-the-shigira-miyako", "region": "沖縄県宮古島市", "category": "オールインクルーシブ" },
+    { "caption_id": "2026-10-20-oigawa-sl-train", "region": "静岡県島田市（大井川鐵道）", "category": "列車・船" },
+    { "caption_id": "2026-10-20-kurashiki-ivysquare", "region": "岡山県倉敷市（美観地区）", "category": "文化体験" },
+    { "caption_id": "2026-10-20-izu-ochiairo-sauna", "region": "静岡県伊豆市", "category": "サウナ" },
+    { "caption_id": "2026-10-20-gero-suimeikan", "region": "岐阜県下呂市（下呂温泉）", "category": "グルメ旅館" },
+    { "caption_id": "2026-10-20-fuji-panoramic-ropeway", "region": "山梨県富士河口湖町", "category": "アクティビティ" },
+    { "caption_id": "2026-10-20-ento-oki", "region": "島根県隠岐郡（隠岐諸島）", "category": "離島リゾート" },
+    { "caption_id": "2026-10-20-bettei-haruki-beppu", "region": "大分県別府市", "category": "温泉旅館" },
+    { "caption_id": "2026-10-20-aso-canyon-terrace-lodge", "region": "熊本県阿蘇地域", "category": "絶景ホテル" },
+    { "caption_id": "2026-10-19-ibusuki-ginsho", "region": "鹿児島県指宿市", "category": "絶景ホテル" },
+    { "caption_id": "2026-10-18-kaike-shogetsu", "region": "鳥取県米子市（皆生温泉）", "category": "グルメ旅館" },
+    { "caption_id": "2026-10-17-ureshino-taishoya", "region": "佐賀県嬉野市（嬉野温泉）", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "依頼時の候補地域は『山口県湯田温泉 または 長野県渋温泉』。カテゴリ『グルメ旅館』は直近3サイクル（10/17嬉野・10/18皆生・10/20下呂）で連続使用済みのため、地域側で確実に未使用のエリアを選ぶ必要があった。captions/・posts/・data/candidates/ の全履歴（2026-09-14〜2026-10-20、直近数日のみでなく1ヶ月以上前の既存投稿も含む）を確認した結果、『湯田温泉』『渋温泉』の名称は一度も登場していない。山口県自体は2026-10-20-kumagawa-railway.json（新山口〜津和野、カテゴリ『列車・船』）でのみ地域として触れられており、湯田温泉エリア・グルメ旅館カテゴリとしては初出。長野県は複数サイクル（軽井沢=サウナ、蓼科=グランピング、白馬・上高地=アクティビティ）で地域として既出だが、いずれも渋温泉とは別エリア・別カテゴリであり、渋温泉自体もグルメ旅館カテゴリとしても初出。原則29（地域・カテゴリの連続回避）の観点から、カテゴリが連続気味な分、地域は完全新規の山口県湯田温泉を優先して調査した。",
+  "candidates": [
+    {
+      "id": "2026-10-21-yuda-onsen-kokian",
+      "name": "やまぐち・湯田温泉 古稀庵",
+      "region": "山口県山口市湯田温泉2-7-1（湯田温泉・JR山口線「湯田温泉」駅から徒歩約10分）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらん",
+          "score": 4.8,
+          "scale": 5,
+          "review_count": 320,
+          "checked_date": "2026-10-21",
+          "url": "https://www.jalan.net/yad372199"
+        },
+        {
+          "source": "楽天トラベル",
+          "score": 4.78,
+          "scale": 5,
+          "review_count": 188,
+          "checked_date": "2026-10-21",
+          "url": "https://travel.rakuten.co.jp/HOTEL/109362/review.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付き34,560円〜57,240円という掲載が確認できた。全16室の和モダン宿で、客室タイプ・プランにより変動する。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全16室すべてに源泉100%かけ流しの露天風呂を備えた和モダンの小規模高級旅館。食事は刺身や野菜握りなどを含む創作懐石で、記念日利用を伝えると祝いプレートのサービスがあったという口コミもある。宿泊者専用の大浴場も別途完備し、客室数を絞った分、庭園を含む静かな環境でゆったり過ごせる点が『グルメ旅館』としての独自性。",
+      "renewal_or_news": "楽天トラベル掲載プランでは2026年4月に料金改定を実施したとの記載があり、『全室露天風呂付』宿泊プランは2026年12月31日までの期間限定掲載として確認できた（検索日2026-10-21時点）。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 14,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 84,
+      "recommendation_reason": "じゃらん4.8（320件）・楽天トラベル4.78（188件）という2つの独立した情報源でいずれも採用ライン4.0以上を安定して満たし、件数も数百件規模で信頼度が高い。全室源泉かけ流し露天風呂＋創作懐石という『グルメ旅館』としての独自性があり、記念日利用への細やかな対応も口コミで確認できたため選定した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの個別口コミ（21件規模の別集計）では、家族旅行時に接客（スタッフの対応）を3.0とやや低く評価し、露天風呂付客室のバスタオルがサステナブル対応で1人1枚だった点を指摘する声があった。別の口コミ（Navitime掲載、2026年4月投稿・評価2.0）では、プール付きの部屋が2室のみで週末は予約が取りづらい点、スタッフの対応に差を感じた点が挙げられていたが、全文は確認できなかった。いずれも清潔感・接客・料理に関わる重大・組織的な欠陥というより個別対応のばらつきに近く、じゃらん・楽天トラベルの多数の高評価と比較して、除外基準（原則10）に該当する重大な問題とは判断しなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "やまぐち・湯田温泉 古稀庵（じゃらん／総合4.8・クチコミ320件）", "url": "https://www.jalan.net/yad372199" },
+        { "type": "booking_site", "title": "やまぐち・湯田温泉 古稀庵（楽天トラベル／総合4.78・クチコミ188件）", "url": "https://travel.rakuten.co.jp/HOTEL/109362/review.html" },
+        { "type": "review_site", "title": "やまぐち・湯田温泉 古稀庵 口コミまとめ（接客・バスタオル対応等への指摘） - icotto", "url": "https://icotto.jp/hotels/366" },
+        { "type": "other", "title": "やまぐち・湯田温泉 古稀庵 施設紹介（全室源泉かけ流し露天風呂・創作懐石） - ことりっぷ", "url": "https://co-trip.jp/post/710602" },
+        { "type": "other", "title": "やまぐち・湯田温泉 古稀庵 プラン情報（JTBお客様アンケート評価97） - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/7226038/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-21-yuda-onsen-matsudaya",
+      "name": "松田屋ホテル",
+      "region": "山口県山口市湯田温泉3-6-7（湯田温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル",
+          "score": 3.37,
+          "scale": 5,
+          "review_count": 29,
+          "checked_date": "2026-10-21",
+          "url": "https://4travel.jp/dm_hotel-10038278"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では部屋タイプ別の正確な1泊2食価格帯は確定できなかった。コカロカラ掲載の一部プランで38,803円〜という表示が確認できた。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "創業350年を超える湯田温泉の老舗旅館で、幕末の志士（高杉晋作ら）ゆかりの宿として知られる。ふぐを含む山口グルメを堪能できる会席プランがあり、庭園や大浴場（岩風呂）も評価されている。",
+      "target_audience": ["夫婦", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 5,
+        "unique_experience_score": 15,
+        "photogenic": 9,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 51,
+      "recommendation_reason": "創業350年・幕末志士ゆかりという独自の歴史性とふぐを含む会席料理は魅力的だが、フォートラベルの満足度3.37（29件）が採用ライン4.0に届かず、楽天トラベル系の4.76という評価も掲載件数1件のみで信頼度が低い（原則7の独立2情報源での数値裏取りが不十分）。総合スコアも51点で採用ライン（75点）に届かないため見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミでは『日本料理の巨匠という事で奮発しましたがその分期待が大きすぎちゃったかな』という感想や、岩風呂の湯加減調整が難しかったという指摘があった。項目別ではコストパフォーマンスが3.73と他項目より低めだった。重大な欠陥というより期待値との落差に近いが、評価自体が採用ラインに届かない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "松田屋ホテル 口コミ（フォートラベル／満足度3.37・29件、接客4.68・風呂4.50・食事4.39）", "url": "https://4travel.jp/dm_hotel-10038278" },
+        { "type": "other", "title": "松田屋ホテル 施設紹介（創業350年・幕末志士ゆかり・JTBお客様アンケート92） - JTB", "url": "https://www.jtb.co.jp/kokunai_jr/a/350401/" },
+        { "type": "review_site", "title": "松田屋ホテル 口コミ（2026年5月投稿・庭園・料理評価） - cocolocala", "url": "https://www.cocolocala.jp/hotels/21928" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア51点で採用ライン（75点）に届かず、フォートラベルの満足度3.37（29件）も採用ライン4.0未満のため見送った。"
+    },
+    {
+      "id": "2026-10-21-yuda-onsen-yuberu-matsumasa",
+      "name": "ユウベルホテル松政",
+      "region": "山口県山口市湯田温泉（湯田温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "icotto（口コミ集計）",
+          "score": 3.6,
+          "scale": 5,
+          "review_count": 251,
+          "checked_date": "2026-10-21",
+          "url": "https://icotto.jp/hotels/216"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "ふぐ刺身付き和会席プラン等が1泊2食1名あたり1万円台前半〜4万円台まで幅広く掲載されていた。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "源泉温度72度・強アルカリ性の湯田温泉源泉を、俳人・種田山頭火ゆかりの『千人湯』の系譜として掛け流しで提供。ふぐ刺身付きの和会席プランがあり、山口グルメの訴求ができる。",
+      "target_audience": ["夫婦", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 8,
+        "review_reliability": 4,
+        "unique_experience_score": 14,
+        "photogenic": 8,
+        "value_for_price": 6,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 46,
+      "recommendation_reason": "山頭火ゆかりの源泉・ふぐ会席という独自性はあるが、icotto集計の評価3.6（251件、表記が『3.6251件』とつながっており件数の区切りに不確実性あり）は採用ライン4.0に届かず、ニフティ温泉の『44.4点／6件』は5点満点とは異なる独自基準で単純比較できない。独立2情報源での数値評価の裏取り（原則7）が実質的に満たせず、総合スコアも46点と低いため見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "数値評価の出典自体が不確実（icottoの表記が評価点と件数で区切りが不明瞭）なため、個別の低評価コメントの詳細はWeb検索の範囲では十分に確認できなかった。評価の裏取りが不十分という点自体をリスクとして記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "湯田温泉 ユウベルホテル松政 口コミまとめ（icotto／3.6・251件、表記不明瞭）", "url": "https://icotto.jp/hotels/216" },
+        { "type": "review_site", "title": "ユウベルホテル松政（旧ホテル松政）宿泊ランキング掲載 - ニフティ温泉（2025年1月／44.4点・6件、独自基準）", "url": "https://onsen.nifty.com/ranking/stay/202501/" },
+        { "type": "booking_site", "title": "ユウベルホテル松政 宿泊プラン一覧（ふぐ刺身付き和会席・源泉かけ流し露天風呂） - KNT", "url": "https://yado.knt.co.jp/planlist/S350010/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア46点で採用ライン（75点）に届かず、評価の数値根拠（icotto集計）も表記が不明瞭で主要レビューサイト評価4.0以上を確認できないため見送った。"
+    }
+  ],
+  "cycle_result": "選定: やまぐち・湯田温泉 古稀庵（84点）。山口県湯田温泉のグルメ旅館カテゴリで3件（古稀庵・松田屋ホテル・ユウベルホテル松政）を調査し、古稀庵がじゃらん4.8（320件）・楽天トラベル4.78（188件）の2つの独立情報源で採用ライン（75点・主要レビュー4.0以上）を満たした唯一の候補だった。松田屋ホテル（51点・フォートラベル3.37/29件）・ユウベルホテル松政（46点・icotto集計3.6/251件、表記不明瞭）はいずれも評価・信頼性が水明館（10/20選定）より見劣りし不採用。"
+}

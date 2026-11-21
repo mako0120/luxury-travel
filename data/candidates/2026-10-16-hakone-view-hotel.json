@@ -1,0 +1,135 @@
+{
+  "cycle_date": "2026-10-16",
+  "theme": "神奈川県箱根町の絶景温泉旅館（大涌谷・仙石原エリア）",
+  "season_rationale": "箱根は10月中旬〜11月が紅葉シーズンの入口で、秋の澄んだ空気の中での露天風呂体験が映えるタイミング。これまでのサイクルで箱根エリアは一度も登場しておらず、絶景ホテルカテゴリも直近は北海道洞爺湖（2026-09-22）が最後で、地域・カテゴリとも重複の懸念はない（原則29）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-22-nonokaze-resort-toya", "region": "北海道虻田郡洞爺湖町", "category": "絶景ホテル" },
+    { "post_id": "2026-09-22-clubmed-sahoro-karikachi", "region": "北海道上川郡新得町", "category": "オールインクルーシブ" },
+    { "post_id": "2026-09-22-guntu", "region": "広島県尾道市（瀬戸内海）", "category": "列車・船" }
+  ],
+  "duplication_note": "箱根（神奈川県）は data/candidates・captions に一度も登場していない新規地域。絶景ホテルカテゴリは洞爺湖（北海道・湖畔リゾート）が既出だが、エリア・景観の切り口（湖畔ビューvs大涌谷由来の温泉・山岳高原リゾート）が異なるため重複の懸念はない（原則29）。",
+  "candidates": [
+    {
+      "id": "2026-10-16-kai-sengokuhara",
+      "name": "星野リゾート 界 仙石原",
+      "region": "神奈川県足柄下郡箱根町仙石原",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.4, "scale": 5, "review_count": 167, "checked_date": "2026-10-16", "url": "https://www.jalan.net/yad358672/kuchikomi/" },
+        { "source": "スカイチケット", "score": 4.4, "scale": 5, "review_count": 208, "checked_date": "2026-10-16", "url": "https://skyticket.jp/hotel/detail/property_961593/" }
+      ],
+      "price_range_jpy": {
+        "note": "開業時（2018年）は1泊2食付き・2名1室利用時1名あたり37,000円〜。2022年の体験プラン付き料金は50,850円〜（税・サービス料込）という表示を確認。いずれも過去の参考値で、現在の正確な料金は公式サイトで要確認。",
+        "as_of_search_date": "2026-10-16",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "星野リゾートの温泉旅館ブランド「界」15番目の施設として2018年開業。標高約700mの仙石原高原に位置し、大涌谷由来の白濁した湯を全16室（本館13室・別館3室）すべての露天風呂で楽しめる。『アトリエ×温泉旅館』をコンセプトに、参加アーティストの作品を客室に配置し、地域の工芸・食を体験する『ご当地楽』も提供。夕食の名物は熱した石で肉・魚介を焼く『山海石焼』。",
+      "renewal_or_news": "1日1組限定の『仙石原アートリトリート滞在』（2泊3日、公式サイトから4日前までの予約制）という比較的新しい特別プランがあり、話題性がある。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 12,
+        "unique_experience_score": 16,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 76,
+      "recommendation_reason": "じゃらんnet4.4（167件）・スカイチケット4.4（208件）と、性質の異なる2つの独立した情報源でいずれも4.2以上・十分なレビュー件数を確認できた（原則6・7）。全室に大涌谷由来の白濁温泉露天風呂が付くという点、『アトリエ×温泉旅館』という独自コンセプトが他の箱根の宿にない強みとなっている。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Web検索の範囲では、界 仙石原自体に対する具体的な低評価コメント（清潔感・接客・安全性に関する重大な指摘）は見つからなかった。ただしこのセッションのWebSearch予算の制約上、個別レビュー本文までは全件確認できておらず、低評価側の口コミを狙って絞り込む検索は実施できていない点は留意事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "星野リゾート 界 仙石原 公式サイト", "url": "https://kai-ryokan.jp/sengokuhara/" },
+        { "type": "review_site", "title": "星野リゾート 界 仙石原の宿泊予約・クチコミ - じゃらんnet", "url": "https://www.jalan.net/yad358672/kuchikomi/" },
+        { "type": "review_site", "title": "星野リゾート 界 仙石原 - スカイチケット", "url": "https://skyticket.jp/hotel/detail/property_961593/" },
+        { "type": "other", "title": "箱根で温泉とアート三昧。「星野リゾート 界 仙石原」 - Matcha", "url": "https://matcha-jp.com/jp/6588" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-16-hakone-kowakien-tenyu",
+      "name": "箱根小涌園 天悠",
+      "region": "神奈川県足柄下郡箱根町小涌谷",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "ニフティ温泉", "score": 4.0, "scale": 5, "review_count": 2, "checked_date": "2026-10-16", "url": "https://onsen.nifty.com/hakone-onsen/onsen014904/" },
+        { "source": "ココロカラ", "score": 4.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-16", "url": "https://www.cocolocala.jp/hotels/8255" }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベル掲載の最安値31,900円〜/1部屋1泊という過去の表示を確認（2026年6月時点の情報、現在は要確認）。",
+        "as_of_search_date": "2026-10-16",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全150室中120室が露天風呂付客室、24室が露天風呂付最上階客室、6室が露天風呂付特別客室。6階の大浴場『浮雲の湯』は山と谷・空と温泉が一体化するインフィニティ露天風呂として知られる。",
+      "target_audience": ["カップル", "家族", "記念日", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 4,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 63,
+      "recommendation_reason": "全150室中120室以上に露天風呂が付くという規模と、インフィニティ露天『浮雲の湯』の独自性は高いが、確認できた数値評価がニフティ温泉4.0（2件）・ココロカラ4.0（1件）といずれも極端にレビュー件数が少なく、楽天トラベル・一休.com等の主要サイトの口コミ件数・点数をこのセッションのWebSearchでは確認できなかった。原則7が求める『十分な件数を伴う独立2情報源』を満たせないと判断し、信頼性の配点を大きく下げた。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "具体的な低評価の指摘はWeb検索の範囲では見つからなかったが、そもそも確認できたレビュー件数自体が極端に少なく、評価の全体像を正確に把握できていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "箱根小涌園 天悠 - JTB", "url": "https://www.jtb.co.jp/kokunai_hotel/htl/4310007/" },
+        { "type": "review_site", "title": "箱根小涌園 天悠の温泉情報、お得なクーポン、口コミ情報 - ニフティ温泉", "url": "https://onsen.nifty.com/hakone-onsen/onsen014904/" },
+        { "type": "review_site", "title": "箱根小涌園 天悠 - cocolocala", "url": "https://www.cocolocala.jp/hotels/8255" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価の情報源が極端に少数のレビューしかなく、原則7（複数の独立した十分な件数の評価での裏付け）を満たせないため除外した。"
+    },
+    {
+      "id": "2026-10-16-gora-kadan",
+      "name": "強羅花壇",
+      "region": "神奈川県足柄下郡箱根町強羅",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "GLTJP", "score": 4.53, "scale": 5, "review_count": 6, "checked_date": "2026-10-16", "url": "https://www.gltjp.com/ja/directory/item/11671/" }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付き120,000円〜（大人2名1室利用時1名あたりの目安、過去の掲載情報）。",
+        "as_of_search_date": "2026-10-16",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "閑院宮載仁親王の夏の避暑用別邸跡地に建つ全39室の旅館。1991年に世界的なホテルレストラングループ『ルレ・エ・シャトー』加盟店となった。3本の自家源泉（庭園内から湧出する2本を含む）を持ち、一部の離れを除き朝夕食ともに客室で懐石料理を提供する。",
+      "target_audience": ["カップル", "記念日", "夫婦", "グルメ旅", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 3,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 64,
+      "recommendation_reason": "ルレ・エ・シャトー加盟・皇族別邸跡地という独自性・格式の高さは極めて強いが、このセッションのWebSearchでは楽天トラベル・一休.com・じゃらん等の主要サイトの数値評価ページに到達できず、確認できた数値評価はGLTJPの4.53（6件）という1情報源・少数件数のみだった。原則7が求める『独立2情報源』を満たせないため除外した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "個別のレビューサイト（cocolocala）で懐石料理の量について『少し足りない』という指摘（評価5.0の投稿内）が見つかった一方、別の投稿では2.0という低評価も確認したが、具体的な内容は検索結果からは特定できなかった。清潔感・安全性に関わる重大な指摘は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "強羅花壇 - GLTJP", "url": "https://www.gltjp.com/ja/directory/item/11671/" },
+        { "type": "booking_site", "title": "強羅花壇 - JTB", "url": "https://www.jtb.co.jp/kokunai_hotel/htl/4311006/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立した2件目の十分な件数を伴う数値評価情報源を確認できず、原則7を満たせないため除外した。"
+    }
+  ]
+}

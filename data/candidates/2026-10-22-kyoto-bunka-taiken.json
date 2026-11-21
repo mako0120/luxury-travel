@@ -1,0 +1,144 @@
+{
+  "cycle_date": "2026-10-22",
+  "theme": "文化体験カテゴリ（京都府京都市）",
+  "season_rationale": "11月上旬〜中旬にかけて京都市中心部（二条城周辺含む）は紅葉が見頃を迎える。紅葉ピークで予約が取りにくくなる前の10月下旬は、庭園・歴史的建築を中心とした文化体験型の宿泊先を検討し始めるのに適したタイミング。",
+  "prior_posts_checked": [
+    { "caption_id": "2026-10-21-hotel-fukinomori", "region": "長野県木曽郡南木曽町（妻籠宿近く）", "category": "文化体験" },
+    { "caption_id": "2026-10-20-kurashiki-ivysquare", "region": "岡山県倉敷市（倉敷美観地区）", "category": "文化体験" },
+    { "caption_id": "2026-10-19-machiya-club-omihachiman", "region": "滋賀県近江八幡市", "category": "文化体験" },
+    { "caption_id": "2026-10-18-nara-hotel", "region": "奈良県奈良市高畑町", "category": "文化体験" },
+    { "candidate_id": "2026-09-14-hoshinoya-kyoto", "region": "京都府京都市西京区（嵐山）", "category": "文化体験", "note": "1か月以上前のサイクル（2026-09-14）。同じ京都府京都市だが、嵐山・渡月橋付近の屋形舟でしか行けない宿という全く別施設・別エリア（中京区ではなく西京区）。今回候補（二条城前エリア）とは所在地・建物・体験内容とも異なるため重複に該当しないと判断した。" },
+    { "caption_id": "2026-09-14-sagano-torokko", "region": "京都府京都市（嵐山・嵯峨野）〜亀岡市", "category": "列車・船", "note": "1か月以上前・カテゴリも異なる（列車・船）ため重複なし。" },
+    { "candidate_id": "2026-09-18-nara-culture", "region": "奈良県", "category": "文化体験", "note": "1か月以上前・地域が異なり重複なし。" }
+  ],
+  "duplication_note": "直近4件のcaptions（2026-10-18奈良／2026-10-19近江八幡／2026-10-20倉敷／2026-10-21木曽・妻籠宿）がいずれも文化体験カテゴリで連続している。原則29の『地域・カテゴリの連続を避ける』観点では望ましくないが、本サイクルは依頼内容で『カテゴリ＝文化体験、地域＝京都府京都市』が明示的に指定されているため、その方針に従った。地域については、captions/posts/data/candidates全体を1か月以上前まで遡って確認した結果、京都府京都市を扱った既存投稿はhoshinoya-kyoto（嵐山・屋形舟の宿、2026-09-14）とsagano-torokko（嵯峨野トロッコ列車、2026-09-14）の2件のみで、いずれも1か月以上前かつ別エリア・別カテゴリ（列車）であることを確認した。今回候補は二条城前エリア（中京区）の宿泊施設であり、施設・エリア・体験内容が異なるため地域重複はないと判断した。",
+  "candidates": [
+    {
+      "id": "2026-10-22-mitsui-kyoto",
+      "name": "HOTEL THE MITSUI KYOTO, a Luxury Collection Hotel & Spa",
+      "region": "京都府京都市中京区（世界遺産・二条城の真正面）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Relux", "score": 4.5, "scale": 5, "review_count": 23, "checked_date": "2026-10-22", "url": "https://rlx.jp/24913/review/" },
+        { "source": "楽天トラベル（Rakuten Travel）", "score": 4.8, "scale": 5, "review_count": 30, "checked_date": "2026-10-22", "url": "https://travel.rakuten.com/usa/en-us/hotel_info_review/cnt_japan/sub_kyoto/cty_kyoto_city/10123456832966/" },
+        { "source": "Trip.com", "score": 9.4, "scale": 10, "review_count": 69, "checked_date": "2026-10-22", "url": "https://uk.trip.com/hotels/kyoto-hotel-detail-67048200/hotel-the-mitsui-kyoto-a-luxury-collection-hotel-spa/review.html" },
+        { "source": "TripAdvisor（第三者サイト経由の集計値、要再確認）", "score": 4.3, "scale": 5, "review_count": 154, "checked_date": "2026-10-22", "url": "https://www.tripadvisor.com/Hotel_Review-d21150651.html" }
+      ],
+      "price_range_jpy": {
+        "note": "予約代理サイトの表示では、ガーデンツインルームの素泊まりが1泊2名151,800円〜、朝食付きプランが161,920円〜という情報を確認。表示に検索日時の明記がなく、現在の正確な料金は公式サイト・各予約サイトで要確認。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "世界遺産・二条城の真正面、三井総領家の邸宅跡地に建つホテル。表門『梶井宮門』は大原・三千院から移築された300年超の歴史を持つ遺構で、ランドスケープデザイナー宮城俊作氏が手がけた約1,300㎡の庭園を囲むように全161室の客室・レストラン・バーが配置される。敷地内の地下から湧く天然温泉を備えた『Onsenスイート』、貸切温泉、温泉水のプール・スパも併設し、歴史的建築・庭園・天然温泉を一体で体験できる立地と構成は他にない独自性。",
+      "renewal_or_news": "2020年11月開業。フォーブス・トラベルガイドで開業初年度から日本で初めて最高評価の五つ星を獲得し、以降も評価を維持していると報じられている。World's 50 Best Hotelsのリストにも選出され、国内外のラグジュアリーホテルガイドで継続的に取り上げられている。2026年10月時点の各予約サイトの表示・最新口コミから通常営業を継続していることを確認。",
+      "target_audience": ["夫婦", "記念日", "カップル", "ホテル好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 19,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 8,
+        "access_and_freshness": 5
+      },
+      "score": 87,
+      "recommendation_reason": "Relux 4.5（23件）・楽天トラベル4.8（30件）・Trip.com 9.4/10（69件）・TripAdvisor 4.3前後（150件超、第三者サイト経由のため要再確認）という4つの独立した情報源でいずれも推奨ライン4.0を上回る評価を確認し、原則6・7の基準を十分に満たす（原則7の理想『公式＋旅行サイト＋レビューサイト＋海外メディア』の4方向に近い構成）。二条城前という唯一の立地に、三井家由来の歴史的建築（300年超の表門・庭園）と天然温泉を組み合わせた体験は他施設にない独自性があり、フォーブス・トラベルガイド五つ星やWorld's 50 Best Hotels選出という第三者評価の話題性も高い。総合スコア87点は最低採用ライン（75点）を大きく上回ると判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Reluxの23件中、約4%（1件）が1点評価だったが、具体的な指摘内容は本文未確認。TripAdvisorの要約では『内装がやや標準的』『道路の音が気になる場合がある』という声が一部あるが、清潔感・接客・安全性・予約トラブルに関する重大かつ複数の指摘は確認できなかった。disqualifying_issues_foundはfalseと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "HOTEL THE MITSUI KYOTO, a Luxury Collection Hotel & Spa（Marriott公式）", "url": "https://www.marriott.com/ja/hotels/osalc-hotel-the-mitsui-kyoto-a-luxury-collection-hotel-and-spa/reviews/" },
+        { "type": "review_site", "title": "HOTEL THE MITSUI KYOTO レビュー - Relux", "url": "https://rlx.jp/24913/review/" },
+        { "type": "booking_site", "title": "HOTEL THE MITSUI KYOTO - 楽天トラベル", "url": "https://travel.rakuten.com/usa/en-us/hotel_info_review/cnt_japan/sub_kyoto/cty_kyoto_city/10123456832966/" },
+        { "type": "review_site", "title": "Hotel The Mitsui Kyoto - Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-d21150651.html" },
+        { "type": "press", "title": "Hotel the Mitsui Kyoto - The World's 50 Best Hotels", "url": "https://www.theworlds50best.com/discovery/Establishments/Japan/Kyoto/Hotel-the-Mitsui-Kyoto.html" },
+        { "type": "other", "title": "HOTEL THE MITSUI KYOTO - じゃらん", "url": "https://www.jalan.net/yad302067/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-22-suzu-rokujo-machiya",
+      "name": "鈴 六条町家【京町家 一棟貸し】",
+      "region": "京都府京都市（JR京都駅から徒歩約10分、地下鉄『五条』駅から徒歩約8分）",
+      "category": "文化体験",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "skyticket", "score": 4.8, "scale": 5, "review_count": 47, "checked_date": "2026-10-22", "url": "https://skyticket.jp/hotel/detail/property_17834/" },
+        { "source": "Relux", "score": 4.8, "scale": 5, "review_count": 5, "checked_date": "2026-10-22", "url": "https://rlx.jp/22517/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な1泊2名料金はWeb検索の範囲では確認できなかった。公式・各予約サイトでの要確認。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "京都駅・五条駅から徒歩圏の京町家一棟貸し。2022年9月のリニューアルで露天風呂を完備し、町家の間取り・意匠を残したまま滞在できる。",
+      "target_audience": ["女子旅", "友人", "家族", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 8,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 8,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 70,
+      "recommendation_reason": "skyticket 4.8（47件）・Relux 4.8（5件）と評価自体は高いが、独立2情報源のうち1件（Relux）のレビュー件数が5件と極端に少なく、原則6・7の『件数とセットで信頼度を判断する』基準を数値的エビデンスとして十分に満たせない。三井のような歴史的建築・第三者評価機関からの評価・話題性にも欠けるため、本サイクルでは次点（shortlisted）とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "専用駐車場がない点が立地上の注意点として明記されている以外、清潔感・接客に関する重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "鈴 六条町家【京町家 一棟貸し】- じゃらん", "url": "https://www.jalan.net/yad380897/" },
+        { "type": "review_site", "title": "鈴 六条町家 - skyticket", "url": "https://skyticket.jp/hotel/detail/property_17834/" },
+        { "type": "review_site", "title": "鈴 六条町家 レビュー - Relux", "url": "https://rlx.jp/22517/review/" },
+        { "type": "other", "title": "鈴 六条町家 - jcation", "url": "https://jcation.com/hotel/detail-23317/" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-22-hiiragiya-ryokan",
+      "name": "柊家旅館",
+      "region": "京都府京都市中京区麩屋町通姉小路上る",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 4.0, "scale": 5, "review_count": 27, "checked_date": "2026-10-22", "url": "https://4travel.jp/dm_hotel-10037802" }
+      ],
+      "price_range_jpy": {
+        "note": "一休・楽天トラベル等での現行料金・件数はWeb検索の範囲では確認できなかった。公式・各予約サイトでの要確認。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "文政元年(1818年)創業、チャーリー・チャップリンも愛したとされる京都の老舗旅館。檜の内風呂、懐石料理、数寄屋造りの建物など伝統的な『本物の京都の宿』の文化的価値が強み。",
+      "target_audience": ["夫婦", "記念日", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 4,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 62,
+      "recommendation_reason": "1818年創業・著名人にも愛された老舗という文化的独自性は高いが、信頼できる独立したレビュー評価・件数を2種類以上の情報源で数値的に確認できなかった。フォートラベルは『クチコミ:27件』の表示があるものの、検索結果で実際に内容を確認できた投稿は2005年の1件のみで鮮度に欠け、海外ガイドサイトで見られた9.4〜9.6という数値も算出方法・件数が不明で参考値にとどめた。原則6・7の最低ラインを満たすエビデンスが不十分なため不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの別掲載（住所・評価が異なる可能性があるページ）では満足度3.25（12件）という低めの数値も見られたが、同一施設かの確証が取れず参考情報にとどめた。古さを好みの問題として指摘する声がある一方、清掃状況を評価する声もあり、確証を持った重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "柊家旅館 の口コミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10037802" },
+        { "type": "other", "title": "Best Ryokans in Kyoto - Japan Ryokan Guide", "url": "https://www.japanryokanguide.com/ja/blog/best-ryokans-kyoto" },
+        { "type": "booking_site", "title": "柊家 - 一休.com", "url": "https://www.ikyu.com/00000284/?top=map" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "文化的独自性・ブランド価値は高いが、独立した信頼できる口コミ評価・件数を2種類以上の情報源で数値的に確認できず、原則6・7の最低ラインを満たすエビデンスとして不十分と判断した。公式・一休・楽天トラベル等で現行の口コミ件数が確認できた時点で再評価の余地がある。"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "cycle_date": "2026-10-19",
+  "theme": "温泉旅館（群馬県吾妻郡草津町・草津温泉）",
+  "season_rationale": "10月下旬の草津温泉は西の河原公園や周辺の山々で紅葉が見頃を迎え、気温も下がり始めて温泉のありがたさが増す時期。11月に入ると冷え込みが一段と強まるため、紅葉と湯けむりを一緒に楽しめる今のタイミングで紹介する意義がある（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-18-yamanokami-yukaen", "region": "岩手県花巻市下シ沢字中野（花巻温泉郷）", "category": "温泉旅館" },
+    { "post_id": "2026-10-18-nara-hotel", "region": "奈良県奈良市高畑町", "category": "文化体験" },
+    { "post_id": "2026-10-18-qua-hotel-isawa-kenkoland", "region": "山梨県笛吹市石和町（石和温泉）", "category": "サウナ" },
+    { "post_id": "2026-10-18-kitakobushi-shiretoko", "region": "北海道斜里郡斜里町ウトロ東", "category": "アクティビティ" },
+    { "post_id": "2026-10-18-miyajima-seaside-hotel", "region": "広島県廿日市市宮島町", "category": "絶景ホテル" },
+    { "post_id": "2026-10-18-kurobe-gorge-torokko", "region": "富山県黒部市", "category": "列車・船" },
+    { "post_id": "2026-10-18-grand-mercure-okinawa-zanpa", "region": "沖縄県中頭郡読谷村字儀間", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-18-goto-retreat-ray", "region": "長崎県五島市上崎山町", "category": "離島リゾート" },
+    { "post_id": "2026-10-18-kaike-shogetsu", "region": "鳥取県米子市皆生温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-17-shichijuyae", "region": "栃木県日光市鬼怒川温泉大原", "category": "温泉旅館" },
+    { "post_id": "2026-09-20-mizu-no-oto", "region": "神奈川県足柄下郡箱根町（小涌谷）", "category": "温泉旅館（旧スコープ・posts/）" },
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館（旧スコープ・posts/）" }
+  ],
+  "duplication_note": "本サイクルは依頼時点で地域・カテゴリが『群馬県吾妻郡草津町（草津温泉）／温泉旅館』と指定されたテーマで調査した。直近投稿（2026-10-18 山の神温泉優香苑・岩手県花巻）もカテゴリは温泉旅館だが、地域は岩手県花巻温泉郷であり、草津温泉としての実績はcaptions/・posts/のいずれにも存在せず地域としては新規。カテゴリの連続については、依頼で明示的に指定された条件であるため本サイクルではそのまま調査を実施した。",
+  "candidates": [
+    {
+      "id": "2026-10-19-lavista-kusatsu-hills",
+      "name": "ラビスタ草津ヒルズ(共立リゾート)",
+      "region": "群馬県吾妻郡草津町（草津温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "楽天トラベル 人気ホテル・旅館ランキング（群馬県 温泉旅館・ホテル 総合）",
+          "score": 5,
+          "scale": 5,
+          "review_count": 1067,
+          "checked_date": "2026-10-19",
+          "url": "https://travel.rakuten.co.jp/ranking/onsen/gunma/10_0007_1_4_0_0.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "欧風リゾートスタイルの全室露天風呂付きホテルで、各予約サイトにプランが多数掲載されているが、今回のセッションでは1泊2名あたりの具体的な料金数値をWebSearchのスニペットから確認できなかった。予約前に公式サイト・楽天トラベル等で最新料金を要確認。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "草津温泉街を見下ろす高台に2021年開業した欧風リゾートスタイルホテルで、全客室に天然温泉の露天風呂を備える。最上階には眺望自慢の大浴場、貸切風呂も完備し、湯畑・地蔵の湯まで徒歩10分弱というアクセスの良さと高台からの開放的な景観を両立させている点が独自性。",
+      "renewal_or_news": "2021年開業と比較的新しく、全室露天風呂付きという構成は草津温泉エリアでも希少。JTBの「お客様アンケート評価」でも88点（高評価帯）と紹介されている。",
+      "target_audience": ["夫婦", "記念日", "カップル", "温泉好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 82,
+      "recommendation_reason": "楽天トラベルの群馬県温泉旅館・旅館ランキングで総合評価が本ジャンル最高評価帯（クチコミ1,067件）を記録しており、オズモールの独立したクチコミでも総合評価4.80（雰囲気・接客サービス5.00、食事・風呂・部屋4.67）という高評価が確認できた。全室に天然温泉の露天風呂を備え、草津温泉街を見下ろす高台という立地は『ここでしかできない』写真映えの舞台になる。2021年開業で設備の鮮度も高く、湯畑まで徒歩10分弱というアクセスの良さも強み。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "オズモール・楽天トラベル（Reluxの個人投稿rlx.jpを含む）を確認した範囲では、混雑・清潔感・接客に関する重大な低評価は見つからなかった。rlx.jpの個人投稿1件では部屋・風呂・朝食・夕食の評価がいずれも3点（5点満点中）と他の投稿より控えめだったが、本文までは確認できず、他の投稿は総じて景色・貸切風呂・ラウンジサービスを高く評価していた。清潔感・安全性に関わる重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "ラビスタ草津ヒルズ(共立リゾート) 人気ホテル・旅館ランキング（群馬県 温泉旅館・ホテル 総合） - 楽天トラベル", "url": "https://travel.rakuten.co.jp/ranking/onsen/gunma/10_0007_1_4_0_0.html" },
+        { "type": "booking_site", "title": "ラビスタ草津ヒルズ(共立リゾート) 人気ホテル・旅館ランキング（群馬県 温泉旅館・ホテル 風呂） - 楽天トラベル", "url": "https://travel.rakuten.co.jp/ranking/onsen/gunma/10_0004_2_2_0_0.html" },
+        { "type": "review_site", "title": "ラビスタ草津ヒルズ クチコミ・レビュー（総合評価4.80） - オズモール", "url": "https://www.ozmall.co.jp/travel/stay/1106/review/" },
+        { "type": "review_site", "title": "ラビスタ草津ヒルズ 個人口コミ - Relux(rlx.jp)", "url": "https://rlx.jp/25518/review/" },
+        { "type": "booking_site", "title": "ラビスタ草津ヒルズ(共立リゾート) お客様アンケート評価 - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/3237040/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-19-tsutsujitei-kusatsu",
+      "name": "つつじ亭",
+      "region": "群馬県吾妻郡草津町草津639-1（草津温泉）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "ITmedia 草津温泉人気宿ランキング記事(1)", "score": 4.5, "scale": 5, "review_count": 219, "checked_date": "2026-10-19", "url": "https://nlab.itmedia.co.jp/research/articles/3102409/amp/" },
+        { "source": "ITmedia 草津温泉人気宿ランキング記事(2)", "score": 4.5, "scale": 5, "review_count": 224, "checked_date": "2026-10-19", "url": "https://nlab.itmedia.co.jp/research/articles/3138308/amp/" }
+      ],
+      "price_range_jpy": {
+        "note": "露天風呂付きの離れ家・貸切露天風呂を持つ高級旅館と紹介されているが、今回のセッションでは1泊2名あたりの具体的な料金数値を確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "広い自然庭園を持つ高級旅館で、露天風呂付きの離れ家や貸切露天風呂が特徴。JTBの「プレミアムJTBが厳選した高級旅館・ホテル」では総合94点と紹介されている。",
+      "target_audience": ["夫婦", "記念日", "カップル", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 11,
+        "unique_experience_score": 15,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 72,
+      "recommendation_reason": "ITmediaの草津温泉人気宿ランキング記事2本でいずれも4.5pt（219〜224件）と高評価で、JTBの高級旅館セレクションでも総合94点と紹介されており、離れ家・貸切露天風呂を備える点も魅力的。ただし評価数値の出典がいずれも同系列のランキング記事に集中しており、送迎・アクセス路の勾度など基本情報を複数の独立した情報源（公式サイト・大手予約サイトの個別クチコミ等）で確認できなかったため、今サイクルでは採用を見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "今回のセッションでは個別のネガティブレビュー本文までは確認できなかった。ただしyukoyuko.netの草津温泉口コミ一覧に『ホテルから坂がキツイ』という投稿があり、同施設のものか確証が取れなかったため、アクセス面の負担について要確認とした。重大な清潔感・接客上の指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "草津温泉の人気宿ランキング（つつじ亭 4.5pt/219クチコミ） - ITmedia nlab", "url": "https://nlab.itmedia.co.jp/research/articles/3102409/amp/" },
+        { "type": "press", "title": "草津温泉の人気宿ランキング（つつじ亭 4.5pt/224クチコミ） - ITmedia nlab", "url": "https://nlab.itmedia.co.jp/research/articles/3138308/amp/" },
+        { "type": "other", "title": "つつじ亭 宿泊施設情報（プレミアムJTB厳選・総合94点） - JTB", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/3237010/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "推定スコア72点で採用ライン（75点）に届かず、評価数値の出典が同系列のランキング記事に集中していて独立した複数情報源での裏取りが不十分だったため、今サイクルでは不採用とした（原則6・7）。"
+    },
+    {
+      "id": "2026-10-19-narayado-honkan",
+      "name": "草津温泉 奈良屋",
+      "region": "群馬県吾妻郡草津町草津396（草津温泉・湯畑付近）",
+      "category": "温泉旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.54, "scale": 5, "review_count": 51, "checked_date": "2026-10-19", "url": "https://4travel.jp/dm_hotel-10043737" }
+      ],
+      "price_range_jpy": {
+        "note": "草津温泉の老舗代表格の旅館として紹介されているが、今回のセッションでは1泊2名あたりの具体的な料金数値を確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "草津温泉・湯畑近くに立つ老舗旅館。湯守が丁寧に管理するまろやかな温泉、個室で食べる創作会席、老舗らしい趣のある客室が特徴として紹介されている。",
+      "target_audience": ["夫婦", "温泉好き", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 9,
+        "unique_experience_score": 16,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 64,
+      "recommendation_reason": "老舗旅館としての趣・湯守による温泉管理・個室会席は独自性があるが、フォートラベルの主要レビュー評価が3.54（51件）と採用ライン（4.0以上）に届かず、同サイトの項目別評価でもバリアフリーが2.64と低く、『料金に対して料理や部屋が物足りない』という指摘も複数確認されたため、今サイクルでは不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの項目別評価で風呂4.62と高い一方、バリアフリー2.64と低く、『料金に対して料理や部屋が物足りない』という趣旨の口コミが複数件確認された。重大な清潔感・安全性の問題ではないが、価格相応のサービス面に関する指摘が一定数あり、採用ラインの評価（4.0以上）にも届かないため選定を見送った。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "press", "title": "【草津温泉の人気ホテル】「草津温泉 奈良屋」が選ばれる理由 - All About", "url": "https://news.allabout.co.jp/articles/o/124902/" },
+        { "type": "review_site", "title": "草津温泉 奈良屋 クチコミ（満足度3.54・51件） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10043737" },
+        { "type": "other", "title": "草津温泉 奈良屋 施設情報一覧", "url": "https://travel.gpoint.co.jp/daredoko/09b001-d125/all/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイト（フォートラベル）評価3.54が採用ライン4.0未満であり、かつバリアフリー・価格対価値について複数の低評価指摘が確認されたため不採用（原則6・10）。"
+    }
+  ]
+}

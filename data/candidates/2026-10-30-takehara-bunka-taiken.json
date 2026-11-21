@@ -1,0 +1,133 @@
+{
+  "cycle_date": "2026-10-30",
+  "theme": "文化体験（広島県竹原市：町並み保存地区・安芸の小京都エリア）",
+  "season_rationale": "2026年10月30日は紅葉シーズン前の晩秋入口にあたり、竹原市の町並み保存地区では翌10月31日・11月1日に『第22回たけはら憧憬の路〜町並み竹灯り〜』（約5,000本の竹灯籠による保存地区のライトアップ）が予定されている時期にあたる。江戸期の製塩町・酒造町としての町並みが最も特別な表情を見せる直前のタイミングであり、『今、実際に体験・訪問できる文化体験』を基準に調査した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-29-inuyama-jokamachi-bunka-taiken", "region": "愛知県犬山市（犬山城下町エリア）", "category": "文化体験" },
+    { "post_id": "2026-10-28-wajima-bunka-taiken", "region": "石川県輪島市（輪島塗・輪島朝市エリア）", "category": "文化体験" },
+    { "post_id": "2026-10-28-nagahama-kurokabe-glass-culture", "region": "滋賀県長浜市（黒壁スクエア・ガラス文化エリア）", "category": "文化体験" },
+    { "post_id": "2026-10-27-ine-funaya-bunka-taiken", "region": "京都府与謝郡伊根町（伊根の舟屋）", "category": "文化体験" },
+    { "post_id": "2026-10-27-iya-ochiai-bunka-taiken", "region": "徳島県三好市祖谷（かずら橋・落合集落エリア）", "category": "文化体験" },
+    { "post_id": "2026-10-26-hagi-jokamachi-bunka-taiken", "region": "山口県萩市（松下村塾・萩城下町エリア）", "category": "文化体験" },
+    { "post_id": "2026-10-25-gujo-hachiman-bunka-taiken", "region": "岐阜県郡上市郡上八幡（城下町・水の町）", "category": "文化体験" },
+    { "post_id": "2026-10-24-tono-bunka-taiken", "region": "岩手県遠野市（遠野物語・南部曲り家の里）", "category": "文化体験" },
+    { "post_id": "2026-10-23-mikuni-tojinbo-bunka-taiken", "region": "福井県坂井市三国・東尋坊エリア", "category": "文化体験" },
+    { "post_id": "2026-10-22-kyoto-bunka-taiken", "region": "京都府京都市", "category": "文化体験" },
+    { "post_id": "2026-10-21-tsumago-magome-culture", "region": "長野県中山道妻籠宿・馬籠宿エリア", "category": "文化体験" },
+    { "post_id": "2026-10-20-kurashiki-bikanchiku-culture", "region": "岡山県倉敷市・倉敷美観地区", "category": "文化体験" },
+    { "post_id": "2026-10-19-omihachiman-culture", "region": "滋賀県近江八幡市（八幡堀・近江商人のまち）", "category": "文化体験" },
+    { "post_id": "2026-09-14-machiya-kanazawa", "region": "石川県金沢市", "category": "文化体験" },
+    { "post_id": "2026-10-21-hiroshima-afternoontea", "region": "広島県広島市", "category": "その他" },
+    { "post_id": "2026-10-18-miyajima-view-hotel", "region": "広島県廿日市市（宮島）", "category": "絶景ホテル" }
+  ],
+  "duplication_note": "依頼時点の指定は『カテゴリ：文化体験／地域：広島県竹原市（町並み保存地区・安芸の小京都エリア）』。data/candidates/・captions/の全履歴（1ヶ月以上前の分も含め『竹原』『たけはら』『Takehara』『広島』でgrep確認）を確認した結果、広島県は宮島・広島市・倉敷に近い瀬戸内クルーズ等で複数回登場しているが、『竹原市』が主題となった候補・キャプションは過去に一度も存在せず、新規の地域である。\n\nなお、カテゴリ『文化体験』は前日2026-10-29（犬山）および前々日2026-10-28（輪島）に続けて3日連続の指定となるが、地域・カテゴリの指定自体が依頼で明示されているため、今回もその指定に従って調査した。\n\n補足：本サイクルの調査中にWebSearchツールのセッション利用上限（本ターン分）に達したため、竹鶴酒造・お茶の子彩彩（着物レンタル）・たけはら憧憬の路（竹灯り）についてはGoogleマップ等の集計評価の数値を追加で確認できなかった。これらは正式な候補オブジェクトとしてのスコアリングは行わず、cycle_resultに調査結果のみ記録した。"
+, "candidates": [
+    {
+      "id": "2026-10-30-kyu-matsusaka-ke",
+      "name": "旧松坂家住宅（旧松阪家住宅）",
+      "region": "広島県竹原市本町三丁目（竹原市竹原地区伝統的建造物群保存地区内）",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Trip To Japan（施設ページ集計評価）",
+          "score": 3.9,
+          "scale": 5,
+          "review_count": 52,
+          "checked_date": "2026-10-30",
+          "url": "https://www.triptojapan.com/ja/places/former-matsuzaka-family-residence-takehara/Z8QwApX7QyyZARzkdrFxAQ"
+        },
+        {
+          "source": "4travel（施設クチコミページ、全41件中の個別投稿1件）",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-30",
+          "url": "https://4travel.jp/dm_shisetsu/10005433"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "複数の観光情報サイトでは入館料 大人300円（70歳以上は無料、障がい者と同伴者1名無料）、開館10:00〜16:00・水曜休館という掲載があったが、2026年10月時点でこの料金・時間が現行のものと一致するかは本調査では直接の公式ページで再確認できていない。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "江戸後期（文政期頃）に建てられ、明治12年（1879年）に大改築された唐破風屋根・出格子などを持つ重厚な商家建築。製塩業・醸造業などで栄えた竹原の豪商の暮らしぶりを内部まで実際に見学できる、町並み保存地区を代表する公開施設の一つ。",
+      "renewal_or_news": "竹原市の伝統的建造物一覧では市町村指定文化財・通年公開とされている。特段の2026年時点のリニューアル情報は確認できなかった。",
+      "target_audience": ["一人旅", "夫婦", "友人", "家族"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 10,
+        "unique_experience_score": 14,
+        "photogenic": 11,
+        "value_for_price": 8,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 69,
+      "recommendation_reason": "文政期建築＋明治12年改築という歴史的経緯が明確で、唐破風屋根など見応えのある商家建築を実際に内部まで見学できる点は独自性が高い。入館料300円という掲載情報も含め価格に対する体験価値は良好。一方で主要な集計評価（Trip To Japan 3.9/5・52件）が4.0にわずかに届かず、SNS上の話題性も限定的で、総合スコアは69点にとどまった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できた個別クチコミ（4travel）は4.0〜4.5点中心で、唐破風屋根・出格子の重厚さや商家の雰囲気を評価する内容が多く、明確な低評価・苦情は見当たらなかった。一方でTrip To Japanの集計評価は3.9/5（52件）で、4.0の採用ラインにわずかに届いていない。施設の営業継続性・安全性に関する懸念は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "旧松阪家住宅（Former Matsuzaka Family Residence） クチコミ評価 3.9（52件） - Trip To Japan", "url": "https://www.triptojapan.com/ja/places/former-matsuzaka-family-residence-takehara/Z8QwApX7QyyZARzkdrFxAQ" },
+        { "type": "review_site", "title": "旧松阪家住宅 クチコミ（全41件） - 4travel", "url": "https://4travel.jp/dm_shisetsu/10005433" },
+        { "type": "other", "title": "旧松阪家住宅・旧吉井家住宅に関する多言語解説資料（建築年代・1879年改築等） - 国土交通省多言語解説整備支援ポータルサイト", "url": "https://www.mlit.go.jp/tagengo-db/common/001647860.pdf" },
+        { "type": "other", "title": "竹原市竹原地区伝統的建造物群保存地区 伝統的建造物台帳（旧松阪家住宅：市町村指定・通年公開）", "url": "https://denken.gr.jp/archive/takehara-takeharachiku/file/ledger.pdf" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア69点で採用ライン（75点）に届かず、主要な集計評価（Trip To Japan 3.9/5・52件）も4.0未満だったため見送った。建築的価値・価格対体験価値は評価できるが、SNS話題性や独自性の面で採用ラインを超える決定的な材料を確認できなかった。"
+    },
+    {
+      "id": "2026-10-30-takehara-machinami-hozonchiku",
+      "name": "竹原市竹原地区伝統的建造物群保存地区（たけはら町並み保存地区）",
+      "region": "広島県竹原市本町・中央地区",
+      "category": "文化体験",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "4travel（スポットページ集計評価）",
+          "score": 3.74,
+          "scale": 5,
+          "review_count": 114,
+          "checked_date": "2026-10-30",
+          "url": "https://4travel.jp/dm_shisetsu/10007840"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "町並み自体の散策は無料。旧松阪家住宅など一部の公開施設のみ入館料（目安300円程度）が別途必要という掲載情報がある。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "江戸時代に製塩業・酒造業で栄えた町人地で、昭和57年（1982年）に国の重要伝統的建造物群保存地区に選定（面積約5.0ha）。白壁・格子の商家群が連なる本町通りと、京都・清水寺を模して建てられたとされる西方寺普明閣からの一望が見どころで、『安芸の小京都』と呼ばれる。",
+      "renewal_or_news": "選定から約43年の間に167件の保存修理・修景事業が行われ、近年保存計画が全部改正されたとする国土交通省資料がある。また2026年10月31日・11月1日17:00〜21:00には第22回『たけはら憧憬の路〜町並み竹灯り〜』（約5,000本の竹灯籠による保存地区のライトアップ、伝統的建造物のライトアップ・竹アート展示・Instagramフォトコンテスト等）が予定されている（情報源2件：iwafu.com、dive-hiroshima.com。いずれも観光情報サイトで、竹原市公式サイト（takeharakankou.jp）での直接確認は本調査のネットワーク制限により行えなかった）。",
+      "target_audience": ["一人旅", "夫婦", "友人", "家族", "記念日"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 11,
+        "unique_experience_score": 15,
+        "photogenic": 13,
+        "value_for_price": 9,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 76,
+      "recommendation_reason": "江戸期の製塩町としての町並みが40年以上保存・修理され続けている点、普明閣からの一望という『清水寺を模した』独自の景観、無料で歩ける価格対価値の高さから総合スコアは76点と採用ラインを超える。加えて調査直後の10月31日・11月1日に竹灯りイベントが予定されており季節的な訴求力も高い。しかし主要な集計評価（4travel 3.74/5・114件）が4.0未満であり、原則6の採用基準（主要レビュー4.0以上）を満たさないため、スコアのみでは採用を判断しなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミの多くは『安芸の小京都らしい落ち着いた町並み』『白壁の町家が美しい』と好意的だが、一部に『見どころが少ない』『人通りが少なく寂しい時間帯がある』といった低めの評価も含まれており、114件の平均が3.74にとどまっている。施設の営業・公開状況そのものに問題は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "竹原町並み保存地区 クチコミ（全114件、評価3.74/5） - 4travel", "url": "https://4travel.jp/dm_shisetsu/10007840" },
+        { "type": "other", "title": "竹原市竹原地区伝統的建造物群保存地区の選定・保存修理実績（昭和57年選定、43年間で167件の保存修理・修景事業） - 中国地方整備局", "url": "https://www.cgr.mlit.go.jp/chiki/kensei/jyutaku/machinami/machinami_pdf/takehara.pdf" },
+        { "type": "other", "title": "重要伝統的建造物群保存地区：竹原市竹原地区 概要資料 - 文化庁", "url": "https://www.bunka.go.jp/seisaku/bunkazai/shokai/hozonchiku/pdf/94428201_89.pdf" },
+        { "type": "other", "title": "第22回たけはら憧憬の路〜町並み竹灯り〜（2026年10月31日・11月1日開催）イベント情報", "url": "https://www.iwafu.com/jp/events/1141577" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコアは76点で採点基準（75点）を上回るが、主要な集計評価（4travel 3.74/5・114件）が4.0未満であり、原則6の採用基準を満たさないため見送った。国指定の保存地区として口コミ件数（114件）・知名度ともに一定以上確認できるため、穴場（Hidden Gem）救済規定の適用対象とは判断しなかった。"
+    }
+  ],
+  "cycle_result": "該当なし。広島県竹原市の文化体験カテゴリでは、採用ライン（75点・主要レビュー4.0以上・独立2情報源）を満たす候補が見つからなかった。構造化データとして記録した旧松坂家住宅（69点、Trip To Japan 3.9/5）・竹原市竹原地区伝統的建造物群保存地区（76点だが4travel 3.74/5で主要レビュー4.0未満）はいずれも『主要レビュー4.0以上』の基準を満たせず見送った。\n\n加えて以下3件も調査したが、口コミ評価の数値情報を十分に確認できなかったため、正式な候補オブジェクトとしてのスコアリングは行わなかった：(1) 竹鶴酒造 — ニッカウヰスキー創業者・竹鶴政孝の生家であり、1651年に製塩業、1733年に酒造業を始めた竹原最古の酒蔵。『良い物は必ず売れる』という品質主義の精神がこの蔵元を原点とすると紹介する記事（president.jp）があり、現在も広島県下唯一の全量純米酒蔵として生酛造りを守っているとされる。創業者の思いを伝えるストーリー性は高いが、見学・試飲の受付状況や口コミの集計評価を示す一次情報を確認できず、スコアリングに必要な数値データが不足していた。(2) 広島着物 お茶の子彩彩（竹原駅近くの着物・浴衣レンタル店） — 2026年5月の利用者による好意的な口コミ（店主の提案による着付けが好評）を確認できたが、確認できた口コミは1件のみで、料金や集計評価の数値情報を確認できなかった。町並みを着物で歩くという体験の独自性は高く、次回サイクルでの数値情報の追加確認に値する。(3) 第22回たけはら憧憬の路〜町並み竹灯り〜（2026年10月31日・11月1日開催、約5,000本の竹灯籠によるライトアップ）— 翌日から始まる時期的にきわめて鮮度の高い候補だが、イベント自体への口コミ・評価の数値情報を確認できず、情報源も観光情報サイト2件（iwafu.com、dive-hiroshima.com）にとどまり、竹原市公式サイトでの直接確認ができなかったため見送った。\n\nなお、本サイクルの調査中にWebSearchツールのセッション利用上限（本ターン分）に達したため、上記3件については追加の裏付け調査ができなかった。次サイクル以降、利用上限リセット後に竹鶴酒造の見学・試飲の受付状況、お茶の子彩彩の料金・集計評価、たけはら憧憬の路の竹原市公式情報を再調査することを推奨する。"
+}

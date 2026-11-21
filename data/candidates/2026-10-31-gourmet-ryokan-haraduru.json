@@ -1,0 +1,146 @@
+{
+  "cycle_date": "2026-10-31",
+  "theme": "グルメ旅館×福岡県朝倉市・原鶴温泉（依頼指定の地域・カテゴリ）",
+  "season_rationale": "原鶴温泉名物の鵜飼いは例年6月上旬〜9月末で営業終了しているが、10月下旬〜11月は筑後川沿いの紅葉と、朝倉産の新米・秋野菜を使った会席料理が楽しめる時期にあたる。鵜飼い以外の魅力（温泉・食・工芸リニューアル）を軸に紹介するタイミングとして妥当と判断した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-30-koshinoyado-takashimaya", "region": "新潟県新潟市西蒲区岩室温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-29-taketoritei-maruyama", "region": "兵庫県神戸市北区有馬町（有馬温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-28-miyama-ouan-hirayu", "region": "岐阜県高山市奥飛騨温泉郷平湯（平湯温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-27-arai-ryokan-shuzenji", "region": "静岡県伊豆市修善寺（修善寺温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-26-iizaka-matsuriya-yuzaemon", "region": "福島県福島市飯坂町（飯坂温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-25-gotenmori-akayu", "region": "山形県南陽市赤湯（赤湯温泉）", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "data/candidates/ 全件（2026-09-14〜2026-10-30、約1ヶ月以上前のものも含めて約270件）およびcaptions/全件（同期間、約145件）を『福岡』『朝倉』の語で確認したところ、地域『福岡県朝倉市・原鶴温泉』およびそこに含まれる個別施設は過去に一度も登場していないことを確認した（重複なし）。一方、カテゴリ『グルメ旅館』は2026-10-25（赤湯）〜2026-10-30（岩室）まで6日連続で登場しており、本サイクルで7日連続となる。これは依頼で地域・カテゴリとも明示指定されたため、このまま実施するが、次サイクル以降は温泉旅館・絶景ホテル等、グルメ旅館以外のカテゴリへの振り直しを強く推奨する（運用原則6のガイドラインの趣旨に基づく）。",
+  "candidates": [
+    {
+      "id": "2026-10-31-taisenkaku-haraduru",
+      "name": "原鶴温泉 泰泉閣",
+      "region": "福岡県朝倉市杷木志波20（原鶴温泉・筑後川沿い）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらん", "score": 4.3, "scale": 5, "review_count": 1165, "checked_date": "2026-10-31", "url": "https://www.jalan.net/yad323391/" },
+        { "source": "楽天トラベル", "score": 4.23, "scale": 5, "review_count": 1018, "checked_date": "2026-10-31", "url": "https://travel.rakuten.co.jp/HOTEL/37876/" },
+        { "source": "フォートラベル（みんなの満足度）", "score": 3.32, "scale": 5, "review_count": 32, "checked_date": "2026-10-31", "url": "https://4travel.jp/dm_hotel-10038434" }
+      ],
+      "price_range_jpy": {
+        "note": "1名あたり目安 約12,100円〜28,600円（和室10畳・バス・トイレ付、時期・プラン・早期予約割引等により変動）。具体的な税込確定額は宿泊日・プランにより異なるため断定しない。",
+        "as_of_search_date": "2026-10-31",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する。予約時に公式情報・予約サイトで最新料金の確認を推奨。"
+      },
+      "unique_experience": "1949年創業・原鶴温泉を代表する老舗旅館。南国植物に囲まれすべり台付き浴槽もある名物『ジャングル風呂』と、アルカリ単純泉と硫黄泉を併せ持つ『ダブル美肌の湯』が特徴で、大浴場・女性専用風呂・貸切露天風呂2室など湯処が豊富。2023〜2024年にレストランと一部客室がリニューアルされ、甘木絞り・小石原焼・久留米絣といった福岡の伝統工芸を配した和洋室が新設された。夕食は朝倉産の野菜・肉など地元食材を使った会席料理で、『筑前朝倉蒸し雑煮』など郷土の味も取り入れている。夏季（6〜9月）は屋外プールや筑後川の鵜飼いも楽しめるが、本サイクルの紹介時点（10月下旬）では終了している点に留意。",
+      "renewal_or_news": "2023〜2024年にレストランおよび一部客室（和洋室）をリニューアルし、福岡の伝統工芸（甘木絞り・小石原焼・久留米絣）を客室に取り入れた。屋外プールは例年夏季限定（直近では7月上旬〜9月の連休明けまで）で宿泊者無料開放されている。",
+      "target_audience": ["カップル", "記念日", "夫婦", "家族", "グルメ旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 14,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 81,
+      "recommendation_reason": "じゃらん（4.3／1,165件）・楽天トラベル（4.23／1,018件）という2つの大規模予約サイトで独立して4.0以上・1,000件超の口コミが確認でき、原則7（独立2情報源）・原則6（主要レビュー4.0以上）を明確に満たす（原則6）。1949年創業の老舗でありながら、2023〜2024年のレストラン・客室リニューアルで福岡の伝統工芸を取り入れており、情報鮮度も高い。『ジャングル風呂』『ダブル美肌の湯』という視覚的に伝わりやすい湯処の個性と、地元食材を使った会席料理という『グルメ旅館』カテゴリに合致する食の魅力を両立している。地域『福岡県朝倉市・原鶴温泉』はdata/candidates・captions全件で過去に一度も登場しておらず、新規地域として紹介価値が高い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの満足度はじゃらん・楽天より低め（3.32／32件）で、クチコミ内に『相部屋で鍵が1本しかなく入浴時に不便』『ビール自販機の案内が分かりにくい』という指摘があったが、同じ投稿者は改装直後の建物自体は快適と評価している。じゃらん掲載情報では大浴場・貸切露天風呂への経路に段差・階段が多いとの注記があり、足腰に不安がある利用者への配慮事項として確認した。清潔感・接客・料理・安全性に関する重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "泰泉閣は1949年創業・1960年法人化（創業から数えて70年超）の老舗旅館で、現在は3代目の林恭一郎氏が代表取締役を務める家族経営の宿である。林氏は2002年に泰泉閣に入り、2009年（別の記事では2010年就任とする記述もあり、出典間で年に食い違いがある）に代表取締役に就任した。公開されている2013年のインタビュー記事では、同氏が2012年7月の九州北部豪雨で筑後川が増水し原鶴温泉一帯に避難指示が出た経験に触れつつ、朝倉市の若い世代の企画立案力に地域の明るい未来を見出していると語っている記述が確認できた。一方で、名物『ジャングル風呂』の意匠や『ダブル美肌の湯』の打ち出し方、2023〜2024年のレストラン・和洋室リニューアル（甘木絞り・小石原焼・久留米絣といった福岡の伝統工芸を客室に配した改修）について、林氏自身がどのような思い・コンセプトで手がけたかを語った一次発言やインタビューは、今回確認できた出典の範囲では見つからなかった。推測や発言の創作は行わず、確認できなかった事実として明記する。",
+        "sources": [
+          { "type": "press", "title": "泰泉閣 林恭一郎氏プロフィール・経歴紹介記事", "url": "https://data-max.co.jp/article/9063" },
+          { "type": "press", "title": "（株）泰泉閣 林恭一郎社長インタビュー（2013年11月・九州北部豪雨後の地域再生言及）", "url": "https://www.data-max.co.jp/2013/11/07/post_16455_ib1742_1.html" },
+          { "type": "other", "title": "泰泉閣 法人情報・創業年に関する記述", "url": "https://data-max.co.jp/person/ibclub_7584" }
+        ]
+      },
+      "sources": [
+        { "type": "booking_site", "title": "原鶴温泉 泰泉閣(たいせんかく) - じゃらんnet（クチコミ総合4.3・1,165件）", "url": "https://www.jalan.net/yad323391/" },
+        { "type": "booking_site", "title": "原鶴温泉 泰泉閣 宿泊プラン・施設情報（KNTトラベル）", "url": "https://yado.knt.co.jp/photo/S400068/" },
+        { "type": "review_site", "title": "原鶴温泉 泰泉閣のクチコミ・感想 - フォートラベル（満足度3.32・32件）", "url": "https://4travel.jp/dm_hotel-10038434" },
+        { "type": "press", "title": "【原鶴温泉の人気ホテル】「原鶴温泉 泰泉閣」はダブル美肌の湯とジャングル風呂が魅力 - All About", "url": "https://news.allabout.co.jp/articles/o/113934/" },
+        { "type": "other", "title": "泰泉閣 施設紹介（住所・アクセス・体験プログラム）- Crossroad Fukuoka", "url": "https://www.crossroadfukuoka.jp/spot/10328" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-31-hodoainoyado-rokuhokan-haraduru",
+      "name": "原鶴温泉 ほどあいの宿 六峰舘",
+      "region": "福岡県朝倉市（原鶴温泉・筑後川沿い）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル（みんなの満足度）", "score": 3.39, "scale": 5, "review_count": 28, "checked_date": "2026-10-31", "url": "https://4travel.jp/dm_hotel-10038431" }
+      ],
+      "price_range_jpy": {
+        "note": "本調査では確実な一次料金情報を確定できなかった。",
+        "as_of_search_date": "2026-10-31",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全客室から筑後川を望める点と、アルカリ単純泉・硫黄泉の『W美肌の湯』が特徴。地元食材を多く使った会席料理が評判。",
+      "target_audience": ["夫婦", "記念日", "グルメ旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 6,
+        "unique_experience_score": 13,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 54,
+      "recommendation_reason": "全室筑後川ビューとW美肌の湯、地元食材の会席料理という魅力はあるが、確認できた信頼度の高い数値評価がフォートラベル（3.39／28件）のみで、じゃらん・楽天トラベル等の大規模サイトでの評価件数が本調査では確認できず、原則7（独立2情報源）を満たせなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの内訳は『とても良い』15件・『良い』11件・『普通』1件・『悪い』1件で、大きな否定的傾向は確認されなかったが、母数自体が少ない。清潔感・安全性に関わる重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "原鶴温泉 ほどあいの宿 六峰舘のクチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel-10038431" },
+        { "type": "other", "title": "原鶴温泉 ほどあいの宿 六峰舘のクチコミ&詳細", "url": "https://travel.gpoint.co.jp/daredoko/h12807/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア54点で採用ライン（75点）未満。信頼できる独立した数値評価が主要予約サイト（じゃらん・楽天トラベル）で確認できず、フォートラベル（28件）1件にとどまり、原則7（最低2種独立情報源による確度の高い確認）を満たせなかった。次サイクル以降、じゃらん・楽天トラベルの評価を施設名で直接照合できれば再評価する。"
+    },
+    {
+      "id": "2026-10-31-hotel-parlance-onoya-haraduru",
+      "name": "原鶴温泉 畳風呂と日本庭園の宿 ホテルパーレンス小野屋",
+      "region": "福岡県朝倉市（原鶴温泉・筑後川沿い）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル（個別投稿、2016年12月）", "score": 4.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-31", "url": "https://4travel.jp/dm_hotel_tips/10151177" }
+      ],
+      "price_range_jpy": {
+        "note": "本調査では確実な一次料金情報を確定できなかった。",
+        "as_of_search_date": "2026-10-31",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "畳風呂・日本庭園が特徴。じゃらんnet『売れた宿大賞』福岡県51〜100室部門を2021〜2023年に3年連続受賞。キッズスペース・2つの温泉等、家族向けの設備も充実し、夕食の刺身が豪華という口コミもある。",
+      "target_audience": ["家族", "夫婦", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 11,
+        "review_reliability": 5,
+        "unique_experience_score": 13,
+        "photogenic": 9,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 52,
+      "recommendation_reason": "じゃらんnet『売れた宿大賞』3年連続受賞という実績や家族向け設備の充実は魅力的だが、じゃらん・楽天トラベル等でのクチコミ総合点・件数を本調査では確認できず、確認できた数値評価はフォートラベルの2016年個別投稿（4.0・1件）のみで、原則7（独立2情報源による確度の高い確認）を満たせなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2016年12月投稿では『外観は古さを感じるが客室・大浴場・レストランは新しく清潔』との声があった。清潔感・安全性に関わる重大な指摘は確認されなかったが、評価データ自体が古く・少ないため傾向判断には不十分。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "畳風呂と日本庭園の宿 ホテルパーレンス小野屋 - じゃらんnet", "url": "https://www.jalan.net/yad360864/" },
+        { "type": "review_site", "title": "ホテルパーレンス小野屋 関連クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel_tips/10151177" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア52点で採用ライン（75点）未満。じゃらんnet『売れた宿大賞』3年連続受賞という話題性はあるが、本調査では主要サイトの総合クチコミ点・件数を確認できず、原則7（独立2情報源による確度の高い確認）を満たせなかった。次サイクル以降、じゃらん・楽天トラベルの評価を直接照合できれば再評価する。"
+    }
+  ]
+}

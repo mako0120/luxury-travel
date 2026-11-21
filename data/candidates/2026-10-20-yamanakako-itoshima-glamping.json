@@ -1,0 +1,130 @@
+{
+  "cycle_date": "2026-10-20",
+  "theme": "山梨県山中湖村・福岡県糸島市のグランピング施設（カテゴリ『グランピング』再調査・2回目＝最終回）",
+  "season_rationale": "本サイクルはカテゴリ『グランピング』の再調査2回目（最終回）。1回目（data/candidates/2026-10-20-nasu-awaji-glamping.json）は栃木県那須高原・兵庫県淡路島を調査したが、原則6・7（主要レビュー4.0以上かつ独立2情報源）を満たす候補が見つからず該当なしだった。今回は指示された地域候補『山梨県山中湖村』『福岡県糸島市』で調査した。10月下旬の山中湖は紅葉と富士山の眺望が重なる時期で、露天風呂・テントサウナ付きグランピングの『温まる非日常』需要が高まる季節（原則30）。糸島も秋は海風が心地よく、焚き火・サウナ系グランピングの需要期にあたる。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-20-nasu-awaji-glamping", "region": "栃木県那須高原・兵庫県淡路島", "category": "グランピング（再調査1回目・該当なし）" },
+    { "post_id": "2026-10-18-fujikawaguchiko-glamping / captions/2026-10-18-hoshinoya-fuji", "region": "山梨県南都留郡富士河口湖町（河口湖畔）", "category": "グランピング" },
+    { "post_id": "2026-10-17-shirahama-glamping / captions/2026-10-17-luanapark-shirahama", "region": "和歌山県西牟婁郡白浜町", "category": "グランピング" },
+    { "post_id": "2026-10-19-takashima-glamping", "region": "滋賀県高島市", "category": "グランピング（該当なし）" },
+    { "post_id": "2026-10-19-iseshima-glamping", "region": "三重県伊勢志摩・北海道洞爺湖町", "category": "グランピング（該当なし）" },
+    { "post_id": "2026-10-20-aso-canyon-terrace-lodge", "region": "熊本県阿蘇郡南阿蘇村", "category": "絶景ホテル" },
+    { "post_id": "2026-10-20-bettei-haruki-beppu", "region": "大分県別府市", "category": "温泉旅館" },
+    { "post_id": "2026-10-20-fuji-panoramic-ropeway", "region": "山梨県南都留郡富士河口湖町（天上山公園）", "category": "アクティビティ" },
+    { "post_id": "2026-10-20-gero-suimeikan", "region": "岐阜県下呂市", "category": "グルメ旅館" },
+    { "post_id": "2026-10-20-izu-ochiairo-sauna", "region": "静岡県伊豆市", "category": "サウナ" },
+    { "post_id": "2026-10-20-kurashiki-ivysquare", "region": "岡山県倉敷市", "category": "文化体験" },
+    { "post_id": "2026-10-20-the-shigira-miyako", "region": "沖縄県宮古島市", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-18-fukuoka-gentei-event / captions/2026-10-18-fukuoka-momochihama-autumn-afternoontea", "region": "福岡県福岡市早良区百道浜", "category": "その他（期間限定アフタヌーンティー）" }
+  ],
+  "duplication_note": "既存の `data/candidates/`・`captions/`・`posts/` をファイル名・本文で確認した結果、山梨県山中湖村・福岡県糸島市のグランピングを扱った既存候補・投稿は確認できなかった（grep『糸島|itoshima|山中湖|yamanakako』でヒットしたのは旧サウナ投稿 `posts/2026-09-14-cycl-yamanakako`（山中湖・サウナ、カテゴリ異なる）と無関係な `data/candidates/2026-10-18-hanamaki-onsenkyo.json` 内の語句のみ）。なお同一県（山梨県）では2日前（2026-10-18）に河口湖町の『星のや富士』をグランピングとして選定済みであり、福岡県も2〜3日前に百道浜（その他）・（2026-10-18）福岡市中心部の期間限定イベントを扱っている。この間（2026-10-19・2026-10-20）はサウナ・温泉旅館・絶景ホテル・文化体験・オールインクルーシブ・アクティビティ・グルメ旅館・列車等、複数カテゴリを挟んでおり連続投稿ではない。地域の重なりを避けるため、より重複が薄い福岡県糸島市側を優先的に深掘りしたが、糸島側の有力候補は後述の理由で原則7（独立2情報源）を満たせず、結果的に山梨県山中湖村（河口湖とは別の町・別施設）の候補を選定した。",
+  "research_note": "福岡県糸島市では『HIDEAWAY sunset camp（糸島・前原）』『唐泊VILLAGE』『糸島グランピングヴィレッジ 地球MIRAI』の3件、山梨県山中湖村では『ビジョングランピングリゾート&スパ山中湖』『ザ・デイ ポストジェネラル グランピングヴィレッジ山中湖』の2件、計5件を調査した。このセッションのネットワーク環境ではjalan.net・travel.rakuten.co.jp・nap-camp.com等への直接WebFetchは依然EGRESS_BLOCKEDのため、WebSearchのスニペットから得られる数値評価を情報源として明記した。糸島の『HIDEAWAY sunset camp』はなっぷで4.6（28件）と高評価だったが、複数回の検索でもじゃらん・Googleマップ・Tripadvisor等の第二の独立した数値評価サイトを確認できず、原則7を満たせなかった。『唐泊VILLAGE』も同様になっぷ4.4（24件）の単一情報源のみ。『地球MIRAI』は口コミの点数自体が確認できなかった。一方、山中湖村の『ビジョングランピングリゾート&スパ山中湖』は、じゃらん（116件・4.8、別ページでは36件・4.9）・楽天トラベル（252〜254件・総合4.85）・Relux（7件・4.4）という3つの独立した数値情報源すべてで推奨ライン4.2以上を確認でき、原則6・7を満たす数値的根拠が最も強固だった。もう一方の『ザ・デイ ポストジェネラル グランピングヴィレッジ山中湖』はtravelist（17件・3.9、快適さ2.5）とjcation（25件・4.1）で評価が分かれ、Yahoo!トラベルは口コミ5件のため点数非表示という状態で、原則6の4.0基準を安定して満たすとは言えなかった。以上より本サイクルは『ビジョングランピングリゾート&スパ山中湖』を選定候補とした。",
+  "candidates": [
+    {
+      "id": "2026-10-20-vision-glamping-yamanakako",
+      "name": "ビジョングランピングリゾート&スパ山中湖（全室富士山ビュー）",
+      "region": "山梨県南都留郡山中湖村山中字栗木林1385-43",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル（人気・売れ筋ランキングページ掲載の「お客さまの声」集計）", "score": 4.85, "scale": 5, "review_count": 252, "checked_date": "2026-10-20", "url": "https://travel.rakuten.co.jp/ranking/sales/premium/yamanashi/yamanakako_0007_0_0_0_0.html" },
+        { "source": "じゃらん（4点以上の口コミ抜粋ページ）", "score": 4.8, "scale": 5, "review_count": 116, "checked_date": "2026-10-20", "url": "https://www.jalan.net/yad396815/" },
+        { "source": "じゃらん（別掲載ページ）", "score": 4.9, "scale": 5, "review_count": 36, "checked_date": "2026-10-20", "url": "https://www.jalan.net/yad396815/kuchikomi/" },
+        { "source": "Relux", "score": 4.4, "scale": 5, "review_count": 7, "checked_date": "2026-10-20", "url": "https://rlx.jp/26162/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベルの売れ筋ランキングページでは最安料金の目安22,628円〜と表示（人数・プラン条件は検索結果からは確定できず）。夕朝食付き・露天風呂＆テントサウナ占有プランなど複数プランがあり、スイートタイプは最大8名まで宿泊可能。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全15棟すべてに富士山を望む露天風呂（人工温泉）・専用テントサウナ・富士山麓の地下水を使った水風呂・外気浴チェアを完備し、他の宿泊者と顔を合わせずにサウナ→水風呂→外気浴の『ひとりサウナ』を自室で完結できる点が強い独自性。客室は最大8名まで泊まれるスイートタイプもあり、グループ・家族利用にも対応。山中湖IC・東富士五湖道路から車で約5分とアクセスも良好。",
+      "renewal_or_news": "運営の株式会社ビジョンが2026年7月10日付で、2026年夏限定でShark®の最新タワーファンを両施設に期間限定導入すると発表。また2026年7月19日〜2027年1月31日の販売プランで夕食メニュー（選べる魚メニュー追加）をリニューアルしており、調査時点（10/20）でも提供中。",
+      "target_audience": ["カップル", "記念日", "夫婦", "家族", "友人"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 84,
+      "recommendation_reason": "楽天トラベル（252件・4.85）・じゃらん（116件・4.8、別ページ36件・4.9）・Relux（7件・4.4）という3種類以上の独立した数値情報源すべてで推奨ライン4.2以上（5点換算）を確認でき、原則6・7の基準を1回目調査（那須・淡路）より明確に満たした。『全棟に富士山ビューの露天風呂＋専用テントサウナ＋水風呂』という、通常のグランピングでは珍しい“サウナ付き客室が標準装備”の体験設計はここでしかできない価値が高く、キャンプ経験がなくても本格的なサウナ体験ができる点はSNSでの『映え』『保存したくなる』要素になりやすい。2026年夏の送風機導入・2026年秋冬の夕食メニュー改訂という継続的なアップデートも確認でき、情報の新しさ（原則4）の観点でも良好。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "WebSearchで複数回『口コミ 悪い／残念／虫／音／清掃』等のキーワードを組み合わせて検索したが、具体的な低評価レビューの本文は確認できなかった。ただし、じゃらんの掲載ページ自体が『4点以上の項目について高評価をつけたユーザーのクチコミを一部表示』という仕様である旨の記載があり、低評価レビューがサイト側で選択的に非表示になっている可能性がある点は留保事項として記録する。いこーよでは口コミ0件（募集中）であり、施設全体としての口コミ蓄積は楽天トラベル・じゃらんに比べるとサイトごとに差がある。安全・衛生上の重大な問題を示す言及は検索結果からは見当たらなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "ビジョングランピングリゾート&スパ山中湖 人気ホテル・旅館ランキング（甲信越・山梨県） - 楽天トラベル", "url": "https://travel.rakuten.co.jp/ranking/sales/premium/yamanashi/yamanakako_0007_0_0_0_0.html" },
+        { "type": "review_site", "title": "全室富士山ビュー ビジョングランピングリゾート山中湖 - じゃらんnet", "url": "https://www.jalan.net/yad396815/" },
+        { "type": "review_site", "title": "ビジョングランピングリゾート山中湖 レビュー（7件・4.4） - Relux", "url": "https://rlx.jp/26162/review/" },
+        { "type": "other", "title": "全室富士山ビュー ビジョングランピングリゾート山中湖 - 山梨県天然湖サウナ特集ページ（山梨県観光協会）", "url": "https://www.yamanashi-kankou.jp/yamanashi_shizensauna/about/shisetsu/visionglamping.html" },
+        { "type": "other", "title": "ビジョングランピングリゾート山中湖 2026年夏季タワーファン導入・ディナーリニューアルのお知らせ（適時開示PDF）", "url": "https://www.bridge-salon.jp/upload/tekiji_pdf/T~~94160~000000~1402~0~20260710~1530~20260710591405G.pdf" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-20-the-day-post-general-yamanakako",
+      "name": "ザ・デイ ポストジェネラル グランピングヴィレッジ山中湖",
+      "region": "山梨県南都留郡山中湖村",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "travelist", "score": 3.9, "scale": 5, "review_count": 17, "checked_date": "2026-10-20", "url": "https://travelist.jp/hotel/detail/7117392/" },
+        { "source": "jcation", "score": 4.1, "scale": 5, "review_count": 25, "checked_date": "2026-10-20", "url": "https://jcation.com/hotel/detail-21945/" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な宿泊料金はこのセッションのWebSearchでは確認できなかった。富士山の伏流水を使った共有の大きな岩風呂、7mドームテント（最大4名）等が特徴。じゃらんアワード2024受賞歴あり。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "富士山の伏流水を使った昔ながらの大きな共有『岩風呂』と、最大4名用の7mドームテントを組み合わせた施設。山中湖ICから車で約5分、バスタ新宿から約2時間というアクセスの良さも特徴。",
+      "target_audience": ["家族", "友人", "カップル"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 8,
+        "unique_experience_score": 12,
+        "photogenic": 9,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 58,
+      "recommendation_reason": "travelist（17件・3.9）とjcation（25件・4.1）の2情報源は確認できたが、travelistは原則6の4.0基準を下回り、かつ快適さの項目が2.5と低めだった。Yahoo!トラベルは口コミ5件のため規定件数に達せず総合点数非表示となっており、安定して4.0以上かつ十分な件数を確認できる状態ではない。岩風呂・ドームテントという特徴自体は一定の魅力だが、ビジョングランピングリゾートと比較すると独自性・評価の安定性の両面で見劣りするため不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "travelistの評価内訳で快適さ2.5という低めの数値が確認できた以外、具体的な低評価コメント本文はこのセッションのWebSearchでは取得できなかった。Yahoo!トラベルの口コミ件数（5件）が少なすぎる点も信頼性の留保事項。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "ザ デイ ポストジェネラル グランピングヴィレッジ 山中湖 - travelist（17件・3.9）", "url": "https://travelist.jp/hotel/detail/7117392/" },
+        { "type": "other", "title": "ザ・デイ ポストジェネラル グランピングヴィレッジ山中湖 - jcation（25件・4.1）", "url": "https://jcation.com/hotel/detail-21945/" },
+        { "type": "review_site", "title": "ザ・デイ ポストジェネラル グランピングヴィレッジ 山中湖 - じゃらんnet", "url": "https://www.jalan.net/yad365103/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイト評価（travelist 3.9）が原則6の4.0基準を下回り、快適さの項目評価も低めだったため、総合スコア58点で採用ライン（75点）に届かず不採用。"
+    }
+  ],
+  "excluded_insufficient_data": [
+    {
+      "name": "HIDEAWAY sunset camp（糸島・前原）",
+      "region": "福岡県糸島市前原",
+      "category": "グランピング",
+      "reason": "なっぷで4.6（28件）という高評価を確認し、砂浜近くの立地・薪焚きドラム缶風呂・サウナという独自性も魅力的だったが、複数回の検索でもじゃらん・楽天トラベル・Googleマップ・Tripadvisor等、第二の独立した数値評価サイトを確認できず、原則7（最低2種類以上の独立情報源）を満たせなかった。単一サイトのみの評価を正式な候補スコアとして採用することは避け、正式エントリとはせず除外した。じゃらん等での評価が今後確認できれば再調査の価値がある。"
+    },
+    {
+      "name": "唐泊VILLAGE",
+      "region": "福岡県糸島市",
+      "category": "グランピング",
+      "reason": "なっぷで4.4（24件）という基準超えの評価を確認したが、HIDEAWAY sunset campと同様に第二の独立した数値評価サイトをWebSearchで確認できず、原則7を満たさないため正式な候補エントリとはせず除外した。"
+    },
+    {
+      "name": "糸島グランピングヴィレッジ —地球MIRAI—",
+      "region": "福岡県糸島市",
+      "category": "グランピング",
+      "reason": "全4棟限定・全室オーシャンビューのドームテント、車3分の天然温泉無料入浴等の話題性はあるが、じゃらん・楽天トラベル・なっぷいずれの数値評価もWebSearchで確認できなかった。原則6・7を満たす根拠が得られず除外した。"
+    }
+  ]
+}

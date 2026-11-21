@@ -1,0 +1,142 @@
+{
+  "cycle_date": "2026-10-26",
+  "theme": "離島リゾート（東京都八丈島）の新規調査",
+  "season_rationale": "離島リゾートカテゴリは2026-10-20の佐渡・隠岐（隠岐Entô 82点selected）、2026-10-22の宮古島・対馬（シギラミラージュ81点selected／対馬は不採用）、2026-10-23の屋久島・甑島（Samana 77点selected／甑島は不採用）、2026-10-24の壱岐（平山旅館79点selected）、2026-10-25の礁文島（花れぶん等）と継続調査してきたが、東京都の伊豆諸島・八丈島は依頼により新規地域として着手した。八丈島は年間を通じ温暖な『常春の島』とされ、11月は台風シーズンを過ぎてアクセスが安定し始める時期であり、羽田から空路約55分という首都圏からの近さと、南国的な景観・温泉・フリージア等の花・くさや等の郷土食を併せ持つ『近くて南国』という独自ポジションを持つ地域として調査対象に選んだ。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-25-rebun-island-resort", "region": "北海道礁文島", "category": "離島リゾート", "note": "花れぶんが採用。八丈島とは別島・別エリアで重複なし。" },
+    { "post_id": "2026-10-24-iki-island-resort", "region": "長崎県壱岐島", "category": "離島リゾート", "note": "平山旅館が79点でselected。八丈島とは無関係。" },
+    { "post_id": "2026-10-23-yakushima-remote-island-resort-recheck", "region": "鹿児島県屋久島", "category": "離島リゾート", "note": "Samana Hotel Yakushimaが77点でselected。" },
+    { "post_id": "2026-10-23-koshikishima-remote-island-resort", "region": "鹿児島県甑島", "category": "離島リゾート", "note": "候補3件すべて不採用。" },
+    { "post_id": "2026-10-22-miyakojima-remote-island-resort-recheck2", "region": "沖縄県宮古島市下地島", "category": "離島リゾート", "note": "シギラミラージュが81点でselected。" },
+    { "post_id": "2026-10-22-tsushima-remote-island-resort", "region": "長崎県対馬市", "category": "離島リゾート", "note": "候補3件すべて不採用。" },
+    { "post_id": "2026-10-20-sado-oki-resort", "region": "新潟県佐渡島／島根県隠岐諸島", "category": "離島リゾート", "note": "隠岐のEntôが82点でselected。" }
+  ],
+  "duplication_note": "data/candidates・captions配下の全件（2026-09-14〜2026-10-25、1ヶ月以上前を含む）を『八丈』『はちじょう』『hachijo』で確認した結果、本サイクル以前に八丈島を対象とした候補・投稿は一件も存在せず、地域・施設とも完全に新規であることを確認した。離島リゾートカテゴリ自体は佐渡・隠岐・宮古島・対馬・屋久島・甑島・壱岐・礁文島と継続調査しているが、いずれも八丈島とは別の島であり重複にはあたらない。",
+  "candidates": [
+    {
+      "id": "2026-10-26-reed-park-resort-hachijojima",
+      "name": "リードパークリゾート八丈島",
+      "region": "東京都八丈町（三根地区、八丈島空港・底土港から車で約8分）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.3, "scale": 5, "review_count": 217, "checked_date": "2026-10-26", "url": "https://www.jalan.net/yad342149/kuchikomi/" },
+        { "source": "フォートラベル", "score": 3.71, "scale": 5, "review_count": 61, "checked_date": "2026-10-26", "url": "https://4travel.jp/dm_hotel-10041241" }
+      ],
+      "price_range_jpy": {
+        "note": "近畿日本ツーリスト系の宿泊情報では1泊2食付9,720円〜という表示があったが、別の予約サイト（Travelist）では大人1名1泊（素泊まり系ツイン・マウンテンビュー）16,000円〜、朝食付きプランで18,700円〜、JTB掲載では大人1名1泊7,700円〜25,300円という幅のある表示も確認した。cocolocala経由では15,958円〜という表示もあり、プラン・部屋タイプ・時期による差が大きい。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "太平洋を見渡せる展望露天風呂『うみかぜの湯』（地下1階、エレベーターなし、6:00〜9:00・16:00〜23:00営業）が自慢の離島リゾート。夏季は島寿司を含む50品以上が並ぶバイキング、それ以外の季節は懐石料理で、新鮮なジャージー牛乳を使ったミルク鍋が人気。八丈島空港・底土港から車で約8分、予約制の無料送迎あり、電動アシスト自転車のレンタルも利用できる。",
+      "renewal_or_news": "このセッションのWebSearchでは直近の大規模リニューアル発表は確認できなかったが、じゃらんで2026年7月宿泊、フォートラベルで2026年4月宿泊、cocolocalaで2026年7月投稿の口コミが継続して確認でき、現在も通常営業していることを確認した。",
+      "target_audience": ["カップル", "記念日", "夫婦", "絶景好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 12,
+        "unique_experience_score": 17,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 77,
+      "recommendation_reason": "じゃらんnet 4.3（217件）という信頼性の高い独立情報源で4.0以上を確認でき、フォートラベルは総合満足度3.71（61件）とやや低いが、同サイトの八丈島エリアランキングでは44件中1位とされ、項目別でも接客3.83・風呂3.83・食事3.60と安定して高く、総合値を下げているのはアクセス2.90・バリアフリー2.74という離島の地理的条件に起因する項目であり、施設運営の質を下げる要因ではない。太平洋を一望する展望露天風呂、夏季50品以上のバイキングや懐石、ジャージー牛乳のミルク鍋など『近くて南国』な八丈島らしい独自体験を複数持ち、写真映えする素材も揃っている。東京都の伊豆諸島は本リポジトリで一度も取り上げていない地域であり、Hidden Gemとして扱うのが適切と判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの2026年4月投稿（3.0点）では、浴場が温泉ではない点、周辺に飲食店・店舗が少ない点が指摘されていた。cocolocalaの2026年7月投稿（3.0点）では、建物自体は古いが清掃・浴場は良好とされる一方、客室に響くボイラー音が気になったという指摘があった。フォートラベルの項目別評価でもアクセス2.90・バリアフリー2.74が低く、離島ゆえの立地的な不便さが主因とみられる。衛生・安全上の重大な指摘が複数の独立情報源で一致して確認されたわけではなく、料理・接客・浴場自体への評価は一貫して高いため、disqualifying issueには該当しないと判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "リードパークリゾート八丈島 - じゃらんnet 口コミ（総合4.3・217件）", "url": "https://www.jalan.net/yad342149/kuchikomi/" },
+        { "type": "review_site", "title": "リードパークリゾート八丈島 - フォートラベル（満足度3.71・61件、八丈島1位）", "url": "https://4travel.jp/dm_hotel-10041241" },
+        { "type": "other", "title": "リードパークリゾート八丈島 - 近畿日本ツーリスト宿泊情報（うみかぜの湯・料金）", "url": "https://yado.knt.co.jp/st/S130220/" },
+        { "type": "other", "title": "リードパークリゾート八丈島 - cocolocala 口コミ", "url": "https://www.cocolocala.jp/hotels/7905" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-26-lodge-ocean-hachijojima",
+      "name": "ロッジ オーシャン",
+      "region": "東京都八丈町三根（八丈島空港から車で約5分、港から徒歩約7分）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.4, "scale": 5, "review_count": 141, "checked_date": "2026-10-26", "url": "https://www.jalan.net/yad318643/" },
+        { "source": "楽天トラベル", "score": 4.21, "scale": 5, "review_count": 193, "checked_date": "2026-10-26", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/44375" }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベルに夕食日替わり（刺身盛り合わせ・島寿司・くさや追加可）付きのエコノミープランがあるが、具体的な料金・部屋タイプごとの価格は検索では確定できなかった。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "地魚を使った夕食の評判が高い3つ星ホテル。事前予約で刺身盛り合わせ・島寿司・くさやを追加できる日替わり夕食プランがあり、朝食の評判も良好。空港から車で5分、港から徒歩7分という便利な立地。客室はシンプルな和室で清潔感があるが、施設・設備としての強い独自性（絶景・大浴場等）は限られる。",
+      "target_audience": ["グルメ旅", "一人旅", "家族"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 12,
+        "unique_experience_score": 13,
+        "photogenic": 9,
+        "value_for_price": 7,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 70,
+      "recommendation_reason": "じゃらん4.4（141件）・楽天トラベル4.21（193件）という2つの独立した情報源で4.0以上を満たし、口コミ件数・信頼性も十分。夕食の地魚料理と接客への評価が高く、アクセスも良好だが、絶景の大浴場や離島らしい独自の体験設備には乏しく、『まだ知られていない良さ』を一枚の投稿で伝える素材としてはリードパークリゾート八丈島に比べて弱いため、今回は見送りとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一部の口コミでは別館の浴室が共同である点、客室が簡素すぎると感じる声があった。食事・接客面での重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "ロッジ オーシャン - じゃらんnet（総合4.4・141件）", "url": "https://www.jalan.net/yad318643/" },
+        { "type": "booking_site", "title": "ロッジ オーシャン - 楽天トラベル（4.21・193件）", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/44375" },
+        { "type": "other", "title": "ロッジ オーシャン - cocolocala", "url": "https://www.cocolocala.jp/hotels/7903" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価自体は2独立情報源で4.0以上と良好だが、離島リゾートとしての独自性・写真映え要素（絶景・大浴場等）がリードパークリゾート八丈島に比べて弱く、総合スコア70点で採用ライン（75点）に届かない。"
+    },
+    {
+      "id": "2026-10-26-resort-ci-piros-hachijojima",
+      "name": "リゾート・シーピロス",
+      "region": "東京都八丈町三根（底土ビーチ徒歩1分、底土港から徒歩3分）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.3, "scale": 5, "review_count": 22, "checked_date": "2026-10-26", "url": "https://www.jalan.net/yad382740" },
+        { "source": "フォートラベル", "score": 3.43, "scale": 5, "review_count": 32, "checked_date": "2026-10-26", "url": "https://4travel.jp/dm_hotel-10061032" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な1泊料金は検索では確定できなかった。全28室、冷蔵庫・金庫・シャワーブース・洗浄便座付トイレ標準装備という設備情報のみ確認できた。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "バリ島から家具等を直接買い付けたという南国情緒あふれる内装が特徴の全28室のリゾート。客室は全て平屋建てで、戸建て風・長屋風があり、庭から直接部屋に入る『離れ』のような造り。島のメイン海水浴場『底土ビーチ』まで徒歩1分という好立地だが、口コミではオーシャンビューではないと指摘されている。",
+      "target_audience": ["カップル", "女子旅", "友人"],
+      "score_breakdown": {
+        "review_rating": 17,
+        "review_reliability": 8,
+        "unique_experience_score": 14,
+        "photogenic": 11,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 63,
+      "recommendation_reason": "バリ風の内装・平屋建ての離れという独自の雰囲気は写真映えする一方、じゃらん4.3は口コミ件数22件と少なく、フォートラベルは3.43（32件）と4.0未満。2つの独立情報源のうち1つしか4.0以上の基準を満たせず、かつ件数の少なさから信頼性も十分ではない。オーシャンビューではない点も口コミで複数指摘されており、総合スコア63点で採用ラインに届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "複数の口コミで、海沿いという立地の割にオーシャンビューではない点、写真と実際の印象が異なったという声が確認された。衛生・安全上の重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "リゾート・シーピロス - じゃらんnet（総合4.3・22件）", "url": "https://www.jalan.net/yad382740" },
+        { "type": "review_site", "title": "リゾート・シーピロス - フォートラベル（満足度3.43・32件）", "url": "https://4travel.jp/dm_hotel-10061032" },
+        { "type": "other", "title": "リゾート・シーピロス - icotto", "url": "https://icotto.jp/hotels/2675" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "フォートラベル3.43（32件）と主要レビューの一方が4.0未満で件数も少なく、独立2情報源での4.0以上確認ができないこと、オーシャンビューではないという指摘が複数あることから、総合スコア63点で採用ラインに届かない。"
+    }
+  ],
+  "cycle_conclusion": "東京都八丈島を対象に離島リゾートカテゴリで3件（リードパークリゾート八丈島、ロッジオーシャン、リゾート・シーピロス）を調査・採点した。リードパークリゾート八丈島は、じゃらん4.3（217件）という信頼性の高い独立情報源で4.0以上を確認し、フォートラベル3.71（61件・八丈島1位）も地理的条件以外の項目では高評価で、太平洋を一望する展望露天風呂『うみかぜの湯』と季節ごとの郷土料理という独自体験を持つため、77点でHidden Gemとしてselectedとした。ロッジオーシャンは口コミ評価自体は良好（じゃらん4.4・楽天4.21）だが独自性・映え要素に乏しく70点、リゾート・シーピロスはバリ風の内装という個性はあるが主要レビューで4.0以上を独立して確認できず63点で、いずれも見送りとした。captions/2026-10-26-reed-park-resort-hachijojima.jsonを新規作成する。"
+}

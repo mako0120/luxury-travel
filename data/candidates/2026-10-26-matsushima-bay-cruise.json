@@ -1,0 +1,87 @@
+{
+  "cycle_date": "2026-10-26",
+  "theme": "列車・船カテゴリ（リサーチ＋キャプションのみ、画像構成なし）— 再調査1回目。別地域・別テーマで未出の列車・船を1件選定して調査",
+  "season_rationale": "10月下旬〜11月は松島湾の紅葉が進む時期（例年11月中旬が見頃）で、湾内の松と紅葉のコントラストを海上から楽しめる絶景需要が高まるタイミング。日本三景の一つという知名度の高さと、冬に向けた澄んだ空気の中での絶景体験として情報提供価値がある。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-14-scenic-train", "region": "京都府（嵯峨野）・富山県（黒部峡谷）", "category": "列車・船" },
+    { "post_id": "2026-09-18-kyushu-train", "region": "大分県・熊本県（JR九州 D&S列車群）", "category": "列車・船" },
+    { "post_id": "2026-09-22-setouchi-cruise", "region": "広島県・瀬戸内海（guntû）", "category": "列車・船" },
+    { "post_id": "2026-10-17-gunkanjima-cruise", "region": "長崎県長崎市（軍艦島）", "category": "列車・船" },
+    { "post_id": "2026-10-18-kurobe-gorge-torokko", "region": "富山県黒部市", "category": "列車・船" },
+    { "post_id": "2026-10-19-hisatsu-orange-railway", "region": "熊本県〜鹿児島県", "category": "列車・船" },
+    { "post_id": "2026-10-20-kumagawa-railway", "region": "熊本県人吉市〜球磨郡", "category": "列車・船" },
+    { "post_id": "2026-10-20-oigawa-sl-train", "region": "静岡県島田市", "category": "列車・船" },
+    { "post_id": "2026-10-21-iyonada-monogatari", "region": "愛媛県", "category": "列車・船" },
+    { "post_id": "2026-10-21-tango-kuromatsugo", "region": "京都府北部", "category": "列車・船" },
+    { "post_id": "2026-10-22-kawasemi-yamasemi", "region": "熊本県（豊肥本線）", "category": "列車・船" },
+    { "post_id": "2026-10-23-hokkaido-kanko-ressha", "region": "北海道", "category": "列車・船" },
+    { "post_id": "2026-10-23-setouchi-cruise-sanjyu-plus3", "region": "広島県・愛媛県（瀬戸内海）", "category": "列車・船" },
+    { "post_id": "2026-10-24-geibikei-funakudari", "region": "岩手県一関市", "category": "列車・船" },
+    { "post_id": "2026-10-24-the-royal-express-izu", "region": "静岡県伊豆（伊豆急行）", "category": "列車・船" },
+    { "post_id": "2026-10-25-tokyo-bay-cruise", "region": "東京都・神奈川県（東京湾）", "category": "列車・船" },
+    { "post_id": "2026-10-26-fujikyu-sightseeing-trains", "region": "山梨県（富士急行線）", "category": "列車・船" }
+  ],
+  "duplication_note": "既存の『列車・船』候補（嵯峨野トロッコ・黒部峡谷鉄道・大井川鐵道SL・伊予灘ものがたり・guntû・軍艦島クルーズ・SLニセコ号等北海道観光列車群・富良野美瑛ノロッコ号・猊鼻渓舟下り・東京湾クルーズ（シンフォニー等）・THE ROYAL EXPRESS・くま川鉄道・肥薩おれんじ鉄道・丹後くろまつ号・かわせみやませみ・ふたつ星4047・36ぷらす3・四国まんなか千年ものがたり・TWILIGHT EXPRESS瑞風・瀬戸内海の各観光船・富士急行線の観光列車等）には、宮城県・松島湾の遊覧船は一度も登場していないことを確認した。東北地方の『列車・船』カテゴリ候補も過去に登録がなく、地域（宮城・松島湾）・事業者（松島島巡り観光船企業組合）ともに完全新規。",
+  "candidates": [
+    {
+      "id": "2026-10-26-matsushima-shimameguri-kankosen",
+      "name": "松島島巡り観光船（仁王丸コース）",
+      "region": "宮城県宮城郡松島町（松島海岸・松島湾／日本三景）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらんnet（松島島巡り観光船 クチコミ一覧）",
+          "score": 4.1,
+          "scale": 5,
+          "review_count": 2003,
+          "checked_date": "2026-10-26",
+          "url": "https://www.jalan.net/kankou/spt_04401ee4610068847/kuchikomi/"
+        },
+        {
+          "source": "4travel.jp（フォートラベル／松島島巡り観光船 クチコミ・アクセス・周辺情報）",
+          "score": 3.83,
+          "scale": 5,
+          "review_count": 146,
+          "checked_date": "2026-10-26",
+          "url": "https://4travel.jp/dm_shisetsu/10000802"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "定番の仁王丸コース（周遊約50分）は大人1,500円・小人750円、2階グリーン室は大人2,100円・小人1,050円という情報が複数の旅行ガイド（まっぷる・るるぶ）で一致。運航時間は9:00〜16:00を基本に、11月〜3月中旬は最終便が早まる（15:00台）との情報があるが、サイトにより便数・時間の記載に差があり、公式サイトへの直接アクセスでは確認できなかった。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する。制作前に運航会社（松島島巡り観光船企業組合、案内電話022-354-2233）または公式サイトで最新の料金・運航時間・便数を再確認すること。"
+      },
+      "unique_experience": "日本三景の一つ・松島湾に浮かぶ260余りの島々を約50分の大型遊覧船で周遊し、仁王島・鐘島など特徴的な奇岩や養殖いかだの風景をガイドの解説つきで間近に眺められる定番クルーズ。1972年創業の企業組合が運航し、通年（荒天時を除き）運航している。",
+      "renewal_or_news": "2026年10月時点でじゃらん・4travelともに直近の口コミ投稿が継続的に確認でき、通常運航が継続していることを確認した。紅葉シーズン（例年11月中旬が見頃）に向けて、松の緑と紅葉のコントラストを海上から楽しめる時期が近づいている。",
+      "target_audience": ["家族", "友人", "絶景好き", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 13,
+        "unique_experience_score": 13,
+        "photogenic": 13,
+        "value_for_price": 8,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 77,
+      "recommendation_reason": "じゃらんnetの口コミ評価4.1（約2,000件、満足+やや満足で約83%）と、サンプル数が少なめな4travel.jpの3.83（146件）という2つの独立情報源を確認し、主要かつ大規模なじゃらんの評価で4.0以上を満たした。日本三景の一つである松島湾を約50分・1,500円程度という手頃な価格で周遊でき、仁王島・鐘島などの奇岩と湾内の景観を船上から一望できる点が強み。JR仙石線松島海岸駅から徒歩圏内でアクセスも良好。紅葉シーズンに向けた情報提供タイミングとしても適している。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "じゃらんnetの満足度分布ではやや不満3%・不満1%で合計4%と少数。口コミでは『平日でも混雑する』『良い席（窓側・デッキ）を取るには早めに並ぶ必要がある』といった混雑関連の指摘が複数見られたが、サービス自体への否定的評価ではない。安全面では、東北運輸局の記録により、2016年に同組合運航の別船（マリンスター）が暗岩への接触でプロペラ翼を損傷した事案、2020年に『仁王丸』がプロペラに漂流物を絡ませ片舷のみで運航を継続した事案（いずれも乗客にけがはなし）が確認でき、2021年には運輸局から運航阻害事象も含めた前広な報告を求める行政指導が出されている。いずれも重大事故ではなく、運航は現在も継続しており、直近（2024年）の警告事例は別会社（丸文松島汽船）のものであることも確認した。なお本検索では2024年以降の同組合に対する追加の行政処分等は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "輸送の安全の確保に関する指導（松島島巡り観光船企業組合）- 東北運輸局", "url": "https://wwwtb.mlit.go.jp/tohoku/content/000331331.pdf" },
+        { "type": "review_site", "title": "松島島巡り観光船のクチコミ一覧 - じゃらんnet", "url": "https://www.jalan.net/kankou/spt_04401ee4610068847/kuchikomi/" },
+        { "type": "review_site", "title": "松島島巡り観光船 クチコミ・アクセス・周辺情報｜松島・奥松島 - フォートラベル(4travel)", "url": "https://4travel.jp/dm_shisetsu/10000802" },
+        { "type": "review_site", "title": "松島島巡り観光船の口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g319095-d1386257-r618129526-Matsushima_Shimameguri_Kankosen-Matsushima_machi_Miyagi_gun_Miyagi_Prefecture_To.html" },
+        { "type": "other", "title": "日本三景 松島：遊覧船から島々の絶景を眺める - nippon.com", "url": "https://www.nippon.com/ja/guide-to-japan/gu900004/" },
+        { "type": "other", "title": "松島島巡り観光船 まつしましまめぐりかんこうせん スポット - るるぶ&more", "url": "https://rurubu.jp/andmore/spot/80003790" }
+      ],
+      "decision": "selected",
+      "rejection_reason": ""
+    }
+  ],
+  "conclusion": "『列車・船』カテゴリの再調査（1回目）として、既出の候補と重複しない宮城県・松島湾の遊覧船『松島島巡り観光船（仁王丸コース）』を新規に選定し、WebSearchで4件以上（じゃらんnet・4travel.jp・トリップアドバイザー・東北運輸局・nippon.com・るるぶ）を調査した。じゃらんnet 4.1（約2,000件）・4travel 3.83（146件）という独立2情報源の数値評価を確認し、主要かつ大規模なじゃらんの評価で原則6・7が求める4.0以上を満たしたため score=77（review_rating20/review_reliability13/unique_experience_score13/photogenic13/value_for_price8/sns_buzz6/access_and_freshness4）でdecision: selectedとした。ネガティブレビュー確認では混雑に関する指摘と、2016年・2020年の軽微な船舶事故（けが人なし、行政指導で対応済み）を確認したが、いずれも制作除外に該当する重大な欠格事由ではないと判断した。これにより『列車・船』カテゴリの再調査は上限（1回）に達したため終了する。"
+}

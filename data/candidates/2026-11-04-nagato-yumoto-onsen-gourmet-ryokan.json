@@ -1,0 +1,239 @@
+{
+  "cycle_date": "2026-11-04",
+  "theme": "グルメ旅館（山口県長門市・長門湯本温泉）",
+  "season_rationale": "長門湯本温泉は山口県最古とされる歴史ある温泉地で、音信川沿いの温泉街再生（2020年前後の街並み整備）により近年再注目されている。11月は河豚（ふぐ）や甘鯛など日本海・下関近郊の冬の味覚が旬を迎え始める時期で、会席料理を主役とする「グルメ旅館」の訴求軸（料理）が季節的に最も説得力を持つタイミングにあたる。また紅葉も見頃を迎え、音信川沿いの散策・温泉街そぞろ歩きとの組み合わせでも訴求しやすい。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-10-21-yuda-onsen-gourmet-ryokan", "region": "山口県山口市湯田温泉", "category": "グルメ旅館" },
+    { "candidate_id": "2026-10-26-hagi-jokamachi-bunka-taiken", "region": "山口県萩市堀内（萩城下町）", "category": "文化体験" },
+    { "candidate_id": "2026-10-26-redondo-akiyoshidai-glamping", "region": "山口県美祢市秋芳町（秋吉台エリア）", "category": "グランピング" },
+    { "candidate_id": "2026-10-28-nishinagato-resort-tsunoshima", "region": "山口県下関市豊北町（角島大橋周辺）", "category": "絶景ホテル" }
+  ],
+  "duplication_note": "data/candidates・captions全件（2026-09-14〜2026-11-01分、1ヶ月以上前の分も含む）を『長門』『湯本』『山口』『nagato』『yumoto』で横断検索した。山口県を扱った既存候補は、山口市湯田温泉（グルメ旅館）、萩市堀内（文化体験）、美祢市秋芳町（グランピング）、下関市角島（絶景ホテル）の4件のみで、いずれも長門市・長門湯本温泉とは異なるエリア。『山口県下関市豊北町』の候補ファイル名に『長門』の文字列を含むため検索結果にヒットしたが、これは下関市角島エリアの絶景ホテル候補であり、長門市・長門湯本温泉のグルメ旅館とは地域・カテゴリともに重複しない。長門市・長門湯本温泉×グルメ旅館の組み合わせは本サイクルが初出。",
+  "research_note": "長門湯本温泉のグルメ旅館候補としてWebSearchで3件を調査した：(1)星野リゾート 界 長門、(2)長門湯本温泉 楊貴妃浪漫の宿 玉仙閣、(3)せせらぎ亭 しぇふず。このクラウドセッションのネットワーク環境では travel.rakuten.co.jp・jp.hotels.com・skyticket.jp 等へのWebFetchがいずれもENOTFOUND（DNS解決不可、ネットワーク許可リスト外）となったため、数値評価・事実情報はWebSearchが返す検索結果の要約・引用スニペット経由で取得できた範囲に限定されている。また調査の途中でこのセッション（他のエージェントと共有）のWebSearch利用回数の上限に達したため、玉仙閣の2つ目の独立した数値評価源（じゃらん・楽天トラベル本体）の確認と、玉仙閣公式サイトの創業経緯・女将の思い等の追加調査を完了できなかった。星野リゾート 界 長門はSkyticket（4.5〜4.7/5、456〜586件、閲覧タイミングにより数値差あり）とExpedia（9.4/10＝5点換算4.7相当、30件）という2つの独立した予約サイトで推奨ライン（4.0以上）を満たし、『藩主の御茶屋屋敷』という独自性の高いコンセプトと、ふぐ料理・ひれ酒など地元食材を使った会席、山口県の伝統工芸を取り入れた客室（ご当地部屋）という『グルメ旅館』として説得力のある独自体験が確認できたため選定した。玉仙閣はSkyticketで4.1/5（309件）という一定の評価を得ており、フグの溶岩焼きコースなど料理面の独自性も確認できたが、WebSearch予算切れにより原則7が求める2つ目の独立した数値評価源（じゃらん・楽天トラベル等の直接確認）を本サイクルでは検証しきれず、確度不足のため今回は選定を保留（rejected）とした。せせらぎ亭しぇふずは客室ごとの源泉かけ流し内湯と日本海の魚介料理という独自性はあるが、確認できた口コミが4travel上の投稿1件（4.0）のみで、主要予約サイトでの数値評価・件数の裏付けを一件も確認できなかったため、原則7を満たせず不採用とした。",
+  "candidates": [
+    {
+      "id": "2026-11-04-kai-nagato",
+      "name": "星野リゾート 界 長門",
+      "region": "山口県長門市深川湯本（長門湯本温泉、音信川にかかる曙橋のたもと。JR長門湯本駅から徒歩約15分）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Skyticket（施設ページ／山口県長門湯本温泉エリアページ、閲覧タイミングにより4.5〜4.7で表示差あり）",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 586,
+          "checked_date": "2026-11-04",
+          "url": "https://skyticket.jp/hotel/detail/property_1109715/"
+        },
+        {
+          "source": "Expedia（台湾語版ホテル情報ページ掲載の評価）",
+          "score": 9.4,
+          "scale": 10,
+          "review_count": 30,
+          "checked_date": "2026-11-04",
+          "url": "https://www.expedia.com.tw/en/Nagato-Hotels-Hoshino-Resorts-KAI-Nagato.h41964023.Hotel-Information"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付・2名1室利用時の目安で2万円台〜（gltjp.com等の施設紹介記事ベース）。具体的な料金はプラン・季節により変動するため予約直前に公式サイトで要確認。",
+        "as_of_search_date": "2026-11-04",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "山口藩主の『御茶屋屋敷』をテーマにした全40室のご当地部屋。音信川沿いの温泉街にあり、客室には赤間硯など山口県の伝統工芸品を取り入れている。夕食にはふぐとひれ酒など日本海・地元食材を使った会席料理が提供され、滞在中に地域の文化を体験できる『ご当地楽』プログラムが用意されている。",
+      "renewal_or_news": "2020年3月12日開業。長門湯本温泉地区で地域・民間・公共が連携して進めた温泉街再生プロジェクト（音信川沿いの歩行者空間整備等）の一環としてオープンした施設で、2026年11月時点で開業から約6年。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "ホテル好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 3
+      },
+      "score": 81,
+      "recommendation_reason": "『藩主の御茶屋屋敷』という長門湯本温泉ならではの歴史的テーマ性を持つコンセプトと、ふぐ・ひれ酒など日本海の地元食材を使った会席料理という『グルメ旅館』として説得力のある独自体験を備える。Skyticket・Expediaという2つの独立した予約サイトでいずれも4.0（5点換算）を上回る高評価が確認でき、星野リゾート『界』ブランドとしての知名度・話題性もある。音信川沿いの温泉街整備とあわせて紹介することで、単なる有名温泉旅館紹介ではなく『地域再生とともに生まれた宿』という文脈を伝えられる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "『界 長門 口コミ 悪い／期待外れ』等で検索したが、施設全体に関する系統的な低評価や重大な不満の記載は確認できなかった。確認できた個別口コミ（icotto掲載、2024年12月投稿、評価3.5）は、藩主の茶屋をテーマにした客室やふぐ・ひれ酒を気に入ったという好意的な内容が中心で、否定的な指摘は見当たらなかった。なお本セッションではjalan.net・travel.rakuten.co.jp・Googleマップ・TripadvisorへのWebFetchがネットワーク制限（ENOTFOUND）で直接確認できず、WebSearchのスニペット経由の確認に限定される。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "press",
+          "title": "「星野リゾート 界 長門」2020年3月12日開業のお知らせ〜テーマは武家文化を生かした「御茶屋屋敷」〜",
+          "url": "https://www.atpress.ne.jp/news/194818"
+        },
+        {
+          "type": "press",
+          "title": "「星野リゾート 界 長門」開業発表プレスリリース（転載）",
+          "url": "https://san-tatsu.jp/pressrelease/506794/"
+        },
+        {
+          "type": "other",
+          "title": "Impress Watch トラベル 界 長門 取材記事",
+          "url": "https://travel.watch.impress.co.jp/docs/news/1146580.html"
+        },
+        {
+          "type": "booking_site",
+          "title": "Skyticket 星野リゾート 界 長門 施設ページ",
+          "url": "https://skyticket.jp/hotel/detail/property_1109715/"
+        },
+        {
+          "type": "booking_site",
+          "title": "Expedia（台湾語版） Hoshino Resorts KAI Nagato",
+          "url": "https://www.expedia.com.tw/en/Nagato-Hotels-Hoshino-Resorts-KAI-Nagato.h41964023.Hotel-Information"
+        },
+        {
+          "type": "review_site",
+          "title": "icotto 界 長門 口コミ",
+          "url": "https://icotto.jp/hotels/11258"
+        }
+      ],
+      "decision": "selected",
+      "creator_story": {
+        "text": "開業時のプレスリリース（2020年3月、アットプレス配信）によると、『星野リゾート 界 長門』のコンセプトは山口藩主の『御茶屋屋敷』で、江戸時代の武家文化を現代的な温泉旅館として体現することがテーマとされている。ロビーや客室には山口県の伝統工芸品（赤間硯など）があしらわれ、フロントの意匠には波をモチーフにした装飾が使われていることも確認できた。また、本施設の開業は長門湯本温泉地区で地域・民間・公共が連携して進めた『温泉街そぞろ歩き』をコンセプトとする温泉街再生プロジェクトの一環であることもプレスリリース・取材記事（Impress Watch）から確認できた。一方で、この『御茶屋屋敷』というテーマ・デザインを具体的に誰（建築家・デザイナー個人）が手がけたのか、運営会社・星野リゾート側の個人（支配人・プロジェクト担当者等）が開業にどのような思いを込めたかについては、本セッションのWebSearchの範囲では一次情報（インタビュー記事、設計者名を明記した記事等）を見つけられなかった。したがって、施設・ブランドとしてのコンセプトは公式発表で確認できたが、個人としての設計者・開業担当者の『思い』については『確認できなかった』ことをここに明記する。本文中にこれらについての推測やインタビュー発言の創作は行っていない。制作レーンに引き継ぐ際は、星野リゾート公式サイトのプレスルームや『界』ブランドの設計を手がけることが知られる建築事務所（例：東環境・建築研究所等）への言及が本施設にも当てはまるかどうかを、公式サイトにアクセス可能な環境で再調査することを推奨する。",
+        "sources": [
+          {
+            "type": "press",
+            "title": "「星野リゾート 界 長門」2020年3月12日開業のお知らせ〜テーマは武家文化を生かした「御茶屋屋敷」〜",
+            "url": "https://www.atpress.ne.jp/news/194818"
+          },
+          {
+            "type": "other",
+            "title": "Impress Watch トラベル 界 長門 取材記事",
+            "url": "https://travel.watch.impress.co.jp/docs/news/1146580.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-04-gyokusenkaku-nagato-yumoto",
+      "name": "長門湯本温泉 楊貴妃浪漫の宿 玉仙閣",
+      "region": "山口県長門市深川湯本1234（長門湯本温泉、JR長門湯本駅から徒歩約7分、送迎あり・要予約）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Skyticket（長門湯本温泉エリアページ掲載の評価）",
+          "score": 4.1,
+          "scale": 5,
+          "review_count": 309,
+          "checked_date": "2026-11-04",
+          "url": "https://skyticket.jp/hotel/japan/onsen/nagatoyumoto_onsen/"
+        },
+        {
+          "source": "ニフティ温泉（口コミ件数が少なく参考値）",
+          "score": 3.0,
+          "scale": 5,
+          "review_count": 2,
+          "checked_date": "2026-11-04",
+          "url": "https://onsen.nifty.com/nagato-onsen/onsen003847/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "cocolocala.jp掲載情報では2名1泊（税・サービス料込）で22,233円〜との表示が確認できた。公式プランとは異なる可能性があるため予約直前に公式サイトで要確認。",
+        "as_of_search_date": "2026-11-04",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "楊貴妃伝説をテーマにした館内と、深さ120cmで立ったまま入る『貴妃湯』など源泉100%かけ流しの個性的な温泉が特徴。料理は特選和牛の溶岩焼きやふぐのコース料理など地元食材を使った会席が提供される。",
+      "renewal_or_news": "2024年に食事会場と客室4室をリノベーションしたとの口コミ記載が確認できた（一次情報での公式発表日時は未確認）。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 8,
+        "unique_experience_score": 16,
+        "photogenic": 10,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 67,
+      "recommendation_reason": "楊貴妃伝説をテーマにした独自の温泉（貴妃湯）とふぐ・和牛の溶岩焼きなど料理面の独自性は『グルメ旅館』として説得力があり、Skyticketでは4.1/5（309件）と一定の評価を得ている。ただし本サイクルではWebSearch予算の制約により原則7が求める2つ目の独立した数値評価源（じゃらん・楽天トラベル本体等の直接確認）を検証しきれず、確度不足のため今回は選定を保留する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "『玉仙閣 口コミ 悪い／残念』等で検索したが、具体的な低評価・否定的な口コミ本文は見つからなかった。ニフティ温泉の3.0（2件）は件数が少なすぎて参考程度。深さ120cmで立ったまま入る浴槽という構造は施設側の説明であり、好みが分かれる可能性はあるが不満口コミとして確認されたものではない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "Skyticket 長門湯本温泉エリアページ（玉仙閣掲載）",
+          "url": "https://skyticket.jp/hotel/japan/onsen/nagatoyumoto_onsen/"
+        },
+        {
+          "type": "review_site",
+          "title": "ニフティ温泉 玉仙閣 口コミ",
+          "url": "https://onsen.nifty.com/nagato-onsen/onsen003847/"
+        },
+        {
+          "type": "review_site",
+          "title": "icotto 長門湯本温泉 楊貴妃浪漫の宿 玉仙閣",
+          "url": "https://icotto.jp/hotels/943"
+        },
+        {
+          "type": "other",
+          "title": "cocolocala 玉仙閣 料金・口コミ",
+          "url": "https://www.cocolocala.jp/hotels/22093"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "Skyticketでの評価（4.1/5、309件）自体は推奨ラインを満たすが、原則7が求める『独立した2件以上の数値評価源』のうち信頼できる2つ目（じゃらん・楽天トラベル本体の直接確認等）を、本サイクルのWebSearch予算の制約（セッション共有の利用上限）により検証しきれなかった。ネットワーク制限によりjalan.net・travel.rakuten.co.jpへの直接WebFetchもENOTFOUNDで実行不能だった。確度不足のため今回は制作対象として確定せず、次サイクル以降で主要予約サイトを直接確認したうえで再評価することを推奨する。"
+    },
+    {
+      "id": "2026-11-04-sesseragitei-chefs-nagato-yumoto",
+      "name": "せせらぎ亭 しぇふず",
+      "region": "山口県長門市深川湯本2479-3（長門湯本温泉）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "4travel（口コミ投稿1件のみ、参考値）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-11-04",
+          "url": "https://4travel.jp/dm_hotel-11762683/tips"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "本セッションのWebSearchでは具体的な料金情報を確認できなかった。公式サイト・予約サイトで要確認。",
+        "as_of_search_date": "2026-11-04",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全16室に源泉かけ流しの内湯を備えた客室風呂と、日本海の魚介を使った料理が自慢とされる旅館。2019年の口コミでは『料理に力を入れた別邸』と紹介されている。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 14,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 32,
+      "recommendation_reason": "全室源泉かけ流しの客室風呂と日本海の魚介料理という独自性はあるが、確認できた口コミが4travel上の投稿1件（4.0）のみで、主要予約サイト（じゃらん・楽天トラベル等）での数値評価・件数の裏付けを一件も確認できなかった。原則7（独立した複数の数値評価源の確認）を満たせないため、review_rating・review_reliabilityは保守的に0点とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "低評価・否定的な口コミは検索範囲では見つからなかったが、そもそも確認できた口コミ件数自体が極端に少なく（1件）、評価の信頼性を判断できる材料がない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "4travel せせらぎ亭しぇふず 口コミ",
+          "url": "https://4travel.jp/dm_hotel-11762683/tips"
+        },
+        {
+          "type": "other",
+          "title": "cocolocala せせらぎ亭しぇふず 施設情報",
+          "url": "https://www.cocolocala.jp/hotels/22099"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミが4travel上の投稿1件（4.0）のみで、主要予約サイトでの数値評価・件数を一件も確認できなかったため、原則7（独立した複数の数値評価源の確認）を満たせず不採用とした。"
+    }
+  ]
+}

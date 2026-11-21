@@ -1,0 +1,155 @@
+{
+  "cycle_date": "2026-10-28",
+  "theme": "離島リゾート（鹿児島県薩摩川内市・甑島列島）の再調査（本日の伊平屋島調査が該当なしだったための別地域再調査枠）",
+  "season_rationale": "本日の離島リゾート枠は当初、沖縄県伊平屋村・伊平屋島を調査したが、候補3件（ホテルにしえ・松金ホテル・てるしのハイツ）すべて不採用（data/candidates/2026-10-28-iheya-remote-island-resort.json）だったため、同じ再調査枠で別地域として鹿児島県薩摩川内市・甑島列島を対象に再調査した。甑島列島は2026-10-23サイクル（data/candidates/2026-10-23-koshikishima-remote-island-resort.json）で一度本格調査済みで、島内の主要宿泊施設3件（ホテルこしきしま親和館・リゾートホテル甑島館・HOTEL AreaOne Koshiki Island）いずれも採用ライン（75点）に届かず『selected候補なし』という結論だったが、5日が経過しているため(1)新規候補（一棟貸し・古民家宿・グランピング等）が出現していないか、(2)前回『国内主要サイトでの評価蓄積状況を優先的に確認するのが有効』と明記されたHOTEL AreaOne Koshiki Islandの楽天トラベル・じゃらん等の口コミ蓄積に変化がないか、を中心に本日時点の情報で再確認した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-28-iheya-remote-island-resort", "region": "沖縄県島尻郡伊平屋村・伊平屋島", "category": "離島リゾート", "note": "本日1件目の調査。候補3件すべて不採用のため、同日の再調査枠として甑島列島に着手。" },
+    { "post_id": "2026-10-28-ginzan-onsen-notoya", "region": "山形県尾花沢市（銀山温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-10-28-nichinan-glamping", "region": "宮崎県日南市", "category": "グランピング" },
+    { "post_id": "2026-10-28-okuhida-hirayu-gourmet-ryokan", "region": "岐阜県高山市（奥飛騨温泉郷平湯）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-23-koshikishima-remote-island-resort", "region": "鹿児島県薩摩川内市（甑島列島）", "category": "離島リゾート", "note": "本サイクルの直接の再調査対象。前回は3件（親和館49点・甑島館37点・AreaOne Koshiki Island 53点）すべて不採用で『selected候補なし』。" },
+    { "post_id": "2026-10-27-awashima-remote-island-resort", "region": "新潟県岩船郡粟島浦村・粟島", "category": "離島リゾート", "note": "候補3件すべて不採用。甑島とは無関係の別地域。" },
+    { "post_id": "2026-10-27-niijima-remote-island-resort", "region": "東京都新島村・新島", "category": "離島リゾート", "note": "甑島とは無関係の別地域。" },
+    { "post_id": "2026-10-26-hachijojima-remote-island-resort", "region": "東京都八丈島", "category": "離島リゾート", "note": "リードパークリゾート八丈島が77点でselected。甑島とは無関係。" },
+    { "post_id": "2026-10-25-rebun-island-resort", "region": "北海道礁文島", "category": "離島リゾート", "note": "花れぶんが採用。甑島とは無関係。" },
+    { "post_id": "2026-10-24-iki-island-resort", "region": "長崎県壱岐島", "category": "離島リゾート", "note": "平山旅館が79点でselected。甑島とは無関係。" },
+    { "post_id": "2026-10-23-yakushima-remote-island-resort-recheck", "region": "鹿児島県屋久島", "category": "離島リゾート", "note": "Samana Hotel Yakushimaが77点でselected。甑島とは別の鹿児島県離島。" },
+    { "post_id": "2026-10-22-miyakojima-remote-island-resort-recheck2", "region": "沖縄県宮古島市", "category": "離島リゾート", "note": "シギラミラージュが81点でselected。甑島とは無関係。" },
+    { "post_id": "2026-10-22-tsushima-remote-island-resort", "region": "長崎県対馬市", "category": "離島リゾート", "note": "候補3件すべて不採用。甑島と同様『大型リゾートが存在しない小規模離島』パターン。" },
+    { "post_id": "2026-10-20-sado-oki-resort", "region": "新潟県佐渡島／島根県隠岐諸島", "category": "離島リゾート", "note": "隠岐のEntôが82点でselected。甑島とは無関係。" }
+  ],
+  "duplication_note": "data/candidates・captions配下の全件（2026-09-14〜2026-10-28、1ヶ月以上前を含む）を『甑島』『こしきしま』『koshiki』『薩摩川内』で検索・確認した結果、該当するのは2026-10-23サイクル（data/candidates/2026-10-23-koshikishima-remote-island-resort.json）のみで、甑島列島を対象とした採用済み候補・captions投稿は存在しないことを確認した。本サイクルは同一地域・同一カテゴリの『再調査』であり、既に不採用と判定済みの3施設（ホテルこしきしま親和館・リゾートホテル甑島館・HOTEL AreaOne Koshiki Island）そのものを漫然と再採点するのではなく、(a) 前回調査時点では存在しなかった／見落としていた新規候補（一棟貸し・古民家宿・グランピング等）の有無、(b) 前回『今後確認すべき』と明記したAreaOne Koshiki Islandの国内主要レビューサイトでの評価蓄積状況、の2点を主眼に本日時点の最新情報で検証した。新規候補は確認できなかったため、既存3施設を本日時点の情報で再評価し、score・decisionの変化（特にAreaOne Koshiki Island）を記録する。",
+  "pre_check": "新規候補の有無を確認するため、本日『甑島 一棟貸し 宿泊 高級』『甑島 グランピング 宿泊施設』『甑島 新 宿泊施設 2026 オープン』『鹿児島 甑島 古民家 宿 ブティックホテル』でWebSearchを実施したが、甑島列島に一棟貸し別荘・グランピング施設・古民家ブティックホテル・2025〜2026年の新規開業施設が存在するという情報は確認できなかった。薩摩川内市の広報資料に『東シナ海の小さな島ブランド株式会社』が古民家・公共施設を改修した『コシキテラス』（旧中甑港の地域活性化施設）の存在が示唆されたが、宿泊施設として営業しているかどうかは確認できなかったため、候補として採点対象には加えなかった（今後の確認課題）。したがって本サイクルも前回同様、島内の宿泊選択肢は親和館・甑島館・AreaOne Koshiki Islandの3施設が中心という前提で再評価を行った。",
+  "candidates": [
+    {
+      "id": "2026-10-28-hotel-areaone-koshiki-island-recheck",
+      "name": "HOTEL AreaOne Koshiki Island",
+      "region": "鹿児島県薩摩川内市里町里1619-15（上甑島・里港ターミナル前）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.26, "scale": 5, "review_count": 136, "checked_date": "2026-10-28", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/179036" },
+        { "source": "Skyticket（口コミ集計）", "score": 4.2, "scale": 5, "review_count": 97, "checked_date": "2026-10-28", "url": "https://skyticket.jp/hotel/detail/property_1172336/" },
+        { "source": "食べログ", "score": 3.07, "scale": 5, "review_count": 7, "checked_date": "2026-10-28", "url": "https://tabelog.com/kagoshima/A4602/A460201/46014456/dtlrvwlst/" },
+        { "source": "Expedia", "score": 9.0, "scale": 10, "review_count": 3, "checked_date": "2026-10-23", "url": "https://www.expedia.com/es/Satsumasendai-Hoteles-HOTELAreaOneKoshikiIsland.h45743676.Informacion-Hotel" }
+      ],
+      "price_range_jpy": {
+        "note": "情報源間で幅がある。JTB掲載では上甑島内最安が大人1名6,300円〜、travelist等ではセミダブル1名利用8,700円〜、公式予約システム（489ban）では和室6畳1名1室14,350円〜・ファミリーツイン16,350円〜（いずれも税込・素泊まり想定、部屋タイプ・時期により変動）。2食付き時の具体額はこのセッションのWebSearchでは確定できなかった。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "里港ターミナルの目の前という立地で、甑島唯一の自家源泉100%天然温泉（塩化物泉・炭酸水素塩泉）の大浴場・サウナ・露天風呂を利用できる。全国展開する『AreaOne』ブランドの甑島店で、ビジネスホテルや民宿が中心の島内では相対的に新しく個性的な選択肢。朝食は地魚の海鮮丼を含むバイキング。",
+      "renewal_or_news": "2026-10-23サイクル時点では国内主要レビューサイトでの数値評価が確認できず『国内情報源での評価裏取りができない』ことを理由に不採用としていたが、本日の再調査で楽天トラベルに4.26（136件）という規模の大きい評価が蓄積されていることを新たに確認した。Skyticket集計4.2（97件）とも概ね整合し、国内の評価基盤自体は前回想定より厚いことが判明した。一方で食べログは3.07（7件）と低めで、Trip.comの2025年10月投稿には『設備の経年劣化、もう少し手入れが必要』という指摘もあった。",
+      "target_audience": ["一人旅", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 17,
+        "review_reliability": 10,
+        "unique_experience_score": 12,
+        "photogenic": 9,
+        "value_for_price": 6,
+        "sns_buzz": 3,
+        "access_and_freshness": 4
+      },
+      "score": 61,
+      "recommendation_reason": "本日の再調査で、2026-10-23サイクルでは見つけられなかった楽天トラベル4.26（136件）という規模の大きい国内評価を新たに確認でき、Skyticket集計4.2（97件）とも方向性が一致するため、『国内主要サイトで評価が確認できない』という前回の不採用理由は本日時点では解消された。島内唯一の天然温泉・全国ブランドのデザインホテルという独自性と合わせ、スコアは前回の53点から61点に上昇した。ただし食べログは3.07（7件）と低く設備の経年劣化を指摘する声もあること、島内では比較的新しいとはいえ『ちょっと贅沢な旅』基準が想定する一休.com・Reluxクラスの高級旅館・リゾートではなく実質的には3つ星クラスのデザイン性ビジネスホテルであること、写真・SNS話題性・価格に対する体験価値の面でも大型リゾートに及ばないことから、総合スコア61点にとどまり採用ライン（75点）には届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "食べログで3.07（7件）と相対的に低い評価が確認され、設備面の評価が低めという傾向がある。Trip.comの2025年10月投稿では『設備の方ですが経年劣化が各所にあり、もう少し手入れが必要かと思います』という指摘があった。一方で楽天トラベル（136件）・じゃらん（口コミページの存在は確認したが数値は非公開）・Skyticket集計（97件）では朝食・立地・接客を評価する声が多数で、衛生・安全上の重大な問題が複数の独立情報源で一致して確認されたわけではないため、disqualifying issueとまでは判断しなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "HOTEL AreaOne Koshiki Island 公式サイト", "url": "https://www.hotel-areaone.com/koshiki/" },
+        { "type": "booking_site", "title": "ホテルエリアワンKOSHIKI ISLAND プラン情報 - 楽天トラベル（評価4.26・136件）", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/179036" },
+        { "type": "booking_site", "title": "HOTEL Areaone Koshiki Island - Skyticket（口コミ集計4.2・97件）", "url": "https://skyticket.jp/hotel/detail/property_1172336/" },
+        { "type": "review_site", "title": "ホテルエリアワン コシキアイランド 甑島 - 食べログ（3.07・7件）", "url": "https://tabelog.com/kagoshima/A4602/A460201/46014456/dtlrvwlst/" },
+        { "type": "review_site", "title": "HOTEL AreaOne Koshiki Island - じゃらんnet（口コミページ・数値非公開）", "url": "https://www.jalan.net/yad395950/kuchikomi/" },
+        { "type": "booking_site", "title": "HOTEL AreaOne Koshiki Island - Expedia", "url": "https://www.expedia.com/es/Satsumasendai-Hoteles-HOTELAreaOneKoshikiIsland.h45743676.Informacion-Hotel" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "本日の再調査で国内評価（楽天トラベル4.26・136件）を新たに確認し前回の不採用理由（国内評価の確認不能）は解消されたが、総合スコアは61点にとどまり採用ライン（75点）に届かないため不採用。島内随一の個性は認めつつ、実質的には3つ星クラスのデザインホテルであり『ちょっと贅沢な旅』基準が想定する高級旅館・リゾートの水準には達していない。"
+    },
+    {
+      "id": "2026-10-28-hotel-koshikishima-shinwakan-recheck",
+      "name": "ホテルこしきしま親和館",
+      "region": "鹿児島県薩摩川内市下甑町瀬々野浦（下甑島・長浜港付近）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.33, "scale": 5, "review_count": 20, "checked_date": "2026-10-23", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/162834" },
+        { "source": "フォートラベル", "score": 3.24, "scale": 5, "review_count": 7, "checked_date": "2026-10-23", "url": "https://4travel.jp/dm_hotel-11289112" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは1泊2食プランの具体的な金額までは確定できなかった。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "下甑島の高台に建ち、海を望む露天風呂付き大浴場と、タカエビ・キビナゴなど甑島近海の鮮魚を使った会席料理が名物。",
+      "renewal_or_news": "本日の再調査でフォートラベルの個別口コミを再確認したところ、2026年1月投稿（評価3.5・部屋は綺麗だがコンセント配置が不便、素泊まりだと夜間の食事場所がないため弁当等の準備が必要との指摘）と2023年投稿（評価4.0・下甑島唯一のホテルとして送迎・レンタカー手配に言及）が確認でき、2026-10-23サイクル時点の評価傾向（楽天4.33/20件 vs フォートラベル3.24/7件という情報源間の評価の割れ）から大きな変化はないことを確認した。",
+      "target_audience": ["温泉好き", "グルメ旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 6,
+        "unique_experience_score": 10,
+        "photogenic": 8,
+        "value_for_price": 6,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 49,
+      "recommendation_reason": "2026-10-23サイクルからの再確認。オーシャンビューの露天風呂と甑島近海の鮮魚を使った会席は魅力だが、情報源間で評価が割れている（楽天トラベル4.33／20件 vs フォートラベル3.24／7件、フォートラベルは原則6の最低ライン4.0未満）うえ、本日再確認した個別口コミ（2026年1月・2023年投稿）でも大浴場の狭さやコンセント配置の不便さへの指摘が継続して見られ、改装等による改善の兆しは確認できなかった。総合スコアは49点のまま採用ライン（75点）に届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミ（2026年1月・2023年投稿を含む）で、コンセント配置の不便さ、素泊まり時の夜間食事場所の不足、大浴場が旅館の規模に対して狭いという指摘が継続して確認された。衛生・安全上の重大な問題が複数情報源で一致して確認されたわけではないため、disqualifying issueとまでは判断しなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "ホテルこしきしま親和館 プラン情報 - 楽天トラベル", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/162834" },
+        { "type": "review_site", "title": "ホテルこしきしま親和館 - フォートラベル（2026年1月・2023年投稿含む）", "url": "https://4travel.jp/dm_hotel-11289112" },
+        { "type": "other", "title": "ホテルこしきしま親和館 - じゃらんnet", "url": "https://www.jalan.net/yad302334/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "2026-10-23サイクルの不採用判定を本日再確認。情報源間で評価が割れ（フォートラベル3.24／7件は4.0未満）、総合スコアも49点のまま採用ライン（75点）に届かないため不採用。"
+    },
+    {
+      "id": "2026-10-28-resort-hotel-koshikishimakan-recheck",
+      "name": "リゾートホテル甑島館",
+      "region": "鹿児島県薩摩川内市里町（上甑島・里港ターミナル前）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.75, "scale": 5, "review_count": 2, "checked_date": "2026-10-23", "url": "https://4travel.jp/dm_hotel-11289298" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは素泊まり・1泊2食いずれも室料のみの具体的な金額を確定できなかった。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "里港ターミナルから徒歩約1分という島内随一の利便性を持つ『甑列島唯一のシティホテル』。全室オーシャンビュー、露天風呂付き大浴場（立ち寄り入浴可）、総客室数39室で島内では比較的大型。",
+      "renewal_or_news": "本日の再調査でフォートラベルの個別口コミを再確認したところ、2023年4月投稿（評価4.0・下甑島では一番大きな宿泊施設と紹介）、2026年1月投稿（評価3.5・コンセント配置が不便）、2025年4月投稿（『建物は少し古かった』）が確認でき、朝食の海鮮丼バイキングは継続して好評だが、口コミ件数自体が極端に少ない状況・建物の古さへの指摘は2026-10-23サイクル時点から変化がないことを確認した。",
+      "target_audience": ["一人旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 3,
+        "unique_experience_score": 8,
+        "photogenic": 7,
+        "value_for_price": 4,
+        "sns_buzz": 1,
+        "access_and_freshness": 2
+      },
+      "score": 37,
+      "recommendation_reason": "2026-10-23サイクルからの再確認。フェリーターミナル目の前という利便性と、島内では比較的大型（39室）な点は独自性としてあるが、本日時点でもフォートラベルの口コミは2件（3.5・4.0）のみで、原則7が求める信頼できる評価確認の水準に届かない。建物の古さを指摘する声（2025年4月投稿）も継続して確認された。総合スコアは37点のまま採用ライン（75点）に遠く及ばない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ件数が2件と極端に少なく、傾向分析に足るサンプルがない。本日再確認した個別口コミでも『建物は少し古かった』（2025年4月投稿）という指摘が継続して見られた一方、朝食バイキングの海鮮丼を評価する声もあった。重大な衛生・安全上の問題は確認されなかったが、評価自体の信頼性が低い。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "リゾートホテル甑島館 - フォートラベル（2025年4月投稿含む）", "url": "https://4travel.jp/dm_hotel-11289298" },
+        { "type": "other", "title": "リゾートホテル甑島館 - 近畿日本ツーリスト予約サイト", "url": "https://yado.knt.co.jp/st/S460241/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "2026-10-23サイクルの不採用判定を本日再確認。口コミ件数が極端に少なく（フォートラベル2件）原則7の信頼性要件を満たせず、総合スコアも37点のまま採用ライン（75点）に届かないため不採用。"
+    }
+  ],
+  "cycle_conclusion": "鹿児島県薩摩川内市・甑島列島について、2026-10-23サイクルの再調査を実施した。新規候補（一棟貸し・古民家宿・グランピング等）の存在は本日のWebSearchでも確認できず、島内の宿泊選択肢は前回同様ホテルこしきしま親和館・リゾートホテル甑島館・HOTEL AreaOne Koshiki Islandの3施設に限られることを再確認した。親和館（49点）・甑島館（37点）は口コミの傾向・件数ともに前回から変化なく不採用判定を維持した。HOTEL AreaOne Koshiki Islandは、前回『国内主要サイトで評価が確認できない』として53点だったが、本日の再調査で楽天トラベルに4.26（136件）という規模の大きい国内評価の蓄積を新たに確認でき、Skyticket集計（4.2・97件）とも整合したため、スコアが61点に上昇した。ただし61点でも採用ライン（75点）には届かず、3施設とも不採用のまま『selected候補なし』という結論に変わりはない。captions/配下の新規作成は行わない。次回以降、甑島を再調査する場合はAreaOne Koshiki Islandの楽天トラベル評価のさらなる蓄積、じゃらんでの数値評価公開状況、および『コシキテラス』（古民家・公共施設改修の地域活性化施設、薩摩川内市資料で言及）が宿泊施設として営業しているかどうかの確認を優先すると効率的と考えられる。"
+}

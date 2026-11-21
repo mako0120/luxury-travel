@@ -1,0 +1,192 @@
+{
+  "cycle_date": "2026-11-09",
+  "theme": "オールインクルーシブ",
+  "season_rationale": "対象は宮崎県日南市（日南海岸エリア）。日南海岸は年間を通じて温暖な気候で知られる宮崎県内でも特に温暖な地域で、11月上旬は台風シーズンが完全に過ぎて海況が安定する一方、真夏の強い日差しや混雑を避けつつフェニックス並木・鬼の洗濯板などの景観を快適な気候で楽しめる時期にあたる。このタイミングで『オールインクルーシブ』という業態が同エリアでどの程度成立しているかを調査した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-28-nichinan-glamping", "region": "宮崎県日南市（日南海岸エリア）", "category": "グランピング（全3件rejected）" },
+    { "post_id": "2026-11-08-all-inclusive-yaese", "region": "沖縄県島尻郡八重瀬町", "category": "オールインクルーシブ（selectedなし）" },
+    { "post_id": "2026-11-07-all-inclusive-itoman", "region": "沖縄県糸満市", "category": "オールインクルーシブ" },
+    { "post_id": "2026-11-06-kunigami-all-inclusive", "region": "沖縄県国頭村", "category": "オールインクルーシブ" }
+  ],
+  "duplication_note": "data/candidates全件（2026-09-14〜2026-11-08、1ヶ月以上前のファイルを含む）とcaptions全件を『日南』『Nichinan』『宮崎』『Miyazaki』『油津』『飫肥』『南郷』『サンメッセ』で全文検索した。宮崎県日南市を対象とした既存候補は2026-10-28-nichinan-glamping.json（カテゴリ『グランピング』、全3件rejected）のみで、カテゴリ『オールインクルーシブ』×地域『日南市（日南海岸エリア）』の組み合わせでの調査・候補化は本サイクルが初回であり、重複は発生していない。",
+  "search_scope_limitation": "本セッションではWebFetchがwww.jalan.net / icotto.jp / 4travel.jp 等、確認を試みた全ドメインに対してDNS解決エラー（getaddrinfo ENOTFOUND）で失敗し、個別ページを直接開けなかったため、WebSearchが返すスニペット要約のみに依拠している。また調査の途中でセッション単位のWebSearch呼び出し上限に達し、PAAK HOTEL（茜さす）の事業承継プレスリリースや公式Instagram等の追加確認、運営会社名の特定ができなかった。そのため各候補の数値評価・『オールインクルーシブ』の範囲（食事・ドリンクがどこまで料金に含まれるか）について、独立した一次情報での確認が不十分な部分が残る。得られた情報のみで誠実に、保守的に採点した。",
+  "candidates": [
+    {
+      "id": "2026-11-09-nango-prince-hotel-nichinan-ai",
+      "name": "日南海岸 南郷プリンスホテル",
+      "region": "宮崎県日南市南郷町（日南海岸国定公園内）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "南郷プリンスホテル単独の具体的な料金はこのセッションのWebSearchでは確認できなかった。食事・ドリンクを一括提供するオールインクルーシブ型プランの名称・料金も公式サイト・予約サイトのいずれでも確認できなかった。",
+        "as_of_search_date": "2026-11-09",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "日南海岸国定公園の南端、南郷町に建つプリンスホテル系列のリゾートホテル。全室バルコニー付オーシャンビューで、公式サイトには『おまかせディナー』のページがあるが、料金・提供内容の詳細は確認できず、食事・ドリンクを一括提供するオールインクルーシブ型プランの存在は確認できなかった。",
+      "target_audience": ["夫婦", "絶景好き"],
+      "renewal_or_news": "確認できなかった。",
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 5,
+        "photogenic": 5,
+        "value_for_price": 2,
+        "sns_buzz": 1,
+        "access_and_freshness": 2
+      },
+      "score": 15,
+      "recommendation_reason": "全室オーシャンビューという立地の魅力はあるが、オールインクルーシブ型プランの存在が公式・予約サイトのいずれでも確認できず、本施設単独の信頼できる数値評価（独立2情報源）も得られなかったため不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "南郷プリンスホテル単独の口コミ・評価点を独立2情報源で確実に特定することができなかった。検索で見つかったrlx.jp掲載の評価（朝食・夕食いずれも2点）は同系列の別のプリンスホテルの可能性があり、本施設のものと断定できなかったため参考値として採用しなかった。重大な衛生・安全上の指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "南郷プリンスホテル おまかせディナー案内（公式サイト）", "url": "https://www.princehotels.co.jp/nango/plan/restaurant/omakasedinner/" },
+        { "type": "other", "title": "日南海岸 南郷プリンスホテル 施設紹介 - icotto", "url": "https://icotto.jp/hotels/5997" },
+        { "type": "review_site", "title": "南郷プリンスホテル関連口コミ（施設特定に留意） - rlx.jp", "url": "https://rlx.jp/22789/review/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "オールインクルーシブ型プランの存在が確認できず、信頼できる単独の数値評価も得られなかったため不採用。"
+    },
+    {
+      "id": "2026-11-09-hotel-jays-nichinan-resort-ai",
+      "name": "ホテルジェイズ日南リゾート",
+      "region": "宮崎県日南市北郷町",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "本施設単独の具体的な料金はこのセッションのWebSearchでは確認できなかった。朝食ビュッフェが有料提供であることは複数の予約サイトで確認できた。",
+        "as_of_search_date": "2026-11-09",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "日南市北郷の温泉リゾートホテル。18ホールのゴルフコースでのプレー、天然温泉の大浴場・露天風呂・貸切風呂・サウナ・岩盤浴を備える。館内レストラン『Sakura』で食事ができるが、朝食はビュッフェ形式で有料提供とされ、食事・ドリンクを一括提供するオールインクルーシブ型プランの存在は確認できなかった。",
+      "target_audience": ["夫婦", "温泉好き"],
+      "renewal_or_news": "確認できなかった。",
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 6,
+        "photogenic": 6,
+        "value_for_price": 2,
+        "sns_buzz": 1,
+        "access_and_freshness": 2
+      },
+      "score": 17,
+      "recommendation_reason": "ゴルフ場併設の温泉リゾートという特徴はあるが、朝食ビュッフェが有料提供であるなどオールインクルーシブの核となる食事一括プランが確認できず、本施設単独の信頼できる数値評価も得られなかったため不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "ホテルジェイズ日南リゾート単独の数値評価をこのセッションのWebSearchでは確認できなかった。同一敷地内の姉妹施設（ホテル日南北郷リゾート）の口コミ経由で、朝食ビュッフェの品数が以前より少なかったという指摘が本施設に関するものとして見られた。重大な衛生・安全上の指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "ホテルジェイズ日南リゾート 施設情報 - Hotels.com", "url": "https://jp.hotels.com/ho476570/hoterujeizu-ri-nanrizoto-ri-nan-ri-ben" },
+        { "type": "booking_site", "title": "ホテルジェイズ日南リゾート 施設詳細 - skyticket", "url": "https://skyticket.jp/hotel/detail/property_16948/" },
+        { "type": "other", "title": "ホテルジェイズ日南リゾート 施設情報 - jcation", "url": "https://jcation.com/hotel/detail-226/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "朝食ビュッフェが有料提供でオールインクルーシブ型プランが確認できず、信頼できる単独の数値評価も得られなかったため不採用。"
+    },
+    {
+      "id": "2026-11-09-hotel-nichinan-kitago-resort-ai",
+      "name": "ホテル日南北郷リゾート",
+      "region": "宮崎県日南市北郷町（ホテルジェイズ日南リゾートと同一敷地内）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル（4travel）口コミ",
+          "score": 3.27,
+          "scale": 5,
+          "review_count": 18,
+          "checked_date": "2026-11-09",
+          "url": "https://4travel.jp/dm_hotel-10053203"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "宮崎県の旅行商品ページでは、ツインの和洋バイキング1泊2食プランが大人1名あたり13,600円〜22,000円（設定期間2026年7月28日〜2027年3月31日）と表示されていた。ドリンクまで一括で含むオールインクルーシブ型プランの料金は確認できなかった。",
+        "as_of_search_date": "2026-11-09",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "ホテルジェイズ日南リゾートと同一敷地内にある姉妹施設で、天然温泉の大浴場・露天風呂・貸切風呂を備える。夏季は屋外プールも利用できる『プールで遊ぼう』プランがあり、夕食は和洋バイキング、朝食も和食バイキングが中心の1泊2食プランを提供する。ただしドリンクまで一括提供するオールインクルーシブ型プランの存在は確認できなかった。",
+      "target_audience": ["家族", "温泉好き"],
+      "renewal_or_news": "2026年7月28日〜2027年3月31日設定のバイキングプランが確認できたのみで、大規模改修等の情報は確認できなかった。",
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 6,
+        "unique_experience_score": 6,
+        "photogenic": 6,
+        "value_for_price": 4,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 43,
+      "recommendation_reason": "1泊2食バイキング・プール利用など家族向けの魅力はあるが、ドリンクまで含むオールインクルーシブ型プランは確認できず、フォートラベル総合評価3.27/5（18件）も採用基準4.0未満、総合スコア43点も採用ライン75点に遠く及ばないため不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミ18件では総合満足度3.27/5、項目別では食事4.00・風呂4.44・コストパフォーマンス4.14と高評価の項目もあるが、総合では採用基準4.0未満。口コミの一部は同一敷地内の姉妹施設『ホテルジェイズ日南リゾート』についての投稿（朝食ビュッフェの品数が以前より少なかったという指摘）と混在しており、本施設単独の評価としての精度には限界がある。重大な衛生・安全上の指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ホテル日南北郷リゾート 口コミ（3.27/5・18件） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10053203" },
+        { "type": "booking_site", "title": "ホテル日南北郷リゾート 料金・宿泊プラン一覧 - じゃらん", "url": "https://www.jalan.net/yad329403/plan/" },
+        { "type": "other", "title": "ホテル日南北郷リゾート 施設紹介 - icotto", "url": "https://icotto.jp/hotels/3766" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "ドリンクまで含むオールインクルーシブ型プランが確認できず、フォートラベル総合評価3.27/5が採用基準4.0未満、総合スコア43点も採用ライン75点未満のため不採用。"
+    },
+    {
+      "id": "2026-11-09-paak-hotel-obi-nichinan-ai",
+      "name": "PAAK HOTEL（犀・茜さす）",
+      "region": "宮崎県日南市飫肥4-4-39（飫肥城下町、JR日南線飫肥駅より徒歩約15分）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "一休（ikyu）口コミ",
+          "score": 5,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-11-09",
+          "url": "https://www.ikyu.com/th-th/00051353/review/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "一棟貸しあたり/1名あたりの具体的な宿泊料金はこのセッションのWebSearchでは確認できなかった。楽天トラベルでは『夕朝食付き・ビールタップ付き（牛鍋プラン）・レイトチェックアウト12時』というプランの掲載のみ確認できた。",
+        "as_of_search_date": "2026-11-09",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "飫肥城下町にある築150年の武家屋敷（旧伊東伝左衛門家、2024年3月に事業承継・リニューアルオープン）を一棟貸しする『茜さす』と、築約100年の古民家を一棟貸しする『犀（sai、全2棟）』からなる宿。日南麦酒株式会社と共同開発したクラフトビールサーバーを備え、楽天トラベルには『夕朝食付き・ビールタップ付き』プランの掲載が確認できた。一部の二次紹介記事では『オールインクルーシブ形式』と説明されていたが、公式の一次情報でその範囲（昼食・終日ドリンクを含むか等）を確認することはできなかった。",
+      "target_audience": ["カップル", "記念日"],
+      "renewal_or_news": "『茜さす』は2024年3月に事業承継・リニューアルオープンしたことがjalan.net・ikyu.comで確認できた。",
+      "score_breakdown": {
+        "review_rating": 5,
+        "review_reliability": 1,
+        "unique_experience_score": 12,
+        "photogenic": 10,
+        "value_for_price": 4,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 37,
+      "recommendation_reason": "築150年の武家屋敷を活かした一棟貸し・地元クラフトビールタップという独自性は高く、将来的な再調査（グルメ旅館・文化体験カテゴリ等）の価値がある穴場候補である。しかし公式の一次情報で『オールインクルーシブ』の範囲（昼食・終日ドリンクを含むか等）を確認できず、口コミもフォートラベル0件・一休1件と極めて少なく信頼できる評価を形成できないため、本カテゴリ・本サイクルでは不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルでは口コミ0件、一休（ikyu）では2025年2月投稿の5点満点の口コミが1件のみという極めて少ない口コミ数で、信頼できる数値評価を形成できる段階にない。重大なネガティブ指摘は確認されなかったが、これは口コミ自体がほとんど存在しないためであり、問題がないことの証明にはならない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "PAAK HOTEL（飫肥）施設情報 - じゃらん", "url": "https://www.jalan.net/yad367154/" },
+        { "type": "other", "title": "PAAK Hotel 犀（sai）施設紹介 - icotto", "url": "https://icotto.jp/hotels/9977" },
+        { "type": "review_site", "title": "PAAK HOTEL 犀 口コミページ（口コミ0件） - フォートラベル", "url": "https://4travel.jp/dm_hotel-11872868" },
+        { "type": "booking_site", "title": "PAAK HOTEL 茜さす 宿泊プラン（夕朝食付き・ビールタップ付き） - 楽天トラベル", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/182492" },
+        { "type": "other", "title": "PAAK HOTEL 茜さす（旧伊東伝左衛門家）施設紹介 - dinogo", "url": "https://dinogo.com/hotels/581576-paak-hotel-akasasu-former-ito-denzaemon-house" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独自性の高い穴場候補だが、『オールインクルーシブ』の範囲を公式一次情報で確認できず、口コミも極めて少なく信頼できる評価を形成できないため、本カテゴリでは不採用。"
+    }
+  ],
+  "cycle_conclusion": "『オールインクルーシブ』カテゴリ・宮崎県日南市（日南海岸エリア）を対象に4件（南郷プリンスホテル、ホテルジェイズ日南リゾート、ホテル日南北郷リゾート、PAAK HOTEL〈犀・茜さす〉）を調査した結果、いずれも不採用でselected候補なし。日南海岸エリアには大型のオールインクルーシブ専業リゾートが存在せず、プリンスホテル系列・温泉リゾート系列はいずれも食事（朝食有料、または1泊2食バイキング）止まりでドリンクまで含む一括プランが確認できず、唯一数値評価が得られたホテル日南北郷リゾートもフォートラベル3.27/5（18件）で採用基準4.0未満だった。飫肥城下町のPAAK HOTEL（犀・茜さす）は築150年の武家屋敷を活かした一棟貸し・地元クラフトビールタップという独自性が高く、将来的にグルメ旅館・文化体験カテゴリでの再調査に値する穴場候補だが、『オールインクルーシブ』という表現自体が二次的な紹介記事に留まり公式一次情報で範囲を確認できなかったこと、口コミがフォートラベル0件・一休1件と極めて少なく信頼できる評価を形成できないことから、本カテゴリ・本サイクルでは選定しなかった。selected候補が存在しないため、creator_story調査・captions/の新規作成は行わない。なお本サイクルはWebFetchが全ドメインに対してDNS解決エラーで使用できず、WebSearchも途中でセッション単位の呼び出し上限に達したため、PAAK HOTELの運営会社名・事業承継の詳細経緯や公式一次情報での『オールインクルーシブ』範囲の確認ができていない。日南海岸エリアは今後、グルメ旅館・文化体験・絶景ホテルなど他カテゴリでの再調査が、このエリアの魅力を伝える上でより適している可能性がある。"
+}

@@ -1,0 +1,144 @@
+{
+  "cycle_date": "2026-10-20",
+  "theme": "離島リゾート（鹿児島県屋久島／香川県小豆島）",
+  "season_rationale": "10月下旬の屋久島は夏の繁忙期と台風シーズンが落ち着き、縄文杉トレッキングや温泉・スパを快適に楽しめる狙い目の時期。小豆島は夏の喧騒が一段落し、オリーブの収穫期（10〜11月）と重なるタイミングで、どちらも『静かな離島』を満喫するのに適した季節（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-19-hotel-denhaag-htb", "region": "長崎県佐世保市ハウステンボス町", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-19-ibusuki-ginsho", "region": "鹿児島県指宿市湯の浜", "category": "絶景ホテル" },
+    { "post_id": "2026-10-19-lavista-kusatsu-hills", "region": "群馬県吾妻郡草津町（草津温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-10-19-machiya-club-omihachiman", "region": "滋賀県近江八幡市", "category": "文化体験" },
+    { "post_id": "2026-10-19-yunohana-jozankeiden", "region": "北海道札幌市南区定山渓温泉", "category": "サウナ" },
+    { "post_id": "2026-10-19-gatehotel-yokohama-grape-afternoontea", "region": "神奈川県横浜市中区山下町", "category": "その他（期間限定イベント）" },
+    { "post_id": "2026-10-18-goto-retreat-ray", "region": "長崎県五島市上崎山町（福江島）", "category": "離島リゾート" },
+    { "post_id": "2026-10-17-hoshino-iriomote-hotel", "region": "沖縄県八重山郡竹富町上原（西表島）", "category": "離島リゾート" }
+  ],
+  "duplication_note": "直前（2026-10-19）の採用カテゴリはオールインクルーシブ（ホテルデンハーグ・ハウステンボス／長崎）で、地域もカテゴリも異なるため、本サイクルで離島リゾートを選んでも連続採用にはならない。離島リゾート自体は2026-10-17（西表島・星野リゾート）・2026-10-18（五島列島・福江島）で採用済みだが、2026-10-19に調査した伊良部島・種子島はいずれも不採用（該当なし）だった。地域としては、沖縄離島（石垣島・西表島・竹富島・小浜島・久米島・伊良部島）・長崎五島列島・鹿児島県奄美とはすべて異なる鹿児島県屋久島・香川県小豆島を調査対象とし、既存data/candidates・captionsにこの2島の実績はなく地域として完全に新規。",
+  "candidates": [
+    {
+      "id": "2026-10-20-sankara-yakushima",
+      "name": "sankara hotel & spa 屋久島",
+      "region": "鹿児島県熊毛郡屋久島町麦生（屋久島南部・安房港から車で約25分、屋久島空港から車で約40分）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Relux", "score": 5.0, "scale": 5, "review_count": 42, "checked_date": "2026-10-20", "url": "https://rlx.jp/24832/review/" },
+        { "source": "TripAdvisor（集計・Logitravel経由）", "score": 4.8, "scale": 5, "review_count": 272, "checked_date": "2026-10-20", "url": "https://www.logitravel.pt/hoteis/japao/kagoshima/kumage-district/sankara-hotel-spa-yakushima--hotel-2259076" }
+      ],
+      "price_range_jpy": {
+        "note": "全29室・4つ星のラグジュアリーリゾート。Web検索（スニペット経由）では日付指定前提の予約サイトが多く、具体的な1泊料金の数値は確認できなかった。ヴィラスイート・ジュニアスイート等の上位カテゴリは2026年4月末にリニューアルされたばかりで、相応の高価格帯が想定される。正確な料金は公式サイト・予約サイトで日付を指定して要確認。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "世界自然遺産の島・屋久島の原生林を望む高台に立つ全29室の4つ星リゾート。2026年4月末、ヴィラスイート（1室）とジュニアスイート（3室）の全面リニューアルが完了し、ヴィラスイートには海が見えるプライベートサウナとアウトドアバスを新設（ベッドルームを2室に拡張し最大6名泊可）、ジュニアスイートは姉妹施設『samana hotel Yakushima』から運び湯した温泉を24時間利用できるようになった。スパ『sankara sana』・サウナ『agni』・レストラン『ayana』『okas』を備え、海を望むインフィニティプールも特徴。",
+      "renewal_or_news": "2026年4月末、ヴィラスイート・ジュニアスイートの全面リニューアルが完了（客室内プライベートサウナ・温泉新設）。2026年9月18日発表のミシュランガイド ホテルセレクションで『1ミシュランキー』を3年連続で獲得。",
+      "target_audience": ["夫婦", "記念日", "カップル", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 13,
+        "unique_experience_score": 19,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 5
+      },
+      "score": 88,
+      "recommendation_reason": "Relux5.0（42件）・TripAdvisor集計4.8（272件）という独立した2つの評価サイトでいずれも採用ライン（4.0）を大きく上回る高評価が確認できた。世界自然遺産の屋久島という『ここでしかできない』立地に加え、2026年4月末に完了したヴィラスイート・ジュニアスイートの全面リニューアル（客室内温泉・海を望むプライベートサウナ新設）という鮮度の高いニュースがあり、さらに2026年9月発表のミシュランガイド『1ミシュランキー』を3年連続で獲得している第三者評価の裏付けも強い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "検索範囲で見つかった否定的な言及は2017年投稿の古い口コミが中心で、『建物がやや古い』『空港からのアクセス道が狭い』『レストランの椅子が長時間座ると痛くなる』といった指摘があった。ただしこれらは2026年4月のヴィラスイート・ジュニアスイート全面リニューアル前の情報であり、料理・景色・スタッフ接客への評価自体は高かった。清潔感・接客・予約トラブル等に関わる重大な指摘は確認できなかった。アクセス（空港から車で約40分、道が狭い区間がある）は無料送迎サービス（要予約）で緩和されている。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "sankara hotel & spa 屋久島 公式サイト（スパ案内ページ、WebFetchがEGRESS_BLOCKEDのためWebSearchスニペット経由で確認）", "url": "https://sankarahotel-spa.com/en/spa" },
+        { "type": "review_site", "title": "sankara hotel&spa 屋久島 レビュー - Relux", "url": "https://rlx.jp/24832/review/" },
+        { "type": "review_site", "title": "Sankara Hotel & Spa Yakushima - TripAdvisorレビュー集計（Logitravel掲載）", "url": "https://www.logitravel.pt/hoteis/japao/kagoshima/kumage-district/sankara-hotel-spa-yakushima--hotel-2259076" },
+        { "type": "press", "title": "【sankara hotel & spa 屋久島】ヴィラスイートとジュニアスイートのリニューアルが完了 - PR TIMES", "url": "https://prtimes.jp/main/html/rd/p/000000009.000078658.html" },
+        { "type": "other", "title": "【sankara hotel & spa 屋久島】ミシュランガイドのホテルセレクションにて3年連続『1ミシュランキー』を獲得 - ORICON NEWS", "url": "https://www.oricon.co.jp/pressrelease/3028940/" },
+        { "type": "booking_site", "title": "sankara hotel&spa屋久島 施設情報 - JTB（お客様アンケート評価97点）", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/8631016/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "スコア自体は88点と高いが、`captions/2026-09-22-sankara-yakushima.json`で2026-09-22に同一施設（sankara hotel & spa 屋久島）がすでにアクティビティカテゴリで選定・投稿済みであることが判明したため、約1ヶ月という短い間隔での同一施設の再投稿を避ける原則29の趣旨に基づき、今サイクルでは不採用とした（リサーチ担当エージェントが直近数日分のみを確認し1ヶ月前の投稿を見落としたため、コミット前にホスト側で検出・訂正）。"
+    },
+    {
+      "id": "2026-10-20-iwasaki-hotel-yakushima",
+      "name": "屋久島いわさきホテル",
+      "region": "鹿児島県熊毛郡屋久島町尾之間（屋久島空港から車で約30分）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "jcation", "score": 4.1, "scale": 5, "review_count": 38, "checked_date": "2026-10-20", "url": "https://jcation.com/hotel/detail-7527/" },
+        { "source": "楽天トラベル（集計・gpoint経由）", "score": 4.33, "scale": 5, "review_count": 144, "checked_date": "2026-10-20", "url": "https://travel.gpoint.co.jp/daredoko/a013-d006-f005/" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な1泊料金はセッション内のWeb検索では数値を確認できなかった。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "屋久島空港から車で約30分、尾之間に立つリゾートホテル。ジャグジー付きプールや大浴場・庭園を備える。",
+      "target_audience": ["夫婦", "家族", "ホテル好き", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 11,
+        "unique_experience_score": 11,
+        "photogenic": 8,
+        "value_for_price": 6,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 60,
+      "recommendation_reason": "jcation4.1（38件）・楽天トラベル集計4.33（144件）のいずれも採用ライン（4.0）を上回るが、風呂・庭園への評価が高い一方で食事サービスに対する低評価（2.0〜3.0）も複数確認され、るるぶトラベルでは3.6〜3.8とページにより表示が割れていた。サンカラホテルのような『ここでしかできない』明確な差別化要素（世界自然遺産ロケーション・ミシュランキー・直近の大規模リニューアル）が確認できず、総合力でサンカラに及ばないため今サイクルでは見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "cocolocalaの口コミで、風呂・庭園は高評価だが食事のサービスに不満を述べる3.0・2.0の口コミが確認された。清潔感や安全性に関わる重大な指摘は確認できなかったが、食事サービスの評価にばらつきがある点はマイナス要因とした。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "屋久島いわさきホテル クチコミ(38件) - jcation", "url": "https://jcation.com/hotel/detail-7527/" },
+        { "type": "other", "title": "屋久島いわさきホテル 楽天トラベル クチコミ集計(144件) - 宿泊情報サイト経由", "url": "https://travel.gpoint.co.jp/daredoko/a013-d006-f005/" },
+        { "type": "review_site", "title": "屋久島いわさきホテル 口コミ - cocolocala", "url": "https://www.cocolocala.jp/hotels/25667" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア60点で採用ライン（75点）に届かず、食事サービスへの低評価（2.0〜3.0）が複数確認され、るるぶトラベルでは4.0未満（3.6〜3.8）の表示もあり、サンカラホテルと比べて独自性・話題性でも見送った。"
+    },
+    {
+      "id": "2026-10-20-bay-resort-shodoshima",
+      "name": "ベイリゾートホテル小豆島",
+      "region": "香川県小豆郡小豆島町",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル（集計・gpoint経由）", "score": 4.33, "scale": 5, "review_count": 1634, "checked_date": "2026-10-20", "url": "https://travel.gpoint.co.jp/daredoko/37b00c/" }
+      ],
+      "price_range_jpy": {
+        "note": "具体的な1泊料金はセッション内のWeb検索では数値を確認できなかった。",
+        "as_of_search_date": "2026-10-20",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全室オーシャンビューを掲げ、最上階に展望大浴場・自家源泉の温泉を備える小豆島のリゾートホテル。",
+      "target_audience": ["夫婦", "家族", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 17,
+        "review_reliability": 12,
+        "unique_experience_score": 10,
+        "photogenic": 8,
+        "value_for_price": 6,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 58,
+      "recommendation_reason": "楽天トラベル集計では4.33（1,634件）と件数・評価ともに悪くないが、JTBのお客様アンケート評価は78点、るるぶトラベルは3.4と、サイトによって採用ライン（4.0相当）を下回る評価が混在した。口コミでは『建物は年季を感じる』という指摘が複数あり、全室オーシャンビュー・自家源泉という特徴はあるものの、サンカラホテルのような世界自然遺産ロケーションや第三者評価（ミシュランキー等）の裏付けがなく、独自性でも見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベルの口コミで『建物は年季を感じるが落ち着く』という指摘が複数確認された。るるぶトラベル3.4・JTBアンケート78点はサンカラホテル（Relux5.0・JTB97点）と比べて明確に見劣りする。清潔感・接客・予約トラブル等の重大な指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "ベイリゾートホテル小豆島 楽天トラベル クチコミ集計(1,634件・4.33) - 宿泊情報サイト経由", "url": "https://travel.gpoint.co.jp/daredoko/37b00c/" },
+        { "type": "booking_site", "title": "ベイリゾートホテル小豆島 施設情報 - JTB（お客様アンケート評価78点）", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/7403005/" },
+        { "type": "review_site", "title": "ベイリゾートホテル小豆島 温泉情報 - にふ温泉", "url": "https://onsen.nifty.com/shoudoshima-onsen/onsen012836/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア58点で採用ライン（75点）に届かず、るるぶトラベル3.4・JTBアンケート78点など一部サイトで推奨ライン（4.0相当）を下回り、建物の古さを指摘する声も複数あったため不採用（原則6）。"
+    }
+  ]
+}

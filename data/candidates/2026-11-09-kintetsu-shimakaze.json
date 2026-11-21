@@ -1,0 +1,78 @@
+{
+  "cycle_date": "2026-11-09",
+  "theme": "列車・船カテゴリ／近畿日本鉄道 観光特急「しまかぜ」（大阪難波・京都・近鉄名古屋〜賢島）",
+  "prior_posts_checked_note": "data/candidates・captions配下（1ヶ月以上前のものも含む）を grep -ril 'しまかぜ\\|shimakaze\\|kintetsu\\|近鉄' data/ captions/ で確認した。ヒットしたのは data/candidates/2026-09-14-osaka-gentei-event.json、2026-09-18-nara-culture.json、2026-10-31-yoshinoyama-activity.json、2026-11-01-imaicho-bunka-taiken.json、2026-11-01-shima-iseshima-glamping-recheck.json、captions/2026-09-14-sheraton-yosweets.json、2026-09-18-shima-kanko-hotel-classic.json、2026-10-18-nara-hotel.json、2026-10-21-toba-ocean-resort.json のみで、いずれも近鉄沿線・伊勢志摩エリアの別施設（グランピング、文化体験、ホテル、観光イベント等）であり、観光特急「しまかぜ」そのものを対象にした候補・キャプションは本リポジトリに一件も存在しないことを確認した。列車・船カテゴリでは直近も連続採用があるが（2026-11-07 三陸鉄道リアス線・2026-11-08 叡山電鉄鞍馬・八瀬線）、「しまかぜ」は地域・施設として初出である。",
+  "additional_investigation_note": "本テーマでは近鉄observation観光特急「しまかぜ」（近鉄50000系、大阪難波・京都・近鉄名古屋〜賢島、2013年3月21日運行開始）を軸に3件以上の切り口を調査した。(1) 列車全体の評価・サービス・独自性（本ファイルのselected候補）。(2) 発売直後に売り切れることが多い『プラチナチケット』的な予約困難性（和風個室・洋風個室は1編成各1室のみで、発売と同時に売り切れるとの指摘を複数の記事で確認。unique_experience／recommendation_reasonに統合して記載）。(3) 2009年からの市場調査（14,000人以上の意見聴取）を経て2013年に登場し、2014年に第57回ブルーリボン賞を受賞した経緯（creator_storyに記載）。(2)(3)は独立のcandidateオブジェクトとしては作成せず、本ファイルのselected候補の該当フィールドに統合した。捏造を避けるため、個々の駅・個室タイプ別の独立した数値評価は確認できなかったため、それらは候補化せず本文中で言及のみとした。",
+  "network_constraint_note": "本セッションでは en.wikipedia.org、trafficnews.jp、www.kankomie.or.jp 等、複数のドメインへのWebFetchが名前解決エラー（ENOTFOUND＝このセッションのネットワーク制約）により失敗した。本ファイルの情報はWebSearchのスニペット経由で確認できた範囲に基づく。また本セッションではWebSearch回数の上限（1ターンあたりの上限）にも達したため、トリップアドバイザー日本語版での直接のクチコミ件数確認や、じゃらん・4travel個別ページでの数値評価の追加確認は実施できなかった。Production移行時には、可能であれば近鉄公式サイト（kintetsu.co.jp）・トリップアドバイザー・じゃらんへの直接アクセスで最新運賃、個室の空席状況、2026年のダイヤ・運休日を再確認することを強く推奨する。",
+  "candidates": [
+    {
+      "id": "2026-11-09-kintetsu-shimakaze",
+      "name": "近畿日本鉄道 観光特急「しまかぜ」",
+      "region": "近畿日本鉄道（大阪難波駅・京都駅・近鉄名古屋駅〜賢島駅、三重県志摩市・伊勢市・鳥羽市・名張市等沿線を経由）",
+      "category": "列車・船",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Good Luck Trip（gltjp.com、観光施設ディレクトリのレビュー欄。件数が少なく参考値）",
+          "score": 3.67,
+          "scale": 5,
+          "review_count": 3,
+          "checked_date": "2026-11-09",
+          "url": "https://www.gltjp.com/en/directory/item/14473/"
+        },
+        {
+          "source": "Klook（『Osaka to Nagoya and Ise Express Train by Kintetsu』しまかぜ・ひのとり乗車券商品。件数が少なく参考値）",
+          "score": 5.0,
+          "scale": 5,
+          "review_count": 4,
+          "checked_date": "2026-11-09",
+          "url": "https://www.klook.com/activity/203633-osaka-to-nagoya-and-ise-express-train-by-kintetsu/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "通常の特急料金に『しまかぜ特別車両料金』（記事時点で1050円、京都〜賢島間は1160円）が加算される仕組み。gltjp.comの記載では大阪難波〜賢島間5,460円、京都〜賢島間6,150円、近鉄名古屋〜賢島間5,060円とされる一方、ekitan.comでは近鉄名古屋〜賢島間4,700円との記載もあり、出典間で金額に差があるため本セッションでは一本化できなかった。個室・サロン席は別途個室料金が必要。",
+        "as_of_search_date": "2026-11-09",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する。予約・最新運賃は近鉄公式サイト（kintetsu.co.jp）で必ず確認が必要。"
+      },
+      "unique_experience": "近鉄50000系電車を使用し、大阪難波・京都・近鉄名古屋の3方面から1日1往復（運休日あり）で賢島まで直通する、私鉄特急の中でも最高級クラスに位置づけられる観光特急。先頭車両は床を約72cm高くしたハイデッカー構造の展望車両で、側面・前面ともに大きなガラス張りにより開放感のある眺望が楽しめる。3列配置・座席間隔125cm・電動リクライニングのプレミアムシートに加え、和風個室・洋風個室（各編成1室のみ）、4〜6人用のサロン席、専属アテンダントが乗務するカフェ車両（松阪牛カレーや『しまかぜ』限定弁当等を提供）を備える。車体は伊勢志摩の晴れやかな空をイメージした濃いブルーで統一されている。個室は料金が比較的安いこともあり発売開始と同時に売り切れることが多いとされ、鉄道系メディアでは『プラチナチケット』的な予約困難列車として紹介されることがある。2013年3月21日の運行開始以来10年以上運行が続いており、2024年には第3編成で座席クッションの改良など仕様更新が行われたと乗車記事で紹介されている。",
+      "renewal_or_news": "2026年11月1日には近鉄名古屋・伊勢志摩間を結ぶ新たなレストラン列車『Les Saveurs 志摩（レ・サヴール・しま）』の運行が開始される予定であることを近鉄旅行会社の公式ページ経由で確認したが、これは『しまかぜ』とは別の列車であり、本調査では両者の関係性（共通運用の有無等）までは確認できなかった。『しまかぜ』自体については、2024年4月前後の乗車記事で第3編成のプレミアムシートのクッション構造が改良されたとの記載があるが、公式プレスリリースでの裏付けは本セッションでは確認できなかった。",
+      "target_audience": ["カップル", "記念日", "夫婦", "家族", "絶景好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 6,
+        "unique_experience_score": 19,
+        "photogenic": 13,
+        "value_for_price": 8,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 75,
+      "recommendation_reason": "観光施設向けレビューサイト（gltjp.com、3.67／5点・3件）と乗車券販売サイト（Klook、5.0／5点・4件、しまかぜ・ひのとり乗車券商品）という、性質の異なる2つの独立した情報源で数値評価を確認できた（原則6・7）。いずれも件数が極めて少なく、単独では信頼性が高いとは言えないため review_reliability は低めに評価したが、Klook側はスケール上限（5点満点換算で5.0）に達しており、主要レビュー4.0以上の条件は満たす。これに加え、鉄道専門メディア（trafficnews.jp）が『しまかぜ』を東武スペーシアXの個室導入後も総合的には最もハイグレードな私鉄特急と評価していること、観光三重（観光協会）の取材で乗客から高級感を評価する声が寄せられていること、個室が発売と同時に売り切れる人気ぶり、2014年の第57回ブルーリボン賞受賞という業界内評価、展望車両・カフェ車両・個室・サロン席という多様な客室構成の独自性（原則4・9）を総合的に評価した。全国的な知名度はある程度あるが、列車そのものを旅の目的地として写真・体験込みで紹介する投稿は少なく、知られていない良さ（個室の予約困難性や展望車両の構造など）を伝える意義があると判断した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "数値評価サイト（gltjp.com）の件数が3件、Klookが4件と非常に少なく、母数不足のため個別の低評価レビューの傾向分析は本セッションの調査範囲では確認できなかった。明確な『低評価レビュー』や重大な欠陥を指摘する一般利用者ブログも、本セッションのWebSearchでは見つからなかった（WebSearch回数上限により追加確認は未実施）。実質的な留意点としては、(1) 個室・サロン席・一部の人気席（先頭展望車両の前方席等）は発売開始と同時に完売することが多く、予約自体の難易度が高いこと、(2) 1日1往復（方面ごと）のみの運行で運休日もあるため事前の運行日確認が必須であること、(3) 短距離利用ではカフェ車両を利用する時間が取れない場合があること、の3点を確認した。これらは体験の質そのものを損なう重大な欠陥ではなく、キャプションでは予約難易度と運行日確認の必要性を明記することで対応可能と判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "しまかぜ プレミアムな風に、乗ろう。（近畿日本鉄道公式サイト）", "url": "https://www.kintetsu.co.jp/senden/shimakaze/" },
+        { "type": "official", "title": "観光特急しまかぜ（近畿日本ツーリスト『近鉄 名古屋・伊勢志摩』公式ページ）", "url": "https://www.knt.co.jp/meito/sp/shimakaze/" },
+        { "type": "review_site", "title": "Sightseeing Limited Express \"Shimakaze\"（gltjp.com、3.67／5点・3件のレビューを含むディレクトリ掲載）", "url": "https://www.gltjp.com/en/directory/item/14473/" },
+        { "type": "booking_site", "title": "Osaka to Nagoya and Ise Express Train by Kintetsu（Klook、5.0／5点・4件、しまかぜ・ひのとり乗車券商品）", "url": "https://www.klook.com/activity/203633-osaka-to-nagoya-and-ise-express-train-by-kintetsu/" },
+        { "type": "press", "title": "“豪華観光特急”の概念を変えた近鉄「しまかぜ」の今 全席プレミアム超え!? 1編成だけの激レア個室も体験（trafficnews.jp）", "url": "https://trafficnews.jp/post/663572" },
+        { "type": "other", "title": "観光特急しまかぜ（観光三重／三重県観光連盟公式サイト）", "url": "https://www.kankomie.or.jp/spot/detail_23415.html" },
+        { "type": "other", "title": "\"Shimakaze\" Train Timetable, Fares, and How to Buy Tickets（ekitan.com）", "url": "https://ekitan.com/en/article/shimakaze" },
+        { "type": "other", "title": "駅員すら「取れたの初めて…」人気列車のきっぷ予約は本当に“無理ゲー”なのか?（trafficnews.jp、しまかぜ個室の発売即完売に関する記述を含む）", "url": "https://trafficnews.jp/post/131360/3" }
+      ],
+      "creator_story": {
+        "text": "『しまかぜ』は個人の建築家・デザイナーが単独で手がけた施設ではなく、近畿日本鉄道が2009年から実施した市場調査（WebSearchで確認できた英語版Wikipedia『Kintetsu 50000 series』記事の要約によれば、14,000人以上から意見を聴取したとされる）を踏まえて開発した車両である。製造は近畿車輛が担当し、2013年3月21日に営業運転を開始した。近鉄公式サイトでは、車体カラーについて『伊勢志摩の晴れやかな空』をイメージした青を基調としたと説明されている。英語の紹介記事（1999.co.jp）では、開発の狙いを『最高のおもてなし、充実したサービス、爽やかなデザイン』の実現と要約している。この取り組みは評価され、2014年に第57回ブルーリボン賞（鉄道友の会が選定する、その年に営業運転を開始した優秀な新型車両を表彰する賞）を受賞した。\n\n近畿日本鉄道は『しまかぜ』『青の交響曲（シンフォニー）』など観光特急の開発を継続的に手がけてきた会社として知られ、堀内重人氏の著書『「しまかぜ」「青の交響曲(シンフォニー)」誕生の物語』（アルファベータブックス、2019年6月刊）という、これらの観光特急の誕生経緯を詳しく扱う書籍が国立国会図書館サーチの書誌情報で存在することを確認した。ただし本セッションでは同書の本文や、開発を担当した近鉄社内の個々の技術者・デザイナーの個人名・具体的な発言・開発時の心情を記録した一次インタビュー記事までは確認できず、確認できなかった。市場調査の実施年・人数、製造メーカー、営業開始日、受賞歴という事実面は複数の独立した出典で確認できたが、それを超える『どんな思いで手がけたか』という開発担当者個人の具体的な言葉・エピソードについては、本調査の範囲では推測や発言の創作は行わない。",
+        "sources": [
+          { "type": "other", "title": "Kintetsu 50000 series（Wikipedia英語版。市場調査の実施年・人数、製造メーカー、営業開始日、ブルーリボン賞受賞歴の記載）", "url": "https://en.wikipedia.org/wiki/Kintetsu_50000_series" },
+          { "type": "other", "title": "Kintetsu's representative limited express car [Shimakaze] reappears by changing the motor（1999.co.jp、開発の狙いに関する記載）", "url": "https://1999.co.jp/eng/10789354" },
+          { "type": "official", "title": "しまかぜ プレミアムな風に、乗ろう。（近畿日本鉄道公式サイト。車体カラーのデザインコンセプトに関する記載）", "url": "https://www.kintetsu.co.jp/senden/shimakaze/" },
+          { "type": "other", "title": "「しまかぜ」「青の交響曲(シンフォニー)」誕生の物語（堀内重人著、アルファベータブックス、2019年6月刊）国立国会図書館サーチ書誌情報", "url": "https://ndlsearch.ndl.go.jp/en/books/R100000002-I029708322" }
+        ]
+      },
+      "decision": "selected"
+    }
+  ]
+}

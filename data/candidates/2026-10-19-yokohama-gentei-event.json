@@ -1,0 +1,142 @@
+{
+  "cycle_date": "2026-10-19",
+  "theme": "神奈川県横浜市のホテルで開催中の期間限定アフタヌーンティー・ディナー等のイベント企画（リサーチ＋キャプションのみ、画像構成なし）",
+  "season_rationale": "10月中旬〜11月中旬は横浜みなとみらい・山下公園エリアの主要ホテルが『秋の味覚』をテーマにした期間限定アフタヌーンティーを展開しており、終了間際の『今だけ』感を訴求しやすい時期（原則30）。依頼によりカテゴリ『その他（期間限定イベント）』・地域『神奈川県横浜市』を指定して再調査した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-18-kitakobushi-shiretoko", "region": "北海道斜里郡斜里町ウトロ東（知床・ウトロ温泉）", "category": "アクティビティ" },
+    { "post_id": "2026-10-18-hoshinoya-fuji", "region": "山梨県南都留郡富士河口湖町大石（河口湖畔）", "category": "グランピング" },
+    { "post_id": "2026-10-18-grand-mercure-okinawa-zanpa", "region": "沖縄県中頭郡読谷村字儀間", "category": "オールインクルーシブ" },
+    { "post_id": "2026-10-18-fukuoka-momochihama-autumn-afternoontea", "region": "福岡県福岡市早良区百道浜", "category": "その他" },
+    { "post_id": "2026-09-18-yokohama-gentei-event", "region": "神奈川県横浜市（みなとみらい・山下公園エリア）", "category": "その他（過去サイクル・3候補ともreview_scores不足のためrejected、captionは未作成）" }
+  ],
+  "duplication_note": "地域『神奈川県横浜市』は2026-09-18サイクルで一度調査済みだが、その3候補（ヒルトン横浜・ウェスティン横浜・ホテルニューグランド）はいずれもスコア不足（最大45点）でrejectedとなり、captionは作成されていない。そのため実質的な重複投稿は存在しない。今回は前回調査時には存在しなかった新規の企画（ザ・ゲートホテル横浜 by HULICの秋アフタヌーンティー等）を中心に再調査した。カテゴリ『その他』は直近（2026-10-18・福岡）でも使用しているが、依頼により地域・カテゴリを指定された再調査サイクルのため実施した。",
+  "research_notes": "このセッションのネットワーク環境では、観光情報サイト（kanagawa-kankou.or.jp）・ホテル公式サイト（the-gatehotels.jp等）へのWebFetchがすべてEGRESS_BLOCKED（DNS解決不可）となり、本文を直接確認できなかった。そのためWebSearchのスニペットから得られる情報のみを根拠としている。また本サイクル後半でこのセッションのWebSearch回数上限（1ターンあたりの上限）に達したため、じゃらん・トリップアドバイザー・Googleマップでのネガティブレビューの追加確認ができなかった。確認できた範囲（Relux・楽天トラベル・OZmall・フォートラベル・プレス記事）では重大な欠陥の指摘はなかったが、これらのサイトを直接確認できていない点は留意事項として記録する。",
+  "candidates": [
+    {
+      "id": "2026-10-19-gatehotel-yokohama-grape-afternoontea",
+      "name": "ザ・ゲートホテル横浜 by HULIC「ぶどうのアフタヌーンティー」（12F Bar & Lounge）",
+      "region": "神奈川県横浜市中区山下町（山下公園前）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Relux（施設全体の口コミ）", "score": 4.7, "scale": 5, "review_count": 69, "checked_date": "2026-10-19", "url": "https://rlx.jp/466053/review/" },
+        { "source": "楽天トラベル（施設全体の口コミ・四捨五入後の総合評価）", "score": 4.0, "scale": 5, "review_count": 239, "checked_date": "2026-10-19", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/192809" }
+      ],
+      "price_range_jpy": {
+        "note": "1名6,400円（食前酒・スイーツ6品・セイボリー7品・カフェフリー付き）。平日限定、12:00〜14:00／14:30〜16:30／17:00〜19:00の2時間制3部制。事前予約制で最終受付は2日前まで。神奈川県観光協会の観光情報サイト（kanagawa-kankou.or.jp）掲載情報に基づく。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2025年2月26日開業、山下公園正面・元町・中華街駅から徒歩約3〜4分という横浜の新ランドマークホテル『ザ・ゲートホテル横浜 by HULIC』。横浜港を一望する最上階12階『Bar & Lounge』にて、2026年9月16日(水)〜11月16日(月)の平日限定で『ぶどうのアフタヌーンティー』を提供。食前酒・スイーツ6品・セイボリー7品・カフェフリーという構成で、横浜港を望む大人の空間でぶどうの季節感を楽しめる。13階には宿泊者限定のルーフトップテラスも備える。",
+      "renewal_or_news": "2025年2月開業のまだ新しいホテルで、2026年9月16日〜11月16日の秋季限定提供（神奈川県観光情報サイト掲載）。",
+      "target_audience": ["カップル", "記念日", "女子旅", "ホテル好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 11,
+        "unique_experience_score": 15,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 5
+      },
+      "score": 77,
+      "recommendation_reason": "Relux4.7点（69件）、楽天トラベル4.0点（239件、四捨五入後の総合評価）という2つの独立した情報源で4.0以上を確認した（原則6・7）。2025年2月開業とまだ新しいホテルが、山下公園正面・横浜港一望という立地を活かした最上階12階のBar & Loungeで提供する点に独自性があり、13階の宿泊者限定ルーフトップテラスも含めた『横浜ランドマーク』としての世界観がある。2026年11月16日までの平日限定企画で、調査日（10/19）から約4週間の訴求余地が残っている点も『今だけ』として投稿タイミングに適している。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Relux・楽天トラベル・OZmall・プレス記事・観光情報サイトの範囲では、客室の居心地・朝食・接客についておおむね好意的な言及のみで、重大な欠陥（清潔感・接客・混雑・予約トラブル等）の指摘は確認できなかった。ただし本セッションはWebSearch回数上限に達したため、じゃらん・トリップアドバイザー・Googleマップでの個別レビュー本文までは確認できておらず、確認範囲が限定的である点は正直に記録する。確認できた範囲では除外基準（原則10）に該当する重大な問題は見つかっていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "ザ・ゲートホテル横浜 by HULIC「ぶどうのアフタヌーンティー」- 神奈川県観光情報サイト", "url": "https://kanagawa-kankou.or.jp/event/7848" },
+        { "type": "review_site", "title": "ザ・ゲートホテル横浜 by HULIC 口コミ・レビュー - Relux", "url": "https://rlx.jp/466053/review/" },
+        { "type": "booking_site", "title": "ザ・ゲートホテル横浜 by HULIC - 楽天トラベル", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/192809" },
+        { "type": "other", "title": "新オープンの「ザ・ゲートホテル横浜 by HULIC」で横浜を満喫するステイ - OZmall", "url": "https://www.ozmall.co.jp/travel/stay/hotel/42249/" },
+        { "type": "press", "title": "横浜の新旧の魅力を併せ持つ、新たなランドマークホテル「ザ・ゲートホテル横浜 by HULIC」本日グランドオープン - 財経新聞", "url": "https://zaikei.co.jp/releases/2822947/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-19-kahala-yokohama-autumn-afternoontea",
+      "name": "ザ・カハラ・ホテル&リゾート 横浜「オータムフェスティバルアフタヌーンティー」",
+      "region": "神奈川県横浜市西区みなとみらい",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Relux（施設全体の口コミ）", "score": 4.5, "scale": 5, "review_count": 17, "checked_date": "2026-10-19", "url": "https://rlx.jp/377406/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "1名10,120円（税・サービス料込み）。完全予約制・数量限定。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "ハワイ発の名門ホテルブランド『ザ・カハラ』の国内2軒目として2020年開業。みなとみらいの14階建て・全146室のホテルで、和栗・洋梨・いちじく・シャインマスカットなど秋の味覚を使ったアフタヌーンティーを2026年9月1日〜10月31日の期間限定で提供。",
+      "renewal_or_news": "2026年9月1日〜10月31日の秋季限定提供。",
+      "target_audience": ["カップル", "記念日", "夫婦", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 5,
+        "unique_experience_score": 14,
+        "photogenic": 11,
+        "value_for_price": 5,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 57,
+      "recommendation_reason": "ハワイ発の名門ブランドという話題性、和栗・洋梨・いちじく・シャインマスカットという秋食材の構成に魅力はあるが、数値で確認できた口コミはRelux4.5点（17件）という単独の情報源のみ（楽天トラベルは個別投稿の評価が4点と低評価で分かれており、施設全体の総合評価として確認できなかった）で、原則7（最低2種類以上の独立情報源）を満たせない。価格も10,120円と高めで価格対体験価値もやや低く評価した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Relux上では高評価が中心だが、楽天トラベルの個別投稿では『眺望がなかった』『子どもの騒がしさがあった』という残念な滞在の報告も1件確認された。重大な欠陥が複数確認されたわけではないため除外基準（原則10）には該当しないが、口コミの評価に幅があることは留意点として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "ザ・カハラ・ホテル&リゾート 横浜「オータムフェスティバルアフタヌーンティー」- 神奈川県観光情報サイト", "url": "https://www.kanagawa-kankou.or.jp/event/7815" },
+        { "type": "review_site", "title": "ザ・カハラ・ホテル&リゾート 横浜 口コミ・レビュー - Relux", "url": "https://rlx.jp/377406/review/" },
+        { "type": "booking_site", "title": "ザ・カハラ・ホテル&リゾート 横浜 口コミ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/187395/review.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "施設全体の口コミ評価を数値で確認できた独立情報源がRelux1件（4.5点・17件）のみで、原則7（最低2種類以上の独立情報源）を満たせなかった。楽天トラベルは個別投稿のみで施設全体の総合評価が確認できず、score_breakdown合計57点で採用ライン（75点）にも届かないため見送った。"
+    },
+    {
+      "id": "2026-10-19-shin-yokohama-prince-otsukimi-kaiseki",
+      "name": "新横浜プリンスホテル「お月見会席」（40F 日本料理 羽衣）",
+      "region": "神奈川県横浜市港北区新横浜",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル（施設全体の口コミ）", "score": 4.19, "scale": 5, "review_count": 245, "checked_date": "2026-10-19", "url": "https://4travel.jp/dm_hotel-10041912" },
+        { "source": "OZmall（最新口コミ1件）", "score": 4.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-19", "url": "https://www.ozmall.co.jp/travel/stay/kanagawa/area/area_1405/hotel/kwd_47/list/" }
+      ],
+      "price_range_jpy": {
+        "note": "本会席の正確な料金は、このセッションのWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-10-19",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "新横浜駅から徒歩約2分のランドマークホテル『新横浜プリンスホテル』40階の日本料理店『羽衣』にて、2026年9月1日〜10月31日の期間限定で『お月見会席』を提供。高層階からの眺望とともに秋の会席料理を楽しめる。",
+      "renewal_or_news": "2026年9月1日〜10月31日の秋季限定提供。",
+      "target_audience": ["夫婦", "記念日", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 17,
+        "review_reliability": 10,
+        "unique_experience_score": 10,
+        "photogenic": 9,
+        "value_for_price": 4,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 57,
+      "recommendation_reason": "フォートラベル4.19点（245件）、OZmall4.00点（件数不明の最新1件）という2つの情報源は確認できたが、料金が確認できず価格対体験価値を評価できないこと、会席料理という企画自体の独自性・映え要素・SNS話題性が他候補に比べて控えめであること、提供終了（10/31）まで約12日と訴求できる期間が短いことから、総合スコアは採用ライン（75点）に届かない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "OZmallの最新口コミでは『年季は感じるが清潔で安心して宿泊できる』という評価で、重大な欠陥の指摘はなかった。フォートラベルの口コミ本文は件数が多く個別には確認できていないが、検索結果の範囲では重大な欠陥の言及は見られなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "新横浜プリンスホテル - フォートラベル", "url": "https://4travel.jp/dm_hotel-10041912" },
+        { "type": "other", "title": "新横浜プリンスホテル 口コミ - OZmall", "url": "https://www.ozmall.co.jp/travel/stay/kanagawa/area/area_1405/hotel/kwd_47/list/" },
+        { "type": "other", "title": "新横浜プリンスホテル「お月見会席」（日本料理 羽衣）", "url": "https://www.princehotels.co.jp/file.jsp?id=522545" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "料金が未確認で価格対体験価値を評価できず、独自性・映え・SNS話題性のスコアも他候補に比べ低い。score_breakdown合計57点で採用ライン（75点）に届かないため見送った。"
+    }
+  ]
+}

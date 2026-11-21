@@ -1,0 +1,210 @@
+{
+  "cycle_date": "2026-11-08",
+  "theme": "グランピングカテゴリ：愛媛県今治市大三島エリア",
+  "season_rationale": "グランピング（ドームテント宿泊）自体は年間営業の施設が中心で特定季節に限定される体験ではないが、しまなみ海道のサイクリングは秋（11月前後）が気候的にハイシーズンとされ、サイクリング拠点を兼ねる大三島のグランピング施設にとって需要が高まる時期にあたる。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-10-21-onomichi-setouchi-glamping", "region": "広島県尾道市瀬戸田町（生口島・しまなみ海道）", "category": "グランピング" },
+    { "candidate_id": "2026-10-28-imabari-kurushima-choryu", "region": "愛媛県今治市（来島海峡・能島周辺、宮窪町・吉海町）", "category": "列車・船" },
+    { "candidate_id": "2026-11-01-miyajima-hatsukaichi-glamping", "region": "広島県廿日市市宮島", "category": "グランピング" },
+    { "candidate_id": "2026-10-27-azumino-glamping", "region": "長野県安曇野市", "category": "グランピング" }
+  ],
+  "duplication_note": "data/candidates・captions配下を『大三島』『今治』『おおみしま』『Omishima』『しまなみ』『WAKKA』『グランピング』等のキーワードでファイル名・本文内容の両方で横断検索した結果（1ヶ月以上前の実績も含め全件確認）、愛媛県今治市大三島エリアのグランピング候補・投稿はこれまで一度も存在しないことを確認した。今治市関連では2026-10-28に来島海峡・能島（宮窪町・吉海町）の列車・船カテゴリ候補が調査済みだが、対象自治体内の別エリア（大三島）・別カテゴリ（グランピング）であり施設も重複しない。しまなみ海道沿いのグランピングとしては2026-10-21に広島県尾道市瀬戸田町（生口島）の候補が存在するが、別の自治体・別の島であり対象施設も異なる。本サイクルで重複は確認されなかった。",
+  "research_constraints": "本セッションのWebSearchはスニペット経由の結果のみを情報源とした。公式サイトを含む個別ページへのWebFetch（jalan.net, icotto.jp, camp24.jp, imabaritowel.jp, service-award.jp, shikoku.meti.go.jpなど）は本セッションのネットワーク許可ドメイン外のため全て失敗（ENOTFOUND）し、実行できなかった。また、調査途中でこのセッション（他エージェントとの共有枠を含む）のWebSearch呼び出し上限に達したため、RVパーク しまなみ海道大三島・GLAMPROOKしまなみについては追加の深掘り検索ができていない。じゃらんの評価点（WAKKA: 4.9／49件）はWeb検索結果の要約スニペットから得られた数値であり、じゃらんの該当ページを直接確認できていないため、次サイクル以降での一次確認（公式サイト・じゃらん本体ページの直接確認、WAKKAの公式サイトURLの特定、代表者名・開業経緯の一次情報での再確認）を推奨する。特にWAKKAの住所表記（宿泊施設側は今治市上浦町井口＝大三島、一部のレストラン情報サイトでは今治市吉海町本庄＝大島側の地名）に不一致があり、公式窓口（0897-72-8705）での確認が必要。",
+  "candidates": [
+    {
+      "id": "2026-11-08-wakka-omishima",
+      "name": "しまなみ海道WAKKA（ワッカ）",
+      "region": "愛媛県今治市上浦町井口（大三島、しまなみ海道大三島IC付近）",
+      "category": "グランピング",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "じゃらん",
+          "score": 4.9,
+          "scale": 5,
+          "review_count": 49,
+          "checked_date": "2026-11-08",
+          "url": "https://www.jalan.net/yad372988"
+        },
+        {
+          "source": "Relux",
+          "score": 5.0,
+          "scale": 5,
+          "review_count": 5,
+          "checked_date": "2026-11-08",
+          "url": "https://rlx.jp/25425/review/"
+        },
+        {
+          "source": "フォートラベル",
+          "score": 3.23,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-11-08",
+          "url": "https://4travel.jp/dm_hotel-10058218"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "ドームテント（2名利用・1泊2食付き）で1名18,000円程度から、予約サイト（JTB）掲載では大人2名1室合計で税込38,000円〜86,000円との表示もある。宿泊棟はオーシャンビューのドームテント・コテージ・ドミトリー等複数タイプがあり、ドームテントはシャワー・トイレ共用との記載もある。施設内カフェの営業時間は11:00〜16時台とする掲載が多いが、一部のレストラン情報サイトでは11:00〜17:00・住所『今治市吉海町本庄477』という、宿泊施設側の住所『今治市上浦町井口6691-1』（大三島）と異なる表記があり、どちらが正確か公式窓口での確認が必要。いずれも検索時点の各サイト掲載値で、最新の正確な料金・住所は公式サイトまたは電話（0897-72-8705）で要確認。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "しまなみ海道のほぼ中央に位置する大三島で、全室オーシャンビューを掲げるドーム形テント・コテージに泊まれる複合ツーリズム施設。宿泊に加え、しまなみ海道サイクリングを支える『サイクリングサポート』（シャワー・ランドリー・荷物預かり・自転車関連サービス等）の拠点でもあり、単なる宿泊施設ではなく『サイクリストの島の拠点』として機能している点が他のグランピング施設との大きな違いになっている。海を望むテラスのカフェ（バリスタのコーヒー・地元食材のメニュー）も人気とされる。",
+      "renewal_or_news": "2020年にオープンした施設で、運営する株式会社わっかのサイクリングサポート事業が2025年に第5回日本サービス大賞 地方創生大臣賞を受賞したとされる（しまなみ海道の魅力発信・雇用創出等の地方創生への貢献が評価理由）。本調査ではWebSearchのスニペット経由でこの受賞情報を確認したが、公式サイトでの直接確認はできていない。",
+      "target_audience": ["カップル", "友人", "絶景好き", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 12,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 84,
+      "recommendation_reason": "じゃらん評価4.9（49件）・Relux評価5.0（5件）という複数の独立情報源から高評価が確認でき、原則6の4.0以上基準を十分に満たす。『オーシャンビューのドームテント』という写真訴求力の高い宿泊形態に加え、しまなみ海道サイクリングの拠点という独自の機能を持ち、2025年の国の地方創生関連の表彰も受けているなど、知名度はまだ全国的に高くないものの実績の裏付けがある『隠れた拠点』として紹介価値が高い。一方でフォートラベル上の評価（3.23、件数1件）はじゃらん・Reluxより低く、サンプル数も少ないため単純比較はできないが、紹介時には評価のばらつきがある点も踏まえておくべきである。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "じゃらん（4.9／49件）・Relux（5.0／5件）では非常に高い評価が確認できた一方、フォートラベルでは3.23（件数1件、算出基準は確認できず）という他サイトより低い評価も見つかった。ただし具体的な低評価の内容（設備の古さ・接客への不満等）を示す記述は検索結果内では確認できなかった。ドームテントの一部はシャワー・トイレが共用タイプとされているため、プライベートな浴室設備を期待する利用者には事前案内が必要な留意点として明示する。重大な事故・苦情・営業停止等の情報は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "WAKKA（しまなみ海道・大三島） 施設情報・評価4.9（クチコミ49件） - じゃらん",
+          "url": "https://www.jalan.net/yad372988"
+        },
+        {
+          "type": "review_site",
+          "title": "WAKKA レビュー（評価5.0、5件） - Relux",
+          "url": "https://rlx.jp/25425/review/"
+        },
+        {
+          "type": "review_site",
+          "title": "WAKKA クチコミ（評価3.23） - フォートラベル",
+          "url": "https://4travel.jp/dm_hotel-10058218"
+        },
+        {
+          "type": "other",
+          "title": "しまなみ海道のカフェ特集（WAKKAのテラス・バリスタコーヒー等、口コミ120件を参考にまとめ） - 食べログまとめ",
+          "url": "https://tabelog.com/matome/22764/"
+        },
+        {
+          "type": "other",
+          "title": "WAKKA 施設情報（大三島ICより車で約3分、ドームテント・コテージ） - icotto",
+          "url": "https://icotto.jp/hotels/8260"
+        },
+        {
+          "type": "other",
+          "title": "WAKKA 施設情報（所在地：今治市上浦町井口、営業時間） - Mapple",
+          "url": "https://www.mapple.net/region/a0602090501_g04000000_s-situation=rain/spot/"
+        }
+      ],
+      "decision": "selected",
+      "creator_story": {
+        "text": "しまなみ海道WAKKAを運営する株式会社わっかの企業理念は『旅と地域をつなぐ』とされている。日本サービス大賞（第5回、2025年地方創生大臣賞）の受賞事例集によれば、創業者でもある代表が、しまなみ海道を何度も自転車で走った際に、受け入れ体制の不足など様々な不便さを実際に感じ、それを書き出してサービスとして形にしたのがこの事業の出発点だとされている。その後、旅行客とのやり取りを通じて短期間でサービスを改善し続けたとも紹介されており、サイクリングサポート事業は『しまなみ海道のサイクリングのお悩みを全て解決する』という信条のもとで提供されているという。しまなみ海道WAKKAは2020年にオープンし、宿泊（ドームテント・コテージ等）・カフェ・サイクリングサポート・旅行業・旅客運送業を手がける大三島の複合ツーリズム施設として運営されている。ただし、代表者個人の氏名や、本人の言葉による詳細なインタビュー・改修方針などの一次情報は、本調査（WebSearchのスニペット経由）では確認できなかった。創業の背景にある『思い』は受賞事例集の要約という形で確認できたが、それ以上の個人名・発言の詳細は確認できなかった旨をここに明記する。推測や発言の創作は行っていない。",
+        "sources": [
+          {
+            "type": "press",
+            "title": "日本サービス大賞 受賞事例集（第5回・地方創生大臣賞、株式会社わっか／しまなみ海道WAKKAのサイクリングサポート事業の立ち上げ経緯・理念）",
+            "url": "https://service-award.jp/result_case05/dl/creation06.pdf"
+          },
+          {
+            "type": "other",
+            "title": "株式会社わっか 企業情報（本社・事業内容の確認） - compalyze",
+            "url": "https://compalyze.co.jp/company/5500001021428"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-08-rvpark-shimanami-omishima",
+      "name": "RVパーク しまなみ海道大三島",
+      "region": "愛媛県今治市（大三島、しまなみ海道大三島IC周辺）",
+      "category": "グランピング",
+      "is_hidden_gem": true,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "検索結果内では具体的な宿泊料金を確認できなかった。RVパーク（車中泊専用スペース）に加え、グランピングコテージ・バンガローも併設されているとする紹介があるが、詳細な料金・プラン内容は本調査では確認できていない。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "大三島唯一のRVパーク（車中泊用駐車スペース）とされ、車中泊とグランピングコテージ・バンガローを組み合わせて利用できる点が特徴として紹介されている。",
+      "target_audience": ["友人", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 8,
+        "photogenic": 5,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 23,
+      "recommendation_reason": "大三島内の施設として言及されているが、独立した口コミサイトでの評価点・件数を本調査（WebSearch）では確認できず、原則6（主要レビュー4.0以上・独立2情報源）の裏付けが取れない。施設概要も断片的で、具体的な料金・設備の詳細も確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ評価そのものが検索結果内で確認できず、低評価レビューの有無を判断する材料がない。重大な事故・苦情・営業停止等の情報も見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "RVパーク しまなみ海道大三島｜愛媛県 今治市のRVパーク・車中泊スポット｜キャンプ24",
+          "url": "https://camp24.jp/campsite/arubuipakushimanamikaidouoomishima"
+        },
+        {
+          "type": "booking_site",
+          "title": "グランピング・キャンプを楽しめるプラン（今治市（愛媛県）） - JTB",
+          "url": "https://www.jtb.co.jp/kokunai-hotel/list/38202/feature/glampingplan/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立した口コミサイトでの評価点・件数を確認できず、原則6の裏付け基準を満たせないため。WebSearchの呼び出し上限に達し、本サイクル内での追加調査ができなかったため、次サイクル以降での再調査候補として保留する。"
+    },
+    {
+      "id": "2026-11-08-glamprook-shimanami",
+      "name": "GLAMPROOKしまなみ",
+      "region": "愛媛県今治市馬島（今治港から専用ボートで送迎、大三島ICから車で3分の立地とも紹介されるが大三島そのものではない別の離島）",
+      "category": "グランピング",
+      "is_hidden_gem": true,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "検索結果内では具体的な宿泊料金は確認できなかった。",
+        "as_of_search_date": "2026-11-08",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "今治港から専用ボートで送迎される馬島（今治市）でのグランピング施設とされ、『今治市内から、いちばん近い非日常』として紹介されている。離島ならではのプライベート感が特徴とみられる。",
+      "target_audience": ["カップル", "記念日"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 14,
+        "photogenic": 9,
+        "value_for_price": 4,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 32,
+      "recommendation_reason": "ボート送迎の離島プライベートグランピングという独自性自体は紹介価値がありそうだが、所在地は大三島ではなく今治市馬島（今治港からボートで送迎される別の離島）であり、本サイクルで指定された対象地域『大三島エリア』とは異なる。加えて口コミ評価も検索結果内では確認できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ評価そのものが検索結果内で確認できず、低評価レビューの有無を判断する材料がない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "今治市内から、いちばん近い非日常。 グランピング施設GLAMPROOKしまなみ - 今治タオル公式ブランドサイト",
+          "url": "https://www.imabaritowel.jp/imabari_life/imabari/imabari_life/imabari5432"
+        },
+        {
+          "type": "booking_site",
+          "title": "グランピング・キャンプを楽しめるプラン（今治市（愛媛県）） - JTB",
+          "url": "https://www.jtb.co.jp/kokunai-hotel/list/38202/feature/glampingplan/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "所在地が大三島ではなく今治市馬島（今治港からボートで送迎される別の離島）であり、本サイクルで指定された地域『大三島エリア』の対象外と判断したため。参考として、独立した口コミ評価も確認できなかった。"
+    }
+  ]
+}

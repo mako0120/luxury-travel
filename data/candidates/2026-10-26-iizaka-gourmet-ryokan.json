@@ -1,0 +1,143 @@
+{
+  "cycle_date": "2026-10-26",
+  "theme": "グルメ旅館×福島県飯坂温泉（依頼指定の地域・カテゴリ）",
+  "season_rationale": "飯坂温泉は奥州三名湯の一つで、摺上川沿いの渓谷や周辺の山々が紅葉の見頃を迎える10月下旬〜11月上旬のタイミング。あわせて福島県の名産である福島牛を使った会席・ステーキプランが各旅館で通年提供されており、紅葉観光と組み合わせた『グルメ旅館』訴求に適した時期。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-23-higashiyama-harataki", "region": "福島県会津若松市東山町湯本（東山温泉）", "category": "グルメ旅館", "note": "同じ福島県だが東山温泉は会津地方で飯坂温泉とは別エリア・別施設" },
+    { "post_id": "2026-10-24-yamanaka-onsen-gourmet-ryokan（候補: 2026-10-24-kissho-yamanaka）", "region": "石川県山中温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-20-gero-onsen-gourmet-ryokan", "region": "岐阜県下呂温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-21-yuda-onsen-gourmet-ryokan", "region": "山口県湯田温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-19-wajima-gourmet-ryokan", "region": "石川県輪島市（輪島温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-18-gourmet-ryokan-yonago", "region": "鳥取県米子市", "category": "グルメ旅館" },
+    { "post_id": "2026-10-19-kaga-onsenkyo-gourmet-ryokan", "region": "石川県加賀温泉郷（山代温泉・山中温泉）", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "data/candidates/全件（2026-09-14〜2026-10-25、約190件）とcaptions/全件を『飯坂』『いいざか』『Iizaka』『福島市』で確認した。福島県関連の既存候補はサウナ（いわき湯本・土湯・東鳴子系ではなく「いわき湯本サウナ」「鳴子・遠刈田系とは別」）、絶景ホテル（蔵王国際ホテル：福島県米沢ではなく山形/宮城県境・蔵王）、温泉旅館（有馬温泉・道後温泉は福島県ではない）など複数あるが、いずれも『福島県飯坂温泉』そのものを対象にした候補・制作物は存在しなかった。地域・カテゴリとも本サイクルが初回の調査であり、重複なし。",
+  "research_note": "WebSearchで『飯坂温泉 グルメ旅館』関連の候補を調査した結果、本サイクルの中盤でセッション共有のWebSearch呼び出し上限に達し、以降の追加検索（吉川屋のGoogleマップ評価の正確な件数確認、摺上亭大鳥の4travel口コミ件数確認など）を断念した。そのため、数値の裏取りが不十分な情報源（スニペット上で件数が明示されない評価）は候補のreview_scoresに含めず、recommendation_reason／rejection_reasonのテキストで言及のみに留めた。次サイクル以降、WebSearch上限がリセットされた状態で吉川屋・摺上亭大鳥の再調査を推奨する。",
+  "candidates": [
+    {
+      "id": "2026-10-26-iizaka-matsuriya-yuzaemon",
+      "name": "祭屋 湯左衛門",
+      "region": "福島県福島市飯坂町（奥飯坂・摺上川沿い）。福島交通飯坂線「飯坂温泉駅」が最寄り。東北新幹線「福島駅」からも利用可（送迎有無・所要時間は要公式確認）。",
+      "category": "グルメ旅館",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "スカイチケット（口コミ集計）", "score": 4.5, "scale": 5, "review_count": 202, "checked_date": "2026-10-26", "url": "https://skyticket.jp/hotel/detail/property_12118/" },
+        { "source": "Jcation（口コミ集計）", "score": 4.5, "scale": 5, "review_count": 30, "checked_date": "2026-10-26", "url": "https://jcation.com/hotel/detail-7976/" },
+        { "source": "ニフティ温泉", "score": 0.0, "scale": 5, "review_count": 1, "checked_date": "2026-10-26", "url": "https://onsen.nifty.com/fukushima-onsen/onsen005512/" }
+      ],
+      "price_range_jpy": {
+        "note": "KNT（近畿日本ツーリスト）掲載の宿泊プラン一覧によると、2026年10月1日〜2027年3月30日の期間、和室1名あたり17,100円〜27,900円（食事内容・部屋タイプにより変動）。素泊まりプランは8,000円〜16,000円という表示も確認した。じゃらん・楽天トラベル上の個別プラン料金はWeb検索のスニペットでは確定できなかったため、予約時に公式サイト・予約サイトで最新料金の確認を推奨する。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する。予約時に公式サイト・予約サイトで最新料金の確認を推奨。"
+      },
+      "unique_experience": "大正10年（1921年）創業、『祭り情緒』をテーマにした奥飯坂・摺上川沿いの老舗旅館。露天風呂はジャグジー・岩風呂（打たせ湯付き）・寝湯の3種類を男女問わず利用でき、四季の渓谷の景色と夜は星空を楽しめる。宿泊者の口コミでは囲炉裏付きの客室も紹介されている（全室かは未確認）。地元食材を使った和食中心の料理が好評とされ、毎週土曜には『飯坂けんか祭り』にちなんだ太鼓ショーが行われてきた（開催状況の最新確認は制作直前に必須）。福島牛を扱う会席プランの有無は本調査では確定できず、制作時に公式で確認が必要。",
+      "renewal_or_news": "2026年10月1日〜2027年3月30日の宿泊プラン（和室1名17,100円〜27,900円）が予約サイトに掲載されており、通年で営業継続していることを確認した。太鼓ショーの現行の開催頻度・休止状況については直近の公式発表を確認できておらず、制作前の再確認が必要。",
+      "target_audience": ["カップル", "夫婦", "家族", "グルメ旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 11,
+        "unique_experience_score": 16,
+        "photogenic": 11,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 75,
+      "recommendation_reason": "スカイチケット集計4.5（202件）・Jcation集計4.5（30件）という2つの独立した情報源で、採用ライン4.0以上を安定して確認できる（原則6・7）。大正10年創業の老舗で、祭り情緒をテーマにした太鼓ショーや3種の露天風呂、囲炉裏付き客室など独自の体験要素が複数あり、全国的な知名度の高い飯坂温泉の中でも一般にはまだ広く知られていない『知られていない良さ』を伝えられる候補（Hidden Gem条件：公式に近い予約サイトで営業継続を確認・独自性あり・写真/体験に伝える価値あり、を満たすためis_hidden_gem: trueとした）。ニフティ温泉のみ口コミ1件で0.0という乖離があるが、件数が極端に少なく統計的信頼性が低いため、スカイチケット・Jcationの評価を優先した。福島牛を使った具体的な会席プランの有無はWebSearch上限により確定できず、制作段階での公式確認が必要。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "cocolocala掲載の2026年1〜4月の直近口コミ（いずれも5.0評価）では、囲炉裏付き客室の広さ・3種の露天風呂・価格の手頃さ・浴場の清潔感が好意的に書かれている一方、『庭園エリアが夜は暗く照明が欲しい』『朝食にコーヒーがあるとよい』という軽微な改善要望が見られた。清潔感・安全性・接客に関わる重大な指摘は確認されなかった。ニフティ温泉の0.0評価（1件）は件数が少なく具体的な指摘内容を確認できなかったため、参考情報として扱い、重大な懸念とは判断しなかった。太鼓ショーの現行開催状況は未確認であり、制作前に要再確認。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "祭屋湯左衛門 口コミ集計（4.5・202件） - スカイチケット", "url": "https://skyticket.jp/hotel/detail/property_12118/" },
+        { "type": "other", "title": "祭屋湯左衛門 評価（4.5・30件、項目別スタッフ4.7等） - Jcation", "url": "https://jcation.com/hotel/detail-7976/" },
+        { "type": "review_site", "title": "祭屋 湯左衛門 口コミ（0.0・1件） - ニフティ温泉", "url": "https://onsen.nifty.com/fukushima-onsen/onsen005512/" },
+        { "type": "review_site", "title": "祭屋湯左衛門 直近口コミ（囲炉裏付き客室・露天風呂3種・価格等、2026年1〜4月投稿） - cocolocala", "url": "https://www.cocolocala.jp/hotels/3346" },
+        { "type": "booking_site", "title": "祭屋 湯左衛門 宿泊プラン一覧（2026/10/1〜2027/3/30 和室17,100円〜27,900円） - KNT近畿日本ツーリスト", "url": "https://yado.knt.co.jp/planlist/S070006/" },
+        { "type": "booking_site", "title": "祭屋 湯左衛門 施設ページ - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/11219/11219.html" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-26-iizaka-surikamitei-ootori",
+      "name": "飯坂温泉 摺上亭 大鳥",
+      "region": "福島県福島市飯坂町",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "ニフティ温泉", "score": 3.4, "scale": 5, "review_count": 7, "checked_date": "2026-10-26", "url": "https://onsen.nifty.com/cs/catalog/onsen_onsen-detail/catalog_onsen005505_1.htm" },
+        { "source": "フォートラベル", "score": 3.23, "scale": 5, "review_count": 1, "checked_date": "2026-10-26", "url": "https://4travel.jp/dm_hotel-10039450" }
+      ],
+      "price_range_jpy": {
+        "note": "本調査では具体的な料金帯を確認できなかった。WebSearch上限に達したため公式・主要予約サイトでの料金確認は次サイクルに持ち越す。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "福島牛や朝食バイキングなど『食事が美味しい』という評価がAll About記事・口コミで複数確認でき、広々とした内風呂・露天風呂も好評。All Aboutは2026年8月時点で楽天トラベルの平均評価が『4.0超え』であると紹介しているが、具体的な件数・スコアは本調査のWebSearchスニペットでは確認できなかった。",
+      "target_audience": ["カップル", "夫婦", "グルメ旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 6,
+        "unique_experience_score": 12,
+        "photogenic": 9,
+        "value_for_price": 4,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 52,
+      "recommendation_reason": "福島牛・朝食バイキングを評価する声は複数あり食事面の魅力は一定ある一方、今回確度高く数値を確認できた情報源（ニフティ温泉3.4／7件、フォートラベル3.23）はいずれも採用ライン4.0未満で、口コミ件数も少ない。All Aboutが言及する『楽天トラベル平均4.0超え』は件数・スコアの出典ページを直接確認できず、原則7の独立情報源としては採用しなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミでは『部屋は清潔で景色も良いが、設備の古さ』を示唆する声があり、楽天トラベル経由の投稿でも『部屋と温泉には少し残念だった』という意見が確認された。清潔感や接客の重大な欠陥ではないが、評価数値自体が採用ラインに届いていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "摺上亭 大鳥 口コミ（3.4・7件） - ニフティ温泉", "url": "https://onsen.nifty.com/cs/catalog/onsen_onsen-detail/catalog_onsen005505_1.htm" },
+        { "type": "review_site", "title": "摺上亭大鳥 口コミ・評価（3.23） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10039450" },
+        { "type": "other", "title": "「飯坂温泉 摺上亭 大鳥」福島牛の料理・朝食バイキング等紹介記事 - All About", "url": "https://news.allabout.co.jp/articles/o/125482/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア52点で採用ライン（75点）未満。確度高く確認できたニフティ温泉3.4（7件）・フォートラベル3.23の2情報源ともに主要レビュー評価4.0未満のため、原則6の採用基準（4.0以上）を満たさない。WebSearch上限により楽天トラベル上の正確な評価点・件数を直接確認できなかったため、次サイクル以降に再調査の余地あり。"
+    },
+    {
+      "id": "2026-10-26-iizaka-yoshikawaya",
+      "name": "奥飯坂 穴原温泉 匠のこころ 吉川屋",
+      "region": "福島県福島市飯坂町湯沢（奥飯坂・穴原温泉、摺上川渓谷沿い）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.42, "scale": 5, "review_count": 35, "checked_date": "2026-10-26", "url": "https://4travel.jp/dm_hotel-10055091" }
+      ],
+      "price_range_jpy": {
+        "note": "All About掲載の参考価格は大人1名12,100円〜（記事・時期により変動）。じゃらん・楽天トラベル上の具体的な料金はWeb検索のスニペットでは確定できなかった。",
+        "as_of_search_date": "2026-10-26",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "摺上川渓谷沿いに立ち、露天風呂・大浴場からの渓谷の景色が好評。夕食の薬膳スープ、朝食のフレンチトーストやビュッフェなど食事メニューの幅広さが口コミで評価されている。All Aboutは2026年2月時点でGoogleの口コミが500件以上・平均評価4.0超えと紹介しているが、Googleの実際の評価ページを直接確認できず、本調査では正式なreview_scoresとして採用しなかった。",
+      "target_audience": ["カップル", "夫婦", "家族", "グルメ旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 13,
+        "review_reliability": 8,
+        "unique_experience_score": 14,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 63,
+      "recommendation_reason": "摺上川渓谷沿いの絶景露天風呂や薬膳スープ・フレンチトーストなど食事の多彩さは『グルメ旅館』として魅力的だが、本調査で件数を確度高く確認できた唯一の情報源（フォートラベル3.42・35件）が採用ライン4.0未満。All Aboutが言及するGoogle口コミ『500件以上・4.0超え』は参考情報として記録したが、直接ページを確認できずreview_scoresには含めなかったため、原則7の独立2情報源（数値確認済み）を満たせていない。WebSearch上限により追加確認を断念した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミ（2020年投稿、現在の評価と異なる可能性あり）では『貸切露天風呂の利用時間が45分と短い』という指摘があった。フォートラベル項目別評価では『バリアフリー』が3.35と最も低く、設備面の配慮に課題がある可能性が示唆される。清潔感・安全性に関する重大な指摘は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "奥飯坂 穴原温泉 匠のこころ 吉川屋 口コミ（総合3.42・35件、風呂4.19/バリアフリー3.35） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10055091" },
+        { "type": "other", "title": "「奥飯坂 穴原温泉 匠のこころ 吉川屋」が選ばれる理由（Google口コミ500件以上・4.0超えと紹介） - All About", "url": "https://news.allabout.co.jp/articles/o/120833/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア63点で採用ライン（75点）未満。確度高く数値を確認できたフォートラベル3.42（35件）が主要レビュー評価4.0未満のため、原則6の採用基準を満たさない。Google口コミの『4.0超え』はAll About記事経由の言及のみで、ページ自体を直接確認できず独立情報源として採用できなかった。WebSearch上限のため次サイクルでの再調査を推奨する。"
+    }
+  ]
+}

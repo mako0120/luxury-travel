@@ -1,0 +1,266 @@
+{
+  "cycle_date": "2026-11-01",
+  "theme": "サウナ（鳥取県米子市・皆生温泉エリア）",
+  "season_rationale": "11月上旬は山陰でも朝晩の気温が下がり始め、サウナでの発汗〜水風呂〜外気浴という『ととのい』体験が際立つ季節。皆生温泉は日本海に面し冬は強い海風が吹くため、屋外・屋上での外気浴が心地よく感じられる時期として11月上旬は適している。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-18-kaike-shogetsu", "region": "鳥取県米子市皆生温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-18-gourmet-ryokan-yonago (candidate, 未選定)", "region": "鳥取県米子市皆生温泉", "category": "グルメ旅館" },
+    { "post_id": "2026-10-22-mercure-tottori-daisen", "region": "鳥取県米子市・大山町（大山周辺）", "category": "絶景ホテル" },
+    { "post_id": "2026-10-22-daisen-view-hotel (candidate)", "region": "鳥取県西伯郡大山町", "category": "絶景ホテル" },
+    { "post_id": "2026-10-24-misasa-onsen-sauna", "region": "鳥取県東伯郡三朝町", "category": "サウナ" },
+    { "post_id": "2026-10-29-jr-sakaisen-kitaro-train", "region": "鳥取県境港市・米子市（境線）", "category": "列車・船" }
+  ],
+  "duplication_note": "data/candidates・captions全件（1ヶ月以上前を含む）を『米子』『皆生』『鳥取』『yonago』『kaike』『tottori』で横断検索した。鳥取県米子市・皆生温泉を扱った既出案件は、2026-10-18のグルメ旅館（皆生松月/鳥取県米子市皆生温泉）、2026-10-22の絶景ホテル（大山周辺）、2026-10-29の境線アクティビティのみで、カテゴリ『サウナ』で鳥取県米子市・皆生温泉を扱った候補・投稿は過去に一件も存在しない（三朝町の三朝温泉サウナは同じ鳥取県だが米子・皆生とは別エリア・別温泉地のため重複ではない）。本サイクルで調査した3施設（皆生風雅、湯喜望白扇、GOOD BLESS GARDEN SAUNA&STAY）はいずれも既存データに登場していない新規施設。",
+  "research_constraints": "WebSearchツールの一時的なレート制限により調査を一度中断し、制限解除後に再開した。また、本セッションのWebFetchは対象サイト（jalan.net, zaikei.co.jp, prtimes.jp, 4travel.jp, kaike-fuga.com, ryukyushimpo.jp等）がいずれもネットワーク許可リストの外にあり、DNS解決不可（ENOTFOUND）で直接ページ本文を取得できなかった。そのため本ファイルの情報は、WebSearchツールが返す検索結果の要約・引用スニペット経由で得たものであり、各ページの全文・最新の口コミ本文そのものまでは確認できていない。GOOD BLESS GARDEN SAUNA&STAYについては、運営会社名・代表者名・開業年を示す一次情報（公式サイト本文、法人プレスリリース、創業者インタビュー）を複数回検索したが見つけられなかった。Trip.com系の評価は地域ミラーページ間で件数・点数の表示が食い違っており（例: 20件8.8点、27件9.3点など）、集計基準が不明なため参考情報としてのみ扱った。",
+  "candidates": [
+    {
+      "id": "2026-11-01-good-bless-garden-sauna-stay",
+      "name": "GOOD BLESS GARDEN SAUNA&STAY（グッドブレスガーデン サウナ&ステイ）",
+      "region": "鳥取県米子市角盤町（旧米子高島屋東館／JR米子駅よりタクシーで約5分、米子ICより車で約15分。皆生温泉からは車で10〜15分程度の米子市中心市街地）",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "じゃらん（宿クチコミ総合評価）",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 194,
+          "checked_date": "2026-11-02",
+          "url": "https://www.jalan.net/yad326371/"
+        },
+        {
+          "source": "Trip.com（UK版 review.html ページ掲載の評価）",
+          "score": 8.8,
+          "scale": 10,
+          "review_count": 20,
+          "checked_date": "2026-11-02",
+          "url": "https://uk.trip.com/hotels/yonago-hotel-detail-56739863/good-bless-garden-sauna-stay/review.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "通常の1泊・日帰り料金は検索範囲では確定できなかった。参考情報として、サウナ専門サイト『サウナイキタイ』の施設一覧では大浴場（サウナ付き）利用が1,500円〜、特定日限定プランの例では入館370円・宿泊7,300円という掲載が見られたが、現在の正規料金か、どのプラン・条件に該当するかは未確認。",
+        "as_of_search_date": "2026-11-02",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する。本候補は正規料金を確定できていないため、制作時に公式サイト・予約サイトでの再確認が必須。"
+      },
+      "unique_experience": "旧米子高島屋東館（閉店した百貨店の建物）をリノベーションして開業した、全52室キャビンタイプの『サウナ＆ステイ』施設。温泉ではなく、男性用は120℃超の高温・強めの熱波（ロウリュ）、女性用はハーバルサウナ＆パック熱波という男女で趣向が異なるサウナを備え、屋上サウナでは米子市街の夜景を見ながら外気浴ができる。火・木曜に定例のロウリュ会、月2回木曜にゲスト熱波師が担当する回もある。温泉旅館にサウナが付随する形ではなく、サウナそのものを主役にした専業施設である点が、同エリアの他施設（皆生温泉の各旅館）とは一線を画す。",
+      "renewal_or_news": "旧米子高島屋東館（2010年代に閉店した百貨店）を転用して開業したことがNAVITIMEの施設カテゴリ情報で確認できた。運営会社名・正式な開業年を示す一次情報（公式サイト本文・プレスリリース）は本セッションでは確認できなかった。サウナ専門サイト『サウナイキタイ』上では米子市内のサウナ施設として最多の『イキタイ』『サ活』登録数（2026-11-02時点でイキタイ約2,025件・サ活約3,546件、同市内2位の施設の5倍以上）を獲得しており、2018年時点の利用者投稿でも地元の有力サウナとして名前が挙がっている。",
+      "target_audience": ["サウナ好き", "一人旅", "友人", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 12,
+        "unique_experience_score": 18,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 9,
+        "access_and_freshness": 4
+      },
+      "score": 82,
+      "recommendation_reason": "じゃらん（194件・4.4）、Trip.com（20件・8.8/10）という独立した2つの情報源で採用ライン4.0以上（5点満点換算）を確認した（review_rating 21/25）。サンプル数・サイト間の一致度は高いが、Trip.com系ミラーページ間で件数・点数の食い違いがあり評価の安定性はやや留保（review_reliability 12/15）。旧百貨店建物のリノベーション、男女で趣向の異なるロウリュ、屋上サウナからの夜景外気浴という組み合わせは、同エリアの温泉旅館付帯のサウナにはない独自性が高い（unique_experience_score 18/20）。屋上の夜景サウナはビジュアル面でも訴求力がある（photogenic 12/15）。正規料金が未確定のため価格評価は保守的（value_for_price 6/10）。サウナイキタイでの登録数が市内で圧倒的に多く、サウナ愛好家コミュニティ内での話題性は非常に高い（sns_buzz 9/10）。JR米子駅から徒歩圏に近い立地で情報も比較的新しい（access_and_freshness 4/5）。合計82点で採用ライン（75点）を上回り、selectedとした。なお『皆生温泉』そのものではなく米子市中心部に位置し温泉を使用しない点は、紹介文で正確に伝える必要がある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "『混雑』『残念』等のキーワードでの検索では、具体的な低評価レビューや施設側の重大な不備（衛生・安全・予約トラブル等）を指摘する投稿は本セッションの検索範囲では見つからなかった。確認できた留意点は（1）温泉ではなく通常水を使用した浴槽である点、（2）男性用の高温ロウリュ回は女性には提供されない等、男女で体験内容が異なる点、（3）通常の宿泊・日帰り正規料金が検索範囲では確定できなかった点、（4）Yahoo!トラベルでは口コミ件数が規定数に未達のため総合点が非表示になっている点。これらはいずれも制作時の事実確認・表現上の注意点であり、施設の信頼性を損なう指摘ではないため、disqualifying_issues_foundはfalseとした。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "GOOD BLESS GARDEN SAUNA&STAY（鳥取県米子市・米子・皆生・境港エリア）クチコミ総合4.4（194件）・部屋4.2・風呂4.5 - じゃらん",
+          "url": "https://www.jalan.net/yad326371/"
+        },
+        {
+          "type": "booking_site",
+          "title": "Good Bless Garden Sauna&Stay レビュー（8.8/10・20件） - Trip.com(UK)",
+          "url": "https://uk.trip.com/hotels/yonago-hotel-detail-56739863/good-bless-garden-sauna-stay/review.html"
+        },
+        {
+          "type": "review_site",
+          "title": "米子市 (鳥取県) のサウナ施設一覧（GOOD BLESS GARDENがイキタイ・サ活数で市内最多） - サウナイキタイ",
+          "url": "https://sauna-ikitai.com/tottori/%E7%B1%B3%E5%AD%90%E5%B8%82"
+        },
+        {
+          "type": "other",
+          "title": "グッドブレスガーデン サウナ&ステイ 施設紹介（男性限定120℃超熱波／女性向けハーバルサウナ＆パック熱波／屋上サウナ外気浴） - Hamoni",
+          "url": "https://hamoni.jp/hotel/uDMtIbZgzAERpn90Wu5UXgs6Ks4NNthd"
+        },
+        {
+          "type": "other",
+          "title": "NAVITIME 施設カテゴリページ（最寄:高島屋・公会堂前バス停／旧米子高島屋東館にオープンの記載）",
+          "url": "https://www.navitime.co.jp/category/0205/31202/"
+        }
+      ],
+      "decision": "selected",
+      "creator_story": {
+        "text": "GOOD BLESS GARDEN SAUNA&STAYについて、運営会社名・代表者名・設計者名を明示したうえで開業の思いやコンセプトを語った一次情報（公式サイトの沿革・ブログ、プレスリリース、インタビュー記事等）は、本セッションで行った複数回の検索（『運営会社』『代表』『オープン』『インタビュー』『想い』『コンセプト』等のキーワードを変えた検索、英語記事の確認を含む）では見つけられなかった。確認できた客観的事実は、旧米子高島屋東館（閉店した百貨店の建物）を転用して開業したという点のみであり、なぜこの建物でサウナ専業施設を始めたのか、どのような設計思想で男女別の熱波スタイルや屋上サウナを設けたのか、といった開業経緯・改修方針そのものについては確認できなかった。したがって、運営者・設計者個人の思いについては『確認できなかった』こととし、推測や発言の創作は行わない。公式サイトのURL自体も本セッションの検索では特定できず、今後の制作工程では公式SNS・プレスリリース配信サイト・法人登記情報等を使った追加確認が必要。",
+        "sources": [
+          {
+            "type": "other",
+            "title": "NAVITIME 施設カテゴリページ（旧米子高島屋東館にオープンの記載。運営者本人の発言は含まれない）",
+            "url": "https://www.navitime.co.jp/category/0205/31202/"
+          },
+          {
+            "type": "other",
+            "title": "グッドブレスガーデン サウナ&ステイ 施設紹介ページ（施設概要のみ。運営者・設計者への言及なし） - Hamoni",
+            "url": "https://hamoni.jp/hotel/uDMtIbZgzAERpn90Wu5UXgs6Ks4NNthd"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-01-kaike-fuga-barrel-sauna",
+      "name": "皆生風雅（旧 皆生の宿 ゆるり）バレルサウナ",
+      "region": "鳥取県米子市皆生温泉3-16-1",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "るるぶトラベル（総合評価）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-11-02",
+          "url": "https://www.rurubu.travel/hotel/japan/yonago/kaike-fuga"
+        },
+        {
+          "source": "フォートラベル（施設口コミ平均）",
+          "score": 3.35,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-11-02",
+          "url": "https://4travel.jp/dm_hotel-10050685"
+        },
+        {
+          "source": "Yahoo!トラベル（満足度）",
+          "score": 3.67,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-11-02",
+          "url": "https://travel.yahoo.co.jp/00031004"
+        },
+        {
+          "source": "@nifty温泉（口コミ総合、3件。旧名称『皆生の宿 ゆるり』時代の投稿を含む）",
+          "score": 3.5,
+          "scale": 5,
+          "review_count": 3,
+          "checked_date": "2026-11-02",
+          "url": "https://onsen.nifty.com/yonago-onsen/onsen010313/kuchikomi/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "バレルサウナ自体は宿泊者が無料で利用できる設備（2024年11月導入時の案件）。宿泊料金自体は本サイクルでは個別に再確認していない。",
+        "as_of_search_date": "2026-11-02",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2024年11月、男性用・女性用各1棟（計2棟、各6名定員）のバレルサウナを新設し、宿泊者は無料で利用できる（15:00〜24:00、要予約）。水風呂・外気浴チェアも隣接。日本海を望む立地と約2,000㎡の日本庭園を眺めるラウンジバーも備える。姉妹館『湯喜望 白扇』との湯めぐり（お食事付きプラン限定）も可能。2026年6月には館内サービスの一部リニューアルも発表されている。",
+      "renewal_or_news": "2024年11月にバレルサウナ導入（プレスリリース）。2026年6月に館内サービスの一部リニューアルを発表（地酒飲み比べプラン等）。いずれも運営は株式会社リロバケーションズ。",
+      "target_audience": ["夫婦", "記念日", "カップル", "温泉好き", "サウナ好き"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 8,
+        "unique_experience_score": 15,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 2,
+        "access_and_freshness": 4
+      },
+      "score": 63,
+      "recommendation_reason": "バレルサウナ2棟（男女別）を宿泊者が無料利用でき、日本庭園・日本海を望む立地という独自性はあるが、複数の独立した口コミサイト（フォートラベル3.35、Yahoo!トラベル満足度3.67、@nifty温泉3.5）で主要レビュー評価4.0未満となっており、4.0以上はるるぶトラベルの1件のみだった。サウナ専門サイトでの認知度（イキタイ17件・サ活12件）も低く、合計63点で採用ライン（75点）に届かないため不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベル・@nifty温泉の口コミでは、酒類の品ぞろえや価格設定、客室の広さ、接客のばらつきに関する厳しい意見が複数見られた。衛生・安全上の重大な指摘ではないが、サービス面の評価が分かれており、全体的な満足度が主要サイトで4.0を下回る一因になっていると判断した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "皆生風雅 公式サイト（kaike-fuga.com、2026年6月リニューアル案内）",
+          "url": "https://www.kaike-fuga.com/"
+        },
+        {
+          "type": "booking_site",
+          "title": "皆生風雅(Kaike Fuga) 総合評価4.0（客室4.1・ロケーション4.0・サービス4.0・食事4.0） - るるぶトラベル",
+          "url": "https://www.rurubu.travel/hotel/japan/yonago/kaike-fuga"
+        },
+        {
+          "type": "press",
+          "title": "鳥取・皆生温泉の旅館にバレルサウナがオープン!美肌温泉×ロウリュ×美食で至福の“ととのい”旅（全2棟・男女別・各6名、2024年11月〜、運営:株式会社リロバケーションズ）",
+          "url": "https://zaikei.co.jp/releases/2704316/"
+        },
+        {
+          "type": "review_site",
+          "title": "皆生風雅(旧 皆生の宿 ゆるり)の温泉情報・口コミ(3件・3.5) - @nifty温泉",
+          "url": "https://onsen.nifty.com/yonago-onsen/onsen010313/kuchikomi/"
+        },
+        {
+          "type": "review_site",
+          "title": "皆生風雅 フォートラベル クチコミ(平均3.35)",
+          "url": "https://4travel.jp/dm_hotel-10050685"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイト（フォートラベル3.35・Yahoo!トラベル満足度3.67・@nifty温泉3.5）で評価4.0未満が複数確認され、4.0以上はるるぶトラベル1件のみだったため『主要レビュー4.0未満は原則不採用』の基準に該当。score_breakdown合計も63点で採用ライン75点に届かない。"
+    },
+    {
+      "id": "2026-11-01-yukibou-hakusen-sauna",
+      "name": "皆生温泉 湯喜望 白扇（サウナ・露天風呂）",
+      "region": "鳥取県米子市皆生温泉",
+      "category": "サウナ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "@nifty温泉（口コミ総合）",
+          "score": 4.2,
+          "scale": 5,
+          "review_count": 5,
+          "checked_date": "2026-11-02",
+          "url": "https://onsen.nifty.com/yonago-onsen/onsen005053/"
+        },
+        {
+          "source": "All About記事（Googleクチコミ500件超・平均評価4.0超えの言及、2026年5月時点）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 500,
+          "checked_date": "2026-11-02",
+          "url": "https://news.allabout.co.jp/articles/o/118534/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "全室展望ジャグジーバス付きの老舗旅館。本サイクルでは具体的な宿泊料金の再確認は行っていない。",
+        "as_of_search_date": "2026-11-02",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "露天風呂・サウナと、全室に展望ジャグジーバスを備える老舗旅館。山海の幸・冬は松葉ガニも楽しめる。姉妹館『皆生風雅』の宿泊者（お食事付きプラン限定）と大浴場・サウナを相互利用できる仕組みがある。",
+      "renewal_or_news": "姉妹館『皆生風雅』との湯めぐり提携のほかは、本サイクルでは個別のリニューアル発表は確認できなかった。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 11,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 70,
+      "recommendation_reason": "@nifty温泉(4.2・5件)とAll About記事が引くGoogleクチコミ(500件超・平均4.0超)という独立した2情報源で4.0以上を確認できた点は良好だが、サウナ自体は老舗旅館の大浴場に付随する標準的な設備であり、姉妹館『皆生風雅』のバレルサウナのような独自の趣向や、GOOD BLESS GARDENのような専業施設としての際立った特徴は確認できなかった。サウナ専門サイトでの単独の話題性情報も見つからず、合計70点で採用ライン（75点）に僅かに届かないため不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "重大な低評価や施設不備の指摘は本セッションの検索範囲では見つからなかったが、口コミ件数自体が少なく（@nifty温泉5件）、サウナ単体への評価・レビューはほとんど確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "湯喜望 白扇の温泉情報・口コミ(5件・4.2) - @nifty温泉",
+          "url": "https://onsen.nifty.com/yonago-onsen/onsen005053/"
+        },
+        {
+          "type": "press",
+          "title": "【鳥取県の人気ホテル】「皆生温泉 湯喜望 白扇」が選ばれる理由（Googleクチコミ500件超・平均4.0超、全室展望ジャグジーバス） - All About",
+          "url": "https://news.allabout.co.jp/articles/o/118534/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "レビュー評価自体は4.0以上を2情報源で確認できたが、サウナとしての独自性・話題性が乏しく、score_breakdown合計70点で採用ライン75点に僅かに届かないため不採用。"
+    }
+  ]
+}

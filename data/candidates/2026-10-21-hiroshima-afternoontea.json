@@ -1,0 +1,141 @@
+{
+  "cycle_date": "2026-10-21",
+  "theme": "広島県広島市のホテルで楽しむカフェ・アフタヌーンティー・期間限定イベント企画（ホテル宿泊以外の少し贅沢な体験、リサーチ＋キャプションのみ・画像構成なし）",
+  "season_rationale": "10月後半〜11月末は広島市内のホテルが柿・栗・シャインマスカットなど『秋の味覚』をテーマにした期間限定アフタヌーンティーを多数展開する時期（原則30）。特にリーガロイヤルホテル広島は、2025年10月開業の『広島もとまち水族館』の開館1周年を記念したコラボアフタヌーンティーを2026年10月31日から新たに開始予定で、調査時点（10/21）から約10日後に始まる『これから』の企画という新鮮さがある。依頼によりカテゴリ『その他（カフェ・アフタヌーンティー・期間限定イベント等）』・地域『広島県広島市』を指定して調査した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-18-fukuoka-momochihama-autumn-afternoontea", "region": "福岡県福岡市早良区百道浜", "category": "その他" },
+    { "post_id": "2026-10-19-gatehotel-yokohama-grape-afternoontea", "region": "神奈川県横浜市中区山下町", "category": "その他" },
+    { "post_id": "2026-10-20-westin-sendai-date-hightea-blackpurple", "region": "宮城県仙台市", "category": "その他" },
+    { "post_id": "2026-10-18-miyajima-seaside-hotel", "region": "広島県廿日市市宮島町（宮島島内）", "category": "絶景ホテル" }
+  ],
+  "duplication_note": "依頼により、直近数日（福岡10/18・横浜10/19・仙台10/20）だけでなく、data/candidates・captions・posts配下の全履歴（2026-09-14〜）を『広島』でテキスト検索して重複有無を確認した。該当したのは2026-10-18のキャプション『宮島シーサイドホテル』（候補ファイルはdata/candidates/2026-10-18-miyajima-view-hotel.json）のみで、こちらは広島県廿日市市宮島町（宮島島内・厳島神社周辺）という異なる市区町村・異なるカテゴリ（絶景ホテルの客室体験）であり、今回の『広島県広島市』×『その他（カフェ・アフタヌーンティー等）』とは地域・体験の両方で重複しない。広島市（中区・南区）そのものを扱った候補・キャプションは過去に一度も作成されていない。カテゴリ『その他』は直近3日連続（福岡→横浜→仙台）で使用されているが、依頼により同カテゴリ・新規地域（広島市）を指定した調査サイクルのため実施した。",
+  "research_notes": "このセッションのネットワーク環境では、プレスリリース配信サイト（san-tatsu.jp・prtimes.jp）・ホテル公式サイト（rihga.co.jp等）・楽天トラベル（travel.rakuten.co.jp）へのWebFetchがすべてEGRESS_BLOCKED（DNS解決不可）となり、本文を直接確認できなかった。そのためWebSearchのスニペットから得られる情報のみを根拠としている。また本サイクル終盤でこのセッションのWebSearch回数上限（1ターンあたりの上限）に達したため、じゃらん・Googleマップ本体・トリップアドバイザー本体での評価の直接確認、および追加のネガティブレビュー深掘りができなかった。確認できた範囲（Skyticket・Trip.com・Traveloka・フォートラベル・icotto等の二次集計サイト経由のスニペット）では重大な欠陥の指摘は限定的だったが、これらのサイトを直接開いて全文を確認できていない点は留意事項として記録する。",
+  "candidates": [
+    {
+      "id": "2026-10-21-rihga-royal-hiroshima-aquarium-afternoontea",
+      "name": "リーガロイヤルホテル広島「広島もとまち水族館 開館1周年記念 コラボレーションアフタヌーンティー」（33F スカイダイニング リーガトップ）",
+      "region": "広島県広島市中区基町（紙屋町・広島城周辺）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Skyticket（施設全体の口コミ）", "score": 4.5, "scale": 5, "review_count": 8769, "checked_date": "2026-10-21", "url": "https://skyticket.jp/hotel/detail/property_14978/" },
+        { "source": "Trip.com（施設全体の口コミ）", "score": 4.5, "scale": 5, "review_count": 212, "checked_date": "2026-10-21", "url": "https://www.trip.com/hotels/hiroshima-hotel-detail-2005862/" }
+      ],
+      "price_range_jpy": {
+        "note": "1名5,500円、広島もとまち水族館の入館券付きプランは1名7,300円という表示をWebSearchのスニペット（san-tatsu.jpのプレスリリース概要）で確認。正確な料金・プラン内容は公式サイト・予約サイトで要確認。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "広島市中区の複合施設『基町クレド・パセーラ』内、2025年10月開業の都市型水族館『広島もとまち水族館』の開館1周年を記念し、同じ複合施設内にあるリーガロイヤルホテル広島の最上階33階『スカイダイニング リーガトップ』（地上約125m）で、2026年10月31日〜11月30日の期間限定・1日10名限定でコラボレーションアフタヌーンティーを提供。水族館内の8つの展示シーン（クラゲ・チンアナゴ・ヒトデ等）をモチーフにしたスイーツ・セイボリーを、広島市街を一望する高層階の眺めとともに楽しめる。両施設は水族館開業（2025年10月）以来、特別メニューや入館券付き宿泊プランなど複数のコラボ企画を継続している。",
+      "renewal_or_news": "2025年10月開業の水族館の『開館1周年』を記念した2026年10月31日〜11月30日の新規期間限定企画（WebSearchで確認した最新のプレスリリース概要に基づく）。",
+      "target_audience": ["カップル", "記念日", "女子旅", "ホテル好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 13,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 5
+      },
+      "score": 84,
+      "recommendation_reason": "Skyticket4.5点（8,769件）、Trip.com4.5点（212件）という2つの独立した情報源でいずれも推奨ライン4.2以上を上回る評価を確認した（原則6・7）。2025年10月開業の都市型水族館『広島もとまち水族館』の開館1周年という『今だけ』の節目企画であり、館内8展示シーンをモチーフにしたスイーツという、広島市内のアフタヌーンティーの中でも独自性・話題性が高い構成。33階・地上約125mからの広島市街の眺めも加わり、映え要素も強い。1日10名限定という希少性もSNSでの保存・話題化を後押しする。調査日（10/21）時点でまだ開始前（10/31〜）のため、『まもなく始まる』訴求ができる投稿タイミングでもある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Skyticket・Trip.comの範囲では、高層階からの眺望・客室・スタッフ対応について好意的な言及が中心で、重大な欠陥（清潔感・接客・混雑・予約トラブル等）の指摘は確認できなかった。ホテル公式サイト上の宿泊口コミ（1件）では『朝食会場の混雑時の動線が悪い』という指摘があったが、これは本企画（スカイダイニングでのアフタヌーンティー）とは異なる朝食会場に関するものであり、本企画自体への否定的言及ではない。本セッションはWebSearch回数上限・EGRESS_BLOCKEDのため、じゃらん・Googleマップでの個別レビュー本文までは確認できておらず、確認範囲が限定的である点は正直に記録する。確認できた範囲では除外基準（原則10）に該当する重大な問題は見つかっていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "リーガロイヤルホテル広島「広島もとまち水族館 開館1周年記念 コラボレーションアフタヌーンティー」提供開始 - san-tatsu.jp（プレスリリース掲載）", "url": "https://san-tatsu.jp/pressrelease/559091/" },
+        { "type": "review_site", "title": "リーガロイヤルホテル広島 口コミ・評価 - Skyticket", "url": "https://skyticket.jp/hotel/detail/property_14978/" },
+        { "type": "review_site", "title": "Rihga Royal Hotel Hiroshima reviews - Trip.com", "url": "https://www.trip.com/hotels/hiroshima-hotel-detail-2005862/" },
+        { "type": "other", "title": "広島もとまち水族館×リーガロイヤルホテル広島 コラボ企画一覧 - resemom.jp（PR Times配信）", "url": "https://resemom.jp/release/prtimes/20251128/164645.html" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-21-hilton-hiroshima-harvest-afternoontea",
+      "name": "ヒルトン広島「ハーベスト」アフタヌーンティー（6F バー＆ラウンジ ZATTA）",
+      "region": "広島県広島市南区松原町（JR広島駅直結）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "Trip.com（施設全体の口コミ）", "score": 9.3, "scale": 10, "review_count": 456, "checked_date": "2026-10-21", "url": "https://www.trip.com/hotels/hiroshima-hotel-detail-3233318/" },
+        { "source": "Traveloka（施設全体の口コミ）", "score": 9.6, "scale": 10, "review_count": 1336, "checked_date": "2026-10-21", "url": "https://www.traveloka.com/en-en/user/review/consumption/HOTEL/GENERAL/9000001022083" }
+      ],
+      "price_range_jpy": {
+        "note": "1名4,700円（税・サービス料込み）。平日12:00〜18:00(L.O.16:00)、土日祝は12:00/14:00/16:00の2時間制3部制。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "JR広島駅直結のヒルトン広島、6階『バー＆ラウンジZATTA』にて、2026年9月7日〜11月8日（予約受付11月7日まで）の期間限定でアフタヌーンティー『ハーベスト』を提供。日本の秋を象徴する『柿』と『栗』を主役に、かぼちゃ・梨・いちじくなど旬の食材を使った構成で、ノンアルコールの洋なしシードルがウェルカムドリンクとして付く。",
+      "renewal_or_news": "2026年9月7日〜11月8日の秋季限定提供（夏の『パステル エレガンス ティータイム』は9月6日で終了済み）。",
+      "target_audience": ["カップル", "記念日", "夫婦", "女子旅", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 12,
+        "unique_experience_score": 13,
+        "photogenic": 11,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 5
+      },
+      "score": 74,
+      "recommendation_reason": "Trip.com9.3点／456件（5点満点換算で約4.65）、Traveloka9.6点／1,336件（同約4.80）という2つの独立した情報源でいずれも推奨ライン4.2以上を上回る評価を確認（原則6・7）。JR広島駅直結という利便性、柿・栗を主役にした秋の味覚構成に魅力はあるが、柿・栗ベースのアフタヌーンティーは他都市のホテルでも定番的に見られる企画で、水族館コラボのような『広島でしかできない』独自性には届かないため、独自性・SNS話題性の評価をリーガロイヤルホテル広島の候補より低めにした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Trip.com・Traveloka・結婚式口コミサイト（宿泊とは異なる利用目的のため参考程度）の範囲では、新築で上質な雰囲気、広島駅近くで駐車場も完備という好意的な言及が中心で、重大な欠陥の指摘は確認できなかった。Googleマップ本体の評価・口コミ本文は本セッションのWebSearch回数上限のため直接確認できておらず、確認範囲が限定的である点は正直に記録する。確認できた範囲では除外基準（原則10）に該当する重大な問題は見つかっていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "ヒルトン広島「ハーベスト」アフタヌーンティー提供開始 - prtimes.jp", "url": "https://prtimes.jp/main/html/rd/p/000000082.000087710.html" },
+        { "type": "review_site", "title": "Hilton Hiroshima reviews - Trip.com", "url": "https://www.trip.com/hotels/hiroshima-hotel-detail-3233318/" },
+        { "type": "review_site", "title": "Hilton Hiroshima reviews - Traveloka", "url": "https://www.traveloka.com/en-en/user/review/consumption/HOTEL/GENERAL/9000001022083" },
+        { "type": "other", "title": "Top 10 hotels in Hiroshima（Googleレビュー評価の紹介記事） - gethiroshima.com", "url": "https://gethiroshima.com/visitor-guide/top-10-hotels-in-hiroshima/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価自体は2つの独立情報源で4.0以上を満たすが、柿・栗を主役にした秋の味覚アフタヌーンティーという企画内容の独自性がリーガロイヤルホテル広島の水族館コラボ企画に比べて相対的に低く、score_breakdown合計74点で採用ライン（75点）にわずかに届かなかったため見送った。"
+    },
+    {
+      "id": "2026-10-21-oriental-hotel-hiroshima-harvest-teaparty",
+      "name": "オリエンタルホテル広島「Harvest Tea Party（ハーベスト ティーパーティー）」（ロビーラウンジ）",
+      "region": "広島県広島市中区田中町（平和大通り沿い）",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル（施設全体の口コミ）", "score": 3.81, "scale": 5, "review_count": 102, "checked_date": "2026-10-21", "url": "https://4travel.jp/dm_hotel-10051220" }
+      ],
+      "price_range_jpy": {
+        "note": "1名4,000円。完全予約制、3日前までに要予約。",
+        "as_of_search_date": "2026-10-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "平和大通り沿い・23階建ての高層ホテル『オリエンタルホテル広島』のロビーラウンジにて、2026年9月1日〜11月30日の期間限定で秋の収穫祭をイメージしたアフタヌーンティー『Harvest Tea Party』を提供。",
+      "renewal_or_news": "2026年9月1日〜11月30日の秋季限定提供。",
+      "target_audience": ["カップル", "夫婦", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 8,
+        "unique_experience_score": 12,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 58,
+      "recommendation_reason": "秋の収穫祭をイメージした企画内容自体には一定の魅力があるが、施設全体の口コミで数値を確認できた唯一の情報源（フォートラベル3.81点・102件）が推奨ライン4.0に届かず、別の口コミサイト（icotto、カップル・夫婦利用で3.0点）でも低めの評価が見られた。score_breakdown合計58点で採用ライン（75点）にも届かないため見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "WebSearchのスニペットでは、ある宿泊者が『部屋が狭い』『設備が古い』『隣室の音が気になった』という低評価（5点満点中2.0点）の口コミを投稿していることを確認した。同時に『価格重視なら十分』という声もあり、重大な欠陥が複数の独立レビューで一致して確認されたわけではないが、全体の評価自体が推奨ラインに届いていないことと合わせて、今回は候補として見送る判断材料とした。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "【オリエンタルホテル広島】秋の味覚を味わう、収穫祭をイメージしたアフタヌーンティー「Harvest Tea Party」を9月1日より期間限定で提供 - prtimes.jp", "url": "https://prtimes.jp/main/html/rd/p/000002084.000016207.html" },
+        { "type": "review_site", "title": "オリエンタルホテル広島 口コミ・評価 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10051220" },
+        { "type": "other", "title": "オリエンタルホテル広島 口コミ（カップル・夫婦宿泊） - icotto", "url": "https://icotto.jp/hotels/7765" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "施設全体の口コミ評価（フォートラベル3.81点・102件）が主要レビューサイト評価4.0以上の採用ライン（原則6）に届かず、score_breakdown合計58点でも採用ライン（75点）に届かないため見送った。"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "cycle_date": "2026-09-14",
+  "theme": "第3サイクル：ユーザー提示の参考画像（CYCL/山中湖）を起点としたサウナカテゴリの調査",
+  "season_rationale": "秋は空気が澄み富士山の visibility が高まる時期で、外気浴からの富士山ビューが最も映える季節の一つ（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-20-mizu-no-oto", "region": "神奈川県箱根町（小涌谷）", "category": "温泉旅館" }
+  ],
+  "duplication_note": "直近2投稿は連続して温泉旅館カテゴリだったため、原則29（重複防止）の観点からもサウナカテゴリは good fit。地域も山梨県山中湖で、島根・神奈川とも重複しない。",
+  "origin_note": "ユーザーがInstagram風のカルーセル画像（CYCLの紹介と思われる、出典不明のスクリーンショット4〜5枚）を提示したことを契機に調査を開始した。画像自体は転載元・著作権者が確認できないため投稿素材としては使用せず（原則12）、Web検索で独立に事実確認したうえで本候補データを作成している。",
+  "candidates": [
+    {
+      "id": "2026-09-14-cycl-yamanakako",
+      "name": "CYCL（サイクル）",
+      "region": "山梨県南都留郡山中湖村",
+      "category": "サウナ",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "Yahoo!マップ（Googleマップ由来）", "score": 3.7, "scale": 5, "review_count": 7, "checked_date": "2026-09-14", "url": "https://map.yahoo.co.jp/v3/place/7oX6ojyJcuc" }
+      ],
+      "price_range_jpy": {
+        "note": "基本プラン150分（2時間30分）で税込4,290円（基本料金3,900円）という表記を複数の記事で確認。一部の記事では3,960円という表記もあり、時期によって料金が変動した可能性がある。延長30分700円。タオル・サウナマットレンタル、ワンドリンク、ミニスイーツ込み。",
+        "as_of_search_date": "2026-09-14",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "富士山と山中湖の360度パノラマを望む、建築家・百枝優氏設計のガラス張りデザインサウナ施設（美術館のような外観、笠雲をモチーフにした浮遊感のある屋根）。水着着用で男女一緒に入れる会話可能なフィンランド式サウナと、毎分90L湧出する富士山系天然地下水を掛け流した『飲める水風呂』（深さ約120cm）が最大の特徴。全国的にも珍しい組み合わせで、他施設との差別化が極めて強い。",
+      "renewal_or_news": "2024年4月開業。2024年『サウナシュラン』選出。2025年8月時点でサウナイキタイの山梨県内イキタイ数2位。",
+      "target_audience": ["カップル", "友人", "絶景好き", "サウナ好き", "一人旅"],
+      "score_breakdown": {
+        "review_rating": 15,
+        "review_reliability": 4,
+        "unique_experience_score": 20,
+        "photogenic": 15,
+        "value_for_price": 8,
+        "sns_buzz": 9,
+        "access_and_freshness": 5
+      },
+      "score": 76,
+      "recommendation_reason": "地図サービス上の評価件数は7件と少なく標準の採用ライン（原則6）を単独では満たさないが、(1)専門家キュレーションによる『サウナシュラン2024』選出、(2)サウナイキタイでの山梨県内イキタイ数2位という強い人気シグナル、(3)富士山×山中湖の360度絶景・水着混浴・飲める天然水水風呂という他に類を見ない独自性、(4)2024年開業で継続営業中、(5)旅行メディア・サウナ専門メディア複数で独立に取り上げられている、という4条件がそろうため、原則8（Hidden Gemルール）の穴場候補として採用する。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Web検索で確認できた範囲では明確な低評価・重大な指摘は見つからなかった（人気ゆえの『予約が取りにくい』という声はあるが、体験の質そのものへの否定的評価ではない）。ただし地図サービスの評価件数が7件と少なく、否定的レビューの母数自体が少ない可能性がある点は留意事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "富士山と山中湖を一望する絶景湖畔サウナ CYCL（サイクル） 公式サイト", "url": "https://cycl.co.jp/" },
+        { "type": "review_site", "title": "CYCL(山梨県南都留郡山中湖村) - サウナイキタイ", "url": "https://sauna-ikitai.com/saunas/80715" },
+        { "type": "review_site", "title": "CYCL - Yahoo!マップ クチコミ", "url": "https://map.yahoo.co.jp/v3/place/7oX6ojyJcuc" },
+        { "type": "press", "title": "サウナ＆ラウンジから富士山を望む「CYCL」が山中湖畔に誕生 - SAUNA BROS.WEB", "url": "https://saunabrosweb.jp/news_cycl/2024/02/20/" },
+        { "type": "other", "title": "CYCL（サイクル）山中湖畔の絶景サウナへの旅 - びゅうたび", "url": "https://www.viewtabi.jp/articles/25052901" },
+        { "type": "other", "title": "【CYCL山中湖】絶景サウナの口コミを正直レビュー｜サウナ出張中", "url": "https://otsuka-seiya.com/cycl/" }
+      ],
+      "decision": "selected"
+    }
+  ]
+}

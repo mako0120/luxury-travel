@@ -1,0 +1,430 @@
+{
+  "cycle_date": "2026-10-30",
+  "theme": "アクティビティ（秋田県男鹿半島・なまはげ／男鹿半島・大潟ジオパークエリア）",
+  "season_rationale": "男鹿半島（秋田県男鹿市）のうち、なまはげ文化体験と男鹿半島・大潟ジオパークに関連する野外・体験系アクティビティを調査。10月下旬は、(1) なまはげ館・男鹿真山伝承館のなまはげ体験は通年営業で引き続き利用可能、(2) 男鹿温泉交流会館「五風」のなまはげ太鼓公演は例年4月下旬〜11月中旬の期間営業とされ本サイクルの調査日（10/30）はシーズン終盤ながら営業期間内と見られる、(3) 入道崎グラスボート（海底透視船）は海が澄む夏場がベストシーズンとされ10月下旬は視界の質・運航状況が確認できない、(4) 男鹿DMOなまはげツーリズムによる寒風山ジオパークガイドトレッキングは過去記事で12月〜2月の「冬の寒風山」企画として報じられており10月の催行有無が未確認、(5) 寒風山パラグライダースクール・男鹿半島観光遊覧船（西海岸周遊クルーズ）はいずれも運営自体は継続している様子だが、料金・最新運航状況・口コミ評価の数値情報がWeb調査で十分に確認できなかった。このように、ジオパーク関連・体験系アクティビティの多くで独立2情報源での数値評価の確認が難しいことが本サイクルの重要な論点になった。",
+  "prior_posts_checked": [
+    {
+      "post_id": "2026-10-29-hakusan-geopark-activity",
+      "region": "石川県白山市（白山ジオパーク・手取川エリア）",
+      "category": "アクティビティ",
+      "note": "同じ『ジオパーク』関連だが地域（白山市）が全く異なり重複なし。"
+    },
+    {
+      "post_id": "2026-10-29-sakaiminato-oki-route",
+      "region": "鳥取県境港市〜隠岐",
+      "category": "その他",
+      "note": "ジオパーク関連語を含むが地域・カテゴリとも異なり重複なし。"
+    },
+    {
+      "post_id": "2026-10-20-sado-oki-resort",
+      "region": "新潟県佐渡／隠岐",
+      "category": "離島リゾート",
+      "note": "地域・カテゴリとも異なり重複なし。"
+    },
+    {
+      "post_id": "2026-10-22-daisen-view-hotel",
+      "region": "鳥取県大山",
+      "category": "絶景ホテル",
+      "note": "大山隠岐国立公園に関連する言及だが地域・カテゴリとも異なり重複なし。"
+    },
+    {
+      "post_id": "2026-10-27-sakurajima-volcano-guide-ferry",
+      "region": "鹿児島県桜島",
+      "category": "アクティビティ",
+      "note": "火山ガイドアクティビティという点は類似するが地域が全く異なり重複なし。"
+    }
+  ],
+  "duplication_note": "依頼時点の指定は『カテゴリ：アクティビティ／地域：秋田県男鹿半島（なまはげ・ジオパークエリア）』。重複回避のため data/candidates/・captions/ の全履歴（2026-09-14〜2026-10-29、1ヶ月以上前の分も含む）を『男鹿』『なまはげ』『Oga』『ジオパーク』で全件grepしたが、『男鹿』『なまはげ』『Oga』の3語には一件もヒットなし。『ジオパーク』は白山（石川）・隠岐（鳥取・新潟）・大山（鳥取）・桜島（鹿児島）関連の既存候補にのみヒットし、いずれも男鹿半島とは地域が異なるため重複なし。秋田県内の既存候補・投稿も確認したが、2026-09-20 akiu-onsen（宮城県）など秋田県の候補自体が本リポジトリに見当たらず、男鹿半島は地域・施設とも今回が初登場。",
+  "candidates": [
+    {
+      "id": "2026-10-30-oga-namahagekan-shinzan-densho",
+      "name": "なまはげ館・男鹿真山伝承館（なまはげ習俗体験・共通入館）",
+      "region": "秋田県男鹿市北浦真山",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "GLTJP（観光ディレクトリサイト掲載の評価）",
+          "score": 4.07,
+          "scale": 5,
+          "review_count": 2,
+          "checked_date": "2026-10-30",
+          "url": "https://www.gltjp.com/ja/directory/item/12409/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "なまはげ館単独：大人660円・小中高生330円（一部記事では550円/275円との表記もあり不一致あり）。男鹿真山伝承館単独：大人770円。共通券：大人1100円。記事間で金額表記が異なるため要公式最新確認。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "大晦日に男鹿地方で行われる重要無形民俗文化財『なまはげ』行事を、曲家造りの古民家を再生した男鹿真山伝承館で実演再現し、隣接するなまはげ館では150枚を超えるなまはげの面の展示となまはげ変身体験（スマホアプリ利用または衣装着用での記念撮影）ができる。民俗行事を疑似体験できる点が独自性の核。",
+      "renewal_or_news": "確認できなかった（通年営業・年中無休とされるのみで、直近のリニューアルや新企画の情報は今回の調査では見つけられなかった）。",
+      "target_audience": [
+        "家族",
+        "一人旅",
+        "友人"
+      ],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 3,
+        "unique_experience_score": 19,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 3
+      },
+      "score": 66,
+      "recommendation_reason": "なまはげという全国的にも知名度の高い民俗行事を実演・体感できる独自性は高く、面の展示や変身体験など写真映えする要素も多い。しかし、今回のWeb調査（WebSearch）ではじゃらん・トリップアドバイザー等主要レビューサイトの評価点・口コミ件数を直接確認できず（jalan.net・tripadvisor.jp等へのWebFetchが本セッションのネットワーク許可設定上ブロックされ、WebSearchも本ターンの検索回数上限に達したため）、確認できた数値は口コミ件数2件のみの観光ディレクトリサイト1件（独立2情報源の要件を満たさない）に限られる。料金表記も情報源間で不一致があり最新性にも疑問が残るため、採用基準（75点・独立2情報源・4.0以上の信頼できる評価）を満たさない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "今回確認できた口コミ・紹介文はいずれも好意的な内容（寸劇・太鼓・舞など『盛りだくさんの内容で楽しめた』等）で、明確なネガティブレビューは見当たらなかった。ただし確認できた口コミ件数自体が極めて少なく（2件）、ネガティブ傾向の有無を判断する材料としては不十分。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "なまはげ館（口コミ・評価集計ページ） - GLTJP",
+          "url": "https://www.gltjp.com/ja/directory/item/12409/"
+        },
+        {
+          "type": "other",
+          "title": "なまはげ館 - 男鹿半島のなまはげ文化を学ぶ (ANA Japan Travel Planner)",
+          "url": "https://www.ana.co.jp/ja/jp/japan-travel-planner/akita/0000004.html"
+        },
+        {
+          "type": "other",
+          "title": "なまはげ館 施設紹介 (nap-camp.com)",
+          "url": "https://www.nap-camp.com/mag/spot/97285"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独自性・写真映えは高いが、主要レビューサイトでの評価点・口コミ件数を独立2情報源で確認できず、確認できた唯一の数値（口コミ2件）も信頼性が低いため、原則6（75点基準・独立2情報源・4.0以上）を満たさない。"
+    },
+    {
+      "id": "2026-10-30-oga-nyudozaki-glassboat",
+      "name": "男鹿入道崎グラスボート（海底透視船）",
+      "region": "秋田県男鹿市北浦入道崎",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらん（施設ページの口コミ）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-10-30",
+          "url": "https://www.jalan.net/kankou/spt_guide000000192614/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "アソビュー掲載情報によれば大人1,100円。じゃらん側の価格表記は今回の検索では確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "入道埼灯台直下の磯から出航し、船底のガラス窓から沖合の岩礁『水島』周辺の海藻や魚群を眺められる約30分の遊覧。船頭による秋田弁の解説も特色。",
+      "renewal_or_news": "確認できなかった。",
+      "target_audience": [
+        "家族",
+        "カップル",
+        "一人旅"
+      ],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 2,
+        "unique_experience_score": 12,
+        "photogenic": 10,
+        "value_for_price": 4,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 45,
+      "recommendation_reason": "海底をガラス窓から眺めるという体験自体は分かりやすく写真にもしやすいが、じゃらん上で確認できた口コミはわずか1件・評価4.0のみであり、独立2情報源での確認ができなかった。また『男鹿の海は水が澄む夏場がシーズン』との記述があり、調査日（10/30）時点での視界・運航状況が確認できないため、季節性（原則7）の観点でも不確実性が大きい。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "じゃらん上の評価分布は『満足13%・やや満足75%・不満13%』で、表示された1件の口コミ（カップル/夫婦）は『男鹿の海底が見られる』という好意的な内容で評価4.0。明確なネガティブ内容は確認できなかったが、悪天候時は運休になるとの注意書きがあり、サンプル数が少なすぎるため傾向判断は困難。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "男鹿入道崎グラスボート（海底透視船） - じゃらん観光ガイド",
+          "url": "https://www.jalan.net/kankou/spt_guide000000192614/"
+        },
+        {
+          "type": "other",
+          "title": "入道崎グラスボート（海底透視船） - ANA Japan Travel Planner",
+          "url": "https://www.ana.co.jp/ja/cn/japan-travel-planner/akita/0000026.html"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミが実質1件・単一情報源のみで独立2情報源の要件を満たさず、ベストシーズンが夏場とされる中で調査日（10月末）の運航・視界状況も確認できないため、原則6・原則7のいずれの観点でも採用基準を満たさない。"
+    },
+    {
+      "id": "2026-10-30-oga-onsen-gofu-namahage-taiko",
+      "name": "男鹿温泉交流会館「五風」なまはげ太鼓公演",
+      "region": "秋田県男鹿市 男鹿温泉郷",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル（施設口コミページ、全22件中の個別評価の例）",
+          "score": 5.0,
+          "scale": 5,
+          "review_count": 22,
+          "checked_date": "2026-10-30",
+          "url": "https://4travel.jp/dm_shisetsu/10030846"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "公式案内ではライブ入場料600円とされる。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "男鹿温泉郷の交流会館『五風』で、なまはげと和太鼓を組み合わせた公演を鑑賞できる。開催期間は例年4月下旬〜11月中旬・20時30分頃開始とされ、温泉宿泊と組み合わせやすい夜の体験。",
+      "renewal_or_news": "確認できなかった。",
+      "target_audience": [
+        "夫婦",
+        "家族",
+        "友人"
+      ],
+      "score_breakdown": {
+        "review_rating": 13,
+        "review_reliability": 7,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 8,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 65,
+      "recommendation_reason": "なまはげと和太鼓を組み合わせた夜の公演という独自性があり、600円という価格に対する体験価値も高い。フォートラベルで口コミ22件を確認できたが、確認できた個別評価は5.0と3.5の2件のみでページ全体の平均点は確認できず、かつ情報源がフォートラベル1件に限られ独立2情報源の要件を満たさない。評価のばらつき（5.0/3.5）があることからも、数値評価として安定した4.0以上を確認したとは言えない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できた個別口コミのうち1件は評価3.5と相対的に低く、内容の詳細（低評価の理由）までは今回のWeb調査では特定できなかった。明確な『営業停止』等の致命的な問題は見当たらないが、評価のばらつきがある点は留意が必要。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "男鹿温泉交流会館 五風 なまはげ大鼓（口コミ・評判） - フォートラベル",
+          "url": "https://4travel.jp/dm_shisetsu/10030846"
+        },
+        {
+          "type": "other",
+          "title": "男鹿温泉交流会館五風 なまはげ大鼓（多言語観光情報データベース） - 国土交通省",
+          "url": "https://www.mlit.go.jp/tagengo-db/common/001539232.docx"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ件数自体は22件とある程度確認できたが、平均評価点が確認できず個別評価にばらつき（5.0/3.5）があり、かつ情報源がフォートラベル1件に限られ独立2情報源の要件を満たさないため、原則6を満たさない。"
+    },
+    {
+      "id": "2026-10-30-kanpuzan-paragliding-school",
+      "name": "寒風山パラグライダースクール（タンデム体験）",
+      "region": "秋田県男鹿市脇本（寒風山）",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "料金は今回の調査では確認できなかった（他予約サイトの類似プラン例として30分二人乗り体験が紹介されていたが、寒風山スクール自体の公式価格は未確認）。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "山全体が芝生に覆われ離着陸がしやすい寒風山（男鹿半島・大潟ジオパークの構成要素の一つ、約2万年前の火山）で、30年の実績を持つスクールのインストラクターとのタンデム（二人乗り）パラグライダー体験ができる。初心者可、25kg以上の子どもから参加可能とされる。",
+      "renewal_or_news": "確認できなかった。",
+      "target_audience": [
+        "友人",
+        "一人旅",
+        "絶景好き"
+      ],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 3,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 38,
+      "recommendation_reason": "ジオパークの火山地形を空から体感できる独自性・写真映えは非常に高いが、今回のWeb調査ではじゃらん・トリップアドバイザー・Googleマップいずれの数値口コミも確認できず（運営者自身の紹介文以外に利用者評価が見当たらなかった）、料金・最新の予約状況も未確認。数値評価が一切ないため、採点上もrecommendation根拠として使えない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "今回のWeb調査では利用者による口コミ自体を発見できなかったため、ポジティブ・ネガティブいずれの傾向も確認できなかった（確認できなかった、推測はしない）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "official",
+          "title": "寒風山パラグライダースクール（東北観光推進機構 観光情報）",
+          "url": "https://www.tohokukanko.jp/attractions/detail_1007715.html"
+        },
+        {
+          "type": "other",
+          "title": "寒風山パラグライダースクール - ANA Japan Travel Planner",
+          "url": "https://www.ana.co.jp/ja/in/japan-travel-planner/akita/0000027.html"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ・評価の数値情報を一切確認できず、独立2情報源での数値評価も4.0以上の確認もできないため、原則6を満たさない。"
+    },
+    {
+      "id": "2026-10-30-oga-hantou-kanko-yuransen",
+      "name": "男鹿半島観光遊覧船（西海岸周遊クルーズ）",
+      "region": "秋田県男鹿市 門前漁港発",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "門前漁港を起点に男鹿西海岸沿いを周遊する遊覧船で、航路がリニューアルされ『西海岸周遊クルーズ』として案内されている。男鹿半島特有の岩礁・海岸地形を海上から眺められる点が特徴。",
+      "renewal_or_news": "航路がリニューアルされたとじゃらんに記載があるが、リニューアルの実施時期は確認できなかった。",
+      "target_audience": [
+        "夫婦",
+        "家族",
+        "絶景好き"
+      ],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 14,
+        "photogenic": 11,
+        "value_for_price": 3,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 32,
+      "recommendation_reason": "海上から男鹿西海岸の断崖・岩礁地形を眺められる点は魅力的だが、料金・最新運航期間・口コミ評価のいずれも今回の調査では確認できず、情報の最新性（原則7）を満たすだけの一次情報に到達できなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できなかった（口コミ自体を発見できず、ポジティブ・ネガティブいずれの傾向も判断材料がない）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "男鹿半島観光遊覧船（西海岸周遊クルーズへリニューアル） - じゃらん観光ガイド",
+          "url": "https://www.jalan.net/kankou/sta_005218/g2_68/"
+        },
+        {
+          "type": "other",
+          "title": "男鹿半島 西海岸エリアの遊覧船に関する記事 (nap-camp.com)",
+          "url": "https://www.nap-camp.com/mag/16351"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "料金・運航期間・口コミ評価の数値情報がいずれも確認できず、最新性・信頼できる評価のどちらも満たせないため、原則6・原則7を満たさない。"
+    },
+    {
+      "id": "2026-10-30-oga-dmo-kanpuzan-geopark-trekking",
+      "name": "男鹿DMOなまはげツーリズム 寒風山ジオパークガイドトレッキング",
+      "region": "秋田県男鹿市 寒風山",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "観光地域づくり法人『男鹿DMO なまはげツーリズム』が企画し、男鹿半島・大潟ジオパーク公認ガイドが同行して寒風山（約2万年前の火山）を歩きながら大地の成り立ちを解説するガイドツアー。",
+      "renewal_or_news": "過去の報道記事では『冬の寒風山を歩くトレッキングツアー』として2月末までの実施と報じられており、冬季限定企画の可能性がある。本サイクルの調査日（10月下旬）時点での催行有無は確認できなかった。",
+      "target_audience": [
+        "絶景好き",
+        "一人旅",
+        "友人"
+      ],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 3,
+        "sns_buzz": 3,
+        "access_and_freshness": 1
+      },
+      "score": 36,
+      "recommendation_reason": "公認ジオパークガイドによる火山地形の解説付きトレッキングという独自性は高く、アソビュー上にも『噴火の歴史を聞きながら歩けた』という好意的な口コミが存在することが確認できたが、数値評価（星評価・件数）そのものは確認できず、かつ過去記事が『冬季（12月〜2月）企画』として報じていたため、本サイクルの調査日（10/30）時点での催行有無・季節性が確認できていない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "アソビュー上の口コミとして『ガイドの丁寧な案内』『噴火の歴史を聞きながら歩けた』という好意的な内容を確認できたが、数値評価・件数は確認できず、ネガティブな内容も見当たらなかった。判断材料としては不十分。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "press",
+          "title": "冬の寒風山を歩くトレッキングツアーに関する報道 - 秋田魁新報",
+          "url": "https://www.sakigake.jp/news/list/kid/688/12/"
+        },
+        {
+          "type": "review_site",
+          "title": "寒風山ジオパークガイドトレッキング（口コミ） - アソビュー",
+          "url": "https://www.asoview.com/base/155237/asorepo/list/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価が確認できず、かつ過去情報が冬季限定企画であることを示しており調査日時点の催行・季節性が確認できないため、原則6・原則7を満たさない。"
+    },
+    {
+      "id": "2026-10-30-oga-aquarium-gao",
+      "name": "男鹿水族館GAO",
+      "region": "秋田県男鹿市戸賀塩浜",
+      "category": "アクティビティ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "いこーよ（iko-yo.net）施設ページ",
+          "score": 5.0,
+          "scale": 5,
+          "review_count": 8,
+          "checked_date": "2026-10-30",
+          "url": "https://iko-yo.net/experiences/120252/memory_photos/293097"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "入館料は記事間で表記に差があり（大人1,000円〜1,300円等）、最新の正確な料金は確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "日本海側最大級とされる水族館で、ホッキョクグマ『豪太』の展示が看板コンテンツ。餌の時間（12時頃）に間近で観察できる点が特徴だが、有料の『餌やり体験プログラム』の有無・内容は今回の調査では確認できなかった。",
+      "renewal_or_news": "確認できなかった。",
+      "target_audience": [
+        "家族",
+        "カップル"
+      ],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 3,
+        "unique_experience_score": 10,
+        "photogenic": 11,
+        "value_for_price": 7,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 49,
+      "recommendation_reason": "ホッキョクグマをはじめ写真映えする展示があり価格に対する価値も悪くないが、確認できた口コミは『いこーよ』1件・8件分のみで、じゃらん・トリップアドバイザー等の数値評価を今回のWeb調査（ネットワーク制限とWebSearch回数上限）では確認できず独立2情報源の要件を満たさない。また、水族館という施設見学中心の体験であり、本依頼の『アクティビティ』カテゴリとしての体験性（能動的な参加性）がなまはげ体験やトレッキング・パラグライダー等と比べて相対的に弱い点も踏まえた。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できた口コミ（いこーよ、幼児・小学生向け評価含む）はいずれも5.0と好意的だったが、件数が8件と少なくいこーよ内のみの数値であるため、ネガティブ傾向の有無を十分に判断できる材料ではない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "男鹿水族館GAO（口コミ・評価） - いこーよ",
+          "url": "https://iko-yo.net/experiences/120252/memory_photos/293097"
+        },
+        {
+          "type": "other",
+          "title": "男鹿水族館GAO 施設紹介 (nap-camp.com)",
+          "url": "https://www.nap-camp.com/mag/spot/97289"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価が『いこーよ』1件・口コミ8件のみに限られ独立2情報源の要件を満たさず、アクティビティ性もやや弱いため、原則6を満たさない。"
+    }
+  ]
+}

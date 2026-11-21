@@ -1,0 +1,151 @@
+{
+  "cycle_date": "2026-10-22",
+  "theme": "離島リゾート（再調査・2回目/最終）：沖縄県宮古島エリア または 沖縄県慶良間諸島",
+  "season_rationale": "離島リゾートカテゴリは1回目の再調査（長崎県対馬、2026-10-22-tsushima-remote-island-resort.json）で『大型・中堅リゾートが実質存在しない』として該当なしだった。本サイクルはその2回目（最終）の再調査にあたり、依頼された2つの地域候補『沖縄県宮古島（伊良部島・池間島含む宮古諸島エリア）』『沖縄県慶良間諸島（渡嘉敷島・座間味島）』のうち、本調査に進む前にまず『ちょっと贅沢な旅』基準を満たす大型・中堅リゾートホテルが実在するかを見極めた。慶良間諸島（座間味島側）はWebSearchで複数の観光資料・ホテル一覧を確認したが、宿の大半が民宿・ペンション・ケラマビーチホテル程度の規模感で、大型・中堅リゾートの実在は確認できなかった（渡嘉敷島側の『ケラマテラス』は全7室の少人数制ブティックリゾートであり、かつ2026-09-21サイクルで既に調査・選定済み）。一方、宮古島エリアは複数の大型・中堅リゾート（ヒルトン沖縄宮古島リゾート、シギラベイサイドスイート アラマンダ、宮古島東急ホテル&リゾーツ、ホテルシギラミラージュ、ローズウッド宮古島、宮古島来間リゾート シーウッドホテル等）が実在することを事前に確認できたため、宮古島エリアを対象に本調査を進めた。10月下旬は宮古島が台風ピークを過ぎ、11月以降も海水温が高く紫外線も本州の真夏より穏やかな『少し贅沢な秋冬の離島旅』の需要期にあたる（原則30）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-22-conrad-osaka-shinemuscat-afternoontea", "region": "大阪府大阪市北区", "category": "その他（アフタヌーンティー）" },
+    { "post_id": "2026-10-22-fumoto-ryokan-kurokawa", "region": "熊本県阿蘇郡南小国町（黒川温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-22-mercure-tottori-daisen", "region": "鳥取県西伯郡大山町", "category": "絶景ホテル" },
+    { "post_id": "2026-10-22-mitsui-kyoto", "region": "京都府京都市", "category": "文化体験" },
+    { "post_id": "2026-10-22-notoraku-wakura", "region": "石川県七尾市（和倉温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-10-22-takachihokyou-boat", "region": "宮崎県西臼杵郡高千穂町", "category": "アクティビティ" },
+    { "post_id": "2026-10-22-kangetsuen-tokachigawa", "region": "北海道河東郡音更町（十勝川温泉）", "category": "サウナ" },
+    { "post_id": "2026-10-22-tsushima-remote-island-resort（候補のみ・選定なし／1回目の再調査）", "region": "長崎県対馬市", "category": "離島リゾート" },
+    { "post_id": "2026-09-21-kerama-terrace", "region": "沖縄県島尻郡渡嘉敷村（渡嘉敷島）", "category": "アクティビティ（慶良間諸島で選定済み）" },
+    { "post_id": "2026-09-18-hilton-okinawa-miyako", "region": "沖縄県宮古島市平良（トゥリバー地区）", "category": "離島リゾート（宮古島で選定済み）" },
+    { "post_id": "2026-10-20-the-shigira-miyako", "region": "沖縄県宮古島市新城（シギラセブンマイルズリゾート内）", "category": "オールインクルーシブ（宮古島で選定済み・別施設『ザ シギラ』）" },
+    { "post_id": "2026-10-19-irabu-island-resort（候補のみ・選定なし）", "region": "沖縄県宮古島市伊良部（伊良部島）", "category": "離島リゾート" },
+    { "post_id": "2026-10-21-kumejima-resort-recheck（候補のみ・選定なし）", "region": "沖縄県島尻郡久米島町", "category": "離島リゾート" }
+  ],
+  "duplication_note": "data/candidates・captions配下の全件（1ヶ月以上前を含む）を確認した。宮古島エリアは過去に複数カテゴリで調査済みで、特に次の施設は既に正式候補として記録・評価が完了しているため、本サイクルでは重複調査を避けた：(1)ヒルトン沖縄宮古島リゾート（2026-09-18サイクル・離島リゾート・81点・選定済み／captions/2026-09-14-hoshinoya-kyoto等とは無関係、captions上は本施設の投稿は未作成だがcandidate記録済み）、(2)シギラベイサイドスイート アラマンダ（同サイクル・離島リゾート・77点・shortlisted）、(3)宮古島東急ホテル&リゾーツ（同サイクル・離島リゾート・77点・shortlisted）、(4)イラフSUI（2026-09-14・2026-10-19の2回調査済み・68点・不採用）、(5)ザ シギラ＝THE SHIGIRA（2026-10-20・オールインクルーシブ・78点・選定済み、captions/2026-10-20-the-shigira-miyako.json）。これらとは異なる、まだ正式な評価（review_scores裏取り）が完了していない施設を本サイクルで新規に調査した。なお『ホテルシギラミラージュ』は2026-10-20サイクル（data/candidates/2026-10-20-all-inclusive-miyako.json 内 id:2026-10-20-shigira-mirage-miyako）で一度候補として記載されているが、そのときは『オールインクルーシブ』カテゴリ条件（夕食・アクティビティ込みプランの有無）のみを確認する目的で、review_scoresは空配列・negative_review_checkも未実施（checked:false）のまま、スコア23点でカテゴリ不一致により不採用としたにとどまる。本サイクルでは離島リゾートという正しいカテゴリで、口コミ評価の数値的な裏取り（原則7）を初めて完了させた。慶良間諸島（座間味島）は season_rationale のとおり大型・中堅リゾートの実在を確認できなかったため、候補調査の対象外とした。",
+  "candidates": [
+    {
+      "id": "2026-10-22-shigira-mirage-miyako",
+      "name": "ホテル シギラミラージュ",
+      "region": "沖縄県宮古島市上野新里（シギラセブンマイルズリゾート内）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.74, "scale": 5, "review_count": 357, "checked_date": "2026-10-22", "url": "https://travel.rakuten.co.jp/HOTEL/168769/review.html" },
+        { "source": "じゃらん", "score": 4.8, "scale": 5, "review_count": 97, "checked_date": "2026-10-22", "url": "https://www.jalan.net/yad330808/kuchikomi/" },
+        { "source": "Skyticket（口コミ集計）", "score": 4.7, "scale": 5, "review_count": 1045, "checked_date": "2026-10-22", "url": "https://skyticket.jp/hotel/detail/property_907728/" },
+        { "source": "Relux", "score": 4.2, "scale": 5, "review_count": 30, "checked_date": "2026-10-22", "url": "https://rlx.jp/23493/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "朝食付きプランで大人1名あたり22,470円〜211,820円という幅広い表示を複数の旅行会社サイト（KNT等）で確認した（デラックス／スーペリアルーム、時期・部屋タイプにより変動）。2名1室では目安4万円台後半〜、プールヴィラ・スイート系は1名25万円超のプランもある。具体的な最新料金は公式サイト（shigira.com）での確認を推奨する。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2019年7月開業、シギラセブンマイルズリゾート内の11階建て海側『ベイサイド』棟とヴィラタイプ高台側『ヒルサイド』棟の2棟構成（全室51㎡以上）。宿泊者専用の『シギラ黄金温泉 ジャングルプール』は地下1,250mから湧く温泉を水着で楽しむ珍しいジャングル型プールで、和食・地中海料理・ラウンジ&バーなど複数レストランを備える。客室タイプにはジャグジー付き・プールヴィラプレミア（プライベートプール付き）もあり、同じシギラリゾート内の『ザ シギラ』『シギラベイサイドスイート アラマンダ』とは異なる価格帯・コンセプトの施設として位置づけられる。",
+      "renewal_or_news": "2019年開業からは年数が経つが、2024年2月には同リゾート内に姉妹棟『ホテル シギラミラージュ ビーチフロント』（全93室・長期滞在向けキッチン付き）が新設され、シギラリゾート全体として拡張・再注目が続いている。本館自体の口コミ件数は楽天357件・じゃらん97件・Skyticket集計1,045件と蓄積が厚く、直近（2026年5月・2026年7月時点）の投稿でも高評価が継続している。",
+      "target_audience": ["夫婦", "記念日", "家族", "ホテル好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 24,
+        "review_reliability": 14,
+        "unique_experience_score": 16,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 81,
+      "recommendation_reason": "楽天トラベル4.74（357件）・じゃらん4.8（97件）という性質の異なる2つの大手予約サイトでいずれも4.0を大きく上回り、かつ件数も十分（Skyticket集計では1,045件）で信頼性が高い（原則6・7）。水着で入る温泉ジャングルプールという宮古島の他リゾートにはない独自設備があり、ベイサイド・ヒルサイドの2棟構成で部屋タイプの選択肢も広い。2026-10-20サイクルではオールインクルーシブ条件に合わないため口コミ裏取りをせず23点で不採用としていたが、正しいカテゴリ（離島リゾート）で裏取りを完了させた結果、採用ラインを満たす候補であることが判明した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "jcation掲載の個別口コミ（投稿者:ISAO氏）で、『部屋の清掃はボタン点灯させない場合は後回しにされる』『一部共用部分の設備にメンテナンス不備あり』『スタッフの引き継ぎに漏れがあった』『リゾート内飲食施設で不正請求の事例情報があり支払い時の明細確認が必要』といった指摘が1件確認された。ただしこれは単一の口コミに基づく指摘であり、楽天トラベル（357件）・じゃらん（97件）・Skyticket集計（1,045件）という大量の独立した口コミ全体では4.2〜4.8の高評価が一貫して確認されており、清潔感・安全性に関わる重大な問題が複数の独立情報源で一致して確認されたわけではないため、disqualifying issueとまでは判断しなかった（原則10）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "シギラセブンマイルズリゾート公式サイト（ホテル シギラミラージュ）", "url": "https://shigira.com/hotel/mirage" },
+        { "type": "review_site", "title": "ホテルシギラミラージュ＜宮古島＞ に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/168769/review.html" },
+        { "type": "review_site", "title": "ホテル シギラミラージュの口コミ・評判 - じゃらんnet", "url": "https://www.jalan.net/yad330808/kuchikomi/" },
+        { "type": "review_site", "title": "ホテル シギラミラージュ 宿泊プラン・クチコミまとめ - skyticket", "url": "https://skyticket.jp/hotel/detail/property_907728/" },
+        { "type": "review_site", "title": "ホテルシギラミラージュ クチコミ・評判（30件） - Relux", "url": "https://rlx.jp/23493/review/" },
+        { "type": "other", "title": "ホテルシギラミラージュ クチコミ（個別口コミ含む） - jcation", "url": "https://jcation.com/hotel/detail-12062/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-22-rosewood-miyakojima",
+      "name": "ローズウッド宮古島",
+      "region": "沖縄県宮古島市（宮古島北部・大浦湾の岬）",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "Hotels.com（集計・海外OTA）", "score": 8.8, "scale": 10, "review_count": 15, "checked_date": "2026-10-22", "url": "https://www.hotels.com/ho3440654336/" },
+        { "source": "cozycozy（集計・海外OTA）", "score": 9.3, "scale": 10, "review_count": 7, "checked_date": "2026-10-22", "url": "https://www.cozycozy.com/nz/miyako-jima-hotels" }
+      ],
+      "price_range_jpy": {
+        "note": "2025年開業プランの一例として2名1泊2日で227,700円（サービス料・税込）という価格情報を確認。2026年11月1日〜2027年3月31日の2連泊限定プランも案内されている。全室プライベートプール付きヴィラのため価格帯は宮古島の中でも最上位クラス。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "ラグジュアリーホテルブランド『ローズウッド』の日本第1号ホテルとして2025年3月に開業。宮古島北部、三方を海に囲まれた人里離れた岬（大浦湾）に位置し、全55室が独立ヴィラ（オーシャンビュー・ビーチフロントヴィラ）で全室プライベートプール付き、さらに150㎡超の一軒家タイプ『ハウス』3棟もある。ビーチフロントのインフィニティプール、Asaya Spa、ヨガスタジオなどを備え、朝食はテラス席から宮古ブルーを一望できる。",
+      "renewal_or_news": "2025年3月1日開業と宮古島の中でも最新かつ国内初進出ブランドという話題性があり、precious.jp・WWD JAPAN・トラベルボイス等の専門メディアで開業時に大きく取り上げられた。",
+      "target_audience": ["夫婦", "記念日", "ホテル好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 4,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 5,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 73,
+      "recommendation_reason": "2025年3月開業のため、国内の主要レビューサイト（楽天トラベル・じゃらん・一休.com）では複数回のWebSearchでも集計された評価点・口コミ件数を確認できず、確認できたのは海外OTA集計のHotels.com（8.8/10・15件）とcozycozy（9.3/10・7件）のみだった。全室プライベートプール付きヴィラ・ローズウッド日本初進出という強い独自性と公式情報の確認可能性から『穴場候補（is_hidden_gem）』として別枠評価したが、口コミ件数が極めて少なく信頼度（原則7）の観点で裏取りが弱いため、総合スコアは75点未満の73点となり不採用とした。開業から時間が経ち口コミが蓄積した段階での再調査が望ましい。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "WebSearchの範囲では明確な低評価レビューの内容（清潔感・接客等への具体的な不満）は確認できなかった。これは口コミ自体の蓄積が少ないことによる可能性が高く、『低評価が無い』と積極的に判断できるほどの材料ではない点を留意事項として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "ローズウッド宮古島 公式サイト", "url": "https://www.rosewoodhotels.com/jp/miyakojima/overview.html" },
+        { "type": "press", "title": "「ローズウッド ホテルズ & リゾーツ」が日本初上陸！「ローズウッド宮古島」2025年3月1日(土)開業", "url": "https://precious.jp/articles/-/51892" },
+        { "type": "review_site", "title": "Rosewood Miyakojima - Hotels.com", "url": "https://www.hotels.com/ho3440654336/" },
+        { "type": "other", "title": "Rosewood Miyakojima - cozycozy（宮古島ホテル一覧・集計評価）", "url": "https://www.cozycozy.com/nz/miyako-jima-hotels" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独自性・話題性は非常に高いが、国内主要レビューサイトでの数値的な裏取りができず、確認できた海外OTA集計も口コミ件数が極めて少ない（15件・7件）ため信頼度不足で総合73点となり、採用ライン75点に届かず不採用。"
+    },
+    {
+      "id": "2026-10-22-miyakojima-kurima-seawood",
+      "name": "宮古島来間リゾート シーウッドホテル",
+      "region": "沖縄県宮古島市下地来間（来間島・来間大橋を渡った先）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "エキテン", "score": 3.48, "scale": 5, "review_count": 3, "checked_date": "2026-10-22", "url": "https://www.ekiten.jp/shop_43322826/" }
+      ],
+      "price_range_jpy": {
+        "note": "2名1室あたりの具体的な最新料金はこのセッションのWebSearchでは確定できなかった。プール付きコテージ等を含む客室タイプがある。",
+        "as_of_search_date": "2026-10-22",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "宮古島本島から来間大橋を渡った来間島に位置し、『日本の渚百選』に選ばれた長間浜まで徒歩約1分という希少な立地。プール付きコテージタイプの客室がある。",
+      "target_audience": ["夫婦", "家族", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 17,
+        "review_reliability": 2,
+        "unique_experience_score": 13,
+        "photogenic": 11,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 54,
+      "recommendation_reason": "来間島・長間浜という立地の独自性はあるが、楽天トラベル・じゃらんの集計評価点・口コミ件数を今回のセッションのWebSearchでは確認できず、唯一の数値根拠であるエキテンも口コミ3件のみと極めて少ない（原則7の独立2情報源を数値付きで満たせない）。信頼できる裏取りが不十分なため総合スコアも75点に届かず不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの個別投稿で『センターハウスにしか駐車場がない』という不便さの指摘が1件確認できたが、口コミ自体の総数が少なく全体傾向を判断できる材料ではない。重大な衛生・安全上の問題は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "宮古島来間リゾート シーウッドホテル - エキテン", "url": "https://www.ekiten.jp/shop_43322826/" },
+        { "type": "other", "title": "宮古島来間リゾート シーウッドホテル 施設情報・口コミ - jcation", "url": "https://jcation.com/hotel/detail-14233/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "楽天トラベル・じゃらん等の主要レビューサイトでの数値的な裏取りができず、唯一確認できたエキテンも口コミ3件と少なすぎるため信頼度不足（原則7）。総合スコア54点で採用ライン未達。"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "cycle_date": "2026-11-01",
+  "theme": "沖縄県島尻郡久米島町のオールインクルーシブ",
+  "season_rationale": "依頼により『オールインクルーシブ』カテゴリ・沖縄県島尻郡久米島町を対象に調査した。11月上旬は沖縄離島でも海水温が下がり始める時期だが、まだダイビング・シュノーケリングは可能な季節。本カテゴリでの久米島調査は初めてだが、同じ久米島の宿泊施設は2026-10-17サイクル・2026-10-21サイクルで『離島リゾート』カテゴリとして既に調査済み（EN RESORT Kumejima EEF Beach Hotel・サイプレスリゾート久米島・ウォーターマークホテル沖縄 久米アイランドの3件、いずれもrejected、captions未作成）。本サイクルでは重複を避けるため、(1)同じ施設について『オールインクルーシブ』として成立する食事・ドリンク込みプランの有無を新たに確認し、(2)未調査だったホテル ガーデンヒルズを新規に調査することで、カテゴリ要件に沿った評価を行った。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-21-kumejima-resort-recheck", "region": "沖縄県島尻郡久米島町", "category": "離島リゾート" },
+    { "post_id": "2026-10-17-kumejima-resort", "region": "沖縄県島尻郡久米島町", "category": "離島リゾート" }
+  ],
+  "duplication_note": "data/candidates全件（1ヶ月以上前を含む）をgrepで確認した。久米島の宿泊施設は2026-10-17・2026-10-21サイクルで『離島リゾート』として既に3件（EN RESORT Kumejima EEF Beach Hotel・サイプレスリゾート久米島・ウォーターマークホテル沖縄 久米アイランド）が調査済みで、いずれもrejected・captions未作成（投稿実績なし）。今回は依頼カテゴリが『オールインクルーシブ』であるため、同じ3施設について食事・ドリンク込みプランの有無という観点で再調査し、加えて未調査のホテル ガーデンヒルズを新規調査した。captions/・posts/のいずれにも久米島の施設は一度も登場していないため、投稿としての重複は発生していない。",
+  "candidates": [
+    {
+      "id": "2026-11-01-en-resort-kumejima-eef-beach-ai",
+      "name": "EN RESORT Kumejima EEF Beach Hotel（旧 イーフビーチホテル）",
+      "region": "沖縄県島尻郡久米島町謝名堂（イーフビーチ）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 4.03, "scale": 5, "review_count": 163, "checked_date": "2026-11-01", "url": "https://4travel.jp/dm_hotel-10039001" },
+        { "source": "スカイチケット", "score": 4.2, "scale": 5, "review_count": 586, "checked_date": "2026-11-01", "url": "https://skyticket.jp/hotel/okinawa/bl_470019/" },
+        { "source": "じゃらん", "score": 4.4, "scale": 5, "review_count": 288, "checked_date": "2026-11-01", "url": "https://www.jalan.net/yad312912/" }
+      ],
+      "price_range_jpy": {
+        "note": "旅行サイトで1名あたり約5,400円〜という参考価格が確認できたが、これは通常の素泊まり・朝食付き等の料金で、全食事・ドリンク込みの『オールインクルーシブ』専用プランが存在するかはこのセッションのWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-11-01",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "久米島で唯一のオン・ザ・ビーチホテルとされ、イーフビーチに直接面する。久米島名産の海洋深層水を使った『海洋深層水展望風呂』が特徴で屋外プールも備える。ただしこのセッションのWebSearchでは、食事・飲料・アクティビティがすべて料金に含まれる『オールインクルーシブ』型プランの存在を公式サイト・予約サイトのいずれでも確認できず、本カテゴリの核となる価値提案（全食事・ドリンク込み）を満たすかは未確認。フォートラベルの項目別評価では食事3.50、コストパフォーマンス3.62と、評価全体（4.03）より食事関連が低い点も留意点。",
+      "renewal_or_news": "2023年4月に『EN RESORT Kumejima EEF Beach Hotel』としてリブランドオープンし、客室と展望風呂を改装（約3年前の情報）。本サイクルの再確認でも2026年11月時点の新たな休業・リニューアル情報は確認できなかった。",
+      "target_audience": ["家族", "カップル", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 14,
+        "unique_experience_score": 7,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 4
+      },
+      "score": 63,
+      "recommendation_reason": "フォートラベル4.03（163件）・スカイチケット4.2（586件）・じゃらん4.4（288件）という3つの独立した情報源でいずれも4.0以上を確認でき、口コミの信頼性自体は久米島内の宿泊施設の中では高い。しかし『オールインクルーシブ』カテゴリとして求められる全食事・ドリンク込みプランの存在をこのセッションのWebSearchでは確認できず、食事関連の項目別評価（食事3.50、コスパ3.62）も総合評価より低い。久米島唯一のオン・ザ・ビーチという立地の魅力はあるが、カテゴリの核となる価値提案を満たせないため、総合スコアは63点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "複数年（2014〜2022年）の口コミで、建物の古さ、カーテンの遮光性・防音性の低さ、大浴場（海洋深層水展望風呂）の混雑が継続して指摘されている。食事についても『食事の評価が1/5と低い投稿もあった』という言及があり、夕食の満足度にばらつきが見られる。一方で部屋の清潔さやオーシャンビュー・朝日の美しさを評価する声も多い。衛生・安全上の重大な問題として複数情報源で一致して確認されたわけではないため、disqualifying issueとまでは判断しなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "EN RESORT 久米島イーフビーチホテル - フォートラベル", "url": "https://4travel.jp/dm_hotel-10039001" },
+        { "type": "review_site", "title": "沖縄離島エリア ホテル一覧 - スカイチケット", "url": "https://skyticket.jp/hotel/okinawa/bl_470019/" },
+        { "type": "booking_site", "title": "EN RESORT 久米島イーフビーチホテル - じゃらんnet", "url": "https://www.jalan.net/yad312912/" },
+        { "type": "booking_site", "title": "EN RESORT 久米島イーフビーチホテル - 楽天トラベル（プラン一覧）", "url": "https://hotel.travel.rakuten.co.jp/hotelinfo/plan/29731" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価自体は独立3情報源で4.0以上を確認できたが、『オールインクルーシブ』カテゴリの核となる全食事・ドリンク込みプランの存在をこのセッションのWebSearchでは確認できず、食事関連の評価も相対的に低い。カテゴリとしての価値提案を満たせないため、採用ライン75点に届かず見送った。"
+    },
+    {
+      "id": "2026-11-01-cypress-resort-kumejima-ai",
+      "name": "サイプレスリゾート久米島",
+      "region": "沖縄県島尻郡久米島町宇根（イーフビーチ周辺）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "スカイチケット", "score": 4.2, "scale": 5, "review_count": 502, "checked_date": "2026-11-01", "url": "https://skyticket.jp/hotel/detail/property_9790/" },
+        { "source": "フォートラベル", "score": 3.90, "scale": 5, "review_count": 130, "checked_date": "2026-11-01", "url": "https://4travel.jp/dm_hotel-10218370" }
+      ],
+      "price_range_jpy": {
+        "note": "1名あたり約5,175円〜という参考価格が確認できたが、具体的な『オールインクルーシブ』専用プランの料金はこのセッションのWebSearchでは確認できなかった。夕食はバーベキューやコース料理の他、1,500円程度からのアラカルトも選べるという口コミがあり、全食事・ドリンク込みではなく個別会計が基本と見られる。",
+        "as_of_search_date": "2026-11-01",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "久米島空港から車で約3〜5分という立地で、オーシャンビューのダイニングでは沖縄の食材を使った料理が楽しめる。朝食はビュッフェ形式（一部プランでは有料）という情報もあり、夕食はアラカルト中心で、料金に全食事・ドリンクが含まれる『オールインクルーシブ』プランはこのセッションのWebSearchでは確認できなかった。",
+      "target_audience": ["カップル", "記念日", "家族"],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 10,
+        "unique_experience_score": 6,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 51,
+      "recommendation_reason": "スカイチケット4.2（502件）は確認できたが、フォートラベルの満足度は3.90（130件）で4.0にわずかに届かず、評価にばらつきがある。食事はアラカルト中心で全食事・ドリンク込みの構成ではないと見られ、『オールインクルーシブ』カテゴリとしての独自性に乏しい。2026年4月の口コミにフロント接客への厳しい指摘（1.0点）があったことも踏まえ、総合スコアは51点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2026年4月投稿の口コミ（評価1.0）で、フロントスタッフの対応への厳しい指摘があった。フォートラベルの項目別評価でも風呂3.21・接客対応3.59と相対的に低い項目がある。衛生・安全上の重大な問題として複数情報源で一致して確認されたわけではないため、disqualifying issueとまでは判断しなかったが、スコアには反映した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "サイプレス リゾート久米島 - スカイチケット", "url": "https://skyticket.jp/hotel/detail/property_9790/" },
+        { "type": "review_site", "title": "サイプレスリゾート久米島 - フォートラベル", "url": "https://4travel.jp/dm_hotel-10218370" },
+        { "type": "review_site", "title": "サイプレス リゾート久米島 - Relux（口コミ）", "url": "https://rlx.jp/21448/review/" },
+        { "type": "other", "title": "サイプレス リゾート久米島", "url": "https://jcation.com/hotel/detail-2115/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "フォートラベル満足度3.90が4.0にわずかに届かず評価にばらつきがあること、食事がアラカルト中心で全食事・ドリンク込みのオールインクルーシブ型プランを確認できないこと、2026年4月のフロント接客に関する厳しい口コミから、採用ライン75点には届かない。"
+    },
+    {
+      "id": "2026-11-01-watermark-kumejima-island-ai",
+      "name": "ウォーターマークホテル沖縄 久米アイランド（旧 リゾートホテル久米アイランド）",
+      "region": "沖縄県島尻郡久米島町謝名堂（イーフビーチ徒歩圏内）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらん", "score": 4.2, "scale": 5, "review_count": 188, "checked_date": "2026-11-01", "url": "https://www.jalan.net/yad358620" },
+        { "source": "楽天トラベル（mapple経由集計）", "score": 4.1, "scale": 5, "review_count": 289, "checked_date": "2026-11-01", "url": "https://www.mapple.net/region/a0705011100/hotel/" }
+      ],
+      "price_range_jpy": {
+        "note": "近畿日本ツーリスト掲載の夕朝食付きスタンダードツイン（2026年7月27日〜11月30日販売）がおとな1名あたり13,200円〜20,900円という情報を確認したが、対象ホテルの明記が不完全で、本施設の公式プランかどうかは断定できなかった。全食事・ドリンク込みの『オールインクルーシブ』専用プランの料金はこのセッションのWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-11-01",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2025年6月に『リゾートホテル久米アイランド』から『ウォーターマークホテル沖縄 久米アイランド』へリブランドオープンし、2024年に客室・エントランス・ロビーのフルリノベーションを実施（客室数は掲載元により142室・198室と記載が分かれ、このセッションのWebSearchでは確定できなかった）。屋外プールを備え、夕朝食付きプランも存在するが、全食事・ドリンクが料金に含まれる『オールインクルーシブ』型プランの存在は確認できなかった。",
+      "renewal_or_news": "2025年6月のリブランドオープンと2024年のフルリノベーション。『久米島ハワイアンフェスティバル2026』の会場としても案内されており、2026年時点で営業継続中であることは確認できた。",
+      "target_audience": ["家族", "カップル", "友人"],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 11,
+        "unique_experience_score": 7,
+        "photogenic": 9,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 57,
+      "recommendation_reason": "じゃらん4.2（188件）・楽天トラベル4.1（289件、mapple経由集計）という2つの独立した情報源で4.0以上・十分な件数を確認でき、2026-10-21調査時点（フォートラベル3.04/1件のみで信頼性不足と判定）より評価の裏付けは強化された。ただし客室数の記載が掲載元により食い違う（142室 対 198室）など公式情報の整合性に不安があり、全食事・ドリンク込みの『オールインクルーシブ』プランも確認できなかった。加えて楽天トラベルの口コミに『夕食はシェフが休みのため食べられず、朝食は出来合いばかりだった』という投稿があり、食事提供の安定性に懸念があるため、総合スコアは57点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベルの口コミに『夕食はシェフが休みの為食べれず、朝食は出来合いばかり』という投稿があり、食事提供体制に懸念がある。これは『オールインクルーシブ』として食事を前面に出す場合は特に重大な指摘だが、単発の投稿であり複数情報源で一致した組織的な問題として確認されたわけではないため、disqualifying issueとまでは判断しなかった。るるぶトラベル3.2（6件）・フォートラベル3.04（1件）という低評価・低サンプルの情報源も存在し、評価の一部に不安定さがある。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "ウォーターマークホテル沖縄 久米アイランド - じゃらん", "url": "https://www.jalan.net/yad358620" },
+        { "type": "other", "title": "久米島 ホテル一覧（楽天トラベル評価集計） - mapple", "url": "https://www.mapple.net/region/a0705011100/hotel/" },
+        { "type": "review_site", "title": "ウォーターマークホテル沖縄 久米アイランド - フォートラベル", "url": "https://4travel.jp/dm_hotel-11997080" },
+        { "type": "other", "title": "久米島ハワイアンフェスティバル2026 - ウォーターマークホテル沖縄 久米アイランド", "url": "https://summer.walkerplus.com/odekake/detail_e/ar1047e592553/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価自体は2情報源で4.0以上・十分な件数を確認できたが、全食事・ドリンク込みのオールインクルーシブ型プランを確認できないこと、客室数など公式情報の整合性に不安があること、夕食提供に関する具体的な懸念口コミがあることから、採用ライン75点には届かない。"
+    },
+    {
+      "id": "2026-11-01-garden-hills-kumejima-ai",
+      "name": "ホテル ガーデンヒルズ",
+      "region": "沖縄県島尻郡久米島町兼城（兼城港周辺）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "スカイチケット", "score": 3.2, "scale": 5, "review_count": 84, "checked_date": "2026-11-01", "url": "https://skyticket.jp/hotel/okinawa/bl_470019/" },
+        { "source": "trip.com", "score": 6.9, "scale": 10, "review_count": 28, "checked_date": "2026-11-01", "url": "https://jp.trip.com/hotels/internet-access/city/jp/kumejima.html" }
+      ],
+      "price_range_jpy": {
+        "note": "久米島空港から車で約10分、兼城港へも徒歩圏内でリーズナブルな料金帯との言及があったが、具体的な2名1泊料金やオールインクルーシブ型プランの有無はこのセッションのWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-11-01",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "部屋数が多く団体・合宿利用にも対応するホテルとされ、港や町営バス停に近い利便性が挙げられている。全食事・ドリンク込みのプランや、ラグジュアリー旅先として打ち出せる独自体験はこのセッションのWebSearchでは確認できなかった。",
+      "target_audience": ["友人", "家族"],
+      "score_breakdown": {
+        "review_rating": 8,
+        "review_reliability": 6,
+        "unique_experience_score": 4,
+        "photogenic": 4,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 3
+      },
+      "score": 32,
+      "recommendation_reason": "スカイチケットでの総合評価は3.2（84件）と原則6が定める最低ライン（4.0以上）に届かず即不採用の水準。2026年8月の口コミでは客層・騒音・部屋のかび臭さ・部屋ごとの当たり外れが指摘されており、全食事・ドリンク込みのオールインクルーシブ型プランも確認できないため、総合スコアは32点にとどまる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2026年8月投稿の評価1.0の口コミで、客層・騒音、部屋のかび臭さ、部屋による当たり外れの大きさが指摘されている。trip.comの口コミにも建物の古さ・浴室の傷みを指摘する声があった。かび臭さの指摘は衛生面の懸念であり、評価自体も4.0未満のため、本カテゴリでの採用は適さないと判断した。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        { "type": "review_site", "title": "ホテル ガーデンヒルズ - スカイチケット", "url": "https://skyticket.jp/hotel/okinawa/bl_470019/" },
+        { "type": "review_site", "title": "ホテル ガーデンヒルズ(久米島) - icotto", "url": "https://icotto.jp/hotels/3226" },
+        { "type": "review_site", "title": "ホテル ガーデンヒルズ - cocolocala", "url": "https://www.cocolocala.jp/hotels/26737" },
+        { "type": "other", "title": "ホテル ガーデンヒルズ", "url": "https://jcation.com/hotel/detail-10219/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイト評価が3.2（4.0未満）のため原則6により即不採用。2026年8月の衛生面（かび臭さ）の指摘もあり、オールインクルーシブカテゴリでの採用は見送った。"
+    }
+  ],
+  "cycle_conclusion": "『オールインクルーシブ』カテゴリ・沖縄県島尻郡久米島町を対象に、既調査3施設（EN RESORT Kumejima EEF Beach Hotel・サイプレスリゾート久米島・ウォーターマークホテル沖縄 久米アイランド）をカテゴリ要件（全食事・ドリンク込みプランの有無）の観点で再調査し、未調査のホテル ガーデンヒルズを新規調査した結果、計4件のいずれも採用ライン（75点）に届かず、selected候補なし。4施設とも公式サイト・予約サイトのいずれにも『全食事・ドリンク込み』を明示するオールインクルーシブ型プランの存在を確認できず、久米島には現時点で本カテゴリの核となる価値提案を満たす施設が確認できなかったと結論する。captions/の新規作成は行わない。"
+}

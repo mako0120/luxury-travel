@@ -1,0 +1,194 @@
+{
+  "cycle_date": "2026-10-23",
+  "theme": "福島県会津若松市・東山温泉のグルメ旅館",
+  "season_rationale": "10月下旬は会津地方の紅葉が見頃に近づく時期で、気候も安定し旅行需要が高まる。東山温泉は会津若松の奥座敷として知られる温泉地で、会津牛・会津地鶏・会津郷土料理（こづゆ等）との組み合わせを訴求しやすい季節（原則30）。",
+  "prior_posts_checked": [
+    { "caption_id": "2026-10-22-fumoto-ryokan-kurokawa", "region": "熊本県阿蘇郡南小国町満願寺（黒川温泉）", "category": "グルメ旅館" },
+    { "caption_id": "2026-10-22-kangetsuen-tokachigawa", "region": "北海道河東郡音更町十勝川温泉（十勝川温泉）", "category": "サウナ" },
+    { "caption_id": "2026-10-22-mercure-tottori-daisen", "region": "鳥取県西伯郡伯耆町（大山山麓）", "category": "絶景ホテル" },
+    { "caption_id": "2026-10-22-mitsui-kyoto", "region": "京都府京都市中京区（二条城前）", "category": "文化体験" },
+    { "caption_id": "2026-10-22-mori-premier-izu", "region": "静岡県伊東市（伊豆急行 川奈駅周辺）", "category": "オールインクルーシブ" },
+    { "caption_id": "2026-10-22-notoraku-wakura", "region": "石川県七尾市和倉町（和倉温泉）", "category": "温泉旅館" },
+    { "caption_id": "2026-10-22-shigira-mirage-miyako", "region": "沖縄県宮古島市（シギラセブンマイルズリゾート）", "category": "離島リゾート" },
+    { "caption_id": "2026-10-22-takachihokyou-boat", "region": "宮崎県西臼杵郡高千穂町（高千穂峡）", "category": "アクティビティ" },
+    { "caption_id": "2026-10-22-conrad-osaka-shinemuscat-afternoontea", "region": "大阪府大阪市西区（肥後橋）", "category": "その他" },
+    { "caption_id": "2026-10-21-yuda-onsen-kokian", "region": "山口県山口市（湯田温泉）", "category": "グルメ旅館" },
+    { "caption_id": "2026-10-20-gero-suimeikan", "region": "岐阜県下呂市（下呂温泉）", "category": "グルメ旅館" },
+    { "caption_id": "2026-10-18-kaike-shogetsu", "region": "鳥取県米子市（皆生温泉）", "category": "グルメ旅館" },
+    { "caption_id": "2026-10-17-ureshino-taishoya", "region": "佐賀県嬉野市（嬉野温泉）", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "依頼時の地域候補は『福島県東山温泉』。カテゴリ『グルメ旅館』は直近サイクルで下呂(10/20)・湯田温泉(10/21)・黒川温泉(10/22)と連続使用されているため重複回避の必要があった。data/candidates/・captions/の全履歴（2026-09-14〜2026-10-22、直近数日のみでなく1か月以上前の投稿も含む）を『福島』『会津』『東山温泉』『Fukushima』『Aizu』『Higashiyama』の各語で検索したが、福島県・会津若松市・東山温泉を地域として扱った既存候補・投稿は一件も見つからなかった（福島県に関する既出はゼロ）。福島県自体も過去投稿に一度も登場していない完全新規の都道府県であり、グルメ旅館カテゴリが連続していても地域が完全新規のため調査を進めた。",
+  "candidates": [
+    {
+      "id": "2026-10-23-higashiyama-harataki",
+      "name": "会津東山温泉 原瀧",
+      "region": "福島県会津若松市東山町湯本（東山温泉）。JR磐越西線「会津若松」駅からタクシーで約15分、路線バスで約20分。磐越自動車道 会津若松ICから車で約20分。",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらん",
+          "score": 4.1,
+          "scale": 5,
+          "review_count": 1434,
+          "checked_date": "2026-10-23",
+          "url": "https://www.jalan.net/yad330880/"
+        },
+        {
+          "source": "楽天トラベル",
+          "score": 4.2,
+          "scale": 5,
+          "review_count": 1099,
+          "checked_date": "2026-10-23",
+          "url": "https://travel.rakuten.co.jp/HOTEL/39376/39376.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "素泊まりプランで22,000円〜という掲載が確認できたが、1泊2食付きの正確な価格帯はWeb検索の範囲では確定できなかった。川床（川どこ）食事付きプランなど季節・部屋タイプにより変動する。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "1924年創業、自家源泉を持つ老舗旅館。4月下旬〜10月頃の期間限定（時期はサイトにより表記差あり）で、渓流を望む水辺のダイニング『川どこ』が営業し、福島県産黒毛和牛または会津地鶏の炭火焼をメインに、こづゆ・鮎の塩焼きなど会津の郷土料理を味わえる。温泉は屋号の由来となる滝を望む露天風呂、滝が見える貸切風呂4箇所、地元で古くから知られる大浴場『千人風呂』を備え、景観と食の両方で『グルメ旅館』としての独自性が強い。",
+      "renewal_or_news": "専門メディア（All About）では2026年3月時点でGoogleクチコミ500件以上・平均評価4.0超えの施設として紹介されている。川床『川どこ』は季節限定営業（掲載により4月下旬〜9月、5月〜10月など時期表記に差があるため訪問時は営業期間を要確認）。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 15,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 85,
+      "recommendation_reason": "じゃらん4.1（1,434件）・楽天トラベル4.2（1,099件）という2つの独立した情報源で、いずれも採用ライン4.0以上を1,000件超という非常に大きな件数規模で安定して満たしている（原則6・7）。川床『川どこ』での黒毛和牛・会津地鶏炭火焼や会津郷土料理、滝を望む露天風呂・貸切風呂という景観と食の両立が『グルメ旅館』として明確な独自性を持ち、福島県・東山温泉は過去のcaptions/・data/candidatesの全履歴に一度も登場していない完全新規地域でもあるため選定した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Yahoo!トラベル経由の口コミまとめでは、自家源泉掛け流しや渓流沿いの景色、広い大浴場への好評に加え、建物の古さ、虫の多さ、売店・客室内飲料の少なさを気にする声があるとされていた。フォートラベルの2014年投稿（10年以上前）ではコストパフォーマンスを5段階で2.5とやや低く評価する声もあったが、投稿時期が古く現状との関連は薄い。じゃらん4.1（1,434件）・楽天トラベル4.2（1,099件）という大規模な件数での評価は安定して高く、清潔感・接客・料理に関わる重大・組織的な欠陥を示す情報は複数の情報源では確認できなかったため、除外基準（原則10）に該当するとは判断しなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "自家源泉の宿 原瀧（じゃらんnet／クチコミ総合4.1・1,434件）", "url": "https://www.jalan.net/yad330880/" },
+        { "type": "booking_site", "title": "会津東山温泉 原瀧（楽天トラベル／総合評価4.20・1,099件）", "url": "https://travel.rakuten.co.jp/HOTEL/39376/39376.html" },
+        { "type": "other", "title": "【福島県の人気ホテル】「会津東山温泉 原瀧」が選ばれる理由 - All About", "url": "https://news.allabout.co.jp/articles/o/114297/" },
+        { "type": "review_site", "title": "会津東山温泉 原瀧 の口コミ（建物の古さ・虫等への指摘） - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00030308" },
+        { "type": "review_site", "title": "会津東山温泉 原瀧 クチコミ（フォートラベル）", "url": "https://4travel.jp/dm_hotel_tips/11343062" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-23-higashiyama-konjakutei",
+      "name": "会津東山温泉 今昔亭",
+      "region": "福島県会津若松市東山町湯本（東山温泉）。JR磐越西線「会津若松」駅からタクシーで約15分、路線バスで約20分（車で約20分とする掲載もある）。",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "じゃらん",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 387,
+          "checked_date": "2026-10-23",
+          "url": "https://www.jalan.net/yad305557/"
+        },
+        {
+          "source": "楽天トラベル",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 371,
+          "checked_date": "2026-10-23",
+          "url": "https://travel.rakuten.co.jp/HOTEL/39377/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付き1名17,600円〜という掲載が確認できたが、情報源・時期により差がある。展望風呂付・露天風呂付など客室タイプにより変動する。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全25室、東山温泉の源泉かけ流しを24時間楽しめる大浴場『美肌の湯』を持つ和の湯宿。客室は展望風呂付・露天風呂付を含む3タイプの温泉付き部屋から選べ、食事は旬の食材を使った料理長こだわりの和食会席。Trip.comの口コミでは、古い建物が丁寧に手入れされている点が評価されている。",
+      "renewal_or_news": "楽天トラベルスーパーSALE等の特別価格企画でAll Aboutに複数回（2025年12月・2026年3月時点）取り上げられており、継続的な話題性がある。",
+      "target_audience": ["夫婦", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 15,
+        "photogenic": 11,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 80,
+      "recommendation_reason": "じゃらん4.5（387件）・楽天トラベル4.4（371件）という2つの独立した情報源で、いずれも採用ライン4.0を大きく上回る高評価を確認した（原則6・7）。24時間楽しめる『美肌の湯』と3タイプの温泉付き客室という独自性があるが、食事面の訴求は『料理長こだわりの和食会席』という一般的な表現にとどまり、同じ東山温泉の原瀧（川床での黒毛和牛・会津地鶏炭火焼＋会津郷土料理という具体的なグルメ体験、かつ件数規模も1,000件超）と比べると、グルメ旅館としての独自性・レビュー件数規模でわずかに見劣りするため、今サイクルは次点とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Trip.comの口コミ（40件・9.4/10）やcocolocalaの投稿では、建物の古さを好意的に受け止める声が中心で、具体的な接客・清潔感への不満は今回のWeb検索の範囲では確認できなかった。一方で、宿周辺に飲食店が少なく食事付きプランを選ぶ必要があるという実用面の指摘があった。清潔感・接客・料理に関わる重大な欠陥を示す情報は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "会津東山温泉 今昔亭（じゃらんnet／クチコミ総合4.5・387件）", "url": "https://www.jalan.net/yad305557/" },
+        { "type": "booking_site", "title": "会津東山温泉 今昔亭（楽天トラベル／総合評価4.40・371件）", "url": "https://travel.rakuten.co.jp/HOTEL/39377/" },
+        { "type": "review_site", "title": "会津東山温泉 今昔亭（こんじゃくてい） - Trip.com（9.4/10・40件）", "url": "https://jp.trip.com/hotels/aizuwakamatsu-hotel-detail-1488251/konjakutei/review.html" },
+        { "type": "other", "title": "【楽天トラベルスーパーSALE】「会津東山温泉 今昔亭」が今だけ特別価格に - All About", "url": "https://news.allabout.co.jp/articles/o/112536/" }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "同じ東山温泉のグルメ旅館カテゴリで原瀧（85点）と競合した。レビュー評価自体は原瀧を上回るが（じゃらん4.5/387件・楽天4.4/371件）、グルメ体験の具体性・独自性（川床での会津郷土料理等）とレビュー件数規模で原瀧にわずかに及ばず、僅差で今サイクルは見送り。次サイクル以降、東山温泉以外の投稿が続いた後の再候補とする。"
+    },
+    {
+      "id": "2026-10-23-higashiyama-mukaitaki",
+      "name": "会津東山温泉 向瀧",
+      "region": "福島県会津若松市東山町湯本川向200（東山温泉）。会津若松駅よりまちなか周遊バス「ハイカラさん」「あかべぇ」利用、東山温泉駅下車（送迎なし）。",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "icotto（フォートラベル集計）",
+          "score": 3.45,
+          "scale": 5,
+          "review_count": 35,
+          "checked_date": "2026-10-23",
+          "url": "https://icotto.jp/hotels/191"
+        },
+        {
+          "source": "ニフティ温泉",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 11,
+          "checked_date": "2026-10-23",
+          "url": "https://onsen.nifty.com/cs/catalog/onsen_onsen-detail/catalog_onsen007001_1.htm"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では正確な1泊2食価格帯は確定できなかった。源泉100%掛け流し風呂付き和室8畳などのプランが掲載されていた。",
+        "as_of_search_date": "2026-10-23",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "国の登録有形文化財に登録された木造建築を守り続ける、全24室の老舗旅館。自然湧出の自家源泉を持ち、冬には中庭で『雪見ろうそく』が行われるなど、歴史的建築と情緒を重視した宿。項目別の料理評価自体は高いが、グルメ旅館カテゴリとして食の独自性を強く打ち出す情報は今回確認できた範囲では限定的だった。",
+      "target_audience": ["夫婦", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 6,
+        "unique_experience_score": 14,
+        "photogenic": 9,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 3
+      },
+      "score": 53,
+      "recommendation_reason": "国の登録有形文化財という歴史的価値は高いが、icotto集計（フォートラベル経由）の総合満足度3.45（35件）は採用ライン4.0に届かず、ニフティ温泉4.5（11件）は件数が少なく信頼度が低いため、独立2情報源での数値評価の裏取り（原則7）が実質的に満たせない。総合スコアも53点で採用ライン（75点）に届かず、グルメ（食事）面での強い独自性の根拠も今回のWeb検索では十分に確認できなかったため見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "icotto掲載（出典：フォートラベル）では接客対応4.40・風呂4.24・食事4.26・コスパ4.38と項目別評価は高い一方、バリアフリーが2.16と低く、2022年9月の投稿では自販機がない・客室にドライヤーがない・氷が有料化された点が指摘されていた。古い木造建築ゆえの制約で、清潔感・接客に関わる組織的な欠陥というよりは『レトロな雰囲気を楽しめる人向け』という評価だが、採用ラインには届かない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "会津東山温泉 向瀧 口コミまとめ（icotto／フォートラベル集計3.45・35件）", "url": "https://icotto.jp/hotels/191" },
+        { "type": "other", "title": "会津東山温泉 向瀧 温泉情報（ニフティ温泉／4.5・11件）", "url": "https://onsen.nifty.com/cs/catalog/onsen_onsen-detail/catalog_onsen007001_1.htm" },
+        { "type": "booking_site", "title": "向瀧（じゃらんnet／宿泊プラン一覧）", "url": "https://www.jalan.net/yad343826/" },
+        { "type": "review_site", "title": "会津東山温泉 向瀧 クチコミ（フォートラベル）", "url": "https://4travel.jp/dm_hotel-10055240" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア53点で採用ライン（75点）に届かず、icotto集計の総合満足度3.45（35件、フォートラベル経由）も採用ライン4.0未満のため見送った。"
+    }
+  ],
+  "cycle_result": "選定: 会津東山温泉 原瀧（85点）。福島県・東山温泉のグルメ旅館カテゴリで3件（原瀧・今昔亭・向瀧）を調査。原瀧はじゃらん4.1（1,434件）・楽天トラベル4.2（1,099件）の2つの独立情報源で採用ライン（75点・主要レビュー4.0以上）を満たし、川床『川どこ』での会津郷土料理という具体的なグルメ体験が評価された。今昔亭（80点・じゃらん4.5/387件・楽天4.4/371件）はレビュー評価自体は原瀧を上回るが、グルメ体験の具体性で僅差の次点としてshortlisted。向瀧（53点・icotto集計3.45/35件）は採用ラインに届かず不採用。福島県・東山温泉は過去投稿の全履歴（2026-09-14〜2026-10-22）に一度も登場していない完全新規地域だった。"
+}

@@ -1,0 +1,327 @@
+{
+  "cycle_date": "2026-11-06",
+  "theme": "離島リゾート（東京都三宅島）の新規調査",
+  "season_rationale": "離島リゾートカテゴリはこれまで伊豆諸島・トカラ列島・沖縄離島など多数の島を調査してきたが、三宅島（東京都三宅村）はまだ一度も対象としていなかった。三宅島は雄山の火山景観・バードウォッチング・ダイビング・温泉（鄕之湯）など独自の自然資源を持つ伊豆諸島の中核的な島であり、本リポジトリの空白地域として調査優先度が高いと判断した。",
+  "prior_posts_checked": [],
+  "duplication_note": "data/candidates・captions配下の全件（2026-09-14分以降の既存ファイル全体）を『三宅島』『miyake』『Miyakejima』のキーワードで検索した結果、三宅島を対象とした候補・投稿は一件も存在しないことを確認した。地域・施設とも完全に新規である。",
+  "research_limitation_note": "本サイクルではWebSearchを用いて三宅島の宿泊施設5件（ホテル海楽、島の宿 三宅島スナッパー、民宿姉妹、民宿みなと、ペンション＆ベーカリー花海月）を調査した。じゃらんnet・楽天トラベル・フォートラベル・cocolocala・Googleマップ等への直接WebFetchは、本セッションの外部ネットワーク許可設定の範囲外でDNS解決不可であったため、これらのサイトの内容はいずれもWebSearchの統合要約経由での確認に限られ、ページ本体を直接閲覧して検証することはできなかった（花海月の公式サイト hanamidukimyk.com および三宅島観光協会公式ページも同様に直接WebFetch不可）。この制約下で確認できた範囲では、ホテル海楽はフォートラベルの口コミ評価が3.25/5（12件）で原則7の『主要レビュー4.0未満は原則不採用』の基準に抵触した。三宅島スナッパー・民宿姉妹・民宿みなとは、個別の口コミ投稿は見つかったものの、独立2情報源それぞれで件数付きの集計評価点を確認することができず、原則7の独立2情報源要件を満たせなかった。ペンション＆ベーカリー花海月は独立2情報源（jcation: 4.5/5・24件、tour.ne.jp: 4.6/5・6件）で4.0以上の集計評価を確認できた唯一の施設だったが、口コミ総数が30件程度と少なく、SNS話題性・写真で伝わる魅力・独自体験の確証も限定的であったため、100点満点での編集評価の結果は75点に届かなかった。以上より、本サイクルで調査した5件すべてを不採用とした。該当なしという結論はスコアの緩和や捏造によるものではなく、確認できた事実をそのまま反映したものである。",
+  "candidates": [
+    {
+      "id": "2026-11-06-hotel-kairaku-miyakejima",
+      "name": "ホテル海楽",
+      "region": "東京都三宅村阿古・三宅島",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "フォートラベル（みんなの満足度、三宅島のホテル13件中の比較評価）",
+          "score": 3.25,
+          "scale": 5,
+          "review_count": 12,
+          "checked_date": "2026-11-06",
+          "url": "https://4travel.jp/dm_hotel-10057604"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "公式サイト・じゃらん等での具体的な料金は本サイクルでは直接確認できなかった（1泊2食付き和室プランが中心とみられる）。",
+        "as_of_search_date": "2026-11-06",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "阿古港から近い島内最大規模のホテルで、大浴場・レンタカー・純和風客室を備える。敷地内に島で唯一のパチンコ（パチスロ）店がある点が特徴として口コミに挙がっているが、ラグジュアリー旅行メディアとして紹介する独自の魅力とは言いにくい。",
+      "target_audience": [
+        "一人旅",
+        "友人"
+      ],
+      "score_breakdown": {
+        "review_rating": 16,
+        "review_reliability": 5,
+        "unique_experience_score": 8,
+        "photogenic": 5,
+        "value_for_price": 4,
+        "sns_buzz": 2,
+        "access_and_freshness": 1
+      },
+      "score": 41,
+      "recommendation_reason": "島内最大規模で立地は良いが、フォートラベルの口コミ評価が3.25/5（12件）と原則7の『主要レビュー4.0未満は原則不採用』基準に明確に抵触する。建物の古さ・バリアフリー（2.30）・客室（2.89）・風呂（2.88）の評価も低く、独立2情報源での評価検証も単一情報源しか確認できなかった。総合スコア41点で不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミで、新館が『昭和の継ぎ足し』らしい古い建物で段差のある長い廊下・階段があること、夕食が旅館料理というより定食に近いこと、朝食バイキングにパンがなかったことが指摘されている。バリアフリー評価（2.30）・客室評価（2.89）・風呂評価（2.88）がいずれも低く、否定的な指摘が複数確認できた。",
+        "disqualifying_issues_found": true
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "フォートラベル ホテル海楽 クチコミ・評価（みんなの満足度3.25、クチコミ12件）",
+          "url": "https://4travel.jp/dm_hotel-10057604"
+        },
+        {
+          "type": "other",
+          "title": "WebSearch統合要約（ホテル海楽に関する口コミ内容・立地・設備情報）",
+          "url": "https://www.cocolocala.jp/hotels/379148"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "主要レビューサイトの評価が3.25/5（12件）で原則7の4.0未満基準に抵触し、バリアフリー・客室・風呂の評価も低い。総合スコア41点で不採用。"
+    },
+    {
+      "id": "2026-11-06-snapper-miyakejima",
+      "name": "島の宿 三宅島スナッパー",
+      "region": "東京都三宅村・三宅島",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "cocolocala（個別宿泊者投稿。集計評価点・件数の表示は本サイクルのWebSearch範囲では確認できず、個別投稿のみ確認）",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 2,
+          "checked_date": "2026-11-06",
+          "url": "https://www.cocolocala.jp/hotels/332280"
+        },
+        {
+          "source": "asoview（ダイビングショップとしての口コミ。件数は1件のみで集計評価の信頼性が低い）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 1,
+          "checked_date": "2026-11-06",
+          "url": "https://www.asoview.com/location/139854/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらん掲載の料金は本サイクルでは直接確認できなかった（じゃらん公式ページは本セッションのネットワーク制約でWebFetch不可）。",
+        "as_of_search_date": "2026-11-06",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全7室の小規模な宿でダイビングショップを併設し、体験ダイビング・ドルフィンスイム・早朝到着者向けの仮眠対応・港からの送迎などを行う。cocolocalaの個別口コミでは送迎対応や食事量の多さが好評だが、集計評価点・件数を独立2情報源で確認できなかった。",
+      "target_audience": [
+        "一人旅",
+        "友人"
+      ],
+      "score_breakdown": {
+        "review_rating": 18,
+        "review_reliability": 5,
+        "unique_experience_score": 13,
+        "photogenic": 7,
+        "value_for_price": 5,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 52,
+      "recommendation_reason": "ダイビング併設の小規模宿としての独自性・個別口コミの好評は確認できたが、じゃらん等主要OTAの集計評価点・件数を独立2情報源で確認できず、原則7の要件を満たせない。総合スコア52点で採用ライン（75点）に届かず不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "明確な否定的指摘は本サイクルの検索範囲では見当たらなかったが、これは口コミ自体が少なく判断材料が限られているためであり、『評価が良い』ことの確証ではない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "じゃらんnet 島の宿 三宅島スナッパー（全7室・ダイビングショップ併設・港までの送迎）",
+          "url": "https://www.jalan.net/yad363580"
+        },
+        {
+          "type": "review_site",
+          "title": "cocolocala 島の宿 三宅島スナッパー 宿泊者投稿（2025年9-10月、5.0・4.0の個別評価）",
+          "url": "https://www.cocolocala.jp/hotels/332280"
+        },
+        {
+          "type": "review_site",
+          "title": "asoview 三宅島スナッパー（ダイビングアクティビティ、口コミ1件）",
+          "url": "https://www.asoview.com/location/139854/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立2情報源での件数付き集計評価を確認できず原則7の要件を満たせない。総合スコア52点で採用ラインに届かず不採用。"
+    },
+    {
+      "id": "2026-11-06-shimai-miyakejima",
+      "name": "民宿 姉妹",
+      "region": "東京都三宅村坪田・三宅島",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "楽天トラベル（スポット周辺ホテル一覧の『お客さまの声』評価。個別の口コミ本文・件数は本サイクルのWebSearch範囲では確認できなかった）",
+          "score": 4.0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-11-06",
+          "url": "https://travel.rakuten.co.jp/yado/spot/tokyo/S13018091.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "じゃらん・楽天トラベルの具体的な料金プランは本サイクルでは直接確認できなかった。",
+        "as_of_search_date": "2026-11-06",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "三宅島空港から車で約2分という好立地の民宿。具体的な独自体験・設備・食事内容は本サイクルの検索範囲では確認できなかった。",
+      "target_audience": [
+        "一人旅"
+      ],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 3,
+        "unique_experience_score": 6,
+        "photogenic": 4,
+        "value_for_price": 4,
+        "sns_buzz": 1,
+        "access_and_freshness": 1
+      },
+      "score": 31,
+      "recommendation_reason": "楽天トラベルの評価は4.0だが件数が確認できず、独立した第二の情報源での数値評価も確認できなかった。独自体験・設備面の具体的な裏付けも乏しく、原則7の要件を満たせない。総合スコア31点で不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミ本文自体が本サイクルの検索範囲では見つからず、低評価レビューの有無を検証できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "楽天トラベル 三宅島周辺の宿一覧（民宿 姉妹＜三宅島＞、お客さまの声4.0）",
+          "url": "https://travel.rakuten.co.jp/yado/spot/tokyo/S13018091.html"
+        },
+        {
+          "type": "booking_site",
+          "title": "じゃらんnet 民宿 姉妹（三宅島空港より車で約2分、チェックイン15:00）",
+          "url": "https://www.jalan.net/yad342712/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "評価件数・第二の独立情報源での数値評価が確認できず原則7を満たせない。総合スコア31点で不採用。"
+    },
+    {
+      "id": "2026-11-06-minato-miyakejima",
+      "name": "民宿みなと",
+      "region": "東京都三宅村・三宅島",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "cocolocala（施設掲載ページに評価点・口コミ本文の表示は本サイクルのWebSearch範囲では確認できなかった）",
+          "score": 0,
+          "scale": 5,
+          "review_count": 0,
+          "checked_date": "2026-11-06",
+          "url": "https://www.cocolocala.jp/hotels/217839"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "料金情報は本サイクルでは確認できなかった。",
+        "as_of_search_date": "2026-11-06",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "宿泊者以外も敷地内の食事処を利用できる、レンタカー割引があるといった言及が検索結果の断片にあったが、一次資料での裏付けは取れなかった。",
+      "target_audience": [
+        "一人旅"
+      ],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 4,
+        "photogenic": 2,
+        "value_for_price": 0,
+        "sns_buzz": 1,
+        "access_and_freshness": 1
+      },
+      "score": 8,
+      "recommendation_reason": "主要口コミ・予約サイトに評価点・口コミ件数が確認できず、原則7の独立2情報源検証を満たせない。独自体験も一次資料で裏付けが取れなかった。総合スコア8点で不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "評価データ自体がほぼ存在せず、低評価レビューの有無を検証できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "booking_site",
+          "title": "cocolocala 民宿みなと（施設掲載ページ。チェックイン時の身分証提示・デポジットに関する注意書きあり）",
+          "url": "https://www.cocolocala.jp/hotels/217839"
+        },
+        {
+          "type": "other",
+          "title": "WebSearch統合要約（民宿みなとに関する断片的な口コミ言及）",
+          "url": "https://www.asoview.com/asorepo/601463/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "評価データ・独自体験の一次資料裏付けがほとんど確認できず、原則7を満たせない。総合スコア8点で不採用。"
+    },
+    {
+      "id": "2026-11-06-hanamiduki-miyakejima",
+      "name": "ペンション＆ベーカリー花海月",
+      "region": "東京都三宅村神着・三宅島",
+      "category": "離島リゾート",
+      "is_hidden_gem": true,
+      "review_scores": [
+        {
+          "source": "jcation（宿泊施設口コミ集計）",
+          "score": 4.5,
+          "scale": 5,
+          "review_count": 24,
+          "checked_date": "2026-11-06",
+          "url": "https://jcation.com/hotel/detail-15833/"
+        },
+        {
+          "source": "トラベルコ（tour.ne.jp）",
+          "score": 4.6,
+          "scale": 5,
+          "review_count": 6,
+          "checked_date": "2026-11-06",
+          "url": "https://www.tour.ne.jp/j_hotel/60940/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2名16,000円〜（夕朝食付きプラン想定、トラベルコ掲載の最安値表示）。",
+        "as_of_search_date": "2026-11-06",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "1階をベーカリー＆カフェ、2階を宿泊部屋とする全6室の小規模ペンションで、三宅島産の魚や野菜を使った料理人オーナー自慢の料理と、北海道産小麦を使った無添加の自家製パンが特徴。貝殻や砂を使ったキャンドル制作体験、イルカスイム等の島内アクティビティ案内も行う。2020年開業で夫婦2人で営んでいる点が複数の掲載情報・口コミで確認できた。",
+      "renewal_or_news": "2020年開業（じゃらん・楽天トラベル系の掲載情報で確認）。これより新しいリニューアル・新プラン等のニュースは本サイクルでは確認できなかった。",
+      "target_audience": [
+        "カップル",
+        "記念日",
+        "夫婦",
+        "一人旅"
+      ],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 7,
+        "unique_experience_score": 15,
+        "photogenic": 10,
+        "value_for_price": 7,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 67,
+      "recommendation_reason": "独立2情報源（jcation 4.5/24件、トラベルコ 4.6/6件）でいずれも4.0以上の評価を確認でき、原則7の要件は満たす。地産地消レストラン・自家製ベーカリー・キャンドル体験という独自性もHidden Gemとして評価できる。ただし口コミ総数が約30件と少なく、SNS話題性・写真で伝わる魅力の確証も限定的で、総合スコア67点にとどまり採用ライン（75点）に届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "本サイクルの検索範囲では明確な否定的口コミは見当たらず、好意的な評価（食事・パン・夫婦の対応・星空観察等）が中心だった。ただし口コミ総数が少ないため、ネガティブ要素が十分に検証されたとは言えない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "jcation ペンション＆ベーカリー花海月（口コミ24件、平均4.5、清潔度4.5、スタッフ・サービス4.5）",
+          "url": "https://jcation.com/hotel/detail-15833/"
+        },
+        {
+          "type": "booking_site",
+          "title": "トラベルコ ペンション＆ベーカリー花海月＜三宅島＞（口コミ評価4.6、6件、16,000円〜）",
+          "url": "https://www.tour.ne.jp/j_hotel/60940/"
+        },
+        {
+          "type": "official",
+          "title": "pension & bakery 花海月-hanamiduki- 公式サイト",
+          "url": "https://hanamidukimyk.com/"
+        },
+        {
+          "type": "official",
+          "title": "三宅島観光協会 ペンション花海月（はなみづき）紹介ページ",
+          "url": "https://www.miyakejima.gr.jp/stay/pension_hanamiduki/"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立2情報源での評価検証（原則7）は満たすが、口コミ総数の少なさ・SNS話題性・写真的魅力の確証不足を含めた100点満点の編集評価で総合スコア67点にとどまり、採用ライン75点に届かなかったため不採用。"
+    }
+  ]
+}

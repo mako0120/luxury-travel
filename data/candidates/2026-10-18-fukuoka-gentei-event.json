@@ -1,0 +1,101 @@
+{
+  "cycle_date": "2026-10-18",
+  "theme": "福岡県福岡市のホテル期間限定アフタヌーンティー・ディナー等のイベント企画",
+  "season_rationale": "10月中旬〜11月末は秋限定のアフタヌーンティーからクリスマス企画へ切り替わる時期で、『期間限定』『今だけ』の訴求力が高い季節（原則30）。カテゴリ『その他』（期間限定グルメ企画）は直近サイクル（2026-10-17・愛知県名古屋市）でも使用しているが、今回は依頼により同カテゴリを福岡県福岡市で再調査する。地域（福岡県福岡市）はdata/candidates・captions・postsのいずれにも過去の登場実績がなく、重複なし（原則29）。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-strings-hotel-nagoya-holiday-buffet", "region": "愛知県名古屋市中村区（名古屋駅エリア）", "category": "その他" },
+    { "post_id": "2026-10-17-ureshino-taishoya", "region": "佐賀県嬉野市嬉野町（嬉野温泉）", "category": "グルメ旅館" },
+    { "post_id": "2026-10-16-kai-sengokuhara", "region": "神奈川県足柄下郡箱根町仙石原", "category": "絶景ホテル" }
+  ],
+  "duplication_note": "地域（福岡県福岡市）はdata/candidates・captions・postsのいずれにも過去の登場実績がなく重複なし。カテゴリ『その他』は前回サイクル（名古屋）と連続するが、今回は依頼内容（福岡市・その他カテゴリでの期間限定イベント調査）に基づく指定のため実施した。",
+  "research_notes": "このセッションのWebSearch回数制限（1ターンあたりの上限）に達したため、調査を切り上げた。候補として名前が挙がったが2026年の開催情報・料金・口コミ数値を十分に確認できず、スコアリングの対象外とした施設: (1) ザ・リッツ・カールトン福岡「クリスマスアフタヌーンティー」18Fカフェ Diva（2025年11月15日〜12月25日・8,800円の実施は確認できたが、2026年版の開催告知は未確認）、(2) ガーデンテラス福岡ホテル&リゾートの『ガーデンリニューアル完成!光きらめくイルミネーションフェア』（結婚式フェア向けの告知のみ確認でき、一般の宿泊者・利用者向けの開催期間・料金・口コミ数値は確認できなかった）。いずれも数値的根拠を捏造せずに採点できないため、候補リストには含めず次回以降の調査対象として記録する。",
+  "candidates": [
+    {
+      "id": "2026-10-18-fukuoka-momochihama-autumn-afternoontea",
+      "name": "福岡プリンスホテル ももち浜「秋のアフタヌーンティーセット〜甘美と芳醇な香り〜」（4F YOCATERRACE）",
+      "region": "福岡県福岡市早良区百道浜",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル（まっぷるトラベルガイド掲載データ経由）", "score": 4.56, "scale": 5, "review_count": 102, "checked_date": "2026-10-18", "url": "https://www.mapple.net/pref/40137/hotel/" },
+        { "source": "フォートラベル", "score": 3.09, "scale": 5, "review_count": 1, "checked_date": "2026-10-18", "url": "https://4travel.jp/dm_hotel-11997115" }
+      ],
+      "price_range_jpy": {
+        "note": "本アフタヌーンティーセット自体の正確な料金は、このセッションのWebSearchでは確認できなかった。参考として、同ホテルのレストラン予約ページ（TableCheck）には¥4,000・¥7,000という2つの価格表示があったが、どちらがアフタヌーンティーの価格に対応するかは確定できなかった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2026年3月17日開業、地上20階建て・全229室オーシャンビューの新ホテル『福岡プリンスホテル ももち浜』4階レストラン『YOCATERRACE』にて、開業以来初となるアフタヌーンティー『秋のアフタヌーンティーセット〜甘美と芳醇な香り〜』を2026年9月1日(火)〜11月30日(月)の期間限定で提供。福岡県八女市『中村園』の和紅茶・ハーブティーに加え、熊本県産栗を使ったモンブランやマロンクリームパイなど、秋の味覚と九州の食材を贅沢に取り入れたスイーツ・セイボリーが並ぶ。百道浜の海（玄界灘）と福岡タワーを同時に望めるロケーションが特徴。",
+      "renewal_or_news": "2026年3月17日開業の新規ホテルによる、開業後初のアフタヌーンティー企画（2026年9月18日プレスリリース発表）。",
+      "target_audience": ["カップル", "記念日", "女子旅", "ホテル好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 10,
+        "unique_experience_score": 15,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 75,
+      "recommendation_reason": "楽天トラベル経由（まっぷる掲載）4.56点（102件）、フォートラベル3.09点（1件・件数僅少のため参考程度）という2つの情報源を確認した（原則7）。Yahoo!トラベルの項目別満足度（客室4.56・施設4.54・接客4.21・お食事3.89・お風呂4.38・総合4.38）も良好な傾向を裏付けている。2026年3月開業の新しいホテルが開業後はじめて手がけるアフタヌーンティーであり、全229室オーシャンビューという立地を活かして博多湾（玄界灘）と福岡タワーを同時に望めるロケーション、福岡県八女市産の和紅茶や熊本県産栗を使った九州食材のスイーツという独自性がある。一方で正確な料金が確認できず、最寄り駅からのアクセス（徒歩約20分・バス利用が前提）にも留意が必要で、総合スコアは採用ライン（75点）ちょうどに留まる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの口コミは1件（満足度3.09）のみで参考程度にとどまる。Yahoo!トラベルの項目別評価では『お食事』（3.89）が『客室』（4.56）『施設』（4.54）など他項目よりやや低めだった。また複数の記事・口コミで、最寄り地下鉄駅（西新駅または藤崎駅）から徒歩約20分、バス利用が前提というアクセスの不便さが指摘されている。いずれも清潔感・接客に関する重大な欠陥とは言えず、除外基準（原則10）には該当しない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "福岡プリンスホテル ももち浜「秋のアフタヌーンティーセット〜甘美と芳醇な香り〜」提供開始 - princehotels.co.jp", "url": "https://www.princehotels.co.jp/press/260918_01/" },
+        { "type": "official", "title": "Autumn Event - 福岡プリンスホテル ももち浜 公式サイト", "url": "https://www.princehotels.co.jp/momochihama/informations/autumn_event" },
+        { "type": "review_site", "title": "福岡プリンスホテル ももち浜 - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00003370/" },
+        { "type": "review_site", "title": "福岡プリンスホテル ももち浜 - フォートラベル", "url": "https://4travel.jp/dm_hotel-11997115" },
+        { "type": "other", "title": "福岡市早良区のホテル一覧（楽天トラベル評価掲載） - まっぷるトラベルガイド", "url": "https://www.mapple.net/pref/40137/hotel/" },
+        { "type": "other", "title": "「福岡プリンスホテル ももち浜」2026年3月17日開業 - 旅行マガジン tabi-mag.jp", "url": "https://tabi-mag.jp/princehotel-fukuoka/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-18-fukuoka-hilton-seahawk-after8",
+      "name": "ヒルトン福岡シーホーク 夜のアフタヌーンティー「After 8」（35F バー&ダイニング CLOUDS）",
+      "region": "福岡県福岡市中央区地行浜",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "G-Point Travel（楽天トラベル系ランキングページ・『海が見える部屋』口コミ）", "score": 4.06, "scale": 5, "review_count": 7, "checked_date": "2026-10-18", "url": "https://travel.gpoint.co.jp/daredoko/40b00c-a014-e000/ranking/p1/" },
+        { "source": "G-Point Travel（エグゼクティブルーム口コミ）", "score": 4.70, "scale": 5, "review_count": 2, "checked_date": "2026-10-18", "url": "https://travel.gpoint.co.jp/daredoko/40b00c-a014/" }
+      ],
+      "price_range_jpy": {
+        "note": "1人3,500円（税・サービス料の内外は検索では明記されていない）。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "ヒルトン福岡シーホーク35階バー&ダイニング『CLOUDS』にて、地上123mから博多湾・福岡市街の夜景を一望しながら楽しむ夜のアフタヌーンティー『After 8』を2026年8月1日(土)より提供。提供時間は午後8時から、料金は1人3,500円。通常は昼間に提供されることが多いアフタヌーンティーを、夜景とともに楽しめる点が特徴。",
+      "target_audience": ["カップル", "記念日", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 4,
+        "unique_experience_score": 15,
+        "photogenic": 12,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 55,
+      "recommendation_reason": "地上123mからの夜景を活かした『夜のアフタヌーンティー』という企画自体は独自性が高い。しかし確認できたレビューはG-Point Travelのランキングページで評価4.06(7人)・4.70(2人)と母数が極端に小さく、フォートラベルで確認できた評価3.0は2015年の古い投稿で現状を反映していない。独立2情報源で件数を伴う4.0以上の評価を確保できず、原則6・7の基準を満たせない。また提供終了日が確認できず、『期間限定』として訴求できる根拠も弱い。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの古い口コミ(2015年、評価3.0)では、チェックイン時の行列やフロント対応への不満が記載されていた。現在の運営状況を反映しているとは言い難いが、これを上書きする新しい数値的な口コミを確認できなかった点が裏取り不足の一因。重大な欠陥が複数確認されたわけではない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "地上123mから煌めく街並みとともに堪能する夜のアフタヌーンティー「After 8」ヒルトン福岡シーホークにて2026年8月1日(土)より提供開始 - news.livedoor.com", "url": "https://news.livedoor.com/pr_article/detail/31782328/" },
+        { "type": "press", "title": "地上123mから煌めく街並みとともに堪能する夜のアフタヌーンティー「After 8」 - PR TIMES", "url": "https://prtimes.jp/main/html/rd/p/000000117.000064269.html" },
+        { "type": "review_site", "title": "ヒルトン福岡シーホーク 宿泊口コミ - rlx.jp", "url": "https://rlx.jp/21783/review/" },
+        { "type": "other", "title": "ヒルトン福岡シーホーク ランキング・口コミ - G-Point Travel", "url": "https://travel.gpoint.co.jp/daredoko/40b00c-a014-e000/ranking/p1/" },
+        { "type": "other", "title": "ヒルトン福岡シーホーク ランキング・口コミ（エグゼクティブルーム） - G-Point Travel", "url": "https://travel.gpoint.co.jp/daredoko/40b00c-a014/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "レビュー実績が小規模・不整合（G-Point Travelのランキングでは評価4.06(7人)・4.70(2人)と母数が極端に小さく、フォートラベルの評価3.0は2015年の古い投稿で現状を反映していない）ため、原則6・7が求める『独立2情報源で件数を伴う4.0以上の信頼性』を満たせなかった。また提供終了日が確認できず『期間限定』として訴求できる根拠も弱く、総合スコア55点で採用ライン(75点)に届かないため見送った。"
+    }
+  ]
+}

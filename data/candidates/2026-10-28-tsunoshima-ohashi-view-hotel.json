@@ -1,0 +1,209 @@
+{
+  "cycle_date": "2026-10-28",
+  "theme": "山口県下関市角島大橋周辺エリアの絶景ホテル",
+  "season_rationale": "角島大橋は年間を通してコバルトブルーの海が魅力の定番絶景スポットだが、11月は台風シーズンを過ぎて日本海側でも比較的晴天率が高く、夕日が澄んで見えやすい時期にあたる。角島大橋のたもとに位置する宿の多くが『露天風呂やテラスから見る日本海の夕日』を訴求軸にしているため、夕暮れが早まり宿で夕景を楽しむ時間が長くなる晩秋は訴求しやすい。既存データでは山口県の『絶景ホテル』カテゴリは未出で、山口県自体も湯田温泉（グルメ旅館）・萩城下町（文化体験）・秋吉台（グランピング）のみで、下関市・角島エリア・絶景ホテルカテゴリはいずれも本サイクルが初めての組み合わせ。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-10-21-yuda-onsen-gourmet-ryokan", "region": "山口県山口市湯田温泉", "category": "グルメ旅館" },
+    { "candidate_id": "2026-10-26-hagi-jokamachi-bunka-taiken", "region": "山口県萩市堀内（萩城下町）", "category": "文化体験" },
+    { "candidate_id": "2026-10-26-redondo-akiyoshidai-glamping", "region": "山口県美祢市秋芳町（秋吉台・秋芳洞エリア）", "category": "グランピング" },
+    { "candidate_id": "2026-10-27-niseko-yotei-view-hotel", "region": "北海道虻田郡倶知安町・ニセコ町エリア", "category": "絶景ホテル" },
+    { "candidate_id": "2026-10-26-kawaguchiko-view-hotel", "region": "山梨県南都留郡富士河口湖町（河口湖畔）", "category": "絶景ホテル" }
+  ],
+  "duplication_note": "`data/candidates/` と `captions/` 全件（2026-09-14〜2026-10-27分）をregion/category基準で確認した結果、山口県・下関市・角島に該当する既存候補は『山口県山口市湯田温泉』（グルメ旅館）・『山口県萩市堀内』（文化体験）・『山口県美祢市秋芳町』（グランピング）の3件のみで、いずれも下関市角島エリアとは異なる場所・異なるカテゴリ。『絶景ホテル』カテゴリ自体はニセコ・河口湖・阿寒湖・洞爺湖・富良野美瑛・中禅寺湖などで既出だが、地域が完全に異なるため重複に該当しない。下関市角島大橋周辺エリア×絶景ホテルの組み合わせは初出。",
+  "research_note": "角島大橋周辺（下関市豊北町神田エリア）の『絶景ホテル』候補としてWebSearchで3件を調査した：(1)『ホテル西長門リゾート』（角島大橋のたもと、全室オーシャンビューのリゾートホテル）、(2)『Villa Mikuri Tsunoshima』（角島大橋を望むとされる一棟貸しヴィラ、有限会社にこにこサービス運営）、(3)『HOTEL tayutau』（角島大橋のすぐ横、一日一組限定の一棟貸し宿）。このセッションのネットワーク環境では、jalan.net・ikyu.com・icotto.jp・en.tabiiro.travel・webtan.impress.co.jp等の主要予約サイト・プレスリリース転載サイトへの直接WebFetchがいずれもEGRESS_BLOCKED（DNS解決不可）となったため、数値評価・事実情報はWebSearchのスニペット経由で取得できた範囲に限定されている。また本サイクルの調査中にセッション全体のWebSearch利用回数の上限に達したため、creator_story（開業経緯・設計思想）の追加調査を含む一部の深掘り検索を完了できなかった。ホテル西長門リゾートはるるぶトラベル（4.2／50件）・Trip.com（8.7/10＝5点換算4.35相当／56件）という2つの独立した数値情報源で推奨ライン（4.0以上）を満たし、全室オーシャンビュー・2つの露天風呂からの日本海の夕景という『絶景ホテル』として説得力のある独自体験が確認できたため選定した。Villa Mikuri Tsunoshimaは一棟貸しのプライベート感・暖炉付きの客室など独自性はあるが、『角島大橋が見える』という訴求に対し、口コミで実際には客室から橋が見えないとの指摘があり景観面の訴求に矛盾があること、また数値評価がExpedia（9.4/10）とTravelocity（3.5/5＝10点換算7.0相当）で大きく割れており、国内の主要予約サイトでの独立した数値評価（件数つき）を確認できなかったため、総合スコアが採用ライン（75点）に届かず不採用とした。HOTEL tayutauは『角島大橋のすぐ横で一日一組』という独自性の高いコンセプトだが、Web検索の範囲では口コミの数値評価・件数を一件も確認できず、原則7（独立した複数の数値評価の確認）を満たせないため、口コミ評価の配点を保守的に0とし、総合スコアが採用ラインに届かず不採用とした。",
+  "candidates": [
+    {
+      "id": "2026-10-28-nishinagato-resort-tsunoshima",
+      "name": "ホテル西長門リゾート（下関つくの温泉）",
+      "region": "山口県下関市豊北町神田2045（角島大橋のたもと。角島大橋まで車で約1〜3分、新下関駅から予約制無料送迎バスあり）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "るるぶトラベル",
+          "score": 4.2,
+          "scale": 5,
+          "review_count": 50,
+          "checked_date": "2026-10-28",
+          "url": "https://www.rurubu.travel/attractions/japan/shimonoseki/hotels-near-tsunoshima-ohashi"
+        },
+        {
+          "source": "Trip.com（山口県4つ星ホテル一覧ページ集計表示）",
+          "score": 8.7,
+          "scale": 10,
+          "review_count": 56,
+          "checked_date": "2026-10-28",
+          "url": "https://jp.trip.com/fourstars/province/jp-yamaguchi-prefecture.html"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "一休.com（英語版）掲載では2名1室あたり部屋のみ料金が約13,440円〜18,200円（税込、朝食有無等のプラン・時期により変動）とされている。全77室。Web検索の範囲では日本語公式サイト上の現行料金表には直接アクセスできなかったため、確定額ではない。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "北長門海岸国定公園内、角島大橋のたもと（車で約1〜3分）に位置する全77室・全室オーシャンビューのリゾートホテル。男女入替制の2つの天然温泉露天風呂『夕なぎの湯』『あまがせの湯』から日本海に沈む夕日を望めるほか、客室や屋外プールからも角島大橋や日本海の眺望が楽しめる。新下関駅からの予約制無料送迎バスがあり、車がない旅行者でも角島大橋観光の拠点にしやすい。",
+      "target_audience": ["カップル", "記念日", "夫婦", "絶景好き", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 11,
+        "unique_experience_score": 15,
+        "photogenic": 13,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 77,
+      "recommendation_reason": "るるぶトラベル（50件・4.2／5点）とTrip.com（56件・8.7／10点＝5点換算4.35相当）という2つの独立した数値情報源が、いずれも十分な件数を伴いながら推奨ライン（5点換算4.0以上）を満たしている。全室オーシャンビュー、男女入替制の2つの露天風呂から望む日本海の夕日・角島大橋という組み合わせは『絶景ホテル』として説得力があり、新下関駅からの無料送迎バスがあることで車なしの旅行者にも案内しやすい。具体的な現行料金を公式サイトで直接確認できなかったため価格対体験価値の配点は保守的にとどめ、SNS話題性も全国区の知名度ではないと判断して保守的に配点した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "口コミでは、部屋が別館で本館から導線が遠く階段が多い、高齢の同行者には大変だったという指摘や、朝食の一部メニュー（マンゴー）が冷凍のまま提供され冷たかったという不満、建物自体にやや古さを感じるという声が確認できた。いずれも安全性・衛生面に関わる重大な欠陥ではなく、除外基準（原則10）に該当する問題は確認されなかった。るるぶトラベルの項目別評価ではサービス3.7・食事3.7が立地4.6より相対的に低めだった点も留意点として記録する。",
+        "disqualifying_issues_found": false
+      },
+      "creator_story": {
+        "text": "公式サイトおよびプレスリリース等の一次情報から、設計者・運営者・創業者が角島大橋周辺にこのホテルを構えた思い（コンセプトの背景、開業経緯、改修方針など）を裏付ける記述は、本セッションのWeb検索の範囲では確認できなかった。確認を試みたgltjp（英語版施設紹介ディレクトリ）・一休.com（英語版施設ページ）には客観的な施設説明（全室オーシャンビュー、露天風呂、77室等）はあったが、開業の経緯や設計思想についての言及はなかった。また、このセッションでは主要予約サイト・ホテル公式サイトへの直接WebFetchがネットワーク制限（EGRESS_BLOCKED）によりできず、さらに調査中にセッション全体のWebSearch利用回数の上限に達したため、運営会社・創業者の発言を探す追加検索を完了できなかった。推測や発言の創作は行わず、『確認できなかった』こととして記録する。",
+        "sources": [
+          {
+            "type": "other",
+            "title": "Hotel Nishinagato Resort - 施設紹介ディレクトリ（gltjp、英語版。開業経緯の記載はなし）",
+            "url": "https://www.gltjp.com/en/directory/item/16110/"
+          },
+          {
+            "type": "booking_site",
+            "title": "Hotel Nishinagato Resort - 一休.com 施設ページ（英語版。施設説明のみ、開業経緯の記載はなし）",
+            "url": "https://www.ikyu.com/en-us/00030936/"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "type": "review_site",
+          "title": "角島大橋周辺のホテル一覧（るるぶトラベル／ホテル西長門リゾート 総合4.2・クチコミ50件・立地4.6）",
+          "url": "https://www.rurubu.travel/attractions/japan/shimonoseki/hotels-near-tsunoshima-ohashi"
+        },
+        {
+          "type": "other",
+          "title": "山口県4つ星ホテル一覧（Trip.com／ホテル西長門リゾート 56件・8.7/10表示）",
+          "url": "https://jp.trip.com/fourstars/province/jp-yamaguchi-prefecture.html"
+        },
+        {
+          "type": "review_site",
+          "title": "ホテル西長門リゾート 口コミ（フォートラベル／レストランからの角島大橋の眺め等）",
+          "url": "https://4travel.jp/dm_hotel-10051520"
+        },
+        {
+          "type": "other",
+          "title": "Hotel Nishinagato Resort - 施設紹介（gltjp、英語版／全室オーシャンビュー・露天風呂からの夕日）",
+          "url": "https://www.gltjp.com/en/directory/item/16110/"
+        },
+        {
+          "type": "booking_site",
+          "title": "Hotel Nishinagato Resort - 一休.com 施設ページ（英語版／全77室・料金約13,440〜18,200円）",
+          "url": "https://www.ikyu.com/en-us/00030936/"
+        },
+        {
+          "type": "review_site",
+          "title": "下関つくの温泉 ホテル西長門リゾート 施設情報・露天風呂詳細（icotto）",
+          "url": "https://icotto.jp/hotels/941"
+        }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-28-villa-mikuri-tsunoshima",
+      "name": "Villa Mikuri Tsunoshima（ヴィラミクリ角島）",
+      "region": "山口県下関市豊北町神田（角島大橋まで徒歩約5分。運営：有限会社にこにこサービス）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": true,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "一棟貸し（複数棟・全15室）で、夏季料金は1棟1泊あたり約27,000〜45,000円（時期により変動）との掲載があった。ペット同伴は1頭あたり3,300円/泊の追加料金。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "角島大橋のたもと、徒歩約5分の立地にある一棟貸しヴィラ（全15室、暖炉・キッチン付き）。ペット同伴可（追加料金あり）で、プライベートな空間で過ごせる点が特徴。有限会社にこにこサービスが運営し、2026年夏の予約受付開始がPR TIMES経由で発表されている。",
+      "renewal_or_news": "2026年夏季の予約受付開始がPR TIMES経由の記事（webtan.impress.co.jpへの転載）で確認できた。",
+      "target_audience": ["家族", "友人", "一人旅", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 10,
+        "review_reliability": 3,
+        "unique_experience_score": 18,
+        "photogenic": 11,
+        "value_for_price": 8,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 60,
+      "recommendation_reason": "一棟貸し・全15室・暖炉付きでペット同伴も可能という独自性は高く、Expedia（9.4/10、『Exceptional』表示）では高評価が見られる。一方でTravelocity（3.5/5＝10点換算7.0相当）とは評価の差が大きく、かつ両サイトとも口コミ件数がWeb検索の範囲では確認できなかったため、原則7が求める『件数を伴う独立した数値評価』としての裏付けが弱いと判断し、review_scoresには数値のない評価を登録せず参考情報としてのみ扱った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "一部の口コミで、客室からは実際には角島大橋が見えないという、立地上の訴求（『角島大橋を望む』）と矛盾する指摘があった。また電波が入りにくい、テレビがないという設備面の不満、BBQテラスが風が強く寒い時期は使いづらいという季節限定の指摘も確認できた。安全・衛生面の重大な欠陥は確認されなかったが、景観訴求と実際の口コミに矛盾がある点はこのカテゴリ（絶景ホテル）としての訴求の信頼性に直結するため重視した。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "press",
+          "title": "Villa Mikuri Tsunoshima 夏季予約受付開始（PR TIMES配信記事、webtan.impress.co.jp転載）",
+          "url": "https://webtan.impress.co.jp/r/prtimes/items/000000001.000160956"
+        },
+        {
+          "type": "booking_site",
+          "title": "VILLA MIKURI TSUNOSHIMA - Expedia（レビュー9.4/10・Exceptional）",
+          "url": "https://www.expedia.com/Shimonoseki-Hotels-VILLA-MIKURI-TSUNOSHIMA.h96850273.Hotel-Reviews"
+        },
+        {
+          "type": "booking_site",
+          "title": "Shimonoseki Hoteles Vrbo Property - Travelocity（レビュー3.5/5）",
+          "url": "https://www.travelocity.com/es/Shimonoseki-Hoteles-Vrbo-Property.h114823430.Informacion-Hotel"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "Expedia（9.4/10）とTravelocity（3.5/5）で評価が大きく割れ、かつ件数を伴う国内主要予約サイトでの独立した数値評価を確認できなかったため原則7の裏取りが不十分。また『角島大橋を望む』という訴求に対し、客室から橋が見えないという口コミ指摘があり、絶景ホテルとしての訴求自体に矛盾があるため、総合スコア60点（採用ライン75点未満）で不採用とした。"
+    },
+    {
+      "id": "2026-10-28-hotel-tayutau-tsunoshima",
+      "name": "HOTEL tayutau（ホテルたゆたう）",
+      "region": "山口県下関市豊北町神田3567-13（角島大橋のすぐ横）",
+      "category": "絶景ホテル",
+      "is_hidden_gem": true,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では料金を確認できなかった。一日一組限定の一棟貸し形式。",
+        "as_of_search_date": "2026-10-28",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "角島大橋のすぐ横、角島を望む立地にある一日一組限定の一棟貸し宿。海側に全開できるシャッター付きの『ガレージリビング』があり、テラスでは海を眺めながらお茶やバーベキューが楽しめる（雨天時もシャッターを開けたまま楽しめるとされる）。角島展望台まで徒歩約10分。",
+      "target_audience": ["カップル", "記念日", "家族", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 3,
+        "sns_buzz": 4,
+        "access_and_freshness": 5
+      },
+      "score": 43,
+      "recommendation_reason": "角島大橋のすぐ横で一日一組限定、全開式シャッターの『ガレージリビング』から海を一望できるという体験は独自性・写真映えともに非常に高い。ただしWeb検索の範囲では主要予約サイト・レビューサイトいずれにも口コミの数値評価・件数を一件も確認できず、原則7（独立した複数の数値評価の確認）を満たせない。推測で数値を補うことはせず口コミ評価の配点を保守的に0としたため、総合スコアは採用ライン（75点）に届かなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Web検索の範囲では、口コミ自体（ポジティブ・ネガティブいずれも）を確認できなかった。ネガティブな指摘が存在しないことを確認したわけではなく、単に口コミ件数が検索結果に現れなかった、という状態である点を明記する。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        {
+          "type": "other",
+          "title": "HOTEL tayutau 施設紹介（tabiiro英語版／一日一組・ガレージリビング・角島展望台まで徒歩10分）",
+          "url": "https://en.tabiiro.travel/hotels/s/103172-shimonoseki-hotel-tayutau/"
+        },
+        {
+          "type": "other",
+          "title": "一棟貸しの宿で過ごす休日（tabiiroランキングページ、山口県枠でHOTEL tayutauが掲載）",
+          "url": "https://en.tabiiro.travel/hotels/theme/ittogashi/ranking/yamaguchi"
+        }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミの数値評価・件数をWeb検索の範囲で一件も確認できず、原則7（独立した複数の数値評価の確認）を満たせないため、口コミ評価の配点を0とした結果、総合スコア43点で採用ライン（75点）に届かず不採用とした。コンセプト自体は独自性が高く、今後口コミが蓄積された時点で再調査する価値がある。"
+    }
+  ],
+  "cycle_result": "選定: ホテル西長門リゾート（77点）。山口県下関市角島大橋周辺エリアの絶景ホテルカテゴリで3件（ホテル西長門リゾート・Villa Mikuri Tsunoshima・HOTEL tayutau）を調査した。ホテル西長門リゾートはるるぶトラベル（4.2／50件）とTrip.com（8.7/10・56件）という2つの独立した数値情報源で採用ライン（4.0以上）を満たし、全室オーシャンビュー・2つの露天風呂から望む日本海の夕日と角島大橋という『絶景ホテル』として説得力のある独自体験があるため選定した。creator_story（開業経緯・設計思想）については、ネットワーク制限とセッションのWebSearch利用上限により一次情報での確認が完了できず、『確認できなかった』こととして記録した。Villa Mikuri Tsunoshima（60点）は一棟貸し・ペット可という独自性はあるが、客室から角島大橋が見えないとする口コミがあり景観訴求に矛盾があること、国内主要予約サイトでの件数を伴う数値評価を確認できなかったことから不採用。HOTEL tayutau（43点）は一日一組・全開式ガレージリビングという独自性の高いコンセプトだが、口コミの数値評価が一件も確認できず原則7を満たせないため不採用とした。"
+}

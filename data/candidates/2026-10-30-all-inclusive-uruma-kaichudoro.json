@@ -1,0 +1,139 @@
+{
+  "cycle_date": "2026-10-30",
+  "theme": "オールインクルーシブ（沖縄県うるま市・海中道路エリア）",
+  "season_rationale": "カテゴリ『オールインクルーシブ』はこれまで沖縄県内では名護市（2026-10-17・該当なし）、恩納村（2026-10-17・AQUASENSE選定）、読谷村（2026-10-18・グランドメルキュール選定）、本部町（2026-10-19）、宮古島（2026-10-20）、伊良部島（2026-10-19）、奄美（2026-10-22／2026-10-29再調査）、伊豆・糸満以外の地域で複数回調査済み。本サイクルはユーザー指定により、海中道路でつながる与勝半島〜平安座島・宮城島・浜比嘉島・伊計島の『うるま市・海中道路エリア』に限定して調査した。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-10-17-all-inclusive-nago", "region": "沖縄県名護市", "category": "オールインクルーシブ（該当なし）" },
+    { "candidate_id": "2026-10-17-aquasense-onna", "region": "沖縄県国頭郡恩納村字冨着", "category": "オールインクルーシブ（選定済・プールスイート限定）" },
+    { "candidate_id": "2026-10-18-grand-mercure-okinawa-zanpa-yomitan", "region": "沖縄県中頭郡読谷村字儀間", "category": "オールインクルーシブ（選定済）" },
+    { "candidate_id": "2026-10-19-all-inclusive-motobu-htb", "region": "沖縄県国頭郡本部町", "category": "オールインクルーシブ" },
+    { "candidate_id": "2026-10-20-all-inclusive-miyako", "region": "沖縄県宮古島市", "category": "オールインクルーシブ（選定済）" },
+    { "candidate_id": "2026-10-22-amami-all-inclusive", "region": "鹿児島県奄美市", "category": "オールインクルーシブ" },
+    { "candidate_id": "2026-10-29-amami-all-inclusive-recheck", "region": "鹿児島県奄美市（再調査）", "category": "オールインクルーシブ" }
+  ],
+  "duplication_note": "うるま市・海中道路エリア（平安座島・宮城島・浜比嘉島・伊計島および与勝半島側の石川地区）を対象とした『オールインクルーシブ』候補は、data/candidates・captionsの既存ファイルに該当するものがなかった（grepでは『うるま』『海中道路』『勝連』『与勝』のいずれも別候補＝2026-10-21-hateruma-ogasawara-resort.jsonの地域比較言及のみで、本エリアの候補としての既出はなし）。既出の沖縄オールインクルーシブ候補（AQUASENSE恩納村・グランドメルキュール読谷村・本部町・宮古島・伊良部島）とは運営会社・施設・地域のいずれも異なる。",
+  "research_note": "WebSearchで『うるま市 海中道路 オールインクルーシブ』『伊計島 オールインクルーシブ』『平安座島 宮城島 リゾートホテル オールインクルーシブ』『うるま市 勝連 ホテル 食事付き飲み放題』など複数の表現で調査したが、海中道路でつながる島々（平安座島・宮城島・浜比嘉島・伊計島）には、公式に『オールインクルーシブ』と明記されたプランを持つ施設を確認できなかった。対象を同じうるま市内（海中道路エリアの起点である与勝半島に近い石川地区）まで広げ、2025年3月開業のANAクラウンプラザリゾート沖縄うるまヒルズも調査したが、こちらもオールインクルーシブプランの明記は確認できず、かつ所在地が海中道路の島々からは離れた石川山城の高台であるため地域条件とも厳密には合致しない。aj-resort.com（AJリゾートアイランド伊計島の推定公式ドメイン）はこのセッションのネットワーク環境でDNS解決ができず直接確認できなかったため、じゃらんnet・一休・travelist等の予約サイト掲載情報を情報源とした。本サイクルのWebSearch呼び出し回数がセッションの上限に達したため、追加の深掘り検索（例：AJ系列ホテルの公式ドメイン名の特定、トリップドットコムの該当ページ直接確認）はできなかった。結論として、本サイクルは該当候補なし（selectedなし）。",
+  "candidates": [
+    {
+      "id": "2026-10-30-aj-resort-ikeijima",
+      "name": "AJリゾートアイランド伊計島",
+      "region": "沖縄県うるま市与那城伊計1286",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.0, "scale": 5, "review_count": 857, "checked_date": "2026-10-30", "url": "https://www.jalan.net/yad354596/" }
+      ],
+      "price_range_jpy": {
+        "note": "予約サイト(travelist)掲載の参考料金は、大人1名1室1泊あたり朝食付きスタンダードルームで15,500円〜、2食付きで20,900円〜。朝食はブッフェ形式で有料提供との記載があり、オールインクルーシブ（飲食・アクティビティ込み）と明記されたプランは確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "海中道路を渡った先の伊計島にある温泉付きリゾート。天然温泉の大浴場・足湯・貸切風呂、屋外プール（夏季限定）、コテージ棟とホテル棟、キッズステーション、動物ふれあいコーナー、プライベートビーチを備える。那覇空港から車で約100分という離島ならではの立地。",
+      "target_audience": ["家族", "温泉好き", "友人"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 12,
+        "unique_experience_score": 10,
+        "photogenic": 11,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 64,
+      "recommendation_reason": "じゃらんnetで4.0（857件）という安定した評価を持ち、天然温泉・プール・コテージ・動物ふれあいコーナーなど離島リゾートとしての独自性はある。楽天トラベル側でも4.17という評価が見られたが口コミ件数を確認できなかったため数値データとしては採用していない。ただし複数のクエリで検索した限り、食事・ドリンク・アクティビティが宿泊料金に包括的に含まれる『オールインクルーシブ』と呼べるプランの存在は確認できず、朝食ブッフェも有料提供とされている。今回のカテゴリ条件『オールインクルーシブ』の適合性が確認できないため不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "低評価に特化した口コミ本文はこのセッションの検索では確認できなかった。一人旅の宿泊者による『室内の備品は普通のビジネスホテル並み』という控えめな感想、朝食ブッフェが有料であること、周辺にコンビニがないこと、屋外プールが夏季限定であることなど、離島ゆえの制約を示す言及はあったが、安全性・清潔感に関わる重大な指摘が複数の独立情報源で一致したわけではない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "伊計島温泉 AJリゾートアイランド伊計島 - じゃらんnet", "url": "https://www.jalan.net/yad354596/" },
+        { "type": "booking_site", "title": "AJ リゾートアイランド 伊計島 - 一休.com", "url": "https://www.ikyu.com/00030410/" },
+        { "type": "other", "title": "AJ リゾートアイランド 伊計島 - travelist", "url": "https://travelist.jp/hotel/detail/5006380/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "地域（うるま市・伊計島＝海中道路エリア）は条件に合致し評価も良好だが、オールインクルーシブという今回のカテゴリ条件を満たすプランの存在を確認できなかったため不採用。"
+    },
+    {
+      "id": "2026-10-30-hotel-hamahigajima-resort",
+      "name": "ホテル浜比嘉島リゾート",
+      "region": "沖縄県うるま市（浜比嘉島）",
+      "category": "その他",
+      "is_hidden_gem": true,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.31, "scale": 5, "review_count": 524, "checked_date": "2026-10-30", "url": "https://travel.rakuten.co.jp/HOTEL/37865/CUSTOM/GW37865131220140658.html" },
+        { "source": "skyticket", "score": 4.4, "scale": 5, "review_count": 358, "checked_date": "2026-10-30", "url": "https://skyticket.jp/hotel/detail/property_10780/" }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベル掲載の参考料金は11,600円〜（1泊2名利用時の1名あたり、税・サービス料込みの目安）。オールインクルーシブ（飲食・アクティビティ込み）と明記されたプランは確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "海中道路・平安座島を経由してアクセスする浜比嘉島の高台に立つ、全29室の小規模リゾート。最上階に展望風呂があり、徒歩約3分で天然ビーチにも行ける。知名度は高くないが楽天トラベル524件・skyticket358件という規模の異なる2つの独立した情報源でいずれも4.3以上の高評価。",
+      "target_audience": ["カップル", "記念日", "夫婦", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 14,
+        "unique_experience_score": 9,
+        "photogenic": 11,
+        "value_for_price": 5,
+        "sns_buzz": 4,
+        "access_and_freshness": 2
+      },
+      "score": 67,
+      "recommendation_reason": "楽天トラベル4.31（524件）・skyticket4.4（358件）という2つの独立した情報源でいずれも4.3以上の高評価を得ている全29室の小規模リゾートで、最上階の展望風呂・徒歩圏の天然ビーチなど写真映えする要素もある。知名度は高くないがHidden Gem候補としての条件（公式情報が確認できる・現在営業している・独自性がある）は満たす。ただし複数のクエリで検索した限り、食事・ドリンク・アクティビティが宿泊料金に包括的に含まれる『オールインクルーシブ』と呼べるプランの存在は確認できなかった。今回のカテゴリ条件『オールインクルーシブ』の適合性が確認できないため不採用。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "低評価の具体的な口コミ本文はこのセッションの検索では確認できなかった。那覇空港から車で約70分・路線バスでは約120分というアクセス面の制約への言及があったが、これは満足度評価そのものを下げる重大な指摘ではない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "ホテル浜比嘉島リゾート - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/37865/CUSTOM/GW37865131220140658.html" },
+        { "type": "review_site", "title": "ホテル浜比嘉島リゾート クチコミ(358件) - skyticket", "url": "https://skyticket.jp/hotel/detail/property_10780/" },
+        { "type": "other", "title": "ホテル浜比嘉島リゾート - icotto", "url": "https://icotto.jp/hotels-6360/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "地域（うるま市・浜比嘉島＝海中道路エリア）は条件に合致し評価も高いが、オールインクルーシブという今回のカテゴリ条件を満たすプランの存在を確認できなかったため不採用。"
+    },
+    {
+      "id": "2026-10-30-ana-crowneplaza-uruma-hills",
+      "name": "ANAクラウンプラザリゾート沖縄うるまヒルズ",
+      "region": "沖縄県うるま市石川山城1468",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "trip.com", "score": 8.7, "scale": 10, "review_count": 161, "checked_date": "2026-10-30", "url": "https://jp.trip.com/hotels/seaview/city/jp/uruma.html" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは、朝食付きプランやプール＋ランチセットプランの記載は確認できたが、オールインクルーシブと明記された料金は確認できなかった。",
+        "as_of_search_date": "2026-10-30",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2025年3月1日開業の全123室の新しいリゾートホテル。沖縄本島中部・うるま市石川地区の丘の上に立ち、東シナ海と太平洋の両方を見渡せる立地が特徴。オールデイダイニング・宴会場・サウナ・屋外プールを備える。ホテルスタッフが海中道路を渡って浜比嘉島・宮城島・伊計島を巡る日帰りドライブを勧める記事もある。",
+      "target_audience": ["カップル", "家族", "ホテル好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 10,
+        "unique_experience_score": 10,
+        "photogenic": 12,
+        "value_for_price": 5,
+        "sns_buzz": 6,
+        "access_and_freshness": 4
+      },
+      "score": 69,
+      "recommendation_reason": "2025年3月開業と新しく、trip.comで8.7/10（161件・とても良い）という高評価、東シナ海と太平洋の両方を望む丘の上の立地という独自性もある。ただし所在地はうるま市石川山城で、海中道路でつながる平安座島・宮城島・浜比嘉島・伊計島とは地理的に離れており、今回ユーザー指定の『海中道路エリア』とは厳密には合致しない（同ホテルのスタッフ自身が海中道路方面を『日帰りドライブ先』として紹介している）。加えて、複数のクエリで検索した限りオールインクルーシブと呼べるプランの存在も確認できなかった。地域条件・カテゴリ条件のいずれも厳密には満たさないため参考候補として記録し、不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "2025年3月開業と新しいため口コミ件数はまだ限定的（trip.comで161件）。低評価の具体的な指摘はこのセッションの検索では確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "press", "title": "ANAクラウンプラザリゾート沖縄うるまヒルズ 開業プレスリリース - 琉球新報PR TIMES配信", "url": "https://ryukyushimpo.jp/prtimes/entry-4005440.html" },
+        { "type": "other", "title": "ANAクラウンプラザリゾート沖縄うるまヒルズ ホテルスタッフだから知ってる地元の魅力 - トラベルWatch", "url": "https://travel.watch.impress.co.jp/docs/series/hotelstaff/2131357.html" },
+        { "type": "booking_site", "title": "ANA クラウン プラザ リゾート 沖縄 うるまヒルズ バイ IHG - travelist", "url": "https://travelist.jp/hotel/detail/6462087/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "同じうるま市内で新しく評価も高いホテルだが、海中道路でつながる島々からは離れた石川地区の丘の上にあり、今回指定の『海中道路エリア』とは地理的に厳密には合致しない。加えてオールインクルーシブプランの存在も確認できなかったため不採用。"
+    }
+  ]
+}

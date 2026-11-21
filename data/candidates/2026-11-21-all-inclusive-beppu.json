@@ -1,0 +1,200 @@
+{
+  "cycle_date": "2026-11-21",
+  "theme": "オールインクルーシブカテゴリ：大分県別府市（再調査サイクル／蒲郡市三谷温泉エリアに続く別地域）",
+  "season_rationale": "11月下旬の別府は紅葉が終わり冷え込みが強まる時期で、温泉地としての需要が高まる季節。全館滞在込み（ラウンジ・ドリンク・軽食等）で過ごせるオールインクルーシブ型の宿は、寒い時期に外出を減らして館内でゆったり過ごしたいニーズと合致する。本サイクルは同カテゴリで本日すでに実施した愛知県蒲郡市三谷温泉エリア（該当なし）とは異なる地域として、大分県別府市を対象に1回限りの再調査を行う。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-10-23-beppu-sauna", "region": "大分県別府市（鉄輪温泉エリア中心）", "category": "サウナ（やまなみの湯・ひょうたん温泉・地獄蒸しSAUNA伴＝いずれも不採用）" },
+    { "candidate_id": "2026-11-10-beppu-sauna", "region": "大分県別府市", "category": "サウナ（春燈庵＝shortlisted、ホテルアーサー・別府温泉保養ランド＝不採用）" },
+    { "candidate_id": "2026-11-21-all-inclusive-mitani-onsen", "region": "愛知県蒲郡市三谷温泉エリア", "category": "オールインクルーシブ（本日同カテゴリで別地域調査・該当なしだったため、本ファイルで別府市を再調査）" }
+  ],
+  "duplication_note": "data/candidates・captions配下を『別府』『beppu』『オールインクルーシブ』『all.inclusive』のキーワードでファイル名・本文の両方から横断検索した（1か月以上前の実績も含め全件確認）。大分県別府市に関する既存候補ファイルは2026-10-23-beppu-sauna.json・2026-11-10-beppu-sauna.jsonの2件で、いずれも『サウナ』カテゴリとして別府温泉保養ランド・やまなみの湯・ひょうたん温泉・地獄蒸しSAUNA伴・ホテルアーサー・春燈庵（shortlisted）を調査済みだった。これらはいずれも本ファイルで新たに調査した施設（花べっぷ・SHONIN PARK内 石の家別府・ホテル白菊）とは異なる施設であり、重複はない。別府市を対象とした『オールインクルーシブ』カテゴリの調査は本ファイルが初めてであることを確認した。",
+  "research_constraints": "このセッションのネットワーク環境では、jalan.net・travel.rakuten.co.jp・4travel.jp・san-tatsu.jp・nikkan.co.jp・jrkyushu.co.jp・haveagood-holiday.com等への直接WebFetchがDNS解決不可（ENOTFOUND、EGRESS_BLOCKED相当）であり、過去サイクル（例: 2026-11-21-all-inclusive-mitani-onsen.json）と同様、すべてWebSearchのスニペット経由で得られる情報のみを情報源とした。花べっぷのリニューアルに関するプレスリリース本文（PR TIMES配信・JR九州公式PDF）にも直接アクセスできず、二次メディア（matcha-jp.com・haveagood-holiday.com）がWebSearchで要約した内容を根拠とした。これらの制約下で確認できた事実のみを記録し、確認できない数字・発言は推測していない。",
+  "candidates": [
+    {
+      "id": "2026-11-21-hana-beppu",
+      "name": "別府温泉 -竹と椿のお宿- 花べっぷ",
+      "region": "大分県別府市上田の湯町16-50（JR別府駅より徒歩約6分）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "skyticket", "score": 4.8, "scale": 5, "review_count": 1372, "checked_date": "2026-11-21", "url": "https://skyticket.jp/hotel/detail/property_742542/" },
+        { "source": "ジャルカム（jcation）", "score": 4.8, "scale": 5, "review_count": 253, "checked_date": "2026-11-21", "url": "https://jcation.com/hotel/detail-10111/" }
+      ],
+      "price_range_jpy": {
+        "note": "全館オールインクルーシブ化後の確定的な1泊2食付き・大人2名料金はWebSearchの範囲では確認できなかった。参考として、スカイチケット掲載の1室2名1泊合計30,602円（1名あたり15,301円・食事条件不明）、朝食付きプラン合計46,574円という表示を確認した。トラベリスト掲載の3食付き参考料金は大人1名あたり70,200円。いずれも検索時点の一例であり、オールインクルーシブ特典（ラウンジのドリンク・軽食等）が含まれるかどうかはプランごとに異なる可能性がある。",
+        "as_of_search_date": "2026-11-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2026年1月6日～3月5日の休館を経て、2026年3月6日に『ふんわりやさしい』をコンセプトとする全館オールインクルーシブの宿としてリニューアルオープン。別府の伝統工芸『竹細工』を玄関やロビー等の館内各所にあしらい、客室は椿の名を冠した『椿の間』として展開（一部客室はジェットバス付き）。全客室が畳の趣を残しつつ和ベッドタイプに一新された。2階には新設のオールインクルーシブラウンジがあり、滞在中アルコールを含むドリンクや軽食を無料で楽しめる構成。1階ロビーにはアメニティバー『室礎処 一楽』を新設し、約10種類の枕から選べる枕メニューも用意。女性大浴場には酸素風呂・温泉ミストサウナがあり、料理長が生産農家を訪ねて選んだ食材を使う会席料理も特徴。『観光経済新聞社 人気温泉旅館ホテル250選』に6年連続選出。",
+      "renewal_or_news": "2026年3月6日、全館オールインクルーシブの宿としてリニューアルオープン（2026年1月6日～3月5日休館）。運営はJR九州ホテルズ＆リゾーツ。",
+      "target_audience": ["カップル", "夫婦", "女子旅", "一人旅", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 12,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 5
+      },
+      "score": 82,
+      "recommendation_reason": "独立2情報源（skyticket4.8・1,372件、ジャルカム4.8・253件）がいずれも原則6の最低ライン（4.0以上）を大きく上回り、サンプル数も十分。2026年3月6日の全館リニューアルにより、別府の伝統工芸『竹細工』と椿をテーマにした客室、滞在中ドリンク・軽食が無料になるオールインクルーシブラウンジ、約10種の枕メニューなど、写真・体験の両面で伝えやすい独自性が複数ある。JR別府駅から徒歩6分という抜群のアクセスと、リニューアルから間もない情報の新鮮さも評価した。『人気温泉旅館ホテル250選』6年連続選出という第三者評価の裏付けもある。価格の全体像（オールインクルーシブ特典込みの正確な料金）が確認しきれなかった点はvalue_for_priceを抑える要因とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "検索で確認できた口コミは好意的なものが中心（一休.comの2026年3月投稿で5.00点、楽天トラベルでも清潔・快適との評価）。一方で、じゃらん・Skyticket掲載情報によれば館内無料駐車場は台数に限りがあり予約不可で、満車時は徒歩約10分の別府駅周辺提携駐車場を案内される点、素泊まりプランでは宿の駐車場が使えない場合がある点が注意点として挙がった。フォートラベルの2013～2017年頃の古い口コミ（部屋によってシャワーのみ・バイキング品数への要望など）はリニューアル前の情報であり、現状とは異なる可能性が高い。衛生・安全面での重大な指摘は確認できなかった。なお、確認できたレビューの多くが2026年3月のリニューアル後にどの程度蓄積されたものかは、サイトの集計期間が明示されておらず完全には確認できていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "別府温泉 竹と椿のお宿 花べっぷ クチコミまとめ（4.8・1,372件） - skyticket", "url": "https://skyticket.jp/hotel/detail/property_742542/" },
+        { "type": "review_site", "title": "別府温泉 竹と椿のお宿 花べっぷ クチコミ（4.8・253件、清潔度4.9/スタッフサービス4.9） - ジャルカム（jcation）", "url": "https://jcation.com/hotel/detail-10111/" },
+        { "type": "other", "title": "Oita Beppu Onsen Hanabeppu Reopens｜A New Stay Style to Experience in Oita, Beppu - matcha-jp.com", "url": "https://matcha-jp.com/en/26803" },
+        { "type": "other", "title": "Beppu Onsen Hana Beppu to Reopen March 6, 2026, with New Guest-Centered Stay Experience - haveagood-holiday.com", "url": "https://haveagood-holiday.com/en/articles/beppu-onsen-hana-beppu-renewal-march-2026" },
+        { "type": "booking_site", "title": "[Grand Reopening on March 6, 2026! All-Inclusive Throughout the Entire Property!] - 一休.com", "url": "https://www.ikyu.com/en-us/00001894/" },
+        { "type": "press", "title": "花べっぷ リニューアル関連記事（JR九州ホテルズ＆リゾーツ運営・2026年2月プレスリリース要約） - 日刊工業新聞PR TIMES転載", "url": "https://www.nikkan.co.jp/releases/view/91998" }
+      ],
+      "decision": "selected",
+      "creator_story": {
+        "text": "花べっぷは運営会社JR九州ホテルズ＆リゾーツのもとで、2026年1月6日から3月5日まで休館して大規模改修を行い、2026年3月6日に全館オールインクルーシブの宿として生まれ変わった。公式の案内・メディア（matcha-jp.com、haveagood-holiday.com）によれば、改修のコンセプトは『ふんわりやさしい』という宿の従来の持ち味を保ちながら、『自分のペースで、思い思いに過ごせる滞在』を目指したというもので、朝の気分や旅の目的に合わせて食事を選べる仕組みや、約10種類の枕から選べる枕メニューなど、ゲストの裁量を広げる方向性の改修であることが読み取れる。デザイン面では、別府の伝統工芸である『竹細工』をロビーや館内各所に取り入れ、客室は椿の名を冠した『椿の間』として再構成された。2階の新設ラウンジは竹細工に囲まれた空間で、滞在中は無料でアルコールを含むドリンクや軽食を楽しめる、オールインクルーシブの中核を担う場所として位置づけられている。ただし、改修を手がけた建築家・デザイナー個人の名前や、運営会社の担当者本人が自らの言葉でこの改修への思い・こだわりを語った一次インタビュー記事は、本調査のWebSearchの範囲では確認できなかった。公式プレスリリース本文（PR TIMES配信元・JR九州公式サイトのPDF）にも、このセッションのネットワーク制限により直接アクセスできず、二次メディアの要約記事を通じて得られた情報に留まる。したがって、ここに記載したコンセプト・意図は運営会社の公式発表内容の要約であり、個人の『思い』を語った一次証言としては確認できていない旨を明記する。",
+        "sources": [
+          { "type": "other", "title": "Oita Beppu Onsen Hanabeppu Reopens｜A New Stay Style to Experience in Oita, Beppu - matcha-jp.com", "url": "https://matcha-jp.com/en/26803" },
+          { "type": "other", "title": "Beppu Onsen Hana Beppu to Reopen March 6, 2026, with New Guest-Centered Stay Experience - haveagood-holiday.com", "url": "https://haveagood-holiday.com/en/articles/beppu-onsen-hana-beppu-renewal-march-2026" },
+          { "type": "press", "title": "花べっぷ リニューアル関連記事（JR九州ホテルズ＆リゾーツ運営・2026年2月プレスリリース要約転載） - 日刊工業新聞", "url": "https://www.nikkan.co.jp/releases/view/91998" },
+          { "type": "booking_site", "title": "[Grand Reopening on March 6, 2026! All-Inclusive Throughout the Entire Property!] - 一休.com", "url": "https://www.ikyu.com/en-us/00001894/" }
+        ]
+      },
+      "photo_notes": {
+        "key_visuals": ["竹細工をあしらったロビー・玄関", "椿をテーマにした客室『椿の間』", "2階オールインクルーシブラウンジ（ドリンク・軽食）", "女性大浴場の酸素風呂", "会席料理（生産農家直選食材）"],
+        "needed_categories": ["外観・ロビー", "客室（椿の間）", "ラウンジ", "温泉・浴場", "料理"],
+        "official_material": "公式サイト・JR九州ホテルズ＆リゾーツのプレスリリースに改修後の写真が存在する可能性が高いが、本調査では直接アクセスできず未確認。",
+        "usage_rights_note": "利用条件・クレジット表記は本調査の範囲では確認できなかった。Production移行時に公式サイト・press kitで利用許諾を再確認する必要がある。『公式サイトに載っている』だけでは転載可能と判断しない。"
+      }
+    },
+    {
+      "id": "2026-11-21-ishinoya-beppu-shonin-park",
+      "name": "石の家別府（SHONIN PARK内）",
+      "region": "大分県別府市上人ケ浜町795-1（JR別府大学駅より徒歩約3分）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "一休.com（Ishinoya Beppu / TKP Hotels & Resorts）", "score": 3.88, "scale": 5, "review_count": 35, "checked_date": "2026-11-21", "url": "https://www.ikyu.com/th-th/00003400/review/" },
+        { "source": "Trip.com（Ishinoya Beppu / TKP Hotels & Resorts）", "score": 9.1, "scale": 10, "review_count": 8, "checked_date": "2026-11-21", "url": "https://se.trip.com/hotels/beppu-hotel-detail-130361324/ishinoya-beppu-tkp-hotels-resorts/review.html" }
+      ],
+      "price_range_jpy": {
+        "note": "1泊2食付きオールインクルーシブプランの具体的な料金はWebSearchの範囲では確認できなかった。",
+        "as_of_search_date": "2026-11-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "別府市内唯一の海浜砂湯が楽しめる上人ヶ浜公園を、Park-PFI事業として複合リゾート『SHONIN PARK』に再整備し、2025年7月24日に開業。砂湯・温泉・宿泊・レストラン・物販が一体となった構成で、宿泊棟『石の家別府（Ishinoya Beppu）』は公式案内では全7タイプ・23棟のオーシャンビューコテージとされ、各室に別府温泉源泉を引いた内風呂、1泊2食付きオールインクルーシブプランがある。",
+      "renewal_or_news": "2025年7月24日開業（上人ヶ浜公園の再整備事業）。2026年7月～9月には開業1周年記念のオールインクルーシブプラン・フリーパス特典を展開していた。",
+      "target_audience": ["カップル", "夫婦", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 4,
+        "unique_experience_score": 14,
+        "photogenic": 10,
+        "value_for_price": 4,
+        "sns_buzz": 5,
+        "access_and_freshness": 4
+      },
+      "score": 55,
+      "recommendation_reason": "別府唯一の海浜砂湯を核にした複合リゾートという独自性、全室オーシャンビューという打ち出しは写真的な魅力があるが、確認できた独立2情報源（一休.com3.88・35件、Trip.com9.1/10・8件）はいずれもサンプル数が極端に少なく、集計サイトごとの数値（hotelping上ではExpedia9.6・Agoda8.8・Booking.com7.4等）も大きくばらついており信頼性が低い。原則6の最低ライン（4.0以上）も一休.comでは僅かに届かない。負の口コミでは『公式が謳うオーシャンビューがほとんど見えなかった』という事実と異なる可能性のある指摘もあり、サンプルが少ない現状では採用の根拠を示せない。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "確認できた口コミは2件のみで評価が両極端だった。好意的な口コミ（1周年イベント・夜のイルミネーション・砂湯体験を評価）がある一方、総合評価1.50の口コミでは、部屋が非常に狭いこと、公式がオーシャンビューと謳っているにもかかわらず木々や伸びた草で海がほとんど見えなかったこと、防音が不十分で幹線道路の騒音で眠れなかったことが指摘されている。重大な衛生・安全面の指摘ではないが、表示と実態の不一致（オーシャンビュー表記）に関する指摘がある点は留意が必要。サンプル数が少なく(2件)、傾向として判断するには不十分。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "รีวิวและความประทับใจจากผู้เข้าพักที่ Ishinoya Beppu (TKP Hotels & Resorts) - 一休.com（タイ語版）", "url": "https://www.ikyu.com/th-th/00003400/review/" },
+        { "type": "review_site", "title": "Ishinoya Beppu(TKP Hotels & Resorts) レビュー - Trip.com", "url": "https://se.trip.com/hotels/beppu-hotel-detail-130361324/ishinoya-beppu-tkp-hotels-resorts/review.html" },
+        { "type": "other", "title": "SHONIN PARK Sand SPA（別府海浜砂湯）施設情報 - jorudan.co.jp", "url": "https://sp.jorudan.co.jp/onsen/details/2793/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立情報源が2件確認できたが、いずれもサンプル数が極端に少なく（35件・8件）、集計サイト間の数値も大きくばらついて信頼性が低い。一休.comの3.88は原則6の最低ライン（4.0以上）にも僅かに届かず、オーシャンビュー表記と実態の不一致を指摘する口コミもあるため、本サイクルでは採用を見送った。"
+    },
+    {
+      "id": "2026-11-21-hotel-shiragiku-beppu",
+      "name": "別府温泉 べっぷの宿 ホテル白菊（最上階ロイヤルフロア『菊万葉』）",
+      "region": "大分県別府市上田の湯町16-36",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "フォートラベル", "score": 3.72, "scale": 5, "review_count": 83, "checked_date": "2026-11-21", "url": "https://4travel.jp/dm_hotel-10052968" }
+      ],
+      "price_range_jpy": {
+        "note": "最上階ロイヤルフロア『菊万葉』を含む具体的な料金帯、オールインクルーシブ形式の有無についてはWebSearchの範囲では確認できなかった。",
+        "as_of_search_date": "2026-11-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "265畳の大露天風呂と創作会席、老舗宿としてのもてなしが特徴。最上階には半露天風呂・温泉内風呂を備えたロイヤルフロア『菊万葉』があり、女性パティシエによるスイーツビュッフェも提供。ただし、滞在中の飲食・施設利用が包括される『オールインクルーシブ』を公式に明示する表記は本調査では確認できなかった。",
+      "renewal_or_news": "確認できなかった。",
+      "target_audience": ["夫婦", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 11,
+        "review_reliability": 6,
+        "unique_experience_score": 10,
+        "photogenic": 8,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 3
+      },
+      "score": 46,
+      "recommendation_reason": "265畳の大露天風呂や老舗宿としてのもてなしは評価できるが、独立情報源として数値（score/review_count）が確認できたのはフォートラベル1件（3.72・83件）のみで、原則7の『独立2情報源』を満たせなかった。JTB掲載の89点やルルブの項目別評価（接客4.4等）は件数が明記されておらず、review_scoresとして採用できる数値ではない。『オールインクルーシブ』を公式に明示する表記も確認できず、依頼カテゴリへの適合性も弱いため、本サイクルでは不採用とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルでは83件中『悪い』0件・『とても悪い』1件で、項目別ではバリアフリーが3.61と最も低いが、具体的な不満内容は検索範囲では確認できなかった。重大な衛生・安全面の指摘は見つからなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "別府温泉 べっぷの宿 ホテル白菊 クチコミ（満足度3.72・83件、別府温泉228件中7位） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10052968" },
+        { "type": "other", "title": "【大分県の人気ホテル】「別府温泉 べっぷの宿 ホテル白菊」は多彩な湯船で源泉掛け流しの「美人湯」を楽しめる - All About", "url": "https://news.allabout.co.jp/articles/o/107156/" },
+        { "type": "booking_site", "title": "べっぷの宿 ホテル白菊 - じゃらんnet", "url": "https://www.jalan.net/yad367692" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "独立2情報源の数値評価を確認できず（フォートラベル3.72・83件のみ）、『オールインクルーシブ』の公式明示表記も確認できなかったため、依頼カテゴリへの適合性・原則7の両面で採用基準に届かず見送った。"
+    },
+    {
+      "id": "2026-11-21-grand-mercure-beppu-bay-outofscope",
+      "name": "グランドメルキュール別府湾リゾート&スパ",
+      "region": "大分県速見郡日出町大字平道字入江1825（別府湾を望む立地で『別府』を冠するが、行政区域は別府市ではなく隣接する日出町）",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "じゃらんnet", "score": 4.2, "scale": 5, "review_count": 3129, "checked_date": "2026-11-21", "url": "https://www.jalan.net/yad329698/" },
+        { "source": "skyticket", "score": 4.2, "scale": 5, "review_count": 6895, "checked_date": "2026-11-21", "url": "https://skyticket.jp/hotel/detail/property_13730/" },
+        { "source": "フォートラベル", "score": 3.81, "scale": 5, "review_count": 76, "checked_date": "2026-11-21", "url": "https://4travel.jp/dm_hotel-10053021" }
+      ],
+      "price_range_jpy": {
+        "note": "オールインクルーシブプランの具体的な1名料金はWebSearchの範囲では確認できなかった。トラベリスト掲載の朝食なしスタンダード参考料金は1名1泊約13,200円から。",
+        "as_of_search_date": "2026-11-21",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2024年4月に旧『ホテル&リゾーツ 別府湾』からリブランド。別府湾に面した高台に立地し、温泉・食事・ラウンジを含めてオールインクルーシブで利用できる。じゃらん『OF THE YEAR 売れた宿大賞2025』を受賞。ハーモニーランド公式ホテルとしても案内されている。",
+      "renewal_or_news": "2024年4月リブランド。じゃらんOF THE YEAR 売れた宿大賞2025受賞。",
+      "target_audience": ["カップル", "夫婦", "家族", "温泉好き", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 20,
+        "review_reliability": 14,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 79,
+      "recommendation_reason": "口コミ評価（じゃらん4.2・3,129件、skyticket4.2・6,895件）は独立2情報源とも原則6の最低ラインを明確に上回り、サンプル数も非常に多く信頼性が高い。公式にオールインクルーシブを明示し、リブランド後の評価・受賞歴もあるため、カテゴリ適合性・スコアの両面では採用水準に達していると考えられる。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "混雑・騒がしさ（人気のため優雅さに欠ける、ラウンジが混雑）、風呂が熱めで長湯しにくい、内風呂の窓ガラスが曇って海が見えない、施設の古さ、アクセス（4travel項目別評価で最低の3.38）、食事会場の混雑などの指摘があった。重大な衛生・安全面の指摘は確認できなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "グランドメルキュール別府湾リゾート&スパ クチコミ総合4.2（3,129件） - じゃらんnet", "url": "https://www.jalan.net/yad329698/" },
+        { "type": "review_site", "title": "グランドメルキュール別府湾リゾート&スパ クチコミまとめ（4.2・6,895件） - skyticket", "url": "https://skyticket.jp/hotel/detail/property_13730/" },
+        { "type": "review_site", "title": "グランドメルキュール別府湾リゾート&スパ クチコミ（満足度3.81・76件） - フォートラベル", "url": "https://4travel.jp/dm_hotel-10053021" },
+        { "type": "official", "title": "グランドメルキュール別府湾リゾート&スパ 公式ページ - all.accor.com", "url": "https://all.accor.com/hotel/C1N6/index.ja.shtml" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "口コミ評価・独自性ともに採用基準を満たす水準だが、公式所在地が大分県速見郡日出町であり、依頼された調査対象地域『大分県別府市』の行政区域外（隣接する日出町）に位置するため、本サイクルの地域スコープ外として選定対象から除外した。ユーザーが『別府市』と地域を明示している以上、『別府湾を望む』『別府』を冠する施設名であっても、行政区域が異なる場合はスコープ外として扱うべきと判断した。"
+    }
+  ]
+}

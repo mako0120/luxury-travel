@@ -1,0 +1,142 @@
+{
+  "cycle_date": "2026-09-18",
+  "theme": "離島リゾート（沖縄県宮古島エリア）",
+  "season_rationale": "宮古島は年間を通じて海水温が高く、本土の夏が終わった9月下旬〜11月頃でも海水浴・マリンアクティビティが楽しめる希少なシーズン。台風シーズンのピークも過ぎ始め、夏の混雑・航空券高騰が落ち着く『狙い目』の時期にあたる（原則30）。離島リゾートカテゴリは2026-09-14サイクルで瀬戸内・生口島の『Azumi Setoda』を選定済みだが、沖縄離島（宮古島）は同カテゴリでも未着手の地域のため、地域を変えて調査した。",
+  "prior_posts_checked": [
+    { "post_id": "2026-09-18-fufu-karuizawa", "region": "長野県北佐久郡軽井沢町", "category": "サウナ" },
+    { "post_id": "2026-09-14-azumi-setoda", "region": "広島県尾道市瀬戸田町（生口島・しまなみ海道）", "category": "離島リゾート" },
+    { "post_id": "2026-09-14-sheraton-yosweets", "region": "大阪府大阪市天王寺区（上本町）", "category": "その他" },
+    { "post_id": "2026-09-20-mizu-no-oto", "region": "神奈川県足柄下郡箱根町（小涌谷）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-hotel-gyokusen", "region": "島根県松江市（玉造温泉）", "category": "温泉旅館" },
+    { "post_id": "2026-09-14-cycl-yamanakako", "region": "山梨県南都留郡山中湖村", "category": "サウナ" }
+  ],
+  "duplication_note": "直近投稿は軽井沢×サウナ（ふふ軽井沢, 2026-09-18）で、地域・カテゴリともに今回とは異なる。離島リゾートカテゴリ自体は瀬戸内・生口島のAzumi Setoda（2026-09-14）で1件使用済みだが、地域が沖縄本島以外の宮古島であり、かつ間に別カテゴリ（サウナ）を挟んでいるため、地域・カテゴリの連続には該当しない（原則29）。宮古島エリアの中でも、2026-09-14サイクルの伊良部島『イラフSUI』（同サイクル内で68点で不採用）とは異なる施設を新規調査した。",
+  "candidates": [
+    {
+      "id": "2026-09-18-hilton-okinawa-miyako",
+      "name": "ヒルトン沖縄宮古島リゾート",
+      "region": "沖縄県宮古島市平良（トゥリバー地区）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "一休.com", "score": 4.18, "scale": 5, "review_count": 69, "checked_date": "2026-09-18", "url": "https://www.ikyu.com/00003061/review/" },
+        { "source": "楽天トラベル", "score": 4.37, "scale": 5, "review_count": 126, "checked_date": "2026-09-18", "url": "https://travel.rakuten.co.jp/HOTEL/187475/review.html" }
+      ],
+      "price_range_jpy": {
+        "note": "大人2名・1泊合計で33,225円〜261,030円という幅広い価格帯情報を価格.comで確認した（部屋タイプ・時期により大きく変動）。具体的な最新プラン金額は公式サイトでの確認を推奨する。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2022年開業、宮古島で最も新しい国際ブランドの大型リゾートホテル。伊良部大橋を望む『宮古ブルー』の海と感動的なサンセットが目の前に広がるトゥリバー地区に立地。屋外プール3つ・屋内プール2つ（スライダー付きキッズプール、大人向けアダルトプールなど用途別に分かれる）、ルーフトップバー、屋上チャペルなど、新しい大型施設ならではのスケール感が特徴。宮古空港から車で約15分とアクセスも良い。",
+      "renewal_or_news": "2022年開業と宮古島エリアでは比較的新しく、隣接地には2026年春開業予定の姉妹ホテル『Canopy by Hilton沖縄宮古島リゾート』が建設中で、周辺エリア自体が拡大・注目を集めている（一部の口コミでは工事の影響への言及もあり）。",
+      "target_audience": ["夫婦", "記念日", "ホテル好き", "絶景好き", "家族"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 9,
+        "unique_experience_score": 17,
+        "photogenic": 14,
+        "value_for_price": 6,
+        "sns_buzz": 8,
+        "access_and_freshness": 5
+      },
+      "score": 81,
+      "recommendation_reason": "一休.com4.18（69件）・楽天トラベル4.37（126件）と、性質の異なる2つの独立した予約サイトでいずれも4.0を超える評価を確認（原則6・7）。2022年開業という宮古島の中では新しいホテルで、伊良部大橋を望む『宮古ブルー』の絶景、屋内外5つのプール、ルーフトップバーといった写真・動画映えする要素が多く、2026年春には隣接地に姉妹ホテルの開業も控えるなど話題の鮮度が高い。今サイクルの3候補の中で最も総合スコアが高かった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorに『オペレーションがとにかく残念』というタイトルの口コミがあり、チェックイン対応やレストランのキャパシティ・混雑に対する不満、隣接する新ホテル建設工事による景観・騒音への言及が複数確認された。ただしこれらは運営面・混雑面の指摘であり、清潔感・安全性に関わる重大な指摘（衛生問題や設備の危険性など）ではないため、disqualifying issueとは判断しなかった（原則10）。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "ヒルトン沖縄宮古島リゾート 公式サイト", "url": "https://www.hilton.com/ja/hotels/okamihi-hilton-okinawa-miyako-island-resort/" },
+        { "type": "review_site", "title": "ヒルトン沖縄宮古島リゾート - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00003061/review/" },
+        { "type": "review_site", "title": "ヒルトン沖縄宮古島リゾート＜宮古島＞ に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/187475/review.html" },
+        { "type": "review_site", "title": "オペレーションがとにかく残念 - ヒルトン沖縄宮古島リゾートの口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g680765-d25352350-r920639486-Hilton_Okinawa_Miyako_Island_Resort-Miyakojima_Okinawa_Prefecture_Kyushu.html" },
+        { "type": "other", "title": "ヒルトン沖縄宮古島リゾート 料金比較・宿泊予約 - 価格.com", "url": "https://travel.kakaku.com/%E5%9B%BD%E5%86%85%E5%AE%BF%E6%B3%8A%E4%BA%88%E7%B4%84/%E3%83%92%E3%83%AB%E3%83%88%E3%83%B3%E6%B2%96%E7%B8%84%E5%AE%AE%E5%8F%A4%E5%B3%B6%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88-11949730/" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-09-18-shigira-allamanda",
+      "name": "シギラベイサイドスイート アラマンダ",
+      "region": "沖縄県宮古島市上野新里（シギラセブンマイルズリゾート内）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.30, "scale": 5, "review_count": 372, "checked_date": "2026-09-18", "url": "https://travel.rakuten.co.jp/HOTEL/56662/review.html" },
+        { "source": "一休.com", "score": 4.24, "scale": 5, "review_count": 250, "checked_date": "2026-09-18", "url": "https://www.ikyu.com/00000998/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "全室スイートの高級ホテルとして知られるが、セッション内で2名1室あたりの具体的な最新料金は数値確認できなかった。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "全室がスイートルームという構成が特徴のシギラセブンマイルズリゾート内のホテル。プライベートプール付きのヴィラタイプ、テラスにジャグジー（水着着用）とキッチンを備えた『暮らすスイート』など、部屋タイプごとに異なる非日常空間を用意。本館・ラグーン棟に屋外プールも完備し、宮古島の高台からリゾート一帯の景観を楽しめる。",
+      "target_audience": ["夫婦", "記念日", "家族", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 13,
+        "unique_experience_score": 15,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 77,
+      "recommendation_reason": "楽天トラベル4.30（372件）・一休.com4.24（250件）と、件数の多い独立した2サイトでともに高評価を確認でき、口コミの信頼性は3候補中で最も高い。全室スイート・プライベートプール付きヴィラという独自性もあるが、Tripadvisorでは一部『最悪』というタイトルの強い酷評も複数見られ、新規開業の話題性という点ではヒルトンに一歩譲るため、今サイクルでは次点とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Tripadvisorに『最悪』『今までで最悪の部屋』といったタイトルの酷評が複数存在し、テラスジャグジー付き客室で虫が多く利用できなかった、プールに虫や葉が浮いていた、スタッフの対応が厳しいと感じたという指摘があった。一方で楽天トラベル（372件）・一休.com（250件）では継続して4.2台以上の高評価が安定しており、Tripadvisorの酷評は一部の客室タイプ・個別対応に起因する可能性が高い。清潔感に関わる指摘はあるものの、施設全体としての重大な衛生・安全上の問題が複数情報源で一致して確認されたわけではないため、disqualifying issueとまでは判断しなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "シギラベイサイドスイート アラマンダ【公式】", "url": "https://shigira.com/hotel/allamanda" },
+        { "type": "review_site", "title": "シギラベイサイドスイート アラマンダ ＜宮古島＞ に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/56662/review.html" },
+        { "type": "review_site", "title": "シギラベイサイドスイート アラマンダ - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00000998/review/" },
+        { "type": "review_site", "title": "世界でも稀にみる最悪なホテル - シギラベイサイドスイート アラマンダの口コミ - トリップアドバイザー", "url": "https://www.tripadvisor.jp/ShowUserReviews-g680765-d1091994-r290929699-Shigira_Bayside_Suite_Allamanda-Miyakojima_Okinawa_Prefecture_Kyushu.html" }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "採点上は77点で採用ラインを満たし、口コミ件数の多さ（合計600件超）という点では3候補中最も信頼性が高いが、Tripadvisorに『最悪』級の強い酷評が複数存在すること、新規性・話題性の面でヒルトンに劣ることから、今サイクルではベスト候補として選定しなかった。基準は満たしているため、次サイクル以降の候補として維持する。"
+    },
+    {
+      "id": "2026-09-18-miyakojima-tokyu",
+      "name": "宮古島東急ホテル＆リゾーツ",
+      "region": "沖縄県宮古島市下地（与那覇前浜ビーチ）",
+      "category": "離島リゾート",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "一休.com", "score": 4.29, "scale": 5, "review_count": 112, "checked_date": "2026-09-18", "url": "https://www.ikyu.com/00000322/review/" },
+        { "source": "楽天トラベル", "score": 4.51, "scale": 5, "review_count": 457, "checked_date": "2026-09-18", "url": "https://travel.rakuten.co.jp/HOTEL/540/review.html" }
+      ],
+      "price_range_jpy": {
+        "note": "セッション内で2名1室あたりの具体的な最新料金は数値確認できなかった。",
+        "as_of_search_date": "2026-09-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "『東洋一の砂浜』とも称され日本の渚百選にも選ばれる与那覇前浜ビーチに直結するリゾートホテル。約7,000枚の貝殻を使ったシャンデリアが目を引くバー『ムーンシェル』など南国ムードのある館内施設が特徴。",
+      "target_audience": ["夫婦", "記念日", "家族", "絶景好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 12,
+        "unique_experience_score": 14,
+        "photogenic": 14,
+        "value_for_price": 5,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 77,
+      "recommendation_reason": "一休.com4.29（112件）・楽天トラベル4.51（457件）と2つの独立サイトで4.0を大きく上回る高評価を確認。日本屈指の美しさと評される与那覇前浜ビーチへの直結立地は写真映えの面で強みだが、複数の口コミで建物の老朽化が指摘されており、新規性・話題性の観点からヒルトンに次ぐ評価とした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "複数の口コミで『ホテルの老朽化は否めない』という趣旨の指摘が繰り返し見られたほか、一部で『部屋のお風呂に髪の毛が落ちていた』『床に砂が残っていた』という清掃面の不満も確認された。ただし同じ口コミの中で『清掃は行き届いている』『よく手入れされ快適』という評価も多く、老朽化を認めつつも運営でカバーしているという評価が大勢であり、清潔感・安全性に関わる重大な問題が複数情報源で一致して確認されたわけではないため、disqualifying issueとまでは判断しなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "宮古島東急ホテル＆リゾーツ - 宮古島観光協会公式情報サイト | Meets More MIYAKOJIMA", "url": "https://miyako-island.net/stay/stay_spot_055/" },
+        { "type": "review_site", "title": "宮古島東急ホテル＆リゾーツ - クチコミ・評判 - 一休.com", "url": "https://www.ikyu.com/00000322/review/" },
+        { "type": "review_site", "title": "宮古島東急ホテル＆リゾーツ＜宮古島＞ に実際に泊まった方のクチコミ・レビュー【楽天トラベル】", "url": "https://travel.rakuten.co.jp/HOTEL/540/review.html" }
+      ],
+      "decision": "shortlisted",
+      "rejection_reason": "採点上は77点で採用ラインを満たし、与那覇前浜ビーチという強力な絶景資産を持つが、複数口コミで指摘される建物の老朽化と、新規性・話題性の観点からヒルトンに次ぐ評価とし、今サイクルではベスト候補として選定しなかった。基準は満たしているため、次サイクル以降の候補として維持する。"
+    }
+  ]
+}

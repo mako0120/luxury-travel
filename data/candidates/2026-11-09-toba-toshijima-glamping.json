@@ -1,0 +1,138 @@
+{
+  "cycle_date": "2026-11-09",
+  "theme": "グランピングカテゴリ：三重県鳥羽市・答志島エリア",
+  "season_rationale": "2026年11月の鳥羽エリアは、浦村牡蠣の牡蠣小屋が例年11月初旬から翌年4月下旬にかけてシーズンに入る時期にあたり、紅葉・年末旅行の検討が動き出すタイミングでもある。グランピング自体は年間営業が中心だが、気温・湿度が落ち着き屋外でのBBQ・焚き火体験が快適になる11月は需要が高まりやすい季節である。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-10-21-toba-ocean-resort", "region": "三重県鳥羽市安楽島町", "category": "オールインクルーシブ（別カテゴリ・約3週間前）" },
+    { "candidate_id": "2026-10-19-iseshima-everglades", "region": "三重県志摩市磯部町穴川", "category": "グランピング（別市町村＝志摩市、約3週間前）" },
+    { "candidate_id": "2026-11-01-the-glamping-plaza-iseshima-base", "region": "三重県志摩市阿児町神明", "category": "グランピング（別市町村＝志摩市、約1週間前）" },
+    { "candidate_id": "2026-11-01-nemu-forest-villa", "region": "三重県志摩市浜島町迫子", "category": "グランピング（別市町村＝志摩市、約1週間前）" },
+    { "candidate_id": "2026-09-14-granp-glamping-resort", "region": "三重県志摩市", "category": "グランピング（別市町村＝志摩市、約2ヶ月前）" },
+    { "candidate_id": "2026-11-09-kintetsu-shimakaze", "region": "近鉄沿線（鳥羽市含む広域）", "category": "列車・船（別カテゴリ、本サイクルと同日作業）" }
+  ],
+  "duplication_note": "data/candidates・captions配下（1ヶ月以上前の実績も含む）を『鳥羽』『答志』『toba』『toshijima』『グランピング』『glamping』のキーワードでファイル名・本文の両方から横断検索した。『答志島』を含む候補・投稿はこれまで一件も存在せず、カテゴリ『グランピング』×地域『鳥羽市』の組み合わせも本サイクルが初出であることを確認した。三重県内のグランピングとしては志摩市（伊勢志摩国立公園エリア）の候補が複数サイクルで調査済み（いずれもrejected）だが、対象自治体が異なり施設も重複しない。鳥羽市では2026-10-21にオールインクルーシブカテゴリで『鳥羽オーシャンリゾート』（安楽島町）が選定済みだが、別カテゴリ・別施設であり、本サイクルのグランピング候補（同じ安楽島町エリアに所在する施設を含む）とは独立に評価した。",
+  "research_note": "答志島（鳥羽港からの定期船のみでアクセス可能な離島）自体には、グランピング施設は確認できなかった。島内の宿泊・滞在体験としては、島の旅社が手配する漁村体験ツアーや海女小屋体験、鳥羽市教育委員会による『寝屋子の島留学』（家族向け1泊2日の民泊体験）が中心で、いずれもグランピング（テント・ドーム型の快適性重視の屋外宿泊）には当たらない。このため本サイクルでは、答志島への定期船の発着地であり答志島エリアの拠点となる鳥羽市街・安楽島町・畔蛸町周辺で実在するグランピング（またはグランピングに近い屋外宿泊）施設を調査対象とした。",
+  "network_constraint_note": "本セッションでは jalan.net、travel.rakuten.co.jp、4travel.jp、ikyu.com、nap-camp.com、resort-glamping.com 等、ほぼ全ての個別ページへのWebFetchが名前解決エラー（ENOTFOUND＝このセッションのネットワーク制約）で失敗し、調査はWebSearchのスニペット経由で確認できた範囲に限られた。さらに調査途中で本ターンのWebSearch呼び出し上限（他エージェントとの共有枠を含む）に達したため、追加の深掘り検索（じゃらん・楽天トラベルでの季さらOnenessの口コミ件数確認、鳥羽キャンピングガーデンGRENBLUのグランピング区分の裏付け等）が実施できなかった。このため、いずれの候補も『review_count付きの数値評価を独立2情報源で確認する』という原則7の基準を満たすだけのデータを得られず、本サイクルではselected候補なしという結論になった。Production移行を検討する場合、またはDiscovery再調査サイクルでは、公式サイト・じゃらん・楽天トラベル・一休への直接アクセスで(1)季さらOnenessの口コミ件数付き評価、(2)鳥羽キャンピングガーデンGRENBLUがテント/ドーム等の『グランピング』設備を備えているかの実態、(3)野寛伊勢鳥羽-NOKAN-の宿泊者レビューの3点を再確認することを推奨する。",
+  "candidates": [
+    {
+      "id": "2026-11-09-toba-kisara-oneness",
+      "name": "季さらOneness（キサラワンネス）",
+      "region": "三重県鳥羽市安楽島町（鳥羽湾を望む高台、鳥羽駅より車で約8分）",
+      "category": "グランピング",
+      "is_hidden_gem": true,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "公式案内ベースの情報として2名1泊税込44,150円〜という表示を確認した。正確な現行プラン料金・税別表示の有無は公式サイトでの再確認が必要。",
+        "as_of_search_date": "2026-11-09",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "鳥羽湾を見渡す高台に立つ、3棟の独立したリゾートヴィラ型グランピング施設（2022年4月開業）。各ヴィラに美肌効果のある天然温泉の露天風呂を完備し、貸切のプライベートスパも利用できる。夕食は三重県産食材を使ったBBQを客室内で楽しめ、セルフラウンジのソフトドリンク・アルコールが飲み放題とされる。チェックイン15:00・チェックアウト11:00。1棟貸切という『別荘のような』プライベート空間演出が特徴。",
+      "renewal_or_news": "2022年4月開業からの継続営業と見られるが、本セッションの検索範囲では2026年時点での営業状況・リニューアル情報の直接確認（公式サイトへのWebFetch）はできなかった。予約サイト（tabiiro.jp、Yahoo!トラベル、reserve.489ban.net等）には現行の掲載が確認できたため、営業継続中と推測されるが、最終確認はProduction移行時に必須。",
+      "target_audience": ["カップル", "記念日", "夫婦", "温泉好き"],
+      "score_breakdown": {
+        "review_rating": 8,
+        "review_reliability": 2,
+        "unique_experience_score": 15,
+        "photogenic": 10,
+        "value_for_price": 5,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 45,
+      "recommendation_reason": "1棟貸切ヴィラ＋天然温泉露天風呂＋鳥羽湾一望という組み合わせは独自性が高く、グランピング体験として魅力的な要素は多い。一方で、一休（いい宿）の紹介ページでは客室4.00・設備3.90・接客4.10・食事4.00・温泉浴場4.70・満足度4.40という項目別評価がWebSearchのスニペットから確認できたが、このページには口コミ件数・集計時期の表示が確認できず、楽天トラベルの口コミも本文の引用のみで集計済みの総合点・件数が確認できなかった。原則7（独立2情報源での review_count付き数値評価）を満たすデータを本セッションでは得られなかったため、推測による数値の記載は行わず、score_breakdownを保守的に採点した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベルの口コミでは、ロケーション・部屋からの景色を高く評価する声がある一方、別の口コミでは清潔さ・設備への低い評価が確認された。施設側はテラスのソファーの修繕が宿泊日に間に合わなかった点、台風の影響による不便について返信しており、個別の運営課題が存在したことがうかがえる。重大な安全・衛生上の指摘は確認されなかったが、件数・集計時期が不明なため評価の全体像を網羅的に確認できたとは言えない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "季さらOneness - たびいろ", "url": "https://tabiiro.jp/yado/s/103685-toba-kisara-oneness/" },
+        { "type": "booking_site", "title": "季さらOneness - Yahoo!トラベル", "url": "https://travel.yahoo.co.jp/00051526" },
+        { "type": "review_site", "title": "季さらOneness - 一休.com 口コミ・評価", "url": "https://www.ikyu.com/th-th/00051526/review/" },
+        { "type": "review_site", "title": "季さらOneness - 楽天トラベル 口コミ", "url": "https://travel.rakuten.co.jp/HOTEL/187107/review.html" },
+        { "type": "other", "title": "季さらOneness（キサラワンネス） - 観光三重（三重県観光連盟公式サイト）", "url": "https://www.kankomie.or.jp/spot/25129" },
+        { "type": "other", "title": "季さらOneness【三重】 - リゾートグランピングドットコム", "url": "https://www.resort-glamping.com/accommodation/kisaraoneness/" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "体験内容（1棟貸切ヴィラ・天然温泉露天風呂・鳥羽湾一望）の独自性は高いが、本セッションのネットワーク制約（主要OTA・一休へのWebFetchが不可、WebSearch上限到達）により、review_count（口コミ件数）を伴う数値評価を独立2情報源で確認できなかった（原則7未達）。楽天トラベルの口コミには清掃・設備面の指摘も一部見られ、評価の全体像を現時点では裏付けられないため、45点で採用ラインに届かず不採用。将来、じゃらん・楽天トラベル・一休の口コミ件数付き評価を直接確認できれば再評価の価値がある（Hidden Gem候補として要再調査）。"
+    },
+    {
+      "id": "2026-11-09-toba-grenblu",
+      "name": "鳥羽キャンピングガーデンGRENBLU",
+      "region": "三重県鳥羽市（鳥羽湾を望む高台、答志島への定期船発着地に近いエリア）",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "なっぷ（nap-camp.com）", "score": 4.7, "scale": 5, "review_count": 13, "checked_date": "2026-11-09", "url": "https://www.nap-camp.com/mie/toba/info" }
+      ],
+      "price_range_jpy": {
+        "note": "絶景AC電源付きサイト（区画、定員10名、車両乗り入れ・ペット可）が1泊6,000円〜、日帰り利用は電話予約のみで3,000円〜との掲載を確認。グランピング用のドームテント・常設の豪華テント棟が別途あるかどうかは本セッションでは確認できなかった。",
+        "as_of_search_date": "2026-11-09",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "鳥羽湾を見下ろす高台にあるキャンプ場で、オーナー夫妻の対応や景観の良さを評価する口コミが見られる。シャワー・ゴミ捨て場・ウォッシュレット式トイレ・給湯・AC電源・ドッグランを備え、車両乗り入れ・ペット同伴に対応する。ただし本セッションで確認できた内容は主に区画サイト（AC電源付きオートサイト）の案件が中心で、ドーム型テントや常設の豪華グランピングキャビンなど、本リポジトリが想定する『グランピング』（手ぶらで快適に泊まれる設営済みの屋外宿泊）に該当する設備の有無を明確に裏付ける記述は確認できなかった。",
+      "renewal_or_news": "確認できなかった。",
+      "target_audience": ["友人", "家族"],
+      "score_breakdown": {
+        "review_rating": 12,
+        "review_reliability": 4,
+        "unique_experience_score": 5,
+        "photogenic": 6,
+        "value_for_price": 6,
+        "sns_buzz": 2,
+        "access_and_freshness": 2
+      },
+      "score": 37,
+      "recommendation_reason": "なっぷ掲載の評価4.7（13件）は良好な数値だが、情報源が1件のみで原則7（独立2情報源）を満たせない。さらに、確認できた内容がAC電源付きオートキャンプサイト中心で、テント・ドーム等の設営済みグランピング設備の存在を裏付ける記述が見当たらず、本カテゴリ『グランピング』の趣旨（手ぶらで泊まれる快適な屋外宿泊）に合致するかどうか自体が不確か。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "なっぷの口コミではオーナー夫妻の対応・景観を評価する声が見られ、重大な安全・衛生上の指摘は確認されなかった。ただし件数が13件・単一情報源のみで、ネガティブ情報の網羅的な確認はできているとは言えない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "鳥羽キャンピングガーデンGRENBLU 施設情報・プラン（評価4.7／13件） - なっぷ", "url": "https://www.nap-camp.com/mie/toba/info" },
+        { "type": "other", "title": "鳥羽のグランピングおすすめ4選！定番人気からカップル・子連れ向けまで紹介 - なっぷマガジン", "url": "https://www.nap-camp.com/mag/8701" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "数値評価が確認できた独立情報源が実質1件（4.7／13件）のみで原則7を満たせず、かつグランピングとしての設備（ドーム・常設テント等）の存在自体を裏付ける記述が確認できなかったため、本カテゴリの候補として不十分と判断し不採用（37点）。"
+    },
+    {
+      "id": "2026-11-09-toba-nokan",
+      "name": "野寛 伊勢鳥羽 -NOKAN-",
+      "region": "三重県鳥羽市畔蛸町",
+      "category": "グランピング",
+      "is_hidden_gem": false,
+      "review_scores": [],
+      "price_range_jpy": {
+        "note": "確認できなかった。",
+        "as_of_search_date": "2026-11-09",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "2024年3月開業、愛犬と泊まれる離れ型の温泉宿。全室が離れ型客室で、各室に個別のプライベートドッグランを設置。新美里温泉を全客室に引いており、三重県産食材を使った料理を部屋で楽しめる（愛犬用の無添加メニューもある）。旅行メディアの一泊レポートでは愛犬用メニューの豊富さやシニア犬向けペースト食の提供が紹介されている。",
+      "renewal_or_news": "2024年3月開業で、2026年時点では開業からすでに一定期間が経過している。2026年時点の営業状況・改修等の最新情報は本セッションでは確認できなかった。",
+      "target_audience": ["カップル", "夫婦", "家族"],
+      "score_breakdown": {
+        "review_rating": 0,
+        "review_reliability": 0,
+        "unique_experience_score": 8,
+        "photogenic": 5,
+        "value_for_price": 2,
+        "sns_buzz": 3,
+        "access_and_freshness": 2
+      },
+      "score": 20,
+      "recommendation_reason": "愛犬同伴特化・離れ型・個別ドッグラン付き温泉宿という独自性はあるが、本セッションで確認できた内容からは、テント・ドーム等の設営済み屋外宿泊という『グランピング』カテゴリの趣旨との合致が確認できず、実態としては温泉旅館（離れ型）に近い。宿泊者口コミの数値評価も本セッションでは一切見つからなかった。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "宿泊者による口コミ本文・評価点は本セッションの検索範囲では確認できず、旅行メディアの一人称宿泊記事が中心だった。重大な指摘の有無を判断できるだけの情報が不足している。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "other", "title": "野寛伊勢鳥羽 -NOKAN- - 観光三重（三重県観光連盟公式サイト）", "url": "https://www.kankomie.or.jp/spot/25007" },
+        { "type": "press", "title": "～愛犬と泊まれる～全室天然温泉・プライベートドッグラン付離れ型宿「野寛 伊勢鳥羽-NOKAN」【2024年春オープン】 - PR TIMES", "url": "https://prtimes.jp/main/html/rd/p/000000021.000098576.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "テント・ドーム等の設営済み屋外宿泊という『グランピング』カテゴリの趣旨に合致するか確認できず（実態は離れ型温泉旅館に近い）、かつ数値評価の裏付けも皆無のため、本カテゴリの候補としては不採用（20点）。"
+    }
+  ]
+}

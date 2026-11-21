@@ -1,0 +1,198 @@
+{
+  "cycle_date": "2026-10-27",
+  "theme": "静岡県伊豆市修善寺温泉のグルメ旅館",
+  "season_rationale": "11月に向けて紅葉が本格化する時期で、修善寺温泉は『修善寺紅葉まつり』（竹林の小径・独鈇の湯周辺のライトアップ）が例年11月中旬〜下旬に行われ、紅葉と温泉・食事を組み合わせた訴求がしやすい季節（原則30）。中伊豆エリアは直近投稿が2026-10-20のおちあいろう（サウナ・天城湯ヶ島エリア）のみで、修善寺温泉の中心部（修善寺駅周辺）自体・グルメ旅館カテゴリとしては初出。",
+  "prior_posts_checked": [
+    { "candidate_id": "2026-10-26-redondo-akiyoshidai-glamping", "region": "山口県美祢市（秋吉台・秋芳洞エリア）", "category": "グランピング" },
+    { "candidate_id": "2026-10-26-matsushima-bay-cruise", "region": "宮城県宮城郡松島町（松島湾）", "category": "列車・船" },
+    { "candidate_id": "2026-10-26-all-inclusive-atami", "region": "静岡県熱海市伊豆山（伊豆山温泉）", "category": "オールインクルーシブ" },
+    { "candidate_id": "2026-10-26-ikaho-onsen-ryokan", "region": "群馬県渋川市伊香保町（伊香保温泉）", "category": "温泉旅館" },
+    { "candidate_id": "2026-10-26-iizaka-gourmet-ryokan", "region": "福島県福島市飯坂町（飯坂温泉）", "category": "グルメ旅館" },
+    { "candidate_id": "2026-10-25-togatta-onsen-sauna", "region": "宮城県刈田郡蔵王町（遠刈田温泉）", "category": "サウナ" },
+    { "candidate_id": "2026-10-25-all-inclusive-shimoda", "region": "静岡県下田市", "category": "温泉旅館" },
+    { "candidate_id": "2026-10-25-akayu-onsen-gourmet-ryokan", "region": "山形県南陽市（赤湯温泉）", "category": "グルメ旅館" },
+    { "candidate_id": "2026-10-24-yamanaka-onsen-gourmet-ryokan", "region": "石川県加賀市（山中温泉）", "category": "グルメ旅館" },
+    { "candidate_id": "2026-10-24-the-royal-express-izu", "region": "静岡県（伊豆急行線・伊豆東海岸）", "category": "列車・船" },
+    { "candidate_id": "2026-10-21-yuda-onsen-gourmet-ryokan", "region": "山口県山口市（湯田温泉）", "category": "グルメ旅館" },
+    { "candidate_id": "2026-10-20-izu-ochiairo-sauna", "region": "静岡県伊豆市湯ケ島（天城湯ヶ島・修善寺エリア）", "category": "サウナ" },
+    { "candidate_id": "2026-10-20-gero-onsen-gourmet-ryokan", "region": "岐阜県下呂市（下呂温泉）", "category": "グルメ旅館" },
+    { "candidate_id": "2026-10-18-kaike-shogetsu", "region": "鳥取県米子市（皆生温泉）", "category": "グルメ旅館" },
+    { "candidate_id": "2026-10-17-ureshino-gourmet-ryokan", "region": "佐賀県嬉野市（嬉野温泉）", "category": "グルメ旅館" }
+  ],
+  "duplication_note": "依頼地域『静岡県伊豆市修善寺温泉』・カテゴリ『グルメ旅館』は、過去データ（2026-09-14〜2026-10-26の全candidates/captions）を確認した結果、一度も登場していない新規の組み合わせ。唯一近い既存投稿は2026-10-20-izu-ochiairo-sauna（おちあいろう／静岡県伊豆市湯ケ島＝天城湯ヶ島エリア、カテゴリ『サウナ』）だが、天城湯ヶ島は修善寺温泉の中心部（修善寺駅・修善寺・独鈇の湯周辺）とは異なるエリアであり、カテゴリも異なるため重複とはみなさない。静岡県・伊豆地域自体は熱海・下田・東伊豆（伊豆急行線）で複数回登場しているが、いずれも修善寺とは別エリア。グルメ旅館カテゴリは直近2026-10-26（飯坂温泉）・2026-10-25（赤湯温泉）・2026-10-24（山中温泉）と連続しているが、地域側が完全新規かつユーザー指定の組み合わせであるため、このサイクルでは地域優先で調査した。",
+  "candidates": [
+    {
+      "id": "2026-10-27-arai-ryokan-shuzenji",
+      "name": "新井旅館",
+      "region": "静岡県伊豆市修善寺（修善寺温泉。伊豆箱根鉄道「修善寺駅」からタクシー・バスで約7分、送迎なし）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "skyticket（施設詳細ページ集計）",
+          "score": 4.8,
+          "scale": 5,
+          "review_count": 602,
+          "checked_date": "2026-10-27",
+          "url": "https://skyticket.jp/hotel/detail/property_8520/"
+        },
+        {
+          "source": "skyticket（修善寺エリア一覧ページ集計、2026年7月15日時点表示）",
+          "score": 4.4,
+          "scale": 5,
+          "review_count": 325,
+          "checked_date": "2026-10-27",
+          "url": "https://skyticket.jp/hotel/shizuoka/bl_220041/"
+        },
+        {
+          "source": "ニフティ温泉",
+          "score": 3.9,
+          "scale": 5,
+          "review_count": 9,
+          "checked_date": "2026-10-27",
+          "url": "https://onsen.nifty.com/shuzenji-onsen/onsen002730/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では1泊2食の明確な価格帯を確定できなかった。明治5年(1872)創業・国の登録有形文化財（建物15棟）の老舗旅館で、客室タイプ・プランにより価格は大きく変動するとみられる。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "明治5年(1872)創業、敷地内の建物15棟が国の登録有形文化財に指定された純和風木造建築の老舗旅館。名物は昭和9年(1934)築・総檜造りの大浴場『天平大浴堂』で、全浴場が源泉掛け流し。客室数28室という規模の中で、歴史的建築そのものを『泊まって味わう』体験ができる点と、料理（夕食・朝食とも高評価）の両方を兼ね備えた『グルメ旅館』としての独自性がある。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "グルメ旅", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 11,
+        "unique_experience_score": 18,
+        "photogenic": 13,
+        "value_for_price": 6,
+        "sns_buzz": 6,
+        "access_and_freshness": 3
+      },
+      "score": 78,
+      "recommendation_reason": "skyticket施設ページの4.8点（602件）という大規模サンプルでの高評価に加え、同じskyticketの別集計（エリア一覧ページ、4.4点・325件）でも採用ライン4.0以上を安定して満たしている。JTBの利用者アンケートでも総合91点・夕食90点・朝食90点と食事面の評価が高く、国登録有形文化財の建築群・総檜造りの『天平大浴堂』という唯一無二の資産を持つ点が『グルメ旅館』としての強い訴求軸になる。総合スコア78点で採用ライン（75点）を満たしたため選定した。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "楽天トラベル経由の個別口コミでは、料理や接客自体は好評だったものの、寝具が薄い『せんべい布団』だった点、客室にグラスが用意されていなかった点を指摘する声があった。ニフティ温泉の評価は3.9点だが件数が9件と少なく、サンプルの信頼性は限定的。また、skyticket上の2つの集計ページ（4.4点/325件と4.8点/602件）で数値に差があり、集計対象・時期が完全には一致していない可能性がある点もリスクとして記録する。送迎がなく修善寺駅からタクシー利用が前提になる点も留意点。いずれも清潔感・接客・安全性に関わる重大・組織的な欠陥ではなく、除外基準（原則10）に該当する問題は確認されなかった。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "伊豆修善寺温泉 新井旅館（skyticket施設詳細ページ／総合4.8・クチコミ602件）", "url": "https://skyticket.jp/hotel/detail/property_8520/" },
+        { "type": "booking_site", "title": "修善寺エリアの宿一覧（skyticket／新井旅館4.4・325件、2026年7月15日時点表示）", "url": "https://skyticket.jp/hotel/shizuoka/bl_220041/" },
+        { "type": "review_site", "title": "新井旅館 口コミ・評価（ニフティ温泉／3.9点・9件）", "url": "https://onsen.nifty.com/shuzenji-onsen/onsen002730/" },
+        { "type": "other", "title": "新井旅館 施設情報・満足度4.46（Yahoo!トラベル／温泉4.66・食事4.42・接客4.4）", "url": "https://travel.yahoo.co.jp/00000906" },
+        { "type": "other", "title": "新井旅館 利用者アンケート（JTB／総合91・夕食90・朝食90、2026年3月投稿）", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/4372019/" },
+        { "type": "booking_site", "title": "新井旅館 施設ページ・個別口コミ（楽天トラベル）", "url": "https://travel.rakuten.co.jp/HOTEL/31865/31865.html" },
+        { "type": "other", "title": "伊豆修善寺温泉 新井旅館 施設概要（じゃらんnet／1872年創業・登録有形文化財・天平大浴堂）", "url": "https://www.jalan.net/yad359366" }
+      ],
+      "decision": "selected"
+    },
+    {
+      "id": "2026-10-27-asaba-shuzenji",
+      "name": "あさば",
+      "region": "静岡県伊豆市修善寺3450-1（修善寺温泉。伊豆箱根鉄道「修善寺駅」からタクシーで約7分、送迎なし）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "skyticket",
+          "score": 4.3,
+          "scale": 5,
+          "review_count": 133,
+          "checked_date": "2026-10-27",
+          "url": "https://skyticket.jp/hotel/shizuoka/st_220137/"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では1泊2食の具体的な金額を確定できなかった。全17室（2023年春改装で客室数を見直し）の小規模高級旅館で、ふるさと納税特集等で『究極の選択』として扱われるなど高価格帯の旅館として紹介されている記事があるが、正確な料金は未確認。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "500年以上前、浅羽弥九郎幸忠が開いた宿坊を起源とする老舗旅館。敷地内の600坪の池を望む能舞台『月桂殿』で狂言や琵琶楽の公演が行われることもあり、竹林を抜ける風が心地よい野天風呂・高野槙の内湯・貸切風呂を備える。名物は修善寺の町おこしで栽培された黒米を使う『穴子黒米ずし』で、朝食も著名な旅エッセイストが『日本旅館の朝ごはんのお手本』と評するほど評判が高い。2023年春に改装し客室数を17室に絞って設備を見直した。",
+      "renewal_or_news": "2023年春に改装を実施し、客室数を見直して設備をアップデートしたと旅行メディアで紹介されている（検索日2026-10-27時点、改装自体は数年前だが現行設備として維持されている）。",
+      "target_audience": ["夫婦", "記念日", "温泉好き", "グルメ旅", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 19,
+        "review_reliability": 8,
+        "unique_experience_score": 19,
+        "photogenic": 14,
+        "value_for_price": 6,
+        "sns_buzz": 7,
+        "access_and_freshness": 4
+      },
+      "score": 77,
+      "recommendation_reason": "Yahoo!トラベルの満足度4.77（件数不明）、skyticketの4.3点（133件）と、確認できた数値はいずれも高評価で、能舞台・600坪の池・竹林の野天風呂・名物『穴子黒米ずし』など他にない独自体験を複数備える。朝食が著名な旅エッセイストに『お手本』と評されるなど話題性もある。総合スコア77点で採用ラインは満たすが、review_scoresとして数値・件数の両方を確実に裏取りできた情報源がskyticketの1件のみで、原則7が求める『独立した複数の数値評価』の確証が新井旅館より弱いため、今サイクルでは次点のshortlistedとした。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルに掲載された評価の一つに3.33という数値があったが、件数・集計時期・対象が確認できず、Yahoo!トラベル（4.77）やskyticket（4.3/133件）との単純比較はできない。Web検索の範囲では接客・清潔感・安全性に関する重大な指摘は確認できなかった。送迎がなく、修善寺駅からのアクセスはタクシー利用が前提になる点は留意点。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "あさば（skyticket／総合4.3・クチコミ133件）", "url": "https://skyticket.jp/hotel/shizuoka/st_220137/" },
+        { "type": "other", "title": "あさば 施設情報・満足度4.77（Yahoo!トラベル／客室4.81・施設4.86・食事4.74）", "url": "https://travel.yahoo.co.jp/00002155" },
+        { "type": "review_site", "title": "あさば 口コミ（フォートラベル／3.33、個別投稿）", "url": "https://4travel.jp/dm_hotel-10046754" },
+        { "type": "press", "title": "あさば 施設紹介（Precious.jp／穴子黒米ずし・能舞台・竹林の野天風呂）", "url": "https://precious.jp/articles/-/52292" },
+        { "type": "other", "title": "あさば 施設ページ（JTB／アクセス・客室数）", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/4372012/" },
+        { "type": "press", "title": "あさば 朝食紹介記事（discoverjapan-web.com）", "url": "https://discoverjapan-web.com/article/110674" }
+      ],
+      "decision": "shortlisted"
+    },
+    {
+      "id": "2026-10-27-yukairo-kikuya-shuzenji",
+      "name": "湯回廊 菊屋（共立リゾート）",
+      "region": "静岡県伊豆市修善寺（修善寺温泉。伊豆箱根鉄道「修善寺駅」からバス、送迎なし）",
+      "category": "グルメ旅館",
+      "is_hidden_gem": false,
+      "review_scores": [
+        {
+          "source": "Relux",
+          "score": 4.2,
+          "scale": 5,
+          "review_count": 38,
+          "checked_date": "2026-10-27",
+          "url": "https://rlx.jp/23895/review/"
+        },
+        {
+          "source": "フォートラベル",
+          "score": 3.85,
+          "scale": 5,
+          "review_count": 95,
+          "checked_date": "2026-10-27",
+          "url": "https://4travel.jp/dm_hotel-10220772"
+        }
+      ],
+      "price_range_jpy": {
+        "note": "Web検索の範囲では1泊2食の具体的な金額を確定できなかった。共立リゾート運営の大規模旅館で、メゾネットタイプの客室『蔵』などプランにより価格帯は幅広いとみられる。",
+        "as_of_search_date": "2026-10-27",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "共立リゾートが運営する大規模な湯回廊様式の旅館で、複数の大浴場・露天風呂、メゾネットタイプの客室『蔵』などを備える。楽天トラベルの人気ランキングには『お客さまの声（1,689件）』として掲載されるなど口コミ件数自体は多い。",
+      "target_audience": ["夫婦", "家族", "温泉好き", "グルメ旅"],
+      "score_breakdown": {
+        "review_rating": 14,
+        "review_reliability": 7,
+        "unique_experience_score": 11,
+        "photogenic": 10,
+        "value_for_price": 6,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 56,
+      "recommendation_reason": "口コミ件数自体は多い（楽天トラベル系で1,689件）が、数値・件数を確実に裏取りできたフォートラベルの満足度は3.85（95件）で採用ライン4.0に届かず、Reluxの4.2（38件）もサンプル規模が小さい。JTBの利用者アンケートでも大浴場評価（83）がサービス（94）・夕食（92）より相対的に低めだった。共立リゾート系列の大規模旅館という性質上、新井旅館・あさばのような一棟固有の歴史的建築・独自体験と比べて差別化要素が弱く、総合スコア56点で採用ライン（75点）に届かないため見送った。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "フォートラベルの満足度3.85（95件）は採用ライン4.0未満。JTB集計では大浴場評価（83）がサービス（94）・夕食（92）より低めという相対的な弱点が確認できた。重大・組織的な欠陥を示す指摘ではないが、新井旅館・あさばと比較して評価・独自性ともに見劣りした。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "review_site", "title": "湯回廊 菊屋 クチコミ（Relux／4.2・38件）", "url": "https://rlx.jp/23895/review/" },
+        { "type": "review_site", "title": "湯回廊 菊屋 口コミ（フォートラベル／満足度3.85・95件、風呂4.15・食事4.15）", "url": "https://4travel.jp/dm_hotel-10220772" },
+        { "type": "other", "title": "湯回廊 菊屋 利用者アンケート（JTB／サービス94・夕食92・大浴場83）", "url": "https://www.jtb.co.jp/kokunai-hotel/htl/4372029/" },
+        { "type": "booking_site", "title": "楽天トラベル 人気ホテル・旅館ランキング（伊豆・箱根／湯回廊 菊屋 お客さまの声1,689件）", "url": "https://travel.rakuten.co.jp/ranking/5_0007_0_1_0_0.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "総合スコア56点で採用ライン（75点）に届かず、数値・件数を確実に裏取りできた主要レビュー（フォートラベル3.85・95件）も採用ライン4.0未満のため見送った。"
+    }
+  ],
+  "cycle_result": "選定: 新井旅館（78点）。静岡県伊豆市修善寺温泉のグルメ旅館カテゴリで3件（新井旅館・あさば・湯回廊菊屋）を調査した。新井旅館はskyticketの2つの集計（4.8点/602件、4.4点/325件）とJTBアンケート（総合91点）で採用ライン（75点・主要レビュー4.0以上）を安定して満たし、国登録有形文化財の老舗建築＋総檜造り『天平大浴堂』という独自資産が『グルメ旅館』として強く訴求できるため選定した。あさば（77点）も能舞台・竹林の野天風呂・名物『穴子黒米ずし』という独自性が高く採用ラインを満たしたが、数値・件数の両方を確実に裏取りできた情報源がskyticketの1件のみで原則7の裏取りが新井旅館よりやや弱いため、今サイクルはshortlistedとし次点候補として保持する。湯回廊菊屋（56点）は口コミ件数自体は多いが主要レビュー（フォートラベル3.85）が採用ライン4.0未満で、系列大規模旅館という性質上の独自性の弱さもあり不採用とした。"
+}

@@ -1,0 +1,139 @@
+{
+  "cycle_date": "2026-10-18",
+  "theme": "沖縄県国頭郡恩納村・読谷村のオールインクルーシブ施設（既出のAQUASENSE恩納村・クラブメッド各施設とは異なる、公式に『オールインクルーシブ』を名乗る施設の再調査）",
+  "season_rationale": "カテゴリ『オールインクルーシブ』は本サイクルで3回目の調査（前々回2026-10-17名護市=該当なし、前回2026-10-18ルスツリゾート=カテゴリ適合性・スコアともに基準未達で不採用）。ユーザー指定により、既出のAQUASENSE Hotel & Resort（恩納村字冨着・2026-10-17選定済）およびクラブメッド各施設（トマム・サホロ・石垣島川平）とは異なる施設を、沖縄県国頭郡恩納村または読谷村で探索した。具体的にはハレクラニ沖縄・ホテル日航アリビラの宿泊プランにオールインクルーシブ要素があるかを確認した上で、該当がない場合は他施設・他都道府県も検討する指示だった。",
+  "prior_posts_checked": [
+    { "post_id": "2026-10-17-aquasense-onna", "region": "沖縄県国頭郡恩納村字冨着", "category": "オールインクルーシブ（選定済・プールスイート限定）" },
+    { "post_id": "2026-10-18-all-inclusive-rusutsu", "region": "北海道虻田郡留寿都村", "category": "オールインクルーシブ（該当なし＝スコア64点・公式プラン未確認）" },
+    { "post_id": "2026-10-17-all-inclusive-nago", "region": "沖縄県名護市", "category": "オールインクルーシブ（該当なし）" },
+    { "post_id": "2026-10-18-goto-retreat-ray", "region": "長崎県五島市", "category": "離島リゾート（本日選定済・別カテゴリ）" },
+    { "candidate_id": "2026-09-18 / 2026-09-22 clubmed各施設", "region": "北海道トマム・サホロ、沖縄県石垣島川平", "category": "オールインクルーシブ（既出・別施設）" }
+  ],
+  "duplication_note": "ユーザー指定により、AQUASENSE恩納村・クラブメッド各施設と重複しない『オールインクルーシブ』施設を沖縄県恩納村・読谷村で再探索。ハレクラニ沖縄（恩納村名嘉真）・ホテル日航アリビラ（読谷村儀間）は公式にオールインクルーシブと呼べるプランが確認できなかったため、読谷村内の別施設グランドメルキュール沖縄残波岬リゾート（読谷村字儀間）まで対象を広げたところ、公式に『オールインクルーシブ』を名乗るプランを確認できた。読谷村はユーザー指定の候補地域（恩納村または読谷村）に含まれており、AQUASENSE・クラブメッドのいずれとも運営会社・施設が異なる。",
+  "research_note": "このセッションのネットワーク環境では、ホテル日航アリビラ・グランドメルキュール沖縄残波岬リゾート・ハレクラニ沖縄のいずれの公式サイトもWebFetchがEGRESS_BLOCKEDとなったため、WebSearchのスニペット情報を情報源として明記している。グランドメルキュール沖縄残波岬リゾートの『オールインクルーシブ1泊29,500円〜（2名1室1名あたり、税・サービス料込み）』という料金は複数のプレスリリース記事で確認できたが、一部は過去の配信記事のため現在の正確な料金は変動している可能性がある旨をキャプションにも明記する。",
+  "candidates": [
+    {
+      "id": "2026-10-18-halekulani-okinawa",
+      "name": "ハレクラニ沖縄",
+      "region": "沖縄県国頭郡恩納村名嘉真",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル（サービス評価）", "score": 4.95, "scale": 5, "review_count": 623, "checked_date": "2026-10-18", "url": "https://travel.rakuten.co.jp/ranking/onsen/13_0005_0_2_0_0.html" },
+        { "source": "Relux", "score": 4.8, "scale": 5, "review_count": 335, "checked_date": "2026-10-18", "url": "https://rlx.jp/23837/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "楽天トラベルのランキングページでは最安料金目安26,450円〜（消費税込29,095円〜）という表示を確認。朝食付き（Bed and Breakfast）系プランが中心で、オールインクルーシブ（食事・ドリンク・アクティビティ込み）と明記されたプランはこのセッションのWebSearchでは確認できなかった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "沖縄海岸国定公園内、恩納村名嘉真の高台に立つラグジュアリーリゾート。5つのプール（温水ジェットバス完備のインドアプール含む）、オールデイダイニング・イノベーティブ・ステーキ&ワイン・日本料理など複数の飲食施設を備える。沖縄県内の人気ホテル比較で口コミ評価が最も高いブランドとして紹介される記事もある。",
+      "target_audience": ["カップル", "記念日", "夫婦", "ホテル好き"],
+      "score_breakdown": {
+        "review_rating": 23,
+        "review_reliability": 13,
+        "unique_experience_score": 8,
+        "photogenic": 13,
+        "value_for_price": 4,
+        "sns_buzz": 7,
+        "access_and_freshness": 3
+      },
+      "score": 71,
+      "recommendation_reason": "口コミ評価は楽天トラベル・Reluxいずれも非常に高く、ラグジュアリーリゾートとしての完成度は高い。ただし今回複数のクエリで検索した限り、食事・ドリンク・アクティビティが宿泊料金に包括的に含まれる『オールインクルーシブ』と呼べるプランの存在を確認できず、確認できたのは朝食付き中心のプラン群のみだった。今回のカテゴリ条件『オールインクルーシブ』の適合性が確認できないため不採用。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "オールインクルーシブプランの有無確認が主目的だったため、低評価レビューの体系的な確認までは行っていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "ハレクラニ沖縄 公式サイト", "url": "https://www.okinawa.halekulani.com/" },
+        { "type": "review_site", "title": "ハレクラニ沖縄 クチコミ(335件) - Relux", "url": "https://rlx.jp/23837/review/" },
+        { "type": "booking_site", "title": "楽天トラベル 沖縄 温泉旅館・ホテル(サービス)ランキング", "url": "https://travel.rakuten.co.jp/ranking/onsen/13_0005_0_2_0_0.html" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "地域（恩納村）は条件に合致し評価も非常に高いが、オールインクルーシブという今回のカテゴリ条件を満たすプランの存在を確認できなかったため不採用。"
+    },
+    {
+      "id": "2026-10-18-hotel-nikko-alivila-yomitan",
+      "name": "ホテル日航アリビラ",
+      "region": "沖縄県中頭郡読谷村儀間",
+      "category": "その他",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.6, "scale": 5, "review_count": 281, "checked_date": "2026-10-18", "url": "https://travel.rakuten.com/mys/en-us/hotel_info_item/cnt_japan/sub_okinawa/cty_yomitan_village/10123456796155/" }
+      ],
+      "price_range_jpy": {
+        "note": "このセッションのWebSearchでは、オールインクルーシブと明記されたプランの料金は確認できなかった。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "読谷村儀間に位置するスペインコロニアル様式の大型リゾート（全約400室）。5つのレストラン・ロビーラウンジ・バー2軒・屋内外プールを備える。公式情報によれば、近隣のグランドメルキュール沖縄残波岬リゾートとの『相互利用サービス』が存在する。",
+      "target_audience": ["家族", "カップル", "夫婦"],
+      "score_breakdown": {
+        "review_rating": 22,
+        "review_reliability": 11,
+        "unique_experience_score": 9,
+        "photogenic": 12,
+        "value_for_price": 4,
+        "sns_buzz": 5,
+        "access_and_freshness": 3
+      },
+      "score": 66,
+      "recommendation_reason": "口コミ評価は楽天トラベルで4.6（281件）と高評価だが、複数のクエリで検索した限り『オールインクルーシブ』と呼べる宿泊プランの料金・内容を確認できなかった。近隣のグランドメルキュール沖縄残波岬リゾートとの施設相互利用サービスは確認できたが、これはアリビラ自体がオールインクルーシブを名乗っているわけではないため、今回のカテゴリ条件には合致しないと判断した。",
+      "negative_review_check": {
+        "checked": false,
+        "findings": "オールインクルーシブプランの有無確認が主目的だったため、低評価レビューの体系的な確認までは行っていない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "booking_site", "title": "Hotel Nikko Alivila - Rakuten Travel", "url": "https://travel.rakuten.com/mys/en-us/hotel_info_item/cnt_japan/sub_okinawa/cty_yomitan_village/10123456796155/" },
+        { "type": "other", "title": "Hotel Nikko Alivila - mice.okinawastory.jp", "url": "https://mice.okinawastory.jp/en/en-venue/venue-all/v-403/?lang=cn" }
+      ],
+      "decision": "rejected",
+      "rejection_reason": "地域（読谷村）は条件に合致し評価も高いが、オールインクルーシブという今回のカテゴリ条件を満たすプランの存在を確認できなかったため不採用。"
+    },
+    {
+      "id": "2026-10-18-grand-mercure-okinawa-zanpa-yomitan",
+      "name": "グランドメルキュール沖縄残波岬リゾート",
+      "region": "沖縄県中頭郡読谷村字儀間",
+      "category": "オールインクルーシブ",
+      "is_hidden_gem": false,
+      "review_scores": [
+        { "source": "楽天トラベル", "score": 4.24, "scale": 5, "review_count": 1745, "checked_date": "2026-10-18", "url": "https://travel.rakuten.co.jp/HOTEL/30045/30045.html" },
+        { "source": "Relux", "score": 4.0, "scale": 5, "review_count": 24, "checked_date": "2026-10-18", "url": "https://rlx.jp/22180/review/" }
+      ],
+      "price_range_jpy": {
+        "note": "複数のプレスリリース記事（配信時期は様々）で『1泊オールインクルーシブ29,500円〜（2名1室1名あたり、税・サービス料込み）』という料金を確認。一部ドリンク・アクティビティは別料金、ランチは提供されない。古い配信記事も含まれるため、現在の正確な料金・条件は公式サイトでの確認が必要。",
+        "as_of_search_date": "2026-10-18",
+        "disclaimer": "価格は検索日・対象日・プランにより変動する"
+      },
+      "unique_experience": "沖縄本島中部・残波岬に立つ、沖縄県内最大級とされるプールエリア（うまんちゅプール／わらばープール／ゆくるプール／てぃんがーらプールの4種、ウォータースライダー3基、流水プール、18歳以上専用プールを含む）を備えた、公式に『オールインクルーシブ』を名乗るリゾートホテル。宿泊料金に朝夕のビュッフェ、夕食時のアルコール（生ビール・泡盛の飲み放題を含む）、ラウンジ、展望大浴場、一部マリンアクティビティが含まれる。2024年4月にリブランドオープンし、客室を含む館内が新しい。近隣のホテル日航アリビラとの施設相互利用サービスも提供している。",
+      "renewal_or_news": "2024年4月にグランドメルキュールブランドとしてリブランドオープン。2026年7月発表の『じゃらんアワード2025沖縄ブロック』で『じゃらん OF THE YEAR 売れた宿大賞（301室以上）』1位を受賞。2026年11月5日から2027年3月末まで敷地内イルミネーションイベントを開催予定。",
+      "target_audience": ["家族", "カップル", "友人", "女子旅"],
+      "score_breakdown": {
+        "review_rating": 21,
+        "review_reliability": 13,
+        "unique_experience_score": 17,
+        "photogenic": 12,
+        "value_for_price": 7,
+        "sns_buzz": 7,
+        "access_and_freshness": 5
+      },
+      "score": 82,
+      "recommendation_reason": "楽天トラベル4.24（1,745件）・Relux4.0（24件）という規模の異なる2つの独立した情報源でいずれも採用ライン（4.0以上）を満たしており、件数の多い楽天トラベルでは推奨ライン（4.2以上）も満たす。沖縄県内最大級とされる4種類のプール・3基のウォータースライダーを備え、食事・アルコール・ラウンジ・大浴場・一部アクティビティが料金に含まれる、全館共通で公式に『オールインクルーシブ』を名乗るプランを提供している点が、既出のAQUASENSE（プールスイート4室限定）やクラブメッド各施設とは異なる独自の訴求軸になる。2024年4月のリブランドで館内が新しく、2026年7月にじゃらんアワード受賞という話題性・情報鮮度もある。",
+      "negative_review_check": {
+        "checked": true,
+        "findings": "Reluxの項目別評価では風呂3.8・夕食3.7が他項目（接客4.2）よりやや低め。楽天トラベルの最近（2026年6月）の口コミでは、接客は良いが部屋の清掃（枕元の板の埃）を指摘する声があった。4travel.jpの過去の口コミ（2010年代）では建物の古さ・朝食の味・コインランドリーの乾燥機の弱さ・周辺に店が少ない点への指摘があったが、2024年4月のリブランド後の内容ではなく参考情報とした。いずれも清潔感・接客・安全性に関わる重大な指摘が複数の独立情報源で一致して確認されたわけではない。",
+        "disqualifying_issues_found": false
+      },
+      "sources": [
+        { "type": "official", "title": "Grand Mercure Okinawa Zanpa Cape Resort 公式サイト プランページ", "url": "https://grand-mercure-okinawacapezanpa-resort.jp/en/plan/1108" },
+        { "type": "booking_site", "title": "グランドメルキュール沖縄残波岬リゾート - 楽天トラベル", "url": "https://travel.rakuten.co.jp/HOTEL/30045/30045.html" },
+        { "type": "review_site", "title": "グランドメルキュール沖縄残波岬リゾート クチコミ(24件) - Relux", "url": "https://rlx.jp/22180/review/" },
+        { "type": "press", "title": "じゃらんアワード2025沖縄ブロック『売れた宿大賞(301室以上)』1位受賞 - 琉球新報PR TIMES配信", "url": "https://ryukyushimpo.jp/prtimes/entry-5401710.html" },
+        { "type": "review_site", "title": "グランドメルキュール沖縄残波岬リゾート クチコミ - フォートラベル", "url": "https://4travel.jp/dm_hotel_tips/11091790" }
+      ],
+      "decision": "selected"
+    }
+  ]
+}
